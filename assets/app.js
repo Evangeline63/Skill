@@ -39,10 +39,13 @@ function timeAgo(isoStr) {
   return `${Math.floor(diff / 86400)}d ago`;
 }
 
-async function fetchJSON(url) {
-  const resp = await fetch(url);
-  if (!resp.ok) throw new Error(`Failed to load ${url}`);
-  return resp.json();
+async function fetchJSON(key, url) {
+  try {
+    const resp = await fetch(url);
+    if (resp.ok) return resp.json();
+  } catch (_) { /* fall through to bundle */ }
+  if (window.__DATA__ && window.__DATA__[key]) return window.__DATA__[key];
+  throw new Error(`No data for ${key}`);
 }
 
 /* ── Signal accordion ── */
@@ -324,13 +327,13 @@ function updateTimestamp(data) {
 async function init() {
   try {
     const [signals, trends, githubTrending, products, funding, community, daily] = await Promise.all([
-      fetchJSON(DATA_FILES.signals),
-      fetchJSON(DATA_FILES.trends),
-      fetchJSON(DATA_FILES.github_trending),
-      fetchJSON(DATA_FILES.products),
-      fetchJSON(DATA_FILES.funding),
-      fetchJSON(DATA_FILES.community),
-      fetchJSON(DATA_FILES.daily),
+      fetchJSON('signals',         DATA_FILES.signals),
+      fetchJSON('trends',          DATA_FILES.trends),
+      fetchJSON('github_trending', DATA_FILES.github_trending),
+      fetchJSON('products',        DATA_FILES.products),
+      fetchJSON('funding',         DATA_FILES.funding),
+      fetchJSON('community',       DATA_FILES.community),
+      fetchJSON('daily',           DATA_FILES.daily),
     ]);
 
     renderSignals(signals);
