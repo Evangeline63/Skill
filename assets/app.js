@@ -43,35 +43,69 @@ async function fetchJSON(url) {
 }
 
 /* ── Renderers ── */
+let _signalsData = null;
+let _activeFilter = 'all';
+
+function buildSignalItem(s, i) {
+  const typeClass = `tag-${s.type}`;
+  const rankClass = s.hot ? 'signal-rank hot' : 'signal-rank';
+  const rankIcon = s.hot ? '🔥' : String(i + 1).padStart(2, '0');
+  return `
+    <a class="signal-item" href="${s.url}" target="_blank" rel="noopener">
+      <span class="${rankClass}">${rankIcon}</span>
+      <div class="signal-content">
+        <div class="signal-title">${s.title}</div>
+        <div class="signal-judgment">${s.judgment}</div>
+        <div class="signal-meta">
+          <span class="tag tag-source">${s.source}</span>
+          <span class="tag ${typeClass}">${s.type_label}</span>
+          ${s.hot ? '<span class="hot-badge">HOT</span>' : ''}
+        </div>
+      </div>
+      <div class="signal-right">
+        <span class="signal-time">${timeAgo(s.timestamp)}</span>
+      </div>
+    </a>`;
+}
+
+function applySignalFilter(filter) {
+  _activeFilter = filter;
+  if (!_signalsData) return;
+  const container = document.getElementById('signals-list');
+  const countEl = document.getElementById('signals-count');
+  const filtered = filter === 'all'
+    ? _signalsData.signals
+    : _signalsData.signals.filter(s => s.type === filter);
+  countEl && (countEl.textContent = filtered.length);
+  container.innerHTML = filtered.map((s, i) => buildSignalItem(s, i)).join('');
+
+  document.querySelectorAll('.filter-btn').forEach(btn => {
+    btn.classList.toggle('filter-btn-active', btn.dataset.filter === filter);
+  });
+}
+
 function renderSignals(data) {
+  _signalsData = data;
   const container = document.getElementById('signals-list');
   const countEl = document.getElementById('signals-count');
   if (!container) return;
 
   countEl && (countEl.textContent = data.signals.length);
 
-  container.innerHTML = data.signals.map((s, i) => {
-    const typeClass = `tag-${s.type}`;
-    const rankClass = s.hot ? 'signal-rank hot' : 'signal-rank';
-    const rankIcon = s.hot ? '🔥' : String(i + 1).padStart(2, '0');
+  const types = [...new Set(data.signals.map(s => s.type))];
+  const filterBar = document.getElementById('signals-filter-bar');
+  if (filterBar) {
+    filterBar.innerHTML = `
+      <button class="filter-btn filter-btn-active" data-filter="all">全部</button>
+      ${types.map(t => `<button class="filter-btn" data-filter="${t}">${TYPE_MAP[t] || t}</button>`).join('')}
+    `;
+    filterBar.addEventListener('click', e => {
+      const btn = e.target.closest('.filter-btn');
+      if (btn) applySignalFilter(btn.dataset.filter);
+    });
+  }
 
-    return `
-      <a class="signal-item" href="${s.url}" target="_blank" rel="noopener">
-        <span class="${rankClass}">${rankIcon}</span>
-        <div class="signal-content">
-          <div class="signal-title">${s.title}</div>
-          <div class="signal-judgment">${s.judgment}</div>
-          <div class="signal-meta">
-            <span class="tag tag-source">${s.source}</span>
-            <span class="tag ${typeClass}">${s.type_label}</span>
-            ${s.hot ? '<span class="hot-badge">HOT</span>' : ''}
-          </div>
-        </div>
-        <div class="signal-right">
-          <span class="signal-time">${timeAgo(s.timestamp)}</span>
-        </div>
-      </a>`;
-  }).join('');
+  container.innerHTML = data.signals.map((s, i) => buildSignalItem(s, i)).join('');
 }
 
 function renderTrends(data) {
@@ -82,6 +116,7 @@ function renderTrends(data) {
     const arrowMap = { up: '↑', down: '↓', stable: '→' };
     const arrow = arrowMap[t.trend] || '→';
     const arrowCls = t.trend;
+    const scoreColor = t.trend_score >= 85 ? 'var(--color-up)' : t.trend_score >= 65 ? 'var(--color-stable)' : 'var(--text-muted)';
 
     return `
       <div class="trend-card">
@@ -94,6 +129,9 @@ function renderTrends(data) {
             <span class="trend-arrow ${arrowCls}">${arrow}</span>
             <span class="trend-score">${t.trend_score}</span>
           </div>
+        </div>
+        <div class="trend-score-bar-wrap">
+          <div class="trend-score-bar" style="width:${t.trend_score}%;background:${scoreColor}"></div>
         </div>
         <div class="trend-summary">${t.summary}</div>
         <div class="trend-breakthrough">⚡ ${t.breakthrough}</div>
