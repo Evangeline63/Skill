@@ -8,17 +8,17 @@
       "insight": "Cursor、Perplexity、Claude是最高频提及，ChatGPT提及率下降",
       "sentiment": "neutral",
       "comments": 432,
-      "url": "#"
+      "url": "https://news.ycombinator.com/ask"
     },
     {
       "id": 2,
       "source": "Reddit",
       "subreddit": "r/MachineLearning",
       "title": "Gemini 2.5 Pro beats GPT-4o on coding tasks in blind test — community shocked",
-      "insight": "社区情绪从'Google追赶'转向'Google已超越'，认知拐点出现",
+      "insight": "社区情绪从「Google追赶」转向「Google已超越」，认知拐点出现",
       "sentiment": "positive",
       "comments": 1204,
-      "url": "#"
+      "url": "https://www.reddit.com/r/MachineLearning/"
     },
     {
       "id": 3,
@@ -27,7 +27,7 @@
       "insight": "Perplexity+Claude+Notebook LM三件套成为知识工作者新标配",
       "sentiment": "positive",
       "comments": 847,
-      "url": "#"
+      "url": "https://x.com/search?q=AI+research+workflow"
     },
     {
       "id": 4,
@@ -36,7 +36,7 @@
       "insight": "隐私需求驱动的本地AI爆发，企业防火墙内部署需求被严重低估",
       "sentiment": "positive",
       "comments": 612,
-      "url": "#"
+      "url": "https://news.ycombinator.com/show"
     },
     {
       "id": 5,
@@ -46,7 +46,7 @@
       "insight": "社区对AGI时间线预测大幅提前，悲观/乐观分化加剧",
       "sentiment": "mixed",
       "comments": 2341,
-      "url": "#"
+      "url": "https://www.reddit.com/r/singularity/"
     },
     {
       "id": 6,
@@ -55,7 +55,7 @@
       "insight": "高级工程师对AI代码质量的担忧上升，可靠性是下一个竞争维度",
       "sentiment": "negative",
       "comments": 523,
-      "url": "#"
+      "url": "https://x.com/search?q=AI+coding+bugs"
     }
   ]
 }

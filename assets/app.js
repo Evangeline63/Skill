@@ -215,7 +215,7 @@ function renderCommunity(data) {
     }[s.sentiment] || '·';
 
     return `
-      <div class="community-item">
+      <a class="community-item" href="${s.url || '#'}" target="_blank" rel="noopener">
         <div class="community-source-icon ${iconMap.cls}">${iconMap.text}</div>
         <div class="community-content">
           <div class="community-title">${s.title}</div>
@@ -226,7 +226,7 @@ function renderCommunity(data) {
             ${s.subreddit ? `<span class="tag tag-source">${s.subreddit}</span>` : ''}
           </div>
         </div>
-      </div>`;
+      </a>`;
   }).join('');
 }
 

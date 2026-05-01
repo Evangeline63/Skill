@@ -8,7 +8,7 @@
       "language": "Python",
       "stars": 18420,
       "stars_today": 3240,
-      "url": "https://github.com/trending"
+      "url": "https://github.com/microsoft/phi-4-mini"
     },
     {
       "rank": 2,
@@ -17,7 +17,7 @@
       "language": "Python",
       "stars": 12800,
       "stars_today": 1870,
-      "url": "https://github.com/trending"
+      "url": "https://github.com/langchain-ai/langgraph"
     },
     {
       "rank": 3,
@@ -26,7 +26,7 @@
       "language": "C++",
       "stars": 67300,
       "stars_today": 1540,
-      "url": "https://github.com/trending"
+      "url": "https://github.com/ggerganov/llama.cpp"
     },
     {
       "rank": 4,
@@ -35,7 +35,7 @@
       "language": "Python",
       "stars": 21900,
       "stars_today": 1220,
-      "url": "https://github.com/trending"
+      "url": "https://github.com/openai/swarm"
     },
     {
       "rank": 5,
@@ -44,7 +44,7 @@
       "language": "Python",
       "stars": 168000,
       "stars_today": 980,
-      "url": "https://github.com/trending"
+      "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
       "rank": 6,
@@ -53,7 +53,7 @@
       "language": "Python",
       "stars": 9450,
       "stars_today": 870,
-      "url": "https://github.com/trending"
+      "url": "https://github.com/bytedance/UI-TARS"
     }
   ]
 }

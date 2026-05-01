@@ -350,7 +350,7 @@ body {
 }
 
 .signal-detail.open {
-  max-height: 320px;
+  max-height: 400px;
 }
 
 .signal-detail-inner {
@@ -995,6 +995,8 @@ body {
   cursor: pointer;
   transition: background 0.15s;
   align-items: start;
+  text-decoration: none;
+  color: inherit;
 }
 
 .community-item:hover {
