@@ -10,7 +10,8 @@
       "lead_investor": "Andreessen Horowitz",
       "sector": "Coding AI",
       "signal": "估值18个月涨10倍，IDE层赢家格局初定",
-      "date": "2026-05-01"
+      "date": "2026-05-01",
+      "url": "https://techcrunch.com/tag/artificial-intelligence/"
     },
     {
       "id": 2,
@@ -21,7 +22,8 @@
       "lead_investor": "Founders Fund",
       "sector": "AI Agent",
       "signal": "软件工程Agent赛道估值体系重建，竞争格局将快速集中",
-      "date": "2026-04-28"
+      "date": "2026-04-28",
+      "url": "https://techcrunch.com/tag/artificial-intelligence/"
     },
     {
       "id": 3,
@@ -32,7 +34,8 @@
       "lead_investor": "IVP",
       "sector": "Search AI",
       "signal": "DAU增长3x验证留存，广告模式测试启动",
-      "date": "2026-04-25"
+      "date": "2026-04-25",
+      "url": "https://techcrunch.com/tag/artificial-intelligence/"
     },
     {
       "id": 4,
@@ -43,7 +46,8 @@
       "lead_investor": "Sequoia",
       "sector": "Enterprise AI Search",
       "signal": "企业知识管理AI从POC进入大规模部署阶段",
-      "date": "2026-04-22"
+      "date": "2026-04-22",
+      "url": "https://techcrunch.com/tag/artificial-intelligence/"
     },
     {
       "id": 5,
@@ -54,24 +58,28 @@
       "lead_investor": "GGV Capital",
       "sector": "Video Generation",
       "signal": "中国视频生成出海竞争力验证，国际化变现路径明确",
-      "date": "2026-04-20"
+      "date": "2026-04-20",
+      "url": "https://techcrunch.com/tag/artificial-intelligence/"
     }
   ],
   "hiring_signals": [
     {
       "company": "Anthropic",
       "signal": "大量招募Applied AI Engineer，薪资上调20%",
-      "implication": "API产品商业化加速，企业服务团队扩张"
+      "implication": "API产品商业化加速，企业服务团队扩张",
+      "url": "https://www.anthropic.com/careers"
     },
     {
       "company": "OpenAI",
       "signal": "新开Singapore + London办公室，各招50+人",
-      "implication": "国际化战略加速，非美国市场收入占比提升"
+      "implication": "国际化战略加速，非美国市场收入占比提升",
+      "url": "https://openai.com/careers"
     },
     {
       "company": "Scale AI",
       "signal": "暂停新增标注员招募，转而招募AI审核专家",
-      "implication": "数据标注业务模式转型，人工标注被AI辅助标注替代"
+      "implication": "数据标注业务模式转型，人工标注被AI辅助标注替代",
+      "url": "https://scale.com/careers"
     }
   ]
 }

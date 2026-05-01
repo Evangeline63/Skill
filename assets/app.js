@@ -5,6 +5,7 @@
 const DATA_FILES = {
   signals: './data/signals.json',
   trends: './data/trends.json',
+  github_trending: './data/github_trending.json',
   products: './data/products.json',
   funding: './data/funding.json',
   community: './data/community.json',
@@ -124,8 +125,9 @@ function renderProducts(data) {
     if (p.replicable) tags.push(`<span class="tag tag-replicable">可复制</span>`);
     if (!p.replicable && !p.investable) tags.push(`<span class="tag tag-watch">观察中</span>`);
 
+    const href = p.url || '#';
     return `
-      <div class="product-card">
+      <a class="product-card" href="${href}" target="_blank" rel="noopener">
         <div class="product-header">
           <div class="product-name">${p.name}</div>
           <span class="product-source-badge">${p.source}</span>
@@ -136,7 +138,7 @@ function renderProducts(data) {
           <div class="product-tags">${tags.join('')}</div>
           ${metric ? `<div class="product-metric">${metric}</div>` : ''}
         </div>
-      </div>`;
+      </a>`;
   }).join('');
 }
 
@@ -146,7 +148,7 @@ function renderFunding(data) {
   if (!container) return;
 
   container.innerHTML = data.funding_rounds.map(f => `
-    <div class="funding-item">
+    <a class="funding-item" href="${f.url || '#'}" target="_blank" rel="noopener">
       <div class="funding-amount-block">
         <div class="funding-amount">${f.amount}</div>
         <div class="funding-round-tag">${f.round}</div>
@@ -156,16 +158,16 @@ function renderFunding(data) {
         <div class="funding-signal">${f.signal}</div>
       </div>
       <div class="funding-sector">${f.sector}</div>
-    </div>`).join('');
+    </a>`).join('');
 
   if (hiringContainer && data.hiring_signals) {
     hiringContainer.innerHTML = `
       <div class="hiring-header">招聘信号</div>
       ${data.hiring_signals.map(h => `
-        <div class="hiring-item">
+        <a class="hiring-item" href="${h.url || '#'}" target="_blank" rel="noopener">
           <div class="hiring-company">${h.company}</div>
           <div class="hiring-signal">${h.signal}</div>
-        </div>`).join('')}`;
+        </a>`).join('')}`;
   }
 }
 
@@ -192,6 +194,35 @@ function renderCommunity(data) {
           </div>
         </div>
       </div>`;
+  }).join('');
+}
+
+function renderGithubTrending(data) {
+  const container = document.getElementById('gh-trending-list');
+  if (!container) return;
+
+  const LANG_COLORS = {
+    Python: '#3572A5', 'C++': '#f34b7d', JavaScript: '#f1e05a',
+    TypeScript: '#3178c6', Rust: '#dea584', Go: '#00ADD8',
+    Java: '#b07219', 'C#': '#178600', Shell: '#89e051',
+  };
+
+  container.innerHTML = data.repos.map(r => {
+    const langColor = LANG_COLORS[r.language] || '#8b90a8';
+    const [owner, repo] = r.name.split('/');
+    return `
+      <a class="gh-repo-item" href="${r.url}" target="_blank" rel="noopener">
+        <span class="gh-repo-rank">${String(r.rank).padStart(2, '0')}</span>
+        <div class="gh-repo-info">
+          <div class="gh-repo-name"><span class="gh-repo-owner">${owner}/</span>${repo}</div>
+          <div class="gh-repo-desc">${r.description}</div>
+        </div>
+        <div class="gh-repo-stats">
+          ${r.language ? `<span class="gh-lang"><span class="gh-lang-dot" style="background:${langColor}"></span>${r.language}</span>` : ''}
+          <span class="gh-stars">⭐ ${r.stars.toLocaleString()}</span>
+          <span class="gh-stars-today gh-up">+${r.stars_today.toLocaleString()} today</span>
+        </div>
+      </a>`;
   }).join('');
 }
 
@@ -259,9 +290,10 @@ function updateTimestamp(data) {
 /* ── Bootstrap ── */
 async function init() {
   try {
-    const [signals, trends, products, funding, community, daily] = await Promise.all([
+    const [signals, trends, githubTrending, products, funding, community, daily] = await Promise.all([
       fetchJSON(DATA_FILES.signals),
       fetchJSON(DATA_FILES.trends),
+      fetchJSON(DATA_FILES.github_trending),
       fetchJSON(DATA_FILES.products),
       fetchJSON(DATA_FILES.funding),
       fetchJSON(DATA_FILES.community),
@@ -270,6 +302,7 @@ async function init() {
 
     renderSignals(signals);
     renderTrends(trends);
+    renderGithubTrending(githubTrending);
     renderProducts(products);
     renderFunding(funding);
     renderCommunity(community);

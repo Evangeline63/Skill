@@ -11,7 +11,8 @@
       "investable": true,
       "tags": ["可投资", "技术壁垒高"],
       "stars": null,
-      "ph_votes": 847
+      "ph_votes": 847,
+      "url": "https://www.producthunt.com"
     },
     {
       "id": 2,
@@ -23,7 +24,8 @@
       "investable": true,
       "tags": ["可复制", "可投资"],
       "stars": null,
-      "ph_votes": 623
+      "ph_votes": 623,
+      "url": "https://www.producthunt.com"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "investable": false,
       "tags": ["可复制", "观察中"],
       "stars": 3241,
-      "ph_votes": null
+      "ph_votes": null,
+      "url": "https://github.com/trending"
     },
     {
       "id": 4,
@@ -47,7 +50,8 @@
       "investable": true,
       "tags": ["可复制", "可投资"],
       "stars": null,
-      "ph_votes": 512
+      "ph_votes": 512,
+      "url": "https://www.producthunt.com"
     },
     {
       "id": 5,
@@ -59,7 +63,8 @@
       "investable": true,
       "tags": ["可投资", "B端刚需"],
       "stars": 1876,
-      "ph_votes": null
+      "ph_votes": null,
+      "url": "https://github.com/trending"
     },
     {
       "id": 6,
@@ -71,7 +76,8 @@
       "investable": true,
       "tags": ["可投资", "技术壁垒高"],
       "stars": null,
-      "ph_votes": 389
+      "ph_votes": 389,
+      "url": "https://www.producthunt.com"
     }
   ]
 }

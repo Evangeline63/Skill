@@ -491,6 +491,140 @@ body {
   border-radius: 10px;
 }
 
+/* ── GitHub Trending ── */
+.gh-trending-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 20px;
+  margin-bottom: 8px;
+  padding-top: 16px;
+  border-top: 1px solid var(--border);
+}
+
+.gh-trending-label {
+  font-size: 11px;
+  font-weight: 700;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.gh-trending-link {
+  font-size: 11px;
+  color: var(--text-accent);
+  text-decoration: none;
+  font-family: var(--font-mono);
+}
+
+.gh-trending-link:hover {
+  text-decoration: underline;
+}
+
+.gh-trending-list {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.gh-repo-item {
+  display: grid;
+  grid-template-columns: 28px 1fr auto;
+  gap: 12px;
+  padding: 10px 12px;
+  border-radius: var(--radius-md);
+  cursor: pointer;
+  transition: background 0.15s;
+  align-items: center;
+  text-decoration: none;
+  color: inherit;
+}
+
+.gh-repo-item:hover {
+  background: var(--bg-card-hover);
+}
+
+.gh-repo-rank {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  color: var(--text-muted);
+  font-weight: 600;
+  text-align: center;
+}
+
+.gh-repo-info {
+  min-width: 0;
+}
+
+.gh-repo-name {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--text-primary);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.gh-repo-owner {
+  color: var(--text-muted);
+  font-weight: 400;
+}
+
+.gh-repo-desc {
+  font-size: 11px;
+  color: var(--text-secondary);
+  margin-top: 2px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.gh-repo-stats {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-shrink: 0;
+}
+
+.gh-lang {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 11px;
+  color: var(--text-secondary);
+  font-family: var(--font-mono);
+  white-space: nowrap;
+}
+
+.gh-lang-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+
+.gh-stars {
+  font-size: 11px;
+  color: var(--text-muted);
+  font-family: var(--font-mono);
+  white-space: nowrap;
+}
+
+.gh-stars-today {
+  font-size: 11px;
+  font-family: var(--font-mono);
+  white-space: nowrap;
+}
+
+.gh-up {
+  color: var(--color-up);
+}
+
+@media (max-width: 768px) {
+  .gh-repo-stats { display: none; }
+  .gh-repo-item { grid-template-columns: 28px 1fr; }
+}
+
 /* ── Products Grid ── */
 .products-grid {
   display: grid;
@@ -516,6 +650,8 @@ body {
   gap: 8px;
   transition: all 0.15s ease;
   cursor: pointer;
+  text-decoration: none;
+  color: inherit;
 }
 
 .product-card:hover {
@@ -627,6 +763,8 @@ body {
   border-radius: var(--radius-md);
   transition: background 0.15s;
   cursor: pointer;
+  text-decoration: none;
+  color: inherit;
 }
 
 .funding-item:hover {
@@ -707,6 +845,13 @@ body {
   padding: 8px;
   background: var(--bg-highlight);
   border-radius: var(--radius-sm);
+  text-decoration: none;
+  color: inherit;
+  transition: background 0.15s;
+}
+
+.hiring-item:hover {
+  background: var(--bg-card-hover);
 }
 
 .hiring-company {
@@ -1002,7 +1147,8 @@ body {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  flex-wrap: gap;
+  flex-wrap: wrap;
+  gap: 8px;
 }
 
 .footer-left {
