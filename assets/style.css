@@ -299,6 +299,13 @@ body {
 }
 
 
+.signal-judgment {
+  font-size: 11px;
+  color: var(--text-muted);
+  line-height: 1.4;
+  margin-top: 2px;
+}
+
 .signal-meta {
   display: flex;
   align-items: center;
@@ -343,7 +350,7 @@ body {
 }
 
 .signal-detail.open {
-  max-height: 200px;
+  max-height: 320px;
 }
 
 .signal-detail-inner {
