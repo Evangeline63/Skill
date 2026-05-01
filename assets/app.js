@@ -21,9 +21,11 @@ const TYPE_MAP = {
 };
 
 const SOURCE_ICONS = {
-  HackerNews: { text: 'HN', cls: 'source-hn' },
-  Reddit: { text: 'R', cls: 'source-reddit' },
-  X: { text: 'X', cls: 'source-x' },
+  HackerNews:  { text: 'HN', cls: 'source-hn' },
+  Reddit:      { text: 'R',  cls: 'source-reddit' },
+  X:           { text: 'X',  cls: 'source-x' },
+  GitHub:      { text: 'GH', cls: 'source-gh' },
+  ProductHunt: { text: 'PH', cls: 'source-ph' },
 };
 
 /* ── Utilities ── */
@@ -43,6 +45,16 @@ async function fetchJSON(url) {
   return resp.json();
 }
 
+/* ── Signal accordion ── */
+function toggleSignal(el) {
+  const id = el.dataset.id;
+  const detail = document.getElementById(`sd-${id}`);
+  if (!detail) return;
+  const isOpen = detail.classList.toggle('open');
+  el.classList.toggle('active', isOpen);
+  el.querySelector('.signal-expand-icon').classList.toggle('rotated', isOpen);
+}
+
 /* ── Renderers ── */
 function renderSignals(data) {
   const container = document.getElementById('signals-list');
@@ -55,13 +67,13 @@ function renderSignals(data) {
     const typeClass = `tag-${s.type}`;
     const rankClass = s.hot ? 'signal-rank hot' : 'signal-rank';
     const rankIcon = s.hot ? '🔥' : String(i + 1).padStart(2, '0');
+    const srcIcon = SOURCE_ICONS[s.source] || { text: s.source[0], cls: 'source-x' };
 
     return `
-      <a class="signal-item" href="${s.url}" target="_blank" rel="noopener">
+      <div class="signal-item" data-id="${s.id}" onclick="toggleSignal(this)">
         <span class="${rankClass}">${rankIcon}</span>
         <div class="signal-content">
           <div class="signal-title">${s.title}</div>
-          <div class="signal-judgment">${s.judgment}</div>
           <div class="signal-meta">
             <span class="tag tag-source">${s.source}</span>
             <span class="tag ${typeClass}">${s.type_label}</span>
@@ -70,8 +82,28 @@ function renderSignals(data) {
         </div>
         <div class="signal-right">
           <span class="signal-time">${timeAgo(s.timestamp)}</span>
+          <span class="signal-expand-icon">›</span>
         </div>
-      </a>`;
+      </div>
+      <div class="signal-detail" id="sd-${s.id}">
+        <div class="signal-detail-inner">
+          <div class="signal-detail-source">
+            <div class="community-source-icon ${srcIcon.cls}">${srcIcon.text}</div>
+            <div class="signal-detail-source-meta">
+              <div class="signal-detail-source-name">${s.source}</div>
+              <div class="signal-detail-handle">${s.source_handle || ''}</div>
+            </div>
+          </div>
+          <div class="signal-detail-divider"></div>
+          <div class="signal-detail-section">
+            <div class="signal-detail-label">信号分析</div>
+            <div class="signal-detail-text">${s.judgment}</div>
+          </div>
+          <a class="signal-detail-link" href="${s.url}" target="_blank" rel="noopener">
+            查看原文来源 →
+          </a>
+        </div>
+      </div>`;
   }).join('');
 }
 
