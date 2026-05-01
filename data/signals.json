@@ -1,0 +1,125 @@
+{
+  "updated": "2026-05-01T08:00:00Z",
+  "signals": [
+    {
+      "id": 1,
+      "title": "Anthropic releases Claude 4 Opus with 2M token context window",
+      "source": "X",
+      "source_handle": "@AnthropicAI",
+      "type": "model_update",
+      "type_label": "模型更新",
+      "judgment": "上下文长度跃升，长文档理解与多步推理能力拉开与竞品差距，企业级采购加速",
+      "url": "#",
+      "timestamp": "2026-05-01T06:23:00Z",
+      "hot": true
+    },
+    {
+      "id": 2,
+      "title": "Cursor raises $900M Series C at $9B valuation — AI coding editor war escalates",
+      "source": "X",
+      "source_handle": "@cursor_ai",
+      "type": "funding",
+      "type_label": "融资",
+      "judgment": "估值18个月涨10倍，AI编程赛道资金密度超预期，IDE层竞争格局将重构",
+      "url": "#",
+      "timestamp": "2026-05-01T05:10:00Z",
+      "hot": true
+    },
+    {
+      "id": 3,
+      "title": "OpenAI's o3-mini now available via API with 40% cost reduction",
+      "source": "GitHub",
+      "source_handle": "openai/openai-python",
+      "type": "product_launch",
+      "type_label": "产品发布",
+      "judgment": "推理模型价格战开启，小模型落地场景扩张，API调用量将爆发式增长",
+      "url": "#",
+      "timestamp": "2026-05-01T04:45:00Z",
+      "hot": false
+    },
+    {
+      "id": 4,
+      "title": "Perplexity Daily Active Users hit 15M — 3x growth in 6 months",
+      "source": "Reddit",
+      "source_handle": "r/artificial",
+      "type": "growth_data",
+      "type_label": "增长/数据",
+      "judgment": "AI搜索已跑通消费者留存，Google防御性压力超市场预期",
+      "url": "#",
+      "timestamp": "2026-05-01T03:30:00Z",
+      "hot": true
+    },
+    {
+      "id": 5,
+      "title": "Mistral releases Mistral-3B: SOTA small model, runs on iPhone 15",
+      "source": "GitHub",
+      "source_handle": "mistralai/mistral-inference",
+      "type": "open_source",
+      "type_label": "开源项目",
+      "judgment": "端侧AI临界点将至，设备厂商嵌入窗口期打开，移动端AI应用爆发前夜",
+      "url": "#",
+      "timestamp": "2026-05-01T02:15:00Z",
+      "hot": false
+    },
+    {
+      "id": 6,
+      "title": "Devin 2.0 launches with autonomous PR merge capability in production repos",
+      "source": "ProductHunt",
+      "source_handle": "Cognition AI",
+      "type": "product_launch",
+      "type_label": "产品发布",
+      "judgment": "AI软件工程师从代码生成进化到完整工程交付，Junior Dev岗位替代加速",
+      "url": "#",
+      "timestamp": "2026-05-01T01:00:00Z",
+      "hot": true
+    },
+    {
+      "id": 7,
+      "title": "Google announces 2B Gemini active users across all surfaces",
+      "source": "X",
+      "source_handle": "@Google",
+      "type": "growth_data",
+      "type_label": "增长/数据",
+      "judgment": "分发规模优势显现，但深度使用率是关键变量，注意区分触达与留存",
+      "url": "#",
+      "timestamp": "2026-04-30T22:00:00Z",
+      "hot": false
+    },
+    {
+      "id": 8,
+      "title": "HackerNews: 'We replaced our QA team with AI agents — 6 months later'",
+      "source": "HackerNews",
+      "source_handle": "ask.hn",
+      "type": "growth_data",
+      "type_label": "增长/数据",
+      "judgment": "企业落地案例从概念验证进入批量复制阶段，QA/测试是最快渗透的工程岗位",
+      "url": "#",
+      "timestamp": "2026-04-30T20:30:00Z",
+      "hot": false
+    },
+    {
+      "id": 9,
+      "title": "ElevenLabs launches real-time voice cloning API with <100ms latency",
+      "source": "ProductHunt",
+      "source_handle": "ElevenLabs",
+      "type": "product_launch",
+      "type_label": "产品发布",
+      "judgment": "语音AI基础设施成熟，下游应用（客服/教育/娱乐）进入快速构建期",
+      "url": "#",
+      "timestamp": "2026-04-30T19:00:00Z",
+      "hot": false
+    },
+    {
+      "id": 10,
+      "title": "LangGraph 0.4 ships with persistent memory and multi-agent orchestration",
+      "source": "GitHub",
+      "source_handle": "langchain-ai/langgraph",
+      "type": "open_source",
+      "type_label": "开源项目",
+      "judgment": "Agent框架基础设施进入稳定期，应用层创业门槛降低，上层产品竞争加剧",
+      "url": "#",
+      "timestamp": "2026-04-30T17:45:00Z",
+      "hot": false
+    }
+  ]
+}
