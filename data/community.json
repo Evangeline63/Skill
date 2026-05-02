@@ -1,49 +1,49 @@
 {
-  "updated": "2026-05-02T11:33:24Z",
+  "updated": "2026-05-02T14:38:37Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Show HN: DAC – open-source dashboard as code tool for agents and humans",
-      "insight": "HN 热议：25 分 · 2 评论",
+      "title": "Open Design: Use Your Coding Agent as a Design Engine",
+      "insight": "HN 热议：63 分 · 28 评论",
       "sentiment": "neutral",
-      "comments": 2,
-      "url": "https://github.com/bruin-data/dac",
+      "comments": 28,
+      "url": "https://github.com/nexu-io/open-design",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Mljar Studio – local AI data analyst that saves analysis as notebooks",
-      "insight": "HN 热议：17 分 · 1 评论",
+      "title": "Mini PC for local LLMs in 2026",
+      "insight": "HN 热议：11 分 · 4 评论",
       "sentiment": "neutral",
-      "comments": 1,
-      "url": "https://mljar.com/",
+      "comments": 4,
+      "url": "https://terminalbytes.com/best-mini-pc-for-local-llm-2026/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Filling PDF forms with AI using client-side tool calling",
-      "insight": "HN 热议：14 分 · 6 评论",
+      "title": "Show HN: DAC – open-source dashboard as code tool for agents and humans",
+      "insight": "HN 热议：56 分 · 13 评论",
       "sentiment": "neutral",
-      "comments": 6,
-      "url": "https://copilot.simplepdf.com/?share=a7d00ad073c75a75d493228e6ff7b11eb3f2d945b6175913e87898ec96ca8076&form=w9&lang=en",
+      "comments": 13,
+      "url": "https://github.com/bruin-data/dac",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Eka’s robotic claw feels like we're approaching a ChatGPT moment",
-      "insight": "HN 热议：149 分 · 207 评论",
+      "title": "Show HN: Mljar Studio – local AI data analyst that saves analysis as notebooks",
+      "insight": "HN 热议：34 分 · 6 评论",
       "sentiment": "neutral",
-      "comments": 207,
-      "url": "https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/",
+      "comments": 6,
+      "url": "https://mljar.com/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Direct electrochemical black coffee quality appraisal using cyclic voltammetry",
-      "insight": "HN 热议：55 分 · 28 评论",
+      "title": "Craig Venter of Human Genome Project Dies at 79",
+      "insight": "HN 热议：12 分 · 2 评论",
       "sentiment": "neutral",
-      "comments": 28,
-      "url": "https://www.nature.com/articles/s41467-026-71526-5",
+      "comments": 2,
+      "url": "https://www.economist.com/obituary/2026/05/01/craig-venter-raced-to-decode-the-human-genome",
       "id": 5
     }
   ]

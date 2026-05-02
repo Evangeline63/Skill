@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-02T11:33:24Z",
+    "updated": "2026-05-02T14:38:37Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-02T11:33:24Z",
+    "updated": "2026-05-02T14:38:37Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-02T11:33:24Z",
+    "updated": "2026-05-02T14:38:37Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 183946,
-            "stars_today": 183946,
+            "stars": 183940,
+            "stars_today": 183940,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 161367,
-            "stars_today": 161367,
+            "stars": 161377,
+            "stars_today": 161377,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 92549,
-            "stars_today": 92549,
+            "stars": 92553,
+            "stars_today": 92553,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 72503,
-            "stars_today": 72503,
+            "stars": 72506,
+            "stars_today": 72506,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with ",
             "language": "TypeScript",
-            "stars": 70883,
-            "stars_today": 70883,
+            "stars": 70933,
+            "stars_today": 70933,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 52480,
-            "stars_today": 52480,
+            "stars": 52482,
+            "stars_today": 52482,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-02T11:33:24Z",
+    "updated": "2026-05-02T14:38:37Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-02T11:33:24Z",
+    "updated": "2026-05-02T14:38:37Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-02T11:33:24Z",
+    "updated": "2026-05-02T14:38:37Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Show HN: DAC – open-source dashboard as code tool for agents and humans",
-            "insight": "HN 热议：25 分 · 2 评论",
+            "title": "Open Design: Use Your Coding Agent as a Design Engine",
+            "insight": "HN 热议：63 分 · 28 评论",
             "sentiment": "neutral",
-            "comments": 2,
-            "url": "https://github.com/bruin-data/dac",
+            "comments": 28,
+            "url": "https://github.com/nexu-io/open-design",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Mljar Studio – local AI data analyst that saves analysis as notebooks",
-            "insight": "HN 热议：17 分 · 1 评论",
+            "title": "Mini PC for local LLMs in 2026",
+            "insight": "HN 热议：11 分 · 4 评论",
             "sentiment": "neutral",
-            "comments": 1,
-            "url": "https://mljar.com/",
+            "comments": 4,
+            "url": "https://terminalbytes.com/best-mini-pc-for-local-llm-2026/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Filling PDF forms with AI using client-side tool calling",
-            "insight": "HN 热议：14 分 · 6 评论",
+            "title": "Show HN: DAC – open-source dashboard as code tool for agents and humans",
+            "insight": "HN 热议：56 分 · 13 评论",
             "sentiment": "neutral",
-            "comments": 6,
-            "url": "https://copilot.simplepdf.com/?share=a7d00ad073c75a75d493228e6ff7b11eb3f2d945b6175913e87898ec96ca8076&form=w9&lang=en",
+            "comments": 13,
+            "url": "https://github.com/bruin-data/dac",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Eka’s robotic claw feels like we're approaching a ChatGPT moment",
-            "insight": "HN 热议：149 分 · 207 评论",
+            "title": "Show HN: Mljar Studio – local AI data analyst that saves analysis as notebooks",
+            "insight": "HN 热议：34 分 · 6 评论",
             "sentiment": "neutral",
-            "comments": 207,
-            "url": "https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/",
+            "comments": 6,
+            "url": "https://mljar.com/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Direct electrochemical black coffee quality appraisal using cyclic voltammetry",
-            "insight": "HN 热议：55 分 · 28 评论",
+            "title": "Craig Venter of Human Genome Project Dies at 79",
+            "insight": "HN 热议：12 分 · 2 评论",
             "sentiment": "neutral",
-            "comments": 28,
-            "url": "https://www.nature.com/articles/s41467-026-71526-5",
+            "comments": 2,
+            "url": "https://www.economist.com/obituary/2026/05/01/craig-venter-raced-to-decode-the-human-genome",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-02T11:33:24Z",
+    "updated": "2026-05-02T14:38:37Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
