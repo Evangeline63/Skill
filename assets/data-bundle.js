@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-02T17:32:46Z",
+    "updated": "2026-05-02T20:03:05Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-02T17:32:46Z",
+    "updated": "2026-05-02T20:03:05Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-02T17:32:46Z",
+    "updated": "2026-05-02T20:03:05Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 183941,
-            "stars_today": 183941,
+            "stars": 183940,
+            "stars_today": 183940,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 161387,
-            "stars_today": 161387,
+            "stars": 161391,
+            "stars_today": 161391,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 92553,
-            "stars_today": 92553,
+            "stars": 92554,
+            "stars_today": 92554,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 72512,
-            "stars_today": 72512,
+            "stars": 72518,
+            "stars_today": 72518,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with ",
             "language": "TypeScript",
-            "stars": 70987,
-            "stars_today": 70987,
+            "stars": 71026,
+            "stars_today": 71026,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 52486,
-            "stars_today": 52486,
+            "stars": 52488,
+            "stars_today": 52488,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-02T17:32:46Z",
+    "updated": "2026-05-02T20:03:05Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-02T17:32:46Z",
+    "updated": "2026-05-02T20:03:05Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-02T17:32:46Z",
+    "updated": "2026-05-02T20:03:05Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "LLMs consistently pick resumes they generate over ones by humans or other models",
-            "insight": "HN 热议：262 分 · 123 评论",
-            "sentiment": "positive",
-            "comments": 123,
-            "url": "https://arxiv.org/abs/2509.00462",
+            "title": "Flue is a TypeScript framework for building the next generation of agents",
+            "insight": "HN 热议：41 分 · 12 评论",
+            "sentiment": "neutral",
+            "comments": 12,
+            "url": "https://flueframework.com/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Craig Venter of Human Genome Project Dies at 79",
-            "insight": "HN 热议：44 分 · 9 评论",
+            "title": "Open Design: Use Your Coding Agent as a Design Engine",
+            "insight": "HN 热议：141 分 · 77 评论",
             "sentiment": "neutral",
-            "comments": 9,
-            "url": "https://www.economist.com/obituary/2026/05/01/craig-venter-raced-to-decode-the-human-genome",
+            "comments": 77,
+            "url": "https://github.com/nexu-io/open-design",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "Show HN: DAC – open-source dashboard as code tool for agents and humans",
-            "insight": "HN 热议：74 分 · 21 评论",
+            "insight": "HN 热议：84 分 · 29 评论",
             "sentiment": "neutral",
-            "comments": 21,
+            "comments": 29,
             "url": "https://github.com/bruin-data/dac",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Open Design: Use Your Coding Agent as a Design Engine",
-            "insight": "HN 热议：108 分 · 70 评论",
-            "sentiment": "neutral",
-            "comments": 70,
-            "url": "https://github.com/nexu-io/open-design",
+            "title": "AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights",
+            "insight": "HN 热议：309 分 · 162 评论",
+            "sentiment": "positive",
+            "comments": 162,
+            "url": "https://arxiv.org/abs/2509.00462",
             "id": 4
         },
         {
             "source": "HackerNews",
             "title": "Show HN: Mljar Studio – local AI data analyst that saves analysis as notebooks",
-            "insight": "HN 热议：50 分 · 11 评论",
+            "insight": "HN 热议：58 分 · 10 评论",
             "sentiment": "neutral",
-            "comments": 11,
+            "comments": 10,
             "url": "https://mljar.com/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-02T17:32:46Z",
+    "updated": "2026-05-02T20:03:05Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
