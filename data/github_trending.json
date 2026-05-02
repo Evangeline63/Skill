@@ -1,59 +1,59 @@
 {
-  "updated": "2026-05-01T08:00:00Z",
+  "updated": "2026-05-02T02:22:03Z",
   "repos": [
     {
       "rank": 1,
-      "name": "microsoft/phi-4-mini",
-      "description": "Phi-4-mini: a compact 3.8B parameter model optimized for on-device inference with strong reasoning capabilities",
-      "language": "Python",
-      "stars": 18420,
-      "stars_today": 3240,
-      "url": "https://github.com/microsoft/phi-4-mini"
-    },
-    {
-      "rank": 2,
-      "name": "langchain-ai/langgraph",
-      "description": "Build resilient language agents as graphs — persistent memory, multi-agent orchestration, streaming",
-      "language": "Python",
-      "stars": 12800,
-      "stars_today": 1870,
-      "url": "https://github.com/langchain-ai/langgraph"
-    },
-    {
-      "rank": 3,
-      "name": "ggerganov/llama.cpp",
-      "description": "LLM inference in C/C++ — run Llama, Mistral, Phi and more locally on CPU and GPU",
-      "language": "C++",
-      "stars": 67300,
-      "stars_today": 1540,
-      "url": "https://github.com/ggerganov/llama.cpp"
-    },
-    {
-      "rank": 4,
-      "name": "openai/swarm",
-      "description": "Educational framework exploring ergonomic, lightweight multi-agent orchestration",
-      "language": "Python",
-      "stars": 21900,
-      "stars_today": 1220,
-      "url": "https://github.com/openai/swarm"
-    },
-    {
-      "rank": 5,
       "name": "Significant-Gravitas/AutoGPT",
-      "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on",
+      "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
       "language": "Python",
-      "stars": 168000,
-      "stars_today": 980,
+      "stars": 183943,
+      "stars_today": 183943,
       "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-      "rank": 6,
-      "name": "bytedance/UI-TARS",
-      "description": "An end-to-end GUI agent model based on VLM, capable of understanding UI screenshots and executing complex tasks",
+      "rank": 2,
+      "name": "f/prompts.chat",
+      "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
+      "language": "HTML",
+      "stars": 161339,
+      "stars_today": 161339,
+      "url": "https://github.com/f/prompts.chat"
+    },
+    {
+      "rank": 3,
+      "name": "hacksider/Deep-Live-Cam",
+      "description": "real time face swap and one-click video deepfake with only a single image",
       "language": "Python",
-      "stars": 9450,
-      "stars_today": 870,
-      "url": "https://github.com/bytedance/UI-TARS"
+      "stars": 92539,
+      "stars_today": 92539,
+      "url": "https://github.com/hacksider/Deep-Live-Cam"
+    },
+    {
+      "rank": 4,
+      "name": "OpenHands/OpenHands",
+      "description": "🙌 OpenHands: AI-Driven Development",
+      "language": "Python",
+      "stars": 72486,
+      "stars_today": 72486,
+      "url": "https://github.com/OpenHands/OpenHands"
+    },
+    {
+      "rank": 5,
+      "name": "thedotmack/claude-mem",
+      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with ",
+      "language": "TypeScript",
+      "stars": 70767,
+      "stars_today": 70767,
+      "url": "https://github.com/thedotmack/claude-mem"
+    },
+    {
+      "rank": 6,
+      "name": "FlowiseAI/Flowise",
+      "description": "Build AI Agents, Visually",
+      "language": "TypeScript",
+      "stars": 52470,
+      "stars_today": 52470,
+      "url": "https://github.com/FlowiseAI/Flowise"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-01T08:00:00Z",
+  "updated": "2026-05-02T02:22:03Z",
   "products": [
     {
       "id": 1,
@@ -9,7 +9,10 @@
       "why_matters": "第一个把Agent管理抽象为OS层的产品，开发者不再手写协调逻辑",
       "replicable": false,
       "investable": true,
-      "tags": ["可投资", "技术壁垒高"],
+      "tags": [
+        "可投资",
+        "技术壁垒高"
+      ],
       "stars": null,
       "ph_votes": 847,
       "url": "https://www.producthunt.com"
@@ -22,7 +25,10 @@
       "why_matters": "解决信息沉淀痛点，与Notion/Obsidian生态深度集成，B端客单价高",
       "replicable": true,
       "investable": true,
-      "tags": ["可复制", "可投资"],
+      "tags": [
+        "可复制",
+        "可投资"
+      ],
       "stars": null,
       "ph_votes": 623,
       "url": "https://www.producthunt.com"
@@ -35,7 +41,10 @@
       "why_matters": "解决大型项目onboarding痛点，GitHub 3天涨3000 star，工程师强烈共鸣",
       "replicable": true,
       "investable": false,
-      "tags": ["可复制", "观察中"],
+      "tags": [
+        "可复制",
+        "观察中"
+      ],
       "stars": 3241,
       "ph_votes": null,
       "url": "https://github.com/trending"
@@ -48,7 +57,10 @@
       "why_matters": "把ElevenLabs+GPT能力打包成可视化工具，降低语音AI产品开发门槛90%",
       "replicable": true,
       "investable": true,
-      "tags": ["可复制", "可投资"],
+      "tags": [
+        "可复制",
+        "可投资"
+      ],
       "stars": null,
       "ph_votes": 512,
       "url": "https://www.producthunt.com"
@@ -61,7 +73,10 @@
       "why_matters": "AI应用从demo到生产的关键缺口，企业刚需，定价模型清晰",
       "replicable": false,
       "investable": true,
-      "tags": ["可投资", "B端刚需"],
+      "tags": [
+        "可投资",
+        "B端刚需"
+      ],
       "stars": 1876,
       "ph_votes": null,
       "url": "https://github.com/trending"
@@ -74,7 +89,10 @@
       "why_matters": "Computer Use能力的独立产品化，是RPA行业的颠覆性替代方案",
       "replicable": false,
       "investable": true,
-      "tags": ["可投资", "技术壁垒高"],
+      "tags": [
+        "可投资",
+        "技术壁垒高"
+      ],
       "stars": null,
       "ph_votes": 389,
       "url": "https://www.producthunt.com"

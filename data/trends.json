@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-01T08:00:00Z",
+  "updated": "2026-05-02T02:22:03Z",
   "tracks": [
     {
       "id": "ai_agent",
@@ -9,9 +9,18 @@
       "trend_score": 92,
       "heat": "🔥🔥🔥",
       "summary": "从单一任务执行进化为多步骤自主规划，企业级落地加速",
-      "new_entrants": ["Manus AI", "Devin 2.0", "AutoAgent Pro"],
+      "new_entrants": [
+        "Manus AI",
+        "Devin 2.0",
+        "AutoAgent Pro"
+      ],
       "breakthrough": "持久记忆 + 多Agent协作成为标配",
-      "key_players": ["Cognition", "AutoGPT", "LangGraph", "CrewAI"]
+      "key_players": [
+        "Cognition",
+        "AutoGPT",
+        "LangGraph",
+        "CrewAI"
+      ]
     },
     {
       "id": "coding_ai",
@@ -21,9 +30,18 @@
       "trend_score": 95,
       "heat": "🔥🔥🔥",
       "summary": "IDE集成战争白热化，从代码补全进化到完整工程交付",
-      "new_entrants": ["Cursor Tab", "Windsurf 2.0", "GitHub Copilot Workspace"],
+      "new_entrants": [
+        "Cursor Tab",
+        "Windsurf 2.0",
+        "GitHub Copilot Workspace"
+      ],
       "breakthrough": "自主PR合并 + 跨文件重构能力突破",
-      "key_players": ["Cursor", "GitHub Copilot", "Windsurf", "Replit"]
+      "key_players": [
+        "Cursor",
+        "GitHub Copilot",
+        "Windsurf",
+        "Replit"
+      ]
     },
     {
       "id": "video_gen",
@@ -33,9 +51,18 @@
       "trend_score": 78,
       "heat": "🔥🔥",
       "summary": "视频质量接近专业水准，生成时长突破，商业化进入快车道",
-      "new_entrants": ["Sora API", "Kling 2.0", "Runway Gen-4"],
+      "new_entrants": [
+        "Sora API",
+        "Kling 2.0",
+        "Runway Gen-4"
+      ],
       "breakthrough": "60秒一致性视频 + 精确动作控制",
-      "key_players": ["OpenAI Sora", "Runway", "Pika", "Kling"]
+      "key_players": [
+        "OpenAI Sora",
+        "Runway",
+        "Pika",
+        "Kling"
+      ]
     },
     {
       "id": "search_ai",
@@ -45,9 +72,18 @@
       "trend_score": 81,
       "heat": "🔥🔥",
       "summary": "问答式搜索留存验证，Google主导地位首次受到真实冲击",
-      "new_entrants": ["Perplexity Pro Max", "You.com Enterprise", "Exa AI"],
+      "new_entrants": [
+        "Perplexity Pro Max",
+        "You.com Enterprise",
+        "Exa AI"
+      ],
       "breakthrough": "实时信息 + 引用追溯成为行业标准",
-      "key_players": ["Perplexity", "You.com", "Exa", "Bing Copilot"]
+      "key_players": [
+        "Perplexity",
+        "You.com",
+        "Exa",
+        "Bing Copilot"
+      ]
     },
     {
       "id": "ai_infra",
@@ -57,9 +93,18 @@
       "trend_score": 70,
       "heat": "🔥🔥",
       "summary": "推理成本持续下降，小模型性能追赶大模型，边缘部署成熟",
-      "new_entrants": ["Groq LPU v3", "Cerebras Cloud", "Together AI Turbo"],
+      "new_entrants": [
+        "Groq LPU v3",
+        "Cerebras Cloud",
+        "Together AI Turbo"
+      ],
       "breakthrough": "100K token/s推理速度量产，成本跌破$0.1/M tokens",
-      "key_players": ["Groq", "Cerebras", "Together AI", "Fireworks AI"]
+      "key_players": [
+        "Groq",
+        "Cerebras",
+        "Together AI",
+        "Fireworks AI"
+      ]
     },
     {
       "id": "consumer_ai",
@@ -69,9 +114,18 @@
       "trend_score": 74,
       "heat": "🔥🔥",
       "summary": "垂直场景留存分化明显，教育/健康/个人助理三个方向跑出头部",
-      "new_entrants": ["Pi 3.0", "Character AI v2", "Dot AI"],
+      "new_entrants": [
+        "Pi 3.0",
+        "Character AI v2",
+        "Dot AI"
+      ],
       "breakthrough": "个性化记忆 + 情感连接成为留存核心变量",
-      "key_players": ["Character.ai", "Pi", "Replika", "Dot"]
+      "key_players": [
+        "Character.ai",
+        "Pi",
+        "Replika",
+        "Dot"
+      ]
     }
   ]
 }

@@ -40,15 +40,19 @@ function timeAgo(isoStr) {
 }
 
 async function fetchJSON(key, url) {
-  // Use bundled data first (works with file:// and all environments)
-  if (window.__DATA__ && window.__DATA__[key]) {
-    return window.__DATA__[key];
+  // file:// protocol has no server — use embedded bundle directly
+  if (location.protocol === 'file:') {
+    if (window.__DATA__?.[key]) return window.__DATA__[key];
+    throw new Error(`No bundle data for ${key}`);
   }
+  // HTTP/HTTPS: always bypass browser cache so GitHub Pages serves latest file
   try {
-    const resp = await fetch(url);
+    const resp = await fetch(url, { cache: 'no-cache' });
     if (resp.ok) return resp.json();
   } catch (_) {}
-  throw new Error(`No data available for ${key}`);
+  // Fallback: embedded bundle (works offline or when fetch fails)
+  if (window.__DATA__?.[key]) return window.__DATA__[key];
+  throw new Error(`No data for ${key}`);
 }
 
 /* ── Signal accordion ── */
@@ -322,14 +326,17 @@ function renderDaily(data) {
 
 function updateTimestamp(data) {
   const el = document.getElementById('update-time');
-  if (el && data.updated) {
-    const d = new Date(data.updated);
-    el.textContent = `Updated ${d.toLocaleString('en-US', {
-      month: 'short', day: 'numeric',
-      hour: '2-digit', minute: '2-digit',
-      hour12: false
-    })}`;
-  }
+  if (!el || !data.updated) return;
+  const d   = new Date(data.updated);
+  const ago = timeAgo(data.updated);
+  el.textContent = `Updated ${d.toLocaleString('zh-CN', {
+    month: '2-digit', day: '2-digit',
+    hour: '2-digit', minute: '2-digit',
+    hour12: false,
+  })} (${ago})`;
+  // brief green flash to signal fresh data
+  el.style.color = 'var(--color-up)';
+  setTimeout(() => { el.style.color = ''; }, 2000);
 }
 
 /* ── Bootstrap ── */
