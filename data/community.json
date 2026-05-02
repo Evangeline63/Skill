@@ -1,49 +1,49 @@
 {
-  "updated": "2026-05-02T20:03:05Z",
+  "updated": "2026-05-02T23:27:19Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Flue is a TypeScript framework for building the next generation of agents",
-      "insight": "HN 热议：41 分 · 12 评论",
-      "sentiment": "neutral",
-      "comments": 12,
-      "url": "https://flueframework.com/",
+      "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
+      "insight": "HN 热议：508 分 · 226 评论",
+      "sentiment": "positive",
+      "comments": 226,
+      "url": "https://github.com/microsoft/vscode/pull/310226",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Open Design: Use Your Coding Agent as a Design Engine",
-      "insight": "HN 热议：141 分 · 77 评论",
+      "title": "The agent harness belongs outside the sandbox",
+      "insight": "HN 热议：36 分 · 27 评论",
       "sentiment": "neutral",
-      "comments": 77,
-      "url": "https://github.com/nexu-io/open-design",
+      "comments": 27,
+      "url": "https://www.mendral.com/blog/agent-harness-belongs-outside-sandbox",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: DAC – open-source dashboard as code tool for agents and humans",
-      "insight": "HN 热议：84 分 · 29 评论",
+      "title": "Flue is a TypeScript framework for building the next generation of agents",
+      "insight": "HN 热议：77 分 · 42 评论",
       "sentiment": "neutral",
-      "comments": 29,
-      "url": "https://github.com/bruin-data/dac",
+      "comments": 42,
+      "url": "https://flueframework.com/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights",
-      "insight": "HN 热议：309 分 · 162 评论",
-      "sentiment": "positive",
-      "comments": 162,
-      "url": "https://arxiv.org/abs/2509.00462",
+      "title": "Open Design: Use Your Coding Agent as a Design Engine",
+      "insight": "HN 热议：161 分 · 82 评论",
+      "sentiment": "neutral",
+      "comments": 82,
+      "url": "https://github.com/nexu-io/open-design",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Mljar Studio – local AI data analyst that saves analysis as notebooks",
-      "insight": "HN 热议：58 分 · 10 评论",
+      "title": "AWS Lightsail's $0.09/GB Bandwidth Overage Is a Trap for Small Projects",
+      "insight": "HN 热议：8 分 · 1 评论",
       "sentiment": "neutral",
-      "comments": 10,
-      "url": "https://mljar.com/",
+      "comments": 1,
+      "url": "https://galaxycloudsolutions.com/blog/aws-lightsail-vs-galaxy-cloud-solutions/",
       "id": 5
     }
   ]

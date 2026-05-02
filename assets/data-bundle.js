@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-02T20:03:05Z",
+    "updated": "2026-05-02T23:27:19Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-02T20:03:05Z",
+    "updated": "2026-05-02T23:27:19Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-02T20:03:05Z",
+    "updated": "2026-05-02T23:27:19Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 183940,
-            "stars_today": 183940,
+            "stars": 183945,
+            "stars_today": 183945,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 161391,
-            "stars_today": 161391,
+            "stars": 161394,
+            "stars_today": 161394,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 92554,
-            "stars_today": 92554,
+            "stars": 92562,
+            "stars_today": 92562,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 72518,
-            "stars_today": 72518,
+            "stars": 72524,
+            "stars_today": 72524,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with ",
             "language": "TypeScript",
-            "stars": 71026,
-            "stars_today": 71026,
+            "stars": 71058,
+            "stars_today": 71058,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 52488,
-            "stars_today": 52488,
+            "stars": 52494,
+            "stars_today": 52494,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-02T20:03:05Z",
+    "updated": "2026-05-02T23:27:19Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-02T20:03:05Z",
+    "updated": "2026-05-02T23:27:19Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-02T20:03:05Z",
+    "updated": "2026-05-02T23:27:19Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Flue is a TypeScript framework for building the next generation of agents",
-            "insight": "HN 热议：41 分 · 12 评论",
-            "sentiment": "neutral",
-            "comments": 12,
-            "url": "https://flueframework.com/",
+            "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
+            "insight": "HN 热议：508 分 · 226 评论",
+            "sentiment": "positive",
+            "comments": 226,
+            "url": "https://github.com/microsoft/vscode/pull/310226",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Open Design: Use Your Coding Agent as a Design Engine",
-            "insight": "HN 热议：141 分 · 77 评论",
+            "title": "The agent harness belongs outside the sandbox",
+            "insight": "HN 热议：36 分 · 27 评论",
             "sentiment": "neutral",
-            "comments": 77,
-            "url": "https://github.com/nexu-io/open-design",
+            "comments": 27,
+            "url": "https://www.mendral.com/blog/agent-harness-belongs-outside-sandbox",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: DAC – open-source dashboard as code tool for agents and humans",
-            "insight": "HN 热议：84 分 · 29 评论",
+            "title": "Flue is a TypeScript framework for building the next generation of agents",
+            "insight": "HN 热议：77 分 · 42 评论",
             "sentiment": "neutral",
-            "comments": 29,
-            "url": "https://github.com/bruin-data/dac",
+            "comments": 42,
+            "url": "https://flueframework.com/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights",
-            "insight": "HN 热议：309 分 · 162 评论",
-            "sentiment": "positive",
-            "comments": 162,
-            "url": "https://arxiv.org/abs/2509.00462",
+            "title": "Open Design: Use Your Coding Agent as a Design Engine",
+            "insight": "HN 热议：161 分 · 82 评论",
+            "sentiment": "neutral",
+            "comments": 82,
+            "url": "https://github.com/nexu-io/open-design",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Mljar Studio – local AI data analyst that saves analysis as notebooks",
-            "insight": "HN 热议：58 分 · 10 评论",
+            "title": "AWS Lightsail's $0.09/GB Bandwidth Overage Is a Trap for Small Projects",
+            "insight": "HN 热议：8 分 · 1 评论",
             "sentiment": "neutral",
-            "comments": 10,
-            "url": "https://mljar.com/",
+            "comments": 1,
+            "url": "https://galaxycloudsolutions.com/blog/aws-lightsail-vs-galaxy-cloud-solutions/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-02T20:03:05Z",
+    "updated": "2026-05-02T23:27:19Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
