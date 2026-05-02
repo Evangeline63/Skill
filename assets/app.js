@@ -40,72 +40,81 @@ function timeAgo(isoStr) {
 }
 
 async function fetchJSON(key, url) {
+  // Use bundled data first (works with file:// and all environments)
+  if (window.__DATA__ && window.__DATA__[key]) {
+    return window.__DATA__[key];
+  }
   try {
     const resp = await fetch(url);
     if (resp.ok) return resp.json();
-  } catch (_) { /* fall through to bundle */ }
-  if (window.__DATA__ && window.__DATA__[key]) return window.__DATA__[key];
-  throw new Error(`No data for ${key}`);
+  } catch (_) {}
+  throw new Error(`No data available for ${key}`);
 }
 
 /* ── Signal accordion ── */
-function toggleSignal(el) {
-  const id = el.dataset.id;
-  const detail = document.getElementById(`sd-${id}`);
+function toggleSignal(event, id) {
+  event.stopPropagation();
+  const detail = document.getElementById('sd-' + id);
+  const icon   = document.getElementById('sdi-' + id);
+  const btn    = event.currentTarget;
   if (!detail) return;
   const isOpen = detail.classList.toggle('open');
-  el.classList.toggle('active', isOpen);
-  el.querySelector('.signal-expand-icon').classList.toggle('rotated', isOpen);
+  btn.classList.toggle('active', isOpen);
+  if (icon) icon.textContent = isOpen ? '▲' : '▼';
 }
 
 /* ── Renderers ── */
 function renderSignals(data) {
   const container = document.getElementById('signals-list');
-  const countEl = document.getElementById('signals-count');
+  const countEl   = document.getElementById('signals-count');
   if (!container) return;
 
   countEl && (countEl.textContent = data.signals.length);
 
   container.innerHTML = data.signals.map((s, i) => {
-    const typeClass = `tag-${s.type}`;
+    const typeClass = 'tag-' + s.type;
     const rankClass = s.hot ? 'signal-rank hot' : 'signal-rank';
-    const rankIcon = s.hot ? '🔥' : String(i + 1).padStart(2, '0');
-    const srcIcon = SOURCE_ICONS[s.source] || { text: s.source[0], cls: 'source-x' };
+    const rankIcon  = s.hot ? '🔥' : String(i + 1).padStart(2, '0');
+    const srcIcon   = SOURCE_ICONS[s.source] || { text: s.source[0], cls: 'source-x' };
 
     return `
-      <div class="signal-item" data-id="${s.id}" onclick="toggleSignal(this)">
-        <span class="${rankClass}">${rankIcon}</span>
-        <div class="signal-content">
-          <div class="signal-title">${s.title}</div>
-          <div class="signal-judgment">${s.judgment}</div>
-          <div class="signal-meta">
-            <span class="tag tag-source">${s.source}</span>
-            <span class="tag ${typeClass}">${s.type_label}</span>
-            ${s.hot ? '<span class="hot-badge">HOT</span>' : ''}
-          </div>
-        </div>
-        <div class="signal-right">
-          <span class="signal-time">${timeAgo(s.timestamp)}</span>
-          <span class="signal-expand-icon">›</span>
-        </div>
-      </div>
-      <div class="signal-detail" id="sd-${s.id}">
-        <div class="signal-detail-inner">
-          <div class="signal-detail-source">
-            <div class="community-source-icon ${srcIcon.cls}">${srcIcon.text}</div>
-            <div class="signal-detail-source-meta">
-              <div class="signal-detail-source-name">${s.source}</div>
-              <div class="signal-detail-handle">${s.source_handle || ''}</div>
+      <div class="signal-row">
+        <div class="signal-main">
+          <span class="${rankClass}">${rankIcon}</span>
+          <div class="signal-content">
+            <a class="signal-title" href="${s.url}" target="_blank" rel="noopener">${s.title}</a>
+            <div class="signal-judgment">${s.judgment}</div>
+            <div class="signal-meta">
+              <span class="tag tag-source">${s.source}</span>
+              <span class="tag ${typeClass}">${s.type_label}</span>
+              ${s.hot ? '<span class="hot-badge">HOT</span>' : ''}
             </div>
           </div>
-          <div class="signal-detail-divider"></div>
-          <div class="signal-detail-section">
-            <div class="signal-detail-label">详细阐述</div>
-            <div class="signal-detail-text">${s.detail || s.judgment}</div>
+          <div class="signal-right">
+            <span class="signal-time">${timeAgo(s.timestamp)}</span>
+            <button class="signal-detail-btn" onclick="toggleSignal(event, ${s.id})">
+              详细分析 <span id="sdi-${s.id}">▼</span>
+            </button>
           </div>
-          <a class="signal-detail-link" href="${s.url}" target="_blank" rel="noopener">
-            查看原文来源 →
-          </a>
+        </div>
+        <div class="signal-detail" id="sd-${s.id}">
+          <div class="signal-detail-inner">
+            <div class="signal-detail-source">
+              <div class="community-source-icon ${srcIcon.cls}">${srcIcon.text}</div>
+              <div class="signal-detail-source-meta">
+                <div class="signal-detail-source-name">${s.source}</div>
+                <div class="signal-detail-handle">${s.source_handle || ''}</div>
+              </div>
+            </div>
+            <div class="signal-detail-divider"></div>
+            <div class="signal-detail-section">
+              <div class="signal-detail-label">详细阐述</div>
+              <div class="signal-detail-text">${s.detail || s.judgment}</div>
+            </div>
+            <a class="signal-detail-link" href="${s.url}" target="_blank" rel="noopener">
+              查看原文来源 →
+            </a>
+          </div>
         </div>
       </div>`;
   }).join('');
