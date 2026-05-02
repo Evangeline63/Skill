@@ -1,49 +1,49 @@
 {
-  "updated": "2026-05-02T14:38:37Z",
+  "updated": "2026-05-02T17:32:46Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Open Design: Use Your Coding Agent as a Design Engine",
-      "insight": "HN 热议：63 分 · 28 评论",
-      "sentiment": "neutral",
-      "comments": 28,
-      "url": "https://github.com/nexu-io/open-design",
+      "title": "LLMs consistently pick resumes they generate over ones by humans or other models",
+      "insight": "HN 热议：262 分 · 123 评论",
+      "sentiment": "positive",
+      "comments": 123,
+      "url": "https://arxiv.org/abs/2509.00462",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Mini PC for local LLMs in 2026",
-      "insight": "HN 热议：11 分 · 4 评论",
+      "title": "Craig Venter of Human Genome Project Dies at 79",
+      "insight": "HN 热议：44 分 · 9 评论",
       "sentiment": "neutral",
-      "comments": 4,
-      "url": "https://terminalbytes.com/best-mini-pc-for-local-llm-2026/",
+      "comments": 9,
+      "url": "https://www.economist.com/obituary/2026/05/01/craig-venter-raced-to-decode-the-human-genome",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "Show HN: DAC – open-source dashboard as code tool for agents and humans",
-      "insight": "HN 热议：56 分 · 13 评论",
+      "insight": "HN 热议：74 分 · 21 评论",
       "sentiment": "neutral",
-      "comments": 13,
+      "comments": 21,
       "url": "https://github.com/bruin-data/dac",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Mljar Studio – local AI data analyst that saves analysis as notebooks",
-      "insight": "HN 热议：34 分 · 6 评论",
+      "title": "Open Design: Use Your Coding Agent as a Design Engine",
+      "insight": "HN 热议：108 分 · 70 评论",
       "sentiment": "neutral",
-      "comments": 6,
-      "url": "https://mljar.com/",
+      "comments": 70,
+      "url": "https://github.com/nexu-io/open-design",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Craig Venter of Human Genome Project Dies at 79",
-      "insight": "HN 热议：12 分 · 2 评论",
+      "title": "Show HN: Mljar Studio – local AI data analyst that saves analysis as notebooks",
+      "insight": "HN 热议：50 分 · 11 评论",
       "sentiment": "neutral",
-      "comments": 2,
-      "url": "https://www.economist.com/obituary/2026/05/01/craig-venter-raced-to-decode-the-human-genome",
+      "comments": 11,
+      "url": "https://mljar.com/",
       "id": 5
     }
   ]
