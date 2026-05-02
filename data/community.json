@@ -1,49 +1,49 @@
 {
-  "updated": "2026-05-02T08:14:38Z",
+  "updated": "2026-05-02T11:33:24Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Eka’s robotic claw feels like we're approaching a ChatGPT moment",
-      "insight": "HN 热议：134 分 · 181 评论",
+      "title": "Show HN: DAC – open-source dashboard as code tool for agents and humans",
+      "insight": "HN 热议：25 分 · 2 评论",
       "sentiment": "neutral",
-      "comments": 181,
-      "url": "https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/",
+      "comments": 2,
+      "url": "https://github.com/bruin-data/dac",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Direct electrochemical black coffee quality appraisal using cyclic voltammetry",
-      "insight": "HN 热议：47 分 · 13 评论",
+      "title": "Show HN: Mljar Studio – local AI data analyst that saves analysis as notebooks",
+      "insight": "HN 热议：17 分 · 1 评论",
       "sentiment": "neutral",
-      "comments": 13,
-      "url": "https://www.nature.com/articles/s41467-026-71526-5",
+      "comments": 1,
+      "url": "https://mljar.com/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "The gay jailbreak technique (2025)",
-      "insight": "HN 热议：507 分 · 206 评论",
-      "sentiment": "positive",
-      "comments": 206,
-      "url": "https://github.com/Exocija/ZetaLib/blob/main/The%20Gay%20Jailbreak/The%20Gay%20Jailbreak.md",
+      "title": "Show HN: Filling PDF forms with AI using client-side tool calling",
+      "insight": "HN 热议：14 分 · 6 评论",
+      "sentiment": "neutral",
+      "comments": 6,
+      "url": "https://copilot.simplepdf.com/?share=a7d00ad073c75a75d493228e6ff7b11eb3f2d945b6175913e87898ec96ca8076&form=w9&lang=en",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Chasing a SharedKey signature mismatch: fix azurerm_storage_table_entity",
-      "insight": "HN 热议：11 分 · 4 评论",
+      "title": "Eka’s robotic claw feels like we're approaching a ChatGPT moment",
+      "insight": "HN 热议：149 分 · 207 评论",
       "sentiment": "neutral",
-      "comments": 4,
-      "url": "https://topaz.thecloudtheory.com/blog/debugging-table-entity-auth/",
+      "comments": 207,
+      "url": "https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: AI CAD Harness",
-      "insight": "HN 热议：85 分 · 85 评论",
+      "title": "Direct electrochemical black coffee quality appraisal using cyclic voltammetry",
+      "insight": "HN 热议：55 分 · 28 评论",
       "sentiment": "neutral",
-      "comments": 85,
-      "url": "https://fusion.adam.new/install",
+      "comments": 28,
+      "url": "https://www.nature.com/articles/s41467-026-71526-5",
       "id": 5
     }
   ]

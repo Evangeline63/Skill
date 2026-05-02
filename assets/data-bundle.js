@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-02T08:14:38Z",
+    "updated": "2026-05-02T11:33:24Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-02T08:14:38Z",
+    "updated": "2026-05-02T11:33:24Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,7 +266,7 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-02T08:14:38Z",
+    "updated": "2026-05-02T11:33:24Z",
     "repos": [
         {
             "rank": 1,
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 161358,
-            "stars_today": 161358,
+            "stars": 161367,
+            "stars_today": 161367,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 92541,
-            "stars_today": 92541,
+            "stars": 92549,
+            "stars_today": 92549,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 72499,
-            "stars_today": 72499,
+            "stars": 72503,
+            "stars_today": 72503,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with ",
             "language": "TypeScript",
-            "stars": 70840,
-            "stars_today": 70840,
+            "stars": 70883,
+            "stars_today": 70883,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 52479,
-            "stars_today": 52479,
+            "stars": 52480,
+            "stars_today": 52480,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-02T08:14:38Z",
+    "updated": "2026-05-02T11:33:24Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-02T08:14:38Z",
+    "updated": "2026-05-02T11:33:24Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-02T08:14:38Z",
+    "updated": "2026-05-02T11:33:24Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Eka’s robotic claw feels like we're approaching a ChatGPT moment",
-            "insight": "HN 热议：134 分 · 181 评论",
+            "title": "Show HN: DAC – open-source dashboard as code tool for agents and humans",
+            "insight": "HN 热议：25 分 · 2 评论",
             "sentiment": "neutral",
-            "comments": 181,
-            "url": "https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/",
+            "comments": 2,
+            "url": "https://github.com/bruin-data/dac",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Direct electrochemical black coffee quality appraisal using cyclic voltammetry",
-            "insight": "HN 热议：47 分 · 13 评论",
+            "title": "Show HN: Mljar Studio – local AI data analyst that saves analysis as notebooks",
+            "insight": "HN 热议：17 分 · 1 评论",
             "sentiment": "neutral",
-            "comments": 13,
-            "url": "https://www.nature.com/articles/s41467-026-71526-5",
+            "comments": 1,
+            "url": "https://mljar.com/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "The gay jailbreak technique (2025)",
-            "insight": "HN 热议：507 分 · 206 评论",
-            "sentiment": "positive",
-            "comments": 206,
-            "url": "https://github.com/Exocija/ZetaLib/blob/main/The%20Gay%20Jailbreak/The%20Gay%20Jailbreak.md",
+            "title": "Show HN: Filling PDF forms with AI using client-side tool calling",
+            "insight": "HN 热议：14 分 · 6 评论",
+            "sentiment": "neutral",
+            "comments": 6,
+            "url": "https://copilot.simplepdf.com/?share=a7d00ad073c75a75d493228e6ff7b11eb3f2d945b6175913e87898ec96ca8076&form=w9&lang=en",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Chasing a SharedKey signature mismatch: fix azurerm_storage_table_entity",
-            "insight": "HN 热议：11 分 · 4 评论",
+            "title": "Eka’s robotic claw feels like we're approaching a ChatGPT moment",
+            "insight": "HN 热议：149 分 · 207 评论",
             "sentiment": "neutral",
-            "comments": 4,
-            "url": "https://topaz.thecloudtheory.com/blog/debugging-table-entity-auth/",
+            "comments": 207,
+            "url": "https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: AI CAD Harness",
-            "insight": "HN 热议：85 分 · 85 评论",
+            "title": "Direct electrochemical black coffee quality appraisal using cyclic voltammetry",
+            "insight": "HN 热议：55 分 · 28 评论",
             "sentiment": "neutral",
-            "comments": 85,
-            "url": "https://fusion.adam.new/install",
+            "comments": 28,
+            "url": "https://www.nature.com/articles/s41467-026-71526-5",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-02T08:14:38Z",
+    "updated": "2026-05-02T11:33:24Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
