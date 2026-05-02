@@ -1,61 +1,50 @@
 {
-  "updated": "2026-05-01T08:00:00Z",
+  "updated": "2026-05-02T08:14:38Z",
   "signals": [
     {
-      "id": 1,
       "source": "HackerNews",
-      "title": "Ask HN: What AI tools actually stuck in your workflow after 6 months?",
-      "insight": "Cursor、Perplexity、Claude是最高频提及，ChatGPT提及率下降",
+      "title": "Eka’s robotic claw feels like we're approaching a ChatGPT moment",
+      "insight": "HN 热议：134 分 · 181 评论",
       "sentiment": "neutral",
-      "comments": 432,
-      "url": "https://news.ycombinator.com/ask"
+      "comments": 181,
+      "url": "https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/",
+      "id": 1
     },
     {
-      "id": 2,
-      "source": "Reddit",
-      "subreddit": "r/MachineLearning",
-      "title": "Gemini 2.5 Pro beats GPT-4o on coding tasks in blind test — community shocked",
-      "insight": "社区情绪从「Google追赶」转向「Google已超越」，认知拐点出现",
-      "sentiment": "positive",
-      "comments": 1204,
-      "url": "https://www.reddit.com/r/MachineLearning/"
-    },
-    {
-      "id": 3,
-      "source": "X",
-      "title": "Thread: 'AI replaced my entire research workflow — here's what I actually use'",
-      "insight": "Perplexity+Claude+Notebook LM三件套成为知识工作者新标配",
-      "sentiment": "positive",
-      "comments": 847,
-      "url": "https://x.com/search?q=AI+research+workflow"
-    },
-    {
-      "id": 4,
       "source": "HackerNews",
-      "title": "Show HN: I built a local AI that runs entirely offline — 50k stars in 3 days",
-      "insight": "隐私需求驱动的本地AI爆发，企业防火墙内部署需求被严重低估",
+      "title": "Direct electrochemical black coffee quality appraisal using cyclic voltammetry",
+      "insight": "HN 热议：47 分 · 13 评论",
+      "sentiment": "neutral",
+      "comments": 13,
+      "url": "https://www.nature.com/articles/s41467-026-71526-5",
+      "id": 2
+    },
+    {
+      "source": "HackerNews",
+      "title": "The gay jailbreak technique (2025)",
+      "insight": "HN 热议：507 分 · 206 评论",
       "sentiment": "positive",
-      "comments": 612,
-      "url": "https://news.ycombinator.com/show"
+      "comments": 206,
+      "url": "https://github.com/Exocija/ZetaLib/blob/main/The%20Gay%20Jailbreak/The%20Gay%20Jailbreak.md",
+      "id": 3
     },
     {
-      "id": 5,
-      "source": "Reddit",
-      "subreddit": "r/singularity",
-      "title": "Debate: Are we already in the AGI transition period?",
-      "insight": "社区对AGI时间线预测大幅提前，悲观/乐观分化加剧",
-      "sentiment": "mixed",
-      "comments": 2341,
-      "url": "https://www.reddit.com/r/singularity/"
+      "source": "HackerNews",
+      "title": "Chasing a SharedKey signature mismatch: fix azurerm_storage_table_entity",
+      "insight": "HN 热议：11 分 · 4 评论",
+      "sentiment": "neutral",
+      "comments": 4,
+      "url": "https://topaz.thecloudtheory.com/blog/debugging-table-entity-auth/",
+      "id": 4
     },
     {
-      "id": 6,
-      "source": "X",
-      "title": "SWE community pushback: 'AI coding tools introduce subtle bugs at scale'",
-      "insight": "高级工程师对AI代码质量的担忧上升，可靠性是下一个竞争维度",
-      "sentiment": "negative",
-      "comments": 523,
-      "url": "https://x.com/search?q=AI+coding+bugs"
+      "source": "HackerNews",
+      "title": "Show HN: AI CAD Harness",
+      "insight": "HN 热议：85 分 · 85 评论",
+      "sentiment": "neutral",
+      "comments": 85,
+      "url": "https://fusion.adam.new/install",
+      "id": 5
     }
   ]
 }

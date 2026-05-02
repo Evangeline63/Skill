@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-02T02:22:03Z",
+    "updated": "2026-05-02T08:14:38Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-02T02:22:03Z",
+    "updated": "2026-05-02T08:14:38Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-02T02:22:03Z",
+    "updated": "2026-05-02T08:14:38Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 183943,
-            "stars_today": 183943,
+            "stars": 183946,
+            "stars_today": 183946,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 161339,
-            "stars_today": 161339,
+            "stars": 161358,
+            "stars_today": 161358,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 92539,
-            "stars_today": 92539,
+            "stars": 92541,
+            "stars_today": 92541,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 72486,
-            "stars_today": 72486,
+            "stars": 72499,
+            "stars_today": 72499,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with ",
             "language": "TypeScript",
-            "stars": 70767,
-            "stars_today": 70767,
+            "stars": 70840,
+            "stars_today": 70840,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 52470,
-            "stars_today": 52470,
+            "stars": 52479,
+            "stars_today": 52479,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-02T02:22:03Z",
+    "updated": "2026-05-02T08:14:38Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-02T02:22:03Z",
+    "updated": "2026-05-02T08:14:38Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,68 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-01T08:00:00Z",
+    "updated": "2026-05-02T08:14:38Z",
     "signals": [
         {
-            "id": 1,
             "source": "HackerNews",
-            "title": "Ask HN: What AI tools actually stuck in your workflow after 6 months?",
-            "insight": "Cursor、Perplexity、Claude是最高频提及，ChatGPT提及率下降",
+            "title": "Eka’s robotic claw feels like we're approaching a ChatGPT moment",
+            "insight": "HN 热议：134 分 · 181 评论",
             "sentiment": "neutral",
-            "comments": 432,
-            "url": "https://news.ycombinator.com/ask"
+            "comments": 181,
+            "url": "https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/",
+            "id": 1
         },
         {
-            "id": 2,
-            "source": "Reddit",
-            "subreddit": "r/MachineLearning",
-            "title": "Gemini 2.5 Pro beats GPT-4o on coding tasks in blind test — community shocked",
-            "insight": "社区情绪从「Google追赶」转向「Google已超越」，认知拐点出现",
-            "sentiment": "positive",
-            "comments": 1204,
-            "url": "https://www.reddit.com/r/MachineLearning/"
-        },
-        {
-            "id": 3,
-            "source": "X",
-            "title": "Thread: 'AI replaced my entire research workflow — here's what I actually use'",
-            "insight": "Perplexity+Claude+Notebook LM三件套成为知识工作者新标配",
-            "sentiment": "positive",
-            "comments": 847,
-            "url": "https://x.com/search?q=AI+research+workflow"
-        },
-        {
-            "id": 4,
             "source": "HackerNews",
-            "title": "Show HN: I built a local AI that runs entirely offline — 50k stars in 3 days",
-            "insight": "隐私需求驱动的本地AI爆发，企业防火墙内部署需求被严重低估",
+            "title": "Direct electrochemical black coffee quality appraisal using cyclic voltammetry",
+            "insight": "HN 热议：47 分 · 13 评论",
+            "sentiment": "neutral",
+            "comments": 13,
+            "url": "https://www.nature.com/articles/s41467-026-71526-5",
+            "id": 2
+        },
+        {
+            "source": "HackerNews",
+            "title": "The gay jailbreak technique (2025)",
+            "insight": "HN 热议：507 分 · 206 评论",
             "sentiment": "positive",
-            "comments": 612,
-            "url": "https://news.ycombinator.com/show"
+            "comments": 206,
+            "url": "https://github.com/Exocija/ZetaLib/blob/main/The%20Gay%20Jailbreak/The%20Gay%20Jailbreak.md",
+            "id": 3
         },
         {
-            "id": 5,
-            "source": "Reddit",
-            "subreddit": "r/singularity",
-            "title": "Debate: Are we already in the AGI transition period?",
-            "insight": "社区对AGI时间线预测大幅提前，悲观/乐观分化加剧",
-            "sentiment": "mixed",
-            "comments": 2341,
-            "url": "https://www.reddit.com/r/singularity/"
+            "source": "HackerNews",
+            "title": "Chasing a SharedKey signature mismatch: fix azurerm_storage_table_entity",
+            "insight": "HN 热议：11 分 · 4 评论",
+            "sentiment": "neutral",
+            "comments": 4,
+            "url": "https://topaz.thecloudtheory.com/blog/debugging-table-entity-auth/",
+            "id": 4
         },
         {
-            "id": 6,
-            "source": "X",
-            "title": "SWE community pushback: 'AI coding tools introduce subtle bugs at scale'",
-            "insight": "高级工程师对AI代码质量的担忧上升，可靠性是下一个竞争维度",
-            "sentiment": "negative",
-            "comments": 523,
-            "url": "https://x.com/search?q=AI+coding+bugs"
+            "source": "HackerNews",
+            "title": "Show HN: AI CAD Harness",
+            "insight": "HN 热议：85 分 · 85 评论",
+            "sentiment": "neutral",
+            "comments": 85,
+            "url": "https://fusion.adam.new/install",
+            "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-02T02:22:03Z",
+    "updated": "2026-05-02T08:14:38Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
