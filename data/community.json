@@ -1,49 +1,49 @@
 {
-  "updated": "2026-05-03T07:30:18Z",
+  "updated": "2026-05-03T11:27:34Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML",
-      "insight": "HN 热议：11 分 · 3 评论",
+      "title": "Group averages obscure how an individual's brain controls behavior: study",
+      "insight": "HN 热议：14 分 · 0 评论",
       "sentiment": "neutral",
-      "comments": 3,
-      "url": "https://acai.sh/blog/specsmaxxing",
+      "comments": 0,
+      "url": "https://med.stanford.edu/news/all-news/2026/04/brain-scans-individual-versus-group.html",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
-      "insight": "HN 热议：1087 分 · 513 评论",
-      "sentiment": "positive",
-      "comments": 513,
-      "url": "https://github.com/microsoft/vscode/pull/310226",
+      "title": "Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML",
+      "insight": "HN 热议：141 分 · 134 评论",
+      "sentiment": "neutral",
+      "comments": 134,
+      "url": "https://acai.sh/blog/specsmaxxing",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
-      "insight": "HN 热议：228 分 · 103 评论",
-      "sentiment": "positive",
-      "comments": 103,
-      "url": "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/",
+      "title": "Thoth – open-source Local-first AI Assistant",
+      "insight": "HN 热议：4 分 · 0 评论",
+      "sentiment": "neutral",
+      "comments": 0,
+      "url": "https://github.com/siddsachar/Thoth",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "The agent harness belongs outside the sandbox",
-      "insight": "HN 热议：93 分 · 72 评论",
-      "sentiment": "neutral",
-      "comments": 72,
-      "url": "https://www.mendral.com/blog/agent-harness-belongs-outside-sandbox",
+      "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
+      "insight": "HN 热议：1239 分 · 646 评论",
+      "sentiment": "positive",
+      "comments": 646,
+      "url": "https://github.com/microsoft/vscode/pull/310226",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "When Dawkins met Claude – Could this AI be conscious?",
-      "insight": "HN 热议：23 分 · 119 评论",
+      "title": "The agent harness belongs outside the sandbox",
+      "insight": "HN 热议：113 分 · 83 评论",
       "sentiment": "neutral",
-      "comments": 119,
-      "url": "https://unherd.com/2026/04/is-ai-the-next-phase-of-evolution/",
+      "comments": 83,
+      "url": "https://www.mendral.com/blog/agent-harness-belongs-outside-sandbox",
       "id": 5
     }
   ]

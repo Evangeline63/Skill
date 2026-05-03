@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-03T07:30:18Z",
+    "updated": "2026-05-03T11:27:34Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-03T07:30:18Z",
+    "updated": "2026-05-03T11:27:34Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-03T07:30:18Z",
+    "updated": "2026-05-03T11:27:34Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 183948,
-            "stars_today": 183948,
+            "stars": 183947,
+            "stars_today": 183947,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 161415,
-            "stars_today": 161415,
+            "stars": 161430,
+            "stars_today": 161430,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 92573,
-            "stars_today": 92573,
+            "stars": 92576,
+            "stars_today": 92576,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 72533,
-            "stars_today": 72533,
+            "stars": 72541,
+            "stars_today": 72541,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with ",
             "language": "TypeScript",
-            "stars": 71192,
-            "stars_today": 71192,
+            "stars": 71270,
+            "stars_today": 71270,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 52501,
-            "stars_today": 52501,
+            "stars": 52504,
+            "stars_today": 52504,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-03T07:30:18Z",
+    "updated": "2026-05-03T11:27:34Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-03T07:30:18Z",
+    "updated": "2026-05-03T11:27:34Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-03T07:30:18Z",
+    "updated": "2026-05-03T11:27:34Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML",
-            "insight": "HN 热议：11 分 · 3 评论",
+            "title": "Group averages obscure how an individual's brain controls behavior: study",
+            "insight": "HN 热议：14 分 · 0 评论",
             "sentiment": "neutral",
-            "comments": 3,
-            "url": "https://acai.sh/blog/specsmaxxing",
+            "comments": 0,
+            "url": "https://med.stanford.edu/news/all-news/2026/04/brain-scans-individual-versus-group.html",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
-            "insight": "HN 热议：1087 分 · 513 评论",
-            "sentiment": "positive",
-            "comments": 513,
-            "url": "https://github.com/microsoft/vscode/pull/310226",
+            "title": "Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML",
+            "insight": "HN 热议：141 分 · 134 评论",
+            "sentiment": "neutral",
+            "comments": 134,
+            "url": "https://acai.sh/blog/specsmaxxing",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
-            "insight": "HN 热议：228 分 · 103 评论",
-            "sentiment": "positive",
-            "comments": 103,
-            "url": "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/",
+            "title": "Thoth – open-source Local-first AI Assistant",
+            "insight": "HN 热议：4 分 · 0 评论",
+            "sentiment": "neutral",
+            "comments": 0,
+            "url": "https://github.com/siddsachar/Thoth",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "The agent harness belongs outside the sandbox",
-            "insight": "HN 热议：93 分 · 72 评论",
-            "sentiment": "neutral",
-            "comments": 72,
-            "url": "https://www.mendral.com/blog/agent-harness-belongs-outside-sandbox",
+            "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
+            "insight": "HN 热议：1239 分 · 646 评论",
+            "sentiment": "positive",
+            "comments": 646,
+            "url": "https://github.com/microsoft/vscode/pull/310226",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "When Dawkins met Claude – Could this AI be conscious?",
-            "insight": "HN 热议：23 分 · 119 评论",
+            "title": "The agent harness belongs outside the sandbox",
+            "insight": "HN 热议：113 分 · 83 评论",
             "sentiment": "neutral",
-            "comments": 119,
-            "url": "https://unherd.com/2026/04/is-ai-the-next-phase-of-evolution/",
+            "comments": 83,
+            "url": "https://www.mendral.com/blog/agent-harness-belongs-outside-sandbox",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-03T07:30:18Z",
+    "updated": "2026-05-03T11:27:34Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
