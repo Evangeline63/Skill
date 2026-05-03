@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-03T17:34:35Z",
+    "updated": "2026-05-03T20:05:09Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-03T17:34:35Z",
+    "updated": "2026-05-03T20:05:09Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-03T17:34:35Z",
+    "updated": "2026-05-03T20:05:09Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 183957,
-            "stars_today": 183957,
+            "stars": 183959,
+            "stars_today": 183959,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 161449,
-            "stars_today": 161449,
+            "stars": 161455,
+            "stars_today": 161455,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 92581,
-            "stars_today": 92581,
+            "stars": 92585,
+            "stars_today": 92585,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 72553,
-            "stars_today": 72553,
+            "stars": 72555,
+            "stars_today": 72555,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with ",
             "language": "TypeScript",
-            "stars": 71409,
-            "stars_today": 71409,
+            "stars": 71475,
+            "stars_today": 71475,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 52504,
-            "stars_today": 52504,
+            "stars": 52506,
+            "stars_today": 52506,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-03T17:34:35Z",
+    "updated": "2026-05-03T20:05:09Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-03T17:34:35Z",
+    "updated": "2026-05-03T20:05:09Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-03T17:34:35Z",
+    "updated": "2026-05-03T20:05:09Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Group averages obscure how an individual's brain controls behavior: study",
-            "insight": "HN 热议：86 分 · 23 评论",
+            "title": "OpenAI's o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors",
+            "insight": "HN 热议：97 分 · 29 评论",
             "sentiment": "neutral",
-            "comments": 23,
-            "url": "https://med.stanford.edu/news/all-news/2026/04/brain-scans-individual-versus-group.html",
+            "comments": 29,
+            "url": "https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "I Built SpecDD Because AI Kept Forgetting What We Were Building",
-            "insight": "HN 热议：11 分 · 3 评论",
+            "title": "Talking to Transformers",
+            "insight": "HN 热议：10 分 · 1 评论",
             "sentiment": "neutral",
-            "comments": 3,
-            "url": "https://specdd.ai/articles/i-built-specdd-because-ai-kept-forgetting-what-we-were-building/",
+            "comments": 1,
+            "url": "https://miraos.org/blog/2026/05/02/talking-to-transformers",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "The Hiddn Financial Bubble in AI Infrastructure [pdf]",
-            "insight": "HN 热议：7 分 · 8 评论",
+            "title": "I built my own hair electrolysis machine",
+            "insight": "HN 热议：86 分 · 14 评论",
             "sentiment": "neutral",
-            "comments": 8,
-            "url": "https://financial-ai-bubble.pagey.site/The-Hidden-Financial-Bubble-in-AI-Infrastructure.pdf",
+            "comments": 14,
+            "url": "https://www.scd31.com/posts/diy-hair-electrolysis-machine",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
-            "insight": "HN 热议：1408 分 · 760 评论",
-            "sentiment": "positive",
-            "comments": 760,
-            "url": "https://github.com/microsoft/vscode/pull/310226",
+            "title": "Brain scans reveal 3 ADHD subtypes",
+            "insight": "HN 热议：46 分 · 15 评论",
+            "sentiment": "neutral",
+            "comments": 15,
+            "url": "https://www.washingtonpost.com/health/2026/04/30/adhd-subtype-extreme-brain-scans/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML",
-            "insight": "HN 热议：230 分 · 243 评论",
-            "sentiment": "positive",
-            "comments": 243,
-            "url": "https://acai.sh/blog/specsmaxxing",
+            "title": "Group averages obscure how an individual's brain controls behavior: study",
+            "insight": "HN 热议：100 分 · 28 评论",
+            "sentiment": "neutral",
+            "comments": 28,
+            "url": "https://med.stanford.edu/news/all-news/2026/04/brain-scans-individual-versus-group.html",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-03T17:34:35Z",
+    "updated": "2026-05-03T20:05:09Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
