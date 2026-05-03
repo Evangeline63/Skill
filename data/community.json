@@ -1,49 +1,49 @@
 {
-  "updated": "2026-05-03T20:05:09Z",
+  "updated": "2026-05-03T23:28:39Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "OpenAI's o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors",
-      "insight": "HN 热议：97 分 · 29 评论",
+      "title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro, 17x cheaper",
+      "insight": "HN 热议：43 分 · 21 评论",
       "sentiment": "neutral",
-      "comments": 29,
-      "url": "https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses",
+      "comments": 21,
+      "url": "https://github.com/aattaran/deepclaude",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Talking to Transformers",
-      "insight": "HN 热议：10 分 · 1 评论",
-      "sentiment": "neutral",
-      "comments": 1,
-      "url": "https://miraos.org/blog/2026/05/02/talking-to-transformers",
+      "title": "OpenAI's o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors",
+      "insight": "HN 热议：231 分 · 184 评论",
+      "sentiment": "positive",
+      "comments": 184,
+      "url": "https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "I built my own hair electrolysis machine",
-      "insight": "HN 热议：86 分 · 14 评论",
+      "insight": "HN 热议：153 分 · 42 评论",
       "sentiment": "neutral",
-      "comments": 14,
+      "comments": 42,
       "url": "https://www.scd31.com/posts/diy-hair-electrolysis-machine",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Brain scans reveal 3 ADHD subtypes",
-      "insight": "HN 热议：46 分 · 15 评论",
+      "title": "LLMs Are Not a Higher Level of Abstraction",
+      "insight": "HN 热议：13 分 · 8 评论",
       "sentiment": "neutral",
-      "comments": 15,
-      "url": "https://www.washingtonpost.com/health/2026/04/30/adhd-subtype-extreme-brain-scans/",
+      "comments": 8,
+      "url": "https://www.lelanthran.com/chap15/content.html",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Group averages obscure how an individual's brain controls behavior: study",
-      "insight": "HN 热议：100 分 · 28 评论",
+      "title": "The agent harness belongs outside the sandbox",
+      "insight": "HN 热议：164 分 · 111 评论",
       "sentiment": "neutral",
-      "comments": 28,
-      "url": "https://med.stanford.edu/news/all-news/2026/04/brain-scans-individual-versus-group.html",
+      "comments": 111,
+      "url": "https://www.mendral.com/blog/agent-harness-belongs-outside-sandbox",
       "id": 5
     }
   ]
