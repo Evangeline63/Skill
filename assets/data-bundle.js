@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-02T23:27:19Z",
+    "updated": "2026-05-03T07:30:18Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-02T23:27:19Z",
+    "updated": "2026-05-03T07:30:18Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-02T23:27:19Z",
+    "updated": "2026-05-03T07:30:18Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 183945,
-            "stars_today": 183945,
+            "stars": 183948,
+            "stars_today": 183948,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 161394,
-            "stars_today": 161394,
+            "stars": 161415,
+            "stars_today": 161415,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 92562,
-            "stars_today": 92562,
+            "stars": 92573,
+            "stars_today": 92573,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 72524,
-            "stars_today": 72524,
+            "stars": 72533,
+            "stars_today": 72533,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with ",
             "language": "TypeScript",
-            "stars": 71058,
-            "stars_today": 71058,
+            "stars": 71192,
+            "stars_today": 71192,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 52494,
-            "stars_today": 52494,
+            "stars": 52501,
+            "stars_today": 52501,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-02T23:27:19Z",
+    "updated": "2026-05-03T07:30:18Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-02T23:27:19Z",
+    "updated": "2026-05-03T07:30:18Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-02T23:27:19Z",
+    "updated": "2026-05-03T07:30:18Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
-            "insight": "HN 热议：508 分 · 226 评论",
-            "sentiment": "positive",
-            "comments": 226,
-            "url": "https://github.com/microsoft/vscode/pull/310226",
+            "title": "Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML",
+            "insight": "HN 热议：11 分 · 3 评论",
+            "sentiment": "neutral",
+            "comments": 3,
+            "url": "https://acai.sh/blog/specsmaxxing",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "The agent harness belongs outside the sandbox",
-            "insight": "HN 热议：36 分 · 27 评论",
-            "sentiment": "neutral",
-            "comments": 27,
-            "url": "https://www.mendral.com/blog/agent-harness-belongs-outside-sandbox",
+            "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
+            "insight": "HN 热议：1087 分 · 513 评论",
+            "sentiment": "positive",
+            "comments": 513,
+            "url": "https://github.com/microsoft/vscode/pull/310226",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Flue is a TypeScript framework for building the next generation of agents",
-            "insight": "HN 热议：77 分 · 42 评论",
-            "sentiment": "neutral",
-            "comments": 42,
-            "url": "https://flueframework.com/",
+            "title": "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
+            "insight": "HN 热议：228 分 · 103 评论",
+            "sentiment": "positive",
+            "comments": 103,
+            "url": "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Open Design: Use Your Coding Agent as a Design Engine",
-            "insight": "HN 热议：161 分 · 82 评论",
+            "title": "The agent harness belongs outside the sandbox",
+            "insight": "HN 热议：93 分 · 72 评论",
             "sentiment": "neutral",
-            "comments": 82,
-            "url": "https://github.com/nexu-io/open-design",
+            "comments": 72,
+            "url": "https://www.mendral.com/blog/agent-harness-belongs-outside-sandbox",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "AWS Lightsail's $0.09/GB Bandwidth Overage Is a Trap for Small Projects",
-            "insight": "HN 热议：8 分 · 1 评论",
+            "title": "When Dawkins met Claude – Could this AI be conscious?",
+            "insight": "HN 热议：23 分 · 119 评论",
             "sentiment": "neutral",
-            "comments": 1,
-            "url": "https://galaxycloudsolutions.com/blog/aws-lightsail-vs-galaxy-cloud-solutions/",
+            "comments": 119,
+            "url": "https://unherd.com/2026/04/is-ai-the-next-phase-of-evolution/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-02T23:27:19Z",
+    "updated": "2026-05-03T07:30:18Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
