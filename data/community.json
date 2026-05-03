@@ -1,49 +1,49 @@
 {
-  "updated": "2026-05-03T11:27:34Z",
+  "updated": "2026-05-03T14:38:26Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Group averages obscure how an individual's brain controls behavior: study",
-      "insight": "HN 热议：14 分 · 0 评论",
+      "insight": "HN 热议：62 分 · 9 评论",
       "sentiment": "neutral",
-      "comments": 0,
+      "comments": 9,
       "url": "https://med.stanford.edu/news/all-news/2026/04/brain-scans-individual-versus-group.html",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML",
-      "insight": "HN 热议：141 分 · 134 评论",
+      "insight": "HN 热议：190 分 · 210 评论",
       "sentiment": "neutral",
-      "comments": 134,
+      "comments": 210,
       "url": "https://acai.sh/blog/specsmaxxing",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Thoth – open-source Local-first AI Assistant",
-      "insight": "HN 热议：4 分 · 0 评论",
-      "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://github.com/siddsachar/Thoth",
+      "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
+      "insight": "HN 热议：1339 分 · 710 评论",
+      "sentiment": "positive",
+      "comments": 710,
+      "url": "https://github.com/microsoft/vscode/pull/310226",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
-      "insight": "HN 热议：1239 分 · 646 评论",
-      "sentiment": "positive",
-      "comments": 646,
-      "url": "https://github.com/microsoft/vscode/pull/310226",
+      "title": "The agent harness belongs outside the sandbox",
+      "insight": "HN 热议：125 分 · 91 评论",
+      "sentiment": "neutral",
+      "comments": 91,
+      "url": "https://www.mendral.com/blog/agent-harness-belongs-outside-sandbox",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "The agent harness belongs outside the sandbox",
-      "insight": "HN 热议：113 分 · 83 评论",
+      "title": "AI, Intimacy, and the Data You Never Meant to Share",
+      "insight": "HN 热议：55 分 · 2 评论",
       "sentiment": "neutral",
-      "comments": 83,
-      "url": "https://www.mendral.com/blog/agent-harness-belongs-outside-sandbox",
+      "comments": 2,
+      "url": "https://fshot.org/techzone/the-algorithm-knows.php",
       "id": 5
     }
   ]
