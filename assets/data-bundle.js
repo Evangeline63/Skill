@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-04T15:33:27Z",
+    "updated": "2026-05-04T19:10:19Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-04T15:33:27Z",
+    "updated": "2026-05-04T19:10:19Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-04T15:33:27Z",
+    "updated": "2026-05-04T19:10:19Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 183978,
-            "stars_today": 183978,
+            "stars": 183984,
+            "stars_today": 183984,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 161523,
-            "stars_today": 161523,
+            "stars": 161537,
+            "stars_today": 161537,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 92604,
-            "stars_today": 92604,
+            "stars": 92608,
+            "stars_today": 92608,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 72607,
-            "stars_today": 72607,
+            "stars": 72613,
+            "stars_today": 72613,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with ",
             "language": "TypeScript",
-            "stars": 71859,
-            "stars_today": 71859,
+            "stars": 71934,
+            "stars_today": 71934,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 52526,
-            "stars_today": 52526,
+            "stars": 52528,
+            "stars_today": 52528,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-04T15:33:27Z",
+    "updated": "2026-05-04T19:10:19Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-04T15:33:27Z",
+    "updated": "2026-05-04T19:10:19Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-04T15:33:27Z",
+    "updated": "2026-05-04T19:10:19Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Why are neural networks and cryptographic ciphers so similar? (2025)",
-            "insight": "HN 热议：62 分 · 20 评论",
+            "title": "Let's Talk about LLMs",
+            "insight": "HN 热议：13 分 · 2 评论",
             "sentiment": "neutral",
-            "comments": 20,
-            "url": "https://reiner.org/neural-net-ciphers",
+            "comments": 2,
+            "url": "https://www.b-list.org/weblog/2026/apr/09/llms/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro",
-            "insight": "HN 热议：574 分 · 241 评论",
-            "sentiment": "positive",
-            "comments": 241,
-            "url": "https://github.com/aattaran/deepclaude",
+            "title": "Why are neural networks and cryptographic ciphers so similar? (2025)",
+            "insight": "HN 热议：96 分 · 32 评论",
+            "sentiment": "neutral",
+            "comments": 32,
+            "url": "https://reiner.org/neural-net-ciphers",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Someone allegedly used a hairdryer to rig Polymarket weather bets",
-            "insight": "HN 热议：75 分 · 35 评论",
-            "sentiment": "neutral",
-            "comments": 35,
-            "url": "https://www.engadget.com/big-tech/someone-allegedly-used-a-hairdryer-to-rig-polymarket-weather-bets-155312411.html",
+            "title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro",
+            "insight": "HN 热议：623 分 · 264 评论",
+            "sentiment": "positive",
+            "comments": 264,
+            "url": "https://github.com/aattaran/deepclaude",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Let's Buy Spirit Air",
-            "insight": "HN 热议：476 分 · 451 评论",
-            "sentiment": "positive",
-            "comments": 451,
-            "url": "https://letsbuyspiritair.com/",
+            "title": "Usage-based pricing killing your vibe, here's how to roll your own local AI",
+            "insight": "HN 热议：9 分 · 4 评论",
+            "sentiment": "neutral",
+            "comments": 4,
+            "url": "https://www.theregister.com/2026/05/02/local_ai_coding_agents/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "OpenAI’s o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors",
-            "insight": "HN 热议：458 分 · 404 评论",
+            "title": "Let's Buy Spirit Air",
+            "insight": "HN 热议：545 分 · 522 评论",
             "sentiment": "positive",
-            "comments": 404,
-            "url": "https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses",
+            "comments": 522,
+            "url": "https://letsbuyspiritair.com/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-04T15:33:27Z",
+    "updated": "2026-05-04T19:10:19Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

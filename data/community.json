@@ -1,49 +1,49 @@
 {
-  "updated": "2026-05-04T15:33:27Z",
+  "updated": "2026-05-04T19:10:19Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Why are neural networks and cryptographic ciphers so similar? (2025)",
-      "insight": "HN 热议：62 分 · 20 评论",
+      "title": "Let's Talk about LLMs",
+      "insight": "HN 热议：13 分 · 2 评论",
       "sentiment": "neutral",
-      "comments": 20,
-      "url": "https://reiner.org/neural-net-ciphers",
+      "comments": 2,
+      "url": "https://www.b-list.org/weblog/2026/apr/09/llms/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro",
-      "insight": "HN 热议：574 分 · 241 评论",
-      "sentiment": "positive",
-      "comments": 241,
-      "url": "https://github.com/aattaran/deepclaude",
+      "title": "Why are neural networks and cryptographic ciphers so similar? (2025)",
+      "insight": "HN 热议：96 分 · 32 评论",
+      "sentiment": "neutral",
+      "comments": 32,
+      "url": "https://reiner.org/neural-net-ciphers",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Someone allegedly used a hairdryer to rig Polymarket weather bets",
-      "insight": "HN 热议：75 分 · 35 评论",
-      "sentiment": "neutral",
-      "comments": 35,
-      "url": "https://www.engadget.com/big-tech/someone-allegedly-used-a-hairdryer-to-rig-polymarket-weather-bets-155312411.html",
+      "title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro",
+      "insight": "HN 热议：623 分 · 264 评论",
+      "sentiment": "positive",
+      "comments": 264,
+      "url": "https://github.com/aattaran/deepclaude",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Let's Buy Spirit Air",
-      "insight": "HN 热议：476 分 · 451 评论",
-      "sentiment": "positive",
-      "comments": 451,
-      "url": "https://letsbuyspiritair.com/",
+      "title": "Usage-based pricing killing your vibe, here's how to roll your own local AI",
+      "insight": "HN 热议：9 分 · 4 评论",
+      "sentiment": "neutral",
+      "comments": 4,
+      "url": "https://www.theregister.com/2026/05/02/local_ai_coding_agents/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "OpenAI’s o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors",
-      "insight": "HN 热议：458 分 · 404 评论",
+      "title": "Let's Buy Spirit Air",
+      "insight": "HN 热议：545 分 · 522 评论",
       "sentiment": "positive",
-      "comments": 404,
-      "url": "https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses",
+      "comments": 522,
+      "url": "https://letsbuyspiritair.com/",
       "id": 5
     }
   ]
