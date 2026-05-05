@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-05T10:27:12Z",
+    "updated": "2026-05-05T13:05:19Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-05T10:27:12Z",
+    "updated": "2026-05-05T13:05:19Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-05T10:27:12Z",
+    "updated": "2026-05-05T13:05:19Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 183998,
-            "stars_today": 183998,
+            "stars": 183996,
+            "stars_today": 183996,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 161582,
-            "stars_today": 161582,
+            "stars": 161592,
+            "stars_today": 161592,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 92631,
-            "stars_today": 92631,
+            "stars": 92638,
+            "stars_today": 92638,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 72635,
-            "stars_today": 72635,
+            "stars": 72645,
+            "stars_today": 72645,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with ",
             "language": "TypeScript",
-            "stars": 72201,
-            "stars_today": 72201,
+            "stars": 72251,
+            "stars_today": 72251,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 52539,
-            "stars_today": 52539,
+            "stars": 52542,
+            "stars_today": 52542,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-05T10:27:12Z",
+    "updated": "2026-05-05T13:05:19Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-05T10:27:12Z",
+    "updated": "2026-05-05T13:05:19Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-05T10:27:12Z",
+    "updated": "2026-05-05T13:05:19Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Should I Run Plain Docker Compose in Production in 2026?",
-            "insight": "HN 热议：27 分 · 12 评论",
+            "insight": "HN 热议：121 分 · 98 评论",
             "sentiment": "neutral",
-            "comments": 12,
+            "comments": 98,
             "url": "https://distr.sh/blog/running-docker-in-production/",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "Lessons for Agentic Coding: What should we do when code is cheap?",
-            "insight": "HN 热议：59 分 · 49 评论",
+            "insight": "HN 热议：115 分 · 98 评论",
             "sentiment": "neutral",
-            "comments": 49,
+            "comments": 98,
             "url": "https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
-            "insight": "HN 热议：240 分 · 247 评论",
+            "insight": "HN 热议：437 分 · 416 评论",
             "sentiment": "positive",
-            "comments": 247,
+            "comments": 416,
             "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
             "id": 3
         },
         {
             "source": "HackerNews",
             "title": "How OpenAI delivers low-latency voice AI at scale",
-            "insight": "HN 热议：409 分 · 128 评论",
+            "insight": "HN 热议：427 分 · 133 评论",
             "sentiment": "positive",
-            "comments": 128,
+            "comments": 133,
             "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "CVE-2026-31431: Copy Fail vs. rootless containers",
-            "insight": "HN 热议：108 分 · 44 评论",
+            "title": "When everyone has AI and the company still learns nothing",
+            "insight": "HN 热议：85 分 · 56 评论",
             "sentiment": "neutral",
-            "comments": 44,
-            "url": "https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/",
+            "comments": 56,
+            "url": "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-05T10:27:12Z",
+    "updated": "2026-05-05T13:05:19Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

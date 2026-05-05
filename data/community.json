@@ -1,49 +1,49 @@
 {
-  "updated": "2026-05-05T10:27:12Z",
+  "updated": "2026-05-05T13:05:19Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Should I Run Plain Docker Compose in Production in 2026?",
-      "insight": "HN 热议：27 分 · 12 评论",
+      "insight": "HN 热议：121 分 · 98 评论",
       "sentiment": "neutral",
-      "comments": 12,
+      "comments": 98,
       "url": "https://distr.sh/blog/running-docker-in-production/",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "Lessons for Agentic Coding: What should we do when code is cheap?",
-      "insight": "HN 热议：59 分 · 49 评论",
+      "insight": "HN 热议：115 分 · 98 评论",
       "sentiment": "neutral",
-      "comments": 49,
+      "comments": 98,
       "url": "https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
-      "insight": "HN 热议：240 分 · 247 评论",
+      "insight": "HN 热议：437 分 · 416 评论",
       "sentiment": "positive",
-      "comments": 247,
+      "comments": 416,
       "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "How OpenAI delivers low-latency voice AI at scale",
-      "insight": "HN 热议：409 分 · 128 评论",
+      "insight": "HN 热议：427 分 · 133 评论",
       "sentiment": "positive",
-      "comments": 128,
+      "comments": 133,
       "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "CVE-2026-31431: Copy Fail vs. rootless containers",
-      "insight": "HN 热议：108 分 · 44 评论",
+      "title": "When everyone has AI and the company still learns nothing",
+      "insight": "HN 热议：85 分 · 56 评论",
       "sentiment": "neutral",
-      "comments": 44,
-      "url": "https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/",
+      "comments": 56,
+      "url": "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/",
       "id": 5
     }
   ]
