@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-05T16:17:35Z",
+    "updated": "2026-05-05T19:01:53Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-05T16:17:35Z",
+    "updated": "2026-05-05T19:01:53Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-05T16:17:35Z",
+    "updated": "2026-05-05T19:01:53Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184002,
-            "stars_today": 184002,
+            "stars": 184003,
+            "stars_today": 184003,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 161602,
-            "stars_today": 161602,
+            "stars": 161608,
+            "stars_today": 161608,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 92645,
-            "stars_today": 92645,
+            "stars": 92649,
+            "stars_today": 92649,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 72658,
-            "stars_today": 72658,
+            "stars": 72667,
+            "stars_today": 72667,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with ",
             "language": "TypeScript",
-            "stars": 72352,
-            "stars_today": 72352,
+            "stars": 72408,
+            "stars_today": 72408,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 52550,
-            "stars_today": 52550,
+            "stars": 52558,
+            "stars_today": 52558,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-05T16:17:35Z",
+    "updated": "2026-05-05T19:01:53Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-05T16:17:35Z",
+    "updated": "2026-05-05T19:01:53Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-05T16:17:35Z",
+    "updated": "2026-05-05T19:01:53Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Agents for financial services and insurance",
-            "insight": "HN 热议：58 分 · 38 评论",
-            "sentiment": "neutral",
-            "comments": 38,
-            "url": "https://www.anthropic.com/news/finance-agents",
+            "title": "Three Inverse Laws of AI",
+            "insight": "HN 热议：239 分 · 154 评论",
+            "sentiment": "positive",
+            "comments": 154,
+            "url": "https://susam.net/inverse-laws-of-robotics.html",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Three Inverse Laws of AI",
-            "insight": "HN 热议：40 分 · 10 评论",
+            "title": "GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents",
+            "insight": "HN 热议：38 分 · 6 评论",
             "sentiment": "neutral",
-            "comments": 10,
-            "url": "https://susam.net/inverse-laws-of-robotics.html",
+            "comments": 6,
+            "url": "https://arxiv.org/abs/2604.26752",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Should I Run Plain Docker Compose in Production in 2026?",
-            "insight": "HN 热议：219 分 · 173 评论",
-            "sentiment": "positive",
-            "comments": 173,
-            "url": "https://distr.sh/blog/running-docker-in-production/",
+            "title": "Agents for financial services and insurance",
+            "insight": "HN 热议：116 分 · 97 评论",
+            "sentiment": "neutral",
+            "comments": 97,
+            "url": "https://www.anthropic.com/news/finance-agents",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "When everyone has AI and the company still learns nothing",
-            "insight": "HN 热议：173 分 · 104 评论",
+            "title": "Show HN: Airbyte Agents – context for agents across multiple data sources",
+            "insight": "HN 热议：51 分 · 6 评论",
             "sentiment": "neutral",
-            "comments": 104,
-            "url": "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/",
+            "comments": 6,
+            "url": "https://news.ycombinator.com/item?id=48023496",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Airbyte Agents – context for agents across multiple data sources",
-            "insight": "HN 热议：23 分 · 3 评论",
-            "sentiment": "neutral",
-            "comments": 3,
-            "url": "https://news.ycombinator.com/item?id=48023496",
+            "title": "Should I Run Plain Docker Compose in Production in 2026?",
+            "insight": "HN 热议：280 分 · 209 评论",
+            "sentiment": "positive",
+            "comments": 209,
+            "url": "https://distr.sh/blog/running-docker-in-production/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-05T16:17:35Z",
+    "updated": "2026-05-05T19:01:53Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
