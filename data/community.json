@@ -1,49 +1,49 @@
 {
-  "updated": "2026-05-04T21:51:07Z",
+  "updated": "2026-05-05T01:28:38Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "How OpenAI delivers low-latency voice AI at scale",
-      "insight": "HN 热议：112 分 · 53 评论",
-      "sentiment": "neutral",
-      "comments": 53,
+      "insight": "HN 热议：271 分 · 99 评论",
+      "sentiment": "positive",
+      "comments": 99,
       "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Let's talk about LLMs",
-      "insight": "HN 热议：84 分 · 50 评论",
+      "title": "Agent Skills",
+      "insight": "HN 热议：95 分 · 27 评论",
       "sentiment": "neutral",
-      "comments": 50,
-      "url": "https://www.b-list.org/weblog/2026/apr/09/llms/",
+      "comments": 27,
+      "url": "https://addyosmani.com/blog/agent-skills/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Sierra Raises $950M at $15B Valuation",
-      "insight": "HN 热议：62 分 · 86 评论",
+      "title": "Transformers Are Inherently Succinct (2025)",
+      "insight": "HN 热议：29 分 · 6 评论",
       "sentiment": "neutral",
-      "comments": 86,
-      "url": "https://sierra.ai/blog/better-customer-experiences-built-on-sierra",
+      "comments": 6,
+      "url": "https://arxiv.org/abs/2510.19315",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Transformers Are Inherently Succinct",
-      "insight": "HN 热议：6 分 · 1 评论",
+      "title": "Sierra Raises $950M at $15B Valuation",
+      "insight": "HN 热议：87 分 · 119 评论",
       "sentiment": "neutral",
-      "comments": 1,
-      "url": "https://arxiv.org/abs/2510.19315",
+      "comments": 119,
+      "url": "https://sierra.ai/blog/better-customer-experiences-built-on-sierra",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Why are neural networks and cryptographic ciphers so similar? (2025)",
-      "insight": "HN 热议：116 分 · 34 评论",
+      "title": "Let's talk about LLMs",
+      "insight": "HN 热议：137 分 · 109 评论",
       "sentiment": "neutral",
-      "comments": 34,
-      "url": "https://reiner.org/neural-net-ciphers",
+      "comments": 109,
+      "url": "https://www.b-list.org/weblog/2026/apr/09/llms/",
       "id": 5
     }
   ]
