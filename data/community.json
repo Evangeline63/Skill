@@ -1,49 +1,49 @@
 {
-  "updated": "2026-05-05T07:51:12Z",
+  "updated": "2026-05-05T10:27:12Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Train Your Own LLM from Scratch",
-      "insight": "HN 热议：168 分 · 20 评论",
+      "title": "Should I Run Plain Docker Compose in Production in 2026?",
+      "insight": "HN 热议：27 分 · 12 评论",
       "sentiment": "neutral",
-      "comments": 20,
-      "url": "https://github.com/angelos-p/llm-from-scratch",
+      "comments": 12,
+      "url": "https://distr.sh/blog/running-docker-in-production/",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "Lessons for Agentic Coding: What should we do when code is cheap?",
-      "insight": "HN 热议：11 分 · 2 评论",
+      "insight": "HN 热议：59 分 · 49 评论",
       "sentiment": "neutral",
-      "comments": 2,
+      "comments": 49,
       "url": "https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "How OpenAI delivers low-latency voice AI at scale",
-      "insight": "HN 热议：388 分 · 120 评论",
+      "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
+      "insight": "HN 热议：240 分 · 247 评论",
       "sentiment": "positive",
-      "comments": 120,
-      "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
+      "comments": 247,
+      "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "CVE-2026-31431: Copy Fail vs. rootless containers",
-      "insight": "HN 热议：80 分 · 25 评论",
-      "sentiment": "neutral",
-      "comments": 25,
-      "url": "https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/",
+      "title": "How OpenAI delivers low-latency voice AI at scale",
+      "insight": "HN 热议：409 分 · 128 评论",
+      "sentiment": "positive",
+      "comments": 128,
+      "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Agent Skills",
-      "insight": "HN 热议：229 分 · 100 评论",
-      "sentiment": "positive",
-      "comments": 100,
-      "url": "https://addyosmani.com/blog/agent-skills/",
+      "title": "CVE-2026-31431: Copy Fail vs. rootless containers",
+      "insight": "HN 热议：108 分 · 44 评论",
+      "sentiment": "neutral",
+      "comments": 44,
+      "url": "https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/",
       "id": 5
     }
   ]
