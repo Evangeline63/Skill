@@ -1,49 +1,49 @@
 {
-  "updated": "2026-05-05T01:28:38Z",
+  "updated": "2026-05-05T05:32:36Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "How OpenAI delivers low-latency voice AI at scale",
-      "insight": "HN 热议：271 分 · 99 评论",
-      "sentiment": "positive",
-      "comments": 99,
-      "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
+      "title": "Train Your Own LLM from Scratch",
+      "insight": "HN 热议：37 分 · 3 评论",
+      "sentiment": "neutral",
+      "comments": 3,
+      "url": "https://github.com/angelos-p/llm-from-scratch",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Agent Skills",
-      "insight": "HN 热议：95 分 · 27 评论",
+      "title": "CVE-2026-31431: Copy Fail vs. rootless containers",
+      "insight": "HN 热议：48 分 · 12 评论",
       "sentiment": "neutral",
-      "comments": 27,
-      "url": "https://addyosmani.com/blog/agent-skills/",
+      "comments": 12,
+      "url": "https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Transformers Are Inherently Succinct (2025)",
-      "insight": "HN 热议：29 分 · 6 评论",
-      "sentiment": "neutral",
-      "comments": 6,
-      "url": "https://arxiv.org/abs/2510.19315",
+      "title": "How OpenAI delivers low-latency voice AI at scale",
+      "insight": "HN 热议：350 分 · 113 评论",
+      "sentiment": "positive",
+      "comments": 113,
+      "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Sierra Raises $950M at $15B Valuation",
-      "insight": "HN 热议：87 分 · 119 评论",
+      "title": "Agent Skills",
+      "insight": "HN 热议：190 分 · 79 评论",
       "sentiment": "neutral",
-      "comments": 119,
-      "url": "https://sierra.ai/blog/better-customer-experiences-built-on-sierra",
+      "comments": 79,
+      "url": "https://addyosmani.com/blog/agent-skills/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Let's talk about LLMs",
-      "insight": "HN 热议：137 分 · 109 评论",
-      "sentiment": "neutral",
-      "comments": 109,
-      "url": "https://www.b-list.org/weblog/2026/apr/09/llms/",
+      "title": "Y Combinator's Stake in OpenAI (0.6%)",
+      "insight": "HN 热议：226 分 · 18 评论",
+      "sentiment": "positive",
+      "comments": 18,
+      "url": "https://daringfireball.net/2026/05/y_combinators_stake_in_openai",
       "id": 5
     }
   ]

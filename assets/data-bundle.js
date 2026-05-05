@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-05T01:28:38Z",
+    "updated": "2026-05-05T05:32:36Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-05T01:28:38Z",
+    "updated": "2026-05-05T05:32:36Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-05T01:28:38Z",
+    "updated": "2026-05-05T05:32:36Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 183986,
-            "stars_today": 183986,
+            "stars": 183993,
+            "stars_today": 183993,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 161543,
-            "stars_today": 161543,
+            "stars": 161556,
+            "stars_today": 161556,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 92612,
-            "stars_today": 92612,
+            "stars": 92622,
+            "stars_today": 92622,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 72618,
-            "stars_today": 72618,
+            "stars": 72623,
+            "stars_today": 72623,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with ",
             "language": "TypeScript",
-            "stars": 72027,
-            "stars_today": 72027,
+            "stars": 72098,
+            "stars_today": 72098,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 52530,
-            "stars_today": 52530,
+            "stars": 52534,
+            "stars_today": 52534,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-05T01:28:38Z",
+    "updated": "2026-05-05T05:32:36Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-05T01:28:38Z",
+    "updated": "2026-05-05T05:32:36Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-05T01:28:38Z",
+    "updated": "2026-05-05T05:32:36Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "How OpenAI delivers low-latency voice AI at scale",
-            "insight": "HN 热议：271 分 · 99 评论",
-            "sentiment": "positive",
-            "comments": 99,
-            "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
+            "title": "Train Your Own LLM from Scratch",
+            "insight": "HN 热议：37 分 · 3 评论",
+            "sentiment": "neutral",
+            "comments": 3,
+            "url": "https://github.com/angelos-p/llm-from-scratch",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Agent Skills",
-            "insight": "HN 热议：95 分 · 27 评论",
+            "title": "CVE-2026-31431: Copy Fail vs. rootless containers",
+            "insight": "HN 热议：48 分 · 12 评论",
             "sentiment": "neutral",
-            "comments": 27,
-            "url": "https://addyosmani.com/blog/agent-skills/",
+            "comments": 12,
+            "url": "https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Transformers Are Inherently Succinct (2025)",
-            "insight": "HN 热议：29 分 · 6 评论",
-            "sentiment": "neutral",
-            "comments": 6,
-            "url": "https://arxiv.org/abs/2510.19315",
+            "title": "How OpenAI delivers low-latency voice AI at scale",
+            "insight": "HN 热议：350 分 · 113 评论",
+            "sentiment": "positive",
+            "comments": 113,
+            "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Sierra Raises $950M at $15B Valuation",
-            "insight": "HN 热议：87 分 · 119 评论",
+            "title": "Agent Skills",
+            "insight": "HN 热议：190 分 · 79 评论",
             "sentiment": "neutral",
-            "comments": 119,
-            "url": "https://sierra.ai/blog/better-customer-experiences-built-on-sierra",
+            "comments": 79,
+            "url": "https://addyosmani.com/blog/agent-skills/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Let's talk about LLMs",
-            "insight": "HN 热议：137 分 · 109 评论",
-            "sentiment": "neutral",
-            "comments": 109,
-            "url": "https://www.b-list.org/weblog/2026/apr/09/llms/",
+            "title": "Y Combinator's Stake in OpenAI (0.6%)",
+            "insight": "HN 热议：226 分 · 18 评论",
+            "sentiment": "positive",
+            "comments": 18,
+            "url": "https://daringfireball.net/2026/05/y_combinators_stake_in_openai",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-05T01:28:38Z",
+    "updated": "2026-05-05T05:32:36Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
