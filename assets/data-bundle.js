@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-06T13:24:41Z",
+    "updated": "2026-05-06T16:22:23Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-06T13:24:41Z",
+    "updated": "2026-05-06T16:22:23Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-06T13:24:41Z",
+    "updated": "2026-05-06T16:22:23Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184028,
-            "stars_today": 184028,
+            "stars": 184031,
+            "stars_today": 184031,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 161691,
-            "stars_today": 161691,
+            "stars": 161697,
+            "stars_today": 161697,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with ",
             "language": "TypeScript",
-            "stars": 72767,
-            "stars_today": 72767,
+            "stars": 72827,
+            "stars_today": 72827,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 72735,
-            "stars_today": 72735,
+            "stars": 72746,
+            "stars_today": 72746,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 52595,
-            "stars_today": 52595,
+            "stars": 52600,
+            "stars_today": 52600,
             "url": "https://github.com/FlowiseAI/Flowise"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "jingyaogong/minimind",
             "description": "🧠「大模型」2小时完全从0训练64M的小参数LLM！Train a 64M-parameter LLM from scratch in just 2h!",
             "language": "Python",
-            "stars": 48991,
-            "stars_today": 48991,
+            "stars": 49011,
+            "stars_today": 49011,
             "url": "https://github.com/jingyaogong/minimind"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-06T13:24:41Z",
+    "updated": "2026-05-06T16:22:23Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-06T13:24:41Z",
+    "updated": "2026-05-06T16:22:23Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-06T13:24:41Z",
+    "updated": "2026-05-06T16:22:23Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
-            "insight": "HN 热议：438 分 · 235 评论",
-            "sentiment": "positive",
-            "comments": 235,
-            "url": "https://blog.cloudflare.com/agents-stripe-projects/",
+            "title": "Vibe coding and agentic engineering are getting closer than I'd like",
+            "insight": "HN 热议：76 分 · 73 评论",
+            "sentiment": "neutral",
+            "comments": 73,
+            "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "DNSSEC disruption affecting .de domains – Resolved",
-            "insight": "HN 热议：698 分 · 364 评论",
-            "sentiment": "positive",
-            "comments": 364,
-            "url": "https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38",
+            "title": "Show HN: Tilde.run – Agent Sandbox with a Transactional, Versioned Filesystem",
+            "insight": "HN 热议：17 分 · 3 评论",
+            "sentiment": "neutral",
+            "comments": 3,
+            "url": "https://tilde.run/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Three Inverse Laws of AI",
-            "insight": "HN 热议：477 分 · 324 评论",
+            "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
+            "insight": "HN 热议：525 分 · 299 评论",
             "sentiment": "positive",
-            "comments": 324,
-            "url": "https://susam.net/inverse-laws-of-robotics.html",
+            "comments": 299,
+            "url": "https://blog.cloudflare.com/agents-stripe-projects/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Telus Uses AI to Alter Call-Agent Accents",
-            "insight": "HN 热议：183 分 · 146 评论",
-            "sentiment": "neutral",
-            "comments": 146,
-            "url": "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63",
+            "title": "DNSSEC disruption affecting .de domains – Resolved",
+            "insight": "HN 热议：720 分 · 381 评论",
+            "sentiment": "positive",
+            "comments": 381,
+            "url": "https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
-            "insight": "HN 热议：1507 分 · 1017 评论",
+            "title": "Three Inverse Laws of AI",
+            "insight": "HN 热议：504 分 · 334 评论",
             "sentiment": "positive",
-            "comments": 1017,
-            "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
+            "comments": 334,
+            "url": "https://susam.net/inverse-laws-of-robotics.html",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-06T13:24:41Z",
+    "updated": "2026-05-06T16:22:23Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
