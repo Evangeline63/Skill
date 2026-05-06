@@ -1,48 +1,48 @@
 {
-  "updated": "2026-05-06T10:54:06Z",
+  "updated": "2026-05-06T13:24:41Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
-      "insight": "HN 热议：351 分 · 198 评论",
+      "insight": "HN 热议：438 分 · 235 评论",
       "sentiment": "positive",
-      "comments": 198,
+      "comments": 235,
       "url": "https://blog.cloudflare.com/agents-stripe-projects/",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "DNSSEC disruption affecting .de domains – Resolved",
-      "insight": "HN 热议：679 分 · 350 评论",
+      "insight": "HN 热议：698 分 · 364 评论",
       "sentiment": "positive",
-      "comments": 350,
+      "comments": 364,
       "url": "https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Telus Uses AI to Alter Call-Agent Accents",
-      "insight": "HN 热议：157 分 · 125 评论",
-      "sentiment": "neutral",
-      "comments": 125,
-      "url": "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63",
+      "title": "Three Inverse Laws of AI",
+      "insight": "HN 热议：477 分 · 324 评论",
+      "sentiment": "positive",
+      "comments": 324,
+      "url": "https://susam.net/inverse-laws-of-robotics.html",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Three Inverse Laws of AI",
-      "insight": "HN 热议：455 分 · 315 评论",
-      "sentiment": "positive",
-      "comments": 315,
-      "url": "https://susam.net/inverse-laws-of-robotics.html",
+      "title": "Telus Uses AI to Alter Call-Agent Accents",
+      "insight": "HN 热议：183 分 · 146 评论",
+      "sentiment": "neutral",
+      "comments": 146,
+      "url": "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63",
       "id": 4
     },
     {
       "source": "HackerNews",
       "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
-      "insight": "HN 热议：1464 分 · 985 评论",
+      "insight": "HN 热议：1507 分 · 1017 评论",
       "sentiment": "positive",
-      "comments": 985,
+      "comments": 1017,
       "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
       "id": 5
     }
