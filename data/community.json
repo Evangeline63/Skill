@@ -1,49 +1,49 @@
 {
-  "updated": "2026-05-06T08:02:41Z",
+  "updated": "2026-05-06T10:54:06Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
-      "insight": "HN 热议：252 分 · 141 评论",
+      "insight": "HN 热议：351 分 · 198 评论",
       "sentiment": "positive",
-      "comments": 141,
+      "comments": 198,
       "url": "https://blog.cloudflare.com/agents-stripe-projects/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": ".de domains were 'down' for 2 hours",
-      "insight": "HN 热议：9 分 · 1 评论",
-      "sentiment": "neutral",
-      "comments": 1,
+      "title": "DNSSEC disruption affecting .de domains – Resolved",
+      "insight": "HN 热议：679 分 · 350 评论",
+      "sentiment": "positive",
+      "comments": 350,
       "url": "https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "Telus Uses AI to Alter Call-Agent Accents",
-      "insight": "HN 热议：134 分 · 85 评论",
+      "insight": "HN 热议：157 分 · 125 评论",
       "sentiment": "neutral",
-      "comments": 85,
+      "comments": 125,
       "url": "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "Three Inverse Laws of AI",
-      "insight": "HN 热议：431 分 · 294 评论",
+      "insight": "HN 热议：455 分 · 315 评论",
       "sentiment": "positive",
-      "comments": 294,
+      "comments": 315,
       "url": "https://susam.net/inverse-laws-of-robotics.html",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Wiki Builder: Skill to Build LLM Knowledge Bases",
-      "insight": "HN 热议：51 分 · 6 评论",
-      "sentiment": "neutral",
-      "comments": 6,
-      "url": "https://academy.dair.ai/blog/wiki-builder-claude-code-plugin",
+      "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
+      "insight": "HN 热议：1464 分 · 985 评论",
+      "sentiment": "positive",
+      "comments": 985,
+      "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
       "id": 5
     }
   ]

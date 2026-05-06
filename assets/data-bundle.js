@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-06T08:02:41Z",
+    "updated": "2026-05-06T10:54:06Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-06T08:02:41Z",
+    "updated": "2026-05-06T10:54:06Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-06T08:02:41Z",
+    "updated": "2026-05-06T10:54:06Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184016,
-            "stars_today": 184016,
+            "stars": 184025,
+            "stars_today": 184025,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 161660,
-            "stars_today": 161660,
+            "stars": 161680,
+            "stars_today": 161680,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 72719,
-            "stars_today": 72719,
+            "stars": 72731,
+            "stars_today": 72731,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with ",
             "language": "TypeScript",
-            "stars": 72669,
-            "stars_today": 72669,
+            "stars": 72729,
+            "stars_today": 72729,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 52576,
-            "stars_today": 52576,
+            "stars": 52587,
+            "stars_today": 52587,
             "url": "https://github.com/FlowiseAI/Flowise"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "jingyaogong/minimind",
             "description": "🧠「大模型」2小时完全从0训练64M的小参数LLM！Train a 64M-parameter LLM from scratch in just 2h!",
             "language": "Python",
-            "stars": 48960,
-            "stars_today": 48960,
+            "stars": 48968,
+            "stars_today": 48968,
             "url": "https://github.com/jingyaogong/minimind"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-06T08:02:41Z",
+    "updated": "2026-05-06T10:54:06Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-06T08:02:41Z",
+    "updated": "2026-05-06T10:54:06Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-06T08:02:41Z",
+    "updated": "2026-05-06T10:54:06Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
-            "insight": "HN 热议：252 分 · 141 评论",
+            "insight": "HN 热议：351 分 · 198 评论",
             "sentiment": "positive",
-            "comments": 141,
+            "comments": 198,
             "url": "https://blog.cloudflare.com/agents-stripe-projects/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": ".de domains were 'down' for 2 hours",
-            "insight": "HN 热议：9 分 · 1 评论",
-            "sentiment": "neutral",
-            "comments": 1,
+            "title": "DNSSEC disruption affecting .de domains – Resolved",
+            "insight": "HN 热议：679 分 · 350 评论",
+            "sentiment": "positive",
+            "comments": 350,
             "url": "https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "Telus Uses AI to Alter Call-Agent Accents",
-            "insight": "HN 热议：134 分 · 85 评论",
+            "insight": "HN 热议：157 分 · 125 评论",
             "sentiment": "neutral",
-            "comments": 85,
+            "comments": 125,
             "url": "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63",
             "id": 3
         },
         {
             "source": "HackerNews",
             "title": "Three Inverse Laws of AI",
-            "insight": "HN 热议：431 分 · 294 评论",
+            "insight": "HN 热议：455 分 · 315 评论",
             "sentiment": "positive",
-            "comments": 294,
+            "comments": 315,
             "url": "https://susam.net/inverse-laws-of-robotics.html",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Wiki Builder: Skill to Build LLM Knowledge Bases",
-            "insight": "HN 热议：51 分 · 6 评论",
-            "sentiment": "neutral",
-            "comments": 6,
-            "url": "https://academy.dair.ai/blog/wiki-builder-claude-code-plugin",
+            "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
+            "insight": "HN 热议：1464 分 · 985 评论",
+            "sentiment": "positive",
+            "comments": 985,
+            "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-06T08:02:41Z",
+    "updated": "2026-05-06T10:54:06Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
