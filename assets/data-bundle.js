@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-05T21:50:38Z",
+    "updated": "2026-05-06T01:27:28Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-05T21:50:38Z",
+    "updated": "2026-05-06T01:27:28Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-05T21:50:38Z",
+    "updated": "2026-05-06T01:27:28Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184007,
-            "stars_today": 184007,
+            "stars": 184008,
+            "stars_today": 184008,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,50 +282,50 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 161611,
-            "stars_today": 161611,
+            "stars": 161623,
+            "stars_today": 161623,
             "url": "https://github.com/f/prompts.chat"
         },
         {
             "rank": 3,
-            "name": "hacksider/Deep-Live-Cam",
-            "description": "real time face swap and one-click video deepfake with only a single image",
-            "language": "Python",
-            "stars": 92651,
-            "stars_today": 92651,
-            "url": "https://github.com/hacksider/Deep-Live-Cam"
-        },
-        {
-            "rank": 4,
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 72672,
-            "stars_today": 72672,
+            "stars": 72682,
+            "stars_today": 72682,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
-            "rank": 5,
+            "rank": 4,
             "name": "thedotmack/claude-mem",
             "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with ",
             "language": "TypeScript",
-            "stars": 72445,
-            "stars_today": 72445,
+            "stars": 72503,
+            "stars_today": 72503,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
-            "rank": 6,
+            "rank": 5,
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 52560,
-            "stars_today": 52560,
+            "stars": 52563,
+            "stars_today": 52563,
             "url": "https://github.com/FlowiseAI/Flowise"
+        },
+        {
+            "rank": 6,
+            "name": "jingyaogong/minimind",
+            "description": "🚀 「大模型」2小时完全从0训练64M的小参数LLM！🌏 Train a 64M-parameter LLM from scratch in just 2h!",
+            "language": "Python",
+            "stars": 48922,
+            "stars_today": 48922,
+            "url": "https://github.com/jingyaogong/minimind"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-05T21:50:38Z",
+    "updated": "2026-05-06T01:27:28Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-05T21:50:38Z",
+    "updated": "2026-05-06T01:27:28Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-05T21:50:38Z",
+    "updated": "2026-05-06T01:27:28Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Three Inverse Laws of AI",
-            "insight": "HN 热议：307 分 · 202 评论",
+            "insight": "HN 热议：351 分 · 244 评论",
             "sentiment": "positive",
-            "comments": 202,
+            "comments": 244,
             "url": "https://susam.net/inverse-laws-of-robotics.html",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
-            "insight": "HN 热议：1089 分 · 751 评论",
-            "sentiment": "positive",
-            "comments": 751,
-            "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
+            "title": "Show HN: Explore color palettes inspired by 3000 master painter artworks",
+            "insight": "HN 热议：102 分 · 38 评论",
+            "sentiment": "neutral",
+            "comments": 38,
+            "url": "https://paletteinspiration.com/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Explore color palettes inspired by 3000 master painter artworks",
-            "insight": "HN 热议：63 分 · 22 评论",
+            "title": "GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents",
+            "insight": "HN 热议：112 分 · 23 评论",
             "sentiment": "neutral",
-            "comments": 22,
-            "url": "https://paletteinspiration.com/",
+            "comments": 23,
+            "url": "https://arxiv.org/abs/2604.26752",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents",
-            "insight": "HN 热议：86 分 · 20 评论",
+            "title": "Agents for financial services and insurance",
+            "insight": "HN 热议：196 分 · 149 评论",
             "sentiment": "neutral",
-            "comments": 20,
-            "url": "https://arxiv.org/abs/2604.26752",
+            "comments": 149,
+            "url": "https://www.anthropic.com/news/finance-agents",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Agents for financial services and insurance",
-            "insight": "HN 热议：170 分 · 124 评论",
+            "title": "Show HN: Airbyte Agents – context for agents across multiple data sources",
+            "insight": "HN 热议：92 分 · 23 评论",
             "sentiment": "neutral",
-            "comments": 124,
-            "url": "https://www.anthropic.com/news/finance-agents",
+            "comments": 23,
+            "url": "https://news.ycombinator.com/item?id=48023496",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-05T21:50:38Z",
+    "updated": "2026-05-06T01:27:28Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

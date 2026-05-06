@@ -1,49 +1,49 @@
 {
-  "updated": "2026-05-05T21:50:38Z",
+  "updated": "2026-05-06T01:27:28Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Three Inverse Laws of AI",
-      "insight": "HN 热议：307 分 · 202 评论",
+      "insight": "HN 热议：351 分 · 244 评论",
       "sentiment": "positive",
-      "comments": 202,
+      "comments": 244,
       "url": "https://susam.net/inverse-laws-of-robotics.html",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
-      "insight": "HN 热议：1089 分 · 751 评论",
-      "sentiment": "positive",
-      "comments": 751,
-      "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
+      "title": "Show HN: Explore color palettes inspired by 3000 master painter artworks",
+      "insight": "HN 热议：102 分 · 38 评论",
+      "sentiment": "neutral",
+      "comments": 38,
+      "url": "https://paletteinspiration.com/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Explore color palettes inspired by 3000 master painter artworks",
-      "insight": "HN 热议：63 分 · 22 评论",
+      "title": "GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents",
+      "insight": "HN 热议：112 分 · 23 评论",
       "sentiment": "neutral",
-      "comments": 22,
-      "url": "https://paletteinspiration.com/",
+      "comments": 23,
+      "url": "https://arxiv.org/abs/2604.26752",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents",
-      "insight": "HN 热议：86 分 · 20 评论",
+      "title": "Agents for financial services and insurance",
+      "insight": "HN 热议：196 分 · 149 评论",
       "sentiment": "neutral",
-      "comments": 20,
-      "url": "https://arxiv.org/abs/2604.26752",
+      "comments": 149,
+      "url": "https://www.anthropic.com/news/finance-agents",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Agents for financial services and insurance",
-      "insight": "HN 热议：170 分 · 124 评论",
+      "title": "Show HN: Airbyte Agents – context for agents across multiple data sources",
+      "insight": "HN 热议：92 分 · 23 评论",
       "sentiment": "neutral",
-      "comments": 124,
-      "url": "https://www.anthropic.com/news/finance-agents",
+      "comments": 23,
+      "url": "https://news.ycombinator.com/item?id=48023496",
       "id": 5
     }
   ]

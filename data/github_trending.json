@@ -1,13 +1,13 @@
 {
-  "updated": "2026-05-05T21:50:38Z",
+  "updated": "2026-05-06T01:27:28Z",
   "repos": [
     {
       "rank": 1,
       "name": "Significant-Gravitas/AutoGPT",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
       "language": "Python",
-      "stars": 184007,
-      "stars_today": 184007,
+      "stars": 184008,
+      "stars_today": 184008,
       "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
@@ -15,45 +15,45 @@
       "name": "f/prompts.chat",
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
       "language": "HTML",
-      "stars": 161611,
-      "stars_today": 161611,
+      "stars": 161623,
+      "stars_today": 161623,
       "url": "https://github.com/f/prompts.chat"
     },
     {
       "rank": 3,
-      "name": "hacksider/Deep-Live-Cam",
-      "description": "real time face swap and one-click video deepfake with only a single image",
-      "language": "Python",
-      "stars": 92651,
-      "stars_today": 92651,
-      "url": "https://github.com/hacksider/Deep-Live-Cam"
-    },
-    {
-      "rank": 4,
       "name": "OpenHands/OpenHands",
       "description": "🙌 OpenHands: AI-Driven Development",
       "language": "Python",
-      "stars": 72672,
-      "stars_today": 72672,
+      "stars": 72682,
+      "stars_today": 72682,
       "url": "https://github.com/OpenHands/OpenHands"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "name": "thedotmack/claude-mem",
       "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with ",
       "language": "TypeScript",
-      "stars": 72445,
-      "stars_today": 72445,
+      "stars": 72503,
+      "stars_today": 72503,
       "url": "https://github.com/thedotmack/claude-mem"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "FlowiseAI/Flowise",
       "description": "Build AI Agents, Visually",
       "language": "TypeScript",
-      "stars": 52560,
-      "stars_today": 52560,
+      "stars": 52563,
+      "stars_today": 52563,
       "url": "https://github.com/FlowiseAI/Flowise"
+    },
+    {
+      "rank": 6,
+      "name": "jingyaogong/minimind",
+      "description": "🚀 「大模型」2小时完全从0训练64M的小参数LLM！🌏 Train a 64M-parameter LLM from scratch in just 2h!",
+      "language": "Python",
+      "stars": 48922,
+      "stars_today": 48922,
+      "url": "https://github.com/jingyaogong/minimind"
     }
   ]
 }
