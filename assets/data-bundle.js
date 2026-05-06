@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-06T19:17:56Z",
+    "updated": "2026-05-06T21:50:32Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-06T19:17:56Z",
+    "updated": "2026-05-06T21:50:32Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-06T19:17:56Z",
+    "updated": "2026-05-06T21:50:32Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184032,
-            "stars_today": 184032,
+            "stars": 184034,
+            "stars_today": 184034,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 161704,
-            "stars_today": 161704,
+            "stars": 161711,
+            "stars_today": 161711,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 92050,
-            "stars_today": 92050,
+            "stars": 92054,
+            "stars_today": 92054,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with ",
             "language": "TypeScript",
-            "stars": 72873,
-            "stars_today": 72873,
+            "stars": 72902,
+            "stars_today": 72902,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 72753,
-            "stars_today": 72753,
+            "stars": 72757,
+            "stars_today": 72757,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 52603,
-            "stars_today": 52603,
+            "stars": 52605,
+            "stars_today": 52605,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-06T19:17:56Z",
+    "updated": "2026-05-06T21:50:32Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-06T19:17:56Z",
+    "updated": "2026-05-06T21:50:32Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-06T19:17:56Z",
+    "updated": "2026-05-06T21:50:32Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "A Theory of Deep Learning",
-            "insight": "HN 热议：20 分 · 4 评论",
-            "sentiment": "neutral",
-            "comments": 4,
-            "url": "https://elonlit.com/scrivings/a-theory-of-deep-learning/",
+            "title": "Vibe coding and agentic engineering are getting closer than I'd like",
+            "insight": "HN 热议：249 分 · 279 评论",
+            "sentiment": "positive",
+            "comments": 279,
+            "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: I built an open-source email builder, alternative to Beefree/Unlayer",
-            "insight": "HN 热议：38 分 · 13 评论",
+            "title": "Learning the Integral of a Diffusion Model",
+            "insight": "HN 热议：50 分 · 10 评论",
             "sentiment": "neutral",
-            "comments": 13,
-            "url": "https://play.templatical.com",
+            "comments": 10,
+            "url": "https://sander.ai/2026/05/06/flow-maps.html",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
-            "insight": "HN 热议：588 分 · 335 评论",
-            "sentiment": "positive",
-            "comments": 335,
-            "url": "https://blog.cloudflare.com/agents-stripe-projects/",
+            "title": "Show HN: Tilde.run – Agent sandbox with a transactional, versioned filesystem",
+            "insight": "HN 热议：101 分 · 83 评论",
+            "sentiment": "neutral",
+            "comments": 83,
+            "url": "https://tilde.run/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Tilde.run – Agent Sandbox with a Transactional, Versioned Filesystem",
-            "insight": "HN 热议：89 分 · 73 评论",
+            "title": "Show HN: I built an open-source email builder, alternative to Beefree/Unlayer",
+            "insight": "HN 热议：71 分 · 18 评论",
             "sentiment": "neutral",
-            "comments": 73,
-            "url": "https://tilde.run/",
+            "comments": 18,
+            "url": "https://play.templatical.com",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Vibe coding and agentic engineering are getting closer than I'd like",
-            "insight": "HN 热议：176 分 · 241 评论",
+            "title": "A Theory of Deep Learning",
+            "insight": "HN 热议：78 分 · 19 评论",
             "sentiment": "neutral",
-            "comments": 241,
-            "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
+            "comments": 19,
+            "url": "https://elonlit.com/scrivings/a-theory-of-deep-learning/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-06T19:17:56Z",
+    "updated": "2026-05-06T21:50:32Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
