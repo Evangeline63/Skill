@@ -1,49 +1,49 @@
 {
-  "updated": "2026-05-06T01:27:28Z",
+  "updated": "2026-05-06T05:47:19Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Three Inverse Laws of AI",
-      "insight": "HN 热议：351 分 · 244 评论",
-      "sentiment": "positive",
-      "comments": 244,
-      "url": "https://susam.net/inverse-laws-of-robotics.html",
+      "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
+      "insight": "HN 热议：144 分 · 64 评论",
+      "sentiment": "neutral",
+      "comments": 64,
+      "url": "https://blog.cloudflare.com/agents-stripe-projects/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Explore color palettes inspired by 3000 master painter artworks",
-      "insight": "HN 热议：102 分 · 38 评论",
+      "title": "Telus Uses AI to Alter Call-Agent Accents",
+      "insight": "HN 热议：92 分 · 59 评论",
       "sentiment": "neutral",
-      "comments": 38,
-      "url": "https://paletteinspiration.com/",
+      "comments": 59,
+      "url": "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents",
-      "insight": "HN 热议：112 分 · 23 评论",
-      "sentiment": "neutral",
-      "comments": 23,
-      "url": "https://arxiv.org/abs/2604.26752",
+      "title": "Three Inverse Laws of AI",
+      "insight": "HN 热议：403 分 · 274 评论",
+      "sentiment": "positive",
+      "comments": 274,
+      "url": "https://susam.net/inverse-laws-of-robotics.html",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Agents for financial services and insurance",
-      "insight": "HN 热议：196 分 · 149 评论",
+      "title": "Wiki Builder: Skill to Build LLM Knowledge Bases",
+      "insight": "HN 热议：37 分 · 2 评论",
       "sentiment": "neutral",
-      "comments": 149,
-      "url": "https://www.anthropic.com/news/finance-agents",
+      "comments": 2,
+      "url": "https://academy.dair.ai/blog/wiki-builder-claude-code-plugin",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Airbyte Agents – context for agents across multiple data sources",
-      "insight": "HN 热议：92 分 · 23 评论",
+      "title": "Show HN: Explore color palettes inspired by 3000 master painter artworks",
+      "insight": "HN 热议：140 分 · 55 评论",
       "sentiment": "neutral",
-      "comments": 23,
-      "url": "https://news.ycombinator.com/item?id=48023496",
+      "comments": 55,
+      "url": "https://paletteinspiration.com/",
       "id": 5
     }
   ]

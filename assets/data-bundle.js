@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-06T01:27:28Z",
+    "updated": "2026-05-06T05:47:19Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-06T01:27:28Z",
+    "updated": "2026-05-06T05:47:19Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-06T01:27:28Z",
+    "updated": "2026-05-06T05:47:19Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184008,
-            "stars_today": 184008,
+            "stars": 184013,
+            "stars_today": 184013,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 161623,
-            "stars_today": 161623,
+            "stars": 161649,
+            "stars_today": 161649,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 72682,
-            "stars_today": 72682,
+            "stars": 72704,
+            "stars_today": 72704,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with ",
             "language": "TypeScript",
-            "stars": 72503,
-            "stars_today": 72503,
+            "stars": 72613,
+            "stars_today": 72613,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 52563,
-            "stars_today": 52563,
+            "stars": 52572,
+            "stars_today": 52572,
             "url": "https://github.com/FlowiseAI/Flowise"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "jingyaogong/minimind",
             "description": "🚀 「大模型」2小时完全从0训练64M的小参数LLM！🌏 Train a 64M-parameter LLM from scratch in just 2h!",
             "language": "Python",
-            "stars": 48922,
-            "stars_today": 48922,
+            "stars": 48940,
+            "stars_today": 48940,
             "url": "https://github.com/jingyaogong/minimind"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-06T01:27:28Z",
+    "updated": "2026-05-06T05:47:19Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-06T01:27:28Z",
+    "updated": "2026-05-06T05:47:19Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-06T01:27:28Z",
+    "updated": "2026-05-06T05:47:19Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Three Inverse Laws of AI",
-            "insight": "HN 热议：351 分 · 244 评论",
-            "sentiment": "positive",
-            "comments": 244,
-            "url": "https://susam.net/inverse-laws-of-robotics.html",
+            "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
+            "insight": "HN 热议：144 分 · 64 评论",
+            "sentiment": "neutral",
+            "comments": 64,
+            "url": "https://blog.cloudflare.com/agents-stripe-projects/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Explore color palettes inspired by 3000 master painter artworks",
-            "insight": "HN 热议：102 分 · 38 评论",
+            "title": "Telus Uses AI to Alter Call-Agent Accents",
+            "insight": "HN 热议：92 分 · 59 评论",
             "sentiment": "neutral",
-            "comments": 38,
-            "url": "https://paletteinspiration.com/",
+            "comments": 59,
+            "url": "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents",
-            "insight": "HN 热议：112 分 · 23 评论",
-            "sentiment": "neutral",
-            "comments": 23,
-            "url": "https://arxiv.org/abs/2604.26752",
+            "title": "Three Inverse Laws of AI",
+            "insight": "HN 热议：403 分 · 274 评论",
+            "sentiment": "positive",
+            "comments": 274,
+            "url": "https://susam.net/inverse-laws-of-robotics.html",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Agents for financial services and insurance",
-            "insight": "HN 热议：196 分 · 149 评论",
+            "title": "Wiki Builder: Skill to Build LLM Knowledge Bases",
+            "insight": "HN 热议：37 分 · 2 评论",
             "sentiment": "neutral",
-            "comments": 149,
-            "url": "https://www.anthropic.com/news/finance-agents",
+            "comments": 2,
+            "url": "https://academy.dair.ai/blog/wiki-builder-claude-code-plugin",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Airbyte Agents – context for agents across multiple data sources",
-            "insight": "HN 热议：92 分 · 23 评论",
+            "title": "Show HN: Explore color palettes inspired by 3000 master painter artworks",
+            "insight": "HN 热议：140 分 · 55 评论",
             "sentiment": "neutral",
-            "comments": 23,
-            "url": "https://news.ycombinator.com/item?id=48023496",
+            "comments": 55,
+            "url": "https://paletteinspiration.com/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-06T01:27:28Z",
+    "updated": "2026-05-06T05:47:19Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
