@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-07T13:23:55Z",
+    "updated": "2026-05-07T16:31:00Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-07T13:23:55Z",
+    "updated": "2026-05-07T16:31:00Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-07T13:23:55Z",
+    "updated": "2026-05-07T16:31:00Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184052,
-            "stars_today": 184052,
+            "stars": 184055,
+            "stars_today": 184055,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 161762,
-            "stars_today": 161762,
+            "stars": 161767,
+            "stars_today": 161767,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 92087,
-            "stars_today": 92087,
+            "stars": 92100,
+            "stars_today": 92100,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with ",
             "language": "TypeScript",
-            "stars": 73187,
-            "stars_today": 73187,
+            "stars": 73265,
+            "stars_today": 73265,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 72804,
-            "stars_today": 72804,
+            "stars": 72818,
+            "stars_today": 72818,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 52619,
-            "stars_today": 52619,
+            "stars": 52623,
+            "stars_today": 52623,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-07T13:23:55Z",
+    "updated": "2026-05-07T16:31:00Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-07T13:23:55Z",
+    "updated": "2026-05-07T16:31:00Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-07T13:23:55Z",
+    "updated": "2026-05-07T16:31:00Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Agent-harness-kit scaffolding for multi-agent workflows (MCP, provider-agnostic)",
-            "insight": "HN 热议：35 分 · 6 评论",
+            "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
+            "insight": "HN 热议：85 分 · 18 评论",
             "sentiment": "neutral",
-            "comments": 6,
-            "url": "https://ahk.cardor.dev",
+            "comments": 18,
+            "url": "https://deepmind.google/blog/alphaevolve-impact/",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "SQLite Is a Library of Congress Recommended Storage Format",
-            "insight": "HN 热议：379 分 · 110 评论",
+            "insight": "HN 热议：491 分 · 153 评论",
             "sentiment": "positive",
-            "comments": 110,
+            "comments": 153,
             "url": "https://sqlite.org/locrsf.html",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Vibe coding and agentic engineering are getting closer than I'd like",
-            "insight": "HN 热议：653 分 · 735 评论",
-            "sentiment": "positive",
-            "comments": 735,
-            "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
+            "title": "Motherboard sales are now collapsing amid unprecedented shortages fueled by AI",
+            "insight": "HN 热议：43 分 · 18 评论",
+            "sentiment": "neutral",
+            "comments": 18,
+            "url": "https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Making LLM Training Faster with Unsloth and NVIDIA",
-            "insight": "HN 热议：79 分 · 10 评论",
+            "title": "Agent-harness-kit scaffolding for multi-agent workflows (MCP, provider-agnostic)",
+            "insight": "HN 热议：56 分 · 16 评论",
             "sentiment": "neutral",
-            "comments": 10,
-            "url": "https://unsloth.ai/blog/nvidia-collab",
+            "comments": 16,
+            "url": "https://ahk.cardor.dev",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Agent-skills-eval – Test whether Agent Skills improve outputs",
-            "insight": "HN 热议：37 分 · 15 评论",
-            "sentiment": "neutral",
-            "comments": 15,
-            "url": "https://github.com/darkrishabh/agent-skills-eval",
+            "title": "Vibe coding and agentic engineering are getting closer than I'd like",
+            "insight": "HN 热议：710 分 · 795 评论",
+            "sentiment": "positive",
+            "comments": 795,
+            "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-07T13:23:55Z",
+    "updated": "2026-05-07T16:31:00Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

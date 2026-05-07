@@ -1,49 +1,49 @@
 {
-  "updated": "2026-05-07T13:23:55Z",
+  "updated": "2026-05-07T16:31:00Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Agent-harness-kit scaffolding for multi-agent workflows (MCP, provider-agnostic)",
-      "insight": "HN 热议：35 分 · 6 评论",
+      "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
+      "insight": "HN 热议：85 分 · 18 评论",
       "sentiment": "neutral",
-      "comments": 6,
-      "url": "https://ahk.cardor.dev",
+      "comments": 18,
+      "url": "https://deepmind.google/blog/alphaevolve-impact/",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "SQLite Is a Library of Congress Recommended Storage Format",
-      "insight": "HN 热议：379 分 · 110 评论",
+      "insight": "HN 热议：491 分 · 153 评论",
       "sentiment": "positive",
-      "comments": 110,
+      "comments": 153,
       "url": "https://sqlite.org/locrsf.html",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Vibe coding and agentic engineering are getting closer than I'd like",
-      "insight": "HN 热议：653 分 · 735 评论",
-      "sentiment": "positive",
-      "comments": 735,
-      "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
+      "title": "Motherboard sales are now collapsing amid unprecedented shortages fueled by AI",
+      "insight": "HN 热议：43 分 · 18 评论",
+      "sentiment": "neutral",
+      "comments": 18,
+      "url": "https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Making LLM Training Faster with Unsloth and NVIDIA",
-      "insight": "HN 热议：79 分 · 10 评论",
+      "title": "Agent-harness-kit scaffolding for multi-agent workflows (MCP, provider-agnostic)",
+      "insight": "HN 热议：56 分 · 16 评论",
       "sentiment": "neutral",
-      "comments": 10,
-      "url": "https://unsloth.ai/blog/nvidia-collab",
+      "comments": 16,
+      "url": "https://ahk.cardor.dev",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Agent-skills-eval – Test whether Agent Skills improve outputs",
-      "insight": "HN 热议：37 分 · 15 评论",
-      "sentiment": "neutral",
-      "comments": 15,
-      "url": "https://github.com/darkrishabh/agent-skills-eval",
+      "title": "Vibe coding and agentic engineering are getting closer than I'd like",
+      "insight": "HN 热议：710 分 · 795 评论",
+      "sentiment": "positive",
+      "comments": 795,
+      "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
       "id": 5
     }
   ]
