@@ -1,49 +1,49 @@
 {
-  "updated": "2026-05-07T16:31:00Z",
+  "updated": "2026-05-07T19:22:43Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
-      "insight": "HN 热议：85 分 · 18 评论",
+      "title": "Agents need control flow, not more prompts",
+      "insight": "HN 热议：115 分 · 56 评论",
       "sentiment": "neutral",
-      "comments": 18,
-      "url": "https://deepmind.google/blog/alphaevolve-impact/",
+      "comments": 56,
+      "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "SQLite Is a Library of Congress Recommended Storage Format",
-      "insight": "HN 热议：491 分 · 153 评论",
-      "sentiment": "positive",
-      "comments": 153,
-      "url": "https://sqlite.org/locrsf.html",
+      "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
+      "insight": "HN 热议：185 分 · 69 评论",
+      "sentiment": "neutral",
+      "comments": 69,
+      "url": "https://deepmind.google/blog/alphaevolve-impact/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Motherboard sales are now collapsing amid unprecedented shortages fueled by AI",
-      "insight": "HN 热议：43 分 · 18 评论",
+      "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
+      "insight": "HN 热议：44 分 · 7 评论",
       "sentiment": "neutral",
-      "comments": 18,
-      "url": "https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers",
+      "comments": 7,
+      "url": "https://www.anthropic.com/research/natural-language-autoencoders",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Agent-harness-kit scaffolding for multi-agent workflows (MCP, provider-agnostic)",
-      "insight": "HN 热议：56 分 · 16 评论",
+      "title": "AI Slop Is Killing Online Communities",
+      "insight": "HN 热议：54 分 · 8 评论",
       "sentiment": "neutral",
-      "comments": 16,
-      "url": "https://ahk.cardor.dev",
+      "comments": 8,
+      "url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Vibe coding and agentic engineering are getting closer than I'd like",
-      "insight": "HN 热议：710 分 · 795 评论",
+      "title": "Chrome removes claim of On-device Al not sending data to Google Servers",
+      "insight": "HN 热议：243 分 · 83 评论",
       "sentiment": "positive",
-      "comments": 795,
-      "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
+      "comments": 83,
+      "url": "https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/",
       "id": 5
     }
   ]
