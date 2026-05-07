@@ -1,49 +1,49 @@
 {
-  "updated": "2026-05-07T01:45:26Z",
+  "updated": "2026-05-07T05:51:11Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Vibe coding and agentic engineering are getting closer than I'd like",
-      "insight": "HN 热议：393 分 · 421 评论",
-      "sentiment": "positive",
-      "comments": 421,
-      "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
+      "title": "SQLite Is a Library of Congress Recommended Storage Format",
+      "insight": "HN 热议：120 分 · 28 评论",
+      "sentiment": "neutral",
+      "comments": 28,
+      "url": "https://sqlite.org/locrsf.html",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Learning the Integral of a Diffusion Model",
-      "insight": "HN 热议：92 分 · 17 评论",
-      "sentiment": "neutral",
-      "comments": 17,
-      "url": "https://sander.ai/2026/05/06/flow-maps.html",
+      "title": "Vibe coding and agentic engineering are getting closer than I'd like",
+      "insight": "HN 热议：509 分 · 551 评论",
+      "sentiment": "positive",
+      "comments": 551,
+      "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "Show HN: Tilde.run – Agent sandbox with a transactional, versioned filesystem",
-      "insight": "HN 热议：126 分 · 93 评论",
+      "insight": "HN 热议：146 分 · 104 评论",
       "sentiment": "neutral",
-      "comments": 93,
+      "comments": 104,
       "url": "https://tilde.run/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "A Theory of Deep Learning",
-      "insight": "HN 热议：123 分 · 27 评论",
+      "title": "Learning the Integral of a Diffusion Model",
+      "insight": "HN 热议：122 分 · 19 评论",
       "sentiment": "neutral",
-      "comments": 27,
-      "url": "https://elonlit.com/scrivings/a-theory-of-deep-learning/",
+      "comments": 19,
+      "url": "https://sander.ai/2026/05/06/flow-maps.html",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: I built an open-source email builder, alternative to Beefree/Unlayer",
-      "insight": "HN 热议：98 分 · 24 评论",
+      "title": "A Theory of Deep Learning",
+      "insight": "HN 热议：160 分 · 33 评论",
       "sentiment": "neutral",
-      "comments": 24,
-      "url": "https://play.templatical.com",
+      "comments": 33,
+      "url": "https://elonlit.com/scrivings/a-theory-of-deep-learning/",
       "id": 5
     }
   ]
