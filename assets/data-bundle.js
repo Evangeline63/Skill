@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-07T10:57:22Z",
+    "updated": "2026-05-07T13:23:55Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-07T10:57:22Z",
+    "updated": "2026-05-07T13:23:55Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-07T10:57:22Z",
+    "updated": "2026-05-07T13:23:55Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184043,
-            "stars_today": 184043,
+            "stars": 184052,
+            "stars_today": 184052,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 161757,
-            "stars_today": 161757,
+            "stars": 161762,
+            "stars_today": 161762,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 92078,
-            "stars_today": 92078,
+            "stars": 92087,
+            "stars_today": 92087,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with ",
             "language": "TypeScript",
-            "stars": 73148,
-            "stars_today": 73148,
+            "stars": 73187,
+            "stars_today": 73187,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 72797,
-            "stars_today": 72797,
+            "stars": 72804,
+            "stars_today": 72804,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 52615,
-            "stars_today": 52615,
+            "stars": 52619,
+            "stars_today": 52619,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-07T10:57:22Z",
+    "updated": "2026-05-07T13:23:55Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-07T10:57:22Z",
+    "updated": "2026-05-07T13:23:55Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-07T10:57:22Z",
+    "updated": "2026-05-07T13:23:55Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "SQLite Is a Library of Congress Recommended Storage Format",
-            "insight": "HN 热议：269 分 · 74 评论",
-            "sentiment": "positive",
-            "comments": 74,
-            "url": "https://sqlite.org/locrsf.html",
+            "title": "Agent-harness-kit scaffolding for multi-agent workflows (MCP, provider-agnostic)",
+            "insight": "HN 热议：35 分 · 6 评论",
+            "sentiment": "neutral",
+            "comments": 6,
+            "url": "https://ahk.cardor.dev",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Vibe coding and agentic engineering are getting closer than I'd like",
-            "insight": "HN 热议：619 分 · 670 评论",
+            "title": "SQLite Is a Library of Congress Recommended Storage Format",
+            "insight": "HN 热议：379 分 · 110 评论",
             "sentiment": "positive",
-            "comments": 670,
-            "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
+            "comments": 110,
+            "url": "https://sqlite.org/locrsf.html",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Making LLM Training Faster with Unsloth and NVIDIA",
-            "insight": "HN 热议：52 分 · 8 评论",
-            "sentiment": "neutral",
-            "comments": 8,
-            "url": "https://unsloth.ai/blog/nvidia-collab",
+            "title": "Vibe coding and agentic engineering are getting closer than I'd like",
+            "insight": "HN 热议：653 分 · 735 评论",
+            "sentiment": "positive",
+            "comments": 735,
+            "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Agent-skills-eval – Test whether Agent Skills improve outputs",
-            "insight": "HN 热议：23 分 · 5 评论",
+            "title": "Making LLM Training Faster with Unsloth and NVIDIA",
+            "insight": "HN 热议：79 分 · 10 评论",
             "sentiment": "neutral",
-            "comments": 5,
-            "url": "https://github.com/darkrishabh/agent-skills-eval",
+            "comments": 10,
+            "url": "https://unsloth.ai/blog/nvidia-collab",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Tilde.run – Agent sandbox with a transactional, versioned filesystem",
-            "insight": "HN 热议：166 分 · 118 评论",
+            "title": "Show HN: Agent-skills-eval – Test whether Agent Skills improve outputs",
+            "insight": "HN 热议：37 分 · 15 评论",
             "sentiment": "neutral",
-            "comments": 118,
-            "url": "https://tilde.run/",
+            "comments": 15,
+            "url": "https://github.com/darkrishabh/agent-skills-eval",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-07T10:57:22Z",
+    "updated": "2026-05-07T13:23:55Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
