@@ -1,49 +1,49 @@
 {
-  "updated": "2026-05-07T19:22:43Z",
+  "updated": "2026-05-07T21:44:22Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Agents need control flow, not more prompts",
-      "insight": "HN 热议：115 分 · 56 评论",
+      "title": "Dirtyfrag: Universal Linux LPE",
+      "insight": "HN 热议：200 分 · 92 评论",
       "sentiment": "neutral",
-      "comments": 56,
-      "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
+      "comments": 92,
+      "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
-      "insight": "HN 热议：185 分 · 69 评论",
-      "sentiment": "neutral",
-      "comments": 69,
-      "url": "https://deepmind.google/blog/alphaevolve-impact/",
+      "title": "Agents need control flow, not more prompts",
+      "insight": "HN 热议：220 分 · 125 评论",
+      "sentiment": "positive",
+      "comments": 125,
+      "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
-      "insight": "HN 热议：44 分 · 7 评论",
-      "sentiment": "neutral",
-      "comments": 7,
-      "url": "https://www.anthropic.com/research/natural-language-autoencoders",
+      "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
+      "insight": "HN 热议：216 分 · 84 评论",
+      "sentiment": "positive",
+      "comments": 84,
+      "url": "https://deepmind.google/blog/alphaevolve-impact/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "AI Slop Is Killing Online Communities",
-      "insight": "HN 热议：54 分 · 8 评论",
+      "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
+      "insight": "HN 热议：119 分 · 38 评论",
       "sentiment": "neutral",
-      "comments": 8,
-      "url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
+      "comments": 38,
+      "url": "https://www.anthropic.com/research/natural-language-autoencoders",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Chrome removes claim of On-device Al not sending data to Google Servers",
-      "insight": "HN 热议：243 分 · 83 评论",
+      "title": "AI slop is killing online communities",
+      "insight": "HN 热议：238 分 · 228 评论",
       "sentiment": "positive",
-      "comments": 83,
-      "url": "https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/",
+      "comments": 228,
+      "url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
       "id": 5
     }
   ]
