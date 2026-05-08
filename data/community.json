@@ -1,49 +1,49 @@
 {
-  "updated": "2026-05-08T13:04:27Z",
+  "updated": "2026-05-08T16:07:15Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "ClojureScript Gets Async/Await",
-      "insight": "HN 热议：125 分 · 38 评论",
+      "title": "Podman rootless containers and the Copy Fail exploit",
+      "insight": "HN 热议：40 分 · 5 评论",
       "sentiment": "neutral",
-      "comments": 38,
-      "url": "https://clojurescript.org/news/2026-05-07-release",
+      "comments": 5,
+      "url": "https://garrido.io/notes/podman-rootless-containers-copy-fail/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Dirtyfrag: Universal Linux LPE",
-      "insight": "HN 热议：691 分 · 282 评论",
-      "sentiment": "positive",
-      "comments": 282,
-      "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
+      "title": "Show HN: Git for AI Agents",
+      "insight": "HN 热议：23 分 · 13 评论",
+      "sentiment": "neutral",
+      "comments": 13,
+      "url": "https://github.com/regent-vcs/re_gent",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Agents need control flow, not more prompts",
-      "insight": "HN 热议：503 分 · 247 评论",
+      "title": "Canvas online again as ShinyHunters threatens to leak schools’ data",
+      "insight": "HN 热议：846 分 · 552 评论",
       "sentiment": "positive",
-      "comments": 247,
-      "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
+      "comments": 552,
+      "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "A polynomial autoencoder beats PCA on transformer embeddings",
-      "insight": "HN 热议：59 分 · 15 评论",
-      "sentiment": "neutral",
-      "comments": 15,
-      "url": "https://ivanpleshkov.dev/blog/polynomial-autoencoder/",
+      "title": "ClojureScript Gets Async/Await",
+      "insight": "HN 热议：216 分 · 53 评论",
+      "sentiment": "positive",
+      "comments": 53,
+      "url": "https://clojurescript.org/news/2026-05-07-release",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
-      "insight": "HN 热议：308 分 · 100 评论",
+      "title": "Dirtyfrag: Universal Linux LPE",
+      "insight": "HN 热议：732 分 · 304 评论",
       "sentiment": "positive",
-      "comments": 100,
-      "url": "https://www.anthropic.com/research/natural-language-autoencoders",
+      "comments": 304,
+      "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
       "id": 5
     }
   ]

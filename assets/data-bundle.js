@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-08T13:04:27Z",
+    "updated": "2026-05-08T16:07:15Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-08T13:04:27Z",
+    "updated": "2026-05-08T16:07:15Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-08T13:04:27Z",
+    "updated": "2026-05-08T16:07:15Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184089,
-            "stars_today": 184089,
+            "stars": 184091,
+            "stars_today": 184091,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 161823,
-            "stars_today": 161823,
+            "stars": 161833,
+            "stars_today": 161833,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 92751,
-            "stars_today": 92751,
+            "stars": 92755,
+            "stars_today": 92755,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 92159,
-            "stars_today": 92159,
+            "stars": 92171,
+            "stars_today": 92171,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with ",
             "language": "TypeScript",
-            "stars": 73600,
-            "stars_today": 73600,
+            "stars": 73661,
+            "stars_today": 73661,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 72904,
-            "stars_today": 72904,
+            "stars": 72918,
+            "stars_today": 72918,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-08T13:04:27Z",
+    "updated": "2026-05-08T16:07:15Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-08T13:04:27Z",
+    "updated": "2026-05-08T16:07:15Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-08T13:04:27Z",
+    "updated": "2026-05-08T16:07:15Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "ClojureScript Gets Async/Await",
-            "insight": "HN 热议：125 分 · 38 评论",
+            "title": "Podman rootless containers and the Copy Fail exploit",
+            "insight": "HN 热议：40 分 · 5 评论",
             "sentiment": "neutral",
-            "comments": 38,
-            "url": "https://clojurescript.org/news/2026-05-07-release",
+            "comments": 5,
+            "url": "https://garrido.io/notes/podman-rootless-containers-copy-fail/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Dirtyfrag: Universal Linux LPE",
-            "insight": "HN 热议：691 分 · 282 评论",
-            "sentiment": "positive",
-            "comments": 282,
-            "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
+            "title": "Show HN: Git for AI Agents",
+            "insight": "HN 热议：23 分 · 13 评论",
+            "sentiment": "neutral",
+            "comments": 13,
+            "url": "https://github.com/regent-vcs/re_gent",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Agents need control flow, not more prompts",
-            "insight": "HN 热议：503 分 · 247 评论",
+            "title": "Canvas online again as ShinyHunters threatens to leak schools’ data",
+            "insight": "HN 热议：846 分 · 552 评论",
             "sentiment": "positive",
-            "comments": 247,
-            "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
+            "comments": 552,
+            "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "A polynomial autoencoder beats PCA on transformer embeddings",
-            "insight": "HN 热议：59 分 · 15 评论",
-            "sentiment": "neutral",
-            "comments": 15,
-            "url": "https://ivanpleshkov.dev/blog/polynomial-autoencoder/",
+            "title": "ClojureScript Gets Async/Await",
+            "insight": "HN 热议：216 分 · 53 评论",
+            "sentiment": "positive",
+            "comments": 53,
+            "url": "https://clojurescript.org/news/2026-05-07-release",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
-            "insight": "HN 热议：308 分 · 100 评论",
+            "title": "Dirtyfrag: Universal Linux LPE",
+            "insight": "HN 热议：732 分 · 304 评论",
             "sentiment": "positive",
-            "comments": 100,
-            "url": "https://www.anthropic.com/research/natural-language-autoencoders",
+            "comments": 304,
+            "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-08T13:04:27Z",
+    "updated": "2026-05-08T16:07:15Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
