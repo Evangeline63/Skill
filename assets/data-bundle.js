@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-08T19:01:18Z",
+    "updated": "2026-05-08T21:46:24Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-08T19:01:18Z",
+    "updated": "2026-05-08T21:46:24Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,7 +266,7 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-08T19:01:18Z",
+    "updated": "2026-05-08T21:46:24Z",
     "repos": [
         {
             "rank": 1,
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 161840,
-            "stars_today": 161840,
+            "stars": 161845,
+            "stars_today": 161845,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 92758,
-            "stars_today": 92758,
+            "stars": 92763,
+            "stars_today": 92763,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 92179,
-            "stars_today": 92179,
+            "stars": 92187,
+            "stars_today": 92187,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with ",
             "language": "TypeScript",
-            "stars": 73696,
-            "stars_today": 73696,
+            "stars": 73715,
+            "stars_today": 73715,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 72931,
-            "stars_today": 72931,
+            "stars": 72932,
+            "stars_today": 72932,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-08T19:01:18Z",
+    "updated": "2026-05-08T21:46:24Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-08T19:01:18Z",
+    "updated": "2026-05-08T21:46:24Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-08T19:01:18Z",
+    "updated": "2026-05-08T21:46:24Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "AI Is Breaking Two Vulnerability Cultures",
-            "insight": "HN 热议：28 分 · 0 评论",
+            "title": "AI is breaking two vulnerability cultures",
+            "insight": "HN 热议：134 分 · 60 评论",
             "sentiment": "neutral",
-            "comments": 0,
+            "comments": 60,
             "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Git for AI Agents",
-            "insight": "HN 热议：64 分 · 38 评论",
+            "title": "All means are fair except solving the problem",
+            "insight": "HN 热议：6 分 · 5 评论",
             "sentiment": "neutral",
-            "comments": 38,
-            "url": "https://github.com/regent-vcs/re_gent",
+            "comments": 5,
+            "url": "https://yosefk.com/blog/all-means-are-fair-except-solving-the-problem.html",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "Canvas online again as ShinyHunters threatens to leak schools’ data",
-            "insight": "HN 热议：876 分 · 582 评论",
+            "insight": "HN 热议：890 分 · 594 评论",
             "sentiment": "positive",
-            "comments": 582,
+            "comments": 594,
             "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Podman rootless containers and the Copy Fail exploit",
-            "insight": "HN 热议：83 分 · 14 评论",
+            "title": "Show HN: Git for AI Agents",
+            "insight": "HN 热议：84 分 · 44 评论",
             "sentiment": "neutral",
-            "comments": 14,
-            "url": "https://garrido.io/notes/podman-rootless-containers-copy-fail/",
+            "comments": 44,
+            "url": "https://github.com/regent-vcs/re_gent",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Dirtyfrag: Universal Linux LPE",
-            "insight": "HN 热议：758 分 · 305 评论",
-            "sentiment": "positive",
-            "comments": 305,
-            "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
+            "title": "Podman rootless containers and the Copy Fail exploit",
+            "insight": "HN 热议：107 分 · 20 评论",
+            "sentiment": "neutral",
+            "comments": 20,
+            "url": "https://garrido.io/notes/podman-rootless-containers-copy-fail/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-08T19:01:18Z",
+    "updated": "2026-05-08T21:46:24Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

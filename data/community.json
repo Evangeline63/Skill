@@ -1,49 +1,49 @@
 {
-  "updated": "2026-05-08T19:01:18Z",
+  "updated": "2026-05-08T21:46:24Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "AI Is Breaking Two Vulnerability Cultures",
-      "insight": "HN 热议：28 分 · 0 评论",
+      "title": "AI is breaking two vulnerability cultures",
+      "insight": "HN 热议：134 分 · 60 评论",
       "sentiment": "neutral",
-      "comments": 0,
+      "comments": 60,
       "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Git for AI Agents",
-      "insight": "HN 热议：64 分 · 38 评论",
+      "title": "All means are fair except solving the problem",
+      "insight": "HN 热议：6 分 · 5 评论",
       "sentiment": "neutral",
-      "comments": 38,
-      "url": "https://github.com/regent-vcs/re_gent",
+      "comments": 5,
+      "url": "https://yosefk.com/blog/all-means-are-fair-except-solving-the-problem.html",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "Canvas online again as ShinyHunters threatens to leak schools’ data",
-      "insight": "HN 热议：876 分 · 582 评论",
+      "insight": "HN 热议：890 分 · 594 评论",
       "sentiment": "positive",
-      "comments": 582,
+      "comments": 594,
       "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Podman rootless containers and the Copy Fail exploit",
-      "insight": "HN 热议：83 分 · 14 评论",
+      "title": "Show HN: Git for AI Agents",
+      "insight": "HN 热议：84 分 · 44 评论",
       "sentiment": "neutral",
-      "comments": 14,
-      "url": "https://garrido.io/notes/podman-rootless-containers-copy-fail/",
+      "comments": 44,
+      "url": "https://github.com/regent-vcs/re_gent",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Dirtyfrag: Universal Linux LPE",
-      "insight": "HN 热议：758 分 · 305 评论",
-      "sentiment": "positive",
-      "comments": 305,
-      "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
+      "title": "Podman rootless containers and the Copy Fail exploit",
+      "insight": "HN 热议：107 分 · 20 评论",
+      "sentiment": "neutral",
+      "comments": 20,
+      "url": "https://garrido.io/notes/podman-rootless-containers-copy-fail/",
       "id": 5
     }
   ]
