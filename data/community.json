@@ -1,49 +1,49 @@
 {
-  "updated": "2026-05-08T05:20:36Z",
+  "updated": "2026-05-08T07:12:57Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Dirtyfrag: Universal Linux LPE",
-      "insight": "HN 热议：522 分 · 218 评论",
+      "insight": "HN 热议：577 分 · 229 评论",
       "sentiment": "positive",
-      "comments": 218,
+      "comments": 229,
       "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Agentic Engineering",
-      "insight": "HN 热议：12 分 · 1 评论",
+      "title": "Blaise – A modern self-hosting zero-legacy Object Pascal compiler targeting QBE",
+      "insight": "HN 热议：28 分 · 3 评论",
       "sentiment": "neutral",
-      "comments": 1,
-      "url": "https://addyosmani.com/blog/agentic-engineering/",
+      "comments": 3,
+      "url": "https://github.com/graemeg/blaise",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Agents need control flow, not more prompts",
-      "insight": "HN 热议：398 分 · 203 评论",
-      "sentiment": "positive",
-      "comments": 203,
-      "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
+      "title": "A polynomial autoencoder beats PCA on transformer embeddings",
+      "insight": "HN 热议：16 分 · 2 评论",
+      "sentiment": "neutral",
+      "comments": 2,
+      "url": "https://ivanpleshkov.dev/blog/polynomial-autoencoder/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
-      "insight": "HN 热议：235 分 · 80 评论",
+      "title": "Agents need control flow, not more prompts",
+      "insight": "HN 热议：433 分 · 212 评论",
       "sentiment": "positive",
-      "comments": 80,
-      "url": "https://www.anthropic.com/research/natural-language-autoencoders",
+      "comments": 212,
+      "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
-      "insight": "HN 热议：272 分 · 113 评论",
+      "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
+      "insight": "HN 热议：255 分 · 86 评论",
       "sentiment": "positive",
-      "comments": 113,
-      "url": "https://deepmind.google/blog/alphaevolve-impact/",
+      "comments": 86,
+      "url": "https://www.anthropic.com/research/natural-language-autoencoders",
       "id": 5
     }
   ]

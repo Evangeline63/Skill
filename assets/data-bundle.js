@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-08T05:20:36Z",
+    "updated": "2026-05-08T07:12:57Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-08T05:20:36Z",
+    "updated": "2026-05-08T07:12:57Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-08T05:20:36Z",
+    "updated": "2026-05-08T07:12:57Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184068,
-            "stars_today": 184068,
+            "stars": 184073,
+            "stars_today": 184073,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 161794,
-            "stars_today": 161794,
+            "stars": 161795,
+            "stars_today": 161795,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 92744,
-            "stars_today": 92744,
+            "stars": 92747,
+            "stars_today": 92747,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 92140,
-            "stars_today": 92140,
+            "stars": 92150,
+            "stars_today": 92150,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with ",
             "language": "TypeScript",
-            "stars": 73448,
-            "stars_today": 73448,
+            "stars": 73481,
+            "stars_today": 73481,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 72863,
-            "stars_today": 72863,
+            "stars": 72877,
+            "stars_today": 72877,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-08T05:20:36Z",
+    "updated": "2026-05-08T07:12:57Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-08T05:20:36Z",
+    "updated": "2026-05-08T07:12:57Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-08T05:20:36Z",
+    "updated": "2026-05-08T07:12:57Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Dirtyfrag: Universal Linux LPE",
-            "insight": "HN 热议：522 分 · 218 评论",
+            "insight": "HN 热议：577 分 · 229 评论",
             "sentiment": "positive",
-            "comments": 218,
+            "comments": 229,
             "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Agentic Engineering",
-            "insight": "HN 热议：12 分 · 1 评论",
+            "title": "Blaise – A modern self-hosting zero-legacy Object Pascal compiler targeting QBE",
+            "insight": "HN 热议：28 分 · 3 评论",
             "sentiment": "neutral",
-            "comments": 1,
-            "url": "https://addyosmani.com/blog/agentic-engineering/",
+            "comments": 3,
+            "url": "https://github.com/graemeg/blaise",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Agents need control flow, not more prompts",
-            "insight": "HN 热议：398 分 · 203 评论",
-            "sentiment": "positive",
-            "comments": 203,
-            "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
+            "title": "A polynomial autoencoder beats PCA on transformer embeddings",
+            "insight": "HN 热议：16 分 · 2 评论",
+            "sentiment": "neutral",
+            "comments": 2,
+            "url": "https://ivanpleshkov.dev/blog/polynomial-autoencoder/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
-            "insight": "HN 热议：235 分 · 80 评论",
+            "title": "Agents need control flow, not more prompts",
+            "insight": "HN 热议：433 分 · 212 评论",
             "sentiment": "positive",
-            "comments": 80,
-            "url": "https://www.anthropic.com/research/natural-language-autoencoders",
+            "comments": 212,
+            "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
-            "insight": "HN 热议：272 分 · 113 评论",
+            "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
+            "insight": "HN 热议：255 分 · 86 评论",
             "sentiment": "positive",
-            "comments": 113,
-            "url": "https://deepmind.google/blog/alphaevolve-impact/",
+            "comments": 86,
+            "url": "https://www.anthropic.com/research/natural-language-autoencoders",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-08T05:20:36Z",
+    "updated": "2026-05-08T07:12:57Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
