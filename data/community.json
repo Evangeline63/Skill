@@ -1,48 +1,48 @@
 {
-  "updated": "2026-05-08T01:49:02Z",
+  "updated": "2026-05-08T05:20:36Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Dirtyfrag: Universal Linux LPE",
-      "insight": "HN 热议：404 分 · 187 评论",
+      "insight": "HN 热议：522 分 · 218 评论",
       "sentiment": "positive",
-      "comments": 187,
+      "comments": 218,
       "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Agents need control flow, not more prompts",
-      "insight": "HN 热议：326 分 · 181 评论",
-      "sentiment": "positive",
-      "comments": 181,
-      "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
+      "title": "Agentic Engineering",
+      "insight": "HN 热议：12 分 · 1 评论",
+      "sentiment": "neutral",
+      "comments": 1,
+      "url": "https://addyosmani.com/blog/agentic-engineering/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Researchers discover advanced language processing in the unconscious human brain",
-      "insight": "HN 热议：39 分 · 11 评论",
-      "sentiment": "neutral",
-      "comments": 11,
-      "url": "https://www.bcm.edu/news/researchers-discover-advanced-language-processing-in-the-unconscious-human-brain",
+      "title": "Agents need control flow, not more prompts",
+      "insight": "HN 热议：398 分 · 203 评论",
+      "sentiment": "positive",
+      "comments": 203,
+      "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
-      "insight": "HN 热议：195 分 · 64 评论",
-      "sentiment": "neutral",
-      "comments": 64,
+      "insight": "HN 热议：235 分 · 80 评论",
+      "sentiment": "positive",
+      "comments": 80,
       "url": "https://www.anthropic.com/research/natural-language-autoencoders",
       "id": 4
     },
     {
       "source": "HackerNews",
       "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
-      "insight": "HN 热议：242 分 · 98 评论",
+      "insight": "HN 热议：272 分 · 113 评论",
       "sentiment": "positive",
-      "comments": 98,
+      "comments": 113,
       "url": "https://deepmind.google/blog/alphaevolve-impact/",
       "id": 5
     }

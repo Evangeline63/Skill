@@ -1,13 +1,13 @@
 {
-  "updated": "2026-05-08T01:49:02Z",
+  "updated": "2026-05-08T05:20:36Z",
   "repos": [
     {
       "rank": 1,
       "name": "Significant-Gravitas/AutoGPT",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
       "language": "Python",
-      "stars": 184062,
-      "stars_today": 184062,
+      "stars": 184068,
+      "stars_today": 184068,
       "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
@@ -15,45 +15,45 @@
       "name": "f/prompts.chat",
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
       "language": "HTML",
-      "stars": 161779,
-      "stars_today": 161779,
+      "stars": 161794,
+      "stars_today": 161794,
       "url": "https://github.com/f/prompts.chat"
     },
     {
       "rank": 3,
-      "name": "rasbt/LLMs-from-scratch",
-      "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
-      "language": "Jupyter Notebook",
-      "stars": 92122,
-      "stars_today": 92122,
-      "url": "https://github.com/rasbt/LLMs-from-scratch"
+      "name": "hacksider/Deep-Live-Cam",
+      "description": "real time face swap and one-click video deepfake with only a single image",
+      "language": "Python",
+      "stars": 92744,
+      "stars_today": 92744,
+      "url": "https://github.com/hacksider/Deep-Live-Cam"
     },
     {
       "rank": 4,
-      "name": "thedotmack/claude-mem",
-      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with ",
-      "language": "TypeScript",
-      "stars": 73385,
-      "stars_today": 73385,
-      "url": "https://github.com/thedotmack/claude-mem"
+      "name": "rasbt/LLMs-from-scratch",
+      "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+      "language": "Jupyter Notebook",
+      "stars": 92140,
+      "stars_today": 92140,
+      "url": "https://github.com/rasbt/LLMs-from-scratch"
     },
     {
       "rank": 5,
-      "name": "OpenHands/OpenHands",
-      "description": "🙌 OpenHands: AI-Driven Development",
-      "language": "Python",
-      "stars": 72849,
-      "stars_today": 72849,
-      "url": "https://github.com/OpenHands/OpenHands"
+      "name": "thedotmack/claude-mem",
+      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with ",
+      "language": "TypeScript",
+      "stars": 73448,
+      "stars_today": 73448,
+      "url": "https://github.com/thedotmack/claude-mem"
     },
     {
       "rank": 6,
-      "name": "FlowiseAI/Flowise",
-      "description": "Build AI Agents, Visually",
-      "language": "TypeScript",
-      "stars": 52632,
-      "stars_today": 52632,
-      "url": "https://github.com/FlowiseAI/Flowise"
+      "name": "OpenHands/OpenHands",
+      "description": "🙌 OpenHands: AI-Driven Development",
+      "language": "Python",
+      "stars": 72863,
+      "stars_today": 72863,
+      "url": "https://github.com/OpenHands/OpenHands"
     }
   ]
 }

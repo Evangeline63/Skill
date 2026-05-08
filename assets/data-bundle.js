@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-08T01:49:02Z",
+    "updated": "2026-05-08T05:20:36Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-08T01:49:02Z",
+    "updated": "2026-05-08T05:20:36Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-08T01:49:02Z",
+    "updated": "2026-05-08T05:20:36Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184062,
-            "stars_today": 184062,
+            "stars": 184068,
+            "stars_today": 184068,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,50 +282,50 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 161779,
-            "stars_today": 161779,
+            "stars": 161794,
+            "stars_today": 161794,
             "url": "https://github.com/f/prompts.chat"
         },
         {
             "rank": 3,
-            "name": "rasbt/LLMs-from-scratch",
-            "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
-            "language": "Jupyter Notebook",
-            "stars": 92122,
-            "stars_today": 92122,
-            "url": "https://github.com/rasbt/LLMs-from-scratch"
+            "name": "hacksider/Deep-Live-Cam",
+            "description": "real time face swap and one-click video deepfake with only a single image",
+            "language": "Python",
+            "stars": 92744,
+            "stars_today": 92744,
+            "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
             "rank": 4,
-            "name": "thedotmack/claude-mem",
-            "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with ",
-            "language": "TypeScript",
-            "stars": 73385,
-            "stars_today": 73385,
-            "url": "https://github.com/thedotmack/claude-mem"
+            "name": "rasbt/LLMs-from-scratch",
+            "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+            "language": "Jupyter Notebook",
+            "stars": 92140,
+            "stars_today": 92140,
+            "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
             "rank": 5,
-            "name": "OpenHands/OpenHands",
-            "description": "🙌 OpenHands: AI-Driven Development",
-            "language": "Python",
-            "stars": 72849,
-            "stars_today": 72849,
-            "url": "https://github.com/OpenHands/OpenHands"
+            "name": "thedotmack/claude-mem",
+            "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with ",
+            "language": "TypeScript",
+            "stars": 73448,
+            "stars_today": 73448,
+            "url": "https://github.com/thedotmack/claude-mem"
         },
         {
             "rank": 6,
-            "name": "FlowiseAI/Flowise",
-            "description": "Build AI Agents, Visually",
-            "language": "TypeScript",
-            "stars": 52632,
-            "stars_today": 52632,
-            "url": "https://github.com/FlowiseAI/Flowise"
+            "name": "OpenHands/OpenHands",
+            "description": "🙌 OpenHands: AI-Driven Development",
+            "language": "Python",
+            "stars": 72863,
+            "stars_today": 72863,
+            "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-08T01:49:02Z",
+    "updated": "2026-05-08T05:20:36Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-08T01:49:02Z",
+    "updated": "2026-05-08T05:20:36Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-08T01:49:02Z",
+    "updated": "2026-05-08T05:20:36Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Dirtyfrag: Universal Linux LPE",
-            "insight": "HN 热议：404 分 · 187 评论",
+            "insight": "HN 热议：522 分 · 218 评论",
             "sentiment": "positive",
-            "comments": 187,
+            "comments": 218,
             "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Agents need control flow, not more prompts",
-            "insight": "HN 热议：326 分 · 181 评论",
-            "sentiment": "positive",
-            "comments": 181,
-            "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
+            "title": "Agentic Engineering",
+            "insight": "HN 热议：12 分 · 1 评论",
+            "sentiment": "neutral",
+            "comments": 1,
+            "url": "https://addyosmani.com/blog/agentic-engineering/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Researchers discover advanced language processing in the unconscious human brain",
-            "insight": "HN 热议：39 分 · 11 评论",
-            "sentiment": "neutral",
-            "comments": 11,
-            "url": "https://www.bcm.edu/news/researchers-discover-advanced-language-processing-in-the-unconscious-human-brain",
+            "title": "Agents need control flow, not more prompts",
+            "insight": "HN 热议：398 分 · 203 评论",
+            "sentiment": "positive",
+            "comments": 203,
+            "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
             "id": 3
         },
         {
             "source": "HackerNews",
             "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
-            "insight": "HN 热议：195 分 · 64 评论",
-            "sentiment": "neutral",
-            "comments": 64,
+            "insight": "HN 热议：235 分 · 80 评论",
+            "sentiment": "positive",
+            "comments": 80,
             "url": "https://www.anthropic.com/research/natural-language-autoencoders",
             "id": 4
         },
         {
             "source": "HackerNews",
             "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
-            "insight": "HN 热议：242 分 · 98 评论",
+            "insight": "HN 热议：272 分 · 113 评论",
             "sentiment": "positive",
-            "comments": 98,
+            "comments": 113,
             "url": "https://deepmind.google/blog/alphaevolve-impact/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-08T01:49:02Z",
+    "updated": "2026-05-08T05:20:36Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
