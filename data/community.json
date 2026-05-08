@@ -1,49 +1,49 @@
 {
-  "updated": "2026-05-07T21:44:22Z",
+  "updated": "2026-05-08T01:49:02Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Dirtyfrag: Universal Linux LPE",
-      "insight": "HN 热议：200 分 · 92 评论",
-      "sentiment": "neutral",
-      "comments": 92,
+      "insight": "HN 热议：404 分 · 187 评论",
+      "sentiment": "positive",
+      "comments": 187,
       "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "Agents need control flow, not more prompts",
-      "insight": "HN 热议：220 分 · 125 评论",
+      "insight": "HN 热议：326 分 · 181 评论",
       "sentiment": "positive",
-      "comments": 125,
+      "comments": 181,
       "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
-      "insight": "HN 热议：216 分 · 84 评论",
-      "sentiment": "positive",
-      "comments": 84,
-      "url": "https://deepmind.google/blog/alphaevolve-impact/",
+      "title": "Researchers discover advanced language processing in the unconscious human brain",
+      "insight": "HN 热议：39 分 · 11 评论",
+      "sentiment": "neutral",
+      "comments": 11,
+      "url": "https://www.bcm.edu/news/researchers-discover-advanced-language-processing-in-the-unconscious-human-brain",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
-      "insight": "HN 热议：119 分 · 38 评论",
+      "insight": "HN 热议：195 分 · 64 评论",
       "sentiment": "neutral",
-      "comments": 38,
+      "comments": 64,
       "url": "https://www.anthropic.com/research/natural-language-autoencoders",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "AI slop is killing online communities",
-      "insight": "HN 热议：238 分 · 228 评论",
+      "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
+      "insight": "HN 热议：242 分 · 98 评论",
       "sentiment": "positive",
-      "comments": 228,
-      "url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
+      "comments": 98,
+      "url": "https://deepmind.google/blog/alphaevolve-impact/",
       "id": 5
     }
   ]

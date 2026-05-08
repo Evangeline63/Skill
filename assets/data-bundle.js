@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-07T21:44:22Z",
+    "updated": "2026-05-08T01:49:02Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-07T21:44:22Z",
+    "updated": "2026-05-08T01:49:02Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-07T21:44:22Z",
+    "updated": "2026-05-08T01:49:02Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184057,
-            "stars_today": 184057,
+            "stars": 184062,
+            "stars_today": 184062,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 161777,
-            "stars_today": 161777,
+            "stars": 161779,
+            "stars_today": 161779,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 92115,
-            "stars_today": 92115,
+            "stars": 92122,
+            "stars_today": 92122,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with ",
             "language": "TypeScript",
-            "stars": 73334,
-            "stars_today": 73334,
+            "stars": 73385,
+            "stars_today": 73385,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 72839,
-            "stars_today": 72839,
+            "stars": 72849,
+            "stars_today": 72849,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 52630,
-            "stars_today": 52630,
+            "stars": 52632,
+            "stars_today": 52632,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-07T21:44:22Z",
+    "updated": "2026-05-08T01:49:02Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-07T21:44:22Z",
+    "updated": "2026-05-08T01:49:02Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-07T21:44:22Z",
+    "updated": "2026-05-08T01:49:02Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Dirtyfrag: Universal Linux LPE",
-            "insight": "HN 热议：200 分 · 92 评论",
-            "sentiment": "neutral",
-            "comments": 92,
+            "insight": "HN 热议：404 分 · 187 评论",
+            "sentiment": "positive",
+            "comments": 187,
             "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "Agents need control flow, not more prompts",
-            "insight": "HN 热议：220 分 · 125 评论",
+            "insight": "HN 热议：326 分 · 181 评论",
             "sentiment": "positive",
-            "comments": 125,
+            "comments": 181,
             "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
-            "insight": "HN 热议：216 分 · 84 评论",
-            "sentiment": "positive",
-            "comments": 84,
-            "url": "https://deepmind.google/blog/alphaevolve-impact/",
+            "title": "Researchers discover advanced language processing in the unconscious human brain",
+            "insight": "HN 热议：39 分 · 11 评论",
+            "sentiment": "neutral",
+            "comments": 11,
+            "url": "https://www.bcm.edu/news/researchers-discover-advanced-language-processing-in-the-unconscious-human-brain",
             "id": 3
         },
         {
             "source": "HackerNews",
             "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
-            "insight": "HN 热议：119 分 · 38 评论",
+            "insight": "HN 热议：195 分 · 64 评论",
             "sentiment": "neutral",
-            "comments": 38,
+            "comments": 64,
             "url": "https://www.anthropic.com/research/natural-language-autoencoders",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "AI slop is killing online communities",
-            "insight": "HN 热议：238 分 · 228 评论",
+            "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
+            "insight": "HN 热议：242 分 · 98 评论",
             "sentiment": "positive",
-            "comments": 228,
-            "url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
+            "comments": 98,
+            "url": "https://deepmind.google/blog/alphaevolve-impact/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-07T21:44:22Z",
+    "updated": "2026-05-08T01:49:02Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
