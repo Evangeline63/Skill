@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-09T15:39:22Z",
+    "updated": "2026-05-09T18:41:12Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-09T15:39:22Z",
+    "updated": "2026-05-09T18:41:12Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-09T15:39:22Z",
+    "updated": "2026-05-09T18:41:12Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184117,
-            "stars_today": 184117,
+            "stars": 184118,
+            "stars_today": 184118,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 161897,
-            "stars_today": 161897,
+            "stars": 161906,
+            "stars_today": 161906,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 92794,
-            "stars_today": 92794,
+            "stars": 92802,
+            "stars_today": 92802,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 92243,
-            "stars_today": 92243,
+            "stars": 92252,
+            "stars_today": 92252,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with ",
             "language": "TypeScript",
-            "stars": 74023,
-            "stars_today": 74023,
+            "stars": 74064,
+            "stars_today": 74064,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 72981,
-            "stars_today": 72981,
+            "stars": 72989,
+            "stars_today": 72989,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-09T15:39:22Z",
+    "updated": "2026-05-09T18:41:12Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-09T15:39:22Z",
+    "updated": "2026-05-09T18:41:12Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-09T15:39:22Z",
+    "updated": "2026-05-09T18:41:12Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "LLMs Corrupt Your Documents When You Delegate",
-            "insight": "HN 热议：112 分 · 37 评论",
-            "sentiment": "neutral",
-            "comments": 37,
+            "insight": "HN 热议：240 分 · 90 评论",
+            "sentiment": "positive",
+            "comments": 90,
             "url": "https://arxiv.org/abs/2604.15597",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "Using Claude Code: The unreasonable effectiveness of HTML",
-            "insight": "HN 热议：292 分 · 185 评论",
+            "insight": "HN 热议：355 分 · 212 评论",
             "sentiment": "positive",
-            "comments": 185,
+            "comments": 212,
             "url": "https://twitter.com/trq212/status/2052809885763747935",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "A recent experience with ChatGPT 5.5 Pro",
-            "insight": "HN 热议：480 分 · 336 评论",
+            "insight": "HN 热议：519 分 · 380 评论",
             "sentiment": "positive",
-            "comments": 336,
+            "comments": 380,
             "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
             "id": 3
         },
         {
             "source": "HackerNews",
             "title": "OpenAI’s WebRTC problem",
-            "insight": "HN 热议：401 分 · 112 评论",
+            "insight": "HN 热议：423 分 · 135 评论",
             "sentiment": "positive",
-            "comments": 112,
+            "comments": 135,
             "url": "https://moq.dev/blog/webrtc-is-the-problem/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Removing fsync from our local storage engine",
-            "insight": "HN 热议：26 分 · 11 评论",
-            "sentiment": "neutral",
-            "comments": 11,
-            "url": "https://fractalbits.com/blog/remove-fsync/",
+            "title": "AI is breaking two vulnerability cultures",
+            "insight": "HN 热议：393 分 · 157 评论",
+            "sentiment": "positive",
+            "comments": 157,
+            "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-09T15:39:22Z",
+    "updated": "2026-05-09T18:41:12Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
