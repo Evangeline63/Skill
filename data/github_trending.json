@@ -1,13 +1,13 @@
 {
-  "updated": "2026-05-09T12:47:31Z",
+  "updated": "2026-05-09T15:39:22Z",
   "repos": [
     {
       "rank": 1,
       "name": "Significant-Gravitas/AutoGPT",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
       "language": "Python",
-      "stars": 184116,
-      "stars_today": 184116,
+      "stars": 184117,
+      "stars_today": 184117,
       "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
@@ -15,8 +15,8 @@
       "name": "f/prompts.chat",
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
       "language": "HTML",
-      "stars": 161882,
-      "stars_today": 161882,
+      "stars": 161897,
+      "stars_today": 161897,
       "url": "https://github.com/f/prompts.chat"
     },
     {
@@ -24,8 +24,8 @@
       "name": "hacksider/Deep-Live-Cam",
       "description": "real time face swap and one-click video deepfake with only a single image",
       "language": "Python",
-      "stars": 92792,
-      "stars_today": 92792,
+      "stars": 92794,
+      "stars_today": 92794,
       "url": "https://github.com/hacksider/Deep-Live-Cam"
     },
     {
@@ -33,8 +33,8 @@
       "name": "rasbt/LLMs-from-scratch",
       "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
       "language": "Jupyter Notebook",
-      "stars": 92231,
-      "stars_today": 92231,
+      "stars": 92243,
+      "stars_today": 92243,
       "url": "https://github.com/rasbt/LLMs-from-scratch"
     },
     {
@@ -42,8 +42,8 @@
       "name": "thedotmack/claude-mem",
       "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with ",
       "language": "TypeScript",
-      "stars": 73979,
-      "stars_today": 73979,
+      "stars": 74023,
+      "stars_today": 74023,
       "url": "https://github.com/thedotmack/claude-mem"
     },
     {
@@ -51,8 +51,8 @@
       "name": "OpenHands/OpenHands",
       "description": "🙌 OpenHands: AI-Driven Development",
       "language": "Python",
-      "stars": 72973,
-      "stars_today": 72973,
+      "stars": 72981,
+      "stars_today": 72981,
       "url": "https://github.com/OpenHands/OpenHands"
     }
   ]
