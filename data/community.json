@@ -1,49 +1,49 @@
 {
-  "updated": "2026-05-09T07:29:26Z",
+  "updated": "2026-05-09T09:59:40Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "A recent experience with ChatGPT 5.5 Pro",
-      "insight": "HN 热议：187 分 · 80 评论",
-      "sentiment": "neutral",
-      "comments": 80,
+      "insight": "HN 热议：299 分 · 153 评论",
+      "sentiment": "positive",
+      "comments": 153,
       "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "Using Claude Code: The unreasonable effectiveness of HTML",
-      "insight": "HN 热议：82 分 · 41 评论",
+      "insight": "HN 热议：138 分 · 78 评论",
       "sentiment": "neutral",
-      "comments": 41,
+      "comments": 78,
       "url": "https://twitter.com/trq212/status/2052809885763747935",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "OpenAI's WebRTC problem",
-      "insight": "HN 热议：257 分 · 65 评论",
+      "title": "OpenAI’s WebRTC problem",
+      "insight": "HN 热议：314 分 · 79 评论",
       "sentiment": "positive",
-      "comments": 65,
+      "comments": 79,
       "url": "https://moq.dev/blog/webrtc-is-the-problem/",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "AI is breaking two vulnerability cultures",
-      "insight": "HN 热议：313 分 · 130 评论",
+      "insight": "HN 热议：331 分 · 133 评论",
       "sentiment": "positive",
-      "comments": 130,
+      "comments": 133,
       "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Can LLMs model real-world systems in TLA+?",
-      "insight": "HN 热议：73 分 · 15 评论",
+      "title": "Teaching Claude Why",
+      "insight": "HN 热议：164 分 · 78 评论",
       "sentiment": "neutral",
-      "comments": 15,
-      "url": "https://www.sigops.org/2026/can-llms-model-real-world-systems-in-tla/",
+      "comments": 78,
+      "url": "https://www.anthropic.com/research/teaching-claude-why",
       "id": 5
     }
   ]
