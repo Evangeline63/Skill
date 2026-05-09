@@ -1,49 +1,49 @@
 {
-  "updated": "2026-05-09T01:44:39Z",
+  "updated": "2026-05-09T05:38:13Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "OpenAI's WebRTC problem",
-      "insight": "HN 热议：91 分 · 22 评论",
+      "title": "A recent experience with ChatGPT 5.5 Pro",
+      "insight": "HN 热议：91 分 · 8 评论",
       "sentiment": "neutral",
-      "comments": 22,
-      "url": "https://moq.dev/blog/webrtc-is-the-problem/",
+      "comments": 8,
+      "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "AI is breaking two vulnerability cultures",
-      "insight": "HN 热议：239 分 · 102 评论",
-      "sentiment": "positive",
-      "comments": 102,
-      "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
+      "title": "Using Claude Code: The unreasonable effectiveness of HTML",
+      "insight": "HN 热议：21 分 · 4 评论",
+      "sentiment": "neutral",
+      "comments": 4,
+      "url": "https://twitter.com/trq212/status/2052809885763747935",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Can LLMs model real-world systems in TLA+?",
-      "insight": "HN 热议：27 分 · 4 评论",
-      "sentiment": "neutral",
-      "comments": 4,
-      "url": "https://www.sigops.org/2026/can-llms-model-real-world-systems-in-tla/",
+      "title": "OpenAI's WebRTC problem",
+      "insight": "HN 热议：222 分 · 59 评论",
+      "sentiment": "positive",
+      "comments": 59,
+      "url": "https://moq.dev/blog/webrtc-is-the-problem/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Teaching Claude Why",
-      "insight": "HN 热议：90 分 · 24 评论",
-      "sentiment": "neutral",
-      "comments": 24,
-      "url": "https://www.anthropic.com/research/teaching-claude-why",
+      "title": "AI is breaking two vulnerability cultures",
+      "insight": "HN 热议：300 分 · 126 评论",
+      "sentiment": "positive",
+      "comments": 126,
+      "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "All means are fair except solving the problem",
-      "insight": "HN 热议：33 分 · 38 评论",
+      "title": "Can LLMs model real-world systems in TLA+?",
+      "insight": "HN 热议：60 分 · 9 评论",
       "sentiment": "neutral",
-      "comments": 38,
-      "url": "https://yosefk.com/blog/all-means-are-fair-except-solving-the-problem.html",
+      "comments": 9,
+      "url": "https://www.sigops.org/2026/can-llms-model-real-world-systems-in-tla/",
       "id": 5
     }
   ]
