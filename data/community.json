@@ -1,48 +1,48 @@
 {
-  "updated": "2026-05-09T18:41:12Z",
+  "updated": "2026-05-09T21:32:20Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "LLMs Corrupt Your Documents When You Delegate",
-      "insight": "HN 热议：240 分 · 90 评论",
+      "title": "LLMs corrupt your documents when you delegate",
+      "insight": "HN 热议：297 分 · 117 评论",
       "sentiment": "positive",
-      "comments": 90,
+      "comments": 117,
       "url": "https://arxiv.org/abs/2604.15597",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "Using Claude Code: The unreasonable effectiveness of HTML",
-      "insight": "HN 热议：355 分 · 212 评论",
+      "insight": "HN 热议：383 分 · 230 评论",
       "sentiment": "positive",
-      "comments": 212,
+      "comments": 230,
       "url": "https://twitter.com/trq212/status/2052809885763747935",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "A recent experience with ChatGPT 5.5 Pro",
-      "insight": "HN 热议：519 分 · 380 评论",
+      "insight": "HN 热议：564 分 · 404 评论",
       "sentiment": "positive",
-      "comments": 380,
+      "comments": 404,
       "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "OpenAI’s WebRTC problem",
-      "insight": "HN 热议：423 分 · 135 评论",
+      "insight": "HN 热议：456 分 · 138 评论",
       "sentiment": "positive",
-      "comments": 135,
+      "comments": 138,
       "url": "https://moq.dev/blog/webrtc-is-the-problem/",
       "id": 4
     },
     {
       "source": "HackerNews",
       "title": "AI is breaking two vulnerability cultures",
-      "insight": "HN 热议：393 分 · 157 评论",
+      "insight": "HN 热议：406 分 · 160 评论",
       "sentiment": "positive",
-      "comments": 157,
+      "comments": 160,
       "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
       "id": 5
     }
