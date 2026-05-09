@@ -1,49 +1,49 @@
 {
-  "updated": "2026-05-09T09:59:40Z",
+  "updated": "2026-05-09T12:47:31Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "A recent experience with ChatGPT 5.5 Pro",
-      "insight": "HN 热议：299 分 · 153 评论",
+      "insight": "HN 热议：402 分 · 237 评论",
       "sentiment": "positive",
-      "comments": 153,
+      "comments": 237,
       "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "Using Claude Code: The unreasonable effectiveness of HTML",
-      "insight": "HN 热议：138 分 · 78 评论",
-      "sentiment": "neutral",
-      "comments": 78,
+      "insight": "HN 热议：209 分 · 120 评论",
+      "sentiment": "positive",
+      "comments": 120,
       "url": "https://twitter.com/trq212/status/2052809885763747935",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "OpenAI’s WebRTC problem",
-      "insight": "HN 热议：314 分 · 79 评论",
+      "insight": "HN 热议：355 分 · 87 评论",
       "sentiment": "positive",
-      "comments": 79,
+      "comments": 87,
       "url": "https://moq.dev/blog/webrtc-is-the-problem/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "AI is breaking two vulnerability cultures",
-      "insight": "HN 热议：331 分 · 133 评论",
-      "sentiment": "positive",
-      "comments": 133,
-      "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
+      "title": "LLMs Corrupt Your Documents When You Delegate",
+      "insight": "HN 热议：15 分 · 3 评论",
+      "sentiment": "neutral",
+      "comments": 3,
+      "url": "https://arxiv.org/abs/2604.15597",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Teaching Claude Why",
-      "insight": "HN 热议：164 分 · 78 评论",
-      "sentiment": "neutral",
-      "comments": 78,
-      "url": "https://www.anthropic.com/research/teaching-claude-why",
+      "title": "AI is breaking two vulnerability cultures",
+      "insight": "HN 热议：356 分 · 141 评论",
+      "sentiment": "positive",
+      "comments": 141,
+      "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
       "id": 5
     }
   ]
