@@ -1,49 +1,49 @@
 {
-  "updated": "2026-05-10T12:48:24Z",
+  "updated": "2026-05-10T15:41:02Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Gemini API File Search is now multimodal",
-      "insight": "HN 热议：119 分 · 20 评论",
+      "title": "Academic Research Skills for Claude Code",
+      "insight": "HN 热议：23 分 · 1 评论",
       "sentiment": "neutral",
-      "comments": 20,
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/",
+      "comments": 1,
+      "url": "https://github.com/Imbad0202/academic-research-skills",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "A recent experience with ChatGPT 5.5 Pro",
-      "insight": "HN 热议：649 分 · 476 评论",
-      "sentiment": "positive",
-      "comments": 476,
-      "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
+      "title": "Gemini API File Search is now multimodal",
+      "insight": "HN 热议：135 分 · 30 评论",
+      "sentiment": "neutral",
+      "comments": 30,
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "LLMs corrupt your documents when you delegate",
-      "insight": "HN 热议：432 分 · 170 评论",
-      "sentiment": "positive",
-      "comments": 170,
-      "url": "https://arxiv.org/abs/2604.15597",
+      "title": "LLMorphism: When humans come to see themselves as language models",
+      "insight": "HN 热议：55 分 · 30 评论",
+      "sentiment": "neutral",
+      "comments": 30,
+      "url": "https://arxiv.org/abs/2605.05419",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "LLMorphism: When humans come to see themselves as language models",
-      "insight": "HN 热议：26 分 · 13 评论",
+      "title": "Task Paralysis and AI",
+      "insight": "HN 热议：97 分 · 66 评论",
       "sentiment": "neutral",
-      "comments": 13,
-      "url": "https://arxiv.org/abs/2605.05419",
+      "comments": 66,
+      "url": "https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Task Paralysis and AI",
-      "insight": "HN 热议：47 分 · 41 评论",
+      "title": "Chrome's AI features may be hogging 4GB of your computer storage",
+      "insight": "HN 热议：5 分 · 0 评论",
       "sentiment": "neutral",
-      "comments": 41,
-      "url": "https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html",
+      "comments": 0,
+      "url": "https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features",
       "id": 5
     }
   ]
