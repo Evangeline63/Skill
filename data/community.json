@@ -1,49 +1,49 @@
 {
-  "updated": "2026-05-10T15:41:02Z",
+  "updated": "2026-05-10T18:42:37Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Academic Research Skills for Claude Code",
-      "insight": "HN 热议：23 分 · 1 评论",
+      "title": "Spain just became one of Europe's cheapest power markets. Here is how",
+      "insight": "HN 热议：46 分 · 12 评论",
       "sentiment": "neutral",
-      "comments": 1,
-      "url": "https://github.com/Imbad0202/academic-research-skills",
+      "comments": 12,
+      "url": "https://janrosenow.substack.com/p/spain-just-became-one-of-europes",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Gemini API File Search is now multimodal",
-      "insight": "HN 热议：135 分 · 30 评论",
+      "title": "Academic Research Skills for Claude Code",
+      "insight": "HN 热议：57 分 · 19 评论",
       "sentiment": "neutral",
-      "comments": 30,
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/",
+      "comments": 19,
+      "url": "https://github.com/Imbad0202/academic-research-skills",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "LLMorphism: When humans come to see themselves as language models",
-      "insight": "HN 热议：55 分 · 30 评论",
+      "title": "Chrome's AI features may be hogging 4GB of your computer storage",
+      "insight": "HN 热议：56 分 · 25 评论",
       "sentiment": "neutral",
-      "comments": 30,
-      "url": "https://arxiv.org/abs/2605.05419",
+      "comments": 25,
+      "url": "https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "Task Paralysis and AI",
-      "insight": "HN 热议：97 分 · 66 评论",
+      "insight": "HN 热议：126 分 · 78 评论",
       "sentiment": "neutral",
-      "comments": 66,
+      "comments": 78,
       "url": "https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Chrome's AI features may be hogging 4GB of your computer storage",
-      "insight": "HN 热议：5 分 · 0 评论",
+      "title": "Gemini API File Search is now multimodal",
+      "insight": "HN 热议：138 分 · 36 评论",
       "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features",
+      "comments": 36,
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/",
       "id": 5
     }
   ]

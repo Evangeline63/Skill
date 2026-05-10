@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-10T15:41:02Z",
+    "updated": "2026-05-10T18:42:37Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-10T15:41:02Z",
+    "updated": "2026-05-10T18:42:37Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-10T15:41:02Z",
+    "updated": "2026-05-10T18:42:37Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184142,
-            "stars_today": 184142,
+            "stars": 184150,
+            "stars_today": 184150,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 161956,
-            "stars_today": 161956,
+            "stars": 161962,
+            "stars_today": 161962,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 92847,
-            "stars_today": 92847,
+            "stars": 92859,
+            "stars_today": 92859,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 92346,
-            "stars_today": 92346,
+            "stars": 92421,
+            "stars_today": 92421,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with ",
             "language": "TypeScript",
-            "stars": 74368,
-            "stars_today": 74368,
+            "stars": 74417,
+            "stars_today": 74417,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 73045,
-            "stars_today": 73045,
+            "stars": 73060,
+            "stars_today": 73060,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-10T15:41:02Z",
+    "updated": "2026-05-10T18:42:37Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-10T15:41:02Z",
+    "updated": "2026-05-10T18:42:37Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-10T15:41:02Z",
+    "updated": "2026-05-10T18:42:37Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Academic Research Skills for Claude Code",
-            "insight": "HN 热议：23 分 · 1 评论",
+            "title": "Spain just became one of Europe's cheapest power markets. Here is how",
+            "insight": "HN 热议：46 分 · 12 评论",
             "sentiment": "neutral",
-            "comments": 1,
-            "url": "https://github.com/Imbad0202/academic-research-skills",
+            "comments": 12,
+            "url": "https://janrosenow.substack.com/p/spain-just-became-one-of-europes",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Gemini API File Search is now multimodal",
-            "insight": "HN 热议：135 分 · 30 评论",
+            "title": "Academic Research Skills for Claude Code",
+            "insight": "HN 热议：57 分 · 19 评论",
             "sentiment": "neutral",
-            "comments": 30,
-            "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/",
+            "comments": 19,
+            "url": "https://github.com/Imbad0202/academic-research-skills",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "LLMorphism: When humans come to see themselves as language models",
-            "insight": "HN 热议：55 分 · 30 评论",
+            "title": "Chrome's AI features may be hogging 4GB of your computer storage",
+            "insight": "HN 热议：56 分 · 25 评论",
             "sentiment": "neutral",
-            "comments": 30,
-            "url": "https://arxiv.org/abs/2605.05419",
+            "comments": 25,
+            "url": "https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features",
             "id": 3
         },
         {
             "source": "HackerNews",
             "title": "Task Paralysis and AI",
-            "insight": "HN 热议：97 分 · 66 评论",
+            "insight": "HN 热议：126 分 · 78 评论",
             "sentiment": "neutral",
-            "comments": 66,
+            "comments": 78,
             "url": "https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Chrome's AI features may be hogging 4GB of your computer storage",
-            "insight": "HN 热议：5 分 · 0 评论",
+            "title": "Gemini API File Search is now multimodal",
+            "insight": "HN 热议：138 分 · 36 评论",
             "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features",
+            "comments": 36,
+            "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-10T15:41:02Z",
+    "updated": "2026-05-10T18:42:37Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
