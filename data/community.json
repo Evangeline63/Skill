@@ -1,48 +1,48 @@
 {
-  "updated": "2026-05-10T18:42:37Z",
+  "updated": "2026-05-10T21:36:49Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Spain just became one of Europe's cheapest power markets. Here is how",
-      "insight": "HN 热议：46 分 · 12 评论",
-      "sentiment": "neutral",
-      "comments": 12,
-      "url": "https://janrosenow.substack.com/p/spain-just-became-one-of-europes",
+      "title": "Local AI needs to be the norm",
+      "insight": "HN 热议：207 分 · 108 评论",
+      "sentiment": "positive",
+      "comments": 108,
+      "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Academic Research Skills for Claude Code",
-      "insight": "HN 热议：57 分 · 19 评论",
+      "title": "Task Paralysis and AI",
+      "insight": "HN 热议：155 分 · 96 评论",
       "sentiment": "neutral",
-      "comments": 19,
-      "url": "https://github.com/Imbad0202/academic-research-skills",
+      "comments": 96,
+      "url": "https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Chrome's AI features may be hogging 4GB of your computer storage",
-      "insight": "HN 热议：56 分 · 25 评论",
+      "title": "Spain has become one of Europe’s cheapest power markets",
+      "insight": "HN 热议：111 分 · 90 评论",
       "sentiment": "neutral",
-      "comments": 25,
-      "url": "https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features",
+      "comments": 90,
+      "url": "https://janrosenow.substack.com/p/spain-just-became-one-of-europes",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Task Paralysis and AI",
-      "insight": "HN 热议：126 分 · 78 评论",
+      "title": "Chrome's AI features may be hogging 4GB of your computer storage",
+      "insight": "HN 热议：82 分 · 40 评论",
       "sentiment": "neutral",
-      "comments": 78,
-      "url": "https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html",
+      "comments": 40,
+      "url": "https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features",
       "id": 4
     },
     {
       "source": "HackerNews",
       "title": "Gemini API File Search is now multimodal",
-      "insight": "HN 热议：138 分 · 36 评论",
+      "insight": "HN 热议：141 分 · 38 评论",
       "sentiment": "neutral",
-      "comments": 36,
+      "comments": 38,
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/",
       "id": 5
     }
