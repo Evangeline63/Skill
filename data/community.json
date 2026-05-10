@@ -1,49 +1,49 @@
 {
-  "updated": "2026-05-10T01:45:18Z",
+  "updated": "2026-05-10T05:53:42Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "LLMs corrupt your documents when you delegate",
-      "insight": "HN 热议：354 分 · 137 评论",
-      "sentiment": "positive",
-      "comments": 137,
-      "url": "https://arxiv.org/abs/2604.15597",
+      "title": "Gemini API File Search is now multimodal",
+      "insight": "HN 热议：43 分 · 2 评论",
+      "sentiment": "neutral",
+      "comments": 2,
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "A recent experience with ChatGPT 5.5 Pro",
-      "insight": "HN 热议：603 分 · 428 评论",
+      "title": "LLMs corrupt your documents when you delegate",
+      "insight": "HN 热议：384 分 · 148 评论",
       "sentiment": "positive",
-      "comments": 428,
-      "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
+      "comments": 148,
+      "url": "https://arxiv.org/abs/2604.15597",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Using Claude Code: The unreasonable effectiveness of HTML",
-      "insight": "HN 热议：418 分 · 237 评论",
+      "title": "A recent experience with ChatGPT 5.5 Pro",
+      "insight": "HN 热议：622 分 · 450 评论",
       "sentiment": "positive",
-      "comments": 237,
-      "url": "https://twitter.com/trq212/status/2052809885763747935",
+      "comments": 450,
+      "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "OpenAI’s WebRTC problem",
-      "insight": "HN 热议：470 分 · 141 评论",
+      "title": "Using Claude Code: The unreasonable effectiveness of HTML",
+      "insight": "HN 热议：439 分 · 249 评论",
       "sentiment": "positive",
-      "comments": 141,
-      "url": "https://moq.dev/blog/webrtc-is-the-problem/",
+      "comments": 249,
+      "url": "https://twitter.com/trq212/status/2052809885763747935",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Removing fsync from our local storage engine",
-      "insight": "HN 热议：58 分 · 61 评论",
-      "sentiment": "neutral",
-      "comments": 61,
-      "url": "https://fractalbits.com/blog/remove-fsync/",
+      "title": "Meta's embrace of AI is making its employees miserable",
+      "insight": "HN 热议：360 分 · 370 评论",
+      "sentiment": "positive",
+      "comments": 370,
+      "url": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html",
       "id": 5
     }
   ]
