@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-10T07:52:52Z",
+    "updated": "2026-05-10T10:04:29Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-10T07:52:52Z",
+    "updated": "2026-05-10T10:04:29Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-10T07:52:52Z",
+    "updated": "2026-05-10T10:04:29Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184127,
-            "stars_today": 184127,
+            "stars": 184132,
+            "stars_today": 184132,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 161923,
-            "stars_today": 161923,
+            "stars": 161931,
+            "stars_today": 161931,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 92830,
-            "stars_today": 92830,
+            "stars": 92833,
+            "stars_today": 92833,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 92287,
-            "stars_today": 92287,
+            "stars": 92297,
+            "stars_today": 92297,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with ",
             "language": "TypeScript",
-            "stars": 74232,
-            "stars_today": 74232,
+            "stars": 74266,
+            "stars_today": 74266,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 73016,
-            "stars_today": 73016,
+            "stars": 73027,
+            "stars_today": 73027,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-10T07:52:52Z",
+    "updated": "2026-05-10T10:04:29Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-10T07:52:52Z",
+    "updated": "2026-05-10T10:04:29Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-10T07:52:52Z",
+    "updated": "2026-05-10T10:04:29Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Gemini API File Search is now multimodal",
-            "insight": "HN 热议：67 分 · 8 评论",
+            "insight": "HN 热议：95 分 · 13 评论",
             "sentiment": "neutral",
-            "comments": 8,
+            "comments": 13,
             "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "A recent experience with ChatGPT 5.5 Pro",
-            "insight": "HN 热议：627 分 · 458 评论",
+            "insight": "HN 热议：632 分 · 466 评论",
             "sentiment": "positive",
-            "comments": 458,
+            "comments": 466,
             "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "LLMs corrupt your documents when you delegate",
-            "insight": "HN 热议：395 分 · 153 评论",
+            "insight": "HN 热议：412 分 · 164 评论",
             "sentiment": "positive",
-            "comments": 153,
+            "comments": 164,
             "url": "https://arxiv.org/abs/2604.15597",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Using Claude Code: The unreasonable effectiveness of HTML",
-            "insight": "HN 热议：451 分 · 252 评论",
-            "sentiment": "positive",
-            "comments": 252,
-            "url": "https://twitter.com/trq212/status/2052809885763747935",
+            "title": "Gen Z Resentment Toward AI Grows as Adoption Stagnates and Workplace Fears Mount",
+            "insight": "HN 热议：13 分 · 1 评论",
+            "sentiment": "neutral",
+            "comments": 1,
+            "url": "https://www.waltonfamilyfoundation.org/about-us/newsroom/gen-z-resentment-toward-ai-grows-as-adoption-stagnates-and-workplace-fears-mount",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Meta's embrace of AI is making its employees miserable",
-            "insight": "HN 热议：381 分 · 410 评论",
+            "title": "Using Claude Code: The unreasonable effectiveness of HTML",
+            "insight": "HN 热议：464 分 · 259 评论",
             "sentiment": "positive",
-            "comments": 410,
-            "url": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html",
+            "comments": 259,
+            "url": "https://twitter.com/trq212/status/2052809885763747935",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-10T07:52:52Z",
+    "updated": "2026-05-10T10:04:29Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
