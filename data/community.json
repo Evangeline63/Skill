@@ -1,49 +1,49 @@
 {
-  "updated": "2026-05-10T10:04:29Z",
+  "updated": "2026-05-10T12:48:24Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Gemini API File Search is now multimodal",
-      "insight": "HN 热议：95 分 · 13 评论",
+      "insight": "HN 热议：119 分 · 20 评论",
       "sentiment": "neutral",
-      "comments": 13,
+      "comments": 20,
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "A recent experience with ChatGPT 5.5 Pro",
-      "insight": "HN 热议：632 分 · 466 评论",
+      "insight": "HN 热议：649 分 · 476 评论",
       "sentiment": "positive",
-      "comments": 466,
+      "comments": 476,
       "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "LLMs corrupt your documents when you delegate",
-      "insight": "HN 热议：412 分 · 164 评论",
+      "insight": "HN 热议：432 分 · 170 评论",
       "sentiment": "positive",
-      "comments": 164,
+      "comments": 170,
       "url": "https://arxiv.org/abs/2604.15597",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Gen Z Resentment Toward AI Grows as Adoption Stagnates and Workplace Fears Mount",
-      "insight": "HN 热议：13 分 · 1 评论",
+      "title": "LLMorphism: When humans come to see themselves as language models",
+      "insight": "HN 热议：26 分 · 13 评论",
       "sentiment": "neutral",
-      "comments": 1,
-      "url": "https://www.waltonfamilyfoundation.org/about-us/newsroom/gen-z-resentment-toward-ai-grows-as-adoption-stagnates-and-workplace-fears-mount",
+      "comments": 13,
+      "url": "https://arxiv.org/abs/2605.05419",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Using Claude Code: The unreasonable effectiveness of HTML",
-      "insight": "HN 热议：464 分 · 259 评论",
-      "sentiment": "positive",
-      "comments": 259,
-      "url": "https://twitter.com/trq212/status/2052809885763747935",
+      "title": "Task Paralysis and AI",
+      "insight": "HN 热议：47 分 · 41 评论",
+      "sentiment": "neutral",
+      "comments": 41,
+      "url": "https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html",
       "id": 5
     }
   ]
