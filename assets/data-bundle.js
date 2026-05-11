@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-10T21:36:49Z",
+    "updated": "2026-05-11T01:52:36Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-10T21:36:49Z",
+    "updated": "2026-05-11T01:52:36Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-10T21:36:49Z",
+    "updated": "2026-05-11T01:52:36Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184154,
-            "stars_today": 184154,
+            "stars": 184158,
+            "stars_today": 184158,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 161963,
-            "stars_today": 161963,
+            "stars": 161974,
+            "stars_today": 161974,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 92862,
-            "stars_today": 92862,
+            "stars": 92867,
+            "stars_today": 92867,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 92461,
-            "stars_today": 92461,
+            "stars": 92492,
+            "stars_today": 92492,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 74449,
-            "stars_today": 74449,
+            "stars": 74505,
+            "stars_today": 74505,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 73067,
-            "stars_today": 73067,
+            "stars": 73095,
+            "stars_today": 73095,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-10T21:36:49Z",
+    "updated": "2026-05-11T01:52:36Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-10T21:36:49Z",
+    "updated": "2026-05-11T01:52:36Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-10T21:36:49Z",
+    "updated": "2026-05-11T01:52:36Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Local AI needs to be the norm",
-            "insight": "HN 热议：207 分 · 108 评论",
+            "insight": "HN 热议：579 分 · 272 评论",
             "sentiment": "positive",
-            "comments": 108,
+            "comments": 272,
             "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Task Paralysis and AI",
-            "insight": "HN 热议：155 分 · 96 评论",
+            "title": "PS3 Emulator Devs Politely Ask That People Stop Flooding It with AI PRs",
+            "insight": "HN 热议：68 分 · 42 评论",
             "sentiment": "neutral",
-            "comments": 96,
-            "url": "https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html",
+            "comments": 42,
+            "url": "https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Spain has become one of Europe’s cheapest power markets",
-            "insight": "HN 热议：111 分 · 90 评论",
+            "title": "You Need AI That Reduces Maintenance Costs",
+            "insight": "HN 热议：19 分 · 3 评论",
             "sentiment": "neutral",
-            "comments": 90,
-            "url": "https://janrosenow.substack.com/p/spain-just-became-one-of-europes",
+            "comments": 3,
+            "url": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Chrome's AI features may be hogging 4GB of your computer storage",
-            "insight": "HN 热议：82 分 · 40 评论",
+            "title": "Maryland citizens hit with $2B power grid upgrade for out-of-state AI",
+            "insight": "HN 热议：141 分 · 65 评论",
             "sentiment": "neutral",
-            "comments": 40,
-            "url": "https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features",
+            "comments": 65,
+            "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Gemini API File Search is now multimodal",
-            "insight": "HN 热议：141 分 · 38 评论",
+            "title": "Make America AI ready: Strengths, weaknesses, and recommendations",
+            "insight": "HN 热议：16 分 · 11 评论",
             "sentiment": "neutral",
-            "comments": 38,
-            "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/",
+            "comments": 11,
+            "url": "https://blog.citp.princeton.edu/2026/05/05/make-america-ai-ready-strengths-weaknesses-and-recommendations/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-10T21:36:49Z",
+    "updated": "2026-05-11T01:52:36Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
