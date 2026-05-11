@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-11T17:16:23Z",
+    "updated": "2026-05-11T19:24:12Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-11T17:16:23Z",
+    "updated": "2026-05-11T19:24:12Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-11T17:16:23Z",
+    "updated": "2026-05-11T19:24:12Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184171,
-            "stars_today": 184171,
+            "stars": 184173,
+            "stars_today": 184173,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 162031,
-            "stars_today": 162031,
+            "stars": 162037,
+            "stars_today": 162037,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 92897,
-            "stars_today": 92897,
+            "stars": 92903,
+            "stars_today": 92903,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 92788,
-            "stars_today": 92788,
+            "stars": 92847,
+            "stars_today": 92847,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 74789,
-            "stars_today": 74789,
+            "stars": 74819,
+            "stars_today": 74819,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 73180,
-            "stars_today": 73180,
+            "stars": 73185,
+            "stars_today": 73185,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-11T17:16:23Z",
+    "updated": "2026-05-11T19:24:12Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-11T17:16:23Z",
+    "updated": "2026-05-11T19:24:12Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-11T17:16:23Z",
+    "updated": "2026-05-11T19:24:12Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
-            "insight": "HN 热议：120 分 · 7 评论",
+            "insight": "HN 热议：170 分 · 8 评论",
             "sentiment": "neutral",
-            "comments": 7,
+            "comments": 8,
             "url": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "AMÁLIA and the future of European Portuguese LLMs",
-            "insight": "HN 热议：50 分 · 23 评论",
-            "sentiment": "neutral",
-            "comments": 23,
-            "url": "https://duarteocarmo.com/blog/amalia-and-the-future-of-european-portuguese-llms",
+            "title": "Gmail registration now requires scanning a QR code and sending a text message",
+            "insight": "HN 热议：405 分 · 259 评论",
+            "sentiment": "positive",
+            "comments": 259,
+            "url": "https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Gmail registration now requires scanning a QR code and sending a text message",
-            "insight": "HN 热议：302 分 · 162 评论",
-            "sentiment": "positive",
-            "comments": 162,
-            "url": "https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082",
+            "title": "AMÁLIA and the future of European Portuguese LLMs",
+            "insight": "HN 热议：84 分 · 35 评论",
+            "sentiment": "neutral",
+            "comments": 35,
+            "url": "https://duarteocarmo.com/blog/amalia-and-the-future-of-european-portuguese-llms",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "The greatest shot in television: James Burke had one chance to nail this scene (2024)",
-            "insight": "HN 热议：284 分 · 166 评论",
-            "sentiment": "positive",
-            "comments": 166,
-            "url": "https://www.openculture.com/2024/10/the-greatest-shot-in-television.html",
+            "title": "Can Someone Please Explain Whether Cloudflare Blackmailed Canonical?",
+            "insight": "HN 热议：84 分 · 36 评论",
+            "sentiment": "neutral",
+            "comments": 36,
+            "url": "https://www.flyingpenguin.com/can-someone-please-explain-whether-cloudflare-blackmailed-canonical/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
-            "insight": "HN 热议：295 分 · 86 评论",
+            "title": "The greatest shot in television: James Burke had one chance to nail this scene (2024)",
+            "insight": "HN 热议：308 分 · 175 评论",
             "sentiment": "positive",
-            "comments": 86,
-            "url": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs",
+            "comments": 175,
+            "url": "https://www.openculture.com/2024/10/the-greatest-shot-in-television.html",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-11T17:16:23Z",
+    "updated": "2026-05-11T19:24:12Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
