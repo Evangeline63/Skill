@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-11T06:26:36Z",
+    "updated": "2026-05-11T11:54:51Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-11T06:26:36Z",
+    "updated": "2026-05-11T11:54:51Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-11T06:26:36Z",
+    "updated": "2026-05-11T11:54:51Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184160,
-            "stars_today": 184160,
+            "stars": 184164,
+            "stars_today": 184164,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 161990,
-            "stars_today": 161990,
+            "stars": 162007,
+            "stars_today": 162007,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 92878,
-            "stars_today": 92878,
+            "stars": 92889,
+            "stars_today": 92889,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 92540,
-            "stars_today": 92540,
+            "stars": 92612,
+            "stars_today": 92612,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 74593,
-            "stars_today": 74593,
+            "stars": 74692,
+            "stars_today": 74692,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 73123,
-            "stars_today": 73123,
+            "stars": 73155,
+            "stars_today": 73155,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-11T06:26:36Z",
+    "updated": "2026-05-11T11:54:51Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-11T06:26:36Z",
+    "updated": "2026-05-11T11:54:51Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-11T06:26:36Z",
+    "updated": "2026-05-11T11:54:51Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Local AI needs to be the norm",
-            "insight": "HN 热议：893 分 · 398 评论",
+            "insight": "HN 热议：1264 分 · 533 评论",
             "sentiment": "positive",
-            "comments": 398,
+            "comments": 533,
             "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene (2024)",
-            "insight": "HN 热议：94 分 · 34 评论",
-            "sentiment": "neutral",
-            "comments": 34,
+            "title": "The greatest shot in television: James Burke had one chance to nail this scene (2024)",
+            "insight": "HN 热议：204 分 · 89 评论",
+            "sentiment": "positive",
+            "comments": 89,
             "url": "https://www.openculture.com/2024/10/the-greatest-shot-in-television.html",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
-            "insight": "HN 热议：110 分 · 24 评论",
+            "insight": "HN 热议：197 分 · 47 评论",
             "sentiment": "neutral",
-            "comments": 24,
+            "comments": 47,
             "url": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs",
             "id": 3
         },
         {
             "source": "HackerNews",
             "title": "Show HN: adamsreview – better multi-agent PR reviews for Claude Code",
-            "insight": "HN 热议：18 分 · 1 评论",
+            "insight": "HN 热议：41 分 · 16 评论",
             "sentiment": "neutral",
-            "comments": 1,
+            "comments": 16,
             "url": "https://github.com/adamjgmiller/adamsreview",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "How Fast Does Claude, Acting as a User Space IP Stack, Respond to Pings?",
-            "insight": "HN 热议：51 分 · 10 评论",
+            "title": "Gmail registration now requires scanning a QR code and sending a text message",
+            "insight": "HN 热议：14 分 · 4 评论",
             "sentiment": "neutral",
-            "comments": 10,
-            "url": "https://dunkels.com/adam/claude-user-space-ip-stack-ping/",
+            "comments": 4,
+            "url": "https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-11T06:26:36Z",
+    "updated": "2026-05-11T11:54:51Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
