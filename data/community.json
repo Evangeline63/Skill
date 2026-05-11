@@ -1,49 +1,49 @@
 {
-  "updated": "2026-05-11T14:20:16Z",
+  "updated": "2026-05-11T17:16:23Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Local AI needs to be the norm",
-      "insight": "HN 热议：1454 分 · 569 评论",
-      "sentiment": "positive",
-      "comments": 569,
-      "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
+      "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
+      "insight": "HN 热议：120 分 · 7 评论",
+      "sentiment": "neutral",
+      "comments": 7,
+      "url": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Gmail registration now requires scanning a QR code and sending a text message",
-      "insight": "HN 热议：114 分 · 56 评论",
+      "title": "AMÁLIA and the future of European Portuguese LLMs",
+      "insight": "HN 热议：50 分 · 23 评论",
       "sentiment": "neutral",
-      "comments": 56,
-      "url": "https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082",
+      "comments": 23,
+      "url": "https://duarteocarmo.com/blog/amalia-and-the-future-of-european-portuguese-llms",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "The greatest shot in television: James Burke had one chance to nail this scene (2024)",
-      "insight": "HN 热议：249 分 · 121 评论",
+      "title": "Gmail registration now requires scanning a QR code and sending a text message",
+      "insight": "HN 热议：302 分 · 162 评论",
       "sentiment": "positive",
-      "comments": 121,
-      "url": "https://www.openculture.com/2024/10/the-greatest-shot-in-television.html",
+      "comments": 162,
+      "url": "https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
-      "insight": "HN 热议：249 分 · 67 评论",
+      "title": "The greatest shot in television: James Burke had one chance to nail this scene (2024)",
+      "insight": "HN 热议：284 分 · 166 评论",
       "sentiment": "positive",
-      "comments": 67,
-      "url": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs",
+      "comments": 166,
+      "url": "https://www.openculture.com/2024/10/the-greatest-shot-in-television.html",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
-      "insight": "HN 热议：6 分 · 0 评论",
-      "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html",
+      "title": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
+      "insight": "HN 热议：295 分 · 86 评论",
+      "sentiment": "positive",
+      "comments": 86,
+      "url": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs",
       "id": 5
     }
   ]
