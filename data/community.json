@@ -1,49 +1,49 @@
 {
-  "updated": "2026-05-11T19:24:12Z",
+  "updated": "2026-05-11T21:56:23Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
-      "insight": "HN 热议：170 分 · 8 评论",
+      "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
+      "insight": "HN 热议：94 分 · 24 评论",
       "sentiment": "neutral",
-      "comments": 8,
-      "url": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html",
+      "comments": 24,
+      "url": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Gmail registration now requires scanning a QR code and sending a text message",
-      "insight": "HN 热议：405 分 · 259 评论",
-      "sentiment": "positive",
-      "comments": 259,
-      "url": "https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082",
+      "title": "Google says criminal hackers used AI to find a major software flaw",
+      "insight": "HN 热议：31 分 · 16 评论",
+      "sentiment": "neutral",
+      "comments": 16,
+      "url": "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "AMÁLIA and the future of European Portuguese LLMs",
-      "insight": "HN 热议：84 分 · 35 评论",
+      "title": "I let AI build a tool to help me figure out what was waking me up at night",
+      "insight": "HN 热议：24 分 · 18 评论",
       "sentiment": "neutral",
-      "comments": 35,
-      "url": "https://duarteocarmo.com/blog/amalia-and-the-future-of-european-portuguese-llms",
+      "comments": 18,
+      "url": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "Can Someone Please Explain Whether Cloudflare Blackmailed Canonical?",
-      "insight": "HN 热议：84 分 · 36 评论",
+      "insight": "HN 热议：169 分 · 83 评论",
       "sentiment": "neutral",
-      "comments": 36,
+      "comments": 83,
       "url": "https://www.flyingpenguin.com/can-someone-please-explain-whether-cloudflare-blackmailed-canonical/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "The greatest shot in television: James Burke had one chance to nail this scene (2024)",
-      "insight": "HN 热议：308 分 · 175 评论",
+      "title": "Gmail registration now requires scanning a QR code and sending a text message",
+      "insight": "HN 热议：501 分 · 347 评论",
       "sentiment": "positive",
-      "comments": 175,
-      "url": "https://www.openculture.com/2024/10/the-greatest-shot-in-television.html",
+      "comments": 347,
+      "url": "https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082",
       "id": 5
     }
   ]
