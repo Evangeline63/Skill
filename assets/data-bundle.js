@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-12T11:09:24Z",
+    "updated": "2026-05-12T13:47:24Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-12T11:09:24Z",
+    "updated": "2026-05-12T13:47:24Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-12T11:09:24Z",
+    "updated": "2026-05-12T13:47:24Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184210,
-            "stars_today": 184210,
+            "stars": 184215,
+            "stars_today": 184215,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 162084,
-            "stars_today": 162084,
+            "stars": 162094,
+            "stars_today": 162094,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 93352,
-            "stars_today": 93352,
+            "stars": 93434,
+            "stars_today": 93434,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 92932,
-            "stars_today": 92932,
+            "stars": 92934,
+            "stars_today": 92934,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 75076,
-            "stars_today": 75076,
+            "stars": 75113,
+            "stars_today": 75113,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 73233,
-            "stars_today": 73233,
+            "stars": 73245,
+            "stars_today": 73245,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-12T11:09:24Z",
+    "updated": "2026-05-12T13:47:24Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-12T11:09:24Z",
+    "updated": "2026-05-12T13:47:24Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-12T11:09:24Z",
+    "updated": "2026-05-12T13:47:24Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Postmortem: TanStack NPM supply-chain compromise",
-            "insight": "HN 热议：875 分 · 356 评论",
+            "insight": "HN 热议：923 分 · 386 评论",
             "sentiment": "positive",
-            "comments": 356,
+            "comments": 386,
             "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "If AI writes your code, why use Python?",
-            "insight": "HN 热议：533 分 · 580 评论",
+            "insight": "HN 热议：641 分 · 662 评论",
             "sentiment": "positive",
-            "comments": 580,
+            "comments": 662,
             "url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
-            "insight": "HN 热议：352 分 · 70 评论",
+            "insight": "HN 热议：383 分 · 76 评论",
             "sentiment": "positive",
-            "comments": 70,
+            "comments": 76,
             "url": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
             "id": 3
         },
         {
             "source": "HackerNews",
             "title": "Claude Platform on AWS",
-            "insight": "HN 热议：151 分 · 68 评论",
+            "insight": "HN 热议：174 分 · 78 评论",
             "sentiment": "neutral",
-            "comments": 68,
+            "comments": 78,
             "url": "https://claude.com/blog/claude-platform-on-aws",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Google says criminal hackers used AI to find a major software flaw",
-            "insight": "HN 热议：193 分 · 141 评论",
-            "sentiment": "neutral",
-            "comments": 141,
-            "url": "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html",
+            "title": "I let AI build a tool to help me figure out what was waking me up at night",
+            "insight": "HN 热议：220 分 · 226 评论",
+            "sentiment": "positive",
+            "comments": 226,
+            "url": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-12T11:09:24Z",
+    "updated": "2026-05-12T13:47:24Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
