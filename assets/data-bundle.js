@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-11T21:56:23Z",
+    "updated": "2026-05-12T01:48:03Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-11T21:56:23Z",
+    "updated": "2026-05-12T01:48:03Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-11T21:56:23Z",
+    "updated": "2026-05-12T01:48:03Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184179,
-            "stars_today": 184179,
+            "stars": 184180,
+            "stars_today": 184180,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 162042,
-            "stars_today": 162042,
+            "stars": 162052,
+            "stars_today": 162052,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 92929,
-            "stars_today": 92929,
+            "stars": 93032,
+            "stars_today": 93032,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 92908,
-            "stars_today": 92908,
+            "stars": 92914,
+            "stars_today": 92914,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 74841,
-            "stars_today": 74841,
+            "stars": 74894,
+            "stars_today": 74894,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 73192,
-            "stars_today": 73192,
+            "stars": 73207,
+            "stars_today": 73207,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-11T21:56:23Z",
+    "updated": "2026-05-12T01:48:03Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-11T21:56:23Z",
+    "updated": "2026-05-12T01:48:03Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-11T21:56:23Z",
+    "updated": "2026-05-12T01:48:03Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
-            "insight": "HN 热议：94 分 · 24 评论",
-            "sentiment": "neutral",
-            "comments": 24,
-            "url": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
+            "title": "Postmortem: TanStack npm supply-chain compromise",
+            "insight": "HN 热议：520 分 · 186 评论",
+            "sentiment": "positive",
+            "comments": 186,
+            "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Google says criminal hackers used AI to find a major software flaw",
-            "insight": "HN 热议：31 分 · 16 评论",
-            "sentiment": "neutral",
-            "comments": 16,
-            "url": "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html",
+            "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
+            "insight": "HN 热议：234 分 · 44 评论",
+            "sentiment": "positive",
+            "comments": 44,
+            "url": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "I let AI build a tool to help me figure out what was waking me up at night",
-            "insight": "HN 热议：24 分 · 18 评论",
+            "title": "If AI writes your code, why use Python?",
+            "insight": "HN 热议：139 分 · 149 评论",
             "sentiment": "neutral",
-            "comments": 18,
-            "url": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/",
+            "comments": 149,
+            "url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Can Someone Please Explain Whether Cloudflare Blackmailed Canonical?",
-            "insight": "HN 热议：169 分 · 83 评论",
+            "title": "I let AI build a tool to help me figure out what was waking me up at night",
+            "insight": "HN 热议：67 分 · 66 评论",
             "sentiment": "neutral",
-            "comments": 83,
-            "url": "https://www.flyingpenguin.com/can-someone-please-explain-whether-cloudflare-blackmailed-canonical/",
+            "comments": 66,
+            "url": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/",
             "id": 4
         },
         {
             "source": "HackerNews",
             "title": "Gmail registration now requires scanning a QR code and sending a text message",
-            "insight": "HN 热议：501 分 · 347 评论",
+            "insight": "HN 热议：562 分 · 411 评论",
             "sentiment": "positive",
-            "comments": 347,
+            "comments": 411,
             "url": "https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-11T21:56:23Z",
+    "updated": "2026-05-12T01:48:03Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
