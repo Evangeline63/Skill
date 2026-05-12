@@ -1,49 +1,49 @@
 {
-  "updated": "2026-05-12T05:56:01Z",
+  "updated": "2026-05-12T08:25:55Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Postmortem: TanStack npm supply-chain compromise",
-      "insight": "HN 热议：701 分 · 260 评论",
+      "title": "Postmortem: TanStack NPM supply-chain compromise",
+      "insight": "HN 热议：799 分 · 302 评论",
       "sentiment": "positive",
-      "comments": 260,
+      "comments": 302,
       "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "If AI writes your code, why use Python?",
-      "insight": "HN 热议：341 分 · 350 评论",
+      "insight": "HN 热议：444 分 · 480 评论",
       "sentiment": "positive",
-      "comments": 350,
+      "comments": 480,
       "url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Claude Platform on AWS",
-      "insight": "HN 热议：97 分 · 43 评论",
-      "sentiment": "neutral",
-      "comments": 43,
-      "url": "https://claude.com/blog/claude-platform-on-aws",
+      "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
+      "insight": "HN 热议：319 分 · 66 评论",
+      "sentiment": "positive",
+      "comments": 66,
+      "url": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
-      "insight": "HN 热议：288 分 · 60 评论",
-      "sentiment": "positive",
-      "comments": 60,
-      "url": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
+      "title": "Claude Platform on AWS",
+      "insight": "HN 热议：124 分 · 58 评论",
+      "sentiment": "neutral",
+      "comments": 58,
+      "url": "https://claude.com/blog/claude-platform-on-aws",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "I let AI build a tool to help me figure out what was waking me up at night",
-      "insight": "HN 热议：124 分 · 137 评论",
+      "title": "Google says criminal hackers used AI to find a major software flaw",
+      "insight": "HN 热议：175 分 · 134 评论",
       "sentiment": "neutral",
-      "comments": 137,
-      "url": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/",
+      "comments": 134,
+      "url": "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html",
       "id": 5
     }
   ]
