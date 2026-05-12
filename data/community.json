@@ -1,48 +1,48 @@
 {
-  "updated": "2026-05-12T08:25:55Z",
+  "updated": "2026-05-12T11:09:24Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Postmortem: TanStack NPM supply-chain compromise",
-      "insight": "HN 热议：799 分 · 302 评论",
+      "insight": "HN 热议：875 分 · 356 评论",
       "sentiment": "positive",
-      "comments": 302,
+      "comments": 356,
       "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "If AI writes your code, why use Python?",
-      "insight": "HN 热议：444 分 · 480 评论",
+      "insight": "HN 热议：533 分 · 580 评论",
       "sentiment": "positive",
-      "comments": 480,
+      "comments": 580,
       "url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
-      "insight": "HN 热议：319 分 · 66 评论",
+      "insight": "HN 热议：352 分 · 70 评论",
       "sentiment": "positive",
-      "comments": 66,
+      "comments": 70,
       "url": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "Claude Platform on AWS",
-      "insight": "HN 热议：124 分 · 58 评论",
+      "insight": "HN 热议：151 分 · 68 评论",
       "sentiment": "neutral",
-      "comments": 58,
+      "comments": 68,
       "url": "https://claude.com/blog/claude-platform-on-aws",
       "id": 4
     },
     {
       "source": "HackerNews",
       "title": "Google says criminal hackers used AI to find a major software flaw",
-      "insight": "HN 热议：175 分 · 134 评论",
+      "insight": "HN 热议：193 分 · 141 评论",
       "sentiment": "neutral",
-      "comments": 134,
+      "comments": 141,
       "url": "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html",
       "id": 5
     }
