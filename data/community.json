@@ -1,49 +1,49 @@
 {
-  "updated": "2026-05-12T01:48:03Z",
+  "updated": "2026-05-12T05:56:01Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Postmortem: TanStack npm supply-chain compromise",
-      "insight": "HN 热议：520 分 · 186 评论",
+      "insight": "HN 热议：701 分 · 260 评论",
       "sentiment": "positive",
-      "comments": 186,
+      "comments": 260,
       "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
-      "insight": "HN 热议：234 分 · 44 评论",
+      "title": "If AI writes your code, why use Python?",
+      "insight": "HN 热议：341 分 · 350 评论",
       "sentiment": "positive",
-      "comments": 44,
-      "url": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
+      "comments": 350,
+      "url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "If AI writes your code, why use Python?",
-      "insight": "HN 热议：139 分 · 149 评论",
+      "title": "Claude Platform on AWS",
+      "insight": "HN 热议：97 分 · 43 评论",
       "sentiment": "neutral",
-      "comments": 149,
-      "url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
+      "comments": 43,
+      "url": "https://claude.com/blog/claude-platform-on-aws",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "I let AI build a tool to help me figure out what was waking me up at night",
-      "insight": "HN 热议：67 分 · 66 评论",
-      "sentiment": "neutral",
-      "comments": 66,
-      "url": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/",
+      "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
+      "insight": "HN 热议：288 分 · 60 评论",
+      "sentiment": "positive",
+      "comments": 60,
+      "url": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Gmail registration now requires scanning a QR code and sending a text message",
-      "insight": "HN 热议：562 分 · 411 评论",
-      "sentiment": "positive",
-      "comments": 411,
-      "url": "https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082",
+      "title": "I let AI build a tool to help me figure out what was waking me up at night",
+      "insight": "HN 热议：124 分 · 137 评论",
+      "sentiment": "neutral",
+      "comments": 137,
+      "url": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/",
       "id": 5
     }
   ]
