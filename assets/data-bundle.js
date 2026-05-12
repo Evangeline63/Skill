@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-12T17:01:29Z",
+    "updated": "2026-05-12T19:25:42Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-12T17:01:29Z",
+    "updated": "2026-05-12T19:25:42Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-12T17:01:29Z",
+    "updated": "2026-05-12T19:25:42Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184236,
-            "stars_today": 184236,
+            "stars": 184239,
+            "stars_today": 184239,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 162108,
-            "stars_today": 162108,
+            "stars": 162113,
+            "stars_today": 162113,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 93552,
-            "stars_today": 93552,
+            "stars": 93632,
+            "stars_today": 93632,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 92939,
-            "stars_today": 92939,
+            "stars": 92940,
+            "stars_today": 92940,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 75160,
-            "stars_today": 75160,
+            "stars": 75189,
+            "stars_today": 75189,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 73264,
-            "stars_today": 73264,
+            "stars": 73275,
+            "stars_today": 73275,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-12T17:01:29Z",
+    "updated": "2026-05-12T19:25:42Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-12T17:01:29Z",
+    "updated": "2026-05-12T19:25:42Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-12T17:01:29Z",
+    "updated": "2026-05-12T19:25:42Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Amazon employees are \"tokenmaxxing\" due to pressure to use AI tools",
-            "insight": "HN 热议：46 分 · 21 评论",
+            "title": "Why senior developers fail to communicate their expertise",
+            "insight": "HN 热议：145 分 · 60 评论",
             "sentiment": "neutral",
-            "comments": 21,
-            "url": "https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/",
+            "comments": 60,
+            "url": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Launch HN: Voker (YC S24) – Analytics for AI Agents",
-            "insight": "HN 热议：12 分 · 7 评论",
+            "title": "Reimagining the mouse pointer for the AI era",
+            "insight": "HN 热议：44 分 · 34 评论",
             "sentiment": "neutral",
-            "comments": 7,
-            "url": "https://voker.ai",
+            "comments": 34,
+            "url": "https://deepmind.google/blog/ai-pointer/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Postmortem: TanStack NPM supply-chain compromise",
-            "insight": "HN 热议：996 分 · 420 评论",
-            "sentiment": "positive",
-            "comments": 420,
-            "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
+            "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+            "insight": "HN 热议：20 分 · 3 评论",
+            "sentiment": "neutral",
+            "comments": 3,
+            "url": "https://github.com/cactus-compute/needle",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "If AI writes your code, why use Python?",
-            "insight": "HN 热议：754 分 · 786 评论",
-            "sentiment": "positive",
-            "comments": 786,
-            "url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
+            "title": "Show HN: Agentic interface for mainframes and COBOL",
+            "insight": "HN 热议：26 分 · 8 评论",
+            "sentiment": "neutral",
+            "comments": 8,
+            "url": "https://www.hypercubic.ai/hopper",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
-            "insight": "HN 热议：411 分 · 82 评论",
-            "sentiment": "positive",
-            "comments": 82,
-            "url": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
+            "title": "Show HN: Statewright – Visual state machines that make AI agents reliable",
+            "insight": "HN 热议：21 分 · 5 评论",
+            "sentiment": "neutral",
+            "comments": 5,
+            "url": "https://github.com/statewright/statewright",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-12T17:01:29Z",
+    "updated": "2026-05-12T19:25:42Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
