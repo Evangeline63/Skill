@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-13T11:23:11Z",
+    "updated": "2026-05-13T14:00:21Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-13T11:23:11Z",
+    "updated": "2026-05-13T14:00:21Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-13T11:23:11Z",
+    "updated": "2026-05-13T14:00:21Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184278,
-            "stars_today": 184278,
+            "stars": 184284,
+            "stars_today": 184284,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 162164,
-            "stars_today": 162164,
+            "stars": 162175,
+            "stars_today": 162175,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 94166,
-            "stars_today": 94166,
+            "stars": 94235,
+            "stars_today": 94235,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 92952,
-            "stars_today": 92952,
+            "stars": 92958,
+            "stars_today": 92958,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 75361,
-            "stars_today": 75361,
+            "stars": 75387,
+            "stars_today": 75387,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 73355,
-            "stars_today": 73355,
+            "stars": 73373,
+            "stars_today": 73373,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-13T11:23:11Z",
+    "updated": "2026-05-13T14:00:21Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-13T11:23:11Z",
+    "updated": "2026-05-13T14:00:21Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-13T11:23:11Z",
+    "updated": "2026-05-13T14:00:21Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "New stainless steel can survive conditions for hydrogen production in seawater",
-            "insight": "HN 热议：73 分 · 25 评论",
+            "insight": "HN 热议：153 分 · 53 评论",
             "sentiment": "neutral",
-            "comments": 25,
+            "comments": 53,
             "url": "https://www.sciencedaily.com/releases/2026/05/260510030950.htm",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
-            "insight": "HN 热议：492 分 · 154 评论",
+            "insight": "HN 热议：537 分 · 157 评论",
             "sentiment": "positive",
-            "comments": 154,
+            "comments": 157,
             "url": "https://github.com/cactus-compute/needle",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "Why senior developers fail to communicate their expertise",
-            "insight": "HN 热议：609 分 · 266 评论",
+            "insight": "HN 热议：666 分 · 289 评论",
             "sentiment": "positive",
-            "comments": 266,
+            "comments": 289,
             "url": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Reimagining the mouse pointer for the AI era",
-            "insight": "HN 热议：213 分 · 178 评论",
-            "sentiment": "positive",
-            "comments": 178,
-            "url": "https://deepmind.google/blog/ai-pointer/",
+            "title": "Software Developers Say AI Is Rotting Their Brains",
+            "insight": "HN 热议：11 分 · 1 评论",
+            "sentiment": "neutral",
+            "comments": 1,
+            "url": "https://www.404media.co/software-developers-say-ai-is-rotting-their-brains/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Agentic interface for mainframes and COBOL",
-            "insight": "HN 热议：81 分 · 42 评论",
-            "sentiment": "neutral",
-            "comments": 42,
-            "url": "https://www.hypercubic.ai/hopper",
+            "title": "Reimagining the mouse pointer for the AI era",
+            "insight": "HN 热议：224 分 · 193 评论",
+            "sentiment": "positive",
+            "comments": 193,
+            "url": "https://deepmind.google/blog/ai-pointer/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-13T11:23:11Z",
+    "updated": "2026-05-13T14:00:21Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

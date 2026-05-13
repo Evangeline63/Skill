@@ -1,49 +1,49 @@
 {
-  "updated": "2026-05-13T11:23:11Z",
+  "updated": "2026-05-13T14:00:21Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "New stainless steel can survive conditions for hydrogen production in seawater",
-      "insight": "HN 热议：73 分 · 25 评论",
+      "insight": "HN 热议：153 分 · 53 评论",
       "sentiment": "neutral",
-      "comments": 25,
+      "comments": 53,
       "url": "https://www.sciencedaily.com/releases/2026/05/260510030950.htm",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
-      "insight": "HN 热议：492 分 · 154 评论",
+      "insight": "HN 热议：537 分 · 157 评论",
       "sentiment": "positive",
-      "comments": 154,
+      "comments": 157,
       "url": "https://github.com/cactus-compute/needle",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "Why senior developers fail to communicate their expertise",
-      "insight": "HN 热议：609 分 · 266 评论",
+      "insight": "HN 热议：666 分 · 289 评论",
       "sentiment": "positive",
-      "comments": 266,
+      "comments": 289,
       "url": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Reimagining the mouse pointer for the AI era",
-      "insight": "HN 热议：213 分 · 178 评论",
-      "sentiment": "positive",
-      "comments": 178,
-      "url": "https://deepmind.google/blog/ai-pointer/",
+      "title": "Software Developers Say AI Is Rotting Their Brains",
+      "insight": "HN 热议：11 分 · 1 评论",
+      "sentiment": "neutral",
+      "comments": 1,
+      "url": "https://www.404media.co/software-developers-say-ai-is-rotting-their-brains/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Agentic interface for mainframes and COBOL",
-      "insight": "HN 热议：81 分 · 42 评论",
-      "sentiment": "neutral",
-      "comments": 42,
-      "url": "https://www.hypercubic.ai/hopper",
+      "title": "Reimagining the mouse pointer for the AI era",
+      "insight": "HN 热议：224 分 · 193 评论",
+      "sentiment": "positive",
+      "comments": 193,
+      "url": "https://deepmind.google/blog/ai-pointer/",
       "id": 5
     }
   ]
