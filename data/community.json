@@ -1,49 +1,49 @@
 {
-  "updated": "2026-05-12T22:00:49Z",
+  "updated": "2026-05-13T01:53:05Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
-      "insight": "HN 热议：175 分 · 52 评论",
-      "sentiment": "neutral",
-      "comments": 52,
+      "insight": "HN 热议：279 分 · 102 评论",
+      "sentiment": "positive",
+      "comments": 102,
       "url": "https://github.com/cactus-compute/needle",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "Why senior developers fail to communicate their expertise",
-      "insight": "HN 热议：266 分 · 137 评论",
+      "insight": "HN 热议：370 分 · 182 评论",
       "sentiment": "positive",
-      "comments": 137,
+      "comments": 182,
       "url": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Reimagining the mouse pointer for the AI era",
-      "insight": "HN 热议：85 分 · 73 评论",
+      "title": "Foucault's Order of Things Explained with Trading Cards [video]",
+      "insight": "HN 热议：19 分 · 7 评论",
       "sentiment": "neutral",
-      "comments": 73,
-      "url": "https://deepmind.google/blog/ai-pointer/",
+      "comments": 7,
+      "url": "https://www.youtube.com/watch?v=1TbHYjGvS68",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Launch HN: Voker (YC S24) – Analytics for AI Agents",
-      "insight": "HN 热议：33 分 · 19 评论",
+      "title": "Reimagining the mouse pointer for the AI era",
+      "insight": "HN 热议：137 分 · 114 评论",
       "sentiment": "neutral",
-      "comments": 19,
-      "url": "https://voker.ai",
+      "comments": 114,
+      "url": "https://deepmind.google/blog/ai-pointer/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Statewright – Visual state machines that make AI agents reliable",
-      "insight": "HN 热议：45 分 · 12 评论",
+      "title": "Launch HN: Voker (YC S24) – Analytics for AI Agents",
+      "insight": "HN 热议：39 分 · 19 评论",
       "sentiment": "neutral",
-      "comments": 12,
-      "url": "https://github.com/statewright/statewright",
+      "comments": 19,
+      "url": "https://voker.ai",
       "id": 5
     }
   ]
