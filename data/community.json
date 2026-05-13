@@ -1,48 +1,48 @@
 {
-  "updated": "2026-05-13T17:05:42Z",
+  "updated": "2026-05-13T19:27:42Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Setting up a free *.city.state.us locality domain",
-      "insight": "HN 热议：215 分 · 53 评论",
+      "title": "Setting up a free *.city.state.us locality domain (2025)",
+      "insight": "HN 热议：355 分 · 108 评论",
       "sentiment": "positive",
-      "comments": 53,
+      "comments": 108,
       "url": "https://fredchan.org/blog/locality-domains-guide/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Haiku",
-      "insight": "HN 热议：49 分 · 7 评论",
+      "title": "The US is winning the AI race where it matters most: commercialization",
+      "insight": "HN 热议：89 分 · 231 评论",
       "sentiment": "neutral",
-      "comments": 7,
-      "url": "https://www.haiku-os.org",
+      "comments": 231,
+      "url": "https://avkcode.github.io/blog/us-winning-ai-race.html",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "New stainless steel can survive conditions for hydrogen production in seawater",
-      "insight": "HN 热议：224 分 · 96 评论",
-      "sentiment": "positive",
-      "comments": 96,
-      "url": "https://www.sciencedaily.com/releases/2026/05/260510030950.htm",
+      "title": "Making the news available at no cost is a victory",
+      "insight": "HN 热议：4 分 · 0 评论",
+      "sentiment": "neutral",
+      "comments": 0,
+      "url": "https://www.sltrib.com/opinion/commentary/2026/05/12/just-days-tribune-reporting/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "The US is winning the AI race where it matters most: commercialization",
-      "insight": "HN 热议：38 分 · 83 评论",
-      "sentiment": "neutral",
-      "comments": 83,
-      "url": "https://avkcode.github.io/blog/us-winning-ai-race.html",
+      "title": "New stainless steel can survive conditions for hydrogen production in seawater",
+      "insight": "HN 热议：253 分 · 112 评论",
+      "sentiment": "positive",
+      "comments": 112,
+      "url": "https://www.sciencedaily.com/releases/2026/05/260510030950.htm",
       "id": 4
     },
     {
       "source": "HackerNews",
       "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
-      "insight": "HN 热议：579 分 · 167 评论",
+      "insight": "HN 热议：601 分 · 175 评论",
       "sentiment": "positive",
-      "comments": 167,
+      "comments": 175,
       "url": "https://github.com/cactus-compute/needle",
       "id": 5
     }

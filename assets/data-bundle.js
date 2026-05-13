@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-13T17:05:42Z",
+    "updated": "2026-05-13T19:27:42Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-13T17:05:42Z",
+    "updated": "2026-05-13T19:27:42Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-13T17:05:42Z",
+    "updated": "2026-05-13T19:27:42Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184288,
-            "stars_today": 184288,
+            "stars": 184293,
+            "stars_today": 184293,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 162179,
-            "stars_today": 162179,
+            "stars": 162182,
+            "stars_today": 162182,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 94317,
-            "stars_today": 94317,
+            "stars": 94374,
+            "stars_today": 94374,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 75431,
-            "stars_today": 75431,
+            "stars": 75459,
+            "stars_today": 75459,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 73388,
-            "stars_today": 73388,
+            "stars": 73395,
+            "stars_today": 73395,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-13T17:05:42Z",
+    "updated": "2026-05-13T19:27:42Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-13T17:05:42Z",
+    "updated": "2026-05-13T19:27:42Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-13T17:05:42Z",
+    "updated": "2026-05-13T19:27:42Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Setting up a free *.city.state.us locality domain",
-            "insight": "HN 热议：215 分 · 53 评论",
+            "title": "Setting up a free *.city.state.us locality domain (2025)",
+            "insight": "HN 热议：355 分 · 108 评论",
             "sentiment": "positive",
-            "comments": 53,
+            "comments": 108,
             "url": "https://fredchan.org/blog/locality-domains-guide/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Haiku",
-            "insight": "HN 热议：49 分 · 7 评论",
+            "title": "The US is winning the AI race where it matters most: commercialization",
+            "insight": "HN 热议：89 分 · 231 评论",
             "sentiment": "neutral",
-            "comments": 7,
-            "url": "https://www.haiku-os.org",
+            "comments": 231,
+            "url": "https://avkcode.github.io/blog/us-winning-ai-race.html",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "New stainless steel can survive conditions for hydrogen production in seawater",
-            "insight": "HN 热议：224 分 · 96 评论",
-            "sentiment": "positive",
-            "comments": 96,
-            "url": "https://www.sciencedaily.com/releases/2026/05/260510030950.htm",
+            "title": "Making the news available at no cost is a victory",
+            "insight": "HN 热议：4 分 · 0 评论",
+            "sentiment": "neutral",
+            "comments": 0,
+            "url": "https://www.sltrib.com/opinion/commentary/2026/05/12/just-days-tribune-reporting/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "The US is winning the AI race where it matters most: commercialization",
-            "insight": "HN 热议：38 分 · 83 评论",
-            "sentiment": "neutral",
-            "comments": 83,
-            "url": "https://avkcode.github.io/blog/us-winning-ai-race.html",
+            "title": "New stainless steel can survive conditions for hydrogen production in seawater",
+            "insight": "HN 热议：253 分 · 112 评论",
+            "sentiment": "positive",
+            "comments": 112,
+            "url": "https://www.sciencedaily.com/releases/2026/05/260510030950.htm",
             "id": 4
         },
         {
             "source": "HackerNews",
             "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
-            "insight": "HN 热议：579 分 · 167 评论",
+            "insight": "HN 热议：601 分 · 175 评论",
             "sentiment": "positive",
-            "comments": 167,
+            "comments": 175,
             "url": "https://github.com/cactus-compute/needle",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-13T17:05:42Z",
+    "updated": "2026-05-13T19:27:42Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
