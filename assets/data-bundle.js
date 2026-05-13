@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-13T01:53:05Z",
+    "updated": "2026-05-13T06:15:34Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-13T01:53:05Z",
+    "updated": "2026-05-13T06:15:34Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-12T22:00:49Z",
+    "updated": "2026-05-13T06:15:34Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184242,
-            "stars_today": 184242,
+            "stars": 184264,
+            "stars_today": 184264,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 162114,
-            "stars_today": 162114,
+            "stars": 162144,
+            "stars_today": 162144,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 93701,
-            "stars_today": 93701,
+            "stars": 93981,
+            "stars_today": 93981,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 92941,
-            "stars_today": 92941,
+            "stars": 92948,
+            "stars_today": 92948,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 75212,
-            "stars_today": 75212,
+            "stars": 75301,
+            "stars_today": 75301,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 73286,
-            "stars_today": 73286,
+            "stars": 73327,
+            "stars_today": 73327,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-13T01:53:05Z",
+    "updated": "2026-05-13T06:15:34Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-13T01:53:05Z",
+    "updated": "2026-05-13T06:15:34Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,48 +511,48 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-13T01:53:05Z",
+    "updated": "2026-05-13T06:15:34Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
-            "insight": "HN 热议：279 分 · 102 评论",
+            "insight": "HN 热议：382 分 · 135 评论",
             "sentiment": "positive",
-            "comments": 102,
+            "comments": 135,
             "url": "https://github.com/cactus-compute/needle",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "Why senior developers fail to communicate their expertise",
-            "insight": "HN 热议：370 分 · 182 评论",
+            "insight": "HN 热议：489 分 · 210 评论",
             "sentiment": "positive",
-            "comments": 182,
+            "comments": 210,
             "url": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Foucault's Order of Things Explained with Trading Cards [video]",
-            "insight": "HN 热议：19 分 · 7 评论",
+            "title": "Reimagining the mouse pointer for the AI era",
+            "insight": "HN 热议：177 分 · 145 评论",
             "sentiment": "neutral",
-            "comments": 7,
-            "url": "https://www.youtube.com/watch?v=1TbHYjGvS68",
+            "comments": 145,
+            "url": "https://deepmind.google/blog/ai-pointer/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Reimagining the mouse pointer for the AI era",
-            "insight": "HN 热议：137 分 · 114 评论",
+            "title": "Show HN: Agentic interface for mainframes and COBOL",
+            "insight": "HN 热议：68 分 · 39 评论",
             "sentiment": "neutral",
-            "comments": 114,
-            "url": "https://deepmind.google/blog/ai-pointer/",
+            "comments": 39,
+            "url": "https://www.hypercubic.ai/hopper",
             "id": 4
         },
         {
             "source": "HackerNews",
             "title": "Launch HN: Voker (YC S24) – Analytics for AI Agents",
-            "insight": "HN 热议：39 分 · 19 评论",
+            "insight": "HN 热议：50 分 · 19 评论",
             "sentiment": "neutral",
             "comments": 19,
             "url": "https://voker.ai",
@@ -561,7 +561,7 @@ window.__DATA__ = {
     ]
 },
   "daily": {
-    "updated": "2026-05-13T01:53:05Z",
+    "updated": "2026-05-13T06:15:34Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

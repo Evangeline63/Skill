@@ -1,46 +1,46 @@
 {
-  "updated": "2026-05-13T01:53:05Z",
+  "updated": "2026-05-13T06:15:34Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
-      "insight": "HN 热议：279 分 · 102 评论",
+      "insight": "HN 热议：382 分 · 135 评论",
       "sentiment": "positive",
-      "comments": 102,
+      "comments": 135,
       "url": "https://github.com/cactus-compute/needle",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "Why senior developers fail to communicate their expertise",
-      "insight": "HN 热议：370 分 · 182 评论",
+      "insight": "HN 热议：489 分 · 210 评论",
       "sentiment": "positive",
-      "comments": 182,
+      "comments": 210,
       "url": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Foucault's Order of Things Explained with Trading Cards [video]",
-      "insight": "HN 热议：19 分 · 7 评论",
+      "title": "Reimagining the mouse pointer for the AI era",
+      "insight": "HN 热议：177 分 · 145 评论",
       "sentiment": "neutral",
-      "comments": 7,
-      "url": "https://www.youtube.com/watch?v=1TbHYjGvS68",
+      "comments": 145,
+      "url": "https://deepmind.google/blog/ai-pointer/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Reimagining the mouse pointer for the AI era",
-      "insight": "HN 热议：137 分 · 114 评论",
+      "title": "Show HN: Agentic interface for mainframes and COBOL",
+      "insight": "HN 热议：68 分 · 39 评论",
       "sentiment": "neutral",
-      "comments": 114,
-      "url": "https://deepmind.google/blog/ai-pointer/",
+      "comments": 39,
+      "url": "https://www.hypercubic.ai/hopper",
       "id": 4
     },
     {
       "source": "HackerNews",
       "title": "Launch HN: Voker (YC S24) – Analytics for AI Agents",
-      "insight": "HN 热议：39 分 · 19 评论",
+      "insight": "HN 热议：50 分 · 19 评论",
       "sentiment": "neutral",
       "comments": 19,
       "url": "https://voker.ai",
