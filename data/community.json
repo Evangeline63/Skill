@@ -1,49 +1,49 @@
 {
-  "updated": "2026-05-13T19:27:42Z",
+  "updated": "2026-05-13T22:03:16Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Setting up a free *.city.state.us locality domain (2025)",
-      "insight": "HN 热议：355 分 · 108 评论",
+      "insight": "HN 热议：430 分 · 136 评论",
       "sentiment": "positive",
-      "comments": 108,
+      "comments": 136,
       "url": "https://fredchan.org/blog/locality-domains-guide/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "The US is winning the AI race where it matters most: commercialization",
-      "insight": "HN 热议：89 分 · 231 评论",
+      "title": "Rars: a Rust RAR implementation, mostly written by LLMs",
+      "insight": "HN 热议：63 分 · 43 评论",
       "sentiment": "neutral",
-      "comments": 231,
-      "url": "https://avkcode.github.io/blog/us-winning-ai-race.html",
+      "comments": 43,
+      "url": "https://bitplane.net/log/2026/05/rars/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Making the news available at no cost is a victory",
-      "insight": "HN 热议：4 分 · 0 评论",
+      "title": "The US is winning the AI race where it matters most: commercialization",
+      "insight": "HN 热议：132 分 · 365 评论",
       "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://www.sltrib.com/opinion/commentary/2026/05/12/just-days-tribune-reporting/",
+      "comments": 365,
+      "url": "https://avkcode.github.io/blog/us-winning-ai-race.html",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "New stainless steel can survive conditions for hydrogen production in seawater",
-      "insight": "HN 热议：253 分 · 112 评论",
-      "sentiment": "positive",
-      "comments": 112,
-      "url": "https://www.sciencedaily.com/releases/2026/05/260510030950.htm",
+      "title": "\"Not Medically Necessary\": Helping America's Health Insurers Deny Coverage",
+      "insight": "HN 热议：101 分 · 58 评论",
+      "sentiment": "neutral",
+      "comments": 58,
+      "url": "https://www.propublica.org/article/evicore-health-insurance-denials-cigna-unitedhealthcare-aetna-prior-authorizations",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
-      "insight": "HN 热议：601 分 · 175 评论",
-      "sentiment": "positive",
-      "comments": 175,
-      "url": "https://github.com/cactus-compute/needle",
+      "title": "Medicare's new payment model is built for AI. Most of the tech world has no idea",
+      "insight": "HN 热议：3 分 · 0 评论",
+      "sentiment": "neutral",
+      "comments": 0,
+      "url": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
       "id": 5
     }
   ]
