@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-13T06:15:34Z",
+    "updated": "2026-05-13T11:23:11Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-13T06:15:34Z",
+    "updated": "2026-05-13T11:23:11Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-13T06:15:34Z",
+    "updated": "2026-05-13T11:23:11Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184264,
-            "stars_today": 184264,
+            "stars": 184278,
+            "stars_today": 184278,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 162144,
-            "stars_today": 162144,
+            "stars": 162164,
+            "stars_today": 162164,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 93981,
-            "stars_today": 93981,
+            "stars": 94166,
+            "stars_today": 94166,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 92948,
-            "stars_today": 92948,
+            "stars": 92952,
+            "stars_today": 92952,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 75301,
-            "stars_today": 75301,
+            "stars": 75361,
+            "stars_today": 75361,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 73327,
-            "stars_today": 73327,
+            "stars": 73355,
+            "stars_today": 73355,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-13T06:15:34Z",
+    "updated": "2026-05-13T11:23:11Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-13T06:15:34Z",
+    "updated": "2026-05-13T11:23:11Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-13T06:15:34Z",
+    "updated": "2026-05-13T11:23:11Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
-            "insight": "HN 热议：382 分 · 135 评论",
-            "sentiment": "positive",
-            "comments": 135,
-            "url": "https://github.com/cactus-compute/needle",
+            "title": "New stainless steel can survive conditions for hydrogen production in seawater",
+            "insight": "HN 热议：73 分 · 25 评论",
+            "sentiment": "neutral",
+            "comments": 25,
+            "url": "https://www.sciencedaily.com/releases/2026/05/260510030950.htm",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Why senior developers fail to communicate their expertise",
-            "insight": "HN 热议：489 分 · 210 评论",
+            "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+            "insight": "HN 热议：492 分 · 154 评论",
             "sentiment": "positive",
-            "comments": 210,
-            "url": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
+            "comments": 154,
+            "url": "https://github.com/cactus-compute/needle",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Reimagining the mouse pointer for the AI era",
-            "insight": "HN 热议：177 分 · 145 评论",
-            "sentiment": "neutral",
-            "comments": 145,
-            "url": "https://deepmind.google/blog/ai-pointer/",
+            "title": "Why senior developers fail to communicate their expertise",
+            "insight": "HN 热议：609 分 · 266 评论",
+            "sentiment": "positive",
+            "comments": 266,
+            "url": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Agentic interface for mainframes and COBOL",
-            "insight": "HN 热议：68 分 · 39 评论",
-            "sentiment": "neutral",
-            "comments": 39,
-            "url": "https://www.hypercubic.ai/hopper",
+            "title": "Reimagining the mouse pointer for the AI era",
+            "insight": "HN 热议：213 分 · 178 评论",
+            "sentiment": "positive",
+            "comments": 178,
+            "url": "https://deepmind.google/blog/ai-pointer/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Launch HN: Voker (YC S24) – Analytics for AI Agents",
-            "insight": "HN 热议：50 分 · 19 评论",
+            "title": "Show HN: Agentic interface for mainframes and COBOL",
+            "insight": "HN 热议：81 分 · 42 评论",
             "sentiment": "neutral",
-            "comments": 19,
-            "url": "https://voker.ai",
+            "comments": 42,
+            "url": "https://www.hypercubic.ai/hopper",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-13T06:15:34Z",
+    "updated": "2026-05-13T11:23:11Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

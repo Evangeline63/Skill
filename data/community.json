@@ -1,49 +1,49 @@
 {
-  "updated": "2026-05-13T06:15:34Z",
+  "updated": "2026-05-13T11:23:11Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
-      "insight": "HN 热议：382 分 · 135 评论",
-      "sentiment": "positive",
-      "comments": 135,
-      "url": "https://github.com/cactus-compute/needle",
+      "title": "New stainless steel can survive conditions for hydrogen production in seawater",
+      "insight": "HN 热议：73 分 · 25 评论",
+      "sentiment": "neutral",
+      "comments": 25,
+      "url": "https://www.sciencedaily.com/releases/2026/05/260510030950.htm",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Why senior developers fail to communicate their expertise",
-      "insight": "HN 热议：489 分 · 210 评论",
+      "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+      "insight": "HN 热议：492 分 · 154 评论",
       "sentiment": "positive",
-      "comments": 210,
-      "url": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
+      "comments": 154,
+      "url": "https://github.com/cactus-compute/needle",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Reimagining the mouse pointer for the AI era",
-      "insight": "HN 热议：177 分 · 145 评论",
-      "sentiment": "neutral",
-      "comments": 145,
-      "url": "https://deepmind.google/blog/ai-pointer/",
+      "title": "Why senior developers fail to communicate their expertise",
+      "insight": "HN 热议：609 分 · 266 评论",
+      "sentiment": "positive",
+      "comments": 266,
+      "url": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Agentic interface for mainframes and COBOL",
-      "insight": "HN 热议：68 分 · 39 评论",
-      "sentiment": "neutral",
-      "comments": 39,
-      "url": "https://www.hypercubic.ai/hopper",
+      "title": "Reimagining the mouse pointer for the AI era",
+      "insight": "HN 热议：213 分 · 178 评论",
+      "sentiment": "positive",
+      "comments": 178,
+      "url": "https://deepmind.google/blog/ai-pointer/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Launch HN: Voker (YC S24) – Analytics for AI Agents",
-      "insight": "HN 热议：50 分 · 19 评论",
+      "title": "Show HN: Agentic interface for mainframes and COBOL",
+      "insight": "HN 热议：81 分 · 42 评论",
       "sentiment": "neutral",
-      "comments": 19,
-      "url": "https://voker.ai",
+      "comments": 42,
+      "url": "https://www.hypercubic.ai/hopper",
       "id": 5
     }
   ]
