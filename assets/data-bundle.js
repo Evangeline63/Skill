@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-13T22:03:16Z",
+    "updated": "2026-05-14T01:55:48Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-13T22:03:16Z",
+    "updated": "2026-05-14T01:55:48Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-13T22:03:16Z",
+    "updated": "2026-05-14T01:55:48Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184294,
-            "stars_today": 184294,
+            "stars": 184290,
+            "stars_today": 184290,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 162185,
-            "stars_today": 162185,
+            "stars": 162189,
+            "stars_today": 162189,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 94407,
-            "stars_today": 94407,
+            "stars": 94487,
+            "stars_today": 94487,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 92967,
-            "stars_today": 92967,
+            "stars": 92970,
+            "stars_today": 92970,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 75476,
-            "stars_today": 75476,
+            "stars": 75510,
+            "stars_today": 75510,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 73400,
-            "stars_today": 73400,
+            "stars": 73413,
+            "stars_today": 73413,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-13T22:03:16Z",
+    "updated": "2026-05-14T01:55:48Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-13T22:03:16Z",
+    "updated": "2026-05-14T01:55:48Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-13T22:03:16Z",
+    "updated": "2026-05-14T01:55:48Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Setting up a free *.city.state.us locality domain (2025)",
-            "insight": "HN 热议：430 分 · 136 评论",
+            "insight": "HN 热议：490 分 · 155 评论",
             "sentiment": "positive",
-            "comments": 136,
+            "comments": 155,
             "url": "https://fredchan.org/blog/locality-domains-guide/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Rars: a Rust RAR implementation, mostly written by LLMs",
-            "insight": "HN 热议：63 分 · 43 评论",
+            "title": "The Other Half of AI Safety",
+            "insight": "HN 热议：39 分 · 45 评论",
             "sentiment": "neutral",
-            "comments": 43,
-            "url": "https://bitplane.net/log/2026/05/rars/",
+            "comments": 45,
+            "url": "https://personalaisafety.com/p/the-other-half-of-ai-safety",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "The US is winning the AI race where it matters most: commercialization",
-            "insight": "HN 热议：132 分 · 365 评论",
+            "insight": "HN 热议：164 分 · 465 评论",
             "sentiment": "neutral",
-            "comments": 365,
+            "comments": 465,
             "url": "https://avkcode.github.io/blog/us-winning-ai-race.html",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "\"Not Medically Necessary\": Helping America's Health Insurers Deny Coverage",
-            "insight": "HN 热议：101 分 · 58 评论",
+            "title": "Tell HN: Dont use Claude Design, lost access to my projects after unsubscribing",
+            "insight": "HN 热议：167 分 · 60 评论",
             "sentiment": "neutral",
-            "comments": 58,
-            "url": "https://www.propublica.org/article/evicore-health-insurance-denials-cigna-unitedhealthcare-aetna-prior-authorizations",
+            "comments": 60,
+            "url": "https://news.ycombinator.com/item?id=48128003",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Medicare's new payment model is built for AI. Most of the tech world has no idea",
-            "insight": "HN 热议：3 分 · 0 评论",
-            "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
+            "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+            "insight": "HN 热议：639 分 · 183 评论",
+            "sentiment": "positive",
+            "comments": 183,
+            "url": "https://github.com/cactus-compute/needle",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-13T22:03:16Z",
+    "updated": "2026-05-14T01:55:48Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

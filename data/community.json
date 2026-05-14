@@ -1,49 +1,49 @@
 {
-  "updated": "2026-05-13T22:03:16Z",
+  "updated": "2026-05-14T01:55:48Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Setting up a free *.city.state.us locality domain (2025)",
-      "insight": "HN 热议：430 分 · 136 评论",
+      "insight": "HN 热议：490 分 · 155 评论",
       "sentiment": "positive",
-      "comments": 136,
+      "comments": 155,
       "url": "https://fredchan.org/blog/locality-domains-guide/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Rars: a Rust RAR implementation, mostly written by LLMs",
-      "insight": "HN 热议：63 分 · 43 评论",
+      "title": "The Other Half of AI Safety",
+      "insight": "HN 热议：39 分 · 45 评论",
       "sentiment": "neutral",
-      "comments": 43,
-      "url": "https://bitplane.net/log/2026/05/rars/",
+      "comments": 45,
+      "url": "https://personalaisafety.com/p/the-other-half-of-ai-safety",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "The US is winning the AI race where it matters most: commercialization",
-      "insight": "HN 热议：132 分 · 365 评论",
+      "insight": "HN 热议：164 分 · 465 评论",
       "sentiment": "neutral",
-      "comments": 365,
+      "comments": 465,
       "url": "https://avkcode.github.io/blog/us-winning-ai-race.html",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "\"Not Medically Necessary\": Helping America's Health Insurers Deny Coverage",
-      "insight": "HN 热议：101 分 · 58 评论",
+      "title": "Tell HN: Dont use Claude Design, lost access to my projects after unsubscribing",
+      "insight": "HN 热议：167 分 · 60 评论",
       "sentiment": "neutral",
-      "comments": 58,
-      "url": "https://www.propublica.org/article/evicore-health-insurance-denials-cigna-unitedhealthcare-aetna-prior-authorizations",
+      "comments": 60,
+      "url": "https://news.ycombinator.com/item?id=48128003",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Medicare's new payment model is built for AI. Most of the tech world has no idea",
-      "insight": "HN 热议：3 分 · 0 评论",
-      "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
+      "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+      "insight": "HN 热议：639 分 · 183 评论",
+      "sentiment": "positive",
+      "comments": 183,
+      "url": "https://github.com/cactus-compute/needle",
       "id": 5
     }
   ]
