@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-14T01:55:48Z",
+    "updated": "2026-05-14T06:13:32Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-14T01:55:48Z",
+    "updated": "2026-05-14T06:13:32Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,7 +266,7 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-14T01:55:48Z",
+    "updated": "2026-05-14T06:13:32Z",
     "repos": [
         {
             "rank": 1,
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 162189,
-            "stars_today": 162189,
+            "stars": 162203,
+            "stars_today": 162203,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 94487,
-            "stars_today": 94487,
+            "stars": 94584,
+            "stars_today": 94584,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 92970,
-            "stars_today": 92970,
+            "stars": 92983,
+            "stars_today": 92983,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 75510,
-            "stars_today": 75510,
+            "stars": 75566,
+            "stars_today": 75566,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 73413,
-            "stars_today": 73413,
+            "stars": 73437,
+            "stars_today": 73437,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-14T01:55:48Z",
+    "updated": "2026-05-14T06:13:32Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-14T01:55:48Z",
+    "updated": "2026-05-14T06:13:32Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-14T01:55:48Z",
+    "updated": "2026-05-14T06:13:32Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Setting up a free *.city.state.us locality domain (2025)",
-            "insight": "HN 热议：490 分 · 155 评论",
-            "sentiment": "positive",
-            "comments": 155,
-            "url": "https://fredchan.org/blog/locality-domains-guide/",
+            "title": "Claude for Small Business",
+            "insight": "HN 热议：120 分 · 64 评论",
+            "sentiment": "neutral",
+            "comments": 64,
+            "url": "https://www.anthropic.com/news/claude-for-small-business",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "The Other Half of AI Safety",
-            "insight": "HN 热议：39 分 · 45 评论",
+            "title": "Arena AI Model ELO History",
+            "insight": "HN 热议：26 分 · 10 评论",
             "sentiment": "neutral",
-            "comments": 45,
-            "url": "https://personalaisafety.com/p/the-other-half-of-ai-safety",
+            "comments": 10,
+            "url": "https://mayerwin.github.io/AI-Arena-History/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "The US is winning the AI race where it matters most: commercialization",
-            "insight": "HN 热议：164 分 · 465 评论",
-            "sentiment": "neutral",
-            "comments": 465,
-            "url": "https://avkcode.github.io/blog/us-winning-ai-race.html",
+            "title": "Setting up a free *.city.state.us locality domain (2025)",
+            "insight": "HN 热议：544 分 · 170 评论",
+            "sentiment": "positive",
+            "comments": 170,
+            "url": "https://fredchan.org/blog/locality-domains-guide/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Tell HN: Dont use Claude Design, lost access to my projects after unsubscribing",
-            "insight": "HN 热议：167 分 · 60 评论",
+            "title": "The US is winning the AI race where it matters most: commercialization",
+            "insight": "HN 热议：186 分 · 512 评论",
             "sentiment": "neutral",
-            "comments": 60,
-            "url": "https://news.ycombinator.com/item?id=48128003",
+            "comments": 512,
+            "url": "https://avkcode.github.io/blog/us-winning-ai-race.html",
             "id": 4
         },
         {
             "source": "HackerNews",
             "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
-            "insight": "HN 热议：639 分 · 183 评论",
+            "insight": "HN 热议：662 分 · 187 评论",
             "sentiment": "positive",
-            "comments": 183,
+            "comments": 187,
             "url": "https://github.com/cactus-compute/needle",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-14T01:55:48Z",
+    "updated": "2026-05-14T06:13:32Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
