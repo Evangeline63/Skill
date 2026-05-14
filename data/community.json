@@ -1,49 +1,49 @@
 {
-  "updated": "2026-05-14T06:13:32Z",
+  "updated": "2026-05-14T11:06:49Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Claude for Small Business",
-      "insight": "HN 热议：120 分 · 64 评论",
-      "sentiment": "neutral",
-      "comments": 64,
+      "insight": "HN 热议：283 分 · 207 评论",
+      "sentiment": "positive",
+      "comments": 207,
       "url": "https://www.anthropic.com/news/claude-for-small-business",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Arena AI Model ELO History",
-      "insight": "HN 热议：26 分 · 10 评论",
-      "sentiment": "neutral",
-      "comments": 10,
-      "url": "https://mayerwin.github.io/AI-Arena-History/",
+      "title": "Setting up a free *.city.state.us locality domain (2025)",
+      "insight": "HN 热议：568 分 · 177 评论",
+      "sentiment": "positive",
+      "comments": 177,
+      "url": "https://fredchan.org/blog/locality-domains-guide/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Setting up a free *.city.state.us locality domain (2025)",
-      "insight": "HN 热议：544 分 · 170 评论",
-      "sentiment": "positive",
-      "comments": 170,
-      "url": "https://fredchan.org/blog/locality-domains-guide/",
+      "title": "A Claude Code and Codex Skill for Deliberate Skill Development",
+      "insight": "HN 热议：62 分 · 13 评论",
+      "sentiment": "neutral",
+      "comments": 13,
+      "url": "https://github.com/DrCatHicks/learning-opportunities",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "The US is winning the AI race where it matters most: commercialization",
-      "insight": "HN 热议：186 分 · 512 评论",
-      "sentiment": "neutral",
-      "comments": 512,
-      "url": "https://avkcode.github.io/blog/us-winning-ai-race.html",
+      "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+      "insight": "HN 热议：678 分 · 197 评论",
+      "sentiment": "positive",
+      "comments": 197,
+      "url": "https://github.com/cactus-compute/needle",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
-      "insight": "HN 热议：662 分 · 187 评论",
+      "title": "The US is winning the AI race where it matters most: commercialization",
+      "insight": "HN 热议：205 分 · 559 评论",
       "sentiment": "positive",
-      "comments": 187,
-      "url": "https://github.com/cactus-compute/needle",
+      "comments": 559,
+      "url": "https://avkcode.github.io/blog/us-winning-ai-race.html",
       "id": 5
     }
   ]
