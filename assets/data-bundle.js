@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-14T13:24:04Z",
+    "updated": "2026-05-14T16:55:17Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-14T13:24:04Z",
+    "updated": "2026-05-14T16:55:17Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-14T13:24:04Z",
+    "updated": "2026-05-14T16:55:17Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184294,
-            "stars_today": 184294,
+            "stars": 184296,
+            "stars_today": 184296,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 162226,
-            "stars_today": 162226,
+            "stars": 162230,
+            "stars_today": 162230,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 94720,
-            "stars_today": 94720,
+            "stars": 94747,
+            "stars_today": 94747,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 92996,
-            "stars_today": 92996,
+            "stars": 93005,
+            "stars_today": 93005,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 75663,
-            "stars_today": 75663,
+            "stars": 75710,
+            "stars_today": 75710,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 73488,
-            "stars_today": 73488,
+            "stars": 73517,
+            "stars_today": 73517,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-14T13:24:04Z",
+    "updated": "2026-05-14T16:55:17Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-14T13:24:04Z",
+    "updated": "2026-05-14T16:55:17Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-14T13:24:04Z",
+    "updated": "2026-05-14T16:55:17Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Claude for Small Business",
-            "insight": "HN 热议：357 分 · 313 评论",
-            "sentiment": "positive",
-            "comments": 313,
-            "url": "https://www.anthropic.com/news/claude-for-small-business",
+            "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
+            "insight": "HN 热议：98 分 · 21 评论",
+            "sentiment": "neutral",
+            "comments": 21,
+            "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Setting up a free *.city.state.us locality domain (2025)",
-            "insight": "HN 热议：581 分 · 180 评论",
-            "sentiment": "positive",
-            "comments": 180,
-            "url": "https://fredchan.org/blog/locality-domains-guide/",
+            "title": "Claude AI recovers an 11 yrs old BTC wallet holding 400k USD",
+            "insight": "HN 热议：178 分 · 77 评论",
+            "sentiment": "neutral",
+            "comments": 77,
+            "url": "https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-trader-recovers-usd400-000-using-claude-ai-after-losing-wallet-password-11-years-ago-bot-tried-3-5-trillion-passwords-before-decrypting-an-old-wallet-backup",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "A Claude Code and Codex Skill for Deliberate Skill Development",
-            "insight": "HN 热议：105 分 · 18 评论",
-            "sentiment": "neutral",
-            "comments": 18,
-            "url": "https://github.com/DrCatHicks/learning-opportunities",
+            "title": "Claude for Small Business",
+            "insight": "HN 热议：459 分 · 416 评论",
+            "sentiment": "positive",
+            "comments": 416,
+            "url": "https://www.anthropic.com/news/claude-for-small-business",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "The Whole Anthropic Kerfuffle",
-            "insight": "HN 热议：4 分 · 0 评论",
+            "title": "USDA Projects Smallest US Wheat Harvest Since 1972 Due to Plains Drought",
+            "insight": "HN 热议：175 分 · 117 评论",
             "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://twitter.com/josevalim/status/2054887621336174799",
+            "comments": 117,
+            "url": "https://www.agweb.com/news/usda-projects-smallest-us-wheat-harvest-1972-due-plains-drought",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
-            "insight": "HN 热议：692 分 · 197 评论",
-            "sentiment": "positive",
-            "comments": 197,
-            "url": "https://github.com/cactus-compute/needle",
+            "title": "Sam Altman's Business Dealings Under GOP Scrutiny Ahead of OpenAI's IPO",
+            "insight": "HN 热议：125 分 · 87 评论",
+            "sentiment": "neutral",
+            "comments": 87,
+            "url": "https://www.wsj.com/tech/ai/sam-altmans-business-dealings-under-gop-scrutiny-ahead-of-openais-ipo-52c1cc4d",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-14T13:24:04Z",
+    "updated": "2026-05-14T16:55:17Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
