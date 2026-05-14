@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-14T11:06:49Z",
+    "updated": "2026-05-14T13:24:04Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-14T11:06:49Z",
+    "updated": "2026-05-14T13:24:04Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-14T11:06:49Z",
+    "updated": "2026-05-14T13:24:04Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184296,
-            "stars_today": 184296,
+            "stars": 184294,
+            "stars_today": 184294,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 162223,
-            "stars_today": 162223,
+            "stars": 162226,
+            "stars_today": 162226,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 94714,
-            "stars_today": 94714,
+            "stars": 94720,
+            "stars_today": 94720,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 92992,
-            "stars_today": 92992,
+            "stars": 92996,
+            "stars_today": 92996,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 75633,
-            "stars_today": 75633,
+            "stars": 75663,
+            "stars_today": 75663,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 73471,
-            "stars_today": 73471,
+            "stars": 73488,
+            "stars_today": 73488,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-14T11:06:49Z",
+    "updated": "2026-05-14T13:24:04Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-14T11:06:49Z",
+    "updated": "2026-05-14T13:24:04Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-14T11:06:49Z",
+    "updated": "2026-05-14T13:24:04Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Claude for Small Business",
-            "insight": "HN 热议：283 分 · 207 评论",
+            "insight": "HN 热议：357 分 · 313 评论",
             "sentiment": "positive",
-            "comments": 207,
+            "comments": 313,
             "url": "https://www.anthropic.com/news/claude-for-small-business",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "Setting up a free *.city.state.us locality domain (2025)",
-            "insight": "HN 热议：568 分 · 177 评论",
+            "insight": "HN 热议：581 分 · 180 评论",
             "sentiment": "positive",
-            "comments": 177,
+            "comments": 180,
             "url": "https://fredchan.org/blog/locality-domains-guide/",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "A Claude Code and Codex Skill for Deliberate Skill Development",
-            "insight": "HN 热议：62 分 · 13 评论",
+            "insight": "HN 热议：105 分 · 18 评论",
             "sentiment": "neutral",
-            "comments": 13,
+            "comments": 18,
             "url": "https://github.com/DrCatHicks/learning-opportunities",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
-            "insight": "HN 热议：678 分 · 197 评论",
-            "sentiment": "positive",
-            "comments": 197,
-            "url": "https://github.com/cactus-compute/needle",
+            "title": "The Whole Anthropic Kerfuffle",
+            "insight": "HN 热议：4 分 · 0 评论",
+            "sentiment": "neutral",
+            "comments": 0,
+            "url": "https://twitter.com/josevalim/status/2054887621336174799",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "The US is winning the AI race where it matters most: commercialization",
-            "insight": "HN 热议：205 分 · 559 评论",
+            "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+            "insight": "HN 热议：692 分 · 197 评论",
             "sentiment": "positive",
-            "comments": 559,
-            "url": "https://avkcode.github.io/blog/us-winning-ai-race.html",
+            "comments": 197,
+            "url": "https://github.com/cactus-compute/needle",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-14T11:06:49Z",
+    "updated": "2026-05-14T13:24:04Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
