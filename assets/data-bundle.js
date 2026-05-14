@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-14T16:55:17Z",
+    "updated": "2026-05-14T19:25:28Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-14T16:55:17Z",
+    "updated": "2026-05-14T19:25:28Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,7 +266,7 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-14T16:55:17Z",
+    "updated": "2026-05-14T19:25:28Z",
     "repos": [
         {
             "rank": 1,
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 162230,
-            "stars_today": 162230,
+            "stars": 162234,
+            "stars_today": 162234,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 94747,
-            "stars_today": 94747,
+            "stars": 94756,
+            "stars_today": 94756,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93005,
-            "stars_today": 93005,
+            "stars": 93009,
+            "stars_today": 93009,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 75710,
-            "stars_today": 75710,
+            "stars": 75730,
+            "stars_today": 75730,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 73517,
-            "stars_today": 73517,
+            "stars": 73531,
+            "stars_today": 73531,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-14T16:55:17Z",
+    "updated": "2026-05-14T19:25:28Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-14T16:55:17Z",
+    "updated": "2026-05-14T19:25:28Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-14T16:55:17Z",
+    "updated": "2026-05-14T19:25:28Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
-            "insight": "HN 热议：98 分 · 21 评论",
+            "title": "God Damn AI is making me dumb",
+            "insight": "HN 热议：162 分 · 103 评论",
             "sentiment": "neutral",
-            "comments": 21,
-            "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
+            "comments": 103,
+            "url": "https://jpain.io/god-damn-ai-is-making-me-dumb/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Claude AI recovers an 11 yrs old BTC wallet holding 400k USD",
-            "insight": "HN 热议：178 分 · 77 评论",
-            "sentiment": "neutral",
-            "comments": 77,
-            "url": "https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-trader-recovers-usd400-000-using-claude-ai-after-losing-wallet-password-11-years-ago-bot-tried-3-5-trillion-passwords-before-decrypting-an-old-wallet-backup",
+            "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
+            "insight": "HN 热议：307 分 · 81 评论",
+            "sentiment": "positive",
+            "comments": 81,
+            "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Claude for Small Business",
-            "insight": "HN 热议：459 分 · 416 评论",
-            "sentiment": "positive",
-            "comments": 416,
-            "url": "https://www.anthropic.com/news/claude-for-small-business",
+            "title": "You Don't Align an AI, You Align with It",
+            "insight": "HN 热议：14 分 · 2 评论",
+            "sentiment": "neutral",
+            "comments": 2,
+            "url": "https://danieltan.weblog.lol/2026/05/you-dont-align-an-ai-you-align-with-it",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "USDA Projects Smallest US Wheat Harvest Since 1972 Due to Plains Drought",
-            "insight": "HN 热议：175 分 · 117 评论",
-            "sentiment": "neutral",
-            "comments": 117,
-            "url": "https://www.agweb.com/news/usda-projects-smallest-us-wheat-harvest-1972-due-plains-drought",
+            "title": "Claude for Small Business",
+            "insight": "HN 热议：491 分 · 441 评论",
+            "sentiment": "positive",
+            "comments": 441,
+            "url": "https://www.anthropic.com/news/claude-for-small-business",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Sam Altman's Business Dealings Under GOP Scrutiny Ahead of OpenAI's IPO",
-            "insight": "HN 热议：125 分 · 87 评论",
+            "title": "EditLens: Quantifying the extent of AI editing in text (2025)",
+            "insight": "HN 热议：21 分 · 0 评论",
             "sentiment": "neutral",
-            "comments": 87,
-            "url": "https://www.wsj.com/tech/ai/sam-altmans-business-dealings-under-gop-scrutiny-ahead-of-openais-ipo-52c1cc4d",
+            "comments": 0,
+            "url": "https://arxiv.org/abs/2510.03154",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-14T16:55:17Z",
+    "updated": "2026-05-14T19:25:28Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
