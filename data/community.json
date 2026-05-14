@@ -1,49 +1,49 @@
 {
-  "updated": "2026-05-14T19:25:28Z",
+  "updated": "2026-05-14T21:58:35Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "God Damn AI is making me dumb",
-      "insight": "HN 热议：162 分 · 103 评论",
-      "sentiment": "neutral",
-      "comments": 103,
-      "url": "https://jpain.io/god-damn-ai-is-making-me-dumb/",
+      "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
+      "insight": "HN 热议：418 分 · 112 评论",
+      "sentiment": "positive",
+      "comments": 112,
+      "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
-      "insight": "HN 热议：307 分 · 81 评论",
-      "sentiment": "positive",
-      "comments": 81,
-      "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
+      "title": "You Don't Align an AI, You Align with It",
+      "insight": "HN 热议：72 分 · 35 评论",
+      "sentiment": "neutral",
+      "comments": 35,
+      "url": "https://danieltan.weblog.lol/2026/05/you-dont-align-an-ai-you-align-with-it",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "You Don't Align an AI, You Align with It",
-      "insight": "HN 热议：14 分 · 2 评论",
+      "title": "Claude for Legal",
+      "insight": "HN 热议：14 分 · 3 评论",
       "sentiment": "neutral",
-      "comments": 2,
-      "url": "https://danieltan.weblog.lol/2026/05/you-dont-align-an-ai-you-align-with-it",
+      "comments": 3,
+      "url": "https://github.com/anthropics/claude-for-legal",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Claude for Small Business",
-      "insight": "HN 热议：491 分 · 441 评论",
+      "title": "AI is making me dumb",
+      "insight": "HN 热议：318 分 · 211 评论",
       "sentiment": "positive",
-      "comments": 441,
-      "url": "https://www.anthropic.com/news/claude-for-small-business",
+      "comments": 211,
+      "url": "https://jpain.io/god-damn-ai-is-making-me-dumb/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "EditLens: Quantifying the extent of AI editing in text (2025)",
-      "insight": "HN 热议：21 分 · 0 评论",
+      "title": "The AI Zombification of Universities",
+      "insight": "HN 热议：145 分 · 118 评论",
       "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://arxiv.org/abs/2510.03154",
+      "comments": 118,
+      "url": "https://www.thenewcritic.com/p/the-great-zombification",
       "id": 5
     }
   ]

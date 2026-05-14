@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-14T19:25:28Z",
+    "updated": "2026-05-14T21:58:35Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-14T19:25:28Z",
+    "updated": "2026-05-14T21:58:35Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-14T19:25:28Z",
+    "updated": "2026-05-14T21:58:35Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184296,
-            "stars_today": 184296,
+            "stars": 184298,
+            "stars_today": 184298,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 162234,
-            "stars_today": 162234,
+            "stars": 162236,
+            "stars_today": 162236,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 94756,
-            "stars_today": 94756,
+            "stars": 94764,
+            "stars_today": 94764,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 75730,
-            "stars_today": 75730,
+            "stars": 75742,
+            "stars_today": 75742,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 73531,
-            "stars_today": 73531,
+            "stars": 73544,
+            "stars_today": 73544,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-14T19:25:28Z",
+    "updated": "2026-05-14T21:58:35Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-14T19:25:28Z",
+    "updated": "2026-05-14T21:58:35Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-14T19:25:28Z",
+    "updated": "2026-05-14T21:58:35Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "God Damn AI is making me dumb",
-            "insight": "HN 热议：162 分 · 103 评论",
-            "sentiment": "neutral",
-            "comments": 103,
-            "url": "https://jpain.io/god-damn-ai-is-making-me-dumb/",
+            "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
+            "insight": "HN 热议：418 分 · 112 评论",
+            "sentiment": "positive",
+            "comments": 112,
+            "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
-            "insight": "HN 热议：307 分 · 81 评论",
-            "sentiment": "positive",
-            "comments": 81,
-            "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
+            "title": "You Don't Align an AI, You Align with It",
+            "insight": "HN 热议：72 分 · 35 评论",
+            "sentiment": "neutral",
+            "comments": 35,
+            "url": "https://danieltan.weblog.lol/2026/05/you-dont-align-an-ai-you-align-with-it",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "You Don't Align an AI, You Align with It",
-            "insight": "HN 热议：14 分 · 2 评论",
+            "title": "Claude for Legal",
+            "insight": "HN 热议：14 分 · 3 评论",
             "sentiment": "neutral",
-            "comments": 2,
-            "url": "https://danieltan.weblog.lol/2026/05/you-dont-align-an-ai-you-align-with-it",
+            "comments": 3,
+            "url": "https://github.com/anthropics/claude-for-legal",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Claude for Small Business",
-            "insight": "HN 热议：491 分 · 441 评论",
+            "title": "AI is making me dumb",
+            "insight": "HN 热议：318 分 · 211 评论",
             "sentiment": "positive",
-            "comments": 441,
-            "url": "https://www.anthropic.com/news/claude-for-small-business",
+            "comments": 211,
+            "url": "https://jpain.io/god-damn-ai-is-making-me-dumb/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "EditLens: Quantifying the extent of AI editing in text (2025)",
-            "insight": "HN 热议：21 分 · 0 评论",
+            "title": "The AI Zombification of Universities",
+            "insight": "HN 热议：145 分 · 118 评论",
             "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://arxiv.org/abs/2510.03154",
+            "comments": 118,
+            "url": "https://www.thenewcritic.com/p/the-great-zombification",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-14T19:25:28Z",
+    "updated": "2026-05-14T21:58:35Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
