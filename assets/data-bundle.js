@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-15T19:12:52Z",
+    "updated": "2026-05-15T21:46:21Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-15T19:12:52Z",
+    "updated": "2026-05-15T21:46:21Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-15T19:12:52Z",
+    "updated": "2026-05-15T21:46:21Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184330,
-            "stars_today": 184330,
+            "stars": 184332,
+            "stars_today": 184332,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 162292,
-            "stars_today": 162292,
+            "stars": 162291,
+            "stars_today": 162291,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 94846,
-            "stars_today": 94846,
+            "stars": 94852,
+            "stars_today": 94852,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93040,
-            "stars_today": 93040,
+            "stars": 93045,
+            "stars_today": 93045,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 75957,
-            "stars_today": 75957,
+            "stars": 75975,
+            "stars_today": 75975,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 73652,
-            "stars_today": 73652,
+            "stars": 73660,
+            "stars_today": 73660,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-15T19:12:52Z",
+    "updated": "2026-05-15T21:46:21Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-15T19:12:52Z",
+    "updated": "2026-05-15T21:46:21Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-15T19:12:52Z",
+    "updated": "2026-05-15T21:46:21Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Bun Rust rewrite: \"codebase fails basic miri checks, allows for UB in safe rust\"",
-            "insight": "HN 热议：166 分 · 99 评论",
-            "sentiment": "neutral",
-            "comments": 99,
-            "url": "https://github.com/oven-sh/bun/issues/30719",
+            "title": "Mitchellh – I strongly believe there are entire companies now under AI psychosis",
+            "insight": "HN 热议：238 分 · 78 评论",
+            "sentiment": "positive",
+            "comments": 78,
+            "url": "https://twitter.com/mitchellh/status/2055380239711457578",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "A 0-click exploit chain for the Pixel 10",
-            "insight": "HN 热议：240 分 · 98 评论",
+            "insight": "HN 热议：293 分 · 123 评论",
             "sentiment": "positive",
-            "comments": 98,
+            "comments": 123,
             "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "Show HN: Watch a neural net learn to play Snake",
-            "insight": "HN 热议：63 分 · 15 评论",
+            "insight": "HN 热议：96 分 · 21 评论",
             "sentiment": "neutral",
-            "comments": 15,
+            "comments": 21,
             "url": "https://ppo.gradexp.xyz/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Sx – an open-source package manager for AI skills, MCPs, and commands",
-            "insight": "HN 热议：15 分 · 4 评论",
-            "sentiment": "neutral",
-            "comments": 4,
-            "url": "https://github.com/sleuth-io/sx",
+            "title": "Amazon workers under pressure to up their AI usage are making up tasks",
+            "insight": "HN 热议：290 分 · 312 评论",
+            "sentiment": "positive",
+            "comments": 312,
+            "url": "https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Amazon workers under pressure to up their AI usage are making up tasks",
-            "insight": "HN 热议：240 分 · 238 评论",
+            "title": "Bun Rust rewrite: \"codebase fails basic miri checks, allows for UB in safe rust\"",
+            "insight": "HN 热议：326 分 · 236 评论",
             "sentiment": "positive",
-            "comments": 238,
-            "url": "https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks",
+            "comments": 236,
+            "url": "https://github.com/oven-sh/bun/issues/30719",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-15T19:12:52Z",
+    "updated": "2026-05-15T21:46:21Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
