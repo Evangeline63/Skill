@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-15T11:10:38Z",
+    "updated": "2026-05-15T13:23:18Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-15T11:10:38Z",
+    "updated": "2026-05-15T13:23:18Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-15T11:10:38Z",
+    "updated": "2026-05-15T13:23:18Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184319,
-            "stars_today": 184319,
+            "stars": 184324,
+            "stars_today": 184324,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 162272,
-            "stars_today": 162272,
+            "stars": 162274,
+            "stars_today": 162274,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 94813,
-            "stars_today": 94813,
+            "stars": 94823,
+            "stars_today": 94823,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93028,
-            "stars_today": 93028,
+            "stars": 93031,
+            "stars_today": 93031,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 75874,
-            "stars_today": 75874,
+            "stars": 75890,
+            "stars_today": 75890,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 73615,
-            "stars_today": 73615,
+            "stars": 73628,
+            "stars_today": 73628,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-15T11:10:38Z",
+    "updated": "2026-05-15T13:23:18Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-15T11:10:38Z",
+    "updated": "2026-05-15T13:23:18Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-15T11:10:38Z",
+    "updated": "2026-05-15T13:23:18Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Show HN: Find the best local LLM for your hardware, ranked by benchmarks",
-            "insight": "HN 热议：52 分 · 8 评论",
+            "title": "Too dangerous or just too expensive? The real reason Anthropic is hiding Mythos",
+            "insight": "HN 热议：44 分 · 28 评论",
             "sentiment": "neutral",
-            "comments": 8,
-            "url": "https://github.com/Andyyyy64/whichllm",
+            "comments": 28,
+            "url": "https://kingy.ai/ai/too-dangerous-to-release-or-just-too-expensive-the-real-reason-anthropic-is-hiding-its-most-powerful-ai/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "UK sovereign LLM inference",
-            "insight": "HN 热议：65 分 · 55 评论",
-            "sentiment": "neutral",
-            "comments": 55,
-            "url": "https://relax.ai/docs",
+            "title": "Show HN: Find the best local LLM for your hardware, ranked by benchmarks",
+            "insight": "HN 热议：202 分 · 30 评论",
+            "sentiment": "positive",
+            "comments": 30,
+            "url": "https://github.com/Andyyyy64/whichllm",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "Show HN: GlycemicGPT – Open-source AI-powered diabetes management",
-            "insight": "HN 热议：34 分 · 18 评论",
+            "insight": "HN 热议：55 分 · 37 评论",
             "sentiment": "neutral",
-            "comments": 18,
+            "comments": 37,
             "url": "https://github.com/GlycemicGPT/GlycemicGPT",
             "id": 3
         },
         {
             "source": "HackerNews",
             "title": "Details of the Daring Airdrop at Tristan Da Cunha",
-            "insight": "HN 热议：157 分 · 44 评论",
+            "insight": "HN 热议：185 分 · 67 评论",
             "sentiment": "neutral",
-            "comments": 44,
+            "comments": 67,
             "url": "https://www.tristandc.com/government/news-2026-05-11-airdrop.php",
             "id": 4
         },
         {
             "source": "HackerNews",
             "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
-            "insight": "HN 热议：606 分 · 145 评论",
+            "insight": "HN 热议：634 分 · 147 评论",
             "sentiment": "positive",
-            "comments": 145,
+            "comments": 147,
             "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-15T11:10:38Z",
+    "updated": "2026-05-15T13:23:18Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

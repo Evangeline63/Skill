@@ -1,48 +1,48 @@
 {
-  "updated": "2026-05-15T11:10:38Z",
+  "updated": "2026-05-15T13:23:18Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Show HN: Find the best local LLM for your hardware, ranked by benchmarks",
-      "insight": "HN 热议：52 分 · 8 评论",
+      "title": "Too dangerous or just too expensive? The real reason Anthropic is hiding Mythos",
+      "insight": "HN 热议：44 分 · 28 评论",
       "sentiment": "neutral",
-      "comments": 8,
-      "url": "https://github.com/Andyyyy64/whichllm",
+      "comments": 28,
+      "url": "https://kingy.ai/ai/too-dangerous-to-release-or-just-too-expensive-the-real-reason-anthropic-is-hiding-its-most-powerful-ai/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "UK sovereign LLM inference",
-      "insight": "HN 热议：65 分 · 55 评论",
-      "sentiment": "neutral",
-      "comments": 55,
-      "url": "https://relax.ai/docs",
+      "title": "Show HN: Find the best local LLM for your hardware, ranked by benchmarks",
+      "insight": "HN 热议：202 分 · 30 评论",
+      "sentiment": "positive",
+      "comments": 30,
+      "url": "https://github.com/Andyyyy64/whichllm",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "Show HN: GlycemicGPT – Open-source AI-powered diabetes management",
-      "insight": "HN 热议：34 分 · 18 评论",
+      "insight": "HN 热议：55 分 · 37 评论",
       "sentiment": "neutral",
-      "comments": 18,
+      "comments": 37,
       "url": "https://github.com/GlycemicGPT/GlycemicGPT",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "Details of the Daring Airdrop at Tristan Da Cunha",
-      "insight": "HN 热议：157 分 · 44 评论",
+      "insight": "HN 热议：185 分 · 67 评论",
       "sentiment": "neutral",
-      "comments": 44,
+      "comments": 67,
       "url": "https://www.tristandc.com/government/news-2026-05-11-airdrop.php",
       "id": 4
     },
     {
       "source": "HackerNews",
       "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
-      "insight": "HN 热议：606 分 · 145 评论",
+      "insight": "HN 热议：634 分 · 147 评论",
       "sentiment": "positive",
-      "comments": 145,
+      "comments": 147,
       "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
       "id": 5
     }
