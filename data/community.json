@@ -1,49 +1,49 @@
 {
-  "updated": "2026-05-15T16:45:54Z",
+  "updated": "2026-05-15T19:12:52Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "A 0-click exploit chain for the Pixel 10",
-      "insight": "HN 热议：156 分 · 66 评论",
+      "title": "Bun Rust rewrite: \"codebase fails basic miri checks, allows for UB in safe rust\"",
+      "insight": "HN 热议：166 分 · 99 评论",
       "sentiment": "neutral",
-      "comments": 66,
-      "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
+      "comments": 99,
+      "url": "https://github.com/oven-sh/bun/issues/30719",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Watch a neural net learn to play Snake",
-      "insight": "HN 热议：19 分 · 3 评论",
-      "sentiment": "neutral",
-      "comments": 3,
-      "url": "https://ppo.gradexp.xyz/",
+      "title": "A 0-click exploit chain for the Pixel 10",
+      "insight": "HN 热议：240 分 · 98 评论",
+      "sentiment": "positive",
+      "comments": 98,
+      "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Amazon workers under pressure to up their AI usage are making up tasks",
-      "insight": "HN 热议：153 分 · 110 评论",
+      "title": "Show HN: Watch a neural net learn to play Snake",
+      "insight": "HN 热议：63 分 · 15 评论",
       "sentiment": "neutral",
-      "comments": 110,
-      "url": "https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks",
+      "comments": 15,
+      "url": "https://ppo.gradexp.xyz/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Details of the Daring Airdrop at Tristan Da Cunha",
-      "insight": "HN 热议：223 分 · 85 评论",
-      "sentiment": "positive",
-      "comments": 85,
-      "url": "https://www.tristandc.com/government/news-2026-05-11-airdrop.php",
+      "title": "Show HN: Sx – an open-source package manager for AI skills, MCPs, and commands",
+      "insight": "HN 热议：15 分 · 4 评论",
+      "sentiment": "neutral",
+      "comments": 4,
+      "url": "https://github.com/sleuth-io/sx",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
-      "insight": "HN 热议：658 分 · 156 评论",
+      "title": "Amazon workers under pressure to up their AI usage are making up tasks",
+      "insight": "HN 热议：240 分 · 238 评论",
       "sentiment": "positive",
-      "comments": 156,
-      "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
+      "comments": 238,
+      "url": "https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks",
       "id": 5
     }
   ]
