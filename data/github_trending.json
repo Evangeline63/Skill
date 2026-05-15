@@ -1,13 +1,13 @@
 {
-  "updated": "2026-05-15T06:21:41Z",
+  "updated": "2026-05-15T11:10:38Z",
   "repos": [
     {
       "rank": 1,
       "name": "Significant-Gravitas/AutoGPT",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
       "language": "Python",
-      "stars": 184315,
-      "stars_today": 184315,
+      "stars": 184319,
+      "stars_today": 184319,
       "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
@@ -15,8 +15,8 @@
       "name": "f/prompts.chat",
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
       "language": "HTML",
-      "stars": 162251,
-      "stars_today": 162251,
+      "stars": 162272,
+      "stars_today": 162272,
       "url": "https://github.com/f/prompts.chat"
     },
     {
@@ -24,36 +24,36 @@
       "name": "rasbt/LLMs-from-scratch",
       "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
       "language": "Jupyter Notebook",
-      "stars": 94794,
-      "stars_today": 94794,
+      "stars": 94813,
+      "stars_today": 94813,
       "url": "https://github.com/rasbt/LLMs-from-scratch"
     },
     {
       "rank": 4,
-      "name": "thedotmack/claude-mem",
-      "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
-      "language": "TypeScript",
-      "stars": 75816,
-      "stars_today": 75816,
-      "url": "https://github.com/thedotmack/claude-mem"
+      "name": "hacksider/Deep-Live-Cam",
+      "description": "real time face swap and one-click video deepfake with only a single image",
+      "language": "Python",
+      "stars": 93028,
+      "stars_today": 93028,
+      "url": "https://github.com/hacksider/Deep-Live-Cam"
     },
     {
       "rank": 5,
-      "name": "OpenHands/OpenHands",
-      "description": "🙌 OpenHands: AI-Driven Development",
-      "language": "Python",
-      "stars": 73584,
-      "stars_today": 73584,
-      "url": "https://github.com/OpenHands/OpenHands"
+      "name": "thedotmack/claude-mem",
+      "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
+      "language": "TypeScript",
+      "stars": 75874,
+      "stars_today": 75874,
+      "url": "https://github.com/thedotmack/claude-mem"
     },
     {
       "rank": 6,
-      "name": "FlowiseAI/Flowise",
-      "description": "Build AI Agents, Visually",
-      "language": "TypeScript",
-      "stars": 52824,
-      "stars_today": 52824,
-      "url": "https://github.com/FlowiseAI/Flowise"
+      "name": "OpenHands/OpenHands",
+      "description": "🙌 OpenHands: AI-Driven Development",
+      "language": "Python",
+      "stars": 73615,
+      "stars_today": 73615,
+      "url": "https://github.com/OpenHands/OpenHands"
     }
   ]
 }

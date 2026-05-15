@@ -1,49 +1,49 @@
 {
-  "updated": "2026-05-15T06:21:41Z",
+  "updated": "2026-05-15T11:10:38Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "How Claude Code works in large codebases",
-      "insight": "HN 热议：96 分 · 55 评论",
+      "title": "Show HN: Find the best local LLM for your hardware, ranked by benchmarks",
+      "insight": "HN 热议：52 分 · 8 评论",
       "sentiment": "neutral",
-      "comments": 55,
-      "url": "https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start",
+      "comments": 8,
+      "url": "https://github.com/Andyyyy64/whichllm",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Access to frontier AI will soon be limited by economic and security constraints",
-      "insight": "HN 热议：77 分 · 40 评论",
+      "title": "UK sovereign LLM inference",
+      "insight": "HN 热议：65 分 · 55 评论",
       "sentiment": "neutral",
-      "comments": 40,
-      "url": "https://writing.antonleicht.me/p/cut-off",
+      "comments": 55,
+      "url": "https://relax.ai/docs",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Details of the Daring Airdrop at Tristan Da Cunha",
-      "insight": "HN 热议：42 分 · 5 评论",
+      "title": "Show HN: GlycemicGPT – Open-source AI-powered diabetes management",
+      "insight": "HN 热议：34 分 · 18 评论",
       "sentiment": "neutral",
-      "comments": 5,
-      "url": "https://www.tristandc.com/government/news-2026-05-11-airdrop.php",
+      "comments": 18,
+      "url": "https://github.com/GlycemicGPT/GlycemicGPT",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
-      "insight": "HN 热议：543 分 · 140 评论",
-      "sentiment": "positive",
-      "comments": 140,
-      "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
+      "title": "Details of the Daring Airdrop at Tristan Da Cunha",
+      "insight": "HN 热议：157 分 · 44 评论",
+      "sentiment": "neutral",
+      "comments": 44,
+      "url": "https://www.tristandc.com/government/news-2026-05-11-airdrop.php",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Codex is now in the ChatGPT mobile app",
-      "insight": "HN 热议：285 分 · 141 评论",
+      "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
+      "insight": "HN 热议：606 分 · 145 评论",
       "sentiment": "positive",
-      "comments": 141,
-      "url": "https://openai.com/index/work-with-codex-from-anywhere/",
+      "comments": 145,
+      "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
       "id": 5
     }
   ]
