@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-15T01:53:49Z",
+    "updated": "2026-05-15T06:21:41Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-15T01:53:49Z",
+    "updated": "2026-05-15T06:21:41Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-15T01:53:49Z",
+    "updated": "2026-05-15T06:21:41Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184306,
-            "stars_today": 184306,
+            "stars": 184315,
+            "stars_today": 184315,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 162239,
-            "stars_today": 162239,
+            "stars": 162251,
+            "stars_today": 162251,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 94773,
-            "stars_today": 94773,
+            "stars": 94794,
+            "stars_today": 94794,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 75766,
-            "stars_today": 75766,
+            "stars": 75816,
+            "stars_today": 75816,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 73555,
-            "stars_today": 73555,
+            "stars": 73584,
+            "stars_today": 73584,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 52819,
-            "stars_today": 52819,
+            "stars": 52824,
+            "stars_today": 52824,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-15T01:53:49Z",
+    "updated": "2026-05-15T06:21:41Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-15T01:53:49Z",
+    "updated": "2026-05-15T06:21:41Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-15T01:53:49Z",
+    "updated": "2026-05-15T06:21:41Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Have a Coherent AI Policy",
-            "insight": "HN 热议：38 分 · 25 评论",
+            "title": "How Claude Code works in large codebases",
+            "insight": "HN 热议：96 分 · 55 评论",
             "sentiment": "neutral",
-            "comments": 25,
-            "url": "https://brianmeeker.me/2026/05/14/have-a-coherent-ai-policy/",
+            "comments": 55,
+            "url": "https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Codex is now in the ChatGPT mobile app",
-            "insight": "HN 热议：176 分 · 82 评论",
+            "title": "Access to frontier AI will soon be limited by economic and security constraints",
+            "insight": "HN 热议：77 分 · 40 评论",
             "sentiment": "neutral",
-            "comments": 82,
-            "url": "https://openai.com/index/work-with-codex-from-anywhere/",
+            "comments": 40,
+            "url": "https://writing.antonleicht.me/p/cut-off",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
-            "insight": "HN 热议：491 分 · 134 评论",
-            "sentiment": "positive",
-            "comments": 134,
-            "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
+            "title": "Details of the Daring Airdrop at Tristan Da Cunha",
+            "insight": "HN 热议：42 分 · 5 评论",
+            "sentiment": "neutral",
+            "comments": 5,
+            "url": "https://www.tristandc.com/government/news-2026-05-11-airdrop.php",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Ontario auditors find doctors' AI note takers routinely blow basic facts",
-            "insight": "HN 热议：98 分 · 32 评论",
-            "sentiment": "neutral",
-            "comments": 32,
-            "url": "https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771",
+            "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
+            "insight": "HN 热议：543 分 · 140 评论",
+            "sentiment": "positive",
+            "comments": 140,
+            "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "AI is making me dumb",
-            "insight": "HN 热议：431 分 · 264 评论",
+            "title": "Codex is now in the ChatGPT mobile app",
+            "insight": "HN 热议：285 分 · 141 评论",
             "sentiment": "positive",
-            "comments": 264,
-            "url": "https://jpain.io/god-damn-ai-is-making-me-dumb/",
+            "comments": 141,
+            "url": "https://openai.com/index/work-with-codex-from-anywhere/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-15T01:53:49Z",
+    "updated": "2026-05-15T06:21:41Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
