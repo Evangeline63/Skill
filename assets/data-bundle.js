@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-14T21:58:35Z",
+    "updated": "2026-05-15T01:53:49Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-14T21:58:35Z",
+    "updated": "2026-05-15T01:53:49Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-14T21:58:35Z",
+    "updated": "2026-05-15T01:53:49Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184298,
-            "stars_today": 184298,
+            "stars": 184306,
+            "stars_today": 184306,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 162236,
-            "stars_today": 162236,
+            "stars": 162239,
+            "stars_today": 162239,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,41 +291,41 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 94764,
-            "stars_today": 94764,
+            "stars": 94773,
+            "stars_today": 94773,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
             "rank": 4,
-            "name": "hacksider/Deep-Live-Cam",
-            "description": "real time face swap and one-click video deepfake with only a single image",
-            "language": "Python",
-            "stars": 93009,
-            "stars_today": 93009,
-            "url": "https://github.com/hacksider/Deep-Live-Cam"
-        },
-        {
-            "rank": 5,
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 75742,
-            "stars_today": 75742,
+            "stars": 75766,
+            "stars_today": 75766,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
-            "rank": 6,
+            "rank": 5,
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 73544,
-            "stars_today": 73544,
+            "stars": 73555,
+            "stars_today": 73555,
             "url": "https://github.com/OpenHands/OpenHands"
+        },
+        {
+            "rank": 6,
+            "name": "FlowiseAI/Flowise",
+            "description": "Build AI Agents, Visually",
+            "language": "TypeScript",
+            "stars": 52819,
+            "stars_today": 52819,
+            "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-14T21:58:35Z",
+    "updated": "2026-05-15T01:53:49Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-14T21:58:35Z",
+    "updated": "2026-05-15T01:53:49Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-14T21:58:35Z",
+    "updated": "2026-05-15T01:53:49Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
-            "insight": "HN 热议：418 分 · 112 评论",
-            "sentiment": "positive",
-            "comments": 112,
-            "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
+            "title": "Have a Coherent AI Policy",
+            "insight": "HN 热议：38 分 · 25 评论",
+            "sentiment": "neutral",
+            "comments": 25,
+            "url": "https://brianmeeker.me/2026/05/14/have-a-coherent-ai-policy/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "You Don't Align an AI, You Align with It",
-            "insight": "HN 热议：72 分 · 35 评论",
+            "title": "Codex is now in the ChatGPT mobile app",
+            "insight": "HN 热议：176 分 · 82 评论",
             "sentiment": "neutral",
-            "comments": 35,
-            "url": "https://danieltan.weblog.lol/2026/05/you-dont-align-an-ai-you-align-with-it",
+            "comments": 82,
+            "url": "https://openai.com/index/work-with-codex-from-anywhere/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Claude for Legal",
-            "insight": "HN 热议：14 分 · 3 评论",
-            "sentiment": "neutral",
-            "comments": 3,
-            "url": "https://github.com/anthropics/claude-for-legal",
+            "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
+            "insight": "HN 热议：491 分 · 134 评论",
+            "sentiment": "positive",
+            "comments": 134,
+            "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "AI is making me dumb",
-            "insight": "HN 热议：318 分 · 211 评论",
-            "sentiment": "positive",
-            "comments": 211,
-            "url": "https://jpain.io/god-damn-ai-is-making-me-dumb/",
+            "title": "Ontario auditors find doctors' AI note takers routinely blow basic facts",
+            "insight": "HN 热议：98 分 · 32 评论",
+            "sentiment": "neutral",
+            "comments": 32,
+            "url": "https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "The AI Zombification of Universities",
-            "insight": "HN 热议：145 分 · 118 评论",
-            "sentiment": "neutral",
-            "comments": 118,
-            "url": "https://www.thenewcritic.com/p/the-great-zombification",
+            "title": "AI is making me dumb",
+            "insight": "HN 热议：431 分 · 264 评论",
+            "sentiment": "positive",
+            "comments": 264,
+            "url": "https://jpain.io/god-damn-ai-is-making-me-dumb/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-14T21:58:35Z",
+    "updated": "2026-05-15T01:53:49Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

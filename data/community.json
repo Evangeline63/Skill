@@ -1,49 +1,49 @@
 {
-  "updated": "2026-05-14T21:58:35Z",
+  "updated": "2026-05-15T01:53:49Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
-      "insight": "HN 热议：418 分 · 112 评论",
-      "sentiment": "positive",
-      "comments": 112,
-      "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
+      "title": "Have a Coherent AI Policy",
+      "insight": "HN 热议：38 分 · 25 评论",
+      "sentiment": "neutral",
+      "comments": 25,
+      "url": "https://brianmeeker.me/2026/05/14/have-a-coherent-ai-policy/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "You Don't Align an AI, You Align with It",
-      "insight": "HN 热议：72 分 · 35 评论",
+      "title": "Codex is now in the ChatGPT mobile app",
+      "insight": "HN 热议：176 分 · 82 评论",
       "sentiment": "neutral",
-      "comments": 35,
-      "url": "https://danieltan.weblog.lol/2026/05/you-dont-align-an-ai-you-align-with-it",
+      "comments": 82,
+      "url": "https://openai.com/index/work-with-codex-from-anywhere/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Claude for Legal",
-      "insight": "HN 热议：14 分 · 3 评论",
-      "sentiment": "neutral",
-      "comments": 3,
-      "url": "https://github.com/anthropics/claude-for-legal",
+      "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
+      "insight": "HN 热议：491 分 · 134 评论",
+      "sentiment": "positive",
+      "comments": 134,
+      "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "AI is making me dumb",
-      "insight": "HN 热议：318 分 · 211 评论",
-      "sentiment": "positive",
-      "comments": 211,
-      "url": "https://jpain.io/god-damn-ai-is-making-me-dumb/",
+      "title": "Ontario auditors find doctors' AI note takers routinely blow basic facts",
+      "insight": "HN 热议：98 分 · 32 评论",
+      "sentiment": "neutral",
+      "comments": 32,
+      "url": "https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "The AI Zombification of Universities",
-      "insight": "HN 热议：145 分 · 118 评论",
-      "sentiment": "neutral",
-      "comments": 118,
-      "url": "https://www.thenewcritic.com/p/the-great-zombification",
+      "title": "AI is making me dumb",
+      "insight": "HN 热议：431 分 · 264 评论",
+      "sentiment": "positive",
+      "comments": 264,
+      "url": "https://jpain.io/god-damn-ai-is-making-me-dumb/",
       "id": 5
     }
   ]
