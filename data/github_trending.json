@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-15T21:46:21Z",
+  "updated": "2026-05-16T01:46:54Z",
   "repos": [
     {
       "rank": 1,
@@ -15,8 +15,8 @@
       "name": "f/prompts.chat",
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
       "language": "HTML",
-      "stars": 162291,
-      "stars_today": 162291,
+      "stars": 162298,
+      "stars_today": 162298,
       "url": "https://github.com/f/prompts.chat"
     },
     {
@@ -24,8 +24,8 @@
       "name": "rasbt/LLMs-from-scratch",
       "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
       "language": "Jupyter Notebook",
-      "stars": 94852,
-      "stars_today": 94852,
+      "stars": 94865,
+      "stars_today": 94865,
       "url": "https://github.com/rasbt/LLMs-from-scratch"
     },
     {
@@ -33,8 +33,8 @@
       "name": "hacksider/Deep-Live-Cam",
       "description": "real time face swap and one-click video deepfake with only a single image",
       "language": "Python",
-      "stars": 93045,
-      "stars_today": 93045,
+      "stars": 93047,
+      "stars_today": 93047,
       "url": "https://github.com/hacksider/Deep-Live-Cam"
     },
     {
@@ -42,8 +42,8 @@
       "name": "thedotmack/claude-mem",
       "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
       "language": "TypeScript",
-      "stars": 75975,
-      "stars_today": 75975,
+      "stars": 75997,
+      "stars_today": 75997,
       "url": "https://github.com/thedotmack/claude-mem"
     },
     {
@@ -51,8 +51,8 @@
       "name": "OpenHands/OpenHands",
       "description": "🙌 OpenHands: AI-Driven Development",
       "language": "Python",
-      "stars": 73660,
-      "stars_today": 73660,
+      "stars": 73676,
+      "stars_today": 73676,
       "url": "https://github.com/OpenHands/OpenHands"
     }
   ]

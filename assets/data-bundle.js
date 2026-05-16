@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-15T21:46:21Z",
+    "updated": "2026-05-16T01:46:54Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-15T21:46:21Z",
+    "updated": "2026-05-16T01:46:54Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,7 +266,7 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-15T21:46:21Z",
+    "updated": "2026-05-16T01:46:54Z",
     "repos": [
         {
             "rank": 1,
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 162291,
-            "stars_today": 162291,
+            "stars": 162298,
+            "stars_today": 162298,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 94852,
-            "stars_today": 94852,
+            "stars": 94865,
+            "stars_today": 94865,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93045,
-            "stars_today": 93045,
+            "stars": 93047,
+            "stars_today": 93047,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 75975,
-            "stars_today": 75975,
+            "stars": 75997,
+            "stars_today": 75997,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 73660,
-            "stars_today": 73660,
+            "stars": 73676,
+            "stars_today": 73676,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-15T21:46:21Z",
+    "updated": "2026-05-16T01:46:54Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-15T21:46:21Z",
+    "updated": "2026-05-16T01:46:54Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-15T21:46:21Z",
+    "updated": "2026-05-16T01:46:54Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Mitchellh – I strongly believe there are entire companies now under AI psychosis",
-            "insight": "HN 热议：238 分 · 78 评论",
+            "title": "I believe there are entire companies right now under AI psychosis",
+            "insight": "HN 热议：798 分 · 347 评论",
             "sentiment": "positive",
-            "comments": 78,
+            "comments": 347,
             "url": "https://twitter.com/mitchellh/status/2055380239711457578",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "A 0-click exploit chain for the Pixel 10",
-            "insight": "HN 热议：293 分 · 123 评论",
-            "sentiment": "positive",
-            "comments": 123,
-            "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
+            "title": "The main thing about P2P meth is that there's so much of it (2022)",
+            "insight": "HN 热议：43 分 · 17 评论",
+            "sentiment": "neutral",
+            "comments": 17,
+            "url": "https://dynomight.net/p2p-meth/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Watch a neural net learn to play Snake",
-            "insight": "HN 热议：96 分 · 21 评论",
-            "sentiment": "neutral",
-            "comments": 21,
-            "url": "https://ppo.gradexp.xyz/",
+            "title": "A 0-click exploit chain for the Pixel 10",
+            "insight": "HN 热议：339 分 · 157 评论",
+            "sentiment": "positive",
+            "comments": 157,
+            "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Amazon workers under pressure to up their AI usage are making up tasks",
-            "insight": "HN 热议：290 分 · 312 评论",
-            "sentiment": "positive",
-            "comments": 312,
-            "url": "https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks",
+            "title": "Show HN: Watch a neural net learn to play Snake",
+            "insight": "HN 热议：119 分 · 30 评论",
+            "sentiment": "neutral",
+            "comments": 30,
+            "url": "https://ppo.gradexp.xyz/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Bun Rust rewrite: \"codebase fails basic miri checks, allows for UB in safe rust\"",
-            "insight": "HN 热议：326 分 · 236 评论",
+            "title": "Amazon workers under pressure to up their AI usage are making up tasks",
+            "insight": "HN 热议：314 分 · 346 评论",
             "sentiment": "positive",
-            "comments": 236,
-            "url": "https://github.com/oven-sh/bun/issues/30719",
+            "comments": 346,
+            "url": "https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-15T21:46:21Z",
+    "updated": "2026-05-16T01:46:54Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
