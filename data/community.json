@@ -1,48 +1,48 @@
 {
-  "updated": "2026-05-16T01:46:54Z",
+  "updated": "2026-05-16T05:43:45Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "I believe there are entire companies right now under AI psychosis",
-      "insight": "HN 热议：798 分 · 347 评论",
+      "insight": "HN 热议：1080 分 · 485 评论",
       "sentiment": "positive",
-      "comments": 347,
+      "comments": 485,
       "url": "https://twitter.com/mitchellh/status/2055380239711457578",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "The main thing about P2P meth is that there's so much of it (2022)",
-      "insight": "HN 热议：43 分 · 17 评论",
+      "title": "The main thing about P2P meth is that there's so much of it (2021)",
+      "insight": "HN 热议：90 分 · 83 评论",
       "sentiment": "neutral",
-      "comments": 17,
+      "comments": 83,
       "url": "https://dynomight.net/p2p-meth/",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "A 0-click exploit chain for the Pixel 10",
-      "insight": "HN 热议：339 分 · 157 评论",
+      "insight": "HN 热议：353 分 · 167 评论",
       "sentiment": "positive",
-      "comments": 157,
+      "comments": 167,
       "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "Show HN: Watch a neural net learn to play Snake",
-      "insight": "HN 热议：119 分 · 30 评论",
+      "insight": "HN 热议：136 分 · 33 评论",
       "sentiment": "neutral",
-      "comments": 30,
+      "comments": 33,
       "url": "https://ppo.gradexp.xyz/",
       "id": 4
     },
     {
       "source": "HackerNews",
       "title": "Amazon workers under pressure to up their AI usage are making up tasks",
-      "insight": "HN 热议：314 分 · 346 评论",
+      "insight": "HN 热议：335 分 · 377 评论",
       "sentiment": "positive",
-      "comments": 346,
+      "comments": 377,
       "url": "https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks",
       "id": 5
     }
