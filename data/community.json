@@ -1,49 +1,49 @@
 {
-  "updated": "2026-05-16T07:45:32Z",
+  "updated": "2026-05-16T10:06:19Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "I believe there are entire companies right now under AI psychosis",
-      "insight": "HN 热议：1239 分 · 579 评论",
-      "sentiment": "positive",
-      "comments": 579,
-      "url": "https://twitter.com/mitchellh/status/2055380239711457578",
+      "title": "Frontier AI has broken the open CTF format",
+      "insight": "HN 热议：133 分 · 110 评论",
+      "sentiment": "neutral",
+      "comments": 110,
+      "url": "https://kabir.au/blog/the-ctf-scene-is-dead",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "The main thing about P2P meth is that there's so much of it (2021)",
-      "insight": "HN 热议：109 分 · 107 评论",
-      "sentiment": "neutral",
-      "comments": 107,
-      "url": "https://dynomight.net/p2p-meth/",
+      "title": "I believe there are entire companies right now under AI psychosis",
+      "insight": "HN 热议：1365 分 · 673 评论",
+      "sentiment": "positive",
+      "comments": 673,
+      "url": "https://twitter.com/mitchellh/status/2055380239711457578",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "A 0-click exploit chain for the Pixel 10",
-      "insight": "HN 热议：366 分 · 179 评论",
-      "sentiment": "positive",
-      "comments": 179,
-      "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
+      "title": "Gaining control of every projector and camera on campus",
+      "insight": "HN 热议：28 分 · 4 评论",
+      "sentiment": "neutral",
+      "comments": 4,
+      "url": "https://www.edna.land/blogs/posts/scanning/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Gaining control of every projector and camera on campus",
-      "insight": "HN 热议：12 分 · 1 评论",
+      "title": "The main thing about P2P meth is that there's so much of it (2021)",
+      "insight": "HN 热议：122 分 · 145 评论",
       "sentiment": "neutral",
-      "comments": 1,
-      "url": "https://www.edna.land/blogs/posts/scanning/",
+      "comments": 145,
+      "url": "https://dynomight.net/p2p-meth/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Watch a neural net learn to play Snake",
-      "insight": "HN 热议：146 分 · 36 评论",
-      "sentiment": "neutral",
-      "comments": 36,
-      "url": "https://ppo.gradexp.xyz/",
+      "title": "A 0-click exploit chain for the Pixel 10",
+      "insight": "HN 热议：376 分 · 205 评论",
+      "sentiment": "positive",
+      "comments": 205,
+      "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
       "id": 5
     }
   ]
