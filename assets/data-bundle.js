@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-16T05:43:45Z",
+    "updated": "2026-05-16T07:45:32Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-16T05:43:45Z",
+    "updated": "2026-05-16T07:45:32Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-16T05:43:45Z",
+    "updated": "2026-05-16T07:45:32Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184341,
-            "stars_today": 184341,
+            "stars": 184342,
+            "stars_today": 184342,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 162311,
-            "stars_today": 162311,
+            "stars": 162318,
+            "stars_today": 162318,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 94879,
-            "stars_today": 94879,
+            "stars": 94885,
+            "stars_today": 94885,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93048,
-            "stars_today": 93048,
+            "stars": 93049,
+            "stars_today": 93049,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 76033,
-            "stars_today": 76033,
+            "stars": 76055,
+            "stars_today": 76055,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 73695,
-            "stars_today": 73695,
+            "stars": 73700,
+            "stars_today": 73700,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-16T05:43:45Z",
+    "updated": "2026-05-16T07:45:32Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-16T05:43:45Z",
+    "updated": "2026-05-16T07:45:32Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-16T05:43:45Z",
+    "updated": "2026-05-16T07:45:32Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "I believe there are entire companies right now under AI psychosis",
-            "insight": "HN 热议：1080 分 · 485 评论",
+            "insight": "HN 热议：1239 分 · 579 评论",
             "sentiment": "positive",
-            "comments": 485,
+            "comments": 579,
             "url": "https://twitter.com/mitchellh/status/2055380239711457578",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "The main thing about P2P meth is that there's so much of it (2021)",
-            "insight": "HN 热议：90 分 · 83 评论",
+            "insight": "HN 热议：109 分 · 107 评论",
             "sentiment": "neutral",
-            "comments": 83,
+            "comments": 107,
             "url": "https://dynomight.net/p2p-meth/",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "A 0-click exploit chain for the Pixel 10",
-            "insight": "HN 热议：353 分 · 167 评论",
+            "insight": "HN 热议：366 分 · 179 评论",
             "sentiment": "positive",
-            "comments": 167,
+            "comments": 179,
             "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Watch a neural net learn to play Snake",
-            "insight": "HN 热议：136 分 · 33 评论",
+            "title": "Gaining control of every projector and camera on campus",
+            "insight": "HN 热议：12 分 · 1 评论",
             "sentiment": "neutral",
-            "comments": 33,
-            "url": "https://ppo.gradexp.xyz/",
+            "comments": 1,
+            "url": "https://www.edna.land/blogs/posts/scanning/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Amazon workers under pressure to up their AI usage are making up tasks",
-            "insight": "HN 热议：335 分 · 377 评论",
-            "sentiment": "positive",
-            "comments": 377,
-            "url": "https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks",
+            "title": "Show HN: Watch a neural net learn to play Snake",
+            "insight": "HN 热议：146 分 · 36 评论",
+            "sentiment": "neutral",
+            "comments": 36,
+            "url": "https://ppo.gradexp.xyz/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-16T05:43:45Z",
+    "updated": "2026-05-16T07:45:32Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
