@@ -1,49 +1,49 @@
 {
-  "updated": "2026-05-16T15:45:13Z",
+  "updated": "2026-05-16T18:45:08Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Moving away from Tailwind, and learning to structure my CSS",
-      "insight": "HN 热议：145 分 · 73 评论",
-      "sentiment": "neutral",
-      "comments": 73,
+      "insight": "HN 热议：270 分 · 174 评论",
+      "sentiment": "positive",
+      "comments": 174,
       "url": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "My Favorite Bugs: Invalid Surrogate Pairs",
-      "insight": "HN 热议：32 分 · 10 评论",
+      "title": "DeepSeek-V4-Flash means LLM steering is interesting again",
+      "insight": "HN 热议：126 分 · 46 评论",
       "sentiment": "neutral",
-      "comments": 10,
-      "url": "https://george.mand.is/2026/05/my-favorite-bugs-invalid-surrogate-pairs/",
+      "comments": 46,
+      "url": "https://www.seangoedecke.com/steering-vectors/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "DeepSeek-V4-Flash means LLM steering is interesting again",
-      "insight": "HN 热议：22 分 · 0 评论",
+      "title": "My Favorite Bugs: Invalid Surrogate Pairs",
+      "insight": "HN 热议：64 分 · 35 评论",
       "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://www.seangoedecke.com/steering-vectors/",
+      "comments": 35,
+      "url": "https://george.mand.is/2026/05/my-favorite-bugs-invalid-surrogate-pairs/",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "I believe there are entire companies right now under AI psychosis",
-      "insight": "HN 热议：1602 分 · 826 评论",
+      "insight": "HN 热议：1726 分 · 934 评论",
       "sentiment": "positive",
-      "comments": 826,
+      "comments": 934,
       "url": "https://twitter.com/mitchellh/status/2055380239711457578",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Gaining control of every projector and camera on campus",
-      "insight": "HN 热议：77 分 · 23 评论",
+      "title": "US Is Starting to See Heavy Job Losses in Roles Exposed to AI",
+      "insight": "HN 热议：13 分 · 1 评论",
       "sentiment": "neutral",
-      "comments": 23,
-      "url": "https://www.edna.land/blogs/posts/scanning/",
+      "comments": 1,
+      "url": "https://www.bloomberg.com/news/articles/2026-05-15/us-is-starting-to-see-heavy-job-losses-in-roles-exposed-to-ai",
       "id": 5
     }
   ]
