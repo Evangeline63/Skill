@@ -1,49 +1,49 @@
 {
-  "updated": "2026-05-16T18:45:08Z",
+  "updated": "2026-05-16T21:37:50Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Moving away from Tailwind, and learning to structure my CSS",
-      "insight": "HN 热议：270 分 · 174 评论",
+      "insight": "HN 热议：346 分 · 227 评论",
       "sentiment": "positive",
-      "comments": 174,
+      "comments": 227,
       "url": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "DeepSeek-V4-Flash means LLM steering is interesting again",
-      "insight": "HN 热议：126 分 · 46 评论",
-      "sentiment": "neutral",
-      "comments": 46,
-      "url": "https://www.seangoedecke.com/steering-vectors/",
+      "title": "Frontier AI has broken the open CTF format",
+      "insight": "HN 热议：308 分 · 275 评论",
+      "sentiment": "positive",
+      "comments": 275,
+      "url": "https://kabir.au/blog/the-ctf-scene-is-dead",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "My Favorite Bugs: Invalid Surrogate Pairs",
-      "insight": "HN 热议：64 分 · 35 评论",
+      "title": "DeepSeek-V4-Flash means LLM steering is interesting again",
+      "insight": "HN 热议：171 分 · 62 评论",
       "sentiment": "neutral",
-      "comments": 35,
-      "url": "https://george.mand.is/2026/05/my-favorite-bugs-invalid-surrogate-pairs/",
+      "comments": 62,
+      "url": "https://www.seangoedecke.com/steering-vectors/",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "I believe there are entire companies right now under AI psychosis",
-      "insight": "HN 热议：1726 分 · 934 评论",
+      "insight": "HN 热议：1796 分 · 1004 评论",
       "sentiment": "positive",
-      "comments": 934,
+      "comments": 1004,
       "url": "https://twitter.com/mitchellh/status/2055380239711457578",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "US Is Starting to See Heavy Job Losses in Roles Exposed to AI",
-      "insight": "HN 热议：13 分 · 1 评论",
+      "title": "My Favorite Bugs: Invalid Surrogate Pairs",
+      "insight": "HN 热议：81 分 · 41 评论",
       "sentiment": "neutral",
-      "comments": 1,
-      "url": "https://www.bloomberg.com/news/articles/2026-05-15/us-is-starting-to-see-heavy-job-losses-in-roles-exposed-to-ai",
+      "comments": 41,
+      "url": "https://george.mand.is/2026/05/my-favorite-bugs-invalid-surrogate-pairs/",
       "id": 5
     }
   ]
