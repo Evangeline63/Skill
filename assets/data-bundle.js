@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-16T10:06:19Z",
+    "updated": "2026-05-16T12:53:01Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-16T10:06:19Z",
+    "updated": "2026-05-16T12:53:01Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-16T10:06:19Z",
+    "updated": "2026-05-16T12:53:01Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184344,
-            "stars_today": 184344,
+            "stars": 184345,
+            "stars_today": 184345,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 162325,
-            "stars_today": 162325,
+            "stars": 162333,
+            "stars_today": 162333,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 94893,
-            "stars_today": 94893,
+            "stars": 94905,
+            "stars_today": 94905,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93051,
-            "stars_today": 93051,
+            "stars": 93054,
+            "stars_today": 93054,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 76070,
-            "stars_today": 76070,
+            "stars": 76092,
+            "stars_today": 76092,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 73709,
-            "stars_today": 73709,
+            "stars": 73718,
+            "stars_today": 73718,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-16T10:06:19Z",
+    "updated": "2026-05-16T12:53:01Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-16T10:06:19Z",
+    "updated": "2026-05-16T12:53:01Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-16T10:06:19Z",
+    "updated": "2026-05-16T12:53:01Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Frontier AI has broken the open CTF format",
-            "insight": "HN 热议：133 分 · 110 评论",
+            "insight": "HN 热议：197 分 · 164 评论",
             "sentiment": "neutral",
-            "comments": 110,
+            "comments": 164,
             "url": "https://kabir.au/blog/the-ctf-scene-is-dead",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "I believe there are entire companies right now under AI psychosis",
-            "insight": "HN 热议：1365 分 · 673 评论",
+            "insight": "HN 热议：1490 分 · 762 评论",
             "sentiment": "positive",
-            "comments": 673,
+            "comments": 762,
             "url": "https://twitter.com/mitchellh/status/2055380239711457578",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "Gaining control of every projector and camera on campus",
-            "insight": "HN 热议：28 分 · 4 评论",
+            "insight": "HN 热议：48 分 · 13 评论",
             "sentiment": "neutral",
-            "comments": 4,
+            "comments": 13,
             "url": "https://www.edna.land/blogs/posts/scanning/",
             "id": 3
         },
         {
             "source": "HackerNews",
             "title": "The main thing about P2P meth is that there's so much of it (2021)",
-            "insight": "HN 热议：122 分 · 145 评论",
+            "insight": "HN 热议：145 分 · 165 评论",
             "sentiment": "neutral",
-            "comments": 145,
+            "comments": 165,
             "url": "https://dynomight.net/p2p-meth/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "A 0-click exploit chain for the Pixel 10",
-            "insight": "HN 热议：376 分 · 205 评论",
-            "sentiment": "positive",
-            "comments": 205,
-            "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
+            "title": "OpenClaw Creator Spent $1.3M on OpenAI Tokens in 30 Days",
+            "insight": "HN 热议：36 分 · 40 评论",
+            "sentiment": "neutral",
+            "comments": 40,
+            "url": "https://twitter.com/steipete/status/2055346265869721905",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-16T10:06:19Z",
+    "updated": "2026-05-16T12:53:01Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
