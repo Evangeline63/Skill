@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-16T21:37:50Z",
+    "updated": "2026-05-17T01:50:50Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-16T21:37:50Z",
+    "updated": "2026-05-17T01:50:50Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-16T21:37:50Z",
+    "updated": "2026-05-17T01:50:50Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184354,
-            "stars_today": 184354,
+            "stars": 184355,
+            "stars_today": 184355,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 162361,
-            "stars_today": 162361,
+            "stars": 162369,
+            "stars_today": 162369,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 94934,
-            "stars_today": 94934,
+            "stars": 94940,
+            "stars_today": 94940,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93055,
-            "stars_today": 93055,
+            "stars": 93059,
+            "stars_today": 93059,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 76160,
-            "stars_today": 76160,
+            "stars": 76179,
+            "stars_today": 76179,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 73757,
-            "stars_today": 73757,
+            "stars": 73770,
+            "stars_today": 73770,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-16T21:37:50Z",
+    "updated": "2026-05-17T01:50:50Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-16T21:37:50Z",
+    "updated": "2026-05-17T01:50:50Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-16T21:37:50Z",
+    "updated": "2026-05-17T01:50:50Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Moving away from Tailwind, and learning to structure my CSS",
-            "insight": "HN 热议：346 分 · 227 评论",
-            "sentiment": "positive",
-            "comments": 227,
-            "url": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
+            "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
+            "insight": "HN 热议：157 分 · 45 评论",
+            "sentiment": "neutral",
+            "comments": 45,
+            "url": "https://crates.io/crates/zerostack/1.0.0",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Frontier AI has broken the open CTF format",
-            "insight": "HN 热议：308 分 · 275 评论",
+            "title": "Moving away from Tailwind, and learning to structure my CSS",
+            "insight": "HN 热议：435 分 · 280 评论",
             "sentiment": "positive",
-            "comments": 275,
-            "url": "https://kabir.au/blog/the-ctf-scene-is-dead",
+            "comments": 280,
+            "url": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "DeepSeek-V4-Flash means LLM steering is interesting again",
-            "insight": "HN 热议：171 分 · 62 评论",
+            "title": "OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
+            "insight": "HN 热议：60 分 · 68 评论",
             "sentiment": "neutral",
-            "comments": 62,
-            "url": "https://www.seangoedecke.com/steering-vectors/",
+            "comments": 68,
+            "url": "https://openai.com/index/malta-chatgpt-plus-partnership/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "I believe there are entire companies right now under AI psychosis",
-            "insight": "HN 热议：1796 分 · 1004 评论",
+            "title": "Frontier AI has broken the open CTF format",
+            "insight": "HN 热议：339 分 · 330 评论",
             "sentiment": "positive",
-            "comments": 1004,
-            "url": "https://twitter.com/mitchellh/status/2055380239711457578",
+            "comments": 330,
+            "url": "https://kabir.au/blog/the-ctf-scene-is-dead",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "My Favorite Bugs: Invalid Surrogate Pairs",
-            "insight": "HN 热议：81 分 · 41 评论",
-            "sentiment": "neutral",
-            "comments": 41,
-            "url": "https://george.mand.is/2026/05/my-favorite-bugs-invalid-surrogate-pairs/",
+            "title": "I believe there are entire companies right now under AI psychosis",
+            "insight": "HN 热议：1884 分 · 1065 评论",
+            "sentiment": "positive",
+            "comments": 1065,
+            "url": "https://twitter.com/mitchellh/status/2055380239711457578",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-16T21:37:50Z",
+    "updated": "2026-05-17T01:50:50Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
