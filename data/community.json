@@ -1,49 +1,49 @@
 {
-  "updated": "2026-05-17T12:50:29Z",
+  "updated": "2026-05-17T15:47:54Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "I don't think AI will make your processes go faster",
-      "insight": "HN 热议：23 分 · 6 评论",
-      "sentiment": "neutral",
-      "comments": 6,
+      "insight": "HN 热议：219 分 · 147 评论",
+      "sentiment": "positive",
+      "comments": 147,
       "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "Every AI Subscription Is a Ticking Time Bomb for Enterprise",
-      "insight": "HN 热议：8 分 · 2 评论",
+      "insight": "HN 热议：165 分 · 118 评论",
       "sentiment": "neutral",
-      "comments": 2,
+      "comments": 118,
       "url": "https://www.thestateofbrand.com/news/ai-subscription-time-bomb",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
-      "insight": "HN 热议：451 分 · 224 评论",
-      "sentiment": "positive",
-      "comments": 224,
-      "url": "https://crates.io/crates/zerostack/1.0.0",
+      "title": "Prolog Basics Explained with Pokémon",
+      "insight": "HN 热议：109 分 · 16 评论",
+      "sentiment": "neutral",
+      "comments": 16,
+      "url": "https://unplannedobsolescence.com/blog/prolog-basics-pokemon/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Prolog Basics Explained with Pokémon",
-      "insight": "HN 热议：44 分 · 5 评论",
+      "title": "AI is a technology not a product",
+      "insight": "HN 热议：84 分 · 22 评论",
       "sentiment": "neutral",
-      "comments": 5,
-      "url": "https://unplannedobsolescence.com/blog/prolog-basics-pokemon/",
+      "comments": 22,
+      "url": "https://daringfireball.net/2026/05/ai_is_technology_not_a_product",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Moving away from Tailwind, and learning to structure my CSS",
-      "insight": "HN 热议：584 分 · 328 评论",
-      "sentiment": "positive",
-      "comments": 328,
-      "url": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
+      "title": "Scientists believe ibogaine can help veterans overcome PTSD",
+      "insight": "HN 热议：25 分 · 16 评论",
+      "sentiment": "neutral",
+      "comments": 16,
+      "url": "https://www.bbc.com/future/article/20260514-how-hallucinogenic-ibogaine-helps-veterans-overcome-ptsd",
       "id": 5
     }
   ]
