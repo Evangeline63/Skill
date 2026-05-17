@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-17T10:15:54Z",
+    "updated": "2026-05-17T12:50:29Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-17T10:15:54Z",
+    "updated": "2026-05-17T12:50:29Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-17T10:15:54Z",
+    "updated": "2026-05-17T12:50:29Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184366,
-            "stars_today": 184366,
+            "stars": 184370,
+            "stars_today": 184370,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 162391,
-            "stars_today": 162391,
+            "stars": 162394,
+            "stars_today": 162394,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 94961,
-            "stars_today": 94961,
+            "stars": 94972,
+            "stars_today": 94972,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93065,
-            "stars_today": 93065,
+            "stars": 93072,
+            "stars_today": 93072,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 76268,
-            "stars_today": 76268,
+            "stars": 76298,
+            "stars_today": 76298,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 73815,
-            "stars_today": 73815,
+            "stars": 73839,
+            "stars_today": 73839,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-17T10:15:54Z",
+    "updated": "2026-05-17T12:50:29Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-17T10:15:54Z",
+    "updated": "2026-05-17T12:50:29Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-17T10:15:54Z",
+    "updated": "2026-05-17T12:50:29Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
-            "insight": "HN 热议：400 分 · 166 评论",
-            "sentiment": "positive",
-            "comments": 166,
-            "url": "https://crates.io/crates/zerostack/1.0.0",
+            "title": "I don't think AI will make your processes go faster",
+            "insight": "HN 热议：23 分 · 6 评论",
+            "sentiment": "neutral",
+            "comments": 6,
+            "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Moving away from Tailwind, and learning to structure my CSS",
-            "insight": "HN 热议：545 分 · 318 评论",
-            "sentiment": "positive",
-            "comments": 318,
-            "url": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
+            "title": "Every AI Subscription Is a Ticking Time Bomb for Enterprise",
+            "insight": "HN 热议：8 分 · 2 评论",
+            "sentiment": "neutral",
+            "comments": 2,
+            "url": "https://www.thestateofbrand.com/news/ai-subscription-time-bomb",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
-            "insight": "HN 热议：191 分 · 220 评论",
-            "sentiment": "neutral",
-            "comments": 220,
-            "url": "https://openai.com/index/malta-chatgpt-plus-partnership/",
+            "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
+            "insight": "HN 热议：451 分 · 224 评论",
+            "sentiment": "positive",
+            "comments": 224,
+            "url": "https://crates.io/crates/zerostack/1.0.0",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Frontier AI has broken the open CTF format",
-            "insight": "HN 热议：378 分 · 383 评论",
-            "sentiment": "positive",
-            "comments": 383,
-            "url": "https://kabir.au/blog/the-ctf-scene-is-dead",
+            "title": "Prolog Basics Explained with Pokémon",
+            "insight": "HN 热议：44 分 · 5 评论",
+            "sentiment": "neutral",
+            "comments": 5,
+            "url": "https://unplannedobsolescence.com/blog/prolog-basics-pokemon/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "I believe there are entire companies right now under AI psychosis",
-            "insight": "HN 热议：1976 分 · 1154 评论",
+            "title": "Moving away from Tailwind, and learning to structure my CSS",
+            "insight": "HN 热议：584 分 · 328 评论",
             "sentiment": "positive",
-            "comments": 1154,
-            "url": "https://twitter.com/mitchellh/status/2055380239711457578",
+            "comments": 328,
+            "url": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-17T10:15:54Z",
+    "updated": "2026-05-17T12:50:29Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
