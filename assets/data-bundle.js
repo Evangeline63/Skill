@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-17T18:49:44Z",
+    "updated": "2026-05-17T21:42:56Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-17T18:49:44Z",
+    "updated": "2026-05-17T21:42:56Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-17T18:49:44Z",
+    "updated": "2026-05-17T21:42:56Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184373,
-            "stars_today": 184373,
+            "stars": 184377,
+            "stars_today": 184377,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 162417,
-            "stars_today": 162417,
+            "stars": 162418,
+            "stars_today": 162418,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 94989,
-            "stars_today": 94989,
+            "stars": 95005,
+            "stars_today": 95005,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93080,
-            "stars_today": 93080,
+            "stars": 93083,
+            "stars_today": 93083,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 76359,
-            "stars_today": 76359,
+            "stars": 76374,
+            "stars_today": 76374,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 73870,
-            "stars_today": 73870,
+            "stars": 73879,
+            "stars_today": 73879,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-17T18:49:44Z",
+    "updated": "2026-05-17T21:42:56Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-17T18:49:44Z",
+    "updated": "2026-05-17T21:42:56Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-17T18:49:44Z",
+    "updated": "2026-05-17T21:42:56Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "I don't think AI will make your processes go faster",
-            "insight": "HN 热议：355 分 · 274 评论",
-            "sentiment": "positive",
-            "comments": 274,
-            "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
+            "title": "Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep",
+            "insight": "HN 热议：60 分 · 18 评论",
+            "sentiment": "neutral",
+            "comments": 18,
+            "url": "https://github.com/MinishLab/semble",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Meta deletes popular 1M follower account after Kuwaiti request",
-            "insight": "HN 热议：69 分 · 30 评论",
-            "sentiment": "neutral",
-            "comments": 30,
-            "url": "https://twitter.com/ryangrim/status/2055992439031185782",
+            "title": "I don't think AI will make your processes go faster",
+            "insight": "HN 热议：436 分 · 311 评论",
+            "sentiment": "positive",
+            "comments": 311,
+            "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Every AI Subscription Is a Ticking Time Bomb for Enterprise",
-            "insight": "HN 热议：300 分 · 292 评论",
+            "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
+            "insight": "HN 热议：527 分 · 290 评论",
             "sentiment": "positive",
-            "comments": 292,
-            "url": "https://www.thestateofbrand.com/news/ai-subscription-time-bomb",
+            "comments": 290,
+            "url": "https://crates.io/crates/zerostack/1.0.0",
             "id": 3
         },
         {
             "source": "HackerNews",
             "title": "Prolog Basics Explained with Pokémon",
-            "insight": "HN 热议：153 分 · 28 评论",
+            "insight": "HN 热议：177 分 · 30 评论",
             "sentiment": "neutral",
-            "comments": 28,
+            "comments": 30,
             "url": "https://unplannedobsolescence.com/blog/prolog-basics-pokemon/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "The AI water issue is fake",
-            "insight": "HN 热议：44 分 · 22 评论",
+            "title": "Trials on veterans suggest ibogaine could provide a new treatment for PTSD",
+            "insight": "HN 热议：62 分 · 59 评论",
             "sentiment": "neutral",
-            "comments": 22,
-            "url": "https://blog.andymasley.com/p/the-ai-water-issue-is-fake",
+            "comments": 59,
+            "url": "https://www.bbc.com/future/article/20260514-how-hallucinogenic-ibogaine-helps-veterans-overcome-ptsd",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-17T18:49:44Z",
+    "updated": "2026-05-17T21:42:56Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

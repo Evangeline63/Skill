@@ -1,49 +1,49 @@
 {
-  "updated": "2026-05-17T18:49:44Z",
+  "updated": "2026-05-17T21:42:56Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "I don't think AI will make your processes go faster",
-      "insight": "HN 热议：355 分 · 274 评论",
-      "sentiment": "positive",
-      "comments": 274,
-      "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
+      "title": "Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep",
+      "insight": "HN 热议：60 分 · 18 评论",
+      "sentiment": "neutral",
+      "comments": 18,
+      "url": "https://github.com/MinishLab/semble",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Meta deletes popular 1M follower account after Kuwaiti request",
-      "insight": "HN 热议：69 分 · 30 评论",
-      "sentiment": "neutral",
-      "comments": 30,
-      "url": "https://twitter.com/ryangrim/status/2055992439031185782",
+      "title": "I don't think AI will make your processes go faster",
+      "insight": "HN 热议：436 分 · 311 评论",
+      "sentiment": "positive",
+      "comments": 311,
+      "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Every AI Subscription Is a Ticking Time Bomb for Enterprise",
-      "insight": "HN 热议：300 分 · 292 评论",
+      "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
+      "insight": "HN 热议：527 分 · 290 评论",
       "sentiment": "positive",
-      "comments": 292,
-      "url": "https://www.thestateofbrand.com/news/ai-subscription-time-bomb",
+      "comments": 290,
+      "url": "https://crates.io/crates/zerostack/1.0.0",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "Prolog Basics Explained with Pokémon",
-      "insight": "HN 热议：153 分 · 28 评论",
+      "insight": "HN 热议：177 分 · 30 评论",
       "sentiment": "neutral",
-      "comments": 28,
+      "comments": 30,
       "url": "https://unplannedobsolescence.com/blog/prolog-basics-pokemon/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "The AI water issue is fake",
-      "insight": "HN 热议：44 分 · 22 评论",
+      "title": "Trials on veterans suggest ibogaine could provide a new treatment for PTSD",
+      "insight": "HN 热议：62 分 · 59 评论",
       "sentiment": "neutral",
-      "comments": 22,
-      "url": "https://blog.andymasley.com/p/the-ai-water-issue-is-fake",
+      "comments": 59,
+      "url": "https://www.bbc.com/future/article/20260514-how-hallucinogenic-ibogaine-helps-veterans-overcome-ptsd",
       "id": 5
     }
   ]
