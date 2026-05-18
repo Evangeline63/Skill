@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-18T17:23:42Z",
+    "updated": "2026-05-18T19:20:37Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-18T17:23:42Z",
+    "updated": "2026-05-18T19:20:37Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,7 +266,7 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-18T17:23:42Z",
+    "updated": "2026-05-18T19:20:37Z",
     "repos": [
         {
             "rank": 1,
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 162469,
-            "stars_today": 162469,
+            "stars": 162474,
+            "stars_today": 162474,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 95091,
-            "stars_today": 95091,
+            "stars": 95094,
+            "stars_today": 95094,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93112,
-            "stars_today": 93112,
+            "stars": 93114,
+            "stars_today": 93114,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 76560,
-            "stars_today": 76560,
+            "stars": 76569,
+            "stars_today": 76569,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 73978,
-            "stars_today": 73978,
+            "stars": 73983,
+            "stars_today": 73983,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-18T17:23:42Z",
+    "updated": "2026-05-18T19:20:37Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-18T17:23:42Z",
+    "updated": "2026-05-18T19:20:37Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-18T17:23:42Z",
+    "updated": "2026-05-18T19:20:37Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
-            "insight": "HN 热议：183 分 · 65 评论",
+            "title": "Anthropic acquires Stainless",
+            "insight": "HN 热议：175 分 · 115 评论",
             "sentiment": "neutral",
-            "comments": 65,
-            "url": "https://archestra.ai/blog/only-responsible-ai",
+            "comments": 115,
+            "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Anthropic Acquires Stainless",
-            "insight": "HN 热议：20 分 · 7 评论",
+            "title": "Haiku OS runs on M1 Macs now",
+            "insight": "HN 热议：57 分 · 21 评论",
             "sentiment": "neutral",
-            "comments": 7,
-            "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
+            "comments": 21,
+            "url": "https://discuss.haiku-os.org/t/my-haiku-arm64-progress/19044?page=2",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Voice AI Systems Are Vulnerable to Hidden Audio Attacks",
-            "insight": "HN 热议：53 分 · 13 评论",
-            "sentiment": "neutral",
-            "comments": 13,
-            "url": "https://spectrum.ieee.org/voice-ai-audio-attacks",
+            "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
+            "insight": "HN 热议：286 分 · 134 评论",
+            "sentiment": "positive",
+            "comments": 134,
+            "url": "https://archestra.ai/blog/only-responsible-ai",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "'We mould trees to grow into the shape of chairs'",
-            "insight": "HN 热议：144 分 · 36 评论",
-            "sentiment": "neutral",
-            "comments": 36,
-            "url": "https://www.bbc.co.uk/news/articles/cvg0yy3gp71o",
+            "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+            "insight": "HN 热议：341 分 · 163 评论",
+            "sentiment": "positive",
+            "comments": 163,
+            "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: InsForge – Open-source Heroku for coding agents",
-            "insight": "HN 热议：10 分 · 1 评论",
+            "title": "Iran will impose fees on subsea internet cables in Strait of Hormuz",
+            "insight": "HN 热议：73 分 · 30 评论",
             "sentiment": "neutral",
-            "comments": 1,
-            "url": "https://github.com/InsForge/InsForge",
+            "comments": 30,
+            "url": "https://www.cnn.com/2026/05/17/middleeast/iran-hormuz-undersea-cables-intl",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-18T17:23:42Z",
+    "updated": "2026-05-18T19:20:37Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
