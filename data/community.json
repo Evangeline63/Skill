@@ -1,49 +1,49 @@
 {
-  "updated": "2026-05-17T21:42:56Z",
+  "updated": "2026-05-18T01:59:53Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep",
-      "insight": "HN 热议：60 分 · 18 评论",
+      "title": "Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely",
+      "insight": "HN 热议：94 分 · 74 评论",
       "sentiment": "neutral",
-      "comments": 18,
-      "url": "https://github.com/MinishLab/semble",
+      "comments": 74,
+      "url": "https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "I don't think AI will make your processes go faster",
-      "insight": "HN 热议：436 分 · 311 评论",
-      "sentiment": "positive",
-      "comments": 311,
-      "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
+      "title": "Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep",
+      "insight": "HN 热议：173 分 · 41 评论",
+      "sentiment": "neutral",
+      "comments": 41,
+      "url": "https://github.com/MinishLab/semble",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
-      "insight": "HN 热议：527 分 · 290 评论",
-      "sentiment": "positive",
-      "comments": 290,
-      "url": "https://crates.io/crates/zerostack/1.0.0",
+      "title": "The History of ThinkPad: From IBM’s Bento Box to Lenovo’s AI Workstations",
+      "insight": "HN 热议：56 分 · 27 评论",
+      "sentiment": "neutral",
+      "comments": 27,
+      "url": "https://www.jdhodges.com/blog/thinkpad-history/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Prolog Basics Explained with Pokémon",
-      "insight": "HN 热议：177 分 · 30 评论",
-      "sentiment": "neutral",
-      "comments": 30,
-      "url": "https://unplannedobsolescence.com/blog/prolog-basics-pokemon/",
+      "title": "I don't think AI will make your processes go faster",
+      "insight": "HN 热议：497 分 · 351 评论",
+      "sentiment": "positive",
+      "comments": 351,
+      "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Trials on veterans suggest ibogaine could provide a new treatment for PTSD",
-      "insight": "HN 热议：62 分 · 59 评论",
-      "sentiment": "neutral",
-      "comments": 59,
-      "url": "https://www.bbc.com/future/article/20260514-how-hallucinogenic-ibogaine-helps-veterans-overcome-ptsd",
+      "title": "Prolog Basics Explained with Pokémon",
+      "insight": "HN 热议：209 分 · 33 评论",
+      "sentiment": "positive",
+      "comments": 33,
+      "url": "https://unplannedobsolescence.com/blog/prolog-basics-pokemon/",
       "id": 5
     }
   ]
