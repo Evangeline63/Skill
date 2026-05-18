@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-18T06:41:47Z",
+    "updated": "2026-05-18T12:19:05Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-18T06:41:47Z",
+    "updated": "2026-05-18T12:19:05Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-18T06:41:47Z",
+    "updated": "2026-05-18T12:19:05Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184385,
-            "stars_today": 184385,
+            "stars": 184394,
+            "stars_today": 184394,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 162440,
-            "stars_today": 162440,
+            "stars": 162457,
+            "stars_today": 162457,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 95043,
-            "stars_today": 95043,
+            "stars": 95071,
+            "stars_today": 95071,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93095,
-            "stars_today": 93095,
+            "stars": 93103,
+            "stars_today": 93103,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 76438,
-            "stars_today": 76438,
+            "stars": 76509,
+            "stars_today": 76509,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 73917,
-            "stars_today": 73917,
+            "stars": 73953,
+            "stars_today": 73953,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-18T06:41:47Z",
+    "updated": "2026-05-18T12:19:05Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-18T06:41:47Z",
+    "updated": "2026-05-18T12:19:05Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-18T06:41:47Z",
+    "updated": "2026-05-18T12:19:05Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep",
-            "insight": "HN 热议：279 分 · 95 评论",
-            "sentiment": "positive",
-            "comments": 95,
-            "url": "https://github.com/MinishLab/semble",
+            "title": "NASA still maintains some of the Voyager spacecraft code from the 70s era",
+            "insight": "HN 热议：28 分 · 20 评论",
+            "sentiment": "neutral",
+            "comments": 20,
+            "url": "https://spacedaily.com/nasa-still-maintains-some-of-the-voyager-spacecraft-code-in-a-1970s-era-programming-language-that-almost-nobody-on-earth-fully-understands-anymore-and-the-handful-of-engineers-who-do-are-now-in-their/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "WriteUp: 16 Bytes of x86 that turn Matrix rain into sound",
-            "insight": "HN 热议：88 分 · 11 评论",
+            "title": "Eric Schmidt speech about AI booed during graduation",
+            "insight": "HN 热议：30 分 · 0 评论",
             "sentiment": "neutral",
-            "comments": 11,
-            "url": "https://hellmood.111mb.de//wake_up_16b_writeup.html",
+            "comments": 0,
+            "url": "https://www.nbcnews.com/tech/tech-news/former-google-ceo-booed-graduation-speech-ai-rcna345585",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely",
-            "insight": "HN 热议：171 分 · 153 评论",
-            "sentiment": "neutral",
-            "comments": 153,
-            "url": "https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base",
+            "title": "Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep",
+            "insight": "HN 热议：360 分 · 119 评论",
+            "sentiment": "positive",
+            "comments": 119,
+            "url": "https://github.com/MinishLab/semble",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Prolog Basics Explained with Pokémon",
-            "insight": "HN 热议：241 分 · 38 评论",
-            "sentiment": "positive",
-            "comments": 38,
-            "url": "https://unplannedobsolescence.com/blog/prolog-basics-pokemon/",
+            "title": "WriteUp: 16 Bytes of x86 that turn Matrix rain into sound",
+            "insight": "HN 热议：159 分 · 31 评论",
+            "sentiment": "neutral",
+            "comments": 31,
+            "url": "https://hellmood.111mb.de//wake_up_16b_writeup.html",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "I don't think AI will make your processes go faster",
-            "insight": "HN 热议：550 分 · 381 评论",
+            "title": "Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely",
+            "insight": "HN 热议：212 分 · 209 评论",
             "sentiment": "positive",
-            "comments": 381,
-            "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
+            "comments": 209,
+            "url": "https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-18T06:41:47Z",
+    "updated": "2026-05-18T12:19:05Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
