@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-19T11:52:47Z",
+    "updated": "2026-05-19T14:29:11Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-19T11:52:47Z",
+    "updated": "2026-05-19T14:29:11Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-19T11:52:47Z",
+    "updated": "2026-05-19T14:29:11Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184424,
-            "stars_today": 184424,
+            "stars": 184428,
+            "stars_today": 184428,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 162507,
-            "stars_today": 162507,
+            "stars": 162516,
+            "stars_today": 162516,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 95147,
-            "stars_today": 95147,
+            "stars": 95164,
+            "stars_today": 95164,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93135,
-            "stars_today": 93135,
+            "stars": 93141,
+            "stars_today": 93141,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 76716,
-            "stars_today": 76716,
+            "stars": 76757,
+            "stars_today": 76757,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 74099,
-            "stars_today": 74099,
+            "stars": 74123,
+            "stars_today": 74123,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-19T11:52:47Z",
+    "updated": "2026-05-19T14:29:11Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-19T11:52:47Z",
+    "updated": "2026-05-19T14:29:11Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-19T11:52:47Z",
+    "updated": "2026-05-19T14:29:11Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Show HN: Id-agent – Token efficient UUID alternative for AI agents",
-            "insight": "HN 热议：3 分 · 4 评论",
-            "sentiment": "neutral",
-            "comments": 4,
-            "url": "https://github.com/vostride/id-agent",
+            "title": "Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised",
+            "insight": "HN 热议：210 分 · 137 评论",
+            "sentiment": "positive",
+            "comments": 137,
+            "url": "https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "The last six months in LLMs in five minutes",
-            "insight": "HN 热议：498 分 · 369 评论",
+            "title": "Anthropic acquires Stainless",
+            "insight": "HN 热议：491 分 · 350 评论",
             "sentiment": "positive",
-            "comments": 369,
-            "url": "https://simonwillison.net/2026/May/19/5-minute-llms/",
+            "comments": 350,
+            "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Anthropic acquires Stainless",
-            "insight": "HN 热议：467 分 · 330 评论",
-            "sentiment": "positive",
-            "comments": 330,
-            "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
+            "title": "Intro to TLA+ for the LLM Era: Prompt Your Way to Victory",
+            "insight": "HN 热议：4 分 · 0 评论",
+            "sentiment": "neutral",
+            "comments": 0,
+            "url": "https://emptysqua.re/blog/intro-to-tla-plus-for-the-llm-era/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised",
-            "insight": "HN 热议：128 分 · 66 评论",
+            "title": "Energy return in running shoes explained (2025)",
+            "insight": "HN 热议：39 分 · 39 评论",
             "sentiment": "neutral",
-            "comments": 66,
-            "url": "https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/",
+            "comments": 39,
+            "url": "https://runrepeat.com/guides/energy-return-in-running-shoes",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "We let AIs run radio stations",
-            "insight": "HN 热议：280 分 · 219 评论",
+            "title": "The last six months in LLMs in five minutes",
+            "insight": "HN 热议：570 分 · 468 评论",
             "sentiment": "positive",
-            "comments": 219,
-            "url": "https://andonlabs.com/blog/andon-fm",
+            "comments": 468,
+            "url": "https://simonwillison.net/2026/May/19/5-minute-llms/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-19T11:52:47Z",
+    "updated": "2026-05-19T14:29:11Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
