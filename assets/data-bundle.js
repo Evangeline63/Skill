@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-18T21:57:06Z",
+    "updated": "2026-05-19T02:00:01Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-18T21:57:06Z",
+    "updated": "2026-05-19T02:00:01Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-18T21:57:06Z",
+    "updated": "2026-05-19T02:00:01Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184401,
-            "stars_today": 184401,
+            "stars": 184403,
+            "stars_today": 184403,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 162480,
-            "stars_today": 162480,
+            "stars": 162484,
+            "stars_today": 162484,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 95102,
-            "stars_today": 95102,
+            "stars": 95114,
+            "stars_today": 95114,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93115,
-            "stars_today": 93115,
+            "stars": 93118,
+            "stars_today": 93118,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 76579,
-            "stars_today": 76579,
+            "stars": 76612,
+            "stars_today": 76612,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 73993,
-            "stars_today": 73993,
+            "stars": 74011,
+            "stars_today": 74011,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-18T21:57:06Z",
+    "updated": "2026-05-19T02:00:01Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-18T21:57:06Z",
+    "updated": "2026-05-19T02:00:01Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-18T21:57:06Z",
+    "updated": "2026-05-19T02:00:01Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Anthropic acquires Stainless",
-            "insight": "HN 热议：275 分 · 198 评论",
-            "sentiment": "positive",
-            "comments": 198,
-            "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
+            "title": "Anthropic co-founder to present AI encyclical alongside Pope Leo XIV",
+            "insight": "HN 热议：97 分 · 62 评论",
+            "sentiment": "neutral",
+            "comments": 62,
+            "url": "https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
-            "insight": "HN 热议：348 分 · 171 评论",
+            "title": "Anthropic acquires Stainless",
+            "insight": "HN 热议：360 分 · 254 评论",
             "sentiment": "positive",
-            "comments": 171,
-            "url": "https://archestra.ai/blog/only-responsible-ai",
+            "comments": 254,
+            "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "We let AIs run radio stations",
-            "insight": "HN 热议：78 分 · 92 评论",
-            "sentiment": "neutral",
-            "comments": 92,
-            "url": "https://andonlabs.com/blog/andon-fm",
+            "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
+            "insight": "HN 热议：411 分 · 189 评论",
+            "sentiment": "positive",
+            "comments": 189,
+            "url": "https://archestra.ai/blog/only-responsible-ai",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
-            "insight": "HN 热议：605 分 · 307 评论",
-            "sentiment": "positive",
-            "comments": 307,
-            "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+            "title": "We let AIs run radio stations",
+            "insight": "HN 热议：166 分 · 161 评论",
+            "sentiment": "neutral",
+            "comments": 161,
+            "url": "https://andonlabs.com/blog/andon-fm",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Agora-1: The Multi-Agent World Model",
-            "insight": "HN 热议：51 分 · 11 评论",
-            "sentiment": "neutral",
-            "comments": 11,
-            "url": "https://odyssey.ml/introducing-agora-1",
+            "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+            "insight": "HN 热议：782 分 · 413 评论",
+            "sentiment": "positive",
+            "comments": 413,
+            "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-18T21:57:06Z",
+    "updated": "2026-05-19T02:00:01Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

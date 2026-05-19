@@ -1,49 +1,49 @@
 {
-  "updated": "2026-05-18T21:57:06Z",
+  "updated": "2026-05-19T02:00:01Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Anthropic acquires Stainless",
-      "insight": "HN 热议：275 分 · 198 评论",
-      "sentiment": "positive",
-      "comments": 198,
-      "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
+      "title": "Anthropic co-founder to present AI encyclical alongside Pope Leo XIV",
+      "insight": "HN 热议：97 分 · 62 评论",
+      "sentiment": "neutral",
+      "comments": 62,
+      "url": "https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
-      "insight": "HN 热议：348 分 · 171 评论",
+      "title": "Anthropic acquires Stainless",
+      "insight": "HN 热议：360 分 · 254 评论",
       "sentiment": "positive",
-      "comments": 171,
-      "url": "https://archestra.ai/blog/only-responsible-ai",
+      "comments": 254,
+      "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "We let AIs run radio stations",
-      "insight": "HN 热议：78 分 · 92 评论",
-      "sentiment": "neutral",
-      "comments": 92,
-      "url": "https://andonlabs.com/blog/andon-fm",
+      "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
+      "insight": "HN 热议：411 分 · 189 评论",
+      "sentiment": "positive",
+      "comments": 189,
+      "url": "https://archestra.ai/blog/only-responsible-ai",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
-      "insight": "HN 热议：605 分 · 307 评论",
-      "sentiment": "positive",
-      "comments": 307,
-      "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+      "title": "We let AIs run radio stations",
+      "insight": "HN 热议：166 分 · 161 评论",
+      "sentiment": "neutral",
+      "comments": 161,
+      "url": "https://andonlabs.com/blog/andon-fm",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Agora-1: The Multi-Agent World Model",
-      "insight": "HN 热议：51 分 · 11 评论",
-      "sentiment": "neutral",
-      "comments": 11,
-      "url": "https://odyssey.ml/introducing-agora-1",
+      "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+      "insight": "HN 热议：782 分 · 413 评论",
+      "sentiment": "positive",
+      "comments": 413,
+      "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
       "id": 5
     }
   ]
