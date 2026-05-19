@@ -1,49 +1,49 @@
 {
-  "updated": "2026-05-19T14:29:11Z",
+  "updated": "2026-05-19T17:32:35Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised",
-      "insight": "HN 热议：210 分 · 137 评论",
+      "title": "I’ve joined Anthropic",
+      "insight": "HN 热议：616 分 · 244 评论",
       "sentiment": "positive",
-      "comments": 137,
-      "url": "https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/",
+      "comments": 244,
+      "url": "https://twitter.com/karpathy/status/2056753169888334312",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Anthropic acquires Stainless",
-      "insight": "HN 热议：491 分 · 350 评论",
-      "sentiment": "positive",
-      "comments": 350,
-      "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
+      "title": "Gentoo News: Copy Fail, Dirty Frag, and Fragnesia Kernel Vulnerabilities",
+      "insight": "HN 热议：45 分 · 6 评论",
+      "sentiment": "neutral",
+      "comments": 6,
+      "url": "https://www.gentoo.org/news/2026/05/19/copy-fail-fragnesia-vulnerabilities.html",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "Intro to TLA+ for the LLM Era: Prompt Your Way to Victory",
-      "insight": "HN 热议：4 分 · 0 评论",
+      "insight": "HN 热议：49 分 · 11 评论",
       "sentiment": "neutral",
-      "comments": 0,
+      "comments": 11,
       "url": "https://emptysqua.re/blog/intro-to-tla-plus-for-the-llm-era/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Energy return in running shoes explained (2025)",
-      "insight": "HN 热议：39 分 · 39 评论",
-      "sentiment": "neutral",
-      "comments": 39,
-      "url": "https://runrepeat.com/guides/energy-return-in-running-shoes",
+      "title": "The last six months in LLMs in five minutes",
+      "insight": "HN 热议：634 分 · 508 评论",
+      "sentiment": "positive",
+      "comments": 508,
+      "url": "https://simonwillison.net/2026/May/19/5-minute-llms/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "The last six months in LLMs in five minutes",
-      "insight": "HN 热议：570 分 · 468 评论",
+      "title": "Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised",
+      "insight": "HN 热议：297 分 · 212 评论",
       "sentiment": "positive",
-      "comments": 468,
-      "url": "https://simonwillison.net/2026/May/19/5-minute-llms/",
+      "comments": 212,
+      "url": "https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/",
       "id": 5
     }
   ]
