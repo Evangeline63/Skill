@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-19T06:37:28Z",
+    "updated": "2026-05-19T11:52:47Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-19T06:37:28Z",
+    "updated": "2026-05-19T11:52:47Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-19T06:37:28Z",
+    "updated": "2026-05-19T11:52:47Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184409,
-            "stars_today": 184409,
+            "stars": 184424,
+            "stars_today": 184424,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 162492,
-            "stars_today": 162492,
+            "stars": 162507,
+            "stars_today": 162507,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 95126,
-            "stars_today": 95126,
+            "stars": 95147,
+            "stars_today": 95147,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93129,
-            "stars_today": 93129,
+            "stars": 93135,
+            "stars_today": 93135,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 76651,
-            "stars_today": 76651,
+            "stars": 76716,
+            "stars_today": 76716,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 74057,
-            "stars_today": 74057,
+            "stars": 74099,
+            "stars_today": 74099,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-19T06:37:28Z",
+    "updated": "2026-05-19T11:52:47Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-19T06:37:28Z",
+    "updated": "2026-05-19T11:52:47Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-19T06:37:28Z",
+    "updated": "2026-05-19T11:52:47Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "The last six months in LLMs in five minutes",
-            "insight": "HN 热议：239 分 · 122 评论",
-            "sentiment": "positive",
-            "comments": 122,
-            "url": "https://simonwillison.net/2026/May/19/5-minute-llms/",
+            "title": "Show HN: Id-agent – Token efficient UUID alternative for AI agents",
+            "insight": "HN 热议：3 分 · 4 评论",
+            "sentiment": "neutral",
+            "comments": 4,
+            "url": "https://github.com/vostride/id-agent",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Anthropic acquires Stainless",
-            "insight": "HN 热议：416 分 · 287 评论",
+            "title": "The last six months in LLMs in five minutes",
+            "insight": "HN 热议：498 分 · 369 评论",
             "sentiment": "positive",
-            "comments": 287,
-            "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
+            "comments": 369,
+            "url": "https://simonwillison.net/2026/May/19/5-minute-llms/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
-            "insight": "HN 热议：454 分 · 209 评论",
+            "title": "Anthropic acquires Stainless",
+            "insight": "HN 热议：467 分 · 330 评论",
             "sentiment": "positive",
-            "comments": 209,
-            "url": "https://archestra.ai/blog/only-responsible-ai",
+            "comments": 330,
+            "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "We let AIs run radio stations",
-            "insight": "HN 热议：225 分 · 193 评论",
-            "sentiment": "positive",
-            "comments": 193,
-            "url": "https://andonlabs.com/blog/andon-fm",
+            "title": "Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised",
+            "insight": "HN 热议：128 分 · 66 评论",
+            "sentiment": "neutral",
+            "comments": 66,
+            "url": "https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "AI eats the world (Spring 26) [pdf]",
-            "insight": "HN 热议：196 分 · 109 评论",
-            "sentiment": "neutral",
-            "comments": 109,
-            "url": "https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf",
+            "title": "We let AIs run radio stations",
+            "insight": "HN 热议：280 分 · 219 评论",
+            "sentiment": "positive",
+            "comments": 219,
+            "url": "https://andonlabs.com/blog/andon-fm",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-19T06:37:28Z",
+    "updated": "2026-05-19T11:52:47Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
