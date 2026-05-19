@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-19T19:40:56Z",
+    "updated": "2026-05-19T22:03:53Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-19T19:40:56Z",
+    "updated": "2026-05-19T22:03:53Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-19T19:40:56Z",
+    "updated": "2026-05-19T22:03:53Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184428,
-            "stars_today": 184428,
+            "stars": 184426,
+            "stars_today": 184426,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 95176,
-            "stars_today": 95176,
+            "stars": 95182,
+            "stars_today": 95182,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 76812,
-            "stars_today": 76812,
+            "stars": 76839,
+            "stars_today": 76839,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 74161,
-            "stars_today": 74161,
+            "stars": 74170,
+            "stars_today": 74170,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-19T19:40:56Z",
+    "updated": "2026-05-19T22:03:53Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-19T19:40:56Z",
+    "updated": "2026-05-19T22:03:53Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-19T19:40:56Z",
+    "updated": "2026-05-19T22:03:53Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Gemini 3.5 Flash",
-            "insight": "HN 热议：137 分 · 140 评论",
-            "sentiment": "neutral",
-            "comments": 140,
+            "insight": "HN 热议：387 分 · 307 评论",
+            "sentiment": "positive",
+            "comments": 307,
             "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "I’ve joined Anthropic",
-            "insight": "HN 热议：877 分 · 345 评论",
-            "sentiment": "positive",
-            "comments": 345,
-            "url": "https://twitter.com/karpathy/status/2056753169888334312",
+            "title": "OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
+            "insight": "HN 热议：95 分 · 39 评论",
+            "sentiment": "neutral",
+            "comments": 39,
+            "url": "https://openai.com/index/advancing-content-provenance/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Copy Fail, Dirty Frag, and Fragnesia kernel vulnerabilities",
-            "insight": "HN 热议：71 分 · 18 评论",
+            "title": "Mistral AI Acquires Emmi AI to Create the Leading AI Stack",
+            "insight": "HN 热议：105 分 · 16 评论",
             "sentiment": "neutral",
-            "comments": 18,
-            "url": "https://www.gentoo.org/news/2026/05/19/copy-fail-fragnesia-vulnerabilities.html",
+            "comments": 16,
+            "url": "https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Gemini Omni",
-            "insight": "HN 热议：91 分 · 39 评论",
+            "title": "Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks",
+            "insight": "HN 热议：125 分 · 43 评论",
             "sentiment": "neutral",
-            "comments": 39,
-            "url": "https://deepmind.google/models/gemini-omni/",
+            "comments": 43,
+            "url": "https://github.com/antoinezambelli/forge",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Intro to TLA+ for the LLM Era: Prompt Your Way to Victory",
-            "insight": "HN 热议：80 分 · 19 评论",
-            "sentiment": "neutral",
-            "comments": 19,
-            "url": "https://emptysqua.re/blog/intro-to-tla-plus-for-the-llm-era/",
+            "title": "I’ve joined Anthropic",
+            "insight": "HN 热议：1031 分 · 415 评论",
+            "sentiment": "positive",
+            "comments": 415,
+            "url": "https://twitter.com/karpathy/status/2056753169888334312",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-19T19:40:56Z",
+    "updated": "2026-05-19T22:03:53Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
