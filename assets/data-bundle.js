@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-19T02:00:01Z",
+    "updated": "2026-05-19T06:37:28Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-19T02:00:01Z",
+    "updated": "2026-05-19T06:37:28Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-19T02:00:01Z",
+    "updated": "2026-05-19T06:37:28Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184403,
-            "stars_today": 184403,
+            "stars": 184409,
+            "stars_today": 184409,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 162484,
-            "stars_today": 162484,
+            "stars": 162492,
+            "stars_today": 162492,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 95114,
-            "stars_today": 95114,
+            "stars": 95126,
+            "stars_today": 95126,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93118,
-            "stars_today": 93118,
+            "stars": 93129,
+            "stars_today": 93129,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 76612,
-            "stars_today": 76612,
+            "stars": 76651,
+            "stars_today": 76651,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 74011,
-            "stars_today": 74011,
+            "stars": 74057,
+            "stars_today": 74057,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-19T02:00:01Z",
+    "updated": "2026-05-19T06:37:28Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-19T02:00:01Z",
+    "updated": "2026-05-19T06:37:28Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-19T02:00:01Z",
+    "updated": "2026-05-19T06:37:28Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Anthropic co-founder to present AI encyclical alongside Pope Leo XIV",
-            "insight": "HN 热议：97 分 · 62 评论",
-            "sentiment": "neutral",
-            "comments": 62,
-            "url": "https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html",
+            "title": "The last six months in LLMs in five minutes",
+            "insight": "HN 热议：239 分 · 122 评论",
+            "sentiment": "positive",
+            "comments": 122,
+            "url": "https://simonwillison.net/2026/May/19/5-minute-llms/",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "Anthropic acquires Stainless",
-            "insight": "HN 热议：360 分 · 254 评论",
+            "insight": "HN 热议：416 分 · 287 评论",
             "sentiment": "positive",
-            "comments": 254,
+            "comments": 287,
             "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
-            "insight": "HN 热议：411 分 · 189 评论",
+            "insight": "HN 热议：454 分 · 209 评论",
             "sentiment": "positive",
-            "comments": 189,
+            "comments": 209,
             "url": "https://archestra.ai/blog/only-responsible-ai",
             "id": 3
         },
         {
             "source": "HackerNews",
             "title": "We let AIs run radio stations",
-            "insight": "HN 热议：166 分 · 161 评论",
-            "sentiment": "neutral",
-            "comments": 161,
+            "insight": "HN 热议：225 分 · 193 评论",
+            "sentiment": "positive",
+            "comments": 193,
             "url": "https://andonlabs.com/blog/andon-fm",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
-            "insight": "HN 热议：782 分 · 413 评论",
-            "sentiment": "positive",
-            "comments": 413,
-            "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+            "title": "AI eats the world (Spring 26) [pdf]",
+            "insight": "HN 热议：196 分 · 109 评论",
+            "sentiment": "neutral",
+            "comments": 109,
+            "url": "https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-19T02:00:01Z",
+    "updated": "2026-05-19T06:37:28Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

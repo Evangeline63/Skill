@@ -1,49 +1,49 @@
 {
-  "updated": "2026-05-19T02:00:01Z",
+  "updated": "2026-05-19T06:37:28Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Anthropic co-founder to present AI encyclical alongside Pope Leo XIV",
-      "insight": "HN 热议：97 分 · 62 评论",
-      "sentiment": "neutral",
-      "comments": 62,
-      "url": "https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html",
+      "title": "The last six months in LLMs in five minutes",
+      "insight": "HN 热议：239 分 · 122 评论",
+      "sentiment": "positive",
+      "comments": 122,
+      "url": "https://simonwillison.net/2026/May/19/5-minute-llms/",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "Anthropic acquires Stainless",
-      "insight": "HN 热议：360 分 · 254 评论",
+      "insight": "HN 热议：416 分 · 287 评论",
       "sentiment": "positive",
-      "comments": 254,
+      "comments": 287,
       "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
-      "insight": "HN 热议：411 分 · 189 评论",
+      "insight": "HN 热议：454 分 · 209 评论",
       "sentiment": "positive",
-      "comments": 189,
+      "comments": 209,
       "url": "https://archestra.ai/blog/only-responsible-ai",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "We let AIs run radio stations",
-      "insight": "HN 热议：166 分 · 161 评论",
-      "sentiment": "neutral",
-      "comments": 161,
+      "insight": "HN 热议：225 分 · 193 评论",
+      "sentiment": "positive",
+      "comments": 193,
       "url": "https://andonlabs.com/blog/andon-fm",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
-      "insight": "HN 热议：782 分 · 413 评论",
-      "sentiment": "positive",
-      "comments": 413,
-      "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+      "title": "AI eats the world (Spring 26) [pdf]",
+      "insight": "HN 热议：196 分 · 109 评论",
+      "sentiment": "neutral",
+      "comments": 109,
+      "url": "https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf",
       "id": 5
     }
   ]
