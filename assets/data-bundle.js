@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-19T17:32:35Z",
+    "updated": "2026-05-19T19:40:56Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-19T17:32:35Z",
+    "updated": "2026-05-19T19:40:56Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-19T17:32:35Z",
+    "updated": "2026-05-19T19:40:56Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184429,
-            "stars_today": 184429,
+            "stars": 184428,
+            "stars_today": 184428,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 162531,
-            "stars_today": 162531,
+            "stars": 162536,
+            "stars_today": 162536,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 95174,
-            "stars_today": 95174,
+            "stars": 95176,
+            "stars_today": 95176,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93147,
-            "stars_today": 93147,
+            "stars": 93151,
+            "stars_today": 93151,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 76794,
-            "stars_today": 76794,
+            "stars": 76812,
+            "stars_today": 76812,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 74149,
-            "stars_today": 74149,
+            "stars": 74161,
+            "stars_today": 74161,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-19T17:32:35Z",
+    "updated": "2026-05-19T19:40:56Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-19T17:32:35Z",
+    "updated": "2026-05-19T19:40:56Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-19T17:32:35Z",
+    "updated": "2026-05-19T19:40:56Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "I’ve joined Anthropic",
-            "insight": "HN 热议：616 分 · 244 评论",
-            "sentiment": "positive",
-            "comments": 244,
-            "url": "https://twitter.com/karpathy/status/2056753169888334312",
+            "title": "Gemini 3.5 Flash",
+            "insight": "HN 热议：137 分 · 140 评论",
+            "sentiment": "neutral",
+            "comments": 140,
+            "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Gentoo News: Copy Fail, Dirty Frag, and Fragnesia Kernel Vulnerabilities",
-            "insight": "HN 热议：45 分 · 6 评论",
-            "sentiment": "neutral",
-            "comments": 6,
-            "url": "https://www.gentoo.org/news/2026/05/19/copy-fail-fragnesia-vulnerabilities.html",
+            "title": "I’ve joined Anthropic",
+            "insight": "HN 热议：877 分 · 345 评论",
+            "sentiment": "positive",
+            "comments": 345,
+            "url": "https://twitter.com/karpathy/status/2056753169888334312",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Intro to TLA+ for the LLM Era: Prompt Your Way to Victory",
-            "insight": "HN 热议：49 分 · 11 评论",
+            "title": "Copy Fail, Dirty Frag, and Fragnesia kernel vulnerabilities",
+            "insight": "HN 热议：71 分 · 18 评论",
             "sentiment": "neutral",
-            "comments": 11,
-            "url": "https://emptysqua.re/blog/intro-to-tla-plus-for-the-llm-era/",
+            "comments": 18,
+            "url": "https://www.gentoo.org/news/2026/05/19/copy-fail-fragnesia-vulnerabilities.html",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "The last six months in LLMs in five minutes",
-            "insight": "HN 热议：634 分 · 508 评论",
-            "sentiment": "positive",
-            "comments": 508,
-            "url": "https://simonwillison.net/2026/May/19/5-minute-llms/",
+            "title": "Gemini Omni",
+            "insight": "HN 热议：91 分 · 39 评论",
+            "sentiment": "neutral",
+            "comments": 39,
+            "url": "https://deepmind.google/models/gemini-omni/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised",
-            "insight": "HN 热议：297 分 · 212 评论",
-            "sentiment": "positive",
-            "comments": 212,
-            "url": "https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/",
+            "title": "Intro to TLA+ for the LLM Era: Prompt Your Way to Victory",
+            "insight": "HN 热议：80 分 · 19 评论",
+            "sentiment": "neutral",
+            "comments": 19,
+            "url": "https://emptysqua.re/blog/intro-to-tla-plus-for-the-llm-era/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-19T17:32:35Z",
+    "updated": "2026-05-19T19:40:56Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

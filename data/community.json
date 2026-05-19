@@ -1,49 +1,49 @@
 {
-  "updated": "2026-05-19T17:32:35Z",
+  "updated": "2026-05-19T19:40:56Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "I’ve joined Anthropic",
-      "insight": "HN 热议：616 分 · 244 评论",
-      "sentiment": "positive",
-      "comments": 244,
-      "url": "https://twitter.com/karpathy/status/2056753169888334312",
+      "title": "Gemini 3.5 Flash",
+      "insight": "HN 热议：137 分 · 140 评论",
+      "sentiment": "neutral",
+      "comments": 140,
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Gentoo News: Copy Fail, Dirty Frag, and Fragnesia Kernel Vulnerabilities",
-      "insight": "HN 热议：45 分 · 6 评论",
-      "sentiment": "neutral",
-      "comments": 6,
-      "url": "https://www.gentoo.org/news/2026/05/19/copy-fail-fragnesia-vulnerabilities.html",
+      "title": "I’ve joined Anthropic",
+      "insight": "HN 热议：877 分 · 345 评论",
+      "sentiment": "positive",
+      "comments": 345,
+      "url": "https://twitter.com/karpathy/status/2056753169888334312",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Intro to TLA+ for the LLM Era: Prompt Your Way to Victory",
-      "insight": "HN 热议：49 分 · 11 评论",
+      "title": "Copy Fail, Dirty Frag, and Fragnesia kernel vulnerabilities",
+      "insight": "HN 热议：71 分 · 18 评论",
       "sentiment": "neutral",
-      "comments": 11,
-      "url": "https://emptysqua.re/blog/intro-to-tla-plus-for-the-llm-era/",
+      "comments": 18,
+      "url": "https://www.gentoo.org/news/2026/05/19/copy-fail-fragnesia-vulnerabilities.html",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "The last six months in LLMs in five minutes",
-      "insight": "HN 热议：634 分 · 508 评论",
-      "sentiment": "positive",
-      "comments": 508,
-      "url": "https://simonwillison.net/2026/May/19/5-minute-llms/",
+      "title": "Gemini Omni",
+      "insight": "HN 热议：91 分 · 39 评论",
+      "sentiment": "neutral",
+      "comments": 39,
+      "url": "https://deepmind.google/models/gemini-omni/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised",
-      "insight": "HN 热议：297 分 · 212 评论",
-      "sentiment": "positive",
-      "comments": 212,
-      "url": "https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/",
+      "title": "Intro to TLA+ for the LLM Era: Prompt Your Way to Victory",
+      "insight": "HN 热议：80 分 · 19 评论",
+      "sentiment": "neutral",
+      "comments": 19,
+      "url": "https://emptysqua.re/blog/intro-to-tla-plus-for-the-llm-era/",
       "id": 5
     }
   ]
