@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-20T14:28:50Z",
+    "updated": "2026-05-20T17:48:31Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-20T14:28:50Z",
+    "updated": "2026-05-20T17:48:31Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-20T14:28:50Z",
+    "updated": "2026-05-20T17:48:31Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184425,
-            "stars_today": 184425,
+            "stars": 184429,
+            "stars_today": 184429,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 162576,
-            "stars_today": 162576,
+            "stars": 162585,
+            "stars_today": 162585,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 95227,
-            "stars_today": 95227,
+            "stars": 95250,
+            "stars_today": 95250,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93178,
-            "stars_today": 93178,
+            "stars": 93193,
+            "stars_today": 93193,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 77002,
-            "stars_today": 77002,
+            "stars": 77028,
+            "stars_today": 77028,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 74240,
-            "stars_today": 74240,
+            "stars": 74261,
+            "stars_today": 74261,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-20T14:28:50Z",
+    "updated": "2026-05-20T17:48:31Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-20T14:28:50Z",
+    "updated": "2026-05-20T17:48:31Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-20T14:28:50Z",
+    "updated": "2026-05-20T17:48:31Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Qwen3.7-Max: The Agent Frontier",
-            "insight": "HN 热议：199 分 · 77 评论",
-            "sentiment": "neutral",
-            "comments": 77,
+            "insight": "HN 热议：415 分 · 160 评论",
+            "sentiment": "positive",
+            "comments": 160,
             "url": "https://qwen.ai/blog?id=qwen3.7",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "Google's AI is being manipulated. The search giant is quietly fighting back",
-            "insight": "HN 热议：53 分 · 25 评论",
+            "insight": "HN 热议：146 分 · 92 评论",
             "sentiment": "neutral",
-            "comments": 25,
+            "comments": 92,
             "url": "https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Gemini 3.5 Flash",
-            "insight": "HN 热议：876 分 · 601 评论",
+            "title": "Victory: Tennessee man jailed 37 days for Trump meme wins $835,000 settlement",
+            "insight": "HN 热议：400 分 · 222 评论",
             "sentiment": "positive",
-            "comments": 601,
-            "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+            "comments": 222,
+            "url": "https://www.fire.org/news/victory-tennessee-man-jailed-37-days-trump-meme-wins-835000-settlement-after-first-amendment",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "When Fast Fourier Transform Meets Transformer for Image Restoration (2024)",
-            "insight": "HN 热议：16 分 · 1 评论",
+            "title": "Testing distributed systems with AI agents",
+            "insight": "HN 热议：42 分 · 4 评论",
             "sentiment": "neutral",
-            "comments": 1,
-            "url": "https://github.com/deng-ai-lab/SFHformer",
+            "comments": 4,
+            "url": "https://github.com/shenli/distributed-system-testing",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "College students drown out AI-praising commencement speeches with boos",
-            "insight": "HN 热议：192 分 · 154 评论",
+            "title": "Formal Verification Gates for AI Coding Loops",
+            "insight": "HN 热议：39 分 · 4 评论",
             "sentiment": "neutral",
-            "comments": 154,
-            "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/college-students-drown-out-ai-praising-commencement-speeches-with-boos-deal-with-it-one-speaker-fires-back-as-students-heckle-positive-pitches-for-ais-role",
+            "comments": 4,
+            "url": "https://reubenbrooks.dev/blog/structural-backpressure-beats-smarter-agents/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-20T14:28:50Z",
+    "updated": "2026-05-20T17:48:31Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
