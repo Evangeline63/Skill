@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-20T06:37:17Z",
+    "updated": "2026-05-20T11:41:12Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-20T06:37:17Z",
+    "updated": "2026-05-20T11:41:12Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-20T06:37:17Z",
+    "updated": "2026-05-20T11:41:12Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184423,
-            "stars_today": 184423,
+            "stars": 184428,
+            "stars_today": 184428,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 162551,
-            "stars_today": 162551,
+            "stars": 162566,
+            "stars_today": 162566,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 95207,
-            "stars_today": 95207,
+            "stars": 95217,
+            "stars_today": 95217,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93164,
-            "stars_today": 93164,
+            "stars": 93173,
+            "stars_today": 93173,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 76918,
-            "stars_today": 76918,
+            "stars": 76970,
+            "stars_today": 76970,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 74198,
-            "stars_today": 74198,
+            "stars": 74224,
+            "stars_today": 74224,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-20T06:37:17Z",
+    "updated": "2026-05-20T11:41:12Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-20T06:37:17Z",
+    "updated": "2026-05-20T11:41:12Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-20T06:37:17Z",
+    "updated": "2026-05-20T11:41:12Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Railway Blocked by Google Cloud",
-            "insight": "HN 热议：411 分 · 191 评论",
-            "sentiment": "positive",
-            "comments": 191,
-            "url": "https://status.railway.com/?date=20260519",
+            "title": "Learnings from 100K lines of Rust with AI (2025)",
+            "insight": "HN 热议：54 分 · 39 评论",
+            "sentiment": "neutral",
+            "comments": 39,
+            "url": "https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "Gemini 3.5 Flash",
-            "insight": "HN 热议：712 分 · 509 评论",
+            "insight": "HN 热议：829 分 · 571 评论",
             "sentiment": "positive",
-            "comments": 509,
+            "comments": 571,
             "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Remove–AI–Watermarks – CLI and library for removing AI watermarks from images",
-            "insight": "HN 热议：232 分 · 122 评论",
+            "title": "Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks",
+            "insight": "HN 热议：519 分 · 181 评论",
             "sentiment": "positive",
-            "comments": 122,
-            "url": "https://github.com/wiltodelta/remove-ai-watermarks",
+            "comments": 181,
+            "url": "https://github.com/antoinezambelli/forge",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks",
-            "insight": "HN 热议：404 分 · 155 评论",
+            "title": "Remove-AI-Watermarks – CLI and library for removing AI watermarks from images",
+            "insight": "HN 热议：306 分 · 179 评论",
             "sentiment": "positive",
-            "comments": 155,
-            "url": "https://github.com/antoinezambelli/forge",
+            "comments": 179,
+            "url": "https://github.com/wiltodelta/remove-ai-watermarks",
             "id": 4
         },
         {
             "source": "HackerNews",
             "title": "OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
-            "insight": "HN 热议：258 分 · 130 评论",
+            "insight": "HN 热议：293 分 · 159 评论",
             "sentiment": "positive",
-            "comments": 130,
+            "comments": 159,
             "url": "https://openai.com/index/advancing-content-provenance/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-20T06:37:17Z",
+    "updated": "2026-05-20T11:41:12Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
