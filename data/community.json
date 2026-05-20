@@ -1,49 +1,49 @@
 {
-  "updated": "2026-05-20T19:59:26Z",
+  "updated": "2026-05-20T22:18:24Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "insight": "HN 热议：146 分 · 80 评论",
-      "sentiment": "neutral",
-      "comments": 80,
+      "insight": "HN 热议：502 分 · 326 评论",
+      "sentiment": "positive",
+      "comments": 326,
       "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Qwen3.7-Max: The Agent Frontier",
-      "insight": "HN 热议：499 分 · 195 评论",
-      "sentiment": "positive",
-      "comments": 195,
-      "url": "https://qwen.ai/blog?id=qwen3.7",
+      "title": "Not alive, but not dead: disembodied human brains used for drug testing",
+      "insight": "HN 热议：82 分 · 53 评论",
+      "sentiment": "neutral",
+      "comments": 53,
+      "url": "https://www.science.org/content/article/not-alive-not-dead-disembodied-human-brains-used-drug-testing",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Qian Xuesen: The missile genius America lost and China gained (2025)",
-      "insight": "HN 热议：22 分 · 12 评论",
-      "sentiment": "neutral",
-      "comments": 12,
-      "url": "https://www.usni.org/magazines/naval-history/2025/december/missile-genius-america-lost-and-china-gained",
+      "title": "Qwen3.7-Max: The Agent Frontier",
+      "insight": "HN 热议：563 分 · 222 评论",
+      "sentiment": "positive",
+      "comments": 222,
+      "url": "https://qwen.ai/blog?id=qwen3.7",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Google's AI is being manipulated. The search giant is quietly fighting back",
-      "insight": "HN 热议：197 分 · 145 评论",
+      "title": "PopuLoRA: Co-Evolving LLM Populations for Reasoning Self- Play",
+      "insight": "HN 热议：19 分 · 2 评论",
       "sentiment": "neutral",
-      "comments": 145,
-      "url": "https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results",
+      "comments": 2,
+      "url": "https://vmax.ai/team/populora-co-evolving-llm-populations-for-reasoning-self-play",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Formal Verification Gates for AI Coding Loops",
-      "insight": "HN 热议：66 分 · 10 评论",
+      "title": "Qian Xuesen: The missile genius America lost and China gained (2025)",
+      "insight": "HN 热议：70 分 · 45 评论",
       "sentiment": "neutral",
-      "comments": 10,
-      "url": "https://reubenbrooks.dev/blog/structural-backpressure-beats-smarter-agents/",
+      "comments": 45,
+      "url": "https://www.usni.org/magazines/naval-history/2025/december/missile-genius-america-lost-and-china-gained",
       "id": 5
     }
   ]
