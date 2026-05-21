@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-20T22:18:24Z",
+    "updated": "2026-05-21T01:59:09Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-20T22:18:24Z",
+    "updated": "2026-05-21T01:59:09Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-20T22:18:24Z",
+    "updated": "2026-05-21T01:59:09Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184428,
-            "stars_today": 184428,
+            "stars": 184435,
+            "stars_today": 184435,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 162590,
-            "stars_today": 162590,
+            "stars": 162592,
+            "stars_today": 162592,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 95274,
-            "stars_today": 95274,
+            "stars": 95287,
+            "stars_today": 95287,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93209,
-            "stars_today": 93209,
+            "stars": 93219,
+            "stars_today": 93219,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 77052,
-            "stars_today": 77052,
+            "stars": 77081,
+            "stars_today": 77081,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 74274,
-            "stars_today": 74274,
+            "stars": 74288,
+            "stars_today": 74288,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-20T22:18:24Z",
+    "updated": "2026-05-21T01:59:09Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-20T22:18:24Z",
+    "updated": "2026-05-21T01:59:09Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-20T22:18:24Z",
+    "updated": "2026-05-21T01:59:09Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-            "insight": "HN 热议：502 分 · 326 评论",
+            "insight": "HN 热议：744 分 · 543 评论",
             "sentiment": "positive",
-            "comments": 326,
+            "comments": 543,
             "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Not alive, but not dead: disembodied human brains used for drug testing",
-            "insight": "HN 热议：82 分 · 53 评论",
-            "sentiment": "neutral",
-            "comments": 53,
-            "url": "https://www.science.org/content/article/not-alive-not-dead-disembodied-human-brains-used-drug-testing",
+            "title": "Qwen3.7-Max: The Agent Frontier",
+            "insight": "HN 热议：607 分 · 246 评论",
+            "sentiment": "positive",
+            "comments": 246,
+            "url": "https://qwen.ai/blog?id=qwen3.7",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Qwen3.7-Max: The Agent Frontier",
-            "insight": "HN 热议：563 分 · 222 评论",
-            "sentiment": "positive",
-            "comments": 222,
-            "url": "https://qwen.ai/blog?id=qwen3.7",
+            "title": "Qian Xuesen: The missile genius America lost and China gained (2025)",
+            "insight": "HN 热议：116 分 · 65 评论",
+            "sentiment": "neutral",
+            "comments": 65,
+            "url": "https://www.usni.org/magazines/naval-history/2025/december/missile-genius-america-lost-and-china-gained",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "PopuLoRA: Co-Evolving LLM Populations for Reasoning Self- Play",
-            "insight": "HN 热议：19 分 · 2 评论",
+            "title": "Anthropic is expanding to Colossus2. Will use GB200",
+            "insight": "HN 热议：80 分 · 69 评论",
             "sentiment": "neutral",
-            "comments": 2,
-            "url": "https://vmax.ai/team/populora-co-evolving-llm-populations-for-reasoning-self-play",
+            "comments": 69,
+            "url": "https://xcancel.com/nottombrown/status/2057194829986300375",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Qian Xuesen: The missile genius America lost and China gained (2025)",
-            "insight": "HN 热议：70 分 · 45 评论",
+            "title": "Intuit to lay off over 3k employees to refocus on AI",
+            "insight": "HN 热议：30 分 · 7 评论",
             "sentiment": "neutral",
-            "comments": 45,
-            "url": "https://www.usni.org/magazines/naval-history/2025/december/missile-genius-america-lost-and-china-gained",
+            "comments": 7,
+            "url": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-20T22:18:24Z",
+    "updated": "2026-05-21T01:59:09Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
