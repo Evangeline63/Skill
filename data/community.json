@@ -1,49 +1,49 @@
 {
-  "updated": "2026-05-21T12:00:10Z",
+  "updated": "2026-05-21T17:25:27Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "insight": "HN 热议：1223 分 · 892 评论",
-      "sentiment": "positive",
-      "comments": 892,
-      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
+      "title": "Project Hail Mary – Stellar Navigation Chart",
+      "insight": "HN 热议：28 分 · 6 评论",
+      "sentiment": "neutral",
+      "comments": 6,
+      "url": "https://valhovey.github.io/gaia-mary/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Google officially announces that ads will be included in AI Mode search results",
-      "insight": "HN 热议：147 分 · 157 评论",
+      "title": "Launch HN: Runtime (YC P26) – Sandboxed coding agents for everyone on a team",
+      "insight": "HN 热议：14 分 · 1 评论",
       "sentiment": "neutral",
-      "comments": 157,
-      "url": "https://blog.google/products/ads-commerce/google-marketing-live-search-ads/",
+      "comments": 1,
+      "url": "https://www.runtm.com/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Fender escalates legal campaign against S-style guitars",
-      "insight": "HN 热议：13 分 · 8 评论",
-      "sentiment": "neutral",
-      "comments": 8,
-      "url": "https://www.guitarworld.com/gear/electric-guitars/fender-cease-and-desist-lsl-instruments",
+      "title": "Google's Antigravity Bait and Switch",
+      "insight": "HN 热议：312 分 · 165 评论",
+      "sentiment": "positive",
+      "comments": 165,
+      "url": "https://www.0xsid.com/blog/antigravity-bait-n-switch",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Anthropic is expanding to Colossus2. Will use GB200",
-      "insight": "HN 热议：224 分 · 234 评论",
+      "title": "AI is just unauthorised plagiarism at a bigger scale",
+      "insight": "HN 热议：604 分 · 470 评论",
       "sentiment": "positive",
-      "comments": 234,
-      "url": "https://twitter.com/nottombrown/status/2057194829986300375",
+      "comments": 470,
+      "url": "https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "OpenAI Is Preparing to File for an IPO Soon",
-      "insight": "HN 热议：122 分 · 261 评论",
-      "sentiment": "neutral",
-      "comments": 261,
-      "url": "https://www.wsj.com/tech/ai/openai-is-preparing-to-file-for-an-ipo-very-soon-0ec95af5",
+      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "insight": "HN 热议：1337 分 · 968 评论",
+      "sentiment": "positive",
+      "comments": 968,
+      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
       "id": 5
     }
   ]
