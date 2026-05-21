@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-21T06:39:45Z",
+    "updated": "2026-05-21T12:00:10Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-21T06:39:45Z",
+    "updated": "2026-05-21T12:00:10Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-21T06:39:45Z",
+    "updated": "2026-05-21T12:00:10Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184437,
-            "stars_today": 184437,
+            "stars": 184442,
+            "stars_today": 184442,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 162601,
-            "stars_today": 162601,
+            "stars": 162616,
+            "stars_today": 162616,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 95306,
-            "stars_today": 95306,
+            "stars": 95331,
+            "stars_today": 95331,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93236,
-            "stars_today": 93236,
+            "stars": 93252,
+            "stars_today": 93252,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 77132,
-            "stars_today": 77132,
+            "stars": 77195,
+            "stars_today": 77195,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 74318,
-            "stars_today": 74318,
+            "stars": 74363,
+            "stars_today": 74363,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-21T06:39:45Z",
+    "updated": "2026-05-21T12:00:10Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-21T06:39:45Z",
+    "updated": "2026-05-21T12:00:10Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-21T06:39:45Z",
+    "updated": "2026-05-21T12:00:10Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-            "insight": "HN 热议：1002 分 · 725 评论",
+            "insight": "HN 热议：1223 分 · 892 评论",
             "sentiment": "positive",
-            "comments": 725,
+            "comments": 892,
             "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Anthropic is expanding to Colossus2. Will use GB200",
-            "insight": "HN 热议：138 分 · 123 评论",
+            "title": "Google officially announces that ads will be included in AI Mode search results",
+            "insight": "HN 热议：147 分 · 157 评论",
             "sentiment": "neutral",
-            "comments": 123,
-            "url": "https://twitter.com/nottombrown/status/2057194829986300375",
+            "comments": 157,
+            "url": "https://blog.google/products/ads-commerce/google-marketing-live-search-ads/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Intuit to lay off over 3k employees to refocus on AI",
-            "insight": "HN 热议：153 分 · 101 评论",
+            "title": "Fender escalates legal campaign against S-style guitars",
+            "insight": "HN 热议：13 分 · 8 评论",
             "sentiment": "neutral",
-            "comments": 101,
-            "url": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/",
+            "comments": 8,
+            "url": "https://www.guitarworld.com/gear/electric-guitars/fender-cease-and-desist-lsl-instruments",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "OpenAI to confidentially file for IPO as soon as Friday",
-            "insight": "HN 热议：104 分 · 46 评论",
-            "sentiment": "neutral",
-            "comments": 46,
-            "url": "https://www.cnbc.com/2026/05/20/openai-ipo-filing.html",
+            "title": "Anthropic is expanding to Colossus2. Will use GB200",
+            "insight": "HN 热议：224 分 · 234 评论",
+            "sentiment": "positive",
+            "comments": 234,
+            "url": "https://twitter.com/nottombrown/status/2057194829986300375",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Qian Xuesen: The missile genius America lost and China gained (2025)",
-            "insight": "HN 热议：157 分 · 84 评论",
+            "title": "OpenAI Is Preparing to File for an IPO Soon",
+            "insight": "HN 热议：122 分 · 261 评论",
             "sentiment": "neutral",
-            "comments": 84,
-            "url": "https://www.usni.org/magazines/naval-history/2025/december/missile-genius-america-lost-and-china-gained",
+            "comments": 261,
+            "url": "https://www.wsj.com/tech/ai/openai-is-preparing-to-file-for-an-ipo-very-soon-0ec95af5",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-21T06:39:45Z",
+    "updated": "2026-05-21T12:00:10Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
