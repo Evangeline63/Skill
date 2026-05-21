@@ -1,49 +1,49 @@
 {
-  "updated": "2026-05-21T17:25:27Z",
+  "updated": "2026-05-21T19:40:38Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Project Hail Mary – Stellar Navigation Chart",
-      "insight": "HN 热议：28 分 · 6 评论",
-      "sentiment": "neutral",
-      "comments": 6,
+      "insight": "HN 热议：217 分 · 64 评论",
+      "sentiment": "positive",
+      "comments": 64,
       "url": "https://valhovey.github.io/gaia-mary/",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "Launch HN: Runtime (YC P26) – Sandboxed coding agents for everyone on a team",
-      "insight": "HN 热议：14 分 · 1 评论",
+      "insight": "HN 热议：38 分 · 14 评论",
       "sentiment": "neutral",
-      "comments": 1,
+      "comments": 14,
       "url": "https://www.runtm.com/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Google's Antigravity Bait and Switch",
-      "insight": "HN 热议：312 分 · 165 评论",
-      "sentiment": "positive",
-      "comments": 165,
-      "url": "https://www.0xsid.com/blog/antigravity-bait-n-switch",
+      "title": "Show HN: Agent.email – sign up via curl, claim with a human OTP",
+      "insight": "HN 热议：19 分 · 8 评论",
+      "sentiment": "neutral",
+      "comments": 8,
+      "url": "https://news.ycombinator.com/item?id=48225596",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "AI is just unauthorised plagiarism at a bigger scale",
-      "insight": "HN 热议：604 分 · 470 评论",
+      "title": "Stop throwing AI-generated walls of text into conversations",
+      "insight": "HN 热议：377 分 · 218 评论",
       "sentiment": "positive",
-      "comments": 470,
-      "url": "https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/",
+      "comments": 218,
+      "url": "https://noslopgrenade.com/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "insight": "HN 热议：1337 分 · 968 评论",
+      "title": "Google's Antigravity Bait and Switch",
+      "insight": "HN 热议：397 分 · 219 评论",
       "sentiment": "positive",
-      "comments": 968,
-      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
+      "comments": 219,
+      "url": "https://www.0xsid.com/blog/antigravity-bait-n-switch",
       "id": 5
     }
   ]
