@@ -1,49 +1,49 @@
 {
-  "updated": "2026-05-21T01:59:09Z",
+  "updated": "2026-05-21T06:39:45Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "insight": "HN 热议：744 分 · 543 评论",
+      "insight": "HN 热议：1002 分 · 725 评论",
       "sentiment": "positive",
-      "comments": 543,
+      "comments": 725,
       "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Qwen3.7-Max: The Agent Frontier",
-      "insight": "HN 热议：607 分 · 246 评论",
-      "sentiment": "positive",
-      "comments": 246,
-      "url": "https://qwen.ai/blog?id=qwen3.7",
+      "title": "Anthropic is expanding to Colossus2. Will use GB200",
+      "insight": "HN 热议：138 分 · 123 评论",
+      "sentiment": "neutral",
+      "comments": 123,
+      "url": "https://twitter.com/nottombrown/status/2057194829986300375",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Qian Xuesen: The missile genius America lost and China gained (2025)",
-      "insight": "HN 热议：116 分 · 65 评论",
+      "title": "Intuit to lay off over 3k employees to refocus on AI",
+      "insight": "HN 热议：153 分 · 101 评论",
       "sentiment": "neutral",
-      "comments": 65,
-      "url": "https://www.usni.org/magazines/naval-history/2025/december/missile-genius-america-lost-and-china-gained",
+      "comments": 101,
+      "url": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Anthropic is expanding to Colossus2. Will use GB200",
-      "insight": "HN 热议：80 分 · 69 评论",
+      "title": "OpenAI to confidentially file for IPO as soon as Friday",
+      "insight": "HN 热议：104 分 · 46 评论",
       "sentiment": "neutral",
-      "comments": 69,
-      "url": "https://xcancel.com/nottombrown/status/2057194829986300375",
+      "comments": 46,
+      "url": "https://www.cnbc.com/2026/05/20/openai-ipo-filing.html",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Intuit to lay off over 3k employees to refocus on AI",
-      "insight": "HN 热议：30 分 · 7 评论",
+      "title": "Qian Xuesen: The missile genius America lost and China gained (2025)",
+      "insight": "HN 热议：157 分 · 84 评论",
       "sentiment": "neutral",
-      "comments": 7,
-      "url": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/",
+      "comments": 84,
+      "url": "https://www.usni.org/magazines/naval-history/2025/december/missile-genius-america-lost-and-china-gained",
       "id": 5
     }
   ]
