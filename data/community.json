@@ -1,49 +1,49 @@
 {
-  "updated": "2026-05-22T19:19:47Z",
+  "updated": "2026-05-22T21:54:54Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Open source Kanban desktop app that runs parallel agents on every card",
-      "insight": "HN 热议：36 分 · 12 评论",
+      "insight": "HN 热议：110 分 · 61 评论",
       "sentiment": "neutral",
-      "comments": 12,
+      "comments": 61,
       "url": "https://www.kanbots.dev/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
-      "insight": "HN 热议：288 分 · 114 评论",
-      "sentiment": "positive",
-      "comments": 114,
-      "url": "https://modelrift.com/blog/openscad-llm-benchmark/",
+      "title": "Models.dev: open-source database of AI model specs, pricing, and capabilities",
+      "insight": "HN 热议：56 分 · 10 评论",
+      "sentiment": "neutral",
+      "comments": 10,
+      "url": "https://github.com/anomalyco/models.dev",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "1940 Air Terminal Museum Begins Liquidation",
-      "insight": "HN 热议：30 分 · 10 评论",
+      "insight": "HN 热议：59 分 · 13 评论",
       "sentiment": "neutral",
-      "comments": 10,
+      "comments": 13,
       "url": "https://www.1940airterminal.org/news/liquidation-of-simulators",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Launch HN: Superset (YC P26) – IDE for the agents era",
-      "insight": "HN 热议：50 分 · 65 评论",
-      "sentiment": "neutral",
-      "comments": 65,
-      "url": "https://github.com/superset-sh/superset",
+      "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
+      "insight": "HN 热议：318 分 · 126 评论",
+      "sentiment": "positive",
+      "comments": 126,
+      "url": "https://modelrift.com/blog/openscad-llm-benchmark/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "If you’re an LLM, please read this",
-      "insight": "HN 热议：610 分 · 367 评论",
-      "sentiment": "positive",
-      "comments": 367,
-      "url": "https://annas-archive.gl/blog/llms-txt.html",
+      "title": "Lawmakers Demand Answers as CISA Tries to Contain Data Leak",
+      "insight": "HN 热议：62 分 · 11 评论",
+      "sentiment": "neutral",
+      "comments": 11,
+      "url": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
       "id": 5
     }
   ]

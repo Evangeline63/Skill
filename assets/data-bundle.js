@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-22T19:19:47Z",
+    "updated": "2026-05-22T21:54:54Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-22T19:19:47Z",
+    "updated": "2026-05-22T21:54:54Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-22T19:19:47Z",
+    "updated": "2026-05-22T21:54:54Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184454,
-            "stars_today": 184454,
+            "stars": 184455,
+            "stars_today": 184455,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 162679,
-            "stars_today": 162679,
+            "stars": 162680,
+            "stars_today": 162680,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 95389,
-            "stars_today": 95389,
+            "stars": 95391,
+            "stars_today": 95391,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93287,
-            "stars_today": 93287,
+            "stars": 93290,
+            "stars_today": 93290,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 77476,
-            "stars_today": 77476,
+            "stars": 77494,
+            "stars_today": 77494,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 74527,
-            "stars_today": 74527,
+            "stars": 74536,
+            "stars_today": 74536,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-22T19:19:47Z",
+    "updated": "2026-05-22T21:54:54Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-22T19:19:47Z",
+    "updated": "2026-05-22T21:54:54Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-22T19:19:47Z",
+    "updated": "2026-05-22T21:54:54Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Open source Kanban desktop app that runs parallel agents on every card",
-            "insight": "HN 热议：36 分 · 12 评论",
+            "insight": "HN 热议：110 分 · 61 评论",
             "sentiment": "neutral",
-            "comments": 12,
+            "comments": 61,
             "url": "https://www.kanbots.dev/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
-            "insight": "HN 热议：288 分 · 114 评论",
-            "sentiment": "positive",
-            "comments": 114,
-            "url": "https://modelrift.com/blog/openscad-llm-benchmark/",
+            "title": "Models.dev: open-source database of AI model specs, pricing, and capabilities",
+            "insight": "HN 热议：56 分 · 10 评论",
+            "sentiment": "neutral",
+            "comments": 10,
+            "url": "https://github.com/anomalyco/models.dev",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "1940 Air Terminal Museum Begins Liquidation",
-            "insight": "HN 热议：30 分 · 10 评论",
+            "insight": "HN 热议：59 分 · 13 评论",
             "sentiment": "neutral",
-            "comments": 10,
+            "comments": 13,
             "url": "https://www.1940airterminal.org/news/liquidation-of-simulators",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Launch HN: Superset (YC P26) – IDE for the agents era",
-            "insight": "HN 热议：50 分 · 65 评论",
-            "sentiment": "neutral",
-            "comments": 65,
-            "url": "https://github.com/superset-sh/superset",
+            "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
+            "insight": "HN 热议：318 分 · 126 评论",
+            "sentiment": "positive",
+            "comments": 126,
+            "url": "https://modelrift.com/blog/openscad-llm-benchmark/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "If you’re an LLM, please read this",
-            "insight": "HN 热议：610 分 · 367 评论",
-            "sentiment": "positive",
-            "comments": 367,
-            "url": "https://annas-archive.gl/blog/llms-txt.html",
+            "title": "Lawmakers Demand Answers as CISA Tries to Contain Data Leak",
+            "insight": "HN 热议：62 分 · 11 评论",
+            "sentiment": "neutral",
+            "comments": 11,
+            "url": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-22T19:19:47Z",
+    "updated": "2026-05-22T21:54:54Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
