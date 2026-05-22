@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-22T14:10:11Z",
+    "updated": "2026-05-22T17:01:00Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-22T14:10:11Z",
+    "updated": "2026-05-22T17:01:00Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-22T14:10:11Z",
+    "updated": "2026-05-22T17:01:00Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184450,
-            "stars_today": 184450,
+            "stars": 184455,
+            "stars_today": 184455,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 162666,
-            "stars_today": 162666,
+            "stars": 162675,
+            "stars_today": 162675,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 95383,
-            "stars_today": 95383,
+            "stars": 95388,
+            "stars_today": 95388,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93281,
-            "stars_today": 93281,
+            "stars": 93282,
+            "stars_today": 93282,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 77416,
-            "stars_today": 77416,
+            "stars": 77454,
+            "stars_today": 77454,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 74510,
-            "stars_today": 74510,
+            "stars": 74522,
+            "stars_today": 74522,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-22T14:10:11Z",
+    "updated": "2026-05-22T17:01:00Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-22T14:10:11Z",
+    "updated": "2026-05-22T17:01:00Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-22T14:10:11Z",
+    "updated": "2026-05-22T17:01:00Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "If you're an LLM, please read this – Anna's Blog",
-            "insight": "HN 热议：303 分 · 156 评论",
+            "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
+            "insight": "HN 热议：236 分 · 102 评论",
             "sentiment": "positive",
-            "comments": 156,
-            "url": "https://annas-archive.gl/blog/llms-txt.html",
+            "comments": 102,
+            "url": "https://modelrift.com/blog/openscad-llm-benchmark/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "The AI Elephant in the Room",
-            "insight": "HN 热议：44 分 · 18 评论",
-            "sentiment": "neutral",
-            "comments": 18,
-            "url": "https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/",
+            "title": "If you’re an LLM, please read this",
+            "insight": "HN 热议：516 分 · 311 评论",
+            "sentiment": "positive",
+            "comments": 311,
+            "url": "https://annas-archive.gl/blog/llms-txt.html",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
-            "insight": "HN 热议：153 分 · 64 评论",
+            "title": "Launch HN: Superset (YC P26) – IDE for the agents era",
+            "insight": "HN 热议：28 分 · 49 评论",
             "sentiment": "neutral",
-            "comments": 64,
-            "url": "https://modelrift.com/blog/openscad-llm-benchmark/",
+            "comments": 49,
+            "url": "https://github.com/superset-sh/superset",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "The Companies Cutting Headcount for AI Will Lose to the Ones Who Didn't",
-            "insight": "HN 热议：108 分 · 97 评论",
-            "sentiment": "neutral",
-            "comments": 97,
-            "url": "https://libertas.software/en/knowledge-hub/19/the-companies-cutting-headcount-for-ai-will-lose-to-the-ones-who-didnt",
+            "title": "Steve Wozniak cheered after telling students they have AI – actual intelligence",
+            "insight": "HN 热议：462 分 · 395 评论",
+            "sentiment": "positive",
+            "comments": 395,
+            "url": "https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5",
             "id": 4
         },
         {
             "source": "HackerNews",
             "title": "Project Hail Mary – Stellar Navigation Chart",
-            "insight": "HN 热议：1003 分 · 209 评论",
+            "insight": "HN 热议：1058 分 · 217 评论",
             "sentiment": "positive",
-            "comments": 209,
+            "comments": 217,
             "url": "https://valhovey.github.io/gaia-mary/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-22T14:10:11Z",
+    "updated": "2026-05-22T17:01:00Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
