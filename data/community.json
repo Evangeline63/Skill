@@ -1,49 +1,49 @@
 {
-  "updated": "2026-05-22T11:36:54Z",
+  "updated": "2026-05-22T14:10:11Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
-      "insight": "HN 热议：33 分 · 15 评论",
-      "sentiment": "neutral",
-      "comments": 15,
-      "url": "https://modelrift.com/blog/openscad-llm-benchmark/",
+      "title": "If you're an LLM, please read this – Anna's Blog",
+      "insight": "HN 热议：303 分 · 156 评论",
+      "sentiment": "positive",
+      "comments": 156,
+      "url": "https://annas-archive.gl/blog/llms-txt.html",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "The case against boolean logic",
-      "insight": "HN 热议：21 分 · 9 评论",
+      "title": "The AI Elephant in the Room",
+      "insight": "HN 热议：44 分 · 18 评论",
       "sentiment": "neutral",
-      "comments": 9,
-      "url": "https://abuseofnotation.github.io/boolean-thinking/",
+      "comments": 18,
+      "url": "https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Steve Wozniak cheered after telling students they have AI – actual intelligence",
-      "insight": "HN 热议：106 分 · 56 评论",
+      "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
+      "insight": "HN 热议：153 分 · 64 评论",
       "sentiment": "neutral",
-      "comments": 56,
-      "url": "https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5",
+      "comments": 64,
+      "url": "https://modelrift.com/blog/openscad-llm-benchmark/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Project Hail Mary – Stellar Navigation Chart",
-      "insight": "HN 热议：961 分 · 202 评论",
-      "sentiment": "positive",
-      "comments": 202,
-      "url": "https://valhovey.github.io/gaia-mary/",
+      "title": "The Companies Cutting Headcount for AI Will Lose to the Ones Who Didn't",
+      "insight": "HN 热议：108 分 · 97 评论",
+      "sentiment": "neutral",
+      "comments": 97,
+      "url": "https://libertas.software/en/knowledge-hub/19/the-companies-cutting-headcount-for-ai-will-lose-to-the-ones-who-didnt",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs",
-      "insight": "HN 热议：79 分 · 7 评论",
-      "sentiment": "neutral",
-      "comments": 7,
-      "url": "https://arxiv.org/abs/2605.19269",
+      "title": "Project Hail Mary – Stellar Navigation Chart",
+      "insight": "HN 热议：1003 分 · 209 评论",
+      "sentiment": "positive",
+      "comments": 209,
+      "url": "https://valhovey.github.io/gaia-mary/",
       "id": 5
     }
   ]
