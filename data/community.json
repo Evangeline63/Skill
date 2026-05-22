@@ -1,49 +1,49 @@
 {
-  "updated": "2026-05-22T17:01:00Z",
+  "updated": "2026-05-22T19:19:47Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
-      "insight": "HN 热议：236 分 · 102 评论",
-      "sentiment": "positive",
-      "comments": 102,
-      "url": "https://modelrift.com/blog/openscad-llm-benchmark/",
+      "title": "Open source Kanban desktop app that runs parallel agents on every card",
+      "insight": "HN 热议：36 分 · 12 评论",
+      "sentiment": "neutral",
+      "comments": 12,
+      "url": "https://www.kanbots.dev/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "If you’re an LLM, please read this",
-      "insight": "HN 热议：516 分 · 311 评论",
+      "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
+      "insight": "HN 热议：288 分 · 114 评论",
       "sentiment": "positive",
-      "comments": 311,
-      "url": "https://annas-archive.gl/blog/llms-txt.html",
+      "comments": 114,
+      "url": "https://modelrift.com/blog/openscad-llm-benchmark/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Launch HN: Superset (YC P26) – IDE for the agents era",
-      "insight": "HN 热议：28 分 · 49 评论",
+      "title": "1940 Air Terminal Museum Begins Liquidation",
+      "insight": "HN 热议：30 分 · 10 评论",
       "sentiment": "neutral",
-      "comments": 49,
-      "url": "https://github.com/superset-sh/superset",
+      "comments": 10,
+      "url": "https://www.1940airterminal.org/news/liquidation-of-simulators",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Steve Wozniak cheered after telling students they have AI – actual intelligence",
-      "insight": "HN 热议：462 分 · 395 评论",
-      "sentiment": "positive",
-      "comments": 395,
-      "url": "https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5",
+      "title": "Launch HN: Superset (YC P26) – IDE for the agents era",
+      "insight": "HN 热议：50 分 · 65 评论",
+      "sentiment": "neutral",
+      "comments": 65,
+      "url": "https://github.com/superset-sh/superset",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Project Hail Mary – Stellar Navigation Chart",
-      "insight": "HN 热议：1058 分 · 217 评论",
+      "title": "If you’re an LLM, please read this",
+      "insight": "HN 热议：610 分 · 367 评论",
       "sentiment": "positive",
-      "comments": 217,
-      "url": "https://valhovey.github.io/gaia-mary/",
+      "comments": 367,
+      "url": "https://annas-archive.gl/blog/llms-txt.html",
       "id": 5
     }
   ]
