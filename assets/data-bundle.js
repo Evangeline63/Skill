@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-21T22:08:51Z",
+    "updated": "2026-05-22T02:00:24Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-21T22:08:51Z",
+    "updated": "2026-05-22T02:00:24Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,7 +266,7 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-21T22:08:51Z",
+    "updated": "2026-05-22T02:00:24Z",
     "repos": [
         {
             "rank": 1,
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 162626,
-            "stars_today": 162626,
+            "stars": 162629,
+            "stars_today": 162629,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 95353,
-            "stars_today": 95353,
+            "stars": 95357,
+            "stars_today": 95357,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93263,
-            "stars_today": 93263,
+            "stars": 93268,
+            "stars_today": 93268,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 77273,
-            "stars_today": 77273,
+            "stars": 77291,
+            "stars_today": 77291,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 74423,
-            "stars_today": 74423,
+            "stars": 74438,
+            "stars_today": 74438,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-21T22:08:51Z",
+    "updated": "2026-05-22T02:00:24Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-21T22:08:51Z",
+    "updated": "2026-05-22T02:00:24Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-21T22:08:51Z",
+    "updated": "2026-05-22T02:00:24Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Project Hail Mary – Stellar Navigation Chart",
-            "insight": "HN 热议：367 分 · 95 评论",
+            "insight": "HN 热议：576 分 · 134 评论",
             "sentiment": "positive",
-            "comments": 95,
+            "comments": 134,
             "url": "https://valhovey.github.io/gaia-mary/",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "Launch HN: Runtime (YC P26) – Sandboxed coding agents for everyone on a team",
-            "insight": "HN 热议：47 分 · 19 评论",
+            "insight": "HN 热议：67 分 · 20 评论",
             "sentiment": "neutral",
-            "comments": 19,
+            "comments": 20,
             "url": "https://www.runtm.com/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Agent.email – sign up via curl, claim with a human OTP",
-            "insight": "HN 热议：35 分 · 41 评论",
-            "sentiment": "neutral",
-            "comments": 41,
-            "url": "https://news.ycombinator.com/item?id=48225596",
+            "title": "Google's Antigravity bait and switch",
+            "insight": "HN 热议：538 分 · 267 评论",
+            "sentiment": "positive",
+            "comments": 267,
+            "url": "https://www.0xsid.com/blog/antigravity-bait-n-switch",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Google's Antigravity bait and switch",
-            "insight": "HN 热议：460 分 · 235 评论",
-            "sentiment": "positive",
-            "comments": 235,
-            "url": "https://www.0xsid.com/blog/antigravity-bait-n-switch",
+            "title": "Multi-Stream LLMs: new paper on parallelizing/separating prompts, thinking, I/O",
+            "insight": "HN 热议：58 分 · 5 评论",
+            "sentiment": "neutral",
+            "comments": 5,
+            "url": "https://arxiv.org/abs/2605.12460",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Multi-Stream LLMs: new paper on parallelizing/separating prompts, thinking, I/O",
-            "insight": "HN 热议：28 分 · 1 评论",
-            "sentiment": "neutral",
-            "comments": 1,
-            "url": "https://arxiv.org/abs/2605.12460",
+            "title": "Throwing AI-generated walls of text into conversations",
+            "insight": "HN 热议：501 分 · 302 评论",
+            "sentiment": "positive",
+            "comments": 302,
+            "url": "https://noslopgrenade.com/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-21T22:08:51Z",
+    "updated": "2026-05-22T02:00:24Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

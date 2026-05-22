@@ -1,49 +1,49 @@
 {
-  "updated": "2026-05-21T22:08:51Z",
+  "updated": "2026-05-22T02:00:24Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Project Hail Mary – Stellar Navigation Chart",
-      "insight": "HN 热议：367 分 · 95 评论",
+      "insight": "HN 热议：576 分 · 134 评论",
       "sentiment": "positive",
-      "comments": 95,
+      "comments": 134,
       "url": "https://valhovey.github.io/gaia-mary/",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "Launch HN: Runtime (YC P26) – Sandboxed coding agents for everyone on a team",
-      "insight": "HN 热议：47 分 · 19 评论",
+      "insight": "HN 热议：67 分 · 20 评论",
       "sentiment": "neutral",
-      "comments": 19,
+      "comments": 20,
       "url": "https://www.runtm.com/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Agent.email – sign up via curl, claim with a human OTP",
-      "insight": "HN 热议：35 分 · 41 评论",
-      "sentiment": "neutral",
-      "comments": 41,
-      "url": "https://news.ycombinator.com/item?id=48225596",
+      "title": "Google's Antigravity bait and switch",
+      "insight": "HN 热议：538 分 · 267 评论",
+      "sentiment": "positive",
+      "comments": 267,
+      "url": "https://www.0xsid.com/blog/antigravity-bait-n-switch",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Google's Antigravity bait and switch",
-      "insight": "HN 热议：460 分 · 235 评论",
-      "sentiment": "positive",
-      "comments": 235,
-      "url": "https://www.0xsid.com/blog/antigravity-bait-n-switch",
+      "title": "Multi-Stream LLMs: new paper on parallelizing/separating prompts, thinking, I/O",
+      "insight": "HN 热议：58 分 · 5 评论",
+      "sentiment": "neutral",
+      "comments": 5,
+      "url": "https://arxiv.org/abs/2605.12460",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Multi-Stream LLMs: new paper on parallelizing/separating prompts, thinking, I/O",
-      "insight": "HN 热议：28 分 · 1 评论",
-      "sentiment": "neutral",
-      "comments": 1,
-      "url": "https://arxiv.org/abs/2605.12460",
+      "title": "Throwing AI-generated walls of text into conversations",
+      "insight": "HN 热议：501 分 · 302 评论",
+      "sentiment": "positive",
+      "comments": 302,
+      "url": "https://noslopgrenade.com/",
       "id": 5
     }
   ]
