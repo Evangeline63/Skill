@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-23T12:54:10Z",
+    "updated": "2026-05-23T15:52:48Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-23T12:54:10Z",
+    "updated": "2026-05-23T15:52:48Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-23T12:54:10Z",
+    "updated": "2026-05-23T15:52:48Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184469,
-            "stars_today": 184469,
+            "stars": 184477,
+            "stars_today": 184477,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 162698,
-            "stars_today": 162698,
+            "stars": 162705,
+            "stars_today": 162705,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 95431,
-            "stars_today": 95431,
+            "stars": 95487,
+            "stars_today": 95487,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93298,
-            "stars_today": 93298,
+            "stars": 93306,
+            "stars_today": 93306,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 77604,
-            "stars_today": 77604,
+            "stars": 77629,
+            "stars_today": 77629,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 74602,
-            "stars_today": 74602,
+            "stars": 74631,
+            "stars_today": 74631,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-23T12:54:10Z",
+    "updated": "2026-05-23T15:52:48Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-23T12:54:10Z",
+    "updated": "2026-05-23T15:52:48Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-23T12:54:10Z",
+    "updated": "2026-05-23T15:52:48Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Making Deep Learning Go Brrrr from First Principles",
-            "insight": "HN 热议：18 分 · 7 评论",
+            "insight": "HN 热议：69 分 · 27 评论",
             "sentiment": "neutral",
-            "comments": 7,
+            "comments": 27,
             "url": "https://horace.io/brrr_intro.html",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "Microsoft starts canceling Claude Code licenses",
-            "insight": "HN 热议：328 分 · 282 评论",
+            "insight": "HN 热议：385 分 · 363 评论",
             "sentiment": "positive",
-            "comments": 282,
+            "comments": 363,
             "url": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "CISA tries to contain data leak",
-            "insight": "HN 热议：225 分 · 51 评论",
+            "insight": "HN 热议：239 分 · 54 评论",
             "sentiment": "positive",
-            "comments": 51,
+            "comments": 54,
             "url": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
             "id": 3
         },
         {
             "source": "HackerNews",
             "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
-            "insight": "HN 热议：395 分 · 153 评论",
+            "insight": "HN 热议：407 分 · 155 评论",
             "sentiment": "positive",
-            "comments": 153,
+            "comments": 155,
             "url": "https://modelrift.com/blog/openscad-llm-benchmark/",
             "id": 4
         },
         {
             "source": "HackerNews",
             "title": "Neutron scattering explains why gluten-free pasta falls apart (2025)",
-            "insight": "HN 热议：78 分 · 28 评论",
+            "insight": "HN 热议：89 分 · 38 评论",
             "sentiment": "neutral",
-            "comments": 28,
+            "comments": 38,
             "url": "https://phys.org/news/2025-09-science-spaghetti-neutron-gluten-free.html",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-23T12:54:10Z",
+    "updated": "2026-05-23T15:52:48Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

@@ -1,48 +1,48 @@
 {
-  "updated": "2026-05-23T12:54:10Z",
+  "updated": "2026-05-23T15:52:48Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Making Deep Learning Go Brrrr from First Principles",
-      "insight": "HN 热议：18 分 · 7 评论",
+      "insight": "HN 热议：69 分 · 27 评论",
       "sentiment": "neutral",
-      "comments": 7,
+      "comments": 27,
       "url": "https://horace.io/brrr_intro.html",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "Microsoft starts canceling Claude Code licenses",
-      "insight": "HN 热议：328 分 · 282 评论",
+      "insight": "HN 热议：385 分 · 363 评论",
       "sentiment": "positive",
-      "comments": 282,
+      "comments": 363,
       "url": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "CISA tries to contain data leak",
-      "insight": "HN 热议：225 分 · 51 评论",
+      "insight": "HN 热议：239 分 · 54 评论",
       "sentiment": "positive",
-      "comments": 51,
+      "comments": 54,
       "url": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
-      "insight": "HN 热议：395 分 · 153 评论",
+      "insight": "HN 热议：407 分 · 155 评论",
       "sentiment": "positive",
-      "comments": 153,
+      "comments": 155,
       "url": "https://modelrift.com/blog/openscad-llm-benchmark/",
       "id": 4
     },
     {
       "source": "HackerNews",
       "title": "Neutron scattering explains why gluten-free pasta falls apart (2025)",
-      "insight": "HN 热议：78 分 · 28 评论",
+      "insight": "HN 热议：89 分 · 38 评论",
       "sentiment": "neutral",
-      "comments": 28,
+      "comments": 38,
       "url": "https://phys.org/news/2025-09-science-spaghetti-neutron-gluten-free.html",
       "id": 5
     }
