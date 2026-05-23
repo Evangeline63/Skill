@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-23T05:56:38Z",
+    "updated": "2026-05-23T08:07:52Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-23T05:56:38Z",
+    "updated": "2026-05-23T08:07:52Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,7 +266,7 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-23T05:56:38Z",
+    "updated": "2026-05-23T08:07:52Z",
     "repos": [
         {
             "rank": 1,
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 162691,
-            "stars_today": 162691,
+            "stars": 162695,
+            "stars_today": 162695,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 95411,
-            "stars_today": 95411,
+            "stars": 95420,
+            "stars_today": 95420,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93294,
-            "stars_today": 93294,
+            "stars": 93293,
+            "stars_today": 93293,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 77537,
-            "stars_today": 77537,
+            "stars": 77554,
+            "stars_today": 77554,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 74555,
-            "stars_today": 74555,
+            "stars": 74566,
+            "stars_today": 74566,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-23T05:56:38Z",
+    "updated": "2026-05-23T08:07:52Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-23T05:56:38Z",
+    "updated": "2026-05-23T08:07:52Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-23T05:56:38Z",
+    "updated": "2026-05-23T08:07:52Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Microsoft reports AI is more expensive than paying human employees",
-            "insight": "HN 热议：180 分 · 43 评论",
-            "sentiment": "neutral",
-            "comments": 43,
-            "url": "https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/",
+            "title": "Microsoft starts canceling Claude Code licenses",
+            "insight": "HN 热议：213 分 · 157 评论",
+            "sentiment": "positive",
+            "comments": 157,
+            "url": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "Neutron scattering explains why gluten-free pasta falls apart (2025)",
-            "insight": "HN 热议：39 分 · 9 评论",
+            "insight": "HN 热议：59 分 · 16 评论",
             "sentiment": "neutral",
-            "comments": 9,
+            "comments": 16,
             "url": "https://phys.org/news/2025-09-science-spaghetti-neutron-gluten-free.html",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "CISA tries to contain data leak",
-            "insight": "HN 热议：175 分 · 46 评论",
+            "insight": "HN 热议：188 分 · 49 评论",
             "sentiment": "neutral",
-            "comments": 46,
+            "comments": 49,
             "url": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Open source Kanban desktop app that runs parallel agents on every card",
-            "insight": "HN 热议：200 分 · 115 评论",
-            "sentiment": "neutral",
-            "comments": 115,
-            "url": "https://www.kanbots.dev/",
+            "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
+            "insight": "HN 热议：379 分 · 148 评论",
+            "sentiment": "positive",
+            "comments": 148,
+            "url": "https://modelrift.com/blog/openscad-llm-benchmark/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
-            "insight": "HN 热议：372 分 · 147 评论",
+            "title": "Open source Kanban desktop app that runs parallel agents on every card",
+            "insight": "HN 热议：213 分 · 123 评论",
             "sentiment": "positive",
-            "comments": 147,
-            "url": "https://modelrift.com/blog/openscad-llm-benchmark/",
+            "comments": 123,
+            "url": "https://www.kanbots.dev/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-23T05:56:38Z",
+    "updated": "2026-05-23T08:07:52Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
