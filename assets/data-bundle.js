@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-23T15:52:48Z",
+    "updated": "2026-05-23T18:51:18Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-23T15:52:48Z",
+    "updated": "2026-05-23T18:51:18Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-23T15:52:48Z",
+    "updated": "2026-05-23T18:51:18Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184477,
-            "stars_today": 184477,
+            "stars": 184481,
+            "stars_today": 184481,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 162705,
-            "stars_today": 162705,
+            "stars": 162709,
+            "stars_today": 162709,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 95487,
-            "stars_today": 95487,
+            "stars": 95545,
+            "stars_today": 95545,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93306,
-            "stars_today": 93306,
+            "stars": 93308,
+            "stars_today": 93308,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 77629,
-            "stars_today": 77629,
+            "stars": 77650,
+            "stars_today": 77650,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 74631,
-            "stars_today": 74631,
+            "stars": 74644,
+            "stars_today": 74644,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-23T15:52:48Z",
+    "updated": "2026-05-23T18:51:18Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-23T15:52:48Z",
+    "updated": "2026-05-23T18:51:18Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-23T15:52:48Z",
+    "updated": "2026-05-23T18:51:18Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Making Deep Learning Go Brrrr from First Principles",
-            "insight": "HN 热议：69 分 · 27 评论",
+            "title": "Italy Cancels Boeing Pegasus Order, Shifting to Airbus A330 MRTT",
+            "insight": "HN 热议：116 分 · 33 评论",
             "sentiment": "neutral",
-            "comments": 27,
-            "url": "https://horace.io/brrr_intro.html",
+            "comments": 33,
+            "url": "https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Microsoft starts canceling Claude Code licenses",
-            "insight": "HN 热议：385 分 · 363 评论",
-            "sentiment": "positive",
-            "comments": 363,
-            "url": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
+            "title": "Making Deep Learning Go Brrrr from First Principles (2022)",
+            "insight": "HN 热议：117 分 · 43 评论",
+            "sentiment": "neutral",
+            "comments": 43,
+            "url": "https://horace.io/brrr_intro.html",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "CISA tries to contain data leak",
-            "insight": "HN 热议：239 分 · 54 评论",
-            "sentiment": "positive",
-            "comments": 54,
-            "url": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
+            "title": "AI Engineering from Scratch",
+            "insight": "HN 热议：51 分 · 11 评论",
+            "sentiment": "neutral",
+            "comments": 11,
+            "url": "https://aiengineeringfromscratch.com",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
-            "insight": "HN 热议：407 分 · 155 评论",
+            "title": "Microsoft starts canceling Claude Code licenses",
+            "insight": "HN 热议：428 分 · 406 评论",
             "sentiment": "positive",
-            "comments": 155,
-            "url": "https://modelrift.com/blog/openscad-llm-benchmark/",
+            "comments": 406,
+            "url": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Neutron scattering explains why gluten-free pasta falls apart (2025)",
-            "insight": "HN 热议：89 分 · 38 评论",
-            "sentiment": "neutral",
-            "comments": 38,
-            "url": "https://phys.org/news/2025-09-science-spaghetti-neutron-gluten-free.html",
+            "title": "CISA tries to contain data leak",
+            "insight": "HN 热议：255 分 · 55 评论",
+            "sentiment": "positive",
+            "comments": 55,
+            "url": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-23T15:52:48Z",
+    "updated": "2026-05-23T18:51:18Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
