@@ -1,49 +1,49 @@
 {
-  "updated": "2026-05-23T18:51:18Z",
+  "updated": "2026-05-23T21:42:08Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Italy Cancels Boeing Pegasus Order, Shifting to Airbus A330 MRTT",
-      "insight": "HN 热议：116 分 · 33 评论",
+      "title": "Making Deep Learning Go Brrrr from First Principles (2022)",
+      "insight": "HN 热议：132 分 · 50 评论",
       "sentiment": "neutral",
-      "comments": 33,
-      "url": "https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift",
+      "comments": 50,
+      "url": "https://horace.io/brrr_intro.html",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Making Deep Learning Go Brrrr from First Principles (2022)",
-      "insight": "HN 热议：117 分 · 43 评论",
+      "title": "Italy Cancels Boeing Pegasus Order, Shifting to Airbus A330 MRTT",
+      "insight": "HN 热议：199 分 · 63 评论",
       "sentiment": "neutral",
-      "comments": 43,
-      "url": "https://horace.io/brrr_intro.html",
+      "comments": 63,
+      "url": "https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "AI Engineering from Scratch",
-      "insight": "HN 热议：51 分 · 11 评论",
-      "sentiment": "neutral",
-      "comments": 11,
-      "url": "https://aiengineeringfromscratch.com",
+      "title": "Microsoft starts canceling Claude Code licenses",
+      "insight": "HN 热议：436 分 · 425 评论",
+      "sentiment": "positive",
+      "comments": 425,
+      "url": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Microsoft starts canceling Claude Code licenses",
-      "insight": "HN 热议：428 分 · 406 评论",
+      "title": "CISA tries to contain data leak",
+      "insight": "HN 热议：259 分 · 56 评论",
       "sentiment": "positive",
-      "comments": 406,
-      "url": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
+      "comments": 56,
+      "url": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "CISA tries to contain data leak",
-      "insight": "HN 热议：255 分 · 55 评论",
+      "title": "Open source Kanban desktop app that runs parallel agents on every card",
+      "insight": "HN 热议：247 分 · 150 评论",
       "sentiment": "positive",
-      "comments": 55,
-      "url": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
+      "comments": 150,
+      "url": "https://www.kanbots.dev/",
       "id": 5
     }
   ]
