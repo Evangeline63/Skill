@@ -1,49 +1,49 @@
 {
-  "updated": "2026-05-23T10:19:25Z",
+  "updated": "2026-05-23T12:54:10Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Microsoft starts canceling Claude Code licenses",
-      "insight": "HN 热议：272 分 · 211 评论",
-      "sentiment": "positive",
-      "comments": 211,
-      "url": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
+      "title": "Making Deep Learning Go Brrrr from First Principles",
+      "insight": "HN 热议：18 分 · 7 评论",
+      "sentiment": "neutral",
+      "comments": 7,
+      "url": "https://horace.io/brrr_intro.html",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Neutron scattering explains why gluten-free pasta falls apart (2025)",
-      "insight": "HN 热议：71 分 · 21 评论",
-      "sentiment": "neutral",
-      "comments": 21,
-      "url": "https://phys.org/news/2025-09-science-spaghetti-neutron-gluten-free.html",
+      "title": "Microsoft starts canceling Claude Code licenses",
+      "insight": "HN 热议：328 分 · 282 评论",
+      "sentiment": "positive",
+      "comments": 282,
+      "url": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "CISA tries to contain data leak",
-      "insight": "HN 热议：211 分 · 50 评论",
+      "insight": "HN 热议：225 分 · 51 评论",
       "sentiment": "positive",
-      "comments": 50,
+      "comments": 51,
       "url": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
-      "insight": "HN 热议：387 分 · 150 评论",
+      "insight": "HN 热议：395 分 · 153 评论",
       "sentiment": "positive",
-      "comments": 150,
+      "comments": 153,
       "url": "https://modelrift.com/blog/openscad-llm-benchmark/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Open source Kanban desktop app that runs parallel agents on every card",
-      "insight": "HN 热议：220 分 · 128 评论",
-      "sentiment": "positive",
-      "comments": 128,
-      "url": "https://www.kanbots.dev/",
+      "title": "Neutron scattering explains why gluten-free pasta falls apart (2025)",
+      "insight": "HN 热议：78 分 · 28 评论",
+      "sentiment": "neutral",
+      "comments": 28,
+      "url": "https://phys.org/news/2025-09-science-spaghetti-neutron-gluten-free.html",
       "id": 5
     }
   ]
