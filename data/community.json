@@ -1,49 +1,49 @@
 {
-  "updated": "2026-05-23T21:42:08Z",
+  "updated": "2026-05-24T01:57:29Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Making Deep Learning Go Brrrr from First Principles (2022)",
-      "insight": "HN 热议：132 分 · 50 评论",
+      "title": "NeuralNote",
+      "insight": "HN 热议：7 分 · 0 评论",
       "sentiment": "neutral",
-      "comments": 50,
-      "url": "https://horace.io/brrr_intro.html",
+      "comments": 0,
+      "url": "https://github.com/DamRsn/NeuralNote",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Italy Cancels Boeing Pegasus Order, Shifting to Airbus A330 MRTT",
-      "insight": "HN 热议：199 分 · 63 评论",
+      "title": "Making deep learning go brrrr from first principles (2022)",
+      "insight": "HN 热议：153 分 · 59 评论",
       "sentiment": "neutral",
-      "comments": 63,
-      "url": "https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift",
+      "comments": 59,
+      "url": "https://horace.io/brrr_intro.html",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Microsoft starts canceling Claude Code licenses",
-      "insight": "HN 热议：436 分 · 425 评论",
+      "title": "Italy moves to Airbus A330 tankers",
+      "insight": "HN 热议：235 分 · 85 评论",
       "sentiment": "positive",
-      "comments": 425,
-      "url": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
+      "comments": 85,
+      "url": "https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "CISA tries to contain data leak",
-      "insight": "HN 热议：259 分 · 56 评论",
-      "sentiment": "positive",
-      "comments": 56,
-      "url": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
+      "title": "Air France and Airbus found guilty of manslaughter over 2009 plane crash",
+      "insight": "HN 热议：11 分 · 0 评论",
+      "sentiment": "neutral",
+      "comments": 0,
+      "url": "https://www.bbc.com/news/articles/czd2qmdvmq6o",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Open source Kanban desktop app that runs parallel agents on every card",
-      "insight": "HN 热议：247 分 · 150 评论",
-      "sentiment": "positive",
-      "comments": 150,
-      "url": "https://www.kanbots.dev/",
+      "title": "AI didn't kill your junior pipeline. You did",
+      "insight": "HN 热议：7 分 · 2 评论",
+      "sentiment": "neutral",
+      "comments": 2,
+      "url": "https://andrewmurphy.io/blog/ai-didnt-kill-your-junior-pipeline-you-did",
       "id": 5
     }
   ]
