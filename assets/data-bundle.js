@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-24T18:57:16Z",
+    "updated": "2026-05-24T21:43:15Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-24T18:57:16Z",
+    "updated": "2026-05-24T21:43:15Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-24T18:57:16Z",
+    "updated": "2026-05-24T21:43:15Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184513,
-            "stars_today": 184513,
+            "stars": 184512,
+            "stars_today": 184512,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 162762,
-            "stars_today": 162762,
+            "stars": 162767,
+            "stars_today": 162767,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 95758,
-            "stars_today": 95758,
+            "stars": 95773,
+            "stars_today": 95773,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 77817,
-            "stars_today": 77817,
+            "stars": 77841,
+            "stars_today": 77841,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 74733,
-            "stars_today": 74733,
+            "stars": 74745,
+            "stars_today": 74745,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-24T18:57:16Z",
+    "updated": "2026-05-24T21:43:15Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-24T18:57:16Z",
+    "updated": "2026-05-24T21:43:15Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-24T18:57:16Z",
+    "updated": "2026-05-24T21:43:15Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Memory has grown to nearly two-thirds of AI chip component costs",
-            "insight": "HN 热议：122 分 · 123 评论",
-            "sentiment": "neutral",
-            "comments": 123,
-            "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
+            "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
+            "insight": "HN 热议：333 分 · 170 评论",
+            "sentiment": "positive",
+            "comments": 170,
+            "url": "https://esengine.github.io/DeepSeek-Reasonix/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
-            "insight": "HN 热议：225 分 · 121 评论",
+            "title": "Memory has grown to nearly two-thirds of AI chip component costs",
+            "insight": "HN 热议：225 分 · 247 评论",
             "sentiment": "positive",
-            "comments": 121,
-            "url": "https://esengine.github.io/DeepSeek-Reasonix/",
+            "comments": 247,
+            "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
-            "insight": "HN 热议：95 分 · 50 评论",
+            "insight": "HN 热议：142 分 · 66 评论",
             "sentiment": "neutral",
-            "comments": 50,
+            "comments": 66,
             "url": "https://arxiv.org/abs/2605.06445",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "'AI washing': firms are scrambling to rebrand themselves as tech-focused",
-            "insight": "HN 热议：112 分 · 81 评论",
+            "title": "Claude is not your architect. Stop letting it pretend",
+            "insight": "HN 热议：189 分 · 133 评论",
             "sentiment": "neutral",
-            "comments": 81,
-            "url": "https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand",
+            "comments": 133,
+            "url": "https://www.hollandtech.net/claude-is-not-your-architect/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "FreeBSD Foundation Executive Director Tries Daily Driving FreeBSD on Laptop",
-            "insight": "HN 热议：47 分 · 43 评论",
+            "title": "DeepSeek to Make Permanent 75% Discount on Flagship AI Model",
+            "insight": "HN 热议：174 分 · 2 评论",
             "sentiment": "neutral",
-            "comments": 43,
-            "url": "https://www.phoronix.com/news/FreeBSD-On-Laptop-Driver",
+            "comments": 2,
+            "url": "https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-24T18:57:16Z",
+    "updated": "2026-05-24T21:43:15Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
