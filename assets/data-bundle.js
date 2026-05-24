@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-24T10:25:04Z",
+    "updated": "2026-05-24T12:54:50Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-24T10:25:04Z",
+    "updated": "2026-05-24T12:54:50Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-24T10:25:04Z",
+    "updated": "2026-05-24T12:54:50Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184495,
-            "stars_today": 184495,
+            "stars": 184501,
+            "stars_today": 184501,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 162744,
-            "stars_today": 162744,
+            "stars": 162749,
+            "stars_today": 162749,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 95681,
-            "stars_today": 95681,
+            "stars": 95696,
+            "stars_today": 95696,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93328,
-            "stars_today": 93328,
+            "stars": 93331,
+            "stars_today": 93331,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 77745,
-            "stars_today": 77745,
+            "stars": 77770,
+            "stars_today": 77770,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 74701,
-            "stars_today": 74701,
+            "stars": 74711,
+            "stars_today": 74711,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-24T10:25:04Z",
+    "updated": "2026-05-24T12:54:50Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-24T10:25:04Z",
+    "updated": "2026-05-24T12:54:50Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-24T10:25:04Z",
+    "updated": "2026-05-24T12:54:50Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Greg Brockman: Inside the 72 Hours That Almost Killed OpenAI",
-            "insight": "HN 热议：9 分 · 1 评论",
+            "insight": "HN 热议：71 分 · 45 评论",
             "sentiment": "neutral",
-            "comments": 1,
+            "comments": 45,
             "url": "https://fs.blog/knowledge-project-podcast/greg-brockman/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Air France and Airbus found guilty of manslaughter over 2009 plane crash",
-            "insight": "HN 热议：97 分 · 70 评论",
+            "title": "Making deep learning go brrrr from first principles (2022)",
+            "insight": "HN 热议：175 分 · 63 评论",
             "sentiment": "neutral",
-            "comments": 70,
-            "url": "https://www.bbc.com/news/articles/czd2qmdvmq6o",
+            "comments": 63,
+            "url": "https://horace.io/brrr_intro.html",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Making deep learning go brrrr from first principles (2022)",
-            "insight": "HN 热议：172 分 · 62 评论",
+            "title": "Air France and Airbus found guilty of manslaughter over 2009 plane crash",
+            "insight": "HN 热议：105 分 · 83 评论",
             "sentiment": "neutral",
-            "comments": 62,
-            "url": "https://horace.io/brrr_intro.html",
+            "comments": 83,
+            "url": "https://www.bbc.com/news/articles/czd2qmdvmq6o",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "NeuralNote",
-            "insight": "HN 热议：23 分 · 1 评论",
-            "sentiment": "neutral",
-            "comments": 1,
-            "url": "https://github.com/DamRsn/NeuralNote",
+            "title": "Italy moves to Airbus A330 tankers",
+            "insight": "HN 热议：264 分 · 103 评论",
+            "sentiment": "positive",
+            "comments": 103,
+            "url": "https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Italy moves to Airbus A330 tankers",
-            "insight": "HN 热议：258 分 · 102 评论",
-            "sentiment": "positive",
-            "comments": 102,
-            "url": "https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift",
+            "title": "NeuralNote",
+            "insight": "HN 热议：26 分 · 1 评论",
+            "sentiment": "neutral",
+            "comments": 1,
+            "url": "https://github.com/DamRsn/NeuralNote",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-24T10:25:04Z",
+    "updated": "2026-05-24T12:54:50Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
