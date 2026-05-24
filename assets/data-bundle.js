@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-24T15:52:25Z",
+    "updated": "2026-05-24T18:57:16Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-24T15:52:25Z",
+    "updated": "2026-05-24T18:57:16Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-24T15:52:25Z",
+    "updated": "2026-05-24T18:57:16Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184505,
-            "stars_today": 184505,
+            "stars": 184513,
+            "stars_today": 184513,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 162759,
-            "stars_today": 162759,
+            "stars": 162762,
+            "stars_today": 162762,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 95736,
-            "stars_today": 95736,
+            "stars": 95758,
+            "stars_today": 95758,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93333,
-            "stars_today": 93333,
+            "stars": 93337,
+            "stars_today": 93337,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 77793,
-            "stars_today": 77793,
+            "stars": 77817,
+            "stars_today": 77817,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 74725,
-            "stars_today": 74725,
+            "stars": 74733,
+            "stars_today": 74733,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-24T15:52:25Z",
+    "updated": "2026-05-24T18:57:16Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-24T15:52:25Z",
+    "updated": "2026-05-24T18:57:16Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-24T15:52:25Z",
+    "updated": "2026-05-24T18:57:16Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
-            "insight": "HN 热议：76 分 · 49 评论",
+            "title": "Memory has grown to nearly two-thirds of AI chip component costs",
+            "insight": "HN 热议：122 分 · 123 评论",
             "sentiment": "neutral",
-            "comments": 49,
-            "url": "https://esengine.github.io/DeepSeek-Reasonix/",
+            "comments": 123,
+            "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
-            "insight": "HN 热议：28 分 · 12 评论",
-            "sentiment": "neutral",
-            "comments": 12,
-            "url": "https://arxiv.org/abs/2605.06445",
+            "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
+            "insight": "HN 热议：225 分 · 121 评论",
+            "sentiment": "positive",
+            "comments": 121,
+            "url": "https://esengine.github.io/DeepSeek-Reasonix/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "DeepSeek to Make Permanent 75% Discount on Flagship AI Model",
-            "insight": "HN 热议：35 分 · 30 评论",
+            "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
+            "insight": "HN 热议：95 分 · 50 评论",
             "sentiment": "neutral",
-            "comments": 30,
-            "url": "https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model",
+            "comments": 50,
+            "url": "https://arxiv.org/abs/2605.06445",
             "id": 3
         },
         {
             "source": "HackerNews",
             "title": "'AI washing': firms are scrambling to rebrand themselves as tech-focused",
-            "insight": "HN 热议：4 分 · 1 评论",
+            "insight": "HN 热议：112 分 · 81 评论",
             "sentiment": "neutral",
-            "comments": 1,
+            "comments": 81,
             "url": "https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Making deep learning go brrrr from first principles (2022)",
-            "insight": "HN 热议：177 分 · 63 评论",
+            "title": "FreeBSD Foundation Executive Director Tries Daily Driving FreeBSD on Laptop",
+            "insight": "HN 热议：47 分 · 43 评论",
             "sentiment": "neutral",
-            "comments": 63,
-            "url": "https://horace.io/brrr_intro.html",
+            "comments": 43,
+            "url": "https://www.phoronix.com/news/FreeBSD-On-Laptop-Driver",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-24T15:52:25Z",
+    "updated": "2026-05-24T18:57:16Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
