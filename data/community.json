@@ -1,49 +1,49 @@
 {
-  "updated": "2026-05-24T12:54:50Z",
+  "updated": "2026-05-24T15:52:25Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Greg Brockman: Inside the 72 Hours That Almost Killed OpenAI",
-      "insight": "HN 热议：71 分 · 45 评论",
+      "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
+      "insight": "HN 热议：76 分 · 49 评论",
       "sentiment": "neutral",
-      "comments": 45,
-      "url": "https://fs.blog/knowledge-project-podcast/greg-brockman/",
+      "comments": 49,
+      "url": "https://esengine.github.io/DeepSeek-Reasonix/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Making deep learning go brrrr from first principles (2022)",
-      "insight": "HN 热议：175 分 · 63 评论",
+      "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
+      "insight": "HN 热议：28 分 · 12 评论",
       "sentiment": "neutral",
-      "comments": 63,
-      "url": "https://horace.io/brrr_intro.html",
+      "comments": 12,
+      "url": "https://arxiv.org/abs/2605.06445",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Air France and Airbus found guilty of manslaughter over 2009 plane crash",
-      "insight": "HN 热议：105 分 · 83 评论",
+      "title": "DeepSeek to Make Permanent 75% Discount on Flagship AI Model",
+      "insight": "HN 热议：35 分 · 30 评论",
       "sentiment": "neutral",
-      "comments": 83,
-      "url": "https://www.bbc.com/news/articles/czd2qmdvmq6o",
+      "comments": 30,
+      "url": "https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Italy moves to Airbus A330 tankers",
-      "insight": "HN 热议：264 分 · 103 评论",
-      "sentiment": "positive",
-      "comments": 103,
-      "url": "https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift",
+      "title": "'AI washing': firms are scrambling to rebrand themselves as tech-focused",
+      "insight": "HN 热议：4 分 · 1 评论",
+      "sentiment": "neutral",
+      "comments": 1,
+      "url": "https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "NeuralNote",
-      "insight": "HN 热议：26 分 · 1 评论",
+      "title": "Making deep learning go brrrr from first principles (2022)",
+      "insight": "HN 热议：177 分 · 63 评论",
       "sentiment": "neutral",
-      "comments": 1,
-      "url": "https://github.com/DamRsn/NeuralNote",
+      "comments": 63,
+      "url": "https://horace.io/brrr_intro.html",
       "id": 5
     }
   ]
