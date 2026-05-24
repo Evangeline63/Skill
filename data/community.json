@@ -1,49 +1,49 @@
 {
-  "updated": "2026-05-24T01:57:29Z",
+  "updated": "2026-05-24T06:25:28Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "NeuralNote",
-      "insight": "HN 热议：7 分 · 0 评论",
+      "title": "Air France and Airbus found guilty of manslaughter over 2009 plane crash",
+      "insight": "HN 热议：58 分 · 32 评论",
       "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://github.com/DamRsn/NeuralNote",
+      "comments": 32,
+      "url": "https://www.bbc.com/news/articles/czd2qmdvmq6o",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "Making deep learning go brrrr from first principles (2022)",
-      "insight": "HN 热议：153 分 · 59 评论",
+      "insight": "HN 热议：163 分 · 60 评论",
       "sentiment": "neutral",
-      "comments": 59,
+      "comments": 60,
       "url": "https://horace.io/brrr_intro.html",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Italy moves to Airbus A330 tankers",
-      "insight": "HN 热议：235 分 · 85 评论",
-      "sentiment": "positive",
-      "comments": 85,
-      "url": "https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift",
+      "title": "NeuralNote",
+      "insight": "HN 热议：18 分 · 1 评论",
+      "sentiment": "neutral",
+      "comments": 1,
+      "url": "https://github.com/DamRsn/NeuralNote",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Air France and Airbus found guilty of manslaughter over 2009 plane crash",
-      "insight": "HN 热议：11 分 · 0 评论",
-      "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://www.bbc.com/news/articles/czd2qmdvmq6o",
+      "title": "Italy moves to Airbus A330 tankers",
+      "insight": "HN 热议：246 分 · 99 评论",
+      "sentiment": "positive",
+      "comments": 99,
+      "url": "https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "AI didn't kill your junior pipeline. You did",
-      "insight": "HN 热议：7 分 · 2 评论",
-      "sentiment": "neutral",
-      "comments": 2,
-      "url": "https://andrewmurphy.io/blog/ai-didnt-kill-your-junior-pipeline-you-did",
+      "title": "Microsoft starts canceling Claude Code licenses",
+      "insight": "HN 热议：463 分 · 446 评论",
+      "sentiment": "positive",
+      "comments": 446,
+      "url": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
       "id": 5
     }
   ]

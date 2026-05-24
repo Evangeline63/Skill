@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-24T01:57:29Z",
+    "updated": "2026-05-24T06:25:28Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-24T01:57:29Z",
+    "updated": "2026-05-24T06:25:28Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-24T01:57:29Z",
+    "updated": "2026-05-24T06:25:28Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184480,
-            "stars_today": 184480,
+            "stars": 184486,
+            "stars_today": 184486,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 162721,
-            "stars_today": 162721,
+            "stars": 162733,
+            "stars_today": 162733,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 95618,
-            "stars_today": 95618,
+            "stars": 95651,
+            "stars_today": 95651,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93313,
-            "stars_today": 93313,
+            "stars": 93323,
+            "stars_today": 93323,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 77699,
-            "stars_today": 77699,
+            "stars": 77721,
+            "stars_today": 77721,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 74658,
-            "stars_today": 74658,
+            "stars": 74678,
+            "stars_today": 74678,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-24T01:57:29Z",
+    "updated": "2026-05-24T06:25:28Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-24T01:57:29Z",
+    "updated": "2026-05-24T06:25:28Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-24T01:57:29Z",
+    "updated": "2026-05-24T06:25:28Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "NeuralNote",
-            "insight": "HN 热议：7 分 · 0 评论",
+            "title": "Air France and Airbus found guilty of manslaughter over 2009 plane crash",
+            "insight": "HN 热议：58 分 · 32 评论",
             "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://github.com/DamRsn/NeuralNote",
+            "comments": 32,
+            "url": "https://www.bbc.com/news/articles/czd2qmdvmq6o",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "Making deep learning go brrrr from first principles (2022)",
-            "insight": "HN 热议：153 分 · 59 评论",
+            "insight": "HN 热议：163 分 · 60 评论",
             "sentiment": "neutral",
-            "comments": 59,
+            "comments": 60,
             "url": "https://horace.io/brrr_intro.html",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Italy moves to Airbus A330 tankers",
-            "insight": "HN 热议：235 分 · 85 评论",
-            "sentiment": "positive",
-            "comments": 85,
-            "url": "https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift",
+            "title": "NeuralNote",
+            "insight": "HN 热议：18 分 · 1 评论",
+            "sentiment": "neutral",
+            "comments": 1,
+            "url": "https://github.com/DamRsn/NeuralNote",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Air France and Airbus found guilty of manslaughter over 2009 plane crash",
-            "insight": "HN 热议：11 分 · 0 评论",
-            "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://www.bbc.com/news/articles/czd2qmdvmq6o",
+            "title": "Italy moves to Airbus A330 tankers",
+            "insight": "HN 热议：246 分 · 99 评论",
+            "sentiment": "positive",
+            "comments": 99,
+            "url": "https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "AI didn't kill your junior pipeline. You did",
-            "insight": "HN 热议：7 分 · 2 评论",
-            "sentiment": "neutral",
-            "comments": 2,
-            "url": "https://andrewmurphy.io/blog/ai-didnt-kill-your-junior-pipeline-you-did",
+            "title": "Microsoft starts canceling Claude Code licenses",
+            "insight": "HN 热议：463 分 · 446 评论",
+            "sentiment": "positive",
+            "comments": 446,
+            "url": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-24T01:57:29Z",
+    "updated": "2026-05-24T06:25:28Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
