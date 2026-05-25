@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-25T02:04:27Z",
+    "updated": "2026-05-25T06:59:16Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-25T02:04:27Z",
+    "updated": "2026-05-25T06:59:16Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-25T02:04:27Z",
+    "updated": "2026-05-25T06:59:16Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184518,
-            "stars_today": 184518,
+            "stars": 184523,
+            "stars_today": 184523,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 162772,
-            "stars_today": 162772,
+            "stars": 162788,
+            "stars_today": 162788,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 95807,
-            "stars_today": 95807,
+            "stars": 95852,
+            "stars_today": 95852,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93337,
-            "stars_today": 93337,
+            "stars": 93338,
+            "stars_today": 93338,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 77864,
-            "stars_today": 77864,
+            "stars": 77919,
+            "stars_today": 77919,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 74757,
-            "stars_today": 74757,
+            "stars": 74778,
+            "stars_today": 74778,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-25T02:04:27Z",
+    "updated": "2026-05-25T06:59:16Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-25T02:04:27Z",
+    "updated": "2026-05-25T06:59:16Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-25T02:04:27Z",
+    "updated": "2026-05-25T06:59:16Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
-            "insight": "HN 热议：441 分 · 199 评论",
+            "insight": "HN 热议：523 分 · 218 评论",
             "sentiment": "positive",
-            "comments": 199,
+            "comments": 218,
             "url": "https://esengine.github.io/DeepSeek-Reasonix/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Memory has grown to nearly two-thirds of AI chip component costs",
-            "insight": "HN 热议：295 分 · 313 评论",
+            "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
+            "insight": "HN 热议：217 分 · 116 评论",
             "sentiment": "positive",
-            "comments": 313,
-            "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
+            "comments": 116,
+            "url": "https://arxiv.org/abs/2605.06445",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
-            "insight": "HN 热议：176 分 · 86 评论",
-            "sentiment": "neutral",
-            "comments": 86,
-            "url": "https://arxiv.org/abs/2605.06445",
+            "title": "Memory has grown to nearly two-thirds of AI chip component costs",
+            "insight": "HN 热议：366 分 · 373 评论",
+            "sentiment": "positive",
+            "comments": 373,
+            "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
             "id": 3
         },
         {
             "source": "HackerNews",
             "title": "'AI washing': firms are scrambling to rebrand themselves as tech-focused",
-            "insight": "HN 热议：152 分 · 141 评论",
+            "insight": "HN 热议：157 分 · 148 评论",
             "sentiment": "neutral",
-            "comments": 141,
+            "comments": 148,
             "url": "https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Claude is not your architect. Stop letting it pretend",
-            "insight": "HN 热议：230 分 · 172 评论",
+            "title": "Italy moves to Airbus A330 tankers",
+            "insight": "HN 热议：279 分 · 112 评论",
             "sentiment": "positive",
-            "comments": 172,
-            "url": "https://www.hollandtech.net/claude-is-not-your-architect/",
+            "comments": 112,
+            "url": "https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-25T02:04:27Z",
+    "updated": "2026-05-25T06:59:16Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
