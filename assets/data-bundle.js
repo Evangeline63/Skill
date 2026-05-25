@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-25T16:56:30Z",
+    "updated": "2026-05-25T19:12:56Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-25T16:56:30Z",
+    "updated": "2026-05-25T19:12:56Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-25T16:56:30Z",
+    "updated": "2026-05-25T19:12:56Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184541,
-            "stars_today": 184541,
+            "stars": 184543,
+            "stars_today": 184543,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 162805,
-            "stars_today": 162805,
+            "stars": 162807,
+            "stars_today": 162807,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 95920,
-            "stars_today": 95920,
+            "stars": 95937,
+            "stars_today": 95937,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93352,
-            "stars_today": 93352,
+            "stars": 93354,
+            "stars_today": 93354,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 78043,
-            "stars_today": 78043,
+            "stars": 78073,
+            "stars_today": 78073,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 74820,
-            "stars_today": 74820,
+            "stars": 74828,
+            "stars_today": 74828,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-25T16:56:30Z",
+    "updated": "2026-05-25T19:12:56Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-25T16:56:30Z",
+    "updated": "2026-05-25T19:12:56Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-25T16:56:30Z",
+    "updated": "2026-05-25T19:12:56Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
-            "insight": "HN 热议：133 分 · 21 评论",
-            "sentiment": "neutral",
-            "comments": 21,
+            "insight": "HN 热议：203 分 · 50 评论",
+            "sentiment": "positive",
+            "comments": 50,
             "url": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "The physicists who convinced Fermilab to send Brazil's emails",
-            "insight": "HN 热议：27 分 · 11 评论",
-            "sentiment": "neutral",
-            "comments": 11,
-            "url": "https://buttondown.com/blog/brazil-fermilab-email",
+            "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
+            "insight": "HN 热议：663 分 · 266 评论",
+            "sentiment": "positive",
+            "comments": 266,
+            "url": "https://esengine.github.io/DeepSeek-Reasonix/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
-            "insight": "HN 热议：639 分 · 262 评论",
-            "sentiment": "positive",
-            "comments": 262,
-            "url": "https://esengine.github.io/DeepSeek-Reasonix/",
+            "title": "The physicists who convinced Fermilab to send Brazil's emails",
+            "insight": "HN 热议：40 分 · 15 评论",
+            "sentiment": "neutral",
+            "comments": 15,
+            "url": "https://buttondown.com/blog/brazil-fermilab-email",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Ubers COO says its getting harder to justify the money spent on AI tokenmaxxing",
-            "insight": "HN 热议：10 分 · 1 评论",
+            "title": "AI errno(2) values",
+            "insight": "HN 热议：93 分 · 18 评论",
             "sentiment": "neutral",
-            "comments": 1,
-            "url": "https://www.businessinsider.com/uber-coo-andrew-macdonald-ai-token-spending-harder-justify-2026-5",
+            "comments": 18,
+            "url": "https://www.netmeister.org/blog/ai-errno.html",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "AI errno(2) values",
-            "insight": "HN 热议：76 分 · 14 评论",
+            "title": "Notes about reading messages with the Python email packages",
+            "insight": "HN 热议：46 分 · 4 评论",
             "sentiment": "neutral",
-            "comments": 14,
-            "url": "https://www.netmeister.org/blog/ai-errno.html",
+            "comments": 4,
+            "url": "https://utcc.utoronto.ca/~cks/space/blog/python/EmailPackagesNotes",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-25T16:56:30Z",
+    "updated": "2026-05-25T19:12:56Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
