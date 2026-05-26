@@ -1,49 +1,49 @@
 {
-  "updated": "2026-05-26T19:51:54Z",
+  "updated": "2026-05-26T22:14:10Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence",
-      "insight": "HN 热议：517 分 · 239 评论",
+      "insight": "HN 热议：663 分 · 317 评论",
       "sentiment": "positive",
-      "comments": 239,
+      "comments": 317,
       "url": "https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "Outsourcing plus local AI will soon become more economical vs. frontier labs",
-      "insight": "HN 热议：174 分 · 182 评论",
-      "sentiment": "neutral",
-      "comments": 182,
+      "insight": "HN 热议：213 分 · 236 评论",
+      "sentiment": "positive",
+      "comments": 236,
       "url": "https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "Use boring languages with LLMs",
-      "insight": "HN 热议：102 分 · 79 评论",
+      "insight": "HN 热议：136 分 · 109 评论",
       "sentiment": "neutral",
-      "comments": 79,
+      "comments": 109,
       "url": "https://jry.io/writing/use-boring-languages-with-llms/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Using AI to write better code more slowly",
-      "insight": "HN 热议：1091 分 · 402 评论",
-      "sentiment": "positive",
-      "comments": 402,
-      "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
+      "title": "A sleep-like consolidation mechanism for LLMs",
+      "insight": "HN 热议：165 分 · 122 评论",
+      "sentiment": "neutral",
+      "comments": 122,
+      "url": "https://arxiv.org/abs/2605.26099",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "A successful Japanese trial of a ramjet engine designed for Mach‑5 aircraft",
-      "insight": "HN 热议：223 分 · 166 评论",
+      "title": "Using AI to write better code more slowly",
+      "insight": "HN 热议：1124 分 · 415 评论",
       "sentiment": "positive",
-      "comments": 166,
-      "url": "https://www.bgr.com/2178211/japan-hypersonic-engine-ramjet-2-hour-flights-to-us/",
+      "comments": 415,
+      "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
       "id": 5
     }
   ]

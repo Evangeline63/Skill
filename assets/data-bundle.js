@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-26T19:51:54Z",
+    "updated": "2026-05-26T22:14:10Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-26T19:51:54Z",
+    "updated": "2026-05-26T22:14:10Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-26T19:51:54Z",
+    "updated": "2026-05-26T22:14:10Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184564,
-            "stars_today": 184564,
+            "stars": 184566,
+            "stars_today": 184566,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 162866,
-            "stars_today": 162866,
+            "stars": 162870,
+            "stars_today": 162870,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 96022,
-            "stars_today": 96022,
+            "stars": 96029,
+            "stars_today": 96029,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93372,
-            "stars_today": 93372,
+            "stars": 93371,
+            "stars_today": 93371,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 78530,
-            "stars_today": 78530,
+            "stars": 78582,
+            "stars_today": 78582,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 74956,
-            "stars_today": 74956,
+            "stars": 74969,
+            "stars_today": 74969,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-26T19:51:54Z",
+    "updated": "2026-05-26T22:14:10Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-26T19:51:54Z",
+    "updated": "2026-05-26T22:14:10Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-26T19:51:54Z",
+    "updated": "2026-05-26T22:14:10Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence",
-            "insight": "HN 热议：517 分 · 239 评论",
+            "insight": "HN 热议：663 分 · 317 评论",
             "sentiment": "positive",
-            "comments": 239,
+            "comments": 317,
             "url": "https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "Outsourcing plus local AI will soon become more economical vs. frontier labs",
-            "insight": "HN 热议：174 分 · 182 评论",
-            "sentiment": "neutral",
-            "comments": 182,
+            "insight": "HN 热议：213 分 · 236 评论",
+            "sentiment": "positive",
+            "comments": 236,
             "url": "https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "Use boring languages with LLMs",
-            "insight": "HN 热议：102 分 · 79 评论",
+            "insight": "HN 热议：136 分 · 109 评论",
             "sentiment": "neutral",
-            "comments": 79,
+            "comments": 109,
             "url": "https://jry.io/writing/use-boring-languages-with-llms/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Using AI to write better code more slowly",
-            "insight": "HN 热议：1091 分 · 402 评论",
-            "sentiment": "positive",
-            "comments": 402,
-            "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
+            "title": "A sleep-like consolidation mechanism for LLMs",
+            "insight": "HN 热议：165 分 · 122 评论",
+            "sentiment": "neutral",
+            "comments": 122,
+            "url": "https://arxiv.org/abs/2605.26099",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "A successful Japanese trial of a ramjet engine designed for Mach‑5 aircraft",
-            "insight": "HN 热议：223 分 · 166 评论",
+            "title": "Using AI to write better code more slowly",
+            "insight": "HN 热议：1124 分 · 415 评论",
             "sentiment": "positive",
-            "comments": 166,
-            "url": "https://www.bgr.com/2178211/japan-hypersonic-engine-ramjet-2-hour-flights-to-us/",
+            "comments": 415,
+            "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-26T19:51:54Z",
+    "updated": "2026-05-26T22:14:10Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
