@@ -1,49 +1,49 @@
 {
-  "updated": "2026-05-26T14:33:30Z",
+  "updated": "2026-05-26T17:50:21Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "GitHub Actions down again today",
-      "insight": "HN 热议：398 分 · 198 评论",
+      "title": "Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence",
+      "insight": "HN 热议：335 分 · 173 评论",
       "sentiment": "positive",
-      "comments": 198,
-      "url": "https://www.githubstatus.com/?today",
+      "comments": 173,
+      "url": "https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Outsourcing plus LocalAI will soon become more economical vs. Frontier labs",
-      "insight": "HN 热议：35 分 · 34 评论",
-      "sentiment": "neutral",
-      "comments": 34,
-      "url": "https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/",
+      "title": "Using AI to write better code more slowly",
+      "insight": "HN 热议：1016 分 · 387 评论",
+      "sentiment": "positive",
+      "comments": 387,
+      "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Using AI to write better code more slowly",
-      "insight": "HN 热议：866 分 · 334 评论",
-      "sentiment": "positive",
-      "comments": 334,
-      "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
+      "title": "Outsourcing plus LocalAI will soon become more economical vs. Frontier labs",
+      "insight": "HN 热议：130 分 · 145 评论",
+      "sentiment": "neutral",
+      "comments": 145,
+      "url": "https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "Eagle 3.1: Collaboration Between the EAGLE Team, vLLM Team, and TorchSpec Team",
-      "insight": "HN 热议：33 分 · 13 评论",
+      "insight": "HN 热议：58 分 · 20 评论",
       "sentiment": "neutral",
-      "comments": 13,
+      "comments": 20,
       "url": "https://vllm.ai/blog/2026-05-26-eagle-3-1",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence",
-      "insight": "HN 热议：24 分 · 2 评论",
-      "sentiment": "neutral",
-      "comments": 2,
-      "url": "https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/",
+      "title": "A successful Japanese trial of a ramjet engine designed for Mach‑5 aircraft",
+      "insight": "HN 热议：221 分 · 166 评论",
+      "sentiment": "positive",
+      "comments": 166,
+      "url": "https://www.bgr.com/2178211/japan-hypersonic-engine-ramjet-2-hour-flights-to-us/",
       "id": 5
     }
   ]
