@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-26T01:55:48Z",
+    "updated": "2026-05-26T06:35:16Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-26T01:55:48Z",
+    "updated": "2026-05-26T06:35:16Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-26T01:55:48Z",
+    "updated": "2026-05-26T06:35:16Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184552,
-            "stars_today": 184552,
+            "stars": 184555,
+            "stars_today": 184555,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 162812,
-            "stars_today": 162812,
+            "stars": 162827,
+            "stars_today": 162827,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 95947,
-            "stars_today": 95947,
+            "stars": 95965,
+            "stars_today": 95965,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93359,
-            "stars_today": 93359,
+            "stars": 93366,
+            "stars_today": 93366,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 78148,
-            "stars_today": 78148,
+            "stars": 78206,
+            "stars_today": 78206,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 74854,
-            "stars_today": 74854,
+            "stars": 74882,
+            "stars_today": 74882,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-26T01:55:48Z",
+    "updated": "2026-05-26T06:35:16Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-26T01:55:48Z",
+    "updated": "2026-05-26T06:35:16Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-26T01:55:48Z",
+    "updated": "2026-05-26T06:35:16Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Using AI to write better code more slowly",
-            "insight": "HN 热议：140 分 · 42 评论",
-            "sentiment": "neutral",
-            "comments": 42,
+            "insight": "HN 热议：455 分 · 174 评论",
+            "sentiment": "positive",
+            "comments": 174,
             "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "Norway's 2 petabytes of Huawei flash storage and LLM training",
-            "insight": "HN 热议：159 分 · 75 评论",
-            "sentiment": "neutral",
-            "comments": 75,
+            "insight": "HN 热议：233 分 · 133 评论",
+            "sentiment": "positive",
+            "comments": 133,
             "url": "https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "CVE-2026-28952: Apple macOS 26.5 Kernel Vuln found by Claude",
-            "insight": "HN 热议：64 分 · 22 评论",
+            "title": "Ask HN: Is anyone working at least 4 hours daily on an Apple Vision Pro?",
+            "insight": "HN 热议：27 分 · 6 评论",
             "sentiment": "neutral",
-            "comments": 22,
-            "url": "https://support.apple.com/en-us/127115",
+            "comments": 6,
+            "url": "https://news.ycombinator.com/item?id=48275508",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Microsoft Copilot Cowork Exfiltrates Files",
-            "insight": "HN 热议：183 分 · 38 评论",
+            "title": "A successful Japanese trial of a ramjet engine designed for Mach‑5 aircraft",
+            "insight": "HN 热议：119 分 · 99 评论",
             "sentiment": "neutral",
-            "comments": 38,
-            "url": "https://www.promptarmor.com/resources/microsoft-copilot-cowork-exfiltrates-files",
+            "comments": 99,
+            "url": "https://www.bgr.com/2178211/japan-hypersonic-engine-ramjet-2-hour-flights-to-us/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Every Frontier AI Is INTJ",
-            "insight": "HN 热议：14 分 · 5 评论",
+            "title": "Designing for and against the manufactured normalcy field (2012)",
+            "insight": "HN 热议：17 分 · 6 评论",
             "sentiment": "neutral",
-            "comments": 5,
-            "url": "https://zonted.com/posts/every-ai-is-intj/",
+            "comments": 6,
+            "url": "https://www.urbanhonking.com/ideasfordozens/2012/06/24/designing-for-and-against-the-manufactured-normalcy-field/index.html",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-26T01:55:48Z",
+    "updated": "2026-05-26T06:35:16Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
