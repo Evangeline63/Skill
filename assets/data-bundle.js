@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-25T21:59:14Z",
+    "updated": "2026-05-26T01:55:48Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-25T21:59:14Z",
+    "updated": "2026-05-26T01:55:48Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-25T21:59:14Z",
+    "updated": "2026-05-26T01:55:48Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184549,
-            "stars_today": 184549,
+            "stars": 184552,
+            "stars_today": 184552,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 162809,
-            "stars_today": 162809,
+            "stars": 162812,
+            "stars_today": 162812,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 95942,
-            "stars_today": 95942,
+            "stars": 95947,
+            "stars_today": 95947,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93356,
-            "stars_today": 93356,
+            "stars": 93359,
+            "stars_today": 93359,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 78099,
-            "stars_today": 78099,
+            "stars": 78148,
+            "stars_today": 78148,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 74838,
-            "stars_today": 74838,
+            "stars": 74854,
+            "stars_today": 74854,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-25T21:59:14Z",
+    "updated": "2026-05-26T01:55:48Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-25T21:59:14Z",
+    "updated": "2026-05-26T01:55:48Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-25T21:59:14Z",
+    "updated": "2026-05-26T01:55:48Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Norway's 2 petabytes of Huawei flash storage and LLM training",
-            "insight": "HN 热议：75 分 · 45 评论",
+            "title": "Using AI to write better code more slowly",
+            "insight": "HN 热议：140 分 · 42 评论",
             "sentiment": "neutral",
-            "comments": 45,
-            "url": "https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910",
+            "comments": 42,
+            "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Everyone Against Us (2023)",
-            "insight": "HN 热议：36 分 · 3 评论",
+            "title": "Norway's 2 petabytes of Huawei flash storage and LLM training",
+            "insight": "HN 热议：159 分 · 75 评论",
             "sentiment": "neutral",
-            "comments": 3,
-            "url": "https://www.chicagomag.com/chicago-magazine/april-2023/everyone-against-us/",
+            "comments": 75,
+            "url": "https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
-            "insight": "HN 热议：240 分 · 66 评论",
-            "sentiment": "positive",
-            "comments": 66,
-            "url": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
+            "title": "CVE-2026-28952: Apple macOS 26.5 Kernel Vuln found by Claude",
+            "insight": "HN 热议：64 分 · 22 评论",
+            "sentiment": "neutral",
+            "comments": 22,
+            "url": "https://support.apple.com/en-us/127115",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
-            "insight": "HN 热议：695 分 · 271 评论",
-            "sentiment": "positive",
-            "comments": 271,
-            "url": "https://esengine.github.io/DeepSeek-Reasonix/",
+            "title": "Microsoft Copilot Cowork Exfiltrates Files",
+            "insight": "HN 热议：183 分 · 38 评论",
+            "sentiment": "neutral",
+            "comments": 38,
+            "url": "https://www.promptarmor.com/resources/microsoft-copilot-cowork-exfiltrates-files",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "The physicists who convinced Fermilab to send Brazil's emails",
-            "insight": "HN 热议：46 分 · 17 评论",
+            "title": "Every Frontier AI Is INTJ",
+            "insight": "HN 热议：14 分 · 5 评论",
             "sentiment": "neutral",
-            "comments": 17,
-            "url": "https://buttondown.com/blog/brazil-fermilab-email",
+            "comments": 5,
+            "url": "https://zonted.com/posts/every-ai-is-intj/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-25T21:59:14Z",
+    "updated": "2026-05-26T01:55:48Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
