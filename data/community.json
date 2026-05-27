@@ -1,49 +1,49 @@
 {
-  "updated": "2026-05-27T02:04:12Z",
+  "updated": "2026-05-27T06:52:17Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "AI Tools Are Only as Good as Your Judgment – and That's the Point",
-      "insight": "HN 热议：17 分 · 9 评论",
+      "title": "Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs",
+      "insight": "HN 热议：8 分 · 0 评论",
       "sentiment": "neutral",
-      "comments": 9,
-      "url": "https://theaileverageweekly.com/posts/your-ai-tools-are-only-as-good-as-your-judgment-and-that-s-the-point.html",
+      "comments": 0,
+      "url": "https://arps18.github.io/posts/claude-code-mastery/",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence",
-      "insight": "HN 热议：780 分 · 356 评论",
+      "insight": "HN 热议：869 分 · 401 评论",
       "sentiment": "positive",
-      "comments": 356,
+      "comments": 401,
       "url": "https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Xiaomi MiMo-v2.5 price drops 99% – AI pricing war",
-      "insight": "HN 热议：13 分 · 3 评论",
+      "title": "Show HN: Posthorn, self-hosted mail without the mail server",
+      "insight": "HN 热议：6 分 · 0 评论",
       "sentiment": "neutral",
-      "comments": 3,
-      "url": "https://platform.xiaomimimo.com/docs/en-US/welcome",
+      "comments": 0,
+      "url": "https://github.com/craigmccaskill/posthorn",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Use boring languages with LLMs",
-      "insight": "HN 热议：176 分 · 141 评论",
-      "sentiment": "neutral",
-      "comments": 141,
-      "url": "https://jry.io/writing/use-boring-languages-with-llms/",
+      "title": "Outsourcing plus local AI will soon become more economical vs. frontier labs",
+      "insight": "HN 热议：272 分 · 297 评论",
+      "sentiment": "positive",
+      "comments": 297,
+      "url": "https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Liverpool and Manchester Railway",
-      "insight": "HN 热议：12 分 · 2 评论",
+      "title": "Did the Pope use AI to write about the dangers of AI?",
+      "insight": "HN 热议：14 分 · 9 评论",
       "sentiment": "neutral",
-      "comments": 2,
-      "url": "https://en.wikipedia.org/wiki/Liverpool_and_Manchester_Railway",
+      "comments": 9,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram",
       "id": 5
     }
   ]

@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-27T02:04:12Z",
+    "updated": "2026-05-27T06:52:17Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-27T02:04:12Z",
+    "updated": "2026-05-27T06:52:17Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-27T02:04:12Z",
+    "updated": "2026-05-27T06:52:17Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184570,
-            "stars_today": 184570,
+            "stars": 184578,
+            "stars_today": 184578,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 162876,
-            "stars_today": 162876,
+            "stars": 162891,
+            "stars_today": 162891,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 96037,
-            "stars_today": 96037,
+            "stars": 96055,
+            "stars_today": 96055,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93372,
-            "stars_today": 93372,
+            "stars": 93380,
+            "stars_today": 93380,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 78701,
-            "stars_today": 78701,
+            "stars": 78873,
+            "stars_today": 78873,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 74989,
-            "stars_today": 74989,
+            "stars": 75002,
+            "stars_today": 75002,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-27T02:04:12Z",
+    "updated": "2026-05-27T06:52:17Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-27T02:04:12Z",
+    "updated": "2026-05-27T06:52:17Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-27T02:04:12Z",
+    "updated": "2026-05-27T06:52:17Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "AI Tools Are Only as Good as Your Judgment – and That's the Point",
-            "insight": "HN 热议：17 分 · 9 评论",
+            "title": "Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs",
+            "insight": "HN 热议：8 分 · 0 评论",
             "sentiment": "neutral",
-            "comments": 9,
-            "url": "https://theaileverageweekly.com/posts/your-ai-tools-are-only-as-good-as-your-judgment-and-that-s-the-point.html",
+            "comments": 0,
+            "url": "https://arps18.github.io/posts/claude-code-mastery/",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence",
-            "insight": "HN 热议：780 分 · 356 评论",
+            "insight": "HN 热议：869 分 · 401 评论",
             "sentiment": "positive",
-            "comments": 356,
+            "comments": 401,
             "url": "https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Xiaomi MiMo-v2.5 price drops 99% – AI pricing war",
-            "insight": "HN 热议：13 分 · 3 评论",
+            "title": "Show HN: Posthorn, self-hosted mail without the mail server",
+            "insight": "HN 热议：6 分 · 0 评论",
             "sentiment": "neutral",
-            "comments": 3,
-            "url": "https://platform.xiaomimimo.com/docs/en-US/welcome",
+            "comments": 0,
+            "url": "https://github.com/craigmccaskill/posthorn",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Use boring languages with LLMs",
-            "insight": "HN 热议：176 分 · 141 评论",
-            "sentiment": "neutral",
-            "comments": 141,
-            "url": "https://jry.io/writing/use-boring-languages-with-llms/",
+            "title": "Outsourcing plus local AI will soon become more economical vs. frontier labs",
+            "insight": "HN 热议：272 分 · 297 评论",
+            "sentiment": "positive",
+            "comments": 297,
+            "url": "https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Liverpool and Manchester Railway",
-            "insight": "HN 热议：12 分 · 2 评论",
+            "title": "Did the Pope use AI to write about the dangers of AI?",
+            "insight": "HN 热议：14 分 · 9 评论",
             "sentiment": "neutral",
-            "comments": 2,
-            "url": "https://en.wikipedia.org/wiki/Liverpool_and_Manchester_Railway",
+            "comments": 9,
+            "url": "https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-27T02:04:12Z",
+    "updated": "2026-05-27T06:52:17Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
