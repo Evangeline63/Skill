@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-27T19:55:37Z",
+    "updated": "2026-05-27T22:24:04Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-27T19:55:37Z",
+    "updated": "2026-05-27T22:24:04Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-27T19:55:37Z",
+    "updated": "2026-05-27T22:24:04Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184591,
-            "stars_today": 184591,
+            "stars": 184593,
+            "stars_today": 184593,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 96107,
-            "stars_today": 96107,
+            "stars": 96110,
+            "stars_today": 96110,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93389,
-            "stars_today": 93389,
+            "stars": 93392,
+            "stars_today": 93392,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 79107,
-            "stars_today": 79107,
+            "stars": 79130,
+            "stars_today": 79130,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 75054,
-            "stars_today": 75054,
+            "stars": 75061,
+            "stars_today": 75061,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-27T19:55:37Z",
+    "updated": "2026-05-27T22:24:04Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-27T19:55:37Z",
+    "updated": "2026-05-27T22:24:04Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-27T19:55:37Z",
+    "updated": "2026-05-27T22:24:04Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "I think Anthropic and OpenAI have found product-market fit",
-            "insight": "HN 热议：314 分 · 390 评论",
+            "title": "YouTube to automatically label AI-generated videos",
+            "insight": "HN 热议：313 分 · 167 评论",
             "sentiment": "positive",
-            "comments": 390,
-            "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
+            "comments": 167,
+            "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
-            "insight": "HN 热议：390 分 · 204 评论",
+            "title": "I think Anthropic and OpenAI have found product-market fit",
+            "insight": "HN 热议：518 分 · 627 评论",
             "sentiment": "positive",
-            "comments": 204,
-            "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
+            "comments": 627,
+            "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Valve raises Steam Deck prices by more than $200",
-            "insight": "HN 热议：129 分 · 81 评论",
+            "title": "Rust (and Slint) on a Jailbroken Kindle",
+            "insight": "HN 热议：53 分 · 7 评论",
             "sentiment": "neutral",
-            "comments": 81,
-            "url": "https://www.theverge.com/games/938340/valve-steam-deck-price-increase",
+            "comments": 7,
+            "url": "https://sverre.me/blog/rust-on-kindle/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "In-Browser Container Builds",
-            "insight": "HN 热议：28 分 · 6 评论",
-            "sentiment": "neutral",
-            "comments": 6,
-            "url": "https://ochagavia.nl/blog/fully-in-browser-container-builds/",
+            "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
+            "insight": "HN 热议：559 分 · 283 评论",
+            "sentiment": "positive",
+            "comments": 283,
+            "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Tech CEOs are apparently suffering from AI psychosis",
-            "insight": "HN 热议：367 分 · 178 评论",
-            "sentiment": "positive",
-            "comments": 178,
-            "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
+            "title": "Gemini, Gophers, and Fingers. Oh My Alternative Internets Beyond HTTPS",
+            "insight": "HN 热议：65 分 · 33 评论",
+            "sentiment": "neutral",
+            "comments": 33,
+            "url": "https://brennan.day/gemini-gophers-and-fingers-oh-my-alternative-internets-beyond-https/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-27T19:55:37Z",
+    "updated": "2026-05-27T22:24:04Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
