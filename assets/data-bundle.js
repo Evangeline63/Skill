@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-27T06:52:17Z",
+    "updated": "2026-05-27T17:49:30Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-27T06:52:17Z",
+    "updated": "2026-05-27T17:49:30Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-27T06:52:17Z",
+    "updated": "2026-05-27T17:49:30Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184578,
-            "stars_today": 184578,
+            "stars": 184590,
+            "stars_today": 184590,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 162891,
-            "stars_today": 162891,
+            "stars": 162921,
+            "stars_today": 162921,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 96055,
-            "stars_today": 96055,
+            "stars": 96104,
+            "stars_today": 96104,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93380,
-            "stars_today": 93380,
+            "stars": 93386,
+            "stars_today": 93386,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 78873,
-            "stars_today": 78873,
+            "stars": 79093,
+            "stars_today": 79093,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 75002,
-            "stars_today": 75002,
+            "stars": 75051,
+            "stars_today": 75051,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-27T06:52:17Z",
+    "updated": "2026-05-27T17:49:30Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-27T06:52:17Z",
+    "updated": "2026-05-27T17:49:30Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-27T06:52:17Z",
+    "updated": "2026-05-27T17:49:30Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs",
-            "insight": "HN 热议：8 分 · 0 评论",
-            "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://arps18.github.io/posts/claude-code-mastery/",
+            "title": "I'm Tired of Talking to AI",
+            "insight": "HN 热议：1679 分 · 804 评论",
+            "sentiment": "positive",
+            "comments": 804,
+            "url": "https://orchidfiles.com/im-tired-of-ai-generated-answers/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence",
-            "insight": "HN 热议：869 分 · 401 评论",
-            "sentiment": "positive",
-            "comments": 401,
-            "url": "https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/",
+            "title": "Tech CEOs are apparently suffering from AI psychosis",
+            "insight": "HN 热议：197 分 · 89 评论",
+            "sentiment": "neutral",
+            "comments": 89,
+            "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Posthorn, self-hosted mail without the mail server",
-            "insight": "HN 热议：6 分 · 0 评论",
+            "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
+            "insight": "HN 热议：146 分 · 52 评论",
             "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://github.com/craigmccaskill/posthorn",
+            "comments": 52,
+            "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Outsourcing plus local AI will soon become more economical vs. frontier labs",
-            "insight": "HN 热议：272 分 · 297 评论",
-            "sentiment": "positive",
-            "comments": 297,
-            "url": "https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/",
+            "title": "PostHog will train AI models with your data (opted-in by default)",
+            "insight": "HN 热议：121 分 · 93 评论",
+            "sentiment": "neutral",
+            "comments": 93,
+            "url": "https://posthog.com/blog/training-ai-models",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Did the Pope use AI to write about the dangers of AI?",
-            "insight": "HN 热议：14 分 · 9 评论",
+            "title": "I think Anthropic and OpenAI have found product-market fit",
+            "insight": "HN 热议：58 分 · 42 评论",
             "sentiment": "neutral",
-            "comments": 9,
-            "url": "https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram",
+            "comments": 42,
+            "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-27T06:52:17Z",
+    "updated": "2026-05-27T17:49:30Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
