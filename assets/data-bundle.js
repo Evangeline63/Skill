@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-26T22:14:10Z",
+    "updated": "2026-05-27T02:04:12Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-26T22:14:10Z",
+    "updated": "2026-05-27T02:04:12Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-26T22:14:10Z",
+    "updated": "2026-05-27T02:04:12Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184566,
-            "stars_today": 184566,
+            "stars": 184570,
+            "stars_today": 184570,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 162870,
-            "stars_today": 162870,
+            "stars": 162876,
+            "stars_today": 162876,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 96029,
-            "stars_today": 96029,
+            "stars": 96037,
+            "stars_today": 96037,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93371,
-            "stars_today": 93371,
+            "stars": 93372,
+            "stars_today": 93372,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 78582,
-            "stars_today": 78582,
+            "stars": 78701,
+            "stars_today": 78701,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 74969,
-            "stars_today": 74969,
+            "stars": 74989,
+            "stars_today": 74989,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-26T22:14:10Z",
+    "updated": "2026-05-27T02:04:12Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-26T22:14:10Z",
+    "updated": "2026-05-27T02:04:12Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-26T22:14:10Z",
+    "updated": "2026-05-27T02:04:12Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence",
-            "insight": "HN 热议：663 分 · 317 评论",
-            "sentiment": "positive",
-            "comments": 317,
-            "url": "https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/",
+            "title": "AI Tools Are Only as Good as Your Judgment – and That's the Point",
+            "insight": "HN 热议：17 分 · 9 评论",
+            "sentiment": "neutral",
+            "comments": 9,
+            "url": "https://theaileverageweekly.com/posts/your-ai-tools-are-only-as-good-as-your-judgment-and-that-s-the-point.html",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Outsourcing plus local AI will soon become more economical vs. frontier labs",
-            "insight": "HN 热议：213 分 · 236 评论",
+            "title": "Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence",
+            "insight": "HN 热议：780 分 · 356 评论",
             "sentiment": "positive",
-            "comments": 236,
-            "url": "https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/",
+            "comments": 356,
+            "url": "https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Use boring languages with LLMs",
-            "insight": "HN 热议：136 分 · 109 评论",
+            "title": "Xiaomi MiMo-v2.5 price drops 99% – AI pricing war",
+            "insight": "HN 热议：13 分 · 3 评论",
             "sentiment": "neutral",
-            "comments": 109,
-            "url": "https://jry.io/writing/use-boring-languages-with-llms/",
+            "comments": 3,
+            "url": "https://platform.xiaomimimo.com/docs/en-US/welcome",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "A sleep-like consolidation mechanism for LLMs",
-            "insight": "HN 热议：165 分 · 122 评论",
+            "title": "Use boring languages with LLMs",
+            "insight": "HN 热议：176 分 · 141 评论",
             "sentiment": "neutral",
-            "comments": 122,
-            "url": "https://arxiv.org/abs/2605.26099",
+            "comments": 141,
+            "url": "https://jry.io/writing/use-boring-languages-with-llms/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Using AI to write better code more slowly",
-            "insight": "HN 热议：1124 分 · 415 评论",
-            "sentiment": "positive",
-            "comments": 415,
-            "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
+            "title": "Liverpool and Manchester Railway",
+            "insight": "HN 热议：12 分 · 2 评论",
+            "sentiment": "neutral",
+            "comments": 2,
+            "url": "https://en.wikipedia.org/wiki/Liverpool_and_Manchester_Railway",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-26T22:14:10Z",
+    "updated": "2026-05-27T02:04:12Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

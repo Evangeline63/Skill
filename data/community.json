@@ -1,49 +1,49 @@
 {
-  "updated": "2026-05-26T22:14:10Z",
+  "updated": "2026-05-27T02:04:12Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence",
-      "insight": "HN 热议：663 分 · 317 评论",
-      "sentiment": "positive",
-      "comments": 317,
-      "url": "https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/",
+      "title": "AI Tools Are Only as Good as Your Judgment – and That's the Point",
+      "insight": "HN 热议：17 分 · 9 评论",
+      "sentiment": "neutral",
+      "comments": 9,
+      "url": "https://theaileverageweekly.com/posts/your-ai-tools-are-only-as-good-as-your-judgment-and-that-s-the-point.html",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Outsourcing plus local AI will soon become more economical vs. frontier labs",
-      "insight": "HN 热议：213 分 · 236 评论",
+      "title": "Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence",
+      "insight": "HN 热议：780 分 · 356 评论",
       "sentiment": "positive",
-      "comments": 236,
-      "url": "https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/",
+      "comments": 356,
+      "url": "https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Use boring languages with LLMs",
-      "insight": "HN 热议：136 分 · 109 评论",
+      "title": "Xiaomi MiMo-v2.5 price drops 99% – AI pricing war",
+      "insight": "HN 热议：13 分 · 3 评论",
       "sentiment": "neutral",
-      "comments": 109,
-      "url": "https://jry.io/writing/use-boring-languages-with-llms/",
+      "comments": 3,
+      "url": "https://platform.xiaomimimo.com/docs/en-US/welcome",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "A sleep-like consolidation mechanism for LLMs",
-      "insight": "HN 热议：165 分 · 122 评论",
+      "title": "Use boring languages with LLMs",
+      "insight": "HN 热议：176 分 · 141 评论",
       "sentiment": "neutral",
-      "comments": 122,
-      "url": "https://arxiv.org/abs/2605.26099",
+      "comments": 141,
+      "url": "https://jry.io/writing/use-boring-languages-with-llms/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Using AI to write better code more slowly",
-      "insight": "HN 热议：1124 分 · 415 评论",
-      "sentiment": "positive",
-      "comments": 415,
-      "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
+      "title": "Liverpool and Manchester Railway",
+      "insight": "HN 热议：12 分 · 2 评论",
+      "sentiment": "neutral",
+      "comments": 2,
+      "url": "https://en.wikipedia.org/wiki/Liverpool_and_Manchester_Railway",
       "id": 5
     }
   ]
