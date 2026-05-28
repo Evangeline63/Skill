@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-28T17:54:05Z",
+    "updated": "2026-05-28T20:01:06Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-28T17:54:05Z",
+    "updated": "2026-05-28T20:01:06Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-28T17:54:05Z",
+    "updated": "2026-05-28T20:01:06Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184608,
-            "stars_today": 184608,
+            "stars": 184613,
+            "stars_today": 184613,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 162968,
-            "stars_today": 162968,
+            "stars": 162972,
+            "stars_today": 162972,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 96166,
-            "stars_today": 96166,
+            "stars": 96176,
+            "stars_today": 96176,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93402,
-            "stars_today": 93402,
+            "stars": 93401,
+            "stars_today": 93401,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 79372,
-            "stars_today": 79372,
+            "stars": 79382,
+            "stars_today": 79382,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 75157,
-            "stars_today": 75157,
+            "stars": 75168,
+            "stars_today": 75168,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-28T17:54:05Z",
+    "updated": "2026-05-28T20:01:06Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-28T17:54:05Z",
+    "updated": "2026-05-28T20:01:06Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-28T17:54:05Z",
+    "updated": "2026-05-28T20:01:06Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Claude Opus 4.8",
-            "insight": "HN 热议：430 分 · 290 评论",
+            "insight": "HN 热议：826 分 · 616 评论",
             "sentiment": "positive",
-            "comments": 290,
+            "comments": 616,
             "url": "https://www.anthropic.com/news/claude-opus-4-8",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Dynamic Workflows in Claude Code",
-            "insight": "HN 热议：64 分 · 47 评论",
+            "title": "About LLMs at Zig Days",
+            "insight": "HN 热议：57 分 · 36 评论",
             "sentiment": "neutral",
-            "comments": 47,
-            "url": "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code",
+            "comments": 36,
+            "url": "https://kristoff.it/blog/llms-at-zig-days/",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
-            "insight": "HN 热议：93 分 · 50 评论",
+            "insight": "HN 热议：159 分 · 77 评论",
             "sentiment": "neutral",
-            "comments": 50,
+            "comments": 77,
             "url": "https://llmgame.scalex.dev",
             "id": 3
         },
         {
             "source": "HackerNews",
             "title": "Show HN: Ktx – Open-source executable context layer for data agents",
-            "insight": "HN 热议：10 分 · 0 评论",
+            "insight": "HN 热议：28 分 · 3 评论",
             "sentiment": "neutral",
-            "comments": 0,
+            "comments": 3,
             "url": "https://github.com/Kaelio/ktx",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "YouTube to automatically label AI-generated videos",
-            "insight": "HN 热议：1213 分 · 716 评论",
-            "sentiment": "positive",
-            "comments": 716,
-            "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+            "title": "Using Tailscale with an OrbStack VM on macOS",
+            "insight": "HN 热议：25 分 · 6 评论",
+            "sentiment": "neutral",
+            "comments": 6,
+            "url": "https://github.com/highpost/tailscale-macos-vm",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-28T17:54:05Z",
+    "updated": "2026-05-28T20:01:06Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

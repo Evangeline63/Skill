@@ -1,49 +1,49 @@
 {
-  "updated": "2026-05-28T17:54:05Z",
+  "updated": "2026-05-28T20:01:06Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Claude Opus 4.8",
-      "insight": "HN 热议：430 分 · 290 评论",
+      "insight": "HN 热议：826 分 · 616 评论",
       "sentiment": "positive",
-      "comments": 290,
+      "comments": 616,
       "url": "https://www.anthropic.com/news/claude-opus-4-8",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Dynamic Workflows in Claude Code",
-      "insight": "HN 热议：64 分 · 47 评论",
+      "title": "About LLMs at Zig Days",
+      "insight": "HN 热议：57 分 · 36 评论",
       "sentiment": "neutral",
-      "comments": 47,
-      "url": "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code",
+      "comments": 36,
+      "url": "https://kristoff.it/blog/llms-at-zig-days/",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
-      "insight": "HN 热议：93 分 · 50 评论",
+      "insight": "HN 热议：159 分 · 77 评论",
       "sentiment": "neutral",
-      "comments": 50,
+      "comments": 77,
       "url": "https://llmgame.scalex.dev",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "Show HN: Ktx – Open-source executable context layer for data agents",
-      "insight": "HN 热议：10 分 · 0 评论",
+      "insight": "HN 热议：28 分 · 3 评论",
       "sentiment": "neutral",
-      "comments": 0,
+      "comments": 3,
       "url": "https://github.com/Kaelio/ktx",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "YouTube to automatically label AI-generated videos",
-      "insight": "HN 热议：1213 分 · 716 评论",
-      "sentiment": "positive",
-      "comments": 716,
-      "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+      "title": "Using Tailscale with an OrbStack VM on macOS",
+      "insight": "HN 热议：25 分 · 6 评论",
+      "sentiment": "neutral",
+      "comments": 6,
+      "url": "https://github.com/highpost/tailscale-macos-vm",
       "id": 5
     }
   ]
