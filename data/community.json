@@ -1,49 +1,49 @@
 {
-  "updated": "2026-05-27T22:24:04Z",
+  "updated": "2026-05-28T01:48:17Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "YouTube to automatically label AI-generated videos",
-      "insight": "HN 热议：313 分 · 167 评论",
+      "insight": "HN 热议：537 分 · 323 评论",
       "sentiment": "positive",
-      "comments": 167,
+      "comments": 323,
       "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "I think Anthropic and OpenAI have found product-market fit",
-      "insight": "HN 热议：518 分 · 627 评论",
+      "insight": "HN 热议：649 分 · 794 评论",
       "sentiment": "positive",
-      "comments": 627,
+      "comments": 794,
       "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "Rust (and Slint) on a Jailbroken Kindle",
-      "insight": "HN 热议：53 分 · 7 评论",
+      "insight": "HN 热议：103 分 · 11 评论",
       "sentiment": "neutral",
-      "comments": 7,
+      "comments": 11,
       "url": "https://sverre.me/blog/rust-on-kindle/",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
-      "insight": "HN 热议：559 分 · 283 评论",
+      "insight": "HN 热议：671 分 · 334 评论",
       "sentiment": "positive",
-      "comments": 283,
+      "comments": 334,
       "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Gemini, Gophers, and Fingers. Oh My Alternative Internets Beyond HTTPS",
-      "insight": "HN 热议：65 分 · 33 评论",
-      "sentiment": "neutral",
-      "comments": 33,
-      "url": "https://brennan.day/gemini-gophers-and-fingers-oh-my-alternative-internets-beyond-https/",
+      "title": "Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs",
+      "insight": "HN 热议：374 分 · 228 评论",
+      "sentiment": "positive",
+      "comments": 228,
+      "url": "https://arps18.github.io/posts/claude-code-mastery/",
       "id": 5
     }
   ]
