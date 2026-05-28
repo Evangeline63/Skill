@@ -1,49 +1,49 @@
 {
-  "updated": "2026-05-28T20:01:06Z",
+  "updated": "2026-05-28T22:24:26Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Claude Opus 4.8",
-      "insight": "HN 热议：826 分 · 616 评论",
+      "insight": "HN 热议：1051 分 · 838 评论",
       "sentiment": "positive",
-      "comments": 616,
+      "comments": 838,
       "url": "https://www.anthropic.com/news/claude-opus-4-8",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "About LLMs at Zig Days",
-      "insight": "HN 热议：57 分 · 36 评论",
+      "title": "Various LLM Smells",
+      "insight": "HN 热议：110 分 · 72 评论",
       "sentiment": "neutral",
-      "comments": 36,
-      "url": "https://kristoff.it/blog/llms-at-zig-days/",
+      "comments": 72,
+      "url": "https://shvbsle.in/various-llm-smells/",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
-      "insight": "HN 热议：159 分 · 77 评论",
-      "sentiment": "neutral",
-      "comments": 77,
+      "insight": "HN 热议：201 分 · 96 评论",
+      "sentiment": "positive",
+      "comments": 96,
       "url": "https://llmgame.scalex.dev",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "Show HN: Ktx – Open-source executable context layer for data agents",
-      "insight": "HN 热议：28 分 · 3 评论",
+      "insight": "HN 热议：43 分 · 6 评论",
       "sentiment": "neutral",
-      "comments": 3,
+      "comments": 6,
       "url": "https://github.com/Kaelio/ktx",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Using Tailscale with an OrbStack VM on macOS",
-      "insight": "HN 热议：25 分 · 6 评论",
+      "title": "Sam Altman and Dario Amodei are both walking back AI jobs apocalypse predictions",
+      "insight": "HN 热议：120 分 · 100 评论",
       "sentiment": "neutral",
-      "comments": 6,
-      "url": "https://github.com/highpost/tailscale-macos-vm",
+      "comments": 100,
+      "url": "https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/",
       "id": 5
     }
   ]

@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-28T20:01:06Z",
+    "updated": "2026-05-28T22:24:26Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-28T20:01:06Z",
+    "updated": "2026-05-28T22:24:26Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-28T20:01:06Z",
+    "updated": "2026-05-28T22:24:26Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184613,
-            "stars_today": 184613,
+            "stars": 184615,
+            "stars_today": 184615,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 162972,
-            "stars_today": 162972,
+            "stars": 162976,
+            "stars_today": 162976,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 96176,
-            "stars_today": 96176,
+            "stars": 96182,
+            "stars_today": 96182,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93401,
-            "stars_today": 93401,
+            "stars": 93405,
+            "stars_today": 93405,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 79382,
-            "stars_today": 79382,
+            "stars": 79399,
+            "stars_today": 79399,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 75168,
-            "stars_today": 75168,
+            "stars": 75172,
+            "stars_today": 75172,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-28T20:01:06Z",
+    "updated": "2026-05-28T22:24:26Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-28T20:01:06Z",
+    "updated": "2026-05-28T22:24:26Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-28T20:01:06Z",
+    "updated": "2026-05-28T22:24:26Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Claude Opus 4.8",
-            "insight": "HN 热议：826 分 · 616 评论",
+            "insight": "HN 热议：1051 分 · 838 评论",
             "sentiment": "positive",
-            "comments": 616,
+            "comments": 838,
             "url": "https://www.anthropic.com/news/claude-opus-4-8",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "About LLMs at Zig Days",
-            "insight": "HN 热议：57 分 · 36 评论",
+            "title": "Various LLM Smells",
+            "insight": "HN 热议：110 分 · 72 评论",
             "sentiment": "neutral",
-            "comments": 36,
-            "url": "https://kristoff.it/blog/llms-at-zig-days/",
+            "comments": 72,
+            "url": "https://shvbsle.in/various-llm-smells/",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
-            "insight": "HN 热议：159 分 · 77 评论",
-            "sentiment": "neutral",
-            "comments": 77,
+            "insight": "HN 热议：201 分 · 96 评论",
+            "sentiment": "positive",
+            "comments": 96,
             "url": "https://llmgame.scalex.dev",
             "id": 3
         },
         {
             "source": "HackerNews",
             "title": "Show HN: Ktx – Open-source executable context layer for data agents",
-            "insight": "HN 热议：28 分 · 3 评论",
+            "insight": "HN 热议：43 分 · 6 评论",
             "sentiment": "neutral",
-            "comments": 3,
+            "comments": 6,
             "url": "https://github.com/Kaelio/ktx",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Using Tailscale with an OrbStack VM on macOS",
-            "insight": "HN 热议：25 分 · 6 评论",
+            "title": "Sam Altman and Dario Amodei are both walking back AI jobs apocalypse predictions",
+            "insight": "HN 热议：120 分 · 100 评论",
             "sentiment": "neutral",
-            "comments": 6,
-            "url": "https://github.com/highpost/tailscale-macos-vm",
+            "comments": 100,
+            "url": "https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-28T20:01:06Z",
+    "updated": "2026-05-28T22:24:26Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
