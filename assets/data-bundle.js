@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-28T01:48:17Z",
+    "updated": "2026-05-28T06:41:34Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-28T01:48:17Z",
+    "updated": "2026-05-28T06:41:34Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-28T01:48:17Z",
+    "updated": "2026-05-28T06:41:34Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184594,
-            "stars_today": 184594,
+            "stars": 184593,
+            "stars_today": 184593,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 162927,
-            "stars_today": 162927,
+            "stars": 162942,
+            "stars_today": 162942,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 96115,
-            "stars_today": 96115,
+            "stars": 96127,
+            "stars_today": 96127,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93394,
-            "stars_today": 93394,
+            "stars": 93397,
+            "stars_today": 93397,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 79168,
-            "stars_today": 79168,
+            "stars": 79230,
+            "stars_today": 79230,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 75074,
-            "stars_today": 75074,
+            "stars": 75104,
+            "stars_today": 75104,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-28T01:48:17Z",
+    "updated": "2026-05-28T06:41:34Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-28T01:48:17Z",
+    "updated": "2026-05-28T06:41:34Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-28T01:48:17Z",
+    "updated": "2026-05-28T06:41:34Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "YouTube to automatically label AI-generated videos",
-            "insight": "HN 热议：537 分 · 323 评论",
+            "insight": "HN 热议：750 分 · 435 评论",
             "sentiment": "positive",
-            "comments": 323,
+            "comments": 435,
             "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "I think Anthropic and OpenAI have found product-market fit",
-            "insight": "HN 热议：649 分 · 794 评论",
+            "insight": "HN 热议：789 分 · 937 评论",
             "sentiment": "positive",
-            "comments": 794,
+            "comments": 937,
             "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "Rust (and Slint) on a Jailbroken Kindle",
-            "insight": "HN 热议：103 分 · 11 评论",
+            "insight": "HN 热议：137 分 · 16 评论",
             "sentiment": "neutral",
-            "comments": 11,
+            "comments": 16,
             "url": "https://sverre.me/blog/rust-on-kindle/",
             "id": 3
         },
         {
             "source": "HackerNews",
             "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
-            "insight": "HN 热议：671 分 · 334 评论",
+            "insight": "HN 热议：786 分 · 375 评论",
             "sentiment": "positive",
-            "comments": 334,
+            "comments": 375,
             "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs",
-            "insight": "HN 热议：374 分 · 228 评论",
-            "sentiment": "positive",
-            "comments": 228,
-            "url": "https://arps18.github.io/posts/claude-code-mastery/",
+            "title": "Investigating how prompt politeness affects LLM accuracy (2025)",
+            "insight": "HN 热议：60 分 · 55 评论",
+            "sentiment": "neutral",
+            "comments": 55,
+            "url": "https://arxiv.org/abs/2510.04950",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-28T01:48:17Z",
+    "updated": "2026-05-28T06:41:34Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
