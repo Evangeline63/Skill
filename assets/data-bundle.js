@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-28T06:41:34Z",
+    "updated": "2026-05-28T12:17:32Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-28T06:41:34Z",
+    "updated": "2026-05-28T12:17:32Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-28T06:41:34Z",
+    "updated": "2026-05-28T12:17:32Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184593,
-            "stars_today": 184593,
+            "stars": 184603,
+            "stars_today": 184603,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 162942,
-            "stars_today": 162942,
+            "stars": 162953,
+            "stars_today": 162953,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 96127,
-            "stars_today": 96127,
+            "stars": 96148,
+            "stars_today": 96148,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 79230,
-            "stars_today": 79230,
+            "stars": 79310,
+            "stars_today": 79310,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 75104,
-            "stars_today": 75104,
+            "stars": 75134,
+            "stars_today": 75134,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-28T06:41:34Z",
+    "updated": "2026-05-28T12:17:32Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-28T06:41:34Z",
+    "updated": "2026-05-28T12:17:32Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-28T06:41:34Z",
+    "updated": "2026-05-28T12:17:32Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "YouTube to automatically label AI-generated videos",
-            "insight": "HN 热议：750 分 · 435 评论",
+            "insight": "HN 热议：978 分 · 586 评论",
             "sentiment": "positive",
-            "comments": 435,
+            "comments": 586,
             "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "I think Anthropic and OpenAI have found product-market fit",
-            "insight": "HN 热议：789 分 · 937 评论",
-            "sentiment": "positive",
-            "comments": 937,
-            "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
+            "title": "A Eureka machine that thinks like nature and explores what AI cannot",
+            "insight": "HN 热议：98 分 · 30 评论",
+            "sentiment": "neutral",
+            "comments": 30,
+            "url": "https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Rust (and Slint) on a Jailbroken Kindle",
-            "insight": "HN 热议：137 分 · 16 评论",
+            "title": "AMD pulls a bait-and-switch on Linux users with Vivado licensing changes",
+            "insight": "HN 热议：81 分 · 24 评论",
             "sentiment": "neutral",
-            "comments": 16,
-            "url": "https://sverre.me/blog/rust-on-kindle/",
+            "comments": 24,
+            "url": "https://itsfoss.com/news/amd-vivado-bait-and-switch-on-linux-users/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
-            "insight": "HN 热议：786 分 · 375 评论",
-            "sentiment": "positive",
-            "comments": 375,
-            "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
+            "title": "AI sticker shock hits corporate America",
+            "insight": "HN 热议：56 分 · 22 评论",
+            "sentiment": "neutral",
+            "comments": 22,
+            "url": "https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Investigating how prompt politeness affects LLM accuracy (2025)",
-            "insight": "HN 热议：60 分 · 55 评论",
-            "sentiment": "neutral",
-            "comments": 55,
-            "url": "https://arxiv.org/abs/2510.04950",
+            "title": "I think Anthropic and OpenAI have found product-market fit",
+            "insight": "HN 热议：919 分 · 1036 评论",
+            "sentiment": "positive",
+            "comments": 1036,
+            "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-28T06:41:34Z",
+    "updated": "2026-05-28T12:17:32Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

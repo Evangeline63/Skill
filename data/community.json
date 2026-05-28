@@ -1,49 +1,49 @@
 {
-  "updated": "2026-05-28T06:41:34Z",
+  "updated": "2026-05-28T12:17:32Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "YouTube to automatically label AI-generated videos",
-      "insight": "HN 热议：750 分 · 435 评论",
+      "insight": "HN 热议：978 分 · 586 评论",
       "sentiment": "positive",
-      "comments": 435,
+      "comments": 586,
       "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "I think Anthropic and OpenAI have found product-market fit",
-      "insight": "HN 热议：789 分 · 937 评论",
-      "sentiment": "positive",
-      "comments": 937,
-      "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
+      "title": "A Eureka machine that thinks like nature and explores what AI cannot",
+      "insight": "HN 热议：98 分 · 30 评论",
+      "sentiment": "neutral",
+      "comments": 30,
+      "url": "https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Rust (and Slint) on a Jailbroken Kindle",
-      "insight": "HN 热议：137 分 · 16 评论",
+      "title": "AMD pulls a bait-and-switch on Linux users with Vivado licensing changes",
+      "insight": "HN 热议：81 分 · 24 评论",
       "sentiment": "neutral",
-      "comments": 16,
-      "url": "https://sverre.me/blog/rust-on-kindle/",
+      "comments": 24,
+      "url": "https://itsfoss.com/news/amd-vivado-bait-and-switch-on-linux-users/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
-      "insight": "HN 热议：786 分 · 375 评论",
-      "sentiment": "positive",
-      "comments": 375,
-      "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
+      "title": "AI sticker shock hits corporate America",
+      "insight": "HN 热议：56 分 · 22 评论",
+      "sentiment": "neutral",
+      "comments": 22,
+      "url": "https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Investigating how prompt politeness affects LLM accuracy (2025)",
-      "insight": "HN 热议：60 分 · 55 评论",
-      "sentiment": "neutral",
-      "comments": 55,
-      "url": "https://arxiv.org/abs/2510.04950",
+      "title": "I think Anthropic and OpenAI have found product-market fit",
+      "insight": "HN 热议：919 分 · 1036 评论",
+      "sentiment": "positive",
+      "comments": 1036,
+      "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
       "id": 5
     }
   ]
