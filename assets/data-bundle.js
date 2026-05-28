@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-28T12:17:32Z",
+    "updated": "2026-05-28T17:54:05Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-28T12:17:32Z",
+    "updated": "2026-05-28T17:54:05Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-28T12:17:32Z",
+    "updated": "2026-05-28T17:54:05Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184603,
-            "stars_today": 184603,
+            "stars": 184608,
+            "stars_today": 184608,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 162953,
-            "stars_today": 162953,
+            "stars": 162968,
+            "stars_today": 162968,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 96148,
-            "stars_today": 96148,
+            "stars": 96166,
+            "stars_today": 96166,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93397,
-            "stars_today": 93397,
+            "stars": 93402,
+            "stars_today": 93402,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 79310,
-            "stars_today": 79310,
+            "stars": 79372,
+            "stars_today": 79372,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 75134,
-            "stars_today": 75134,
+            "stars": 75157,
+            "stars_today": 75157,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-28T12:17:32Z",
+    "updated": "2026-05-28T17:54:05Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-28T12:17:32Z",
+    "updated": "2026-05-28T17:54:05Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-28T12:17:32Z",
+    "updated": "2026-05-28T17:54:05Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "YouTube to automatically label AI-generated videos",
-            "insight": "HN 热议：978 分 · 586 评论",
+            "title": "Claude Opus 4.8",
+            "insight": "HN 热议：430 分 · 290 评论",
             "sentiment": "positive",
-            "comments": 586,
-            "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+            "comments": 290,
+            "url": "https://www.anthropic.com/news/claude-opus-4-8",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "A Eureka machine that thinks like nature and explores what AI cannot",
-            "insight": "HN 热议：98 分 · 30 评论",
+            "title": "Dynamic Workflows in Claude Code",
+            "insight": "HN 热议：64 分 · 47 评论",
             "sentiment": "neutral",
-            "comments": 30,
-            "url": "https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/",
+            "comments": 47,
+            "url": "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "AMD pulls a bait-and-switch on Linux users with Vivado licensing changes",
-            "insight": "HN 热议：81 分 · 24 评论",
+            "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
+            "insight": "HN 热议：93 分 · 50 评论",
             "sentiment": "neutral",
-            "comments": 24,
-            "url": "https://itsfoss.com/news/amd-vivado-bait-and-switch-on-linux-users/",
+            "comments": 50,
+            "url": "https://llmgame.scalex.dev",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "AI sticker shock hits corporate America",
-            "insight": "HN 热议：56 分 · 22 评论",
+            "title": "Show HN: Ktx – Open-source executable context layer for data agents",
+            "insight": "HN 热议：10 分 · 0 评论",
             "sentiment": "neutral",
-            "comments": 22,
-            "url": "https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs",
+            "comments": 0,
+            "url": "https://github.com/Kaelio/ktx",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "I think Anthropic and OpenAI have found product-market fit",
-            "insight": "HN 热议：919 分 · 1036 评论",
+            "title": "YouTube to automatically label AI-generated videos",
+            "insight": "HN 热议：1213 分 · 716 评论",
             "sentiment": "positive",
-            "comments": 1036,
-            "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
+            "comments": 716,
+            "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-28T12:17:32Z",
+    "updated": "2026-05-28T17:54:05Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

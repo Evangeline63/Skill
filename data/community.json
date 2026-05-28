@@ -1,49 +1,49 @@
 {
-  "updated": "2026-05-28T12:17:32Z",
+  "updated": "2026-05-28T17:54:05Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "YouTube to automatically label AI-generated videos",
-      "insight": "HN 热议：978 分 · 586 评论",
+      "title": "Claude Opus 4.8",
+      "insight": "HN 热议：430 分 · 290 评论",
       "sentiment": "positive",
-      "comments": 586,
-      "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+      "comments": 290,
+      "url": "https://www.anthropic.com/news/claude-opus-4-8",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "A Eureka machine that thinks like nature and explores what AI cannot",
-      "insight": "HN 热议：98 分 · 30 评论",
+      "title": "Dynamic Workflows in Claude Code",
+      "insight": "HN 热议：64 分 · 47 评论",
       "sentiment": "neutral",
-      "comments": 30,
-      "url": "https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/",
+      "comments": 47,
+      "url": "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "AMD pulls a bait-and-switch on Linux users with Vivado licensing changes",
-      "insight": "HN 热议：81 分 · 24 评论",
+      "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
+      "insight": "HN 热议：93 分 · 50 评论",
       "sentiment": "neutral",
-      "comments": 24,
-      "url": "https://itsfoss.com/news/amd-vivado-bait-and-switch-on-linux-users/",
+      "comments": 50,
+      "url": "https://llmgame.scalex.dev",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "AI sticker shock hits corporate America",
-      "insight": "HN 热议：56 分 · 22 评论",
+      "title": "Show HN: Ktx – Open-source executable context layer for data agents",
+      "insight": "HN 热议：10 分 · 0 评论",
       "sentiment": "neutral",
-      "comments": 22,
-      "url": "https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs",
+      "comments": 0,
+      "url": "https://github.com/Kaelio/ktx",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "I think Anthropic and OpenAI have found product-market fit",
-      "insight": "HN 热议：919 分 · 1036 评论",
+      "title": "YouTube to automatically label AI-generated videos",
+      "insight": "HN 热议：1213 分 · 716 评论",
       "sentiment": "positive",
-      "comments": 1036,
-      "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
+      "comments": 716,
+      "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
       "id": 5
     }
   ]
