@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-28T22:24:26Z",
+    "updated": "2026-05-29T01:57:16Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-28T22:24:26Z",
+    "updated": "2026-05-29T01:57:16Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-28T22:24:26Z",
+    "updated": "2026-05-29T01:57:16Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184615,
-            "stars_today": 184615,
+            "stars": 184616,
+            "stars_today": 184616,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 162976,
-            "stars_today": 162976,
+            "stars": 162980,
+            "stars_today": 162980,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 96182,
-            "stars_today": 96182,
+            "stars": 96197,
+            "stars_today": 96197,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93405,
-            "stars_today": 93405,
+            "stars": 93409,
+            "stars_today": 93409,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 79399,
-            "stars_today": 79399,
+            "stars": 79425,
+            "stars_today": 79425,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 75172,
-            "stars_today": 75172,
+            "stars": 75186,
+            "stars_today": 75186,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-28T22:24:26Z",
+    "updated": "2026-05-29T01:57:16Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-28T22:24:26Z",
+    "updated": "2026-05-29T01:57:16Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-28T22:24:26Z",
+    "updated": "2026-05-29T01:57:16Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Claude Opus 4.8",
-            "insight": "HN 热议：1051 分 · 838 评论",
+            "insight": "HN 热议：1236 分 · 1001 评论",
             "sentiment": "positive",
-            "comments": 838,
+            "comments": 1001,
             "url": "https://www.anthropic.com/news/claude-opus-4-8",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Various LLM Smells",
-            "insight": "HN 热议：110 分 · 72 评论",
+            "title": "SF startup is testing robots in Airbnbs, and trashing them, lawsuit claims",
+            "insight": "HN 热议：75 分 · 23 评论",
             "sentiment": "neutral",
-            "comments": 72,
-            "url": "https://shvbsle.in/various-llm-smells/",
+            "comments": 23,
+            "url": "https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
-            "insight": "HN 热议：201 分 · 96 评论",
+            "insight": "HN 热议：242 分 · 111 评论",
             "sentiment": "positive",
-            "comments": 96,
+            "comments": 111,
             "url": "https://llmgame.scalex.dev",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Ktx – Open-source executable context layer for data agents",
-            "insight": "HN 热议：43 分 · 6 评论",
-            "sentiment": "neutral",
-            "comments": 6,
-            "url": "https://github.com/Kaelio/ktx",
+            "title": "Various LLM Smells",
+            "insight": "HN 热议：225 分 · 165 评论",
+            "sentiment": "positive",
+            "comments": 165,
+            "url": "https://shvbsle.in/various-llm-smells/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Sam Altman and Dario Amodei are both walking back AI jobs apocalypse predictions",
-            "insight": "HN 热议：120 分 · 100 评论",
+            "title": "Show HN: Ktx – Open-source executable context layer for data agents",
+            "insight": "HN 热议：55 分 · 12 评论",
             "sentiment": "neutral",
-            "comments": 100,
-            "url": "https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/",
+            "comments": 12,
+            "url": "https://github.com/Kaelio/ktx",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-28T22:24:26Z",
+    "updated": "2026-05-29T01:57:16Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
