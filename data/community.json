@@ -1,49 +1,49 @@
 {
-  "updated": "2026-05-29T20:23:04Z",
+  "updated": "2026-05-29T22:22:51Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Notes from the Mistral AI Now Summit in Paris",
-      "insight": "HN 热议：238 分 · 59 评论",
+      "insight": "HN 热议：280 分 · 90 评论",
       "sentiment": "positive",
-      "comments": 59,
+      "comments": 90,
       "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "Shift will clean homes for free to train future robots",
-      "insight": "HN 热议：11 分 · 13 评论",
+      "insight": "HN 热议：44 分 · 64 评论",
       "sentiment": "neutral",
-      "comments": 13,
+      "comments": 64,
       "url": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Liquid AI reveals 8B-A1B MoE trained on 38T",
-      "insight": "HN 热议：71 分 · 14 评论",
+      "title": "Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA",
+      "insight": "HN 热议：47 分 · 6 评论",
       "sentiment": "neutral",
-      "comments": 14,
-      "url": "https://www.liquid.ai/blog/lfm2-5-8b-a1b",
+      "comments": 6,
+      "url": "https://github.com/jmaczan/tiny-vllm",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Is AI causing a repeat of frontend’s lost decade?",
-      "insight": "HN 热议：215 分 · 197 评论",
-      "sentiment": "positive",
-      "comments": 197,
-      "url": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
+      "title": "Liquid AI reveals 8B-A1B MoE trained on 38T",
+      "insight": "HN 热议：121 分 · 37 评论",
+      "sentiment": "neutral",
+      "comments": 37,
+      "url": "https://www.liquid.ai/blog/lfm2-5-8b-a1b",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "CAPTCHAs can still detect AI agents",
-      "insight": "HN 热议：53 分 · 33 评论",
+      "title": "Show HN: Zot – Yet another coding agent harness",
+      "insight": "HN 热议：43 分 · 53 评论",
       "sentiment": "neutral",
-      "comments": 33,
-      "url": "https://research.roundtable.ai/captchas-detect-ai/",
+      "comments": 53,
+      "url": "https://www.zot.sh",
       "id": 5
     }
   ]

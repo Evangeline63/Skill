@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-29T20:23:04Z",
+    "updated": "2026-05-29T22:22:51Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-29T20:23:04Z",
+    "updated": "2026-05-29T22:22:51Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-29T20:23:04Z",
+    "updated": "2026-05-29T22:22:51Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184642,
-            "stars_today": 184642,
+            "stars": 184643,
+            "stars_today": 184643,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163030,
-            "stars_today": 163030,
+            "stars": 163031,
+            "stars_today": 163031,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 96266,
-            "stars_today": 96266,
+            "stars": 96278,
+            "stars_today": 96278,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 79590,
-            "stars_today": 79590,
+            "stars": 79600,
+            "stars_today": 79600,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 75317,
-            "stars_today": 75317,
+            "stars": 75325,
+            "stars_today": 75325,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-29T20:23:04Z",
+    "updated": "2026-05-29T22:22:51Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-29T20:23:04Z",
+    "updated": "2026-05-29T22:22:51Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-29T20:23:04Z",
+    "updated": "2026-05-29T22:22:51Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Notes from the Mistral AI Now Summit in Paris",
-            "insight": "HN 热议：238 分 · 59 评论",
+            "insight": "HN 热议：280 分 · 90 评论",
             "sentiment": "positive",
-            "comments": 59,
+            "comments": 90,
             "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "Shift will clean homes for free to train future robots",
-            "insight": "HN 热议：11 分 · 13 评论",
+            "insight": "HN 热议：44 分 · 64 评论",
             "sentiment": "neutral",
-            "comments": 13,
+            "comments": 64,
             "url": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Liquid AI reveals 8B-A1B MoE trained on 38T",
-            "insight": "HN 热议：71 分 · 14 评论",
+            "title": "Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA",
+            "insight": "HN 热议：47 分 · 6 评论",
             "sentiment": "neutral",
-            "comments": 14,
-            "url": "https://www.liquid.ai/blog/lfm2-5-8b-a1b",
+            "comments": 6,
+            "url": "https://github.com/jmaczan/tiny-vllm",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Is AI causing a repeat of frontend’s lost decade?",
-            "insight": "HN 热议：215 分 · 197 评论",
-            "sentiment": "positive",
-            "comments": 197,
-            "url": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
+            "title": "Liquid AI reveals 8B-A1B MoE trained on 38T",
+            "insight": "HN 热议：121 分 · 37 评论",
+            "sentiment": "neutral",
+            "comments": 37,
+            "url": "https://www.liquid.ai/blog/lfm2-5-8b-a1b",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "CAPTCHAs can still detect AI agents",
-            "insight": "HN 热议：53 分 · 33 评论",
+            "title": "Show HN: Zot – Yet another coding agent harness",
+            "insight": "HN 热议：43 分 · 53 评论",
             "sentiment": "neutral",
-            "comments": 33,
-            "url": "https://research.roundtable.ai/captchas-detect-ai/",
+            "comments": 53,
+            "url": "https://www.zot.sh",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-29T20:23:04Z",
+    "updated": "2026-05-29T22:22:51Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
