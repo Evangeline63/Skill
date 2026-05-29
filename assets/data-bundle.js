@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-29T01:57:16Z",
+    "updated": "2026-05-29T06:43:26Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-29T01:57:16Z",
+    "updated": "2026-05-29T06:43:26Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-29T01:57:16Z",
+    "updated": "2026-05-29T06:43:26Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184616,
-            "stars_today": 184616,
+            "stars": 184630,
+            "stars_today": 184630,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 162980,
-            "stars_today": 162980,
+            "stars": 163001,
+            "stars_today": 163001,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 96197,
-            "stars_today": 96197,
+            "stars": 96214,
+            "stars_today": 96214,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93409,
-            "stars_today": 93409,
+            "stars": 93414,
+            "stars_today": 93414,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 79425,
-            "stars_today": 79425,
+            "stars": 79471,
+            "stars_today": 79471,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 75186,
-            "stars_today": 75186,
+            "stars": 75210,
+            "stars_today": 75210,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-29T01:57:16Z",
+    "updated": "2026-05-29T06:43:26Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-29T01:57:16Z",
+    "updated": "2026-05-29T06:43:26Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-29T01:57:16Z",
+    "updated": "2026-05-29T06:43:26Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Claude Opus 4.8",
-            "insight": "HN 热议：1236 分 · 1001 评论",
+            "insight": "HN 热议：1402 分 · 1122 评论",
             "sentiment": "positive",
-            "comments": 1001,
+            "comments": 1122,
             "url": "https://www.anthropic.com/news/claude-opus-4-8",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "SF startup is testing robots in Airbnbs, and trashing them, lawsuit claims",
-            "insight": "HN 热议：75 分 · 23 评论",
+            "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
+            "insight": "HN 热议：53 分 · 29 评论",
             "sentiment": "neutral",
-            "comments": 23,
-            "url": "https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/",
+            "comments": 29,
+            "url": "https://minimaxir.com/2026/05/openrouter-hy3/",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
-            "insight": "HN 热议：242 分 · 111 评论",
+            "insight": "HN 热议：288 分 · 122 评论",
             "sentiment": "positive",
-            "comments": 111,
+            "comments": 122,
             "url": "https://llmgame.scalex.dev",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Various LLM Smells",
-            "insight": "HN 热议：225 分 · 165 评论",
-            "sentiment": "positive",
-            "comments": 165,
-            "url": "https://shvbsle.in/various-llm-smells/",
+            "title": "Python utility package for building Claude Code hooks",
+            "insight": "HN 热议：14 分 · 1 评论",
+            "sentiment": "neutral",
+            "comments": 1,
+            "url": "https://github.com/RasmusGodske/claude-hook-utils",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Ktx – Open-source executable context layer for data agents",
-            "insight": "HN 热议：55 分 · 12 评论",
+            "title": "Claude Code – Everything You Can Configure That the Docs Don't Tell You",
+            "insight": "HN 热议：28 分 · 2 评论",
             "sentiment": "neutral",
-            "comments": 12,
-            "url": "https://github.com/Kaelio/ktx",
+            "comments": 2,
+            "url": "https://buildingbetter.tech/p/i-read-the-claude-code-source-code",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-29T01:57:16Z",
+    "updated": "2026-05-29T06:43:26Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
