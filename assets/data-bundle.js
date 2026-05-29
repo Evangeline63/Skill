@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-29T12:00:15Z",
+    "updated": "2026-05-29T17:58:59Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-29T12:00:15Z",
+    "updated": "2026-05-29T17:58:59Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-29T12:00:15Z",
+    "updated": "2026-05-29T17:58:59Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184634,
-            "stars_today": 184634,
+            "stars": 184643,
+            "stars_today": 184643,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163013,
-            "stars_today": 163013,
+            "stars": 163027,
+            "stars_today": 163027,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 96232,
-            "stars_today": 96232,
+            "stars": 96259,
+            "stars_today": 96259,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93421,
-            "stars_today": 93421,
+            "stars": 93429,
+            "stars_today": 93429,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 79524,
-            "stars_today": 79524,
+            "stars": 79577,
+            "stars_today": 79577,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 75250,
-            "stars_today": 75250,
+            "stars": 75311,
+            "stars_today": 75311,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-29T12:00:15Z",
+    "updated": "2026-05-29T17:58:59Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-29T12:00:15Z",
+    "updated": "2026-05-29T17:58:59Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-29T12:00:15Z",
+    "updated": "2026-05-29T17:58:59Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Claude Opus 4.8",
-            "insight": "HN 热议：1582 分 · 1241 评论",
-            "sentiment": "positive",
-            "comments": 1241,
-            "url": "https://www.anthropic.com/news/claude-opus-4-8",
+            "title": "Notes from the Mistral AI Now Summit in Paris",
+            "insight": "HN 热议：109 分 · 17 评论",
+            "sentiment": "neutral",
+            "comments": 17,
+            "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Real-time LLM Inference on Standard GPUs: 3k tokens/s per request",
-            "insight": "HN 热议：41 分 · 30 评论",
+            "title": "Robinhood now lets your AI agents trade stocks",
+            "insight": "HN 热议：13 分 · 10 评论",
             "sentiment": "neutral",
-            "comments": 30,
-            "url": "https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/",
+            "comments": 10,
+            "url": "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Is This Sustainable?",
-            "insight": "HN 热议：20 分 · 20 评论",
+            "title": "CAPTCHAs can still detect AI agents",
+            "insight": "HN 热议：28 分 · 14 评论",
             "sentiment": "neutral",
-            "comments": 20,
-            "url": "https://jamiehurst.co.uk/2026-05-24_ai-sustainable",
+            "comments": 14,
+            "url": "https://research.roundtable.ai/captchas-detect-ai/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Claude Code – Everything You Can Configure That the Docs Don't Tell You",
-            "insight": "HN 热议：158 分 · 30 评论",
+            "title": "Expertise in the age of AI",
+            "insight": "HN 热议：55 分 · 57 评论",
             "sentiment": "neutral",
-            "comments": 30,
-            "url": "https://buildingbetter.tech/p/i-read-the-claude-code-source-code",
+            "comments": 57,
+            "url": "https://www.moderndescartes.com/essays/ai_and_expertise/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Is AI causing a repeat of Front end's Lost Decade?",
-            "insight": "HN 热议：6 分 · 1 评论",
+            "title": "Real-time LLM Inference on Standard GPUs: 3k tokens/s per request",
+            "insight": "HN 热议：165 分 · 75 评论",
             "sentiment": "neutral",
-            "comments": 1,
-            "url": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
+            "comments": 75,
+            "url": "https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-29T12:00:15Z",
+    "updated": "2026-05-29T17:58:59Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
