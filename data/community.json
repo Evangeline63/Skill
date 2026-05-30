@@ -1,49 +1,49 @@
 {
-  "updated": "2026-05-30T12:57:50Z",
+  "updated": "2026-05-30T15:56:57Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Show HN: Helios – what plug-in solar could generate for any address in Britain",
-      "insight": "HN 热议：19 分 · 3 评论",
-      "sentiment": "neutral",
-      "comments": 3,
-      "url": "https://helios.southlondonscientific.com/",
+      "title": "Anthropic surpasses OpenAI to become most valuable AI startup",
+      "insight": "HN 热议：244 分 · 230 评论",
+      "sentiment": "positive",
+      "comments": 230,
+      "url": "https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Notes from the Mistral AI Now Summit",
-      "insight": "HN 热议：399 分 · 173 评论",
-      "sentiment": "positive",
-      "comments": 173,
-      "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
+      "title": "Navier-Stokes fluid simulation explained with Godot game engine",
+      "insight": "HN 热议：57 分 · 14 评论",
+      "sentiment": "neutral",
+      "comments": 14,
+      "url": "https://myzopotamia.dev/navier-stokes-fluid-simulation-explained-with-godot",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Shift will clean homes for free to train future robots",
-      "insight": "HN 热议：151 分 · 211 评论",
+      "title": "AI Job Grief: The Unnamed Psychological Crisis Hitting Tech Workers",
+      "insight": "HN 热议：36 分 · 12 评论",
       "sentiment": "neutral",
-      "comments": 211,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
+      "comments": 12,
+      "url": "https://jackmaguire.org/blog/ai-job-grief/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "The Kaiser and a \"Mediocre Man\" Theory of History",
-      "insight": "HN 热议：62 分 · 50 评论",
+      "title": "Show HN: Helios – what plug-in solar could generate for any address in Britain",
+      "insight": "HN 热议：63 分 · 14 评论",
       "sentiment": "neutral",
-      "comments": 50,
-      "url": "https://www.deadcarl.com/p/the-kaiser-and-a-mediocre-man-theory",
+      "comments": 14,
+      "url": "https://helios.southlondonscientific.com/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Liquid AI reveals 8B-A1B MoE trained on 38T",
-      "insight": "HN 热议：203 分 · 76 评论",
-      "sentiment": "positive",
-      "comments": 76,
-      "url": "https://www.liquid.ai/blog/lfm2-5-8b-a1b",
+      "title": "Memory decline after menopause linked to loss of estrogen production in brain",
+      "insight": "HN 热议：57 分 · 13 评论",
+      "sentiment": "neutral",
+      "comments": 13,
+      "url": "https://news.northwestern.edu/stories/2026/05/memory-decline-after-menopause-linked-to-loss-of-estrogen-production-in-brain-tissue",
       "id": 5
     }
   ]
