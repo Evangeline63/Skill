@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-30T06:13:03Z",
+    "updated": "2026-05-30T10:41:46Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-30T06:13:03Z",
+    "updated": "2026-05-30T10:41:46Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-30T06:13:03Z",
+    "updated": "2026-05-30T10:41:46Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184647,
-            "stars_today": 184647,
+            "stars": 184650,
+            "stars_today": 184650,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163045,
-            "stars_today": 163045,
+            "stars": 163049,
+            "stars_today": 163049,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 79639,
-            "stars_today": 79639,
+            "stars": 79680,
+            "stars_today": 79680,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 75356,
-            "stars_today": 75356,
+            "stars": 75377,
+            "stars_today": 75377,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 53212,
-            "stars_today": 53212,
+            "stars": 53216,
+            "stars_today": 53216,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-30T06:13:03Z",
+    "updated": "2026-05-30T10:41:46Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-30T06:13:03Z",
+    "updated": "2026-05-30T10:41:46Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-30T06:13:03Z",
+    "updated": "2026-05-30T10:41:46Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Notes from the Mistral AI Now Summit",
-            "insight": "HN 热议：333 分 · 125 评论",
-            "sentiment": "positive",
-            "comments": 125,
-            "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
+            "title": "The Kaiser and a \"Mediocre Man\" Theory of History",
+            "insight": "HN 热议：21 分 · 4 评论",
+            "sentiment": "neutral",
+            "comments": 4,
+            "url": "https://www.deadcarl.com/p/the-kaiser-and-a-mediocre-man-theory",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Shift will clean homes for free to train future robots",
-            "insight": "HN 热议：111 分 · 169 评论",
+            "title": "Algebraic Effects for the Rest of Us",
+            "insight": "HN 热议：63 分 · 43 评论",
             "sentiment": "neutral",
-            "comments": 169,
-            "url": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
+            "comments": 43,
+            "url": "https://overreacted.io/algebraic-effects-for-the-rest-of-us/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA",
-            "insight": "HN 热议：124 分 · 10 评论",
-            "sentiment": "neutral",
-            "comments": 10,
-            "url": "https://github.com/jmaczan/tiny-vllm",
+            "title": "Notes from the Mistral AI Now Summit",
+            "insight": "HN 热议：384 分 · 161 评论",
+            "sentiment": "positive",
+            "comments": 161,
+            "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Liquid AI reveals 8B-A1B MoE trained on 38T",
-            "insight": "HN 热议：172 分 · 63 评论",
+            "title": "Shift will clean homes for free to train future robots",
+            "insight": "HN 热议：146 分 · 196 评论",
             "sentiment": "neutral",
-            "comments": 63,
-            "url": "https://www.liquid.ai/blog/lfm2-5-8b-a1b",
+            "comments": 196,
+            "url": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
             "id": 4
         },
         {
             "source": "HackerNews",
             "title": "Is AI causing a repeat of frontend’s lost decade?",
-            "insight": "HN 热议：318 分 · 272 评论",
+            "insight": "HN 热议：357 分 · 297 评论",
             "sentiment": "positive",
-            "comments": 272,
+            "comments": 297,
             "url": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-30T06:13:03Z",
+    "updated": "2026-05-30T10:41:46Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
