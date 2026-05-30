@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-30T15:56:57Z",
+    "updated": "2026-05-30T18:56:04Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-30T15:56:57Z",
+    "updated": "2026-05-30T18:56:04Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-30T15:56:57Z",
+    "updated": "2026-05-30T18:56:04Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184657,
-            "stars_today": 184657,
+            "stars": 184656,
+            "stars_today": 184656,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163063,
-            "stars_today": 163063,
+            "stars": 163060,
+            "stars_today": 163060,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93441,
-            "stars_today": 93441,
+            "stars": 93442,
+            "stars_today": 93442,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 79716,
-            "stars_today": 79716,
+            "stars": 79729,
+            "stars_today": 79729,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 75405,
-            "stars_today": 75405,
+            "stars": 75416,
+            "stars_today": 75416,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 53221,
-            "stars_today": 53221,
+            "stars": 53224,
+            "stars_today": 53224,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-30T15:56:57Z",
+    "updated": "2026-05-30T18:56:04Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-30T15:56:57Z",
+    "updated": "2026-05-30T18:56:04Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-30T15:56:57Z",
+    "updated": "2026-05-30T18:56:04Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Anthropic surpasses OpenAI to become most valuable AI startup",
-            "insight": "HN 热议：244 分 · 230 评论",
-            "sentiment": "positive",
-            "comments": 230,
-            "url": "https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup",
+            "title": "OpenRouter raises $113M Series B",
+            "insight": "HN 热议：132 分 · 55 评论",
+            "sentiment": "neutral",
+            "comments": 55,
+            "url": "https://openrouter.ai/announcements/series-b",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Navier-Stokes fluid simulation explained with Godot game engine",
-            "insight": "HN 热议：57 分 · 14 评论",
+            "title": "Hormuz crisis side effect: a sharp rise in container shipping rates",
+            "insight": "HN 热议：8 分 · 1 评论",
             "sentiment": "neutral",
-            "comments": 14,
-            "url": "https://myzopotamia.dev/navier-stokes-fluid-simulation-explained-with-godot",
+            "comments": 1,
+            "url": "https://www.lloydslist.com/LL1157327/Hormuz-crisis-side-effect-a-sharp-rise-in-container-shipping-rates",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "AI Job Grief: The Unnamed Psychological Crisis Hitting Tech Workers",
-            "insight": "HN 热议：36 分 · 12 评论",
+            "title": "Navier-Stokes fluid simulation explained with Godot game engine",
+            "insight": "HN 热议：123 分 · 21 评论",
             "sentiment": "neutral",
-            "comments": 12,
-            "url": "https://jackmaguire.org/blog/ai-job-grief/",
+            "comments": 21,
+            "url": "https://myzopotamia.dev/navier-stokes-fluid-simulation-explained-with-godot",
             "id": 3
         },
         {
             "source": "HackerNews",
             "title": "Show HN: Helios – what plug-in solar could generate for any address in Britain",
-            "insight": "HN 热议：63 分 · 14 评论",
+            "insight": "HN 热议：85 分 · 30 评论",
             "sentiment": "neutral",
-            "comments": 14,
+            "comments": 30,
             "url": "https://helios.southlondonscientific.com/",
             "id": 4
         },
         {
             "source": "HackerNews",
             "title": "Memory decline after menopause linked to loss of estrogen production in brain",
-            "insight": "HN 热议：57 分 · 13 评论",
+            "insight": "HN 热议：106 分 · 47 评论",
             "sentiment": "neutral",
-            "comments": 13,
+            "comments": 47,
             "url": "https://news.northwestern.edu/stories/2026/05/memory-decline-after-menopause-linked-to-loss-of-estrogen-production-in-brain-tissue",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-30T15:56:57Z",
+    "updated": "2026-05-30T18:56:04Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
