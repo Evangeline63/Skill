@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-30T10:41:46Z",
+    "updated": "2026-05-30T12:57:50Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-30T10:41:46Z",
+    "updated": "2026-05-30T12:57:50Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-30T10:41:46Z",
+    "updated": "2026-05-30T12:57:50Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184650,
-            "stars_today": 184650,
+            "stars": 184653,
+            "stars_today": 184653,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163049,
-            "stars_today": 163049,
+            "stars": 163053,
+            "stars_today": 163053,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93435,
-            "stars_today": 93435,
+            "stars": 93439,
+            "stars_today": 93439,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 79680,
-            "stars_today": 79680,
+            "stars": 79700,
+            "stars_today": 79700,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 75377,
-            "stars_today": 75377,
+            "stars": 75389,
+            "stars_today": 75389,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 53216,
-            "stars_today": 53216,
+            "stars": 53220,
+            "stars_today": 53220,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-30T10:41:46Z",
+    "updated": "2026-05-30T12:57:50Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-30T10:41:46Z",
+    "updated": "2026-05-30T12:57:50Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-30T10:41:46Z",
+    "updated": "2026-05-30T12:57:50Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "The Kaiser and a \"Mediocre Man\" Theory of History",
-            "insight": "HN 热议：21 分 · 4 评论",
+            "title": "Show HN: Helios – what plug-in solar could generate for any address in Britain",
+            "insight": "HN 热议：19 分 · 3 评论",
             "sentiment": "neutral",
-            "comments": 4,
-            "url": "https://www.deadcarl.com/p/the-kaiser-and-a-mediocre-man-theory",
+            "comments": 3,
+            "url": "https://helios.southlondonscientific.com/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Algebraic Effects for the Rest of Us",
-            "insight": "HN 热议：63 分 · 43 评论",
-            "sentiment": "neutral",
-            "comments": 43,
-            "url": "https://overreacted.io/algebraic-effects-for-the-rest-of-us/",
+            "title": "Notes from the Mistral AI Now Summit",
+            "insight": "HN 热议：399 分 · 173 评论",
+            "sentiment": "positive",
+            "comments": 173,
+            "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Notes from the Mistral AI Now Summit",
-            "insight": "HN 热议：384 分 · 161 评论",
-            "sentiment": "positive",
-            "comments": 161,
-            "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
+            "title": "Shift will clean homes for free to train future robots",
+            "insight": "HN 热议：151 分 · 211 评论",
+            "sentiment": "neutral",
+            "comments": 211,
+            "url": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Shift will clean homes for free to train future robots",
-            "insight": "HN 热议：146 分 · 196 评论",
+            "title": "The Kaiser and a \"Mediocre Man\" Theory of History",
+            "insight": "HN 热议：62 分 · 50 评论",
             "sentiment": "neutral",
-            "comments": 196,
-            "url": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
+            "comments": 50,
+            "url": "https://www.deadcarl.com/p/the-kaiser-and-a-mediocre-man-theory",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Is AI causing a repeat of frontend’s lost decade?",
-            "insight": "HN 热议：357 分 · 297 评论",
+            "title": "Liquid AI reveals 8B-A1B MoE trained on 38T",
+            "insight": "HN 热议：203 分 · 76 评论",
             "sentiment": "positive",
-            "comments": 297,
-            "url": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
+            "comments": 76,
+            "url": "https://www.liquid.ai/blog/lfm2-5-8b-a1b",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-30T10:41:46Z",
+    "updated": "2026-05-30T12:57:50Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

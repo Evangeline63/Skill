@@ -1,49 +1,49 @@
 {
-  "updated": "2026-05-30T10:41:46Z",
+  "updated": "2026-05-30T12:57:50Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "The Kaiser and a \"Mediocre Man\" Theory of History",
-      "insight": "HN 热议：21 分 · 4 评论",
+      "title": "Show HN: Helios – what plug-in solar could generate for any address in Britain",
+      "insight": "HN 热议：19 分 · 3 评论",
       "sentiment": "neutral",
-      "comments": 4,
-      "url": "https://www.deadcarl.com/p/the-kaiser-and-a-mediocre-man-theory",
+      "comments": 3,
+      "url": "https://helios.southlondonscientific.com/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Algebraic Effects for the Rest of Us",
-      "insight": "HN 热议：63 分 · 43 评论",
-      "sentiment": "neutral",
-      "comments": 43,
-      "url": "https://overreacted.io/algebraic-effects-for-the-rest-of-us/",
+      "title": "Notes from the Mistral AI Now Summit",
+      "insight": "HN 热议：399 分 · 173 评论",
+      "sentiment": "positive",
+      "comments": 173,
+      "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Notes from the Mistral AI Now Summit",
-      "insight": "HN 热议：384 分 · 161 评论",
-      "sentiment": "positive",
-      "comments": 161,
-      "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
+      "title": "Shift will clean homes for free to train future robots",
+      "insight": "HN 热议：151 分 · 211 评论",
+      "sentiment": "neutral",
+      "comments": 211,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Shift will clean homes for free to train future robots",
-      "insight": "HN 热议：146 分 · 196 评论",
+      "title": "The Kaiser and a \"Mediocre Man\" Theory of History",
+      "insight": "HN 热议：62 分 · 50 评论",
       "sentiment": "neutral",
-      "comments": 196,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
+      "comments": 50,
+      "url": "https://www.deadcarl.com/p/the-kaiser-and-a-mediocre-man-theory",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Is AI causing a repeat of frontend’s lost decade?",
-      "insight": "HN 热议：357 分 · 297 评论",
+      "title": "Liquid AI reveals 8B-A1B MoE trained on 38T",
+      "insight": "HN 热议：203 分 · 76 评论",
       "sentiment": "positive",
-      "comments": 297,
-      "url": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
+      "comments": 76,
+      "url": "https://www.liquid.ai/blog/lfm2-5-8b-a1b",
       "id": 5
     }
   ]
