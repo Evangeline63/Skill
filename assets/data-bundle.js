@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-29T22:22:51Z",
+    "updated": "2026-05-30T01:52:43Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-29T22:22:51Z",
+    "updated": "2026-05-30T01:52:43Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-29T22:22:51Z",
+    "updated": "2026-05-30T01:52:43Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184643,
-            "stars_today": 184643,
+            "stars": 184644,
+            "stars_today": 184644,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,50 +282,50 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163031,
-            "stars_today": 163031,
+            "stars": 163033,
+            "stars_today": 163033,
             "url": "https://github.com/f/prompts.chat"
         },
         {
             "rank": 3,
-            "name": "rasbt/LLMs-from-scratch",
-            "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
-            "language": "Jupyter Notebook",
-            "stars": 96278,
-            "stars_today": 96278,
-            "url": "https://github.com/rasbt/LLMs-from-scratch"
-        },
-        {
-            "rank": 4,
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93432,
-            "stars_today": 93432,
+            "stars": 93433,
+            "stars_today": 93433,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
-            "rank": 5,
+            "rank": 4,
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 79600,
-            "stars_today": 79600,
+            "stars": 79619,
+            "stars_today": 79619,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
-            "rank": 6,
+            "rank": 5,
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 75325,
-            "stars_today": 75325,
+            "stars": 75338,
+            "stars_today": 75338,
             "url": "https://github.com/OpenHands/OpenHands"
+        },
+        {
+            "rank": 6,
+            "name": "FlowiseAI/Flowise",
+            "description": "Build AI Agents, Visually",
+            "language": "TypeScript",
+            "stars": 53208,
+            "stars_today": 53208,
+            "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-29T22:22:51Z",
+    "updated": "2026-05-30T01:52:43Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-29T22:22:51Z",
+    "updated": "2026-05-30T01:52:43Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-29T22:22:51Z",
+    "updated": "2026-05-30T01:52:43Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Notes from the Mistral AI Now Summit in Paris",
-            "insight": "HN 热议：280 分 · 90 评论",
+            "title": "Notes from the Mistral AI Now Summit",
+            "insight": "HN 热议：310 分 · 110 评论",
             "sentiment": "positive",
-            "comments": 90,
+            "comments": 110,
             "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "Shift will clean homes for free to train future robots",
-            "insight": "HN 热议：44 分 · 64 评论",
+            "insight": "HN 热议：83 分 · 115 评论",
             "sentiment": "neutral",
-            "comments": 64,
+            "comments": 115,
             "url": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA",
-            "insight": "HN 热议：47 分 · 6 评论",
+            "insight": "HN 热议：84 分 · 7 评论",
             "sentiment": "neutral",
-            "comments": 6,
+            "comments": 7,
             "url": "https://github.com/jmaczan/tiny-vllm",
             "id": 3
         },
         {
             "source": "HackerNews",
             "title": "Liquid AI reveals 8B-A1B MoE trained on 38T",
-            "insight": "HN 热议：121 分 · 37 评论",
+            "insight": "HN 热议：150 分 · 52 评论",
             "sentiment": "neutral",
-            "comments": 37,
+            "comments": 52,
             "url": "https://www.liquid.ai/blog/lfm2-5-8b-a1b",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Zot – Yet another coding agent harness",
-            "insight": "HN 热议：43 分 · 53 评论",
-            "sentiment": "neutral",
-            "comments": 53,
-            "url": "https://www.zot.sh",
+            "title": "Is AI causing a repeat of frontend’s lost decade?",
+            "insight": "HN 热议：291 分 · 247 评论",
+            "sentiment": "positive",
+            "comments": 247,
+            "url": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-29T22:22:51Z",
+    "updated": "2026-05-30T01:52:43Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
