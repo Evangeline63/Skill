@@ -1,48 +1,48 @@
 {
-  "updated": "2026-05-30T01:52:43Z",
+  "updated": "2026-05-30T06:13:03Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Notes from the Mistral AI Now Summit",
-      "insight": "HN 热议：310 分 · 110 评论",
+      "insight": "HN 热议：333 分 · 125 评论",
       "sentiment": "positive",
-      "comments": 110,
+      "comments": 125,
       "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "Shift will clean homes for free to train future robots",
-      "insight": "HN 热议：83 分 · 115 评论",
+      "insight": "HN 热议：111 分 · 169 评论",
       "sentiment": "neutral",
-      "comments": 115,
+      "comments": 169,
       "url": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA",
-      "insight": "HN 热议：84 分 · 7 评论",
+      "insight": "HN 热议：124 分 · 10 评论",
       "sentiment": "neutral",
-      "comments": 7,
+      "comments": 10,
       "url": "https://github.com/jmaczan/tiny-vllm",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "Liquid AI reveals 8B-A1B MoE trained on 38T",
-      "insight": "HN 热议：150 分 · 52 评论",
+      "insight": "HN 热议：172 分 · 63 评论",
       "sentiment": "neutral",
-      "comments": 52,
+      "comments": 63,
       "url": "https://www.liquid.ai/blog/lfm2-5-8b-a1b",
       "id": 4
     },
     {
       "source": "HackerNews",
       "title": "Is AI causing a repeat of frontend’s lost decade?",
-      "insight": "HN 热议：291 分 · 247 评论",
+      "insight": "HN 热议：318 分 · 272 评论",
       "sentiment": "positive",
-      "comments": 247,
+      "comments": 272,
       "url": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
       "id": 5
     }
