@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-31T06:44:58Z",
+    "updated": "2026-05-31T10:50:33Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-31T06:44:58Z",
+    "updated": "2026-05-31T10:50:33Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-31T06:44:58Z",
+    "updated": "2026-05-31T10:50:33Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184663,
-            "stars_today": 184663,
+            "stars": 184666,
+            "stars_today": 184666,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163091,
-            "stars_today": 163091,
+            "stars": 163100,
+            "stars_today": 163100,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 79795,
-            "stars_today": 79795,
+            "stars": 79826,
+            "stars_today": 79826,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 75450,
-            "stars_today": 75450,
+            "stars": 75458,
+            "stars_today": 75458,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 53231,
-            "stars_today": 53231,
+            "stars": 53230,
+            "stars_today": 53230,
             "url": "https://github.com/FlowiseAI/Flowise"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "jingyaogong/minimind",
             "description": "🧠「大模型」2小时完全从0训练64M的小参数LLM！Train a 64M-parameter LLM from scratch in just 2h!",
             "language": "Python",
-            "stars": 50859,
-            "stars_today": 50859,
+            "stars": 50878,
+            "stars_today": 50878,
             "url": "https://github.com/jingyaogong/minimind"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-31T06:44:58Z",
+    "updated": "2026-05-31T10:50:33Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-31T06:44:58Z",
+    "updated": "2026-05-31T10:50:33Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-31T06:44:58Z",
+    "updated": "2026-05-31T10:50:33Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Domain expertise has always been the real moat",
-            "insight": "HN 热议：463 分 · 287 评论",
+            "insight": "HN 热议：616 分 · 374 评论",
             "sentiment": "positive",
-            "comments": 287,
+            "comments": 374,
             "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Racket v9.2 is now available",
-            "insight": "HN 热议：89 分 · 12 评论",
-            "sentiment": "neutral",
-            "comments": 12,
-            "url": "https://blog.racket-lang.org/2026/05/racket-v9-2.html",
+            "title": "OpenRouter raises $113M Series B",
+            "insight": "HN 热议：420 分 · 200 评论",
+            "sentiment": "positive",
+            "comments": 200,
+            "url": "https://openrouter.ai/announcements/series-b",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "OpenRouter raises $113M Series B",
-            "insight": "HN 热议：403 分 · 195 评论",
-            "sentiment": "positive",
-            "comments": 195,
-            "url": "https://openrouter.ai/announcements/series-b",
+            "title": "Show HN: Komi-learn – continuous memory and self-improvement for coding agents",
+            "insight": "HN 热议：14 分 · 2 评论",
+            "sentiment": "neutral",
+            "comments": 2,
+            "url": "https://github.com/kurikomi-labs/komi-learn",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Komi-learn – continuous memory and self-improvement for coding agents",
-            "insight": "HN 热议：5 分 · 0 评论",
-            "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://github.com/kurikomi-labs/komi-learn",
+            "title": "Navier-Stokes fluid simulation explained with Godot game engine",
+            "insight": "HN 热议：225 分 · 26 评论",
+            "sentiment": "positive",
+            "comments": 26,
+            "url": "https://myzopotamia.dev/navier-stokes-fluid-simulation-explained-with-godot",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Navier-Stokes fluid simulation explained with Godot game engine",
-            "insight": "HN 热议：220 分 · 25 评论",
-            "sentiment": "positive",
-            "comments": 25,
-            "url": "https://myzopotamia.dev/navier-stokes-fluid-simulation-explained-with-godot",
+            "title": "Show HN: Open Envelope – an open schema for defining AI agent teams",
+            "insight": "HN 热议：43 分 · 5 评论",
+            "sentiment": "neutral",
+            "comments": 5,
+            "url": "https://openenvelope.org/docs/schema/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-31T06:44:58Z",
+    "updated": "2026-05-31T10:50:33Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
