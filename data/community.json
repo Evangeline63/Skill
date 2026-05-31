@@ -1,49 +1,49 @@
 {
-  "updated": "2026-05-31T18:59:08Z",
+  "updated": "2026-05-31T21:45:06Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Creatine raise brain energy levels and slow Alzheimer's cognitive decline by 30%",
-      "insight": "HN 热议：230 分 · 165 评论",
+      "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
+      "insight": "HN 热议：225 分 · 79 评论",
       "sentiment": "positive",
-      "comments": 165,
-      "url": "https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/",
+      "comments": 79,
+      "url": "https://prismml.com/news/bonsai-image-4b",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
-      "insight": "HN 热议：137 分 · 49 评论",
-      "sentiment": "neutral",
-      "comments": 49,
-      "url": "https://prismml.com/news/bonsai-image-4b",
+      "title": "Creatine raises brain energy levels and slows cognitive decline: study",
+      "insight": "HN 热议：379 分 · 266 评论",
+      "sentiment": "positive",
+      "comments": 266,
+      "url": "https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "The Speed of Prototyping in the Age of AI",
-      "insight": "HN 热议：37 分 · 28 评论",
+      "insight": "HN 热议：82 分 · 49 评论",
       "sentiment": "neutral",
-      "comments": 28,
+      "comments": 49,
       "url": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "United Airlines 767 returns to Newark after Bluetooth name sparks alert",
-      "insight": "HN 热议：122 分 · 151 评论",
+      "insight": "HN 热议：198 分 · 306 评论",
       "sentiment": "neutral",
-      "comments": 151,
+      "comments": 306,
       "url": "https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Daily pill can double survival time for deadliest cancer, trial shows",
-      "insight": "HN 热议：93 分 · 16 评论",
+      "title": "Odysseus – self-hosted AI workspace",
+      "insight": "HN 热议：74 分 · 46 评论",
       "sentiment": "neutral",
-      "comments": 16,
-      "url": "https://www.theguardian.com/society/2026/may/31/daily-pill-daraxonrasib-double-survival-time-pancreatic-pancreas-cancer-clinical-trial",
+      "comments": 46,
+      "url": "https://github.com/pewdiepie-archdaemon/odysseus",
       "id": 5
     }
   ]
