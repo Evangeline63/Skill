@@ -1,49 +1,49 @@
 {
-  "updated": "2026-05-31T02:05:36Z",
+  "updated": "2026-05-31T06:44:58Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Domain expertise has always been the real moat",
-      "insight": "HN 热议：289 分 · 177 评论",
+      "insight": "HN 热议：463 分 · 287 评论",
       "sentiment": "positive",
-      "comments": 177,
+      "comments": 287,
       "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "OpenRouter raises $113M Series B",
-      "insight": "HN 热议：358 分 · 172 评论",
-      "sentiment": "positive",
-      "comments": 172,
-      "url": "https://openrouter.ai/announcements/series-b",
+      "title": "Racket v9.2 is now available",
+      "insight": "HN 热议：89 分 · 12 评论",
+      "sentiment": "neutral",
+      "comments": 12,
+      "url": "https://blog.racket-lang.org/2026/05/racket-v9-2.html",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Racket v9.2 is now available",
-      "insight": "HN 热议：12 分 · 1 评论",
-      "sentiment": "neutral",
-      "comments": 1,
-      "url": "https://blog.racket-lang.org/2026/05/racket-v9-2.html",
+      "title": "OpenRouter raises $113M Series B",
+      "insight": "HN 热议：403 分 · 195 评论",
+      "sentiment": "positive",
+      "comments": 195,
+      "url": "https://openrouter.ai/announcements/series-b",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Navier-Stokes fluid simulation explained with Godot game engine",
-      "insight": "HN 热议：186 分 · 24 评论",
+      "title": "Show HN: Komi-learn – continuous memory and self-improvement for coding agents",
+      "insight": "HN 热议：5 分 · 0 评论",
       "sentiment": "neutral",
-      "comments": 24,
-      "url": "https://myzopotamia.dev/navier-stokes-fluid-simulation-explained-with-godot",
+      "comments": 0,
+      "url": "https://github.com/kurikomi-labs/komi-learn",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Open Envelope – an open schema for defining AI agent teams",
-      "insight": "HN 热议：26 分 · 2 评论",
-      "sentiment": "neutral",
-      "comments": 2,
-      "url": "https://openenvelope.org/docs/schema/",
+      "title": "Navier-Stokes fluid simulation explained with Godot game engine",
+      "insight": "HN 热议：220 分 · 25 评论",
+      "sentiment": "positive",
+      "comments": 25,
+      "url": "https://myzopotamia.dev/navier-stokes-fluid-simulation-explained-with-godot",
       "id": 5
     }
   ]
