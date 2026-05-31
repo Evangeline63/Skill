@@ -1,49 +1,49 @@
 {
-  "updated": "2026-05-31T15:58:20Z",
+  "updated": "2026-05-31T18:59:08Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "The solution might be cancelling my AI subscription",
-      "insight": "HN 热议：87 分 · 45 评论",
-      "sentiment": "neutral",
-      "comments": 45,
-      "url": "https://thoughts.hmmz.org/2026-05-31.html",
+      "title": "Creatine raise brain energy levels and slow Alzheimer's cognitive decline by 30%",
+      "insight": "HN 热议：230 分 · 165 评论",
+      "sentiment": "positive",
+      "comments": 165,
+      "url": "https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
-      "insight": "HN 热议：31 分 · 7 评论",
+      "insight": "HN 热议：137 分 · 49 评论",
       "sentiment": "neutral",
-      "comments": 7,
+      "comments": 49,
       "url": "https://prismml.com/news/bonsai-image-4b",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Domain expertise has always been the real moat",
-      "insight": "HN 热议：749 分 · 444 评论",
-      "sentiment": "positive",
-      "comments": 444,
-      "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
+      "title": "The Speed of Prototyping in the Age of AI",
+      "insight": "HN 热议：37 分 · 28 评论",
+      "sentiment": "neutral",
+      "comments": 28,
+      "url": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Daily pill can double survival time for deadliest cancer, trial shows",
-      "insight": "HN 热议：7 分 · 0 评论",
+      "title": "United Airlines 767 returns to Newark after Bluetooth name sparks alert",
+      "insight": "HN 热议：122 分 · 151 评论",
       "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://www.theguardian.com/society/2026/may/31/daily-pill-daraxonrasib-double-survival-time-pancreatic-pancreas-cancer-clinical-trial",
+      "comments": 151,
+      "url": "https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "With Claude: Less Coding, More Testing",
-      "insight": "HN 热议：5 分 · 0 评论",
+      "title": "Daily pill can double survival time for deadliest cancer, trial shows",
+      "insight": "HN 热议：93 分 · 16 评论",
       "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://henrikwarne.com/2026/05/31/with-claude-less-coding-more-testing/",
+      "comments": 16,
+      "url": "https://www.theguardian.com/society/2026/may/31/daily-pill-daraxonrasib-double-survival-time-pancreatic-pancreas-cancer-clinical-trial",
       "id": 5
     }
   ]

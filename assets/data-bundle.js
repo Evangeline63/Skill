@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-31T15:58:20Z",
+    "updated": "2026-05-31T18:59:08Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-31T15:58:20Z",
+    "updated": "2026-05-31T18:59:08Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-31T15:58:20Z",
+    "updated": "2026-05-31T18:59:08Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184667,
-            "stars_today": 184667,
+            "stars": 184670,
+            "stars_today": 184670,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,50 +282,50 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163109,
-            "stars_today": 163109,
+            "stars": 163112,
+            "stars_today": 163112,
             "url": "https://github.com/f/prompts.chat"
         },
         {
             "rank": 3,
-            "name": "thedotmack/claude-mem",
-            "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
-            "language": "TypeScript",
-            "stars": 79855,
-            "stars_today": 79855,
-            "url": "https://github.com/thedotmack/claude-mem"
+            "name": "hacksider/Deep-Live-Cam",
+            "description": "real time face swap and one-click video deepfake with only a single image",
+            "language": "Python",
+            "stars": 93492,
+            "stars_today": 93492,
+            "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
             "rank": 4,
-            "name": "OpenHands/OpenHands",
-            "description": "🙌 OpenHands: AI-Driven Development",
-            "language": "Python",
-            "stars": 75473,
-            "stars_today": 75473,
-            "url": "https://github.com/OpenHands/OpenHands"
+            "name": "thedotmack/claude-mem",
+            "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
+            "language": "TypeScript",
+            "stars": 79879,
+            "stars_today": 79879,
+            "url": "https://github.com/thedotmack/claude-mem"
         },
         {
             "rank": 5,
-            "name": "FlowiseAI/Flowise",
-            "description": "Build AI Agents, Visually",
-            "language": "TypeScript",
-            "stars": 53231,
-            "stars_today": 53231,
-            "url": "https://github.com/FlowiseAI/Flowise"
+            "name": "OpenHands/OpenHands",
+            "description": "🙌 OpenHands: AI-Driven Development",
+            "language": "Python",
+            "stars": 75482,
+            "stars_today": 75482,
+            "url": "https://github.com/OpenHands/OpenHands"
         },
         {
             "rank": 6,
-            "name": "jingyaogong/minimind",
-            "description": "🧠「大模型」2小时完全从0训练64M的小参数LLM！Train a 64M-parameter LLM from scratch in just 2h!",
-            "language": "Python",
-            "stars": 50893,
-            "stars_today": 50893,
-            "url": "https://github.com/jingyaogong/minimind"
+            "name": "FlowiseAI/Flowise",
+            "description": "Build AI Agents, Visually",
+            "language": "TypeScript",
+            "stars": 53232,
+            "stars_today": 53232,
+            "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-31T15:58:20Z",
+    "updated": "2026-05-31T18:59:08Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-31T15:58:20Z",
+    "updated": "2026-05-31T18:59:08Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-31T15:58:20Z",
+    "updated": "2026-05-31T18:59:08Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "The solution might be cancelling my AI subscription",
-            "insight": "HN 热议：87 分 · 45 评论",
-            "sentiment": "neutral",
-            "comments": 45,
-            "url": "https://thoughts.hmmz.org/2026-05-31.html",
+            "title": "Creatine raise brain energy levels and slow Alzheimer's cognitive decline by 30%",
+            "insight": "HN 热议：230 分 · 165 评论",
+            "sentiment": "positive",
+            "comments": 165,
+            "url": "https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
-            "insight": "HN 热议：31 分 · 7 评论",
+            "insight": "HN 热议：137 分 · 49 评论",
             "sentiment": "neutral",
-            "comments": 7,
+            "comments": 49,
             "url": "https://prismml.com/news/bonsai-image-4b",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Domain expertise has always been the real moat",
-            "insight": "HN 热议：749 分 · 444 评论",
-            "sentiment": "positive",
-            "comments": 444,
-            "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
+            "title": "The Speed of Prototyping in the Age of AI",
+            "insight": "HN 热议：37 分 · 28 评论",
+            "sentiment": "neutral",
+            "comments": 28,
+            "url": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Daily pill can double survival time for deadliest cancer, trial shows",
-            "insight": "HN 热议：7 分 · 0 评论",
+            "title": "United Airlines 767 returns to Newark after Bluetooth name sparks alert",
+            "insight": "HN 热议：122 分 · 151 评论",
             "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://www.theguardian.com/society/2026/may/31/daily-pill-daraxonrasib-double-survival-time-pancreatic-pancreas-cancer-clinical-trial",
+            "comments": 151,
+            "url": "https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "With Claude: Less Coding, More Testing",
-            "insight": "HN 热议：5 分 · 0 评论",
+            "title": "Daily pill can double survival time for deadliest cancer, trial shows",
+            "insight": "HN 热议：93 分 · 16 评论",
             "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://henrikwarne.com/2026/05/31/with-claude-less-coding-more-testing/",
+            "comments": 16,
+            "url": "https://www.theguardian.com/society/2026/may/31/daily-pill-daraxonrasib-double-survival-time-pancreatic-pancreas-cancer-clinical-trial",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-31T15:58:20Z",
+    "updated": "2026-05-31T18:59:08Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
