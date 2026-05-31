@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-30T21:47:32Z",
+    "updated": "2026-05-31T02:05:36Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-30T21:47:32Z",
+    "updated": "2026-05-31T02:05:36Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-30T21:47:32Z",
+    "updated": "2026-05-31T02:05:36Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184657,
-            "stars_today": 184657,
+            "stars": 184656,
+            "stars_today": 184656,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,50 +282,50 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163065,
-            "stars_today": 163065,
+            "stars": 163077,
+            "stars_today": 163077,
             "url": "https://github.com/f/prompts.chat"
         },
         {
             "rank": 3,
-            "name": "hacksider/Deep-Live-Cam",
-            "description": "real time face swap and one-click video deepfake with only a single image",
-            "language": "Python",
-            "stars": 93441,
-            "stars_today": 93441,
-            "url": "https://github.com/hacksider/Deep-Live-Cam"
-        },
-        {
-            "rank": 4,
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 79740,
-            "stars_today": 79740,
+            "stars": 79767,
+            "stars_today": 79767,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
-            "rank": 5,
+            "rank": 4,
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 75421,
-            "stars_today": 75421,
+            "stars": 75434,
+            "stars_today": 75434,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
-            "rank": 6,
+            "rank": 5,
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 53225,
-            "stars_today": 53225,
+            "stars": 53229,
+            "stars_today": 53229,
             "url": "https://github.com/FlowiseAI/Flowise"
+        },
+        {
+            "rank": 6,
+            "name": "Kong/kong",
+            "description": "🦍 The API and AI Gateway",
+            "language": "Lua",
+            "stars": 43490,
+            "stars_today": 43490,
+            "url": "https://github.com/Kong/kong"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-30T21:47:32Z",
+    "updated": "2026-05-31T02:05:36Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-30T21:47:32Z",
+    "updated": "2026-05-31T02:05:36Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-30T21:47:32Z",
+    "updated": "2026-05-31T02:05:36Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "OpenRouter raises $113M Series B",
-            "insight": "HN 热议：292 分 · 125 评论",
+            "title": "Domain expertise has always been the real moat",
+            "insight": "HN 热议：289 分 · 177 评论",
             "sentiment": "positive",
-            "comments": 125,
-            "url": "https://openrouter.ai/announcements/series-b",
+            "comments": 177,
+            "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Domain expertise has always been the real moat",
-            "insight": "HN 热议：48 分 · 23 评论",
-            "sentiment": "neutral",
-            "comments": 23,
-            "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
+            "title": "OpenRouter raises $113M Series B",
+            "insight": "HN 热议：358 分 · 172 评论",
+            "sentiment": "positive",
+            "comments": 172,
+            "url": "https://openrouter.ai/announcements/series-b",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Hormuz crisis side effect: a sharp rise in container shipping rates",
-            "insight": "HN 热议：125 分 · 78 评论",
+            "title": "Racket v9.2 is now available",
+            "insight": "HN 热议：12 分 · 1 评论",
             "sentiment": "neutral",
-            "comments": 78,
-            "url": "https://www.lloydslist.com/LL1157327/Hormuz-crisis-side-effect-a-sharp-rise-in-container-shipping-rates",
+            "comments": 1,
+            "url": "https://blog.racket-lang.org/2026/05/racket-v9-2.html",
             "id": 3
         },
         {
             "source": "HackerNews",
             "title": "Navier-Stokes fluid simulation explained with Godot game engine",
-            "insight": "HN 热议：156 分 · 22 评论",
+            "insight": "HN 热议：186 分 · 24 评论",
             "sentiment": "neutral",
-            "comments": 22,
+            "comments": 24,
             "url": "https://myzopotamia.dev/navier-stokes-fluid-simulation-explained-with-godot",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Helios – what plug-in solar could generate for any address in Britain",
-            "insight": "HN 热议：103 分 · 36 评论",
+            "title": "Show HN: Open Envelope – an open schema for defining AI agent teams",
+            "insight": "HN 热议：26 分 · 2 评论",
             "sentiment": "neutral",
-            "comments": 36,
-            "url": "https://helios.southlondonscientific.com/",
+            "comments": 2,
+            "url": "https://openenvelope.org/docs/schema/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-30T21:47:32Z",
+    "updated": "2026-05-31T02:05:36Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
