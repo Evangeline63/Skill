@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-31T10:50:33Z",
+    "updated": "2026-05-31T13:07:19Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-31T10:50:33Z",
+    "updated": "2026-05-31T13:07:19Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-31T10:50:33Z",
+    "updated": "2026-05-31T13:07:19Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184666,
-            "stars_today": 184666,
+            "stars": 184667,
+            "stars_today": 184667,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163100,
-            "stars_today": 163100,
+            "stars": 163105,
+            "stars_today": 163105,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 79826,
-            "stars_today": 79826,
+            "stars": 79838,
+            "stars_today": 79838,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 75458,
-            "stars_today": 75458,
+            "stars": 75461,
+            "stars_today": 75461,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "jingyaogong/minimind",
             "description": "🧠「大模型」2小时完全从0训练64M的小参数LLM！Train a 64M-parameter LLM from scratch in just 2h!",
             "language": "Python",
-            "stars": 50878,
-            "stars_today": 50878,
+            "stars": 50884,
+            "stars_today": 50884,
             "url": "https://github.com/jingyaogong/minimind"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-31T10:50:33Z",
+    "updated": "2026-05-31T13:07:19Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-31T10:50:33Z",
+    "updated": "2026-05-31T13:07:19Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-31T10:50:33Z",
+    "updated": "2026-05-31T13:07:19Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Domain expertise has always been the real moat",
-            "insight": "HN 热议：616 分 · 374 评论",
+            "insight": "HN 热议：687 分 · 401 评论",
             "sentiment": "positive",
-            "comments": 374,
+            "comments": 401,
             "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "OpenRouter raises $113M Series B",
-            "insight": "HN 热议：420 分 · 200 评论",
+            "insight": "HN 热议：435 分 · 223 评论",
             "sentiment": "positive",
-            "comments": 200,
+            "comments": 223,
             "url": "https://openrouter.ai/announcements/series-b",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Komi-learn – continuous memory and self-improvement for coding agents",
-            "insight": "HN 热议：14 分 · 2 评论",
+            "title": "United Airlines 767 Returns to Newark After Bluetooth Name Sparks Alert",
+            "insight": "HN 热议：3 分 · 0 评论",
             "sentiment": "neutral",
-            "comments": 2,
-            "url": "https://github.com/kurikomi-labs/komi-learn",
+            "comments": 0,
+            "url": "https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Navier-Stokes fluid simulation explained with Godot game engine",
-            "insight": "HN 热议：225 分 · 26 评论",
-            "sentiment": "positive",
-            "comments": 26,
-            "url": "https://myzopotamia.dev/navier-stokes-fluid-simulation-explained-with-godot",
+            "title": "Show HN: Komi-learn – continuous memory and self-improvement for coding agents",
+            "insight": "HN 热议：17 分 · 2 评论",
+            "sentiment": "neutral",
+            "comments": 2,
+            "url": "https://github.com/kurikomi-labs/komi-learn",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Open Envelope – an open schema for defining AI agent teams",
-            "insight": "HN 热议：43 分 · 5 评论",
-            "sentiment": "neutral",
-            "comments": 5,
-            "url": "https://openenvelope.org/docs/schema/",
+            "title": "Navier-Stokes fluid simulation explained with Godot game engine",
+            "insight": "HN 热议：228 分 · 29 评论",
+            "sentiment": "positive",
+            "comments": 29,
+            "url": "https://myzopotamia.dev/navier-stokes-fluid-simulation-explained-with-godot",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-31T10:50:33Z",
+    "updated": "2026-05-31T13:07:19Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
