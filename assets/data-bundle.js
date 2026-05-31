@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-31T13:07:19Z",
+    "updated": "2026-05-31T15:58:20Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-31T13:07:19Z",
+    "updated": "2026-05-31T15:58:20Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,7 +266,7 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-31T13:07:19Z",
+    "updated": "2026-05-31T15:58:20Z",
     "repos": [
         {
             "rank": 1,
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163105,
-            "stars_today": 163105,
+            "stars": 163109,
+            "stars_today": 163109,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 79838,
-            "stars_today": 79838,
+            "stars": 79855,
+            "stars_today": 79855,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 75461,
-            "stars_today": 75461,
+            "stars": 75473,
+            "stars_today": 75473,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 53230,
-            "stars_today": 53230,
+            "stars": 53231,
+            "stars_today": 53231,
             "url": "https://github.com/FlowiseAI/Flowise"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "jingyaogong/minimind",
             "description": "🧠「大模型」2小时完全从0训练64M的小参数LLM！Train a 64M-parameter LLM from scratch in just 2h!",
             "language": "Python",
-            "stars": 50884,
-            "stars_today": 50884,
+            "stars": 50893,
+            "stars_today": 50893,
             "url": "https://github.com/jingyaogong/minimind"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-31T13:07:19Z",
+    "updated": "2026-05-31T15:58:20Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-31T13:07:19Z",
+    "updated": "2026-05-31T15:58:20Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-31T13:07:19Z",
+    "updated": "2026-05-31T15:58:20Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Domain expertise has always been the real moat",
-            "insight": "HN 热议：687 分 · 401 评论",
-            "sentiment": "positive",
-            "comments": 401,
-            "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
+            "title": "The solution might be cancelling my AI subscription",
+            "insight": "HN 热议：87 分 · 45 评论",
+            "sentiment": "neutral",
+            "comments": 45,
+            "url": "https://thoughts.hmmz.org/2026-05-31.html",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "OpenRouter raises $113M Series B",
-            "insight": "HN 热议：435 分 · 223 评论",
-            "sentiment": "positive",
-            "comments": 223,
-            "url": "https://openrouter.ai/announcements/series-b",
+            "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
+            "insight": "HN 热议：31 分 · 7 评论",
+            "sentiment": "neutral",
+            "comments": 7,
+            "url": "https://prismml.com/news/bonsai-image-4b",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "United Airlines 767 Returns to Newark After Bluetooth Name Sparks Alert",
-            "insight": "HN 热议：3 分 · 0 评论",
-            "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/",
+            "title": "Domain expertise has always been the real moat",
+            "insight": "HN 热议：749 分 · 444 评论",
+            "sentiment": "positive",
+            "comments": 444,
+            "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Komi-learn – continuous memory and self-improvement for coding agents",
-            "insight": "HN 热议：17 分 · 2 评论",
+            "title": "Daily pill can double survival time for deadliest cancer, trial shows",
+            "insight": "HN 热议：7 分 · 0 评论",
             "sentiment": "neutral",
-            "comments": 2,
-            "url": "https://github.com/kurikomi-labs/komi-learn",
+            "comments": 0,
+            "url": "https://www.theguardian.com/society/2026/may/31/daily-pill-daraxonrasib-double-survival-time-pancreatic-pancreas-cancer-clinical-trial",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Navier-Stokes fluid simulation explained with Godot game engine",
-            "insight": "HN 热议：228 分 · 29 评论",
-            "sentiment": "positive",
-            "comments": 29,
-            "url": "https://myzopotamia.dev/navier-stokes-fluid-simulation-explained-with-godot",
+            "title": "With Claude: Less Coding, More Testing",
+            "insight": "HN 热议：5 分 · 0 评论",
+            "sentiment": "neutral",
+            "comments": 0,
+            "url": "https://henrikwarne.com/2026/05/31/with-claude-less-coding-more-testing/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-31T13:07:19Z",
+    "updated": "2026-05-31T15:58:20Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
