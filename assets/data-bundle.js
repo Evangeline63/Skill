@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-01T08:19:23Z",
+    "updated": "2026-06-01T14:45:49Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-01T08:19:23Z",
+    "updated": "2026-06-01T14:45:49Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-01T08:19:23Z",
+    "updated": "2026-06-01T14:45:49Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184686,
-            "stars_today": 184686,
+            "stars": 184690,
+            "stars_today": 184690,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163142,
-            "stars_today": 163142,
+            "stars": 163148,
+            "stars_today": 163148,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93517,
-            "stars_today": 93517,
+            "stars": 93530,
+            "stars_today": 93530,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 79977,
-            "stars_today": 79977,
+            "stars": 80045,
+            "stars_today": 80045,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 75536,
-            "stars_today": 75536,
+            "stars": 75576,
+            "stars_today": 75576,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 53242,
-            "stars_today": 53242,
+            "stars": 53247,
+            "stars_today": 53247,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-01T08:19:23Z",
+    "updated": "2026-06-01T14:45:49Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-01T08:19:23Z",
+    "updated": "2026-06-01T14:45:49Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-01T08:19:23Z",
+    "updated": "2026-06-01T14:45:49Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Rubin Tracks Skyscraper-Size Asteroids and Failed Supernovas",
-            "insight": "HN 热议：20 分 · 4 评论",
+            "title": "No Raise, No Promotion: 1 in 4 White-Collar Workers Are Stalling Out",
+            "insight": "HN 热议：48 分 · 14 评论",
             "sentiment": "neutral",
-            "comments": 4,
-            "url": "https://www.quantamagazine.org/rubin-tracks-skyscraper-size-asteroids-failed-supernovas-and-interstellar-visitors-20260515/",
+            "comments": 14,
+            "url": "https://www.wsj.com/lifestyle/careers/white-collar-workers-career-nyu-study-a81a7d9c",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "ChatGPT for Google Sheets exfiltrates workbooks",
-            "insight": "HN 热议：204 分 · 57 评论",
-            "sentiment": "positive",
-            "comments": 57,
-            "url": "https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration",
+            "title": "When AI Crosses the Line: The Matplotlib Incident",
+            "insight": "HN 热议：103 分 · 81 评论",
+            "sentiment": "neutral",
+            "comments": 81,
+            "url": "https://members.sigmazero.cc/posts/when-ai-crosses-159174096?postId=when-ai-crosses-159174096",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
-            "insight": "HN 热议：379 分 · 140 评论",
-            "sentiment": "positive",
-            "comments": 140,
-            "url": "https://prismml.com/news/bonsai-image-4b",
+            "title": "The Pirate Bay Remains Resilient, 20 Years After the Raid",
+            "insight": "HN 热议：30 分 · 2 评论",
+            "sentiment": "neutral",
+            "comments": 2,
+            "url": "https://torrentfreak.com/the-pirate-bay-remains-resilient-20-years-after-the-raid/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "United Airlines 767 returns to Newark after Bluetooth name sparks alert",
-            "insight": "HN 热议：341 分 · 642 评论",
-            "sentiment": "positive",
-            "comments": 642,
-            "url": "https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/",
+            "title": "Radxa Dragon Q8B: A Laptop Cosplaying as an SBC?",
+            "insight": "HN 热议：8 分 · 1 评论",
+            "sentiment": "neutral",
+            "comments": 1,
+            "url": "https://bret.dk/radxa-dragon-q8b-a-laptop-cosplaying-as-an-sbc/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Dune's Butlerian Jihad and the Future of AI",
-            "insight": "HN 热议：9 分 · 2 评论",
-            "sentiment": "neutral",
-            "comments": 2,
-            "url": "https://technology.inquirer.net/147084/dunes-butlerian-jihad-and-the-future-of-ai",
+            "title": "ChatGPT for Google Sheets exfiltrates workbooks",
+            "insight": "HN 热议：281 分 · 104 评论",
+            "sentiment": "positive",
+            "comments": 104,
+            "url": "https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-01T08:19:23Z",
+    "updated": "2026-06-01T14:45:49Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
