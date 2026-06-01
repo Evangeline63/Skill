@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-01T14:45:49Z",
+  "updated": "2026-06-01T19:49:42Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "No Raise, No Promotion: 1 in 4 White-Collar Workers Are Stalling Out",
-      "insight": "HN 热议：48 分 · 14 评论",
+      "title": "GitHub and the Crime Against Software",
+      "insight": "HN 热议：60 分 · 6 评论",
       "sentiment": "neutral",
-      "comments": 14,
-      "url": "https://www.wsj.com/lifestyle/careers/white-collar-workers-career-nyu-study-a81a7d9c",
+      "comments": 6,
+      "url": "https://eblog.fly.dev/githubbad.html",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "When AI Crosses the Line: The Matplotlib Incident",
-      "insight": "HN 热议：103 分 · 81 评论",
+      "title": "AI Agent Guidelines for CS336 at Stanford",
+      "insight": "HN 热议：162 分 · 82 评论",
       "sentiment": "neutral",
-      "comments": 81,
-      "url": "https://members.sigmazero.cc/posts/when-ai-crosses-159174096?postId=when-ai-crosses-159174096",
+      "comments": 82,
+      "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "The Pirate Bay Remains Resilient, 20 Years After the Raid",
-      "insight": "HN 热议：30 分 · 2 评论",
+      "title": "Hackers Used Meta's AI Support Bot to Seize Instagram Accounts",
+      "insight": "HN 热议：11 分 · 10 评论",
       "sentiment": "neutral",
-      "comments": 2,
-      "url": "https://torrentfreak.com/the-pirate-bay-remains-resilient-20-years-after-the-raid/",
+      "comments": 10,
+      "url": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Radxa Dragon Q8B: A Laptop Cosplaying as an SBC?",
-      "insight": "HN 热议：8 分 · 1 评论",
-      "sentiment": "neutral",
-      "comments": 1,
-      "url": "https://bret.dk/radxa-dragon-q8b-a-laptop-cosplaying-as-an-sbc/",
+      "title": "The Pirate Bay Remains Resilient, 20 Years After the Raid",
+      "insight": "HN 热议：371 分 · 174 评论",
+      "sentiment": "positive",
+      "comments": 174,
+      "url": "https://torrentfreak.com/the-pirate-bay-remains-resilient-20-years-after-the-raid/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "ChatGPT for Google Sheets exfiltrates workbooks",
-      "insight": "HN 热议：281 分 · 104 评论",
-      "sentiment": "positive",
-      "comments": 104,
-      "url": "https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration",
+      "title": "Handmade Hawaiian Islands Map",
+      "insight": "HN 热议：26 分 · 11 评论",
+      "sentiment": "neutral",
+      "comments": 11,
+      "url": "https://www.notesfromtheroad.com/roam/hawaiian-islands-map.html",
       "id": 5
     }
   ]
