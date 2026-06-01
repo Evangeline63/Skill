@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-05-31T21:45:06Z",
+    "updated": "2026-06-01T02:13:51Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-05-31T21:45:06Z",
+    "updated": "2026-06-01T02:13:51Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-05-31T21:45:06Z",
+    "updated": "2026-06-01T02:13:51Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184679,
-            "stars_today": 184679,
+            "stars": 184681,
+            "stars_today": 184681,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163116,
-            "stars_today": 163116,
+            "stars": 163122,
+            "stars_today": 163122,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93497,
-            "stars_today": 93497,
+            "stars": 93504,
+            "stars_today": 93504,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 79897,
-            "stars_today": 79897,
+            "stars": 79911,
+            "stars_today": 79911,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 75490,
-            "stars_today": 75490,
+            "stars": 75504,
+            "stars_today": 75504,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 53234,
-            "stars_today": 53234,
+            "stars": 53239,
+            "stars_today": 53239,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-05-31T21:45:06Z",
+    "updated": "2026-06-01T02:13:51Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-05-31T21:45:06Z",
+    "updated": "2026-06-01T02:13:51Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-05-31T21:45:06Z",
+    "updated": "2026-06-01T02:13:51Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
-            "insight": "HN 热议：225 分 · 79 评论",
+            "insight": "HN 热议：291 分 · 101 评论",
             "sentiment": "positive",
-            "comments": 79,
+            "comments": 101,
             "url": "https://prismml.com/news/bonsai-image-4b",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "Creatine raises brain energy levels and slows cognitive decline: study",
-            "insight": "HN 热议：379 分 · 266 评论",
+            "insight": "HN 热议：480 分 · 321 评论",
             "sentiment": "positive",
-            "comments": 266,
+            "comments": 321,
             "url": "https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "The Speed of Prototyping in the Age of AI",
-            "insight": "HN 热议：82 分 · 49 评论",
-            "sentiment": "neutral",
-            "comments": 49,
-            "url": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai",
+            "title": "United Airlines 767 returns to Newark after Bluetooth name sparks alert",
+            "insight": "HN 热议：268 分 · 425 评论",
+            "sentiment": "positive",
+            "comments": 425,
+            "url": "https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "United Airlines 767 returns to Newark after Bluetooth name sparks alert",
-            "insight": "HN 热议：198 分 · 306 评论",
+            "title": "The Speed of Prototyping in the Age of AI",
+            "insight": "HN 热议：115 分 · 63 评论",
             "sentiment": "neutral",
-            "comments": 306,
-            "url": "https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/",
+            "comments": 63,
+            "url": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Odysseus – self-hosted AI workspace",
-            "insight": "HN 热议：74 分 · 46 评论",
+            "title": "What if remote working, not AI, is to blame for weak junior hiring?",
+            "insight": "HN 热议：90 分 · 130 评论",
             "sentiment": "neutral",
-            "comments": 46,
-            "url": "https://github.com/pewdiepie-archdaemon/odysseus",
+            "comments": 130,
+            "url": "https://www.ft.com/content/2205e2d0-50dc-4e80-9bf7-78d0272276c0",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-05-31T21:45:06Z",
+    "updated": "2026-06-01T02:13:51Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

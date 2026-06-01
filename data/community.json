@@ -1,49 +1,49 @@
 {
-  "updated": "2026-05-31T21:45:06Z",
+  "updated": "2026-06-01T02:13:51Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
-      "insight": "HN 热议：225 分 · 79 评论",
+      "insight": "HN 热议：291 分 · 101 评论",
       "sentiment": "positive",
-      "comments": 79,
+      "comments": 101,
       "url": "https://prismml.com/news/bonsai-image-4b",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "Creatine raises brain energy levels and slows cognitive decline: study",
-      "insight": "HN 热议：379 分 · 266 评论",
+      "insight": "HN 热议：480 分 · 321 评论",
       "sentiment": "positive",
-      "comments": 266,
+      "comments": 321,
       "url": "https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "The Speed of Prototyping in the Age of AI",
-      "insight": "HN 热议：82 分 · 49 评论",
-      "sentiment": "neutral",
-      "comments": 49,
-      "url": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai",
+      "title": "United Airlines 767 returns to Newark after Bluetooth name sparks alert",
+      "insight": "HN 热议：268 分 · 425 评论",
+      "sentiment": "positive",
+      "comments": 425,
+      "url": "https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "United Airlines 767 returns to Newark after Bluetooth name sparks alert",
-      "insight": "HN 热议：198 分 · 306 评论",
+      "title": "The Speed of Prototyping in the Age of AI",
+      "insight": "HN 热议：115 分 · 63 评论",
       "sentiment": "neutral",
-      "comments": 306,
-      "url": "https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/",
+      "comments": 63,
+      "url": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Odysseus – self-hosted AI workspace",
-      "insight": "HN 热议：74 分 · 46 评论",
+      "title": "What if remote working, not AI, is to blame for weak junior hiring?",
+      "insight": "HN 热议：90 分 · 130 评论",
       "sentiment": "neutral",
-      "comments": 46,
-      "url": "https://github.com/pewdiepie-archdaemon/odysseus",
+      "comments": 130,
+      "url": "https://www.ft.com/content/2205e2d0-50dc-4e80-9bf7-78d0272276c0",
       "id": 5
     }
   ]
