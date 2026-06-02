@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-01T22:54:23Z",
+  "updated": "2026-06-02T02:14:50Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "AI Agent Guidelines for CS336 at Stanford",
-      "insight": "HN 热议：268 分 · 104 评论",
-      "sentiment": "positive",
-      "comments": 104,
-      "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
+      "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
+      "insight": "HN 热议：88 分 · 144 评论",
+      "sentiment": "neutral",
+      "comments": 144,
+      "url": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Florida sues OpenAI and Sam Altman over AI risks",
-      "insight": "HN 热议：156 分 · 127 评论",
+      "title": "OpenAI frontier models and Codex are now available on AWS",
+      "insight": "HN 热议：141 分 · 49 评论",
       "sentiment": "neutral",
-      "comments": 127,
-      "url": "https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215",
+      "comments": 49,
+      "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "GitHub and the crime against software",
-      "insight": "HN 热议：168 分 · 65 评论",
+      "title": "Chipotlai Max",
+      "insight": "HN 热议：46 分 · 8 评论",
       "sentiment": "neutral",
-      "comments": 65,
-      "url": "https://eblog.fly.dev/githubbad.html",
+      "comments": 8,
+      "url": "https://github.com/cyberpapiii/chipotlai-max",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Anthropic confidentially submits draft S-1 to the SEC",
-      "insight": "HN 热议：401 分 · 319 评论",
+      "title": "AI Agent Guidelines for CS336 at Stanford",
+      "insight": "HN 热议：328 分 · 117 评论",
       "sentiment": "positive",
-      "comments": 319,
-      "url": "https://www.anthropic.com/news/confidential-draft-s1-sec",
+      "comments": 117,
+      "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "The Pirate Bay Remains Resilient, 20 Years After the Raid",
-      "insight": "HN 热议：456 分 · 230 评论",
-      "sentiment": "positive",
-      "comments": 230,
-      "url": "https://torrentfreak.com/the-pirate-bay-remains-resilient-20-years-after-the-raid/",
+      "title": "How the hell is Groq raising more money?",
+      "insight": "HN 热议：7 分 · 0 评论",
+      "sentiment": "neutral",
+      "comments": 0,
+      "url": "https://www.zach.be/p/how-the-hell-is-groq-raising-more",
       "id": 5
     }
   ]

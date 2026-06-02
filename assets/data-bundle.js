@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-01T22:54:23Z",
+    "updated": "2026-06-02T02:14:50Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-01T22:54:23Z",
+    "updated": "2026-06-02T02:14:50Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-01T22:54:23Z",
+    "updated": "2026-06-02T02:14:50Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184701,
-            "stars_today": 184701,
+            "stars": 184702,
+            "stars_today": 184702,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163161,
-            "stars_today": 163161,
+            "stars": 163166,
+            "stars_today": 163166,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93538,
-            "stars_today": 93538,
+            "stars": 93540,
+            "stars_today": 93540,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 80094,
-            "stars_today": 80094,
+            "stars": 80109,
+            "stars_today": 80109,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 75599,
-            "stars_today": 75599,
+            "stars": 75610,
+            "stars_today": 75610,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 53254,
-            "stars_today": 53254,
+            "stars": 53256,
+            "stars_today": 53256,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-01T22:54:23Z",
+    "updated": "2026-06-02T02:14:50Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-01T22:54:23Z",
+    "updated": "2026-06-02T02:14:50Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-01T22:54:23Z",
+    "updated": "2026-06-02T02:14:50Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "AI Agent Guidelines for CS336 at Stanford",
-            "insight": "HN 热议：268 分 · 104 评论",
-            "sentiment": "positive",
-            "comments": 104,
-            "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
+            "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
+            "insight": "HN 热议：88 分 · 144 评论",
+            "sentiment": "neutral",
+            "comments": 144,
+            "url": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Florida sues OpenAI and Sam Altman over AI risks",
-            "insight": "HN 热议：156 分 · 127 评论",
+            "title": "OpenAI frontier models and Codex are now available on AWS",
+            "insight": "HN 热议：141 分 · 49 评论",
             "sentiment": "neutral",
-            "comments": 127,
-            "url": "https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215",
+            "comments": 49,
+            "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "GitHub and the crime against software",
-            "insight": "HN 热议：168 分 · 65 评论",
+            "title": "Chipotlai Max",
+            "insight": "HN 热议：46 分 · 8 评论",
             "sentiment": "neutral",
-            "comments": 65,
-            "url": "https://eblog.fly.dev/githubbad.html",
+            "comments": 8,
+            "url": "https://github.com/cyberpapiii/chipotlai-max",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Anthropic confidentially submits draft S-1 to the SEC",
-            "insight": "HN 热议：401 分 · 319 评论",
+            "title": "AI Agent Guidelines for CS336 at Stanford",
+            "insight": "HN 热议：328 分 · 117 评论",
             "sentiment": "positive",
-            "comments": 319,
-            "url": "https://www.anthropic.com/news/confidential-draft-s1-sec",
+            "comments": 117,
+            "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "The Pirate Bay Remains Resilient, 20 Years After the Raid",
-            "insight": "HN 热议：456 分 · 230 评论",
-            "sentiment": "positive",
-            "comments": 230,
-            "url": "https://torrentfreak.com/the-pirate-bay-remains-resilient-20-years-after-the-raid/",
+            "title": "How the hell is Groq raising more money?",
+            "insight": "HN 热议：7 分 · 0 评论",
+            "sentiment": "neutral",
+            "comments": 0,
+            "url": "https://www.zach.be/p/how-the-hell-is-groq-raising-more",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-01T22:54:23Z",
+    "updated": "2026-06-02T02:14:50Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
