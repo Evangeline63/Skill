@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-02T18:29:15Z",
+  "updated": "2026-06-02T22:53:48Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Three Ways to Get Paid (2018)",
-      "insight": "HN 热议：94 分 · 57 评论",
-      "sentiment": "neutral",
-      "comments": 57,
-      "url": "https://jasonzweig.com/three-ways-to-get-paid/",
+      "title": "MAI-Code-1-Flash",
+      "insight": "HN 热议：312 分 · 143 评论",
+      "sentiment": "positive",
+      "comments": 143,
+      "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Adafruit Receives Demand Letter from Fenwick Legal Counsel on Behalf of Flux.ai",
-      "insight": "HN 热议：482 分 · 201 评论",
+      "title": "Gmail thinks I'm stupid, so I left",
+      "insight": "HN 热议：478 分 · 272 评论",
       "sentiment": "positive",
-      "comments": 201,
-      "url": "https://blog.adafruit.com/",
+      "comments": 272,
+      "url": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Anthropic scales Claude Mythos to critical infrastructure in 15 countries",
-      "insight": "HN 热议：12 分 · 1 评论",
+      "title": "Open Repair Data Standard – Open Repair Alliance",
+      "insight": "HN 热议：70 分 · 2 评论",
       "sentiment": "neutral",
-      "comments": 1,
-      "url": "https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/",
+      "comments": 2,
+      "url": "https://openrepair.org/open-data/open-standard/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Trump signs downsized AI order after weeks of reversals",
-      "insight": "HN 热议：32 分 · 15 评论",
-      "sentiment": "neutral",
-      "comments": 15,
-      "url": "https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389",
+      "title": "Adafruit receives demand letter from Fenwick legal counsel on behalf of Flux.ai",
+      "insight": "HN 热议：583 分 · 240 评论",
+      "sentiment": "positive",
+      "comments": 240,
+      "url": "https://blog.adafruit.com/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
-      "insight": "HN 热议：631 分 · 1086 评论",
-      "sentiment": "positive",
-      "comments": 1086,
-      "url": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
+      "title": "How we index images for RAG",
+      "insight": "HN 热议：64 分 · 7 评论",
+      "sentiment": "neutral",
+      "comments": 7,
+      "url": "https://www.kapa.ai/blog/how-we-index-images-for-rag",
       "id": 5
     }
   ]

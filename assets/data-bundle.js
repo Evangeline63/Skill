@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-02T18:29:15Z",
+    "updated": "2026-06-02T22:53:48Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-02T18:29:15Z",
+    "updated": "2026-06-02T22:53:48Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-02T18:29:15Z",
+    "updated": "2026-06-02T22:53:48Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184713,
-            "stars_today": 184713,
+            "stars": 184715,
+            "stars_today": 184715,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163196,
-            "stars_today": 163196,
+            "stars": 163202,
+            "stars_today": 163202,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 96519,
-            "stars_today": 96519,
+            "stars": 96528,
+            "stars_today": 96528,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93565,
-            "stars_today": 93565,
+            "stars": 93572,
+            "stars_today": 93572,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 80227,
-            "stars_today": 80227,
+            "stars": 80262,
+            "stars_today": 80262,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 75672,
-            "stars_today": 75672,
+            "stars": 75682,
+            "stars_today": 75682,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-02T18:29:15Z",
+    "updated": "2026-06-02T22:53:48Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-02T18:29:15Z",
+    "updated": "2026-06-02T22:53:48Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-02T18:29:15Z",
+    "updated": "2026-06-02T22:53:48Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Three Ways to Get Paid (2018)",
-            "insight": "HN 热议：94 分 · 57 评论",
-            "sentiment": "neutral",
-            "comments": 57,
-            "url": "https://jasonzweig.com/three-ways-to-get-paid/",
+            "title": "MAI-Code-1-Flash",
+            "insight": "HN 热议：312 分 · 143 评论",
+            "sentiment": "positive",
+            "comments": 143,
+            "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Adafruit Receives Demand Letter from Fenwick Legal Counsel on Behalf of Flux.ai",
-            "insight": "HN 热议：482 分 · 201 评论",
+            "title": "Gmail thinks I'm stupid, so I left",
+            "insight": "HN 热议：478 分 · 272 评论",
             "sentiment": "positive",
-            "comments": 201,
-            "url": "https://blog.adafruit.com/",
+            "comments": 272,
+            "url": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Anthropic scales Claude Mythos to critical infrastructure in 15 countries",
-            "insight": "HN 热议：12 分 · 1 评论",
+            "title": "Open Repair Data Standard – Open Repair Alliance",
+            "insight": "HN 热议：70 分 · 2 评论",
             "sentiment": "neutral",
-            "comments": 1,
-            "url": "https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/",
+            "comments": 2,
+            "url": "https://openrepair.org/open-data/open-standard/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Trump signs downsized AI order after weeks of reversals",
-            "insight": "HN 热议：32 分 · 15 评论",
-            "sentiment": "neutral",
-            "comments": 15,
-            "url": "https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389",
+            "title": "Adafruit receives demand letter from Fenwick legal counsel on behalf of Flux.ai",
+            "insight": "HN 热议：583 分 · 240 评论",
+            "sentiment": "positive",
+            "comments": 240,
+            "url": "https://blog.adafruit.com/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
-            "insight": "HN 热议：631 分 · 1086 评论",
-            "sentiment": "positive",
-            "comments": 1086,
-            "url": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
+            "title": "How we index images for RAG",
+            "insight": "HN 热议：64 分 · 7 评论",
+            "sentiment": "neutral",
+            "comments": 7,
+            "url": "https://www.kapa.ai/blog/how-we-index-images-for-rag",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-02T18:29:15Z",
+    "updated": "2026-06-02T22:53:48Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
