@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-02T02:14:50Z",
+  "updated": "2026-06-02T07:14:28Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
-      "insight": "HN 热议：88 分 · 144 评论",
-      "sentiment": "neutral",
-      "comments": 144,
+      "insight": "HN 热议：274 分 · 494 评论",
+      "sentiment": "positive",
+      "comments": 494,
       "url": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "OpenAI frontier models and Codex are now available on AWS",
-      "insight": "HN 热议：141 分 · 49 评论",
-      "sentiment": "neutral",
-      "comments": 49,
+      "insight": "HN 热议：231 分 · 82 评论",
+      "sentiment": "positive",
+      "comments": 82,
       "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "Chipotlai Max",
-      "insight": "HN 热议：46 分 · 8 评论",
+      "insight": "HN 热议：175 分 · 30 评论",
       "sentiment": "neutral",
-      "comments": 8,
+      "comments": 30,
       "url": "https://github.com/cyberpapiii/chipotlai-max",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "AI Agent Guidelines for CS336 at Stanford",
-      "insight": "HN 热议：328 分 · 117 评论",
-      "sentiment": "positive",
-      "comments": 117,
-      "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
+      "title": "How is Groq raising more money?",
+      "insight": "HN 热议：87 分 · 40 评论",
+      "sentiment": "neutral",
+      "comments": 40,
+      "url": "https://www.zach.be/p/how-the-hell-is-groq-raising-more",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "How the hell is Groq raising more money?",
-      "insight": "HN 热议：7 分 · 0 评论",
-      "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://www.zach.be/p/how-the-hell-is-groq-raising-more",
+      "title": "AI Agent Guidelines for CS336 at Stanford",
+      "insight": "HN 热议：382 分 · 126 评论",
+      "sentiment": "positive",
+      "comments": 126,
+      "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
       "id": 5
     }
   ]
