@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-02T12:32:23Z",
+    "updated": "2026-06-02T18:29:15Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-02T12:32:23Z",
+    "updated": "2026-06-02T18:29:15Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-02T12:32:23Z",
+    "updated": "2026-06-02T18:29:15Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184711,
-            "stars_today": 184711,
+            "stars": 184713,
+            "stars_today": 184713,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,50 +282,50 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163180,
-            "stars_today": 163180,
+            "stars": 163196,
+            "stars_today": 163196,
             "url": "https://github.com/f/prompts.chat"
         },
         {
             "rank": 3,
-            "name": "hacksider/Deep-Live-Cam",
-            "description": "real time face swap and one-click video deepfake with only a single image",
-            "language": "Python",
-            "stars": 93559,
-            "stars_today": 93559,
-            "url": "https://github.com/hacksider/Deep-Live-Cam"
+            "name": "rasbt/LLMs-from-scratch",
+            "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+            "language": "Jupyter Notebook",
+            "stars": 96519,
+            "stars_today": 96519,
+            "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
             "rank": 4,
-            "name": "thedotmack/claude-mem",
-            "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
-            "language": "TypeScript",
-            "stars": 80183,
-            "stars_today": 80183,
-            "url": "https://github.com/thedotmack/claude-mem"
+            "name": "hacksider/Deep-Live-Cam",
+            "description": "real time face swap and one-click video deepfake with only a single image",
+            "language": "Python",
+            "stars": 93565,
+            "stars_today": 93565,
+            "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
             "rank": 5,
-            "name": "OpenHands/OpenHands",
-            "description": "🙌 OpenHands: AI-Driven Development",
-            "language": "Python",
-            "stars": 75655,
-            "stars_today": 75655,
-            "url": "https://github.com/OpenHands/OpenHands"
+            "name": "thedotmack/claude-mem",
+            "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
+            "language": "TypeScript",
+            "stars": 80227,
+            "stars_today": 80227,
+            "url": "https://github.com/thedotmack/claude-mem"
         },
         {
             "rank": 6,
-            "name": "FlowiseAI/Flowise",
-            "description": "Build AI Agents, Visually",
-            "language": "TypeScript",
-            "stars": 53266,
-            "stars_today": 53266,
-            "url": "https://github.com/FlowiseAI/Flowise"
+            "name": "OpenHands/OpenHands",
+            "description": "🙌 OpenHands: AI-Driven Development",
+            "language": "Python",
+            "stars": 75672,
+            "stars_today": 75672,
+            "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-02T12:32:23Z",
+    "updated": "2026-06-02T18:29:15Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-02T12:32:23Z",
+    "updated": "2026-06-02T18:29:15Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-02T12:32:23Z",
+    "updated": "2026-06-02T18:29:15Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Adafruit Receives Demand Letter from Fenwick Legal Counsel on Behalf of Flux.ai",
-            "insight": "HN 热议：147 分 · 48 评论",
+            "title": "Three Ways to Get Paid (2018)",
+            "insight": "HN 热议：94 分 · 57 评论",
             "sentiment": "neutral",
-            "comments": 48,
-            "url": "https://blog.adafruit.com/",
+            "comments": 57,
+            "url": "https://jasonzweig.com/three-ways-to-get-paid/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
-            "insight": "HN 热议：440 分 · 773 评论",
+            "title": "Adafruit Receives Demand Letter from Fenwick Legal Counsel on Behalf of Flux.ai",
+            "insight": "HN 热议：482 分 · 201 评论",
             "sentiment": "positive",
-            "comments": 773,
-            "url": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
+            "comments": 201,
+            "url": "https://blog.adafruit.com/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Chipotlai Max",
-            "insight": "HN 热议：264 分 · 40 评论",
-            "sentiment": "positive",
-            "comments": 40,
-            "url": "https://github.com/cyberpapiii/chipotlai-max",
+            "title": "Anthropic scales Claude Mythos to critical infrastructure in 15 countries",
+            "insight": "HN 热议：12 分 · 1 评论",
+            "sentiment": "neutral",
+            "comments": 1,
+            "url": "https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "OpenAI frontier models and Codex are now available on AWS",
-            "insight": "HN 热议：296 分 · 104 评论",
-            "sentiment": "positive",
-            "comments": 104,
-            "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
+            "title": "Trump signs downsized AI order after weeks of reversals",
+            "insight": "HN 热议：32 分 · 15 评论",
+            "sentiment": "neutral",
+            "comments": 15,
+            "url": "https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "How is Groq raising more money?",
-            "insight": "HN 热议：120 分 · 56 评论",
-            "sentiment": "neutral",
-            "comments": 56,
-            "url": "https://www.zach.be/p/how-the-hell-is-groq-raising-more",
+            "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
+            "insight": "HN 热议：631 分 · 1086 评论",
+            "sentiment": "positive",
+            "comments": 1086,
+            "url": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-02T12:32:23Z",
+    "updated": "2026-06-02T18:29:15Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
