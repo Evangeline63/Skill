@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-03T07:28:53Z",
+  "updated": "2026-06-03T13:03:45Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "MAI-Code-1-Flash",
-      "insight": "HN 热议：449 分 · 197 评论",
-      "sentiment": "positive",
-      "comments": 197,
-      "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
+      "title": "Turkey Hacked the Hair Transplant Industry",
+      "insight": "HN 热议：12 分 · 0 评论",
+      "sentiment": "neutral",
+      "comments": 0,
+      "url": "https://www.wired.com/story/how-turkey-hacked-the-hair-transplant-industry/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "AI outperforms law professors in Stanford Law study",
-      "insight": "HN 热议：191 分 · 154 评论",
-      "sentiment": "neutral",
-      "comments": 154,
-      "url": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
+      "title": "MAI-Code-1-Flash",
+      "insight": "HN 热议：493 分 · 225 评论",
+      "sentiment": "positive",
+      "comments": 225,
+      "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Gmail thinks I'm stupid, so I left",
-      "insight": "HN 热议：857 分 · 506 评论",
-      "sentiment": "positive",
-      "comments": 506,
-      "url": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
+      "title": "Leiden Declaration on Artificial Intelligence and Mathematics",
+      "insight": "HN 热议：37 分 · 12 评论",
+      "sentiment": "neutral",
+      "comments": 12,
+      "url": "https://leidendeclaration.ai/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Microsoft Doubles Down on Controversial Quantum Computing Claims",
-      "insight": "HN 热议：8 分 · 1 评论",
-      "sentiment": "neutral",
-      "comments": 1,
-      "url": "https://www.science.org/content/article/doubling-down-controversial-claims-microsoft-accelerates-quantum-computing-plans",
+      "title": "AI outperforms law professors in Stanford Law study",
+      "insight": "HN 热议：310 分 · 259 评论",
+      "sentiment": "positive",
+      "comments": 259,
+      "url": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "U of T researchers demonstrate AI worm could target any online device",
-      "insight": "HN 热议：18 分 · 5 评论",
+      "title": "DIY Bipedal Robot Used Pneumatic \"Air-Muscles\" Instead of Motors",
+      "insight": "HN 热议：40 分 · 10 评论",
       "sentiment": "neutral",
-      "comments": 5,
-      "url": "https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device",
+      "comments": 10,
+      "url": "https://spectrum.ieee.org/shadow-walker-biped-humanoid-robot",
       "id": 5
     }
   ]

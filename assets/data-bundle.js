@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-03T07:28:53Z",
+    "updated": "2026-06-03T13:03:45Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-03T07:28:53Z",
+    "updated": "2026-06-03T13:03:45Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-03T07:28:53Z",
+    "updated": "2026-06-03T13:03:45Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184719,
-            "stars_today": 184719,
+            "stars": 184727,
+            "stars_today": 184727,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163226,
-            "stars_today": 163226,
+            "stars": 163245,
+            "stars_today": 163245,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 96548,
-            "stars_today": 96548,
+            "stars": 96561,
+            "stars_today": 96561,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 80333,
-            "stars_today": 80333,
+            "stars": 80391,
+            "stars_today": 80391,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 75702,
-            "stars_today": 75702,
+            "stars": 75727,
+            "stars_today": 75727,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-03T07:28:53Z",
+    "updated": "2026-06-03T13:03:45Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-03T07:28:53Z",
+    "updated": "2026-06-03T13:03:45Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-03T07:28:53Z",
+    "updated": "2026-06-03T13:03:45Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "MAI-Code-1-Flash",
-            "insight": "HN 热议：449 分 · 197 评论",
-            "sentiment": "positive",
-            "comments": 197,
-            "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
+            "title": "Turkey Hacked the Hair Transplant Industry",
+            "insight": "HN 热议：12 分 · 0 评论",
+            "sentiment": "neutral",
+            "comments": 0,
+            "url": "https://www.wired.com/story/how-turkey-hacked-the-hair-transplant-industry/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "AI outperforms law professors in Stanford Law study",
-            "insight": "HN 热议：191 分 · 154 评论",
-            "sentiment": "neutral",
-            "comments": 154,
-            "url": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
+            "title": "MAI-Code-1-Flash",
+            "insight": "HN 热议：493 分 · 225 评论",
+            "sentiment": "positive",
+            "comments": 225,
+            "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Gmail thinks I'm stupid, so I left",
-            "insight": "HN 热议：857 分 · 506 评论",
-            "sentiment": "positive",
-            "comments": 506,
-            "url": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
+            "title": "Leiden Declaration on Artificial Intelligence and Mathematics",
+            "insight": "HN 热议：37 分 · 12 评论",
+            "sentiment": "neutral",
+            "comments": 12,
+            "url": "https://leidendeclaration.ai/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Microsoft Doubles Down on Controversial Quantum Computing Claims",
-            "insight": "HN 热议：8 分 · 1 评论",
-            "sentiment": "neutral",
-            "comments": 1,
-            "url": "https://www.science.org/content/article/doubling-down-controversial-claims-microsoft-accelerates-quantum-computing-plans",
+            "title": "AI outperforms law professors in Stanford Law study",
+            "insight": "HN 热议：310 分 · 259 评论",
+            "sentiment": "positive",
+            "comments": 259,
+            "url": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "U of T researchers demonstrate AI worm could target any online device",
-            "insight": "HN 热议：18 分 · 5 评论",
+            "title": "DIY Bipedal Robot Used Pneumatic \"Air-Muscles\" Instead of Motors",
+            "insight": "HN 热议：40 分 · 10 评论",
             "sentiment": "neutral",
-            "comments": 5,
-            "url": "https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device",
+            "comments": 10,
+            "url": "https://spectrum.ieee.org/shadow-walker-biped-humanoid-robot",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-03T07:28:53Z",
+    "updated": "2026-06-03T13:03:45Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
