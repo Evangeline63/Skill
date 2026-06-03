@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-03T13:03:45Z",
+    "updated": "2026-06-03T18:38:41Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-03T13:03:45Z",
+    "updated": "2026-06-03T18:38:41Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-03T13:03:45Z",
+    "updated": "2026-06-03T18:38:41Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184727,
-            "stars_today": 184727,
+            "stars": 184728,
+            "stars_today": 184728,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163245,
-            "stars_today": 163245,
+            "stars": 163258,
+            "stars_today": 163258,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 96561,
-            "stars_today": 96561,
+            "stars": 96578,
+            "stars_today": 96578,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93576,
-            "stars_today": 93576,
+            "stars": 93582,
+            "stars_today": 93582,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 80391,
-            "stars_today": 80391,
+            "stars": 80430,
+            "stars_today": 80430,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 75727,
-            "stars_today": 75727,
+            "stars": 75739,
+            "stars_today": 75739,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-03T13:03:45Z",
+    "updated": "2026-06-03T18:38:41Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-03T13:03:45Z",
+    "updated": "2026-06-03T18:38:41Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-03T13:03:45Z",
+    "updated": "2026-06-03T18:38:41Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Turkey Hacked the Hair Transplant Industry",
-            "insight": "HN 热议：12 分 · 0 评论",
+            "title": "Launch HN: Hyper (YC P26) – Company brain to power agentic development",
+            "insight": "HN 热议：18 分 · 9 评论",
             "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://www.wired.com/story/how-turkey-hacked-the-hair-transplant-industry/",
+            "comments": 9,
+            "url": "https://news.ycombinator.com/item?id=48387095",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "MAI-Code-1-Flash",
-            "insight": "HN 热议：493 分 · 225 评论",
-            "sentiment": "positive",
-            "comments": 225,
-            "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
+            "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
+            "insight": "HN 热议：88 分 · 98 评论",
+            "sentiment": "neutral",
+            "comments": 98,
+            "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Leiden Declaration on Artificial Intelligence and Mathematics",
-            "insight": "HN 热议：37 分 · 12 评论",
+            "title": "Mathematicians issue warning as AI rapidly gains ground",
+            "insight": "HN 热议：71 分 · 98 评论",
             "sentiment": "neutral",
-            "comments": 12,
-            "url": "https://leidendeclaration.ai/",
+            "comments": 98,
+            "url": "https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "AI outperforms law professors in Stanford Law study",
-            "insight": "HN 热议：310 分 · 259 评论",
+            "title": "32GB of DDR5 now costs $375 – AI shortage continues to squeeze PC building",
+            "insight": "HN 热议：283 分 · 270 评论",
             "sentiment": "positive",
-            "comments": 259,
-            "url": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
+            "comments": 270,
+            "url": "https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "DIY Bipedal Robot Used Pneumatic \"Air-Muscles\" Instead of Motors",
-            "insight": "HN 热议：40 分 · 10 评论",
+            "title": "How turkey hacked the hair-transplant industry",
+            "insight": "HN 热议：65 分 · 78 评论",
             "sentiment": "neutral",
-            "comments": 10,
-            "url": "https://spectrum.ieee.org/shadow-walker-biped-humanoid-robot",
+            "comments": 78,
+            "url": "https://www.wired.com/story/how-turkey-hacked-the-hair-transplant-industry/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-03T13:03:45Z",
+    "updated": "2026-06-03T18:38:41Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
