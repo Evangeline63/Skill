@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-03T02:32:45Z",
+    "updated": "2026-06-03T07:28:53Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-03T02:32:45Z",
+    "updated": "2026-06-03T07:28:53Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-03T02:32:45Z",
+    "updated": "2026-06-03T07:28:53Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184714,
-            "stars_today": 184714,
+            "stars": 184719,
+            "stars_today": 184719,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163209,
-            "stars_today": 163209,
+            "stars": 163226,
+            "stars_today": 163226,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 96535,
-            "stars_today": 96535,
+            "stars": 96548,
+            "stars_today": 96548,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93574,
-            "stars_today": 93574,
+            "stars": 93576,
+            "stars_today": 93576,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 80284,
-            "stars_today": 80284,
+            "stars": 80333,
+            "stars_today": 80333,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 75686,
-            "stars_today": 75686,
+            "stars": 75702,
+            "stars_today": 75702,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-03T02:32:45Z",
+    "updated": "2026-06-03T07:28:53Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-03T02:32:45Z",
+    "updated": "2026-06-03T07:28:53Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-03T02:32:45Z",
+    "updated": "2026-06-03T07:28:53Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "MAI-Code-1-Flash",
-            "insight": "HN 热议：395 分 · 178 评论",
+            "insight": "HN 热议：449 分 · 197 评论",
             "sentiment": "positive",
-            "comments": 178,
+            "comments": 197,
             "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "AI outperforms law professors in Stanford Law study",
-            "insight": "HN 热议：104 分 · 100 评论",
+            "insight": "HN 热议：191 分 · 154 评论",
             "sentiment": "neutral",
-            "comments": 100,
+            "comments": 154,
             "url": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "Gmail thinks I'm stupid, so I left",
-            "insight": "HN 热议：642 分 · 399 评论",
+            "insight": "HN 热议：857 分 · 506 评论",
             "sentiment": "positive",
-            "comments": 399,
+            "comments": 506,
             "url": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Open Repair Data Standard – Open Repair Alliance",
-            "insight": "HN 热议：97 分 · 3 评论",
+            "title": "Microsoft Doubles Down on Controversial Quantum Computing Claims",
+            "insight": "HN 热议：8 分 · 1 评论",
             "sentiment": "neutral",
-            "comments": 3,
-            "url": "https://openrepair.org/open-data/open-standard/",
+            "comments": 1,
+            "url": "https://www.science.org/content/article/doubling-down-controversial-claims-microsoft-accelerates-quantum-computing-plans",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "LLMs are not the black box you were promised",
-            "insight": "HN 热议：48 分 · 27 评论",
+            "title": "U of T researchers demonstrate AI worm could target any online device",
+            "insight": "HN 热议：18 分 · 5 评论",
             "sentiment": "neutral",
-            "comments": 27,
-            "url": "https://www.jay.ai/blog/llms-are-not-a-black-box",
+            "comments": 5,
+            "url": "https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-03T02:32:45Z",
+    "updated": "2026-06-03T07:28:53Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
