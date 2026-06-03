@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-03T18:38:41Z",
+    "updated": "2026-06-03T22:56:18Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-03T18:38:41Z",
+    "updated": "2026-06-03T22:56:18Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-03T18:38:41Z",
+    "updated": "2026-06-03T22:56:18Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184728,
-            "stars_today": 184728,
+            "stars": 184734,
+            "stars_today": 184734,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163258,
-            "stars_today": 163258,
+            "stars": 163263,
+            "stars_today": 163263,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 96578,
-            "stars_today": 96578,
+            "stars": 96588,
+            "stars_today": 96588,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93582,
-            "stars_today": 93582,
+            "stars": 93585,
+            "stars_today": 93585,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 80430,
-            "stars_today": 80430,
+            "stars": 80469,
+            "stars_today": 80469,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 75739,
-            "stars_today": 75739,
+            "stars": 75747,
+            "stars_today": 75747,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-03T18:38:41Z",
+    "updated": "2026-06-03T22:56:18Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-03T18:38:41Z",
+    "updated": "2026-06-03T22:56:18Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-03T18:38:41Z",
+    "updated": "2026-06-03T22:56:18Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Launch HN: Hyper (YC P26) – Company brain to power agentic development",
-            "insight": "HN 热议：18 分 · 9 评论",
-            "sentiment": "neutral",
-            "comments": 9,
-            "url": "https://news.ycombinator.com/item?id=48387095",
+            "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
+            "insight": "HN 热议：310 分 · 391 评论",
+            "sentiment": "positive",
+            "comments": 391,
+            "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
-            "insight": "HN 热议：88 分 · 98 评论",
+            "title": "Show HN: Mnemo – local-first AI memory layer for any LLM (Rust, SQLite,petgraph)",
+            "insight": "HN 热议：16 分 · 5 评论",
             "sentiment": "neutral",
-            "comments": 98,
-            "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
+            "comments": 5,
+            "url": "https://github.com/zaydmulani09/mnemo",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Mathematicians issue warning as AI rapidly gains ground",
-            "insight": "HN 热议：71 分 · 98 评论",
+            "title": "Launch HN: Hyper (YC P26) – Company brain to power agentic development",
+            "insight": "HN 热议：45 分 · 43 评论",
             "sentiment": "neutral",
-            "comments": 98,
-            "url": "https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground",
+            "comments": 43,
+            "url": "https://news.ycombinator.com/item?id=48387095",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "32GB of DDR5 now costs $375 – AI shortage continues to squeeze PC building",
-            "insight": "HN 热议：283 分 · 270 评论",
-            "sentiment": "positive",
-            "comments": 270,
-            "url": "https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building",
+            "title": "Rootshell: A new E2EE email service hosted in Iceland",
+            "insight": "HN 热议：37 分 · 29 评论",
+            "sentiment": "neutral",
+            "comments": 29,
+            "url": "https://rootshell.is",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "How turkey hacked the hair-transplant industry",
-            "insight": "HN 热议：65 分 · 78 评论",
+            "title": "Mathematicians issue warning as AI rapidly gains ground",
+            "insight": "HN 热议：145 分 · 187 评论",
             "sentiment": "neutral",
-            "comments": 78,
-            "url": "https://www.wired.com/story/how-turkey-hacked-the-hair-transplant-industry/",
+            "comments": 187,
+            "url": "https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-03T18:38:41Z",
+    "updated": "2026-06-03T22:56:18Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
