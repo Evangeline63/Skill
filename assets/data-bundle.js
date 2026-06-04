@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-04T02:29:33Z",
+    "updated": "2026-06-04T07:12:27Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-04T02:29:33Z",
+    "updated": "2026-06-04T07:12:27Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -325,7 +325,7 @@ window.__DATA__ = {
     ]
 },
   "products": {
-    "updated": "2026-06-04T02:29:33Z",
+    "updated": "2026-06-04T07:12:27Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-04T02:29:33Z",
+    "updated": "2026-06-04T07:12:27Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-04T02:29:33Z",
+    "updated": "2026-06-04T07:12:27Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
-            "insight": "HN 热议：53 分 · 23 评论",
+            "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
+            "insight": "HN 热议：200 分 · 126 评论",
             "sentiment": "neutral",
-            "comments": 23,
-            "url": "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/",
+            "comments": 126,
+            "url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "The ways we contain Claude across products",
-            "insight": "HN 热议：45 分 · 14 评论",
+            "title": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
+            "insight": "HN 热议：163 分 · 65 评论",
             "sentiment": "neutral",
-            "comments": 14,
-            "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
+            "comments": 65,
+            "url": "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Artificial intelligence is not conscious – Ted Chiang",
-            "insight": "HN 热议：254 分 · 453 评论",
-            "sentiment": "positive",
-            "comments": 453,
-            "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
+            "title": "The ways we contain Claude across products",
+            "insight": "HN 热议：104 分 · 46 评论",
+            "sentiment": "neutral",
+            "comments": 46,
+            "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
-            "insight": "HN 热议：372 分 · 483 评论",
+            "title": "Artificial intelligence is not conscious – Ted Chiang",
+            "insight": "HN 热议：365 分 · 641 评论",
             "sentiment": "positive",
-            "comments": 483,
-            "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
+            "comments": 641,
+            "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Launch HN: Hyper (YC P26) – Company brain to power agentic development",
-            "insight": "HN 热议：53 分 · 55 评论",
-            "sentiment": "neutral",
-            "comments": 55,
-            "url": "https://news.ycombinator.com/item?id=48387095",
+            "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
+            "insight": "HN 热议：453 分 · 560 评论",
+            "sentiment": "positive",
+            "comments": 560,
+            "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-04T02:29:33Z",
+    "updated": "2026-06-04T07:12:27Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
