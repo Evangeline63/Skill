@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-04T17:37:22Z",
+    "updated": "2026-06-04T19:51:45Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-04T17:37:22Z",
+    "updated": "2026-06-04T19:51:45Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-04T17:37:22Z",
+    "updated": "2026-06-04T19:51:45Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184757,
-            "stars_today": 184757,
+            "stars": 184759,
+            "stars_today": 184759,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163294,
-            "stars_today": 163294,
+            "stars": 163298,
+            "stars_today": 163298,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 96649,
-            "stars_today": 96649,
+            "stars": 96652,
+            "stars_today": 96652,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93601,
-            "stars_today": 93601,
+            "stars": 93600,
+            "stars_today": 93600,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 80631,
-            "stars_today": 80631,
+            "stars": 80646,
+            "stars_today": 80646,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 75835,
-            "stars_today": 75835,
+            "stars": 75840,
+            "stars_today": 75840,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-04T17:37:22Z",
+    "updated": "2026-06-04T19:51:45Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-04T17:37:22Z",
+    "updated": "2026-06-04T19:51:45Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,12 +511,12 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-04T17:37:22Z",
+    "updated": "2026-06-04T19:51:45Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "KVarN: Native vLLM backend for KV-cache quantization by Huawei",
-            "insight": "HN 热议：51 分 · 7 评论",
+            "insight": "HN 热议：85 分 · 7 评论",
             "sentiment": "neutral",
             "comments": 7,
             "url": "https://github.com/huawei-csl/KVarN",
@@ -524,44 +524,44 @@ window.__DATA__ = {
         },
         {
             "source": "HackerNews",
-            "title": "3D-printed book turns its own G-code into raised lettering",
-            "insight": "HN 热议：32 分 · 15 评论",
+            "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
+            "insight": "HN 热议：84 分 · 93 评论",
             "sentiment": "neutral",
-            "comments": 15,
-            "url": "https://www.designboom.com/design/3d-printed-book-manual-darius-ou-benson-chong/",
+            "comments": 93,
+            "url": "https://www.anthropic.com/institute/recursive-self-improvement",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Prela – Purely Algebraic Relation Combinators",
-            "insight": "HN 热议：40 分 · 8 评论",
-            "sentiment": "neutral",
-            "comments": 8,
-            "url": "https://github.com/remysucre/prela",
+            "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
+            "insight": "HN 热议：656 分 · 607 评论",
+            "sentiment": "positive",
+            "comments": 607,
+            "url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
-            "insight": "HN 热议：337 分 · 178 评论",
-            "sentiment": "positive",
-            "comments": 178,
-            "url": "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/",
+            "title": "Samurai City",
+            "insight": "HN 热议：19 分 · 1 评论",
+            "sentiment": "neutral",
+            "comments": 1,
+            "url": "https://worksinprogress.co/issue/samurai-city/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Artificial intelligence is not conscious",
-            "insight": "HN 热议：642 分 · 1098 评论",
-            "sentiment": "positive",
-            "comments": 1098,
-            "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
+            "title": "Show HN: Cost.dev (YC W21) – making agents cost-aware and cheaper to call",
+            "insight": "HN 热议：10 分 · 1 评论",
+            "sentiment": "neutral",
+            "comments": 1,
+            "url": "https://cost.dev/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-04T17:37:22Z",
+    "updated": "2026-06-04T19:51:45Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
