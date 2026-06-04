@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-03T22:56:18Z",
+    "updated": "2026-06-04T02:29:33Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-03T22:56:18Z",
+    "updated": "2026-06-04T02:29:33Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-03T22:56:18Z",
+    "updated": "2026-06-04T02:29:33Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184734,
-            "stars_today": 184734,
+            "stars": 184738,
+            "stars_today": 184738,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163263,
-            "stars_today": 163263,
+            "stars": 163274,
+            "stars_today": 163274,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 96588,
-            "stars_today": 96588,
+            "stars": 96595,
+            "stars_today": 96595,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93585,
-            "stars_today": 93585,
+            "stars": 93589,
+            "stars_today": 93589,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 80469,
-            "stars_today": 80469,
+            "stars": 80487,
+            "stars_today": 80487,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 75747,
-            "stars_today": 75747,
+            "stars": 75767,
+            "stars_today": 75767,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-03T22:56:18Z",
+    "updated": "2026-06-04T02:29:33Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-03T22:56:18Z",
+    "updated": "2026-06-04T02:29:33Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-03T22:56:18Z",
+    "updated": "2026-06-04T02:29:33Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
-            "insight": "HN 热议：310 分 · 391 评论",
-            "sentiment": "positive",
-            "comments": 391,
-            "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
+            "title": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
+            "insight": "HN 热议：53 分 · 23 评论",
+            "sentiment": "neutral",
+            "comments": 23,
+            "url": "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Mnemo – local-first AI memory layer for any LLM (Rust, SQLite,petgraph)",
-            "insight": "HN 热议：16 分 · 5 评论",
+            "title": "The ways we contain Claude across products",
+            "insight": "HN 热议：45 分 · 14 评论",
             "sentiment": "neutral",
-            "comments": 5,
-            "url": "https://github.com/zaydmulani09/mnemo",
+            "comments": 14,
+            "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Launch HN: Hyper (YC P26) – Company brain to power agentic development",
-            "insight": "HN 热议：45 分 · 43 评论",
-            "sentiment": "neutral",
-            "comments": 43,
-            "url": "https://news.ycombinator.com/item?id=48387095",
+            "title": "Artificial intelligence is not conscious – Ted Chiang",
+            "insight": "HN 热议：254 分 · 453 评论",
+            "sentiment": "positive",
+            "comments": 453,
+            "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Rootshell: A new E2EE email service hosted in Iceland",
-            "insight": "HN 热议：37 分 · 29 评论",
-            "sentiment": "neutral",
-            "comments": 29,
-            "url": "https://rootshell.is",
+            "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
+            "insight": "HN 热议：372 分 · 483 评论",
+            "sentiment": "positive",
+            "comments": 483,
+            "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Mathematicians issue warning as AI rapidly gains ground",
-            "insight": "HN 热议：145 分 · 187 评论",
+            "title": "Launch HN: Hyper (YC P26) – Company brain to power agentic development",
+            "insight": "HN 热议：53 分 · 55 评论",
             "sentiment": "neutral",
-            "comments": 187,
-            "url": "https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground",
+            "comments": 55,
+            "url": "https://news.ycombinator.com/item?id=48387095",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-03T22:56:18Z",
+    "updated": "2026-06-04T02:29:33Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

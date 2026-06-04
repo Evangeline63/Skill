@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-03T22:56:18Z",
+  "updated": "2026-06-04T02:29:33Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
-      "insight": "HN 热议：310 分 · 391 评论",
-      "sentiment": "positive",
-      "comments": 391,
-      "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
+      "title": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
+      "insight": "HN 热议：53 分 · 23 评论",
+      "sentiment": "neutral",
+      "comments": 23,
+      "url": "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Mnemo – local-first AI memory layer for any LLM (Rust, SQLite,petgraph)",
-      "insight": "HN 热议：16 分 · 5 评论",
+      "title": "The ways we contain Claude across products",
+      "insight": "HN 热议：45 分 · 14 评论",
       "sentiment": "neutral",
-      "comments": 5,
-      "url": "https://github.com/zaydmulani09/mnemo",
+      "comments": 14,
+      "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Launch HN: Hyper (YC P26) – Company brain to power agentic development",
-      "insight": "HN 热议：45 分 · 43 评论",
-      "sentiment": "neutral",
-      "comments": 43,
-      "url": "https://news.ycombinator.com/item?id=48387095",
+      "title": "Artificial intelligence is not conscious – Ted Chiang",
+      "insight": "HN 热议：254 分 · 453 评论",
+      "sentiment": "positive",
+      "comments": 453,
+      "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Rootshell: A new E2EE email service hosted in Iceland",
-      "insight": "HN 热议：37 分 · 29 评论",
-      "sentiment": "neutral",
-      "comments": 29,
-      "url": "https://rootshell.is",
+      "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
+      "insight": "HN 热议：372 分 · 483 评论",
+      "sentiment": "positive",
+      "comments": 483,
+      "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Mathematicians issue warning as AI rapidly gains ground",
-      "insight": "HN 热议：145 分 · 187 评论",
+      "title": "Launch HN: Hyper (YC P26) – Company brain to power agentic development",
+      "insight": "HN 热议：53 分 · 55 评论",
       "sentiment": "neutral",
-      "comments": 187,
-      "url": "https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground",
+      "comments": 55,
+      "url": "https://news.ycombinator.com/item?id=48387095",
       "id": 5
     }
   ]
