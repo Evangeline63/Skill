@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-04T11:42:27Z",
+    "updated": "2026-06-04T14:28:25Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-04T11:42:27Z",
+    "updated": "2026-06-04T14:28:25Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-04T11:42:27Z",
+    "updated": "2026-06-04T14:28:25Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184750,
-            "stars_today": 184750,
+            "stars": 184754,
+            "stars_today": 184754,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163291,
-            "stars_today": 163291,
+            "stars": 163295,
+            "stars_today": 163295,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 96623,
-            "stars_today": 96623,
+            "stars": 96636,
+            "stars_today": 96636,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93600,
-            "stars_today": 93600,
+            "stars": 93601,
+            "stars_today": 93601,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 80587,
-            "stars_today": 80587,
+            "stars": 80613,
+            "stars_today": 80613,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 75811,
-            "stars_today": 75811,
+            "stars": 75824,
+            "stars_today": 75824,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-04T11:42:27Z",
+    "updated": "2026-06-04T14:28:25Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-04T11:42:27Z",
+    "updated": "2026-06-04T14:28:25Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-04T11:42:27Z",
+    "updated": "2026-06-04T14:28:25Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "UK media fails to disclose defence sector links in nearly 60% of cases",
-            "insight": "HN 热议：140 分 · 103 评论",
-            "sentiment": "neutral",
-            "comments": 103,
+            "insight": "HN 热议：281 分 · 176 评论",
+            "sentiment": "positive",
+            "comments": 176,
             "url": "https://aoav.org.uk/2026/military-experts-or-arms-industry-insiders-uk-media-fails-to-disclose-defence-sector-links-in-nearly-60-of-cases/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
-            "insight": "HN 热议：386 分 · 282 评论",
+            "title": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
+            "insight": "HN 热议：290 分 · 139 评论",
             "sentiment": "positive",
-            "comments": 282,
-            "url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
+            "comments": 139,
+            "url": "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
-            "insight": "HN 热议：247 分 · 116 评论",
+            "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
+            "insight": "HN 热议：522 分 · 447 评论",
             "sentiment": "positive",
-            "comments": 116,
-            "url": "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/",
+            "comments": 447,
+            "url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Claude Code and Codex Can Have Real-Time Conversation via Git",
-            "insight": "HN 热议：29 分 · 20 评论",
-            "sentiment": "neutral",
-            "comments": 20,
-            "url": "https://medium.com/@Koukyosyumei/claude-code-and-codex-can-have-real-time-conversation-via-git-f95b696c1c05",
+            "title": "Artificial intelligence is not conscious – Ted Chiang",
+            "insight": "HN 热议：563 分 · 919 评论",
+            "sentiment": "positive",
+            "comments": 919,
+            "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Artificial intelligence is not conscious – Ted Chiang",
-            "insight": "HN 热议：482 分 · 824 评论",
-            "sentiment": "positive",
-            "comments": 824,
-            "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
+            "title": "Show HN: Prela – Purely Algebraic Relation Combinators",
+            "insight": "HN 热议：6 分 · 0 评论",
+            "sentiment": "neutral",
+            "comments": 0,
+            "url": "https://github.com/remysucre/prela",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-04T11:42:27Z",
+    "updated": "2026-06-04T14:28:25Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
