@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-04T19:51:45Z",
+    "updated": "2026-06-04T22:15:12Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-04T19:51:45Z",
+    "updated": "2026-06-04T22:15:12Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-04T19:51:45Z",
+    "updated": "2026-06-04T22:15:12Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184759,
-            "stars_today": 184759,
+            "stars": 184764,
+            "stars_today": 184764,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163298,
-            "stars_today": 163298,
+            "stars": 163301,
+            "stars_today": 163301,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 96652,
-            "stars_today": 96652,
+            "stars": 96655,
+            "stars_today": 96655,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93600,
-            "stars_today": 93600,
+            "stars": 93601,
+            "stars_today": 93601,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 80646,
-            "stars_today": 80646,
+            "stars": 80660,
+            "stars_today": 80660,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 75840,
-            "stars_today": 75840,
+            "stars": 75845,
+            "stars_today": 75845,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-04T19:51:45Z",
+    "updated": "2026-06-04T22:15:12Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-04T19:51:45Z",
+    "updated": "2026-06-04T22:15:12Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-04T19:51:45Z",
+    "updated": "2026-06-04T22:15:12Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "KVarN: Native vLLM backend for KV-cache quantization by Huawei",
-            "insight": "HN 热议：85 分 · 7 评论",
+            "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+            "insight": "HN 热议：138 分 · 48 评论",
             "sentiment": "neutral",
-            "comments": 7,
-            "url": "https://github.com/huawei-csl/KVarN",
+            "comments": 48,
+            "url": "https://github.com/anthropics/defending-code-reference-harness",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
-            "insight": "HN 热议：84 分 · 93 评论",
-            "sentiment": "neutral",
-            "comments": 93,
+            "insight": "HN 热议：213 分 · 273 评论",
+            "sentiment": "positive",
+            "comments": 273,
             "url": "https://www.anthropic.com/institute/recursive-self-improvement",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
-            "insight": "HN 热议：656 分 · 607 评论",
-            "sentiment": "positive",
-            "comments": 607,
-            "url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
+            "title": "Show HN: Formally verified polygon intersection – Opus 4.8 oneshots, prev failed",
+            "insight": "HN 热议：7 分 · 0 评论",
+            "sentiment": "neutral",
+            "comments": 0,
+            "url": "https://github.com/schildep/verified-polygon-intersection",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Samurai City",
-            "insight": "HN 热议：19 分 · 1 评论",
+            "title": "Castor: CERN Advanced STORage Manager",
+            "insight": "HN 热议：34 分 · 13 评论",
             "sentiment": "neutral",
-            "comments": 1,
-            "url": "https://worksinprogress.co/issue/samurai-city/",
+            "comments": 13,
+            "url": "https://castor.web.cern.ch/content/home.html",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Cost.dev (YC W21) – making agents cost-aware and cheaper to call",
-            "insight": "HN 热议：10 分 · 1 评论",
+            "title": "KVarN: Native vLLM backend for KV-cache quantization by Huawei",
+            "insight": "HN 热议：101 分 · 10 评论",
             "sentiment": "neutral",
-            "comments": 1,
-            "url": "https://cost.dev/",
+            "comments": 10,
+            "url": "https://github.com/huawei-csl/KVarN",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-04T19:51:45Z",
+    "updated": "2026-06-04T22:15:12Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
