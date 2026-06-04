@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-04T07:12:27Z",
+  "updated": "2026-06-04T11:42:27Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
-      "insight": "HN 热议：200 分 · 126 评论",
+      "title": "UK media fails to disclose defence sector links in nearly 60% of cases",
+      "insight": "HN 热议：140 分 · 103 评论",
       "sentiment": "neutral",
-      "comments": 126,
-      "url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
+      "comments": 103,
+      "url": "https://aoav.org.uk/2026/military-experts-or-arms-industry-insiders-uk-media-fails-to-disclose-defence-sector-links-in-nearly-60-of-cases/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
-      "insight": "HN 热议：163 分 · 65 评论",
-      "sentiment": "neutral",
-      "comments": 65,
-      "url": "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/",
+      "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
+      "insight": "HN 热议：386 分 · 282 评论",
+      "sentiment": "positive",
+      "comments": 282,
+      "url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "The ways we contain Claude across products",
-      "insight": "HN 热议：104 分 · 46 评论",
-      "sentiment": "neutral",
-      "comments": 46,
-      "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
+      "title": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
+      "insight": "HN 热议：247 分 · 116 评论",
+      "sentiment": "positive",
+      "comments": 116,
+      "url": "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Artificial intelligence is not conscious – Ted Chiang",
-      "insight": "HN 热议：365 分 · 641 评论",
-      "sentiment": "positive",
-      "comments": 641,
-      "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
+      "title": "Claude Code and Codex Can Have Real-Time Conversation via Git",
+      "insight": "HN 热议：29 分 · 20 评论",
+      "sentiment": "neutral",
+      "comments": 20,
+      "url": "https://medium.com/@Koukyosyumei/claude-code-and-codex-can-have-real-time-conversation-via-git-f95b696c1c05",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
-      "insight": "HN 热议：453 分 · 560 评论",
+      "title": "Artificial intelligence is not conscious – Ted Chiang",
+      "insight": "HN 热议：482 分 · 824 评论",
       "sentiment": "positive",
-      "comments": 560,
-      "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
+      "comments": 824,
+      "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
       "id": 5
     }
   ]
