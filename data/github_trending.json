@@ -1,13 +1,13 @@
 {
-  "updated": "2026-06-04T14:28:25Z",
+  "updated": "2026-06-04T17:37:22Z",
   "repos": [
     {
       "rank": 1,
       "name": "Significant-Gravitas/AutoGPT",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
       "language": "Python",
-      "stars": 184754,
-      "stars_today": 184754,
+      "stars": 184757,
+      "stars_today": 184757,
       "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
@@ -15,8 +15,8 @@
       "name": "f/prompts.chat",
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
       "language": "HTML",
-      "stars": 163295,
-      "stars_today": 163295,
+      "stars": 163294,
+      "stars_today": 163294,
       "url": "https://github.com/f/prompts.chat"
     },
     {
@@ -24,8 +24,8 @@
       "name": "rasbt/LLMs-from-scratch",
       "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
       "language": "Jupyter Notebook",
-      "stars": 96636,
-      "stars_today": 96636,
+      "stars": 96649,
+      "stars_today": 96649,
       "url": "https://github.com/rasbt/LLMs-from-scratch"
     },
     {
@@ -42,8 +42,8 @@
       "name": "thedotmack/claude-mem",
       "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
       "language": "TypeScript",
-      "stars": 80613,
-      "stars_today": 80613,
+      "stars": 80631,
+      "stars_today": 80631,
       "url": "https://github.com/thedotmack/claude-mem"
     },
     {
@@ -51,8 +51,8 @@
       "name": "OpenHands/OpenHands",
       "description": "🙌 OpenHands: AI-Driven Development",
       "language": "Python",
-      "stars": 75824,
-      "stars_today": 75824,
+      "stars": 75835,
+      "stars_today": 75835,
       "url": "https://github.com/OpenHands/OpenHands"
     }
   ]
