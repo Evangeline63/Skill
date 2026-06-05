@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-05T14:19:02Z",
+    "updated": "2026-06-05T17:06:30Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-05T14:19:02Z",
+    "updated": "2026-06-05T17:06:30Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-05T14:19:02Z",
+    "updated": "2026-06-05T17:06:30Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184780,
-            "stars_today": 184780,
+            "stars": 184783,
+            "stars_today": 184783,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163332,
-            "stars_today": 163332,
+            "stars": 163333,
+            "stars_today": 163333,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 96698,
-            "stars_today": 96698,
+            "stars": 96708,
+            "stars_today": 96708,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93624,
-            "stars_today": 93624,
+            "stars": 93628,
+            "stars_today": 93628,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 80798,
-            "stars_today": 80798,
+            "stars": 80823,
+            "stars_today": 80823,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 75903,
-            "stars_today": 75903,
+            "stars": 75910,
+            "stars_today": 75910,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-05T14:19:02Z",
+    "updated": "2026-06-05T17:06:30Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-05T14:19:02Z",
+    "updated": "2026-06-05T17:06:30Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-05T14:19:02Z",
+    "updated": "2026-06-05T17:06:30Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Fine-tuning an LLM to write docs like it's 1995",
-            "insight": "HN 热议：126 分 · 46 评论",
+            "title": "Astronauts on ISS told to shelter as repairs under way to fix air leaks",
+            "insight": "HN 热议：174 分 · 105 评论",
             "sentiment": "neutral",
-            "comments": 46,
-            "url": "https://passo.uno/fine-tuning-docs-llm/",
+            "comments": 105,
+            "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
-            "insight": "HN 热议：473 分 · 129 评论",
-            "sentiment": "positive",
-            "comments": 129,
-            "url": "https://github.com/anthropics/defending-code-reference-harness",
+            "title": "Fine-tuning an LLM to write docs like it's 1995",
+            "insight": "HN 热议：159 分 · 56 评论",
+            "sentiment": "neutral",
+            "comments": 56,
+            "url": "https://passo.uno/fine-tuning-docs-llm/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Programmers will document for Claude, but not for each other",
-            "insight": "HN 热议：60 分 · 54 评论",
-            "sentiment": "neutral",
-            "comments": 54,
-            "url": "https://blog.plover.com/2026/03/09/#documentation-wins-2",
+            "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+            "insight": "HN 热议：497 分 · 139 评论",
+            "sentiment": "positive",
+            "comments": 139,
+            "url": "https://github.com/anthropics/defending-code-reference-harness",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Lowfat – pluggable CLI filter that saved 91.8% of my LLM tokens",
-            "insight": "HN 热议：34 分 · 20 评论",
-            "sentiment": "neutral",
-            "comments": 20,
-            "url": "https://github.com/zdk/lowfat",
+            "title": "Open Code Review – An AI-powered code review CLI tool",
+            "insight": "HN 热议：242 分 · 67 评论",
+            "sentiment": "positive",
+            "comments": 67,
+            "url": "https://github.com/alibaba/open-code-review",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Open Code Review – An AI-powered code review CLI tool",
-            "insight": "HN 热议：219 分 · 63 评论",
+            "title": "Do transformers need three projections? Systematic study of QKV variants",
+            "insight": "HN 热议：202 分 · 39 评论",
             "sentiment": "positive",
-            "comments": 63,
-            "url": "https://github.com/alibaba/open-code-review",
+            "comments": 39,
+            "url": "https://arxiv.org/abs/2606.04032",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-05T14:19:02Z",
+    "updated": "2026-06-05T17:06:30Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

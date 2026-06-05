@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-05T14:19:02Z",
+  "updated": "2026-06-05T17:06:30Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Fine-tuning an LLM to write docs like it's 1995",
-      "insight": "HN 热议：126 分 · 46 评论",
+      "title": "Astronauts on ISS told to shelter as repairs under way to fix air leaks",
+      "insight": "HN 热议：174 分 · 105 评论",
       "sentiment": "neutral",
-      "comments": 46,
-      "url": "https://passo.uno/fine-tuning-docs-llm/",
+      "comments": 105,
+      "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
-      "insight": "HN 热议：473 分 · 129 评论",
-      "sentiment": "positive",
-      "comments": 129,
-      "url": "https://github.com/anthropics/defending-code-reference-harness",
+      "title": "Fine-tuning an LLM to write docs like it's 1995",
+      "insight": "HN 热议：159 分 · 56 评论",
+      "sentiment": "neutral",
+      "comments": 56,
+      "url": "https://passo.uno/fine-tuning-docs-llm/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Programmers will document for Claude, but not for each other",
-      "insight": "HN 热议：60 分 · 54 评论",
-      "sentiment": "neutral",
-      "comments": 54,
-      "url": "https://blog.plover.com/2026/03/09/#documentation-wins-2",
+      "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+      "insight": "HN 热议：497 分 · 139 评论",
+      "sentiment": "positive",
+      "comments": 139,
+      "url": "https://github.com/anthropics/defending-code-reference-harness",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Lowfat – pluggable CLI filter that saved 91.8% of my LLM tokens",
-      "insight": "HN 热议：34 分 · 20 评论",
-      "sentiment": "neutral",
-      "comments": 20,
-      "url": "https://github.com/zdk/lowfat",
+      "title": "Open Code Review – An AI-powered code review CLI tool",
+      "insight": "HN 热议：242 分 · 67 评论",
+      "sentiment": "positive",
+      "comments": 67,
+      "url": "https://github.com/alibaba/open-code-review",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Open Code Review – An AI-powered code review CLI tool",
-      "insight": "HN 热议：219 分 · 63 评论",
+      "title": "Do transformers need three projections? Systematic study of QKV variants",
+      "insight": "HN 热议：202 分 · 39 评论",
       "sentiment": "positive",
-      "comments": 63,
-      "url": "https://github.com/alibaba/open-code-review",
+      "comments": 39,
+      "url": "https://arxiv.org/abs/2606.04032",
       "id": 5
     }
   ]
