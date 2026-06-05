@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-05T19:27:29Z",
+  "updated": "2026-06-05T22:07:24Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
-      "insight": "HN 热议：273 分 · 180 评论",
+      "insight": "HN 热议：318 分 · 204 评论",
       "sentiment": "positive",
-      "comments": 180,
+      "comments": 204,
       "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Conventional Commits encourages focus on the wrong things",
-      "insight": "HN 热议：178 分 · 130 评论",
+      "title": "My Agent Skill for Test-Driven Development",
+      "insight": "HN 热议：84 分 · 34 评论",
       "sentiment": "neutral",
-      "comments": 130,
-      "url": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
+      "comments": 34,
+      "url": "https://www.saturnci.com/my-agent-skill-for-test-driven-development.html",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "My Agent Skill for Test-Driven Development",
-      "insight": "HN 热议：25 分 · 0 评论",
+      "title": "Transformers Are Inherently Succinct",
+      "insight": "HN 热议：52 分 · 19 评论",
       "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://www.saturnci.com/my-agent-skill-for-test-driven-development.html",
+      "comments": 19,
+      "url": "https://openreview.net/pdf?id=Yxz92UuPLQ",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Did Claude increase bugs in rsync?",
-      "insight": "HN 热议：121 分 · 120 评论",
-      "sentiment": "neutral",
-      "comments": 120,
-      "url": "https://alexispurslane.github.io/rsync-analysis/",
+      "title": "Conventional Commits encourages focus on the wrong things",
+      "insight": "HN 热议：221 分 · 174 评论",
+      "sentiment": "positive",
+      "comments": 174,
+      "url": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Transformers Are Inherently Succinct",
-      "insight": "HN 热议：8 分 · 3 评论",
+      "title": "Hacker News, Sans AI",
+      "insight": "HN 热议：66 分 · 42 评论",
       "sentiment": "neutral",
-      "comments": 3,
-      "url": "https://openreview.net/pdf?id=Yxz92UuPLQ",
+      "comments": 42,
+      "url": "https://elijahpotter.dev/articles/hacker-news-sans-AI",
       "id": 5
     }
   ]
