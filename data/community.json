@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-05T11:54:36Z",
+  "updated": "2026-06-05T14:19:02Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Fine-tuning an LLM to write docs like it's 1995",
-      "insight": "HN 热议：85 分 · 38 评论",
+      "insight": "HN 热议：126 分 · 46 评论",
       "sentiment": "neutral",
-      "comments": 38,
+      "comments": 46,
       "url": "https://passo.uno/fine-tuning-docs-llm/",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
-      "insight": "HN 热议：447 分 · 126 评论",
+      "insight": "HN 热议：473 分 · 129 评论",
       "sentiment": "positive",
-      "comments": 126,
+      "comments": 129,
       "url": "https://github.com/anthropics/defending-code-reference-harness",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Do transformers need three projections? Systematic study of QKV variants",
-      "insight": "HN 热议：179 分 · 34 评论",
+      "title": "Programmers will document for Claude, but not for each other",
+      "insight": "HN 热议：60 分 · 54 评论",
       "sentiment": "neutral",
-      "comments": 34,
-      "url": "https://arxiv.org/abs/2606.04032",
+      "comments": 54,
+      "url": "https://blog.plover.com/2026/03/09/#documentation-wins-2",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Open Code Review – An AI-powered code review CLI tool",
-      "insight": "HN 热议：193 分 · 57 评论",
+      "title": "Show HN: Lowfat – pluggable CLI filter that saved 91.8% of my LLM tokens",
+      "insight": "HN 热议：34 分 · 20 评论",
       "sentiment": "neutral",
-      "comments": 57,
-      "url": "https://github.com/alibaba/open-code-review",
+      "comments": 20,
+      "url": "https://github.com/zdk/lowfat",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Ask HN: Is the web for machines (/llm.txt) the one we wished we had as humans?",
-      "insight": "HN 热议：15 分 · 19 评论",
-      "sentiment": "neutral",
-      "comments": 19,
-      "url": "https://news.ycombinator.com/item?id=48410589",
+      "title": "Open Code Review – An AI-powered code review CLI tool",
+      "insight": "HN 热议：219 分 · 63 评论",
+      "sentiment": "positive",
+      "comments": 63,
+      "url": "https://github.com/alibaba/open-code-review",
       "id": 5
     }
   ]
