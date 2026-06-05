@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-05T17:06:30Z",
+  "updated": "2026-06-05T19:27:29Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Astronauts on ISS told to shelter as repairs under way to fix air leaks",
-      "insight": "HN 热议：174 分 · 105 评论",
-      "sentiment": "neutral",
-      "comments": 105,
+      "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
+      "insight": "HN 热议：273 分 · 180 评论",
+      "sentiment": "positive",
+      "comments": 180,
       "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Fine-tuning an LLM to write docs like it's 1995",
-      "insight": "HN 热议：159 分 · 56 评论",
+      "title": "Conventional Commits encourages focus on the wrong things",
+      "insight": "HN 热议：178 分 · 130 评论",
       "sentiment": "neutral",
-      "comments": 56,
-      "url": "https://passo.uno/fine-tuning-docs-llm/",
+      "comments": 130,
+      "url": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
-      "insight": "HN 热议：497 分 · 139 评论",
-      "sentiment": "positive",
-      "comments": 139,
-      "url": "https://github.com/anthropics/defending-code-reference-harness",
+      "title": "My Agent Skill for Test-Driven Development",
+      "insight": "HN 热议：25 分 · 0 评论",
+      "sentiment": "neutral",
+      "comments": 0,
+      "url": "https://www.saturnci.com/my-agent-skill-for-test-driven-development.html",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Open Code Review – An AI-powered code review CLI tool",
-      "insight": "HN 热议：242 分 · 67 评论",
-      "sentiment": "positive",
-      "comments": 67,
-      "url": "https://github.com/alibaba/open-code-review",
+      "title": "Did Claude increase bugs in rsync?",
+      "insight": "HN 热议：121 分 · 120 评论",
+      "sentiment": "neutral",
+      "comments": 120,
+      "url": "https://alexispurslane.github.io/rsync-analysis/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Do transformers need three projections? Systematic study of QKV variants",
-      "insight": "HN 热议：202 分 · 39 评论",
-      "sentiment": "positive",
-      "comments": 39,
-      "url": "https://arxiv.org/abs/2606.04032",
+      "title": "Transformers Are Inherently Succinct",
+      "insight": "HN 热议：8 分 · 3 评论",
+      "sentiment": "neutral",
+      "comments": 3,
+      "url": "https://openreview.net/pdf?id=Yxz92UuPLQ",
       "id": 5
     }
   ]

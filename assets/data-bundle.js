@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-05T17:06:30Z",
+    "updated": "2026-06-05T19:27:29Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-05T17:06:30Z",
+    "updated": "2026-06-05T19:27:29Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-05T17:06:30Z",
+    "updated": "2026-06-05T19:27:29Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184783,
-            "stars_today": 184783,
+            "stars": 184785,
+            "stars_today": 184785,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163333,
-            "stars_today": 163333,
+            "stars": 163336,
+            "stars_today": 163336,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 96708,
-            "stars_today": 96708,
+            "stars": 96715,
+            "stars_today": 96715,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93628,
-            "stars_today": 93628,
+            "stars": 93632,
+            "stars_today": 93632,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 80823,
-            "stars_today": 80823,
+            "stars": 80837,
+            "stars_today": 80837,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 75910,
-            "stars_today": 75910,
+            "stars": 75917,
+            "stars_today": 75917,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-05T17:06:30Z",
+    "updated": "2026-06-05T19:27:29Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-05T17:06:30Z",
+    "updated": "2026-06-05T19:27:29Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-05T17:06:30Z",
+    "updated": "2026-06-05T19:27:29Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Astronauts on ISS told to shelter as repairs under way to fix air leaks",
-            "insight": "HN 热议：174 分 · 105 评论",
-            "sentiment": "neutral",
-            "comments": 105,
+            "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
+            "insight": "HN 热议：273 分 · 180 评论",
+            "sentiment": "positive",
+            "comments": 180,
             "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Fine-tuning an LLM to write docs like it's 1995",
-            "insight": "HN 热议：159 分 · 56 评论",
+            "title": "Conventional Commits encourages focus on the wrong things",
+            "insight": "HN 热议：178 分 · 130 评论",
             "sentiment": "neutral",
-            "comments": 56,
-            "url": "https://passo.uno/fine-tuning-docs-llm/",
+            "comments": 130,
+            "url": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
-            "insight": "HN 热议：497 分 · 139 评论",
-            "sentiment": "positive",
-            "comments": 139,
-            "url": "https://github.com/anthropics/defending-code-reference-harness",
+            "title": "My Agent Skill for Test-Driven Development",
+            "insight": "HN 热议：25 分 · 0 评论",
+            "sentiment": "neutral",
+            "comments": 0,
+            "url": "https://www.saturnci.com/my-agent-skill-for-test-driven-development.html",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Open Code Review – An AI-powered code review CLI tool",
-            "insight": "HN 热议：242 分 · 67 评论",
-            "sentiment": "positive",
-            "comments": 67,
-            "url": "https://github.com/alibaba/open-code-review",
+            "title": "Did Claude increase bugs in rsync?",
+            "insight": "HN 热议：121 分 · 120 评论",
+            "sentiment": "neutral",
+            "comments": 120,
+            "url": "https://alexispurslane.github.io/rsync-analysis/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Do transformers need three projections? Systematic study of QKV variants",
-            "insight": "HN 热议：202 分 · 39 评论",
-            "sentiment": "positive",
-            "comments": 39,
-            "url": "https://arxiv.org/abs/2606.04032",
+            "title": "Transformers Are Inherently Succinct",
+            "insight": "HN 热议：8 分 · 3 评论",
+            "sentiment": "neutral",
+            "comments": 3,
+            "url": "https://openreview.net/pdf?id=Yxz92UuPLQ",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-05T17:06:30Z",
+    "updated": "2026-06-05T19:27:29Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
