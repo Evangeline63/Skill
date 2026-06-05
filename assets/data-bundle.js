@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-05T06:56:01Z",
+    "updated": "2026-06-05T11:54:36Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-05T06:56:01Z",
+    "updated": "2026-06-05T11:54:36Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-05T06:56:01Z",
+    "updated": "2026-06-05T11:54:36Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184771,
-            "stars_today": 184771,
+            "stars": 184774,
+            "stars_today": 184774,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163311,
-            "stars_today": 163311,
+            "stars": 163323,
+            "stars_today": 163323,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 96671,
-            "stars_today": 96671,
+            "stars": 96689,
+            "stars_today": 96689,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93610,
-            "stars_today": 93610,
+            "stars": 93622,
+            "stars_today": 93622,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 80725,
-            "stars_today": 80725,
+            "stars": 80783,
+            "stars_today": 80783,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 75878,
-            "stars_today": 75878,
+            "stars": 75896,
+            "stars_today": 75896,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-05T06:56:01Z",
+    "updated": "2026-06-05T11:54:36Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-05T06:56:01Z",
+    "updated": "2026-06-05T11:54:36Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-05T06:56:01Z",
+    "updated": "2026-06-05T11:54:36Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
-            "insight": "HN 热议：370 分 · 111 评论",
-            "sentiment": "positive",
-            "comments": 111,
-            "url": "https://github.com/anthropics/defending-code-reference-harness",
+            "title": "Fine-tuning an LLM to write docs like it's 1995",
+            "insight": "HN 热议：85 分 · 38 评论",
+            "sentiment": "neutral",
+            "comments": 38,
+            "url": "https://passo.uno/fine-tuning-docs-llm/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Open Code Review – An AI-powered code review CLI tool",
-            "insight": "HN 热议：135 分 · 29 评论",
-            "sentiment": "neutral",
-            "comments": 29,
-            "url": "https://github.com/alibaba/open-code-review",
+            "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+            "insight": "HN 热议：447 分 · 126 评论",
+            "sentiment": "positive",
+            "comments": 126,
+            "url": "https://github.com/anthropics/defending-code-reference-harness",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Fine-tuning an LLM to write docs like it's 1995",
-            "insight": "HN 热议：10 分 · 0 评论",
+            "title": "Do transformers need three projections? Systematic study of QKV variants",
+            "insight": "HN 热议：179 分 · 34 评论",
             "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://passo.uno/fine-tuning-docs-llm/",
+            "comments": 34,
+            "url": "https://arxiv.org/abs/2606.04032",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Do transformers need three projections? Systematic study of QKV variants",
-            "insight": "HN 热议：144 分 · 28 评论",
+            "title": "Open Code Review – An AI-powered code review CLI tool",
+            "insight": "HN 热议：193 分 · 57 评论",
             "sentiment": "neutral",
-            "comments": 28,
-            "url": "https://arxiv.org/abs/2606.04032",
+            "comments": 57,
+            "url": "https://github.com/alibaba/open-code-review",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Magenta RealTime 2: Open and Local Live Music Models",
-            "insight": "HN 热议：18 分 · 3 评论",
+            "title": "Ask HN: Is the web for machines (/llm.txt) the one we wished we had as humans?",
+            "insight": "HN 热议：15 分 · 19 评论",
             "sentiment": "neutral",
-            "comments": 3,
-            "url": "https://magenta.withgoogle.com/magenta-realtime-2",
+            "comments": 19,
+            "url": "https://news.ycombinator.com/item?id=48410589",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-05T06:56:01Z",
+    "updated": "2026-06-05T11:54:36Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
