@@ -1,48 +1,48 @@
 {
-  "updated": "2026-06-04T22:15:12Z",
+  "updated": "2026-06-05T02:03:34Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
-      "insight": "HN 热议：138 分 · 48 评论",
+      "title": "Do transformers need three projections? Systematic study of QKV variants",
+      "insight": "HN 热议：93 分 · 13 评论",
       "sentiment": "neutral",
-      "comments": 48,
-      "url": "https://github.com/anthropics/defending-code-reference-harness",
+      "comments": 13,
+      "url": "https://arxiv.org/abs/2606.04032",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
-      "insight": "HN 热议：213 分 · 273 评论",
+      "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+      "insight": "HN 热议：271 分 · 94 评论",
       "sentiment": "positive",
-      "comments": 273,
-      "url": "https://www.anthropic.com/institute/recursive-self-improvement",
+      "comments": 94,
+      "url": "https://github.com/anthropics/defending-code-reference-harness",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Formally verified polygon intersection – Opus 4.8 oneshots, prev failed",
-      "insight": "HN 热议：7 分 · 0 评论",
+      "title": "Open Code Review – An AI-powered code review CLI tool",
+      "insight": "HN 热议：35 分 · 6 评论",
       "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://github.com/schildep/verified-polygon-intersection",
+      "comments": 6,
+      "url": "https://github.com/alibaba/open-code-review",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Castor: CERN Advanced STORage Manager",
-      "insight": "HN 热议：34 分 · 13 评论",
-      "sentiment": "neutral",
-      "comments": 13,
-      "url": "https://castor.web.cern.ch/content/home.html",
+      "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
+      "insight": "HN 热议：333 分 · 441 评论",
+      "sentiment": "positive",
+      "comments": 441,
+      "url": "https://www.anthropic.com/institute/recursive-self-improvement",
       "id": 4
     },
     {
       "source": "HackerNews",
       "title": "KVarN: Native vLLM backend for KV-cache quantization by Huawei",
-      "insight": "HN 热议：101 分 · 10 评论",
+      "insight": "HN 热议：114 分 · 12 评论",
       "sentiment": "neutral",
-      "comments": 10,
+      "comments": 12,
       "url": "https://github.com/huawei-csl/KVarN",
       "id": 5
     }
