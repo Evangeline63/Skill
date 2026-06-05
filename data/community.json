@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-05T02:03:34Z",
+  "updated": "2026-06-05T06:56:01Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Do transformers need three projections? Systematic study of QKV variants",
-      "insight": "HN 热议：93 分 · 13 评论",
-      "sentiment": "neutral",
-      "comments": 13,
-      "url": "https://arxiv.org/abs/2606.04032",
+      "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+      "insight": "HN 热议：370 分 · 111 评论",
+      "sentiment": "positive",
+      "comments": 111,
+      "url": "https://github.com/anthropics/defending-code-reference-harness",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
-      "insight": "HN 热议：271 分 · 94 评论",
-      "sentiment": "positive",
-      "comments": 94,
-      "url": "https://github.com/anthropics/defending-code-reference-harness",
+      "title": "Open Code Review – An AI-powered code review CLI tool",
+      "insight": "HN 热议：135 分 · 29 评论",
+      "sentiment": "neutral",
+      "comments": 29,
+      "url": "https://github.com/alibaba/open-code-review",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Open Code Review – An AI-powered code review CLI tool",
-      "insight": "HN 热议：35 分 · 6 评论",
+      "title": "Fine-tuning an LLM to write docs like it's 1995",
+      "insight": "HN 热议：10 分 · 0 评论",
       "sentiment": "neutral",
-      "comments": 6,
-      "url": "https://github.com/alibaba/open-code-review",
+      "comments": 0,
+      "url": "https://passo.uno/fine-tuning-docs-llm/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
-      "insight": "HN 热议：333 分 · 441 评论",
-      "sentiment": "positive",
-      "comments": 441,
-      "url": "https://www.anthropic.com/institute/recursive-self-improvement",
+      "title": "Do transformers need three projections? Systematic study of QKV variants",
+      "insight": "HN 热议：144 分 · 28 评论",
+      "sentiment": "neutral",
+      "comments": 28,
+      "url": "https://arxiv.org/abs/2606.04032",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "KVarN: Native vLLM backend for KV-cache quantization by Huawei",
-      "insight": "HN 热议：114 分 · 12 评论",
+      "title": "Magenta RealTime 2: Open and Local Live Music Models",
+      "insight": "HN 热议：18 分 · 3 评论",
       "sentiment": "neutral",
-      "comments": 12,
-      "url": "https://github.com/huawei-csl/KVarN",
+      "comments": 3,
+      "url": "https://magenta.withgoogle.com/magenta-realtime-2",
       "id": 5
     }
   ]

@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-05T02:03:34Z",
+    "updated": "2026-06-05T06:56:01Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-05T02:03:34Z",
+    "updated": "2026-06-05T06:56:01Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-05T02:03:34Z",
+    "updated": "2026-06-05T06:56:01Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184765,
-            "stars_today": 184765,
+            "stars": 184771,
+            "stars_today": 184771,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163302,
-            "stars_today": 163302,
+            "stars": 163311,
+            "stars_today": 163311,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 96664,
-            "stars_today": 96664,
+            "stars": 96671,
+            "stars_today": 96671,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93603,
-            "stars_today": 93603,
+            "stars": 93610,
+            "stars_today": 93610,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 80684,
-            "stars_today": 80684,
+            "stars": 80725,
+            "stars_today": 80725,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 75855,
-            "stars_today": 75855,
+            "stars": 75878,
+            "stars_today": 75878,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-05T02:03:34Z",
+    "updated": "2026-06-05T06:56:01Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-05T02:03:34Z",
+    "updated": "2026-06-05T06:56:01Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-05T02:03:34Z",
+    "updated": "2026-06-05T06:56:01Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Do transformers need three projections? Systematic study of QKV variants",
-            "insight": "HN 热议：93 分 · 13 评论",
-            "sentiment": "neutral",
-            "comments": 13,
-            "url": "https://arxiv.org/abs/2606.04032",
+            "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+            "insight": "HN 热议：370 分 · 111 评论",
+            "sentiment": "positive",
+            "comments": 111,
+            "url": "https://github.com/anthropics/defending-code-reference-harness",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
-            "insight": "HN 热议：271 分 · 94 评论",
-            "sentiment": "positive",
-            "comments": 94,
-            "url": "https://github.com/anthropics/defending-code-reference-harness",
+            "title": "Open Code Review – An AI-powered code review CLI tool",
+            "insight": "HN 热议：135 分 · 29 评论",
+            "sentiment": "neutral",
+            "comments": 29,
+            "url": "https://github.com/alibaba/open-code-review",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Open Code Review – An AI-powered code review CLI tool",
-            "insight": "HN 热议：35 分 · 6 评论",
+            "title": "Fine-tuning an LLM to write docs like it's 1995",
+            "insight": "HN 热议：10 分 · 0 评论",
             "sentiment": "neutral",
-            "comments": 6,
-            "url": "https://github.com/alibaba/open-code-review",
+            "comments": 0,
+            "url": "https://passo.uno/fine-tuning-docs-llm/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
-            "insight": "HN 热议：333 分 · 441 评论",
-            "sentiment": "positive",
-            "comments": 441,
-            "url": "https://www.anthropic.com/institute/recursive-self-improvement",
+            "title": "Do transformers need three projections? Systematic study of QKV variants",
+            "insight": "HN 热议：144 分 · 28 评论",
+            "sentiment": "neutral",
+            "comments": 28,
+            "url": "https://arxiv.org/abs/2606.04032",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "KVarN: Native vLLM backend for KV-cache quantization by Huawei",
-            "insight": "HN 热议：114 分 · 12 评论",
+            "title": "Magenta RealTime 2: Open and Local Live Music Models",
+            "insight": "HN 热议：18 分 · 3 评论",
             "sentiment": "neutral",
-            "comments": 12,
-            "url": "https://github.com/huawei-csl/KVarN",
+            "comments": 3,
+            "url": "https://magenta.withgoogle.com/magenta-realtime-2",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-05T02:03:34Z",
+    "updated": "2026-06-05T06:56:01Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
