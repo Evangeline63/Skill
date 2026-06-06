@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-06T06:19:03Z",
+    "updated": "2026-06-06T10:48:06Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-06T06:19:03Z",
+    "updated": "2026-06-06T10:48:06Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-06T06:19:03Z",
+    "updated": "2026-06-06T10:48:06Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184787,
-            "stars_today": 184787,
+            "stars": 184792,
+            "stars_today": 184792,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163355,
-            "stars_today": 163355,
+            "stars": 163360,
+            "stars_today": 163360,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 96735,
-            "stars_today": 96735,
+            "stars": 96744,
+            "stars_today": 96744,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93636,
-            "stars_today": 93636,
+            "stars": 93641,
+            "stars_today": 93641,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 80892,
-            "stars_today": 80892,
+            "stars": 80914,
+            "stars_today": 80914,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 75947,
-            "stars_today": 75947,
+            "stars": 75964,
+            "stars_today": 75964,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-06T06:19:03Z",
+    "updated": "2026-06-06T10:48:06Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-06T06:19:03Z",
+    "updated": "2026-06-06T10:48:06Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-06T06:19:03Z",
+    "updated": "2026-06-06T10:48:06Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "The intracies of modern camera lens repair (2024)",
-            "insight": "HN 热议：131 分 · 40 评论",
-            "sentiment": "neutral",
-            "comments": 40,
-            "url": "https://salvagedcircuitry.com/sigma-45mm.html",
+            "title": "How LLMs work",
+            "insight": "HN 热议：380 分 · 113 评论",
+            "sentiment": "positive",
+            "comments": 113,
+            "url": "https://www.0xkato.xyz/how-llms-actually-work/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "How LLMs work",
-            "insight": "HN 热议：141 分 · 30 评论",
+            "title": "The intracies of modern camera lens repair (2024)",
+            "insight": "HN 热议：176 分 · 60 评论",
             "sentiment": "neutral",
-            "comments": 30,
-            "url": "https://www.0xkato.xyz/how-llms-actually-work/",
+            "comments": 60,
+            "url": "https://salvagedcircuitry.com/sigma-45mm.html",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "The back cover of C++: The Language raises questions not answered by front cover",
-            "insight": "HN 热议：61 分 · 10 评论",
-            "sentiment": "neutral",
-            "comments": 10,
-            "url": "https://devblogs.microsoft.com/oldnewthing/20260605-01/?p=112391",
+            "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
+            "insight": "HN 热议：519 分 · 171 评论",
+            "sentiment": "positive",
+            "comments": 171,
+            "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
-            "insight": "HN 热议：114 分 · 16 评论",
-            "sentiment": "neutral",
-            "comments": 16,
-            "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+            "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
+            "insight": "HN 热议：399 分 · 251 评论",
+            "sentiment": "positive",
+            "comments": 251,
+            "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
-            "insight": "HN 热议：377 分 · 243 评论",
+            "title": "Ask HN: What was your \"oh shit\" moment with GenAI?",
+            "insight": "HN 热议：348 分 · 656 评论",
             "sentiment": "positive",
-            "comments": 243,
-            "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
+            "comments": 656,
+            "url": "https://news.ycombinator.com/item?id=48406174",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-06T06:19:03Z",
+    "updated": "2026-06-06T10:48:06Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
