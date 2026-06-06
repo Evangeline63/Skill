@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-05T22:07:24Z",
+    "updated": "2026-06-06T01:55:30Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-05T22:07:24Z",
+    "updated": "2026-06-06T01:55:30Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,7 +266,7 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-05T22:07:24Z",
+    "updated": "2026-06-06T01:55:30Z",
     "repos": [
         {
             "rank": 1,
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163336,
-            "stars_today": 163336,
+            "stars": 163341,
+            "stars_today": 163341,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 96717,
-            "stars_today": 96717,
+            "stars": 96724,
+            "stars_today": 96724,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 80854,
-            "stars_today": 80854,
+            "stars": 80864,
+            "stars_today": 80864,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 75927,
-            "stars_today": 75927,
+            "stars": 75937,
+            "stars_today": 75937,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-05T22:07:24Z",
+    "updated": "2026-06-06T01:55:30Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-05T22:07:24Z",
+    "updated": "2026-06-06T01:55:30Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-05T22:07:24Z",
+    "updated": "2026-06-06T01:55:30Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
-            "insight": "HN 热议：318 分 · 204 评论",
-            "sentiment": "positive",
-            "comments": 204,
-            "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
+            "title": "The intracies of modern camera lens repair (2024)",
+            "insight": "HN 热议：36 分 · 2 评论",
+            "sentiment": "neutral",
+            "comments": 2,
+            "url": "https://salvagedcircuitry.com/sigma-45mm.html",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "My Agent Skill for Test-Driven Development",
-            "insight": "HN 热议：84 分 · 34 评论",
-            "sentiment": "neutral",
-            "comments": 34,
-            "url": "https://www.saturnci.com/my-agent-skill-for-test-driven-development.html",
+            "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
+            "insight": "HN 热议：359 分 · 232 评论",
+            "sentiment": "positive",
+            "comments": 232,
+            "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Transformers Are Inherently Succinct",
-            "insight": "HN 热议：52 分 · 19 评论",
-            "sentiment": "neutral",
-            "comments": 19,
-            "url": "https://openreview.net/pdf?id=Yxz92UuPLQ",
+            "title": "Did Claude increase bugs in rsync?",
+            "insight": "HN 热议：307 分 · 310 评论",
+            "sentiment": "positive",
+            "comments": 310,
+            "url": "https://alexispurslane.github.io/rsync-analysis/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Conventional Commits encourages focus on the wrong things",
-            "insight": "HN 热议：221 分 · 174 评论",
-            "sentiment": "positive",
-            "comments": 174,
-            "url": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
+            "title": "My Agent Skill for Test-Driven Development",
+            "insight": "HN 热议：133 分 · 53 评论",
+            "sentiment": "neutral",
+            "comments": 53,
+            "url": "https://www.saturnci.com/my-agent-skill-for-test-driven-development.html",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Hacker News, Sans AI",
-            "insight": "HN 热议：66 分 · 42 评论",
-            "sentiment": "neutral",
-            "comments": 42,
-            "url": "https://elijahpotter.dev/articles/hacker-news-sans-AI",
+            "title": "Conventional Commits encourages focus on the wrong things",
+            "insight": "HN 热议：267 分 · 207 评论",
+            "sentiment": "positive",
+            "comments": 207,
+            "url": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-05T22:07:24Z",
+    "updated": "2026-06-06T01:55:30Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
