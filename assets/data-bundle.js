@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-06T15:59:54Z",
+    "updated": "2026-06-06T19:01:16Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-06T15:59:54Z",
+    "updated": "2026-06-06T19:01:16Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-06T15:59:54Z",
+    "updated": "2026-06-06T19:01:16Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184800,
-            "stars_today": 184800,
+            "stars": 184799,
+            "stars_today": 184799,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163377,
-            "stars_today": 163377,
+            "stars": 163382,
+            "stars_today": 163382,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 96761,
-            "stars_today": 96761,
+            "stars": 96766,
+            "stars_today": 96766,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93643,
-            "stars_today": 93643,
+            "stars": 93642,
+            "stars_today": 93642,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 80946,
-            "stars_today": 80946,
+            "stars": 80964,
+            "stars_today": 80964,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 75989,
-            "stars_today": 75989,
+            "stars": 76013,
+            "stars_today": 76013,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-06T15:59:54Z",
+    "updated": "2026-06-06T19:01:16Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-06T15:59:54Z",
+    "updated": "2026-06-06T19:01:16Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-06T15:59:54Z",
+    "updated": "2026-06-06T19:01:16Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "How LLMs work",
-            "insight": "HN 热议：633 分 · 175 评论",
-            "sentiment": "positive",
-            "comments": 175,
-            "url": "https://www.0xkato.xyz/how-llms-actually-work/",
+            "title": "Pentagon raised threat of Israeli spying on U.S. to highest level, sources say",
+            "insight": "HN 热议：43 分 · 3 评论",
+            "sentiment": "neutral",
+            "comments": 3,
+            "url": "https://www.nbcnews.com/politics/national-security/pentagon-raised-threat-israeli-spying-us-highest-level-sources-say-rcna348565",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
-            "insight": "HN 热议：993 分 · 360 评论",
+            "title": "How LLMs work",
+            "insight": "HN 热议：716 分 · 198 评论",
             "sentiment": "positive",
-            "comments": 360,
-            "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+            "comments": 198,
+            "url": "https://www.0xkato.xyz/how-llms-actually-work/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "The intracies of modern camera lens repair (2024)",
-            "insight": "HN 热议：212 分 · 74 评论",
-            "sentiment": "positive",
-            "comments": 74,
-            "url": "https://salvagedcircuitry.com/sigma-45mm.html",
+            "title": "Police in England and Wales told to halt AI use in court statements",
+            "insight": "HN 热议：93 分 · 30 评论",
+            "sentiment": "neutral",
+            "comments": 30,
+            "url": "https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "US House lawmakers release draft bill to prohibit state AI rules",
-            "insight": "HN 热议：48 分 · 15 评论",
-            "sentiment": "neutral",
-            "comments": 15,
-            "url": "https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04/",
+            "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
+            "insight": "HN 热议：1158 分 · 413 评论",
+            "sentiment": "positive",
+            "comments": 413,
+            "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Ask HN: What was your \"oh shit\" moment with GenAI?",
-            "insight": "HN 热议：445 分 · 793 评论",
+            "title": "The intracies of modern camera lens repair (2024)",
+            "insight": "HN 热议：220 分 · 83 评论",
             "sentiment": "positive",
-            "comments": 793,
-            "url": "https://news.ycombinator.com/item?id=48406174",
+            "comments": 83,
+            "url": "https://salvagedcircuitry.com/sigma-45mm.html",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-06T15:59:54Z",
+    "updated": "2026-06-06T19:01:16Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

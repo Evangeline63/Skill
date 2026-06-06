@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-06T15:59:54Z",
+  "updated": "2026-06-06T19:01:16Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "How LLMs work",
-      "insight": "HN 热议：633 分 · 175 评论",
-      "sentiment": "positive",
-      "comments": 175,
-      "url": "https://www.0xkato.xyz/how-llms-actually-work/",
+      "title": "Pentagon raised threat of Israeli spying on U.S. to highest level, sources say",
+      "insight": "HN 热议：43 分 · 3 评论",
+      "sentiment": "neutral",
+      "comments": 3,
+      "url": "https://www.nbcnews.com/politics/national-security/pentagon-raised-threat-israeli-spying-us-highest-level-sources-say-rcna348565",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
-      "insight": "HN 热议：993 分 · 360 评论",
+      "title": "How LLMs work",
+      "insight": "HN 热议：716 分 · 198 评论",
       "sentiment": "positive",
-      "comments": 360,
-      "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+      "comments": 198,
+      "url": "https://www.0xkato.xyz/how-llms-actually-work/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "The intracies of modern camera lens repair (2024)",
-      "insight": "HN 热议：212 分 · 74 评论",
-      "sentiment": "positive",
-      "comments": 74,
-      "url": "https://salvagedcircuitry.com/sigma-45mm.html",
+      "title": "Police in England and Wales told to halt AI use in court statements",
+      "insight": "HN 热议：93 分 · 30 评论",
+      "sentiment": "neutral",
+      "comments": 30,
+      "url": "https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "US House lawmakers release draft bill to prohibit state AI rules",
-      "insight": "HN 热议：48 分 · 15 评论",
-      "sentiment": "neutral",
-      "comments": 15,
-      "url": "https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04/",
+      "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
+      "insight": "HN 热议：1158 分 · 413 评论",
+      "sentiment": "positive",
+      "comments": 413,
+      "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Ask HN: What was your \"oh shit\" moment with GenAI?",
-      "insight": "HN 热议：445 分 · 793 评论",
+      "title": "The intracies of modern camera lens repair (2024)",
+      "insight": "HN 热议：220 分 · 83 评论",
       "sentiment": "positive",
-      "comments": 793,
-      "url": "https://news.ycombinator.com/item?id=48406174",
+      "comments": 83,
+      "url": "https://salvagedcircuitry.com/sigma-45mm.html",
       "id": 5
     }
   ]
