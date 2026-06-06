@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-06T01:55:30Z",
+    "updated": "2026-06-06T06:19:03Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-06T01:55:30Z",
+    "updated": "2026-06-06T06:19:03Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-06T01:55:30Z",
+    "updated": "2026-06-06T06:19:03Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184789,
-            "stars_today": 184789,
+            "stars": 184787,
+            "stars_today": 184787,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163341,
-            "stars_today": 163341,
+            "stars": 163355,
+            "stars_today": 163355,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 96724,
-            "stars_today": 96724,
+            "stars": 96735,
+            "stars_today": 96735,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93633,
-            "stars_today": 93633,
+            "stars": 93636,
+            "stars_today": 93636,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 80864,
-            "stars_today": 80864,
+            "stars": 80892,
+            "stars_today": 80892,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 75937,
-            "stars_today": 75937,
+            "stars": 75947,
+            "stars_today": 75947,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-06T01:55:30Z",
+    "updated": "2026-06-06T06:19:03Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-06T01:55:30Z",
+    "updated": "2026-06-06T06:19:03Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-06T01:55:30Z",
+    "updated": "2026-06-06T06:19:03Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "The intracies of modern camera lens repair (2024)",
-            "insight": "HN 热议：36 分 · 2 评论",
+            "insight": "HN 热议：131 分 · 40 评论",
             "sentiment": "neutral",
-            "comments": 2,
+            "comments": 40,
             "url": "https://salvagedcircuitry.com/sigma-45mm.html",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
-            "insight": "HN 热议：359 分 · 232 评论",
-            "sentiment": "positive",
-            "comments": 232,
-            "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
+            "title": "How LLMs work",
+            "insight": "HN 热议：141 分 · 30 评论",
+            "sentiment": "neutral",
+            "comments": 30,
+            "url": "https://www.0xkato.xyz/how-llms-actually-work/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Did Claude increase bugs in rsync?",
-            "insight": "HN 热议：307 分 · 310 评论",
-            "sentiment": "positive",
-            "comments": 310,
-            "url": "https://alexispurslane.github.io/rsync-analysis/",
+            "title": "The back cover of C++: The Language raises questions not answered by front cover",
+            "insight": "HN 热议：61 分 · 10 评论",
+            "sentiment": "neutral",
+            "comments": 10,
+            "url": "https://devblogs.microsoft.com/oldnewthing/20260605-01/?p=112391",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "My Agent Skill for Test-Driven Development",
-            "insight": "HN 热议：133 分 · 53 评论",
+            "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
+            "insight": "HN 热议：114 分 · 16 评论",
             "sentiment": "neutral",
-            "comments": 53,
-            "url": "https://www.saturnci.com/my-agent-skill-for-test-driven-development.html",
+            "comments": 16,
+            "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Conventional Commits encourages focus on the wrong things",
-            "insight": "HN 热议：267 分 · 207 评论",
+            "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
+            "insight": "HN 热议：377 分 · 243 评论",
             "sentiment": "positive",
-            "comments": 207,
-            "url": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
+            "comments": 243,
+            "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-06T01:55:30Z",
+    "updated": "2026-06-06T06:19:03Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
