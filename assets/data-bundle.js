@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-06T19:01:16Z",
+    "updated": "2026-06-06T21:53:37Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-06T19:01:16Z",
+    "updated": "2026-06-06T21:53:37Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-06T19:01:16Z",
+    "updated": "2026-06-06T21:53:37Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184799,
-            "stars_today": 184799,
+            "stars": 184800,
+            "stars_today": 184800,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163382,
-            "stars_today": 163382,
+            "stars": 163385,
+            "stars_today": 163385,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 96766,
-            "stars_today": 96766,
+            "stars": 96771,
+            "stars_today": 96771,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93642,
-            "stars_today": 93642,
+            "stars": 93644,
+            "stars_today": 93644,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 80964,
-            "stars_today": 80964,
+            "stars": 80979,
+            "stars_today": 80979,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 76013,
-            "stars_today": 76013,
+            "stars": 76030,
+            "stars_today": 76030,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-06T19:01:16Z",
+    "updated": "2026-06-06T21:53:37Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-06T19:01:16Z",
+    "updated": "2026-06-06T21:53:37Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-06T19:01:16Z",
+    "updated": "2026-06-06T21:53:37Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Pentagon raised threat of Israeli spying on U.S. to highest level, sources say",
-            "insight": "HN 热议：43 分 · 3 评论",
+            "title": "Universal Memory Protocol – a shared format for agent memory",
+            "insight": "HN 热议：31 分 · 11 评论",
             "sentiment": "neutral",
-            "comments": 3,
-            "url": "https://www.nbcnews.com/politics/national-security/pentagon-raised-threat-israeli-spying-us-highest-level-sources-say-rcna348565",
+            "comments": 11,
+            "url": "https://universalmemoryprotocol.io/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "How LLMs work",
-            "insight": "HN 热议：716 分 · 198 评论",
+            "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
+            "insight": "HN 热议：205 分 · 73 评论",
             "sentiment": "positive",
-            "comments": 198,
-            "url": "https://www.0xkato.xyz/how-llms-actually-work/",
+            "comments": 73,
+            "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Police in England and Wales told to halt AI use in court statements",
-            "insight": "HN 热议：93 分 · 30 评论",
+            "title": "Computex 2026: Are We Heading for the Agentic PC Era Yet? – EE Times",
+            "insight": "HN 热议：12 分 · 6 评论",
             "sentiment": "neutral",
-            "comments": 30,
-            "url": "https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241",
+            "comments": 6,
+            "url": "https://www.eetimes.com/computex-2026-are-we-heading-for-the-agentic-pc-era-yet/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
-            "insight": "HN 热议：1158 分 · 413 评论",
+            "title": "How LLMs work",
+            "insight": "HN 热议：811 分 · 224 评论",
             "sentiment": "positive",
-            "comments": 413,
-            "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+            "comments": 224,
+            "url": "https://www.0xkato.xyz/how-llms-actually-work/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "The intracies of modern camera lens repair (2024)",
-            "insight": "HN 热议：220 分 · 83 评论",
+            "title": "Pentagon raised threat of Israeli spying on U.S. to highest level, sources say",
+            "insight": "HN 热议：272 分 · 182 评论",
             "sentiment": "positive",
-            "comments": 83,
-            "url": "https://salvagedcircuitry.com/sigma-45mm.html",
+            "comments": 182,
+            "url": "https://www.nbcnews.com/politics/national-security/pentagon-raised-threat-israeli-spying-us-highest-level-sources-say-rcna348565",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-06T19:01:16Z",
+    "updated": "2026-06-06T21:53:37Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

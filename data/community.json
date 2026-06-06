@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-06T19:01:16Z",
+  "updated": "2026-06-06T21:53:37Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Pentagon raised threat of Israeli spying on U.S. to highest level, sources say",
-      "insight": "HN 热议：43 分 · 3 评论",
+      "title": "Universal Memory Protocol – a shared format for agent memory",
+      "insight": "HN 热议：31 分 · 11 评论",
       "sentiment": "neutral",
-      "comments": 3,
-      "url": "https://www.nbcnews.com/politics/national-security/pentagon-raised-threat-israeli-spying-us-highest-level-sources-say-rcna348565",
+      "comments": 11,
+      "url": "https://universalmemoryprotocol.io/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "How LLMs work",
-      "insight": "HN 热议：716 分 · 198 评论",
+      "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
+      "insight": "HN 热议：205 分 · 73 评论",
       "sentiment": "positive",
-      "comments": 198,
-      "url": "https://www.0xkato.xyz/how-llms-actually-work/",
+      "comments": 73,
+      "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Police in England and Wales told to halt AI use in court statements",
-      "insight": "HN 热议：93 分 · 30 评论",
+      "title": "Computex 2026: Are We Heading for the Agentic PC Era Yet? – EE Times",
+      "insight": "HN 热议：12 分 · 6 评论",
       "sentiment": "neutral",
-      "comments": 30,
-      "url": "https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241",
+      "comments": 6,
+      "url": "https://www.eetimes.com/computex-2026-are-we-heading-for-the-agentic-pc-era-yet/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
-      "insight": "HN 热议：1158 分 · 413 评论",
+      "title": "How LLMs work",
+      "insight": "HN 热议：811 分 · 224 评论",
       "sentiment": "positive",
-      "comments": 413,
-      "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+      "comments": 224,
+      "url": "https://www.0xkato.xyz/how-llms-actually-work/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "The intracies of modern camera lens repair (2024)",
-      "insight": "HN 热议：220 分 · 83 评论",
+      "title": "Pentagon raised threat of Israeli spying on U.S. to highest level, sources say",
+      "insight": "HN 热议：272 分 · 182 评论",
       "sentiment": "positive",
-      "comments": 83,
-      "url": "https://salvagedcircuitry.com/sigma-45mm.html",
+      "comments": 182,
+      "url": "https://www.nbcnews.com/politics/national-security/pentagon-raised-threat-israeli-spying-us-highest-level-sources-say-rcna348565",
       "id": 5
     }
   ]
