@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-07T16:04:40Z",
+  "updated": "2026-06-07T19:02:11Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "LLMs are eroding my software engineering career and I don't know what to do",
-      "insight": "HN 热议：437 分 · 370 评论",
-      "sentiment": "positive",
-      "comments": 370,
-      "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
+      "title": "Leiden Declaration on Artificial Intelligence and Mathematics",
+      "insight": "HN 热议：8 分 · 1 评论",
+      "sentiment": "neutral",
+      "comments": 1,
+      "url": "https://www.lms.ac.uk/news/leiden-declaration-on-ai-and-mathematics",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Anthropic, please ship an official Claude Desktop for Linux",
-      "insight": "HN 热议：190 分 · 78 评论",
+      "title": "Silurus/ooxml: Pixel-faithful Office documents, rendered in the browser",
+      "insight": "HN 热议：15 分 · 5 评论",
       "sentiment": "neutral",
-      "comments": 78,
-      "url": "https://github.com/anthropics/claude-code/issues/65697",
+      "comments": 5,
+      "url": "https://github.com/yukiyokotani/office-open-xml-viewer",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "The OnlyFans Economy of American AI",
-      "insight": "HN 热议：91 分 · 91 评论",
+      "title": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
+      "insight": "HN 热议：143 分 · 29 评论",
       "sentiment": "neutral",
-      "comments": 91,
-      "url": "https://leoveanu.com/2026-06-06-qwen3.7max/",
+      "comments": 29,
+      "url": "https://github.com/devenjarvis/lathe",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
-      "insight": "HN 热议：65 分 · 11 评论",
-      "sentiment": "neutral",
-      "comments": 11,
-      "url": "https://github.com/devenjarvis/lathe",
+      "title": "Anthropic, please ship an official Claude Desktop for Linux",
+      "insight": "HN 热议：327 分 · 175 评论",
+      "sentiment": "positive",
+      "comments": 175,
+      "url": "https://github.com/anthropics/claude-code/issues/65697",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Agents, Agile, Communism, Coercion",
-      "insight": "HN 热议：4 分 · 0 评论",
-      "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://elliotmorris.net/agents-agile-communism-coercion",
+      "title": "Public Domain Image Archive",
+      "insight": "HN 热议：219 分 · 31 评论",
+      "sentiment": "positive",
+      "comments": 31,
+      "url": "https://pdimagearchive.org/",
       "id": 5
     }
   ]

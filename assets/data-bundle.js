@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-07T16:04:40Z",
+    "updated": "2026-06-07T19:02:11Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-07T16:04:40Z",
+    "updated": "2026-06-07T19:02:11Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-07T16:04:40Z",
+    "updated": "2026-06-07T19:02:11Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184813,
-            "stars_today": 184813,
+            "stars": 184819,
+            "stars_today": 184819,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163413,
-            "stars_today": 163413,
+            "stars": 163416,
+            "stars_today": 163416,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 96813,
-            "stars_today": 96813,
+            "stars": 96822,
+            "stars_today": 96822,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 81085,
-            "stars_today": 81085,
+            "stars": 81091,
+            "stars_today": 81091,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 76105,
-            "stars_today": 76105,
+            "stars": 76125,
+            "stars_today": 76125,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 53398,
-            "stars_today": 53398,
+            "stars": 53402,
+            "stars_today": 53402,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-07T16:04:40Z",
+    "updated": "2026-06-07T19:02:11Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-07T16:04:40Z",
+    "updated": "2026-06-07T19:02:11Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-07T16:04:40Z",
+    "updated": "2026-06-07T19:02:11Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "LLMs are eroding my software engineering career and I don't know what to do",
-            "insight": "HN 热议：437 分 · 370 评论",
-            "sentiment": "positive",
-            "comments": 370,
-            "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
+            "title": "Leiden Declaration on Artificial Intelligence and Mathematics",
+            "insight": "HN 热议：8 分 · 1 评论",
+            "sentiment": "neutral",
+            "comments": 1,
+            "url": "https://www.lms.ac.uk/news/leiden-declaration-on-ai-and-mathematics",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Anthropic, please ship an official Claude Desktop for Linux",
-            "insight": "HN 热议：190 分 · 78 评论",
+            "title": "Silurus/ooxml: Pixel-faithful Office documents, rendered in the browser",
+            "insight": "HN 热议：15 分 · 5 评论",
             "sentiment": "neutral",
-            "comments": 78,
-            "url": "https://github.com/anthropics/claude-code/issues/65697",
+            "comments": 5,
+            "url": "https://github.com/yukiyokotani/office-open-xml-viewer",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "The OnlyFans Economy of American AI",
-            "insight": "HN 热议：91 分 · 91 评论",
+            "title": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
+            "insight": "HN 热议：143 分 · 29 评论",
             "sentiment": "neutral",
-            "comments": 91,
-            "url": "https://leoveanu.com/2026-06-06-qwen3.7max/",
+            "comments": 29,
+            "url": "https://github.com/devenjarvis/lathe",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
-            "insight": "HN 热议：65 分 · 11 评论",
-            "sentiment": "neutral",
-            "comments": 11,
-            "url": "https://github.com/devenjarvis/lathe",
+            "title": "Anthropic, please ship an official Claude Desktop for Linux",
+            "insight": "HN 热议：327 分 · 175 评论",
+            "sentiment": "positive",
+            "comments": 175,
+            "url": "https://github.com/anthropics/claude-code/issues/65697",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Agents, Agile, Communism, Coercion",
-            "insight": "HN 热议：4 分 · 0 评论",
-            "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://elliotmorris.net/agents-agile-communism-coercion",
+            "title": "Public Domain Image Archive",
+            "insight": "HN 热议：219 分 · 31 评论",
+            "sentiment": "positive",
+            "comments": 31,
+            "url": "https://pdimagearchive.org/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-07T16:04:40Z",
+    "updated": "2026-06-07T19:02:11Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
