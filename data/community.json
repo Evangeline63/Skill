@@ -1,48 +1,48 @@
 {
-  "updated": "2026-06-07T19:02:11Z",
+  "updated": "2026-06-07T21:56:18Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Leiden Declaration on Artificial Intelligence and Mathematics",
-      "insight": "HN 热议：8 分 · 1 评论",
+      "title": "Silurus/ooxml: Pixel-faithful Office documents, rendered in the browser",
+      "insight": "HN 热议：92 分 · 30 评论",
       "sentiment": "neutral",
-      "comments": 1,
-      "url": "https://www.lms.ac.uk/news/leiden-declaration-on-ai-and-mathematics",
+      "comments": 30,
+      "url": "https://github.com/yukiyokotani/office-open-xml-viewer",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Silurus/ooxml: Pixel-faithful Office documents, rendered in the browser",
-      "insight": "HN 热议：15 分 · 5 评论",
+      "title": "If LLMs Have Human-Like Attributes, Then So Does Age of Empires II",
+      "insight": "HN 热议：34 分 · 25 评论",
       "sentiment": "neutral",
-      "comments": 5,
-      "url": "https://github.com/yukiyokotani/office-open-xml-viewer",
+      "comments": 25,
+      "url": "https://arxiv.org/abs/2605.31514",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
-      "insight": "HN 热议：143 分 · 29 评论",
-      "sentiment": "neutral",
-      "comments": 29,
+      "insight": "HN 热议：204 分 · 41 评论",
+      "sentiment": "positive",
+      "comments": 41,
       "url": "https://github.com/devenjarvis/lathe",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "Anthropic, please ship an official Claude Desktop for Linux",
-      "insight": "HN 热议：327 分 · 175 评论",
+      "insight": "HN 热议：402 分 · 229 评论",
       "sentiment": "positive",
-      "comments": 175,
+      "comments": 229,
       "url": "https://github.com/anthropics/claude-code/issues/65697",
       "id": 4
     },
     {
       "source": "HackerNews",
       "title": "Public Domain Image Archive",
-      "insight": "HN 热议：219 分 · 31 评论",
+      "insight": "HN 热议：234 分 · 32 评论",
       "sentiment": "positive",
-      "comments": 31,
+      "comments": 32,
       "url": "https://pdimagearchive.org/",
       "id": 5
     }

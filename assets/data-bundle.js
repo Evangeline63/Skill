@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-07T19:02:11Z",
+    "updated": "2026-06-07T21:56:18Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-07T19:02:11Z",
+    "updated": "2026-06-07T21:56:18Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-07T19:02:11Z",
+    "updated": "2026-06-07T21:56:18Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184819,
-            "stars_today": 184819,
+            "stars": 184827,
+            "stars_today": 184827,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163416,
-            "stars_today": 163416,
+            "stars": 163418,
+            "stars_today": 163418,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 96822,
-            "stars_today": 96822,
+            "stars": 96830,
+            "stars_today": 96830,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 81091,
-            "stars_today": 81091,
+            "stars": 81103,
+            "stars_today": 81103,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 76125,
-            "stars_today": 76125,
+            "stars": 76143,
+            "stars_today": 76143,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 53402,
-            "stars_today": 53402,
+            "stars": 53403,
+            "stars_today": 53403,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-07T19:02:11Z",
+    "updated": "2026-06-07T21:56:18Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-07T19:02:11Z",
+    "updated": "2026-06-07T21:56:18Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-07T19:02:11Z",
+    "updated": "2026-06-07T21:56:18Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Leiden Declaration on Artificial Intelligence and Mathematics",
-            "insight": "HN 热议：8 分 · 1 评论",
+            "title": "Silurus/ooxml: Pixel-faithful Office documents, rendered in the browser",
+            "insight": "HN 热议：92 分 · 30 评论",
             "sentiment": "neutral",
-            "comments": 1,
-            "url": "https://www.lms.ac.uk/news/leiden-declaration-on-ai-and-mathematics",
+            "comments": 30,
+            "url": "https://github.com/yukiyokotani/office-open-xml-viewer",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Silurus/ooxml: Pixel-faithful Office documents, rendered in the browser",
-            "insight": "HN 热议：15 分 · 5 评论",
+            "title": "If LLMs Have Human-Like Attributes, Then So Does Age of Empires II",
+            "insight": "HN 热议：34 分 · 25 评论",
             "sentiment": "neutral",
-            "comments": 5,
-            "url": "https://github.com/yukiyokotani/office-open-xml-viewer",
+            "comments": 25,
+            "url": "https://arxiv.org/abs/2605.31514",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
-            "insight": "HN 热议：143 分 · 29 评论",
-            "sentiment": "neutral",
-            "comments": 29,
+            "insight": "HN 热议：204 分 · 41 评论",
+            "sentiment": "positive",
+            "comments": 41,
             "url": "https://github.com/devenjarvis/lathe",
             "id": 3
         },
         {
             "source": "HackerNews",
             "title": "Anthropic, please ship an official Claude Desktop for Linux",
-            "insight": "HN 热议：327 分 · 175 评论",
+            "insight": "HN 热议：402 分 · 229 评论",
             "sentiment": "positive",
-            "comments": 175,
+            "comments": 229,
             "url": "https://github.com/anthropics/claude-code/issues/65697",
             "id": 4
         },
         {
             "source": "HackerNews",
             "title": "Public Domain Image Archive",
-            "insight": "HN 热议：219 分 · 31 评论",
+            "insight": "HN 热议：234 分 · 32 评论",
             "sentiment": "positive",
-            "comments": 31,
+            "comments": 32,
             "url": "https://pdimagearchive.org/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-07T19:02:11Z",
+    "updated": "2026-06-07T21:56:18Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
