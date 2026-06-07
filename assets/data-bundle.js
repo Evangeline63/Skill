@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-07T02:10:32Z",
+    "updated": "2026-06-07T06:55:52Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-07T02:10:32Z",
+    "updated": "2026-06-07T06:55:52Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-07T02:10:32Z",
+    "updated": "2026-06-07T06:55:52Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184801,
-            "stars_today": 184801,
+            "stars": 184804,
+            "stars_today": 184804,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163388,
-            "stars_today": 163388,
+            "stars": 163396,
+            "stars_today": 163396,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 96775,
-            "stars_today": 96775,
+            "stars": 96784,
+            "stars_today": 96784,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 80990,
-            "stars_today": 80990,
+            "stars": 81022,
+            "stars_today": 81022,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 76042,
-            "stars_today": 76042,
+            "stars": 76056,
+            "stars_today": 76056,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 53386,
-            "stars_today": 53386,
+            "stars": 53391,
+            "stars_today": 53391,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-07T02:10:32Z",
+    "updated": "2026-06-07T06:55:52Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-07T02:10:32Z",
+    "updated": "2026-06-07T06:55:52Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-07T02:10:32Z",
+    "updated": "2026-06-07T06:55:52Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Harness engineering: Leveraging Codex in an agent-first world",
-            "insight": "HN 热议：67 分 · 30 评论",
+            "title": "I design with Claude more than Figma now",
+            "insight": "HN 热议：60 分 · 31 评论",
             "sentiment": "neutral",
-            "comments": 30,
-            "url": "https://openai.com/index/harness-engineering/",
+            "comments": 31,
+            "url": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
-            "insight": "HN 热议：439 分 · 156 评论",
-            "sentiment": "positive",
-            "comments": 156,
-            "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
+            "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
+            "insight": "HN 热议：79 分 · 21 评论",
+            "sentiment": "neutral",
+            "comments": 21,
+            "url": "https://arxiv.org/abs/2601.14470",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Public Domain Image Archive",
-            "insight": "HN 热议：15 分 · 2 评论",
+            "title": "Harness engineering: Leveraging Codex in an agent-first world",
+            "insight": "HN 热议：167 分 · 105 评论",
             "sentiment": "neutral",
-            "comments": 2,
-            "url": "https://pdimagearchive.org/",
+            "comments": 105,
+            "url": "https://openai.com/index/harness-engineering/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
-            "insight": "HN 热议：4 分 · 0 评论",
+            "title": "Public Domain Image Archive",
+            "insight": "HN 热议：89 分 · 15 评论",
             "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://arxiv.org/abs/2601.14470",
+            "comments": 15,
+            "url": "https://pdimagearchive.org/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: DomainTasker – avoid losing domains and surprise renewals",
-            "insight": "HN 热议：9 分 · 5 评论",
+            "title": "Human-Like Neural Nets by Catapulting",
+            "insight": "HN 热议：19 分 · 2 评论",
             "sentiment": "neutral",
-            "comments": 5,
-            "url": "https://domaintasker.com/",
+            "comments": 2,
+            "url": "https://gwern.net/llm-catapult",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-07T02:10:32Z",
+    "updated": "2026-06-07T06:55:52Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

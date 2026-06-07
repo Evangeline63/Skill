@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-07T02:10:32Z",
+  "updated": "2026-06-07T06:55:52Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Harness engineering: Leveraging Codex in an agent-first world",
-      "insight": "HN 热议：67 分 · 30 评论",
+      "title": "I design with Claude more than Figma now",
+      "insight": "HN 热议：60 分 · 31 评论",
       "sentiment": "neutral",
-      "comments": 30,
-      "url": "https://openai.com/index/harness-engineering/",
+      "comments": 31,
+      "url": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
-      "insight": "HN 热议：439 分 · 156 评论",
-      "sentiment": "positive",
-      "comments": 156,
-      "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
+      "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
+      "insight": "HN 热议：79 分 · 21 评论",
+      "sentiment": "neutral",
+      "comments": 21,
+      "url": "https://arxiv.org/abs/2601.14470",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Public Domain Image Archive",
-      "insight": "HN 热议：15 分 · 2 评论",
+      "title": "Harness engineering: Leveraging Codex in an agent-first world",
+      "insight": "HN 热议：167 分 · 105 评论",
       "sentiment": "neutral",
-      "comments": 2,
-      "url": "https://pdimagearchive.org/",
+      "comments": 105,
+      "url": "https://openai.com/index/harness-engineering/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
-      "insight": "HN 热议：4 分 · 0 评论",
+      "title": "Public Domain Image Archive",
+      "insight": "HN 热议：89 分 · 15 评论",
       "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://arxiv.org/abs/2601.14470",
+      "comments": 15,
+      "url": "https://pdimagearchive.org/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: DomainTasker – avoid losing domains and surprise renewals",
-      "insight": "HN 热议：9 分 · 5 评论",
+      "title": "Human-Like Neural Nets by Catapulting",
+      "insight": "HN 热议：19 分 · 2 评论",
       "sentiment": "neutral",
-      "comments": 5,
-      "url": "https://domaintasker.com/",
+      "comments": 2,
+      "url": "https://gwern.net/llm-catapult",
       "id": 5
     }
   ]
