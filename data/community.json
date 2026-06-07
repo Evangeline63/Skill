@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-06T21:53:37Z",
+  "updated": "2026-06-07T02:10:32Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Universal Memory Protocol – a shared format for agent memory",
-      "insight": "HN 热议：31 分 · 11 评论",
+      "title": "Harness engineering: Leveraging Codex in an agent-first world",
+      "insight": "HN 热议：67 分 · 30 评论",
       "sentiment": "neutral",
-      "comments": 11,
-      "url": "https://universalmemoryprotocol.io/",
+      "comments": 30,
+      "url": "https://openai.com/index/harness-engineering/",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
-      "insight": "HN 热议：205 分 · 73 评论",
+      "insight": "HN 热议：439 分 · 156 评论",
       "sentiment": "positive",
-      "comments": 73,
+      "comments": 156,
       "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Computex 2026: Are We Heading for the Agentic PC Era Yet? – EE Times",
-      "insight": "HN 热议：12 分 · 6 评论",
+      "title": "Public Domain Image Archive",
+      "insight": "HN 热议：15 分 · 2 评论",
       "sentiment": "neutral",
-      "comments": 6,
-      "url": "https://www.eetimes.com/computex-2026-are-we-heading-for-the-agentic-pc-era-yet/",
+      "comments": 2,
+      "url": "https://pdimagearchive.org/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "How LLMs work",
-      "insight": "HN 热议：811 分 · 224 评论",
-      "sentiment": "positive",
-      "comments": 224,
-      "url": "https://www.0xkato.xyz/how-llms-actually-work/",
+      "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
+      "insight": "HN 热议：4 分 · 0 评论",
+      "sentiment": "neutral",
+      "comments": 0,
+      "url": "https://arxiv.org/abs/2601.14470",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Pentagon raised threat of Israeli spying on U.S. to highest level, sources say",
-      "insight": "HN 热议：272 分 · 182 评论",
-      "sentiment": "positive",
-      "comments": 182,
-      "url": "https://www.nbcnews.com/politics/national-security/pentagon-raised-threat-israeli-spying-us-highest-level-sources-say-rcna348565",
+      "title": "Show HN: DomainTasker – avoid losing domains and surprise renewals",
+      "insight": "HN 热议：9 分 · 5 评论",
+      "sentiment": "neutral",
+      "comments": 5,
+      "url": "https://domaintasker.com/",
       "id": 5
     }
   ]

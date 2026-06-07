@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-06T21:53:37Z",
+    "updated": "2026-06-07T02:10:32Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-06T21:53:37Z",
+    "updated": "2026-06-07T02:10:32Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-06T21:53:37Z",
+    "updated": "2026-06-07T02:10:32Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184800,
-            "stars_today": 184800,
+            "stars": 184801,
+            "stars_today": 184801,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163385,
-            "stars_today": 163385,
+            "stars": 163388,
+            "stars_today": 163388,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,41 +291,41 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 96771,
-            "stars_today": 96771,
+            "stars": 96775,
+            "stars_today": 96775,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
             "rank": 4,
-            "name": "hacksider/Deep-Live-Cam",
-            "description": "real time face swap and one-click video deepfake with only a single image",
-            "language": "Python",
-            "stars": 93644,
-            "stars_today": 93644,
-            "url": "https://github.com/hacksider/Deep-Live-Cam"
-        },
-        {
-            "rank": 5,
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 80979,
-            "stars_today": 80979,
+            "stars": 80990,
+            "stars_today": 80990,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
-            "rank": 6,
+            "rank": 5,
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 76030,
-            "stars_today": 76030,
+            "stars": 76042,
+            "stars_today": 76042,
             "url": "https://github.com/OpenHands/OpenHands"
+        },
+        {
+            "rank": 6,
+            "name": "FlowiseAI/Flowise",
+            "description": "Build AI Agents, Visually",
+            "language": "TypeScript",
+            "stars": 53386,
+            "stars_today": 53386,
+            "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-06T21:53:37Z",
+    "updated": "2026-06-07T02:10:32Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-06T21:53:37Z",
+    "updated": "2026-06-07T02:10:32Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-06T21:53:37Z",
+    "updated": "2026-06-07T02:10:32Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Universal Memory Protocol – a shared format for agent memory",
-            "insight": "HN 热议：31 分 · 11 评论",
+            "title": "Harness engineering: Leveraging Codex in an agent-first world",
+            "insight": "HN 热议：67 分 · 30 评论",
             "sentiment": "neutral",
-            "comments": 11,
-            "url": "https://universalmemoryprotocol.io/",
+            "comments": 30,
+            "url": "https://openai.com/index/harness-engineering/",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
-            "insight": "HN 热议：205 分 · 73 评论",
+            "insight": "HN 热议：439 分 · 156 评论",
             "sentiment": "positive",
-            "comments": 73,
+            "comments": 156,
             "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Computex 2026: Are We Heading for the Agentic PC Era Yet? – EE Times",
-            "insight": "HN 热议：12 分 · 6 评论",
+            "title": "Public Domain Image Archive",
+            "insight": "HN 热议：15 分 · 2 评论",
             "sentiment": "neutral",
-            "comments": 6,
-            "url": "https://www.eetimes.com/computex-2026-are-we-heading-for-the-agentic-pc-era-yet/",
+            "comments": 2,
+            "url": "https://pdimagearchive.org/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "How LLMs work",
-            "insight": "HN 热议：811 分 · 224 评论",
-            "sentiment": "positive",
-            "comments": 224,
-            "url": "https://www.0xkato.xyz/how-llms-actually-work/",
+            "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
+            "insight": "HN 热议：4 分 · 0 评论",
+            "sentiment": "neutral",
+            "comments": 0,
+            "url": "https://arxiv.org/abs/2601.14470",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Pentagon raised threat of Israeli spying on U.S. to highest level, sources say",
-            "insight": "HN 热议：272 分 · 182 评论",
-            "sentiment": "positive",
-            "comments": 182,
-            "url": "https://www.nbcnews.com/politics/national-security/pentagon-raised-threat-israeli-spying-us-highest-level-sources-say-rcna348565",
+            "title": "Show HN: DomainTasker – avoid losing domains and surprise renewals",
+            "insight": "HN 热议：9 分 · 5 评论",
+            "sentiment": "neutral",
+            "comments": 5,
+            "url": "https://domaintasker.com/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-06T21:53:37Z",
+    "updated": "2026-06-07T02:10:32Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
