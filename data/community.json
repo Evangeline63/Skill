@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-07T13:15:06Z",
+  "updated": "2026-06-07T16:04:40Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "LLMs are eroding my software engineering career and I don't know what to do",
-      "insight": "HN 热议：70 分 · 28 评论",
-      "sentiment": "neutral",
-      "comments": 28,
+      "insight": "HN 热议：437 分 · 370 评论",
+      "sentiment": "positive",
+      "comments": 370,
       "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Public Domain Image Archive",
-      "insight": "HN 热议：156 分 · 23 评论",
+      "title": "Anthropic, please ship an official Claude Desktop for Linux",
+      "insight": "HN 热议：190 分 · 78 评论",
       "sentiment": "neutral",
-      "comments": 23,
-      "url": "https://pdimagearchive.org/",
+      "comments": 78,
+      "url": "https://github.com/anthropics/claude-code/issues/65697",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
-      "insight": "HN 热议：122 分 · 55 评论",
+      "title": "The OnlyFans Economy of American AI",
+      "insight": "HN 热议：91 分 · 91 评论",
       "sentiment": "neutral",
-      "comments": 55,
-      "url": "https://arxiv.org/abs/2601.14470",
+      "comments": 91,
+      "url": "https://leoveanu.com/2026-06-06-qwen3.7max/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Harness engineering: Leveraging Codex in an agent-first world",
-      "insight": "HN 热议：234 分 · 152 评论",
-      "sentiment": "positive",
-      "comments": 152,
-      "url": "https://openai.com/index/harness-engineering/",
+      "title": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
+      "insight": "HN 热议：65 分 · 11 评论",
+      "sentiment": "neutral",
+      "comments": 11,
+      "url": "https://github.com/devenjarvis/lathe",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Efficient and Training-Free Single-Image Diffusion Models",
-      "insight": "HN 热议：15 分 · 0 评论",
+      "title": "Agents, Agile, Communism, Coercion",
+      "insight": "HN 热议：4 分 · 0 评论",
       "sentiment": "neutral",
       "comments": 0,
-      "url": "https://arxiv.org/abs/2606.04299",
+      "url": "https://elliotmorris.net/agents-agile-communism-coercion",
       "id": 5
     }
   ]
