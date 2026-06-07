@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-07T10:59:11Z",
+    "updated": "2026-06-07T13:15:06Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-07T10:59:11Z",
+    "updated": "2026-06-07T13:15:06Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-07T10:59:11Z",
+    "updated": "2026-06-07T13:15:06Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184806,
-            "stars_today": 184806,
+            "stars": 184810,
+            "stars_today": 184810,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163400,
-            "stars_today": 163400,
+            "stars": 163407,
+            "stars_today": 163407,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 96797,
-            "stars_today": 96797,
+            "stars": 96804,
+            "stars_today": 96804,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 81044,
-            "stars_today": 81044,
+            "stars": 81052,
+            "stars_today": 81052,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 76082,
-            "stars_today": 76082,
+            "stars": 76096,
+            "stars_today": 76096,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 53392,
-            "stars_today": 53392,
+            "stars": 53394,
+            "stars_today": 53394,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-07T10:59:11Z",
+    "updated": "2026-06-07T13:15:06Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-07T10:59:11Z",
+    "updated": "2026-06-07T13:15:06Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-07T10:59:11Z",
+    "updated": "2026-06-07T13:15:06Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
-            "insight": "HN 热议：109 分 · 38 评论",
+            "title": "LLMs are eroding my software engineering career and I don't know what to do",
+            "insight": "HN 热议：70 分 · 28 评论",
             "sentiment": "neutral",
-            "comments": 38,
-            "url": "https://arxiv.org/abs/2601.14470",
+            "comments": 28,
+            "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "Public Domain Image Archive",
-            "insight": "HN 热议：132 分 · 20 评论",
+            "insight": "HN 热议：156 分 · 23 评论",
             "sentiment": "neutral",
-            "comments": 20,
+            "comments": 23,
             "url": "https://pdimagearchive.org/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Harness engineering: Leveraging Codex in an agent-first world",
-            "insight": "HN 热议：206 分 · 129 评论",
-            "sentiment": "positive",
-            "comments": 129,
-            "url": "https://openai.com/index/harness-engineering/",
+            "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
+            "insight": "HN 热议：122 分 · 55 评论",
+            "sentiment": "neutral",
+            "comments": 55,
+            "url": "https://arxiv.org/abs/2601.14470",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "I design with Claude more than Figma now",
-            "insight": "HN 热议：174 分 · 145 评论",
-            "sentiment": "neutral",
-            "comments": 145,
-            "url": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
+            "title": "Harness engineering: Leveraging Codex in an agent-first world",
+            "insight": "HN 热议：234 分 · 152 评论",
+            "sentiment": "positive",
+            "comments": 152,
+            "url": "https://openai.com/index/harness-engineering/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Arithmetic Without Numbers – How LLMs Do Math",
-            "insight": "HN 热议：31 分 · 9 评论",
+            "title": "Efficient and Training-Free Single-Image Diffusion Models",
+            "insight": "HN 热议：15 分 · 0 评论",
             "sentiment": "neutral",
-            "comments": 9,
-            "url": "https://alvaro-videla.com/llm-arithmetic-internals/article_interactive/article.html",
+            "comments": 0,
+            "url": "https://arxiv.org/abs/2606.04299",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-07T10:59:11Z",
+    "updated": "2026-06-07T13:15:06Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
