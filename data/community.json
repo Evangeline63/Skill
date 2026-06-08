@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-08T12:55:13Z",
+  "updated": "2026-06-08T17:41:41Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Config Files That Run Code: Supply Chain Security Blindspot",
-      "insight": "HN 热议：20 分 · 0 评论",
+      "title": "xAI is looking more like a datacentre REIT than a frontier lab",
+      "insight": "HN 热议：19 分 · 2 评论",
       "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://safedep.io/config-files-that-run-code/",
+      "comments": 2,
+      "url": "https://martinalderson.com/posts/xais-new-rental-business/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "The Smallest Brain You Can Build: A Perceptron in Python",
-      "insight": "HN 热议：227 分 · 39 评论",
-      "sentiment": "positive",
-      "comments": 39,
-      "url": "https://ranpara.net/posts/perceptron-explained-from-scratch/",
+      "title": "Config Files That Run Code: Supply Chain Security Blindspot",
+      "insight": "HN 热议：60 分 · 19 评论",
+      "sentiment": "neutral",
+      "comments": 19,
+      "url": "https://safedep.io/config-files-that-run-code/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Anthropic's Project Glasswing Update",
-      "insight": "HN 热议：12 分 · 0 评论",
-      "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://www.schneier.com/blog/archives/2026/06/anthropics-project-glasswing-update.html",
+      "title": "The Smallest Brain You Can Build: A Perceptron in Python",
+      "insight": "HN 热议：283 分 · 64 评论",
+      "sentiment": "positive",
+      "comments": 64,
+      "url": "https://ranpara.net/posts/perceptron-explained-from-scratch/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision",
-      "insight": "HN 热议：319 分 · 162 评论",
+      "title": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
+      "insight": "HN 热议：371 分 · 67 评论",
       "sentiment": "positive",
-      "comments": 162,
-      "url": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
+      "comments": 67,
+      "url": "https://github.com/devenjarvis/lathe",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
-      "insight": "HN 热议：339 分 · 61 评论",
-      "sentiment": "positive",
-      "comments": 61,
-      "url": "https://github.com/devenjarvis/lathe",
+      "title": "SoulsOnly.tff – A font for humans not AI and keyboard firmware to type in it",
+      "insight": "HN 热议：42 分 · 21 评论",
+      "sentiment": "neutral",
+      "comments": 21,
+      "url": "https://github.com/convictional/souls-only",
       "id": 5
     }
   ]

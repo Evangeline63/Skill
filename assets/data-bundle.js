@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-08T12:55:13Z",
+    "updated": "2026-06-08T17:41:41Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-08T12:55:13Z",
+    "updated": "2026-06-08T17:41:41Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-08T12:55:13Z",
+    "updated": "2026-06-08T17:41:41Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184847,
-            "stars_today": 184847,
+            "stars": 184854,
+            "stars_today": 184854,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163449,
-            "stars_today": 163449,
+            "stars": 163451,
+            "stars_today": 163451,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 96866,
-            "stars_today": 96866,
+            "stars": 96872,
+            "stars_today": 96872,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 81218,
-            "stars_today": 81218,
+            "stars": 81265,
+            "stars_today": 81265,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 76232,
-            "stars_today": 76232,
+            "stars": 76256,
+            "stars_today": 76256,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 53428,
-            "stars_today": 53428,
+            "stars": 53430,
+            "stars_today": 53430,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-08T12:55:13Z",
+    "updated": "2026-06-08T17:41:41Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-08T12:55:13Z",
+    "updated": "2026-06-08T17:41:41Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-08T12:55:13Z",
+    "updated": "2026-06-08T17:41:41Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Config Files That Run Code: Supply Chain Security Blindspot",
-            "insight": "HN 热议：20 分 · 0 评论",
+            "title": "xAI is looking more like a datacentre REIT than a frontier lab",
+            "insight": "HN 热议：19 分 · 2 评论",
             "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://safedep.io/config-files-that-run-code/",
+            "comments": 2,
+            "url": "https://martinalderson.com/posts/xais-new-rental-business/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "The Smallest Brain You Can Build: A Perceptron in Python",
-            "insight": "HN 热议：227 分 · 39 评论",
-            "sentiment": "positive",
-            "comments": 39,
-            "url": "https://ranpara.net/posts/perceptron-explained-from-scratch/",
+            "title": "Config Files That Run Code: Supply Chain Security Blindspot",
+            "insight": "HN 热议：60 分 · 19 评论",
+            "sentiment": "neutral",
+            "comments": 19,
+            "url": "https://safedep.io/config-files-that-run-code/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Anthropic's Project Glasswing Update",
-            "insight": "HN 热议：12 分 · 0 评论",
-            "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://www.schneier.com/blog/archives/2026/06/anthropics-project-glasswing-update.html",
+            "title": "The Smallest Brain You Can Build: A Perceptron in Python",
+            "insight": "HN 热议：283 分 · 64 评论",
+            "sentiment": "positive",
+            "comments": 64,
+            "url": "https://ranpara.net/posts/perceptron-explained-from-scratch/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision",
-            "insight": "HN 热议：319 分 · 162 评论",
+            "title": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
+            "insight": "HN 热议：371 分 · 67 评论",
             "sentiment": "positive",
-            "comments": 162,
-            "url": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
+            "comments": 67,
+            "url": "https://github.com/devenjarvis/lathe",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
-            "insight": "HN 热议：339 分 · 61 评论",
-            "sentiment": "positive",
-            "comments": 61,
-            "url": "https://github.com/devenjarvis/lathe",
+            "title": "SoulsOnly.tff – A font for humans not AI and keyboard firmware to type in it",
+            "insight": "HN 热议：42 分 · 21 评论",
+            "sentiment": "neutral",
+            "comments": 21,
+            "url": "https://github.com/convictional/souls-only",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-08T12:55:13Z",
+    "updated": "2026-06-08T17:41:41Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
