@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-08T19:57:56Z",
+  "updated": "2026-06-08T22:20:55Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Apple reveals new AI architecture built around Google Gemini models",
-      "insight": "HN 热议：26 分 · 0 评论",
+      "title": "OpenAI Submits S-1 Draft to SEC",
+      "insight": "HN 热议：79 分 · 26 评论",
       "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
+      "comments": 26,
+      "url": "https://openai.com/index/openai-submits-confidential-s-1/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "xAI is looking more like a datacentre REIT than a frontier lab",
-      "insight": "HN 热议：199 分 · 153 评论",
-      "sentiment": "neutral",
-      "comments": 153,
-      "url": "https://martinalderson.com/posts/xais-new-rental-business/",
+      "title": "Siri AI",
+      "insight": "HN 热议：288 分 · 214 评论",
+      "sentiment": "positive",
+      "comments": 214,
+      "url": "https://www.apple.com/apple-intelligence/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "AI Is Slowing Down",
-      "insight": "HN 热议：188 分 · 223 评论",
-      "sentiment": "neutral",
-      "comments": 223,
-      "url": "https://www.wheresyoured.at/ai-is-slowing-down/",
+      "title": "Apple reveals new AI architecture built around Google Gemini models",
+      "insight": "HN 热议：276 分 · 232 评论",
+      "sentiment": "positive",
+      "comments": 232,
+      "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Siri AI",
-      "insight": "HN 热议：124 分 · 114 评论",
+      "title": "Apple Core AI Framework",
+      "insight": "HN 热议：86 分 · 4 评论",
       "sentiment": "neutral",
-      "comments": 114,
-      "url": "https://www.apple.com/apple-intelligence/",
+      "comments": 4,
+      "url": "https://developer.apple.com/documentation/coreai/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Replies to comments on my \"LLMs are eroding my career\" post",
-      "insight": "HN 热议：111 分 · 165 评论",
-      "sentiment": "neutral",
-      "comments": 165,
-      "url": "https://human-in-the-loop.bearblog.dev/replies-to-comments-on-my-llms-are-eroding-my-career-post/",
+      "title": "xAI is looking more like a datacentre REIT than a frontier lab",
+      "insight": "HN 热议：329 分 · 246 评论",
+      "sentiment": "positive",
+      "comments": 246,
+      "url": "https://martinalderson.com/posts/xais-new-rental-business/",
       "id": 5
     }
   ]
