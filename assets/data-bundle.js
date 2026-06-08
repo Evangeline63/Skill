@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-08T02:15:20Z",
+    "updated": "2026-06-08T07:19:59Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-08T02:15:20Z",
+    "updated": "2026-06-08T07:19:59Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-08T02:15:20Z",
+    "updated": "2026-06-08T07:19:59Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184830,
-            "stars_today": 184830,
+            "stars": 184833,
+            "stars_today": 184833,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163424,
-            "stars_today": 163424,
+            "stars": 163434,
+            "stars_today": 163434,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 96834,
-            "stars_today": 96834,
+            "stars": 96845,
+            "stars_today": 96845,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 81125,
-            "stars_today": 81125,
+            "stars": 81171,
+            "stars_today": 81171,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 76167,
-            "stars_today": 76167,
+            "stars": 76201,
+            "stars_today": 76201,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 53407,
-            "stars_today": 53407,
+            "stars": 53417,
+            "stars_today": 53417,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-08T02:15:20Z",
+    "updated": "2026-06-08T07:19:59Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-08T02:15:20Z",
+    "updated": "2026-06-08T07:19:59Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-08T02:15:20Z",
+    "updated": "2026-06-08T07:19:59Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "The Smallest Brain You Can Build: A Perceptron in Python",
-            "insight": "HN 热议：52 分 · 8 评论",
+            "insight": "HN 热议：165 分 · 21 评论",
             "sentiment": "neutral",
-            "comments": 8,
+            "comments": 21,
             "url": "https://ranpara.net/posts/perceptron-explained-from-scratch/",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision",
-            "insight": "HN 热议：7 分 · 0 评论",
-            "sentiment": "neutral",
-            "comments": 0,
+            "insight": "HN 热议：222 分 · 82 评论",
+            "sentiment": "positive",
+            "comments": 82,
             "url": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
-            "insight": "HN 热议：249 分 · 47 评论",
-            "sentiment": "positive",
-            "comments": 47,
-            "url": "https://github.com/devenjarvis/lathe",
+            "title": "Texas grid flags risks as data centers, crypto sites fail voltage tests",
+            "insight": "HN 热议：81 分 · 62 评论",
+            "sentiment": "neutral",
+            "comments": 62,
+            "url": "https://www.reuters.com/business/energy/texas-grid-flags-risks-data-centers-crypto-sites-fail-voltage-tests-2026-06-05/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "LLMs are eroding my software engineering career and I don't know what to do",
-            "insight": "HN 热议：813 分 · 802 评论",
+            "title": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
+            "insight": "HN 热议：293 分 · 55 评论",
             "sentiment": "positive",
-            "comments": 802,
-            "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
+            "comments": 55,
+            "url": "https://github.com/devenjarvis/lathe",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Anthropic, please ship an official Claude Desktop for Linux",
-            "insight": "HN 热议：462 分 · 269 评论",
-            "sentiment": "positive",
-            "comments": 269,
-            "url": "https://github.com/anthropics/claude-code/issues/65697",
+            "title": "Do agents.md files help coding agents?",
+            "insight": "HN 热议：4 分 · 0 评论",
+            "sentiment": "neutral",
+            "comments": 0,
+            "url": "https://twitter.com/rasbt/status/2063649136323252397",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-08T02:15:20Z",
+    "updated": "2026-06-08T07:19:59Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

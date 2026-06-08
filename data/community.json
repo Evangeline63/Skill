@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-08T02:15:20Z",
+  "updated": "2026-06-08T07:19:59Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "The Smallest Brain You Can Build: A Perceptron in Python",
-      "insight": "HN 热议：52 分 · 8 评论",
+      "insight": "HN 热议：165 分 · 21 评论",
       "sentiment": "neutral",
-      "comments": 8,
+      "comments": 21,
       "url": "https://ranpara.net/posts/perceptron-explained-from-scratch/",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision",
-      "insight": "HN 热议：7 分 · 0 评论",
-      "sentiment": "neutral",
-      "comments": 0,
+      "insight": "HN 热议：222 分 · 82 评论",
+      "sentiment": "positive",
+      "comments": 82,
       "url": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
-      "insight": "HN 热议：249 分 · 47 评论",
-      "sentiment": "positive",
-      "comments": 47,
-      "url": "https://github.com/devenjarvis/lathe",
+      "title": "Texas grid flags risks as data centers, crypto sites fail voltage tests",
+      "insight": "HN 热议：81 分 · 62 评论",
+      "sentiment": "neutral",
+      "comments": 62,
+      "url": "https://www.reuters.com/business/energy/texas-grid-flags-risks-data-centers-crypto-sites-fail-voltage-tests-2026-06-05/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "LLMs are eroding my software engineering career and I don't know what to do",
-      "insight": "HN 热议：813 分 · 802 评论",
+      "title": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
+      "insight": "HN 热议：293 分 · 55 评论",
       "sentiment": "positive",
-      "comments": 802,
-      "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
+      "comments": 55,
+      "url": "https://github.com/devenjarvis/lathe",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Anthropic, please ship an official Claude Desktop for Linux",
-      "insight": "HN 热议：462 分 · 269 评论",
-      "sentiment": "positive",
-      "comments": 269,
-      "url": "https://github.com/anthropics/claude-code/issues/65697",
+      "title": "Do agents.md files help coding agents?",
+      "insight": "HN 热议：4 分 · 0 评论",
+      "sentiment": "neutral",
+      "comments": 0,
+      "url": "https://twitter.com/rasbt/status/2063649136323252397",
       "id": 5
     }
   ]
