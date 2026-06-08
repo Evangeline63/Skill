@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-08T07:19:59Z",
+  "updated": "2026-06-08T12:55:13Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "The Smallest Brain You Can Build: A Perceptron in Python",
-      "insight": "HN 热议：165 分 · 21 评论",
+      "title": "Config Files That Run Code: Supply Chain Security Blindspot",
+      "insight": "HN 热议：20 分 · 0 评论",
       "sentiment": "neutral",
-      "comments": 21,
-      "url": "https://ranpara.net/posts/perceptron-explained-from-scratch/",
+      "comments": 0,
+      "url": "https://safedep.io/config-files-that-run-code/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision",
-      "insight": "HN 热议：222 分 · 82 评论",
+      "title": "The Smallest Brain You Can Build: A Perceptron in Python",
+      "insight": "HN 热议：227 分 · 39 评论",
       "sentiment": "positive",
-      "comments": 82,
-      "url": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
+      "comments": 39,
+      "url": "https://ranpara.net/posts/perceptron-explained-from-scratch/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Texas grid flags risks as data centers, crypto sites fail voltage tests",
-      "insight": "HN 热议：81 分 · 62 评论",
+      "title": "Anthropic's Project Glasswing Update",
+      "insight": "HN 热议：12 分 · 0 评论",
       "sentiment": "neutral",
-      "comments": 62,
-      "url": "https://www.reuters.com/business/energy/texas-grid-flags-risks-data-centers-crypto-sites-fail-voltage-tests-2026-06-05/",
+      "comments": 0,
+      "url": "https://www.schneier.com/blog/archives/2026/06/anthropics-project-glasswing-update.html",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
-      "insight": "HN 热议：293 分 · 55 评论",
+      "title": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision",
+      "insight": "HN 热议：319 分 · 162 评论",
       "sentiment": "positive",
-      "comments": 55,
-      "url": "https://github.com/devenjarvis/lathe",
+      "comments": 162,
+      "url": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Do agents.md files help coding agents?",
-      "insight": "HN 热议：4 分 · 0 评论",
-      "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://twitter.com/rasbt/status/2063649136323252397",
+      "title": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
+      "insight": "HN 热议：339 分 · 61 评论",
+      "sentiment": "positive",
+      "comments": 61,
+      "url": "https://github.com/devenjarvis/lathe",
       "id": 5
     }
   ]
