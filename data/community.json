@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-08T17:41:41Z",
+  "updated": "2026-06-08T19:57:56Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "xAI is looking more like a datacentre REIT than a frontier lab",
-      "insight": "HN 热议：19 分 · 2 评论",
+      "title": "Apple reveals new AI architecture built around Google Gemini models",
+      "insight": "HN 热议：26 分 · 0 评论",
       "sentiment": "neutral",
-      "comments": 2,
-      "url": "https://martinalderson.com/posts/xais-new-rental-business/",
+      "comments": 0,
+      "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Config Files That Run Code: Supply Chain Security Blindspot",
-      "insight": "HN 热议：60 分 · 19 评论",
+      "title": "xAI is looking more like a datacentre REIT than a frontier lab",
+      "insight": "HN 热议：199 分 · 153 评论",
       "sentiment": "neutral",
-      "comments": 19,
-      "url": "https://safedep.io/config-files-that-run-code/",
+      "comments": 153,
+      "url": "https://martinalderson.com/posts/xais-new-rental-business/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "The Smallest Brain You Can Build: A Perceptron in Python",
-      "insight": "HN 热议：283 分 · 64 评论",
-      "sentiment": "positive",
-      "comments": 64,
-      "url": "https://ranpara.net/posts/perceptron-explained-from-scratch/",
+      "title": "AI Is Slowing Down",
+      "insight": "HN 热议：188 分 · 223 评论",
+      "sentiment": "neutral",
+      "comments": 223,
+      "url": "https://www.wheresyoured.at/ai-is-slowing-down/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
-      "insight": "HN 热议：371 分 · 67 评论",
-      "sentiment": "positive",
-      "comments": 67,
-      "url": "https://github.com/devenjarvis/lathe",
+      "title": "Siri AI",
+      "insight": "HN 热议：124 分 · 114 评论",
+      "sentiment": "neutral",
+      "comments": 114,
+      "url": "https://www.apple.com/apple-intelligence/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "SoulsOnly.tff – A font for humans not AI and keyboard firmware to type in it",
-      "insight": "HN 热议：42 分 · 21 评论",
+      "title": "Replies to comments on my \"LLMs are eroding my career\" post",
+      "insight": "HN 热议：111 分 · 165 评论",
       "sentiment": "neutral",
-      "comments": 21,
-      "url": "https://github.com/convictional/souls-only",
+      "comments": 165,
+      "url": "https://human-in-the-loop.bearblog.dev/replies-to-comments-on-my-llms-are-eroding-my-career-post/",
       "id": 5
     }
   ]

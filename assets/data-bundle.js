@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-08T17:41:41Z",
+    "updated": "2026-06-08T19:57:56Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-08T17:41:41Z",
+    "updated": "2026-06-08T19:57:56Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-08T17:41:41Z",
+    "updated": "2026-06-08T19:57:56Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184854,
-            "stars_today": 184854,
+            "stars": 184848,
+            "stars_today": 184848,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163451,
-            "stars_today": 163451,
+            "stars": 163438,
+            "stars_today": 163438,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 96872,
-            "stars_today": 96872,
+            "stars": 96861,
+            "stars_today": 96861,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 81265,
-            "stars_today": 81265,
+            "stars": 81268,
+            "stars_today": 81268,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 76256,
-            "stars_today": 76256,
+            "stars": 76252,
+            "stars_today": 76252,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 53430,
-            "stars_today": 53430,
+            "stars": 53420,
+            "stars_today": 53420,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-08T17:41:41Z",
+    "updated": "2026-06-08T19:57:56Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-08T17:41:41Z",
+    "updated": "2026-06-08T19:57:56Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-08T17:41:41Z",
+    "updated": "2026-06-08T19:57:56Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "xAI is looking more like a datacentre REIT than a frontier lab",
-            "insight": "HN 热议：19 分 · 2 评论",
+            "title": "Apple reveals new AI architecture built around Google Gemini models",
+            "insight": "HN 热议：26 分 · 0 评论",
             "sentiment": "neutral",
-            "comments": 2,
-            "url": "https://martinalderson.com/posts/xais-new-rental-business/",
+            "comments": 0,
+            "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Config Files That Run Code: Supply Chain Security Blindspot",
-            "insight": "HN 热议：60 分 · 19 评论",
+            "title": "xAI is looking more like a datacentre REIT than a frontier lab",
+            "insight": "HN 热议：199 分 · 153 评论",
             "sentiment": "neutral",
-            "comments": 19,
-            "url": "https://safedep.io/config-files-that-run-code/",
+            "comments": 153,
+            "url": "https://martinalderson.com/posts/xais-new-rental-business/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "The Smallest Brain You Can Build: A Perceptron in Python",
-            "insight": "HN 热议：283 分 · 64 评论",
-            "sentiment": "positive",
-            "comments": 64,
-            "url": "https://ranpara.net/posts/perceptron-explained-from-scratch/",
+            "title": "AI Is Slowing Down",
+            "insight": "HN 热议：188 分 · 223 评论",
+            "sentiment": "neutral",
+            "comments": 223,
+            "url": "https://www.wheresyoured.at/ai-is-slowing-down/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
-            "insight": "HN 热议：371 分 · 67 评论",
-            "sentiment": "positive",
-            "comments": 67,
-            "url": "https://github.com/devenjarvis/lathe",
+            "title": "Siri AI",
+            "insight": "HN 热议：124 分 · 114 评论",
+            "sentiment": "neutral",
+            "comments": 114,
+            "url": "https://www.apple.com/apple-intelligence/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "SoulsOnly.tff – A font for humans not AI and keyboard firmware to type in it",
-            "insight": "HN 热议：42 分 · 21 评论",
+            "title": "Replies to comments on my \"LLMs are eroding my career\" post",
+            "insight": "HN 热议：111 分 · 165 评论",
             "sentiment": "neutral",
-            "comments": 21,
-            "url": "https://github.com/convictional/souls-only",
+            "comments": 165,
+            "url": "https://human-in-the-loop.bearblog.dev/replies-to-comments-on-my-llms-are-eroding-my-career-post/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-08T17:41:41Z",
+    "updated": "2026-06-08T19:57:56Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
