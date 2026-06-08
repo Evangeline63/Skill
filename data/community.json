@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-07T21:56:18Z",
+  "updated": "2026-06-08T02:15:20Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Silurus/ooxml: Pixel-faithful Office documents, rendered in the browser",
-      "insight": "HN 热议：92 分 · 30 评论",
+      "title": "The Smallest Brain You Can Build: A Perceptron in Python",
+      "insight": "HN 热议：52 分 · 8 评论",
       "sentiment": "neutral",
-      "comments": 30,
-      "url": "https://github.com/yukiyokotani/office-open-xml-viewer",
+      "comments": 8,
+      "url": "https://ranpara.net/posts/perceptron-explained-from-scratch/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "If LLMs Have Human-Like Attributes, Then So Does Age of Empires II",
-      "insight": "HN 热议：34 分 · 25 评论",
+      "title": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision",
+      "insight": "HN 热议：7 分 · 0 评论",
       "sentiment": "neutral",
-      "comments": 25,
-      "url": "https://arxiv.org/abs/2605.31514",
+      "comments": 0,
+      "url": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
-      "insight": "HN 热议：204 分 · 41 评论",
+      "insight": "HN 热议：249 分 · 47 评论",
       "sentiment": "positive",
-      "comments": 41,
+      "comments": 47,
       "url": "https://github.com/devenjarvis/lathe",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Anthropic, please ship an official Claude Desktop for Linux",
-      "insight": "HN 热议：402 分 · 229 评论",
+      "title": "LLMs are eroding my software engineering career and I don't know what to do",
+      "insight": "HN 热议：813 分 · 802 评论",
       "sentiment": "positive",
-      "comments": 229,
-      "url": "https://github.com/anthropics/claude-code/issues/65697",
+      "comments": 802,
+      "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Public Domain Image Archive",
-      "insight": "HN 热议：234 分 · 32 评论",
+      "title": "Anthropic, please ship an official Claude Desktop for Linux",
+      "insight": "HN 热议：462 分 · 269 评论",
       "sentiment": "positive",
-      "comments": 32,
-      "url": "https://pdimagearchive.org/",
+      "comments": 269,
+      "url": "https://github.com/anthropics/claude-code/issues/65697",
       "id": 5
     }
   ]
