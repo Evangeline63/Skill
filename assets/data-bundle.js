@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-09T19:53:04Z",
+    "updated": "2026-06-09T22:16:42Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-09T19:53:04Z",
+    "updated": "2026-06-09T22:16:42Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-09T19:53:04Z",
+    "updated": "2026-06-09T22:16:42Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184863,
-            "stars_today": 184863,
+            "stars": 184862,
+            "stars_today": 184862,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,17 +282,17 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163466,
-            "stars_today": 163466,
+            "stars": 163470,
+            "stars_today": 163470,
             "url": "https://github.com/f/prompts.chat"
         },
         {
             "rank": 3,
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
-            "language": "TypeScript",
-            "stars": 81467,
-            "stars_today": 81467,
+            "language": "JavaScript",
+            "stars": 81478,
+            "stars_today": 81478,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 76324,
-            "stars_today": 76324,
+            "stars": 76328,
+            "stars_today": 76328,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 53437,
-            "stars_today": 53437,
+            "stars": 53439,
+            "stars_today": 53439,
             "url": "https://github.com/FlowiseAI/Flowise"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "Kong/kong",
             "description": "🦍 The API and AI Gateway",
             "language": "Lua",
-            "stars": 43553,
-            "stars_today": 43553,
+            "stars": 43555,
+            "stars_today": 43555,
             "url": "https://github.com/Kong/kong"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-09T19:53:04Z",
+    "updated": "2026-06-09T22:16:42Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-09T19:53:04Z",
+    "updated": "2026-06-09T22:16:42Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-09T19:53:04Z",
+    "updated": "2026-06-09T22:16:42Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Claude Fable 5",
-            "insight": "HN 热议：1062 分 · 878 评论",
+            "insight": "HN 热议：1502 分 · 1177 评论",
             "sentiment": "positive",
-            "comments": 878,
+            "comments": 1177,
             "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
-            "insight": "HN 热议：484 分 · 169 评论",
-            "sentiment": "positive",
-            "comments": 169,
-            "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
+            "title": "Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks",
+            "insight": "HN 热议：108 分 · 14 评论",
+            "sentiment": "neutral",
+            "comments": 14,
+            "url": "https://aarushgupta.io/posts/kan-fpga/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks",
-            "insight": "HN 热议：7 分 · 0 评论",
+            "title": "If Claude Fable stops helping you, you'll never know",
+            "insight": "HN 热议：104 分 · 35 评论",
             "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://aarushgupta.io/posts/kan-fpga/",
+            "comments": 35,
+            "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "GPT-2: Too Dangerous To Release (2019)",
-            "insight": "HN 热议：8 分 · 0 评论",
+            "title": "Grit: Rewriting Git in Rust with Agents",
+            "insight": "HN 热议：12 分 · 0 评论",
             "sentiment": "neutral",
             "comments": 0,
-            "url": "https://naokishibuya.github.io/blog/2022-12-30-gpt-2-2019/",
+            "url": "https://blog.gitbutler.com/true-grit",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Is Grep All You Need? How Agent Harnesses Reshape Agentic Search",
-            "insight": "HN 热议：85 分 · 41 评论",
-            "sentiment": "neutral",
-            "comments": 41,
-            "url": "https://arxiv.org/abs/2605.15184",
+            "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
+            "insight": "HN 热议：514 分 · 175 评论",
+            "sentiment": "positive",
+            "comments": 175,
+            "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-09T19:53:04Z",
+    "updated": "2026-06-09T22:16:42Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

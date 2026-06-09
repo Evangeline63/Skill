@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-09T19:53:04Z",
+  "updated": "2026-06-09T22:16:42Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Claude Fable 5",
-      "insight": "HN 热议：1062 分 · 878 评论",
+      "insight": "HN 热议：1502 分 · 1177 评论",
       "sentiment": "positive",
-      "comments": 878,
+      "comments": 1177,
       "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
-      "insight": "HN 热议：484 分 · 169 评论",
-      "sentiment": "positive",
-      "comments": 169,
-      "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
+      "title": "Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks",
+      "insight": "HN 热议：108 分 · 14 评论",
+      "sentiment": "neutral",
+      "comments": 14,
+      "url": "https://aarushgupta.io/posts/kan-fpga/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks",
-      "insight": "HN 热议：7 分 · 0 评论",
+      "title": "If Claude Fable stops helping you, you'll never know",
+      "insight": "HN 热议：104 分 · 35 评论",
       "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://aarushgupta.io/posts/kan-fpga/",
+      "comments": 35,
+      "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "GPT-2: Too Dangerous To Release (2019)",
-      "insight": "HN 热议：8 分 · 0 评论",
+      "title": "Grit: Rewriting Git in Rust with Agents",
+      "insight": "HN 热议：12 分 · 0 评论",
       "sentiment": "neutral",
       "comments": 0,
-      "url": "https://naokishibuya.github.io/blog/2022-12-30-gpt-2-2019/",
+      "url": "https://blog.gitbutler.com/true-grit",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Is Grep All You Need? How Agent Harnesses Reshape Agentic Search",
-      "insight": "HN 热议：85 分 · 41 评论",
-      "sentiment": "neutral",
-      "comments": 41,
-      "url": "https://arxiv.org/abs/2605.15184",
+      "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
+      "insight": "HN 热议：514 分 · 175 评论",
+      "sentiment": "positive",
+      "comments": 175,
+      "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
       "id": 5
     }
   ]
