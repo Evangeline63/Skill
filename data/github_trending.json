@@ -1,13 +1,13 @@
 {
-  "updated": "2026-06-09T17:15:41Z",
+  "updated": "2026-06-09T19:53:04Z",
   "repos": [
     {
       "rank": 1,
       "name": "Significant-Gravitas/AutoGPT",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
       "language": "Python",
-      "stars": 184860,
-      "stars_today": 184860,
+      "stars": 184863,
+      "stars_today": 184863,
       "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
@@ -15,8 +15,8 @@
       "name": "f/prompts.chat",
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
       "language": "HTML",
-      "stars": 163464,
-      "stars_today": 163464,
+      "stars": 163466,
+      "stars_today": 163466,
       "url": "https://github.com/f/prompts.chat"
     },
     {
@@ -24,8 +24,8 @@
       "name": "thedotmack/claude-mem",
       "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
       "language": "TypeScript",
-      "stars": 81453,
-      "stars_today": 81453,
+      "stars": 81467,
+      "stars_today": 81467,
       "url": "https://github.com/thedotmack/claude-mem"
     },
     {
@@ -33,8 +33,8 @@
       "name": "OpenHands/OpenHands",
       "description": "🙌 OpenHands: AI-Driven Development",
       "language": "Python",
-      "stars": 76317,
-      "stars_today": 76317,
+      "stars": 76324,
+      "stars_today": 76324,
       "url": "https://github.com/OpenHands/OpenHands"
     },
     {
@@ -42,8 +42,8 @@
       "name": "FlowiseAI/Flowise",
       "description": "Build AI Agents, Visually",
       "language": "TypeScript",
-      "stars": 53435,
-      "stars_today": 53435,
+      "stars": 53437,
+      "stars_today": 53437,
       "url": "https://github.com/FlowiseAI/Flowise"
     },
     {
@@ -51,8 +51,8 @@
       "name": "Kong/kong",
       "description": "🦍 The API and AI Gateway",
       "language": "Lua",
-      "stars": 43554,
-      "stars_today": 43554,
+      "stars": 43553,
+      "stars_today": 43553,
       "url": "https://github.com/Kong/kong"
     }
   ]

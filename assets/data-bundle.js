@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-09T17:15:41Z",
+    "updated": "2026-06-09T19:53:04Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-09T17:15:41Z",
+    "updated": "2026-06-09T19:53:04Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-09T17:15:41Z",
+    "updated": "2026-06-09T19:53:04Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184860,
-            "stars_today": 184860,
+            "stars": 184863,
+            "stars_today": 184863,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163464,
-            "stars_today": 163464,
+            "stars": 163466,
+            "stars_today": 163466,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 81453,
-            "stars_today": 81453,
+            "stars": 81467,
+            "stars_today": 81467,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 76317,
-            "stars_today": 76317,
+            "stars": 76324,
+            "stars_today": 76324,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 53435,
-            "stars_today": 53435,
+            "stars": 53437,
+            "stars_today": 53437,
             "url": "https://github.com/FlowiseAI/Flowise"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "Kong/kong",
             "description": "🦍 The API and AI Gateway",
             "language": "Lua",
-            "stars": 43554,
-            "stars_today": 43554,
+            "stars": 43553,
+            "stars_today": 43553,
             "url": "https://github.com/Kong/kong"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-09T17:15:41Z",
+    "updated": "2026-06-09T19:53:04Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-09T17:15:41Z",
+    "updated": "2026-06-09T19:53:04Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-09T17:15:41Z",
+    "updated": "2026-06-09T19:53:04Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Claude Fable 5",
-            "insight": "HN 热议：173 分 · 49 评论",
-            "sentiment": "neutral",
-            "comments": 49,
+            "insight": "HN 热议：1062 分 · 878 评论",
+            "sentiment": "positive",
+            "comments": 878,
             "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "System Card: Claude Fable 5 and Claude Mythos 5 [pdf]",
-            "insight": "HN 热议：50 分 · 8 评论",
-            "sentiment": "neutral",
-            "comments": 8,
-            "url": "https://www-cdn.anthropic.com/d00db56fa754a1b115b6dd7cb2e3c342ee809620.pdf",
+            "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
+            "insight": "HN 热议：484 分 · 169 评论",
+            "sentiment": "positive",
+            "comments": 169,
+            "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
-            "insight": "HN 热议：429 分 · 159 评论",
-            "sentiment": "positive",
-            "comments": 159,
-            "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
+            "title": "Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks",
+            "insight": "HN 热议：7 分 · 0 评论",
+            "sentiment": "neutral",
+            "comments": 0,
+            "url": "https://aarushgupta.io/posts/kan-fpga/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Can LLMs Beat Classical Hyperparameter Optimization Algorithms?",
-            "insight": "HN 热议：54 分 · 6 评论",
+            "title": "GPT-2: Too Dangerous To Release (2019)",
+            "insight": "HN 热议：8 分 · 0 评论",
             "sentiment": "neutral",
-            "comments": 6,
-            "url": "https://arxiv.org/abs/2603.24647",
+            "comments": 0,
+            "url": "https://naokishibuya.github.io/blog/2022-12-30-gpt-2-2019/",
             "id": 4
         },
         {
             "source": "HackerNews",
             "title": "Is Grep All You Need? How Agent Harnesses Reshape Agentic Search",
-            "insight": "HN 热议：56 分 · 28 评论",
+            "insight": "HN 热议：85 分 · 41 评论",
             "sentiment": "neutral",
-            "comments": 28,
+            "comments": 41,
             "url": "https://arxiv.org/abs/2605.15184",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-09T17:15:41Z",
+    "updated": "2026-06-09T19:53:04Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
