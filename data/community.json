@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-09T06:37:51Z",
+  "updated": "2026-06-09T11:51:04Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Apple reveals new AI architecture built around Google Gemini models",
-      "insight": "HN 热议：510 分 · 393 评论",
+      "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
+      "insight": "HN 热议：227 分 · 96 评论",
       "sentiment": "positive",
-      "comments": 393,
-      "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
+      "comments": 96,
+      "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Siri AI",
-      "insight": "HN 热议：519 分 · 466 评论",
+      "title": "Apple reveals new AI architecture built around Google Gemini models",
+      "insight": "HN 热议：617 分 · 472 评论",
       "sentiment": "positive",
-      "comments": 466,
-      "url": "https://www.apple.com/apple-intelligence/",
+      "comments": 472,
+      "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "xAI is looking more like a datacentre REIT than a frontier lab",
-      "insight": "HN 热议：510 分 · 394 评论",
+      "title": "Siri AI",
+      "insight": "HN 热议：601 分 · 558 评论",
       "sentiment": "positive",
-      "comments": 394,
-      "url": "https://martinalderson.com/posts/xais-new-rental-business/",
+      "comments": 558,
+      "url": "https://www.apple.com/apple-intelligence/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Apple Core AI Framework",
-      "insight": "HN 热议：255 分 · 65 评论",
+      "title": "xAI is looking more like a datacentre REIT than a frontier lab",
+      "insight": "HN 热议：583 分 · 456 评论",
       "sentiment": "positive",
-      "comments": 65,
-      "url": "https://developer.apple.com/documentation/coreai/",
+      "comments": 456,
+      "url": "https://martinalderson.com/posts/xais-new-rental-business/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Ask HN: What are tools you have made for yourself since the advent of AI?",
-      "insight": "HN 热议：240 分 · 409 评论",
+      "title": "Apple Core AI Framework",
+      "insight": "HN 热议：314 分 · 82 评论",
       "sentiment": "positive",
-      "comments": 409,
-      "url": "https://news.ycombinator.com/item?id=48449187",
+      "comments": 82,
+      "url": "https://developer.apple.com/documentation/coreai/",
       "id": 5
     }
   ]
