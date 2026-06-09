@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-09T01:52:22Z",
+    "updated": "2026-06-09T06:37:51Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-09T01:52:22Z",
+    "updated": "2026-06-09T06:37:51Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-09T01:52:22Z",
+    "updated": "2026-06-09T06:37:51Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184848,
-            "stars_today": 184848,
+            "stars": 184850,
+            "stars_today": 184850,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163441,
-            "stars_today": 163441,
+            "stars": 163450,
+            "stars_today": 163450,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 81310,
-            "stars_today": 81310,
+            "stars": 81366,
+            "stars_today": 81366,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 76271,
-            "stars_today": 76271,
+            "stars": 76281,
+            "stars_today": 76281,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 53424,
-            "stars_today": 53424,
+            "stars": 53425,
+            "stars_today": 53425,
             "url": "https://github.com/FlowiseAI/Flowise"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "Kong/kong",
             "description": "🦍 The API and AI Gateway",
             "language": "Lua",
-            "stars": 43547,
-            "stars_today": 43547,
+            "stars": 43548,
+            "stars_today": 43548,
             "url": "https://github.com/Kong/kong"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-09T01:52:22Z",
+    "updated": "2026-06-09T06:37:51Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-09T01:52:22Z",
+    "updated": "2026-06-09T06:37:51Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-09T01:52:22Z",
+    "updated": "2026-06-09T06:37:51Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Apple reveals new AI architecture built around Google Gemini models",
-            "insight": "HN 热议：329 分 · 315 评论",
+            "insight": "HN 热议：510 分 · 393 评论",
             "sentiment": "positive",
-            "comments": 315,
+            "comments": 393,
             "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "Siri AI",
-            "insight": "HN 热议：410 分 · 354 评论",
+            "insight": "HN 热议：519 分 · 466 评论",
             "sentiment": "positive",
-            "comments": 354,
+            "comments": 466,
             "url": "https://www.apple.com/apple-intelligence/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Apple Core AI Framework",
-            "insight": "HN 热议：194 分 · 38 评论",
-            "sentiment": "neutral",
-            "comments": 38,
-            "url": "https://developer.apple.com/documentation/coreai/",
+            "title": "xAI is looking more like a datacentre REIT than a frontier lab",
+            "insight": "HN 热议：510 分 · 394 评论",
+            "sentiment": "positive",
+            "comments": 394,
+            "url": "https://martinalderson.com/posts/xais-new-rental-business/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "xAI is looking more like a datacentre REIT than a frontier lab",
-            "insight": "HN 热议：400 分 · 311 评论",
+            "title": "Apple Core AI Framework",
+            "insight": "HN 热议：255 分 · 65 评论",
             "sentiment": "positive",
-            "comments": 311,
-            "url": "https://martinalderson.com/posts/xais-new-rental-business/",
+            "comments": 65,
+            "url": "https://developer.apple.com/documentation/coreai/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Hermes Agent – Open-Source AI Agent with Persistent Memory",
-            "insight": "HN 热议：6 分 · 0 评论",
-            "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://hermes-agent.org/",
+            "title": "Ask HN: What are tools you have made for yourself since the advent of AI?",
+            "insight": "HN 热议：240 分 · 409 评论",
+            "sentiment": "positive",
+            "comments": 409,
+            "url": "https://news.ycombinator.com/item?id=48449187",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-09T01:52:22Z",
+    "updated": "2026-06-09T06:37:51Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
