@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-09T11:51:04Z",
+  "updated": "2026-06-09T14:15:34Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
-      "insight": "HN 热议：227 分 · 96 评论",
+      "insight": "HN 热议：328 分 · 131 评论",
       "sentiment": "positive",
-      "comments": 96,
+      "comments": 131,
       "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Apple reveals new AI architecture built around Google Gemini models",
-      "insight": "HN 热议：617 分 · 472 评论",
-      "sentiment": "positive",
-      "comments": 472,
-      "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
+      "title": "Cleaning up after AI rockstar developers",
+      "insight": "HN 热议：146 分 · 80 评论",
+      "sentiment": "neutral",
+      "comments": 80,
+      "url": "https://www.codingwithjesse.com/blog/rockstar-developers/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Siri AI",
-      "insight": "HN 热议：601 分 · 558 评论",
+      "title": "Apple reveals new AI architecture built around Google Gemini models",
+      "insight": "HN 热议：660 分 · 510 评论",
       "sentiment": "positive",
-      "comments": 558,
-      "url": "https://www.apple.com/apple-intelligence/",
+      "comments": 510,
+      "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "xAI is looking more like a datacentre REIT than a frontier lab",
-      "insight": "HN 热议：583 分 · 456 评论",
+      "insight": "HN 热议：613 分 · 483 评论",
       "sentiment": "positive",
-      "comments": 456,
+      "comments": 483,
       "url": "https://martinalderson.com/posts/xais-new-rental-business/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Apple Core AI Framework",
-      "insight": "HN 热议：314 分 · 82 评论",
+      "title": "Siri AI",
+      "insight": "HN 热议：624 分 · 618 评论",
       "sentiment": "positive",
-      "comments": 82,
-      "url": "https://developer.apple.com/documentation/coreai/",
+      "comments": 618,
+      "url": "https://www.apple.com/apple-intelligence/",
       "id": 5
     }
   ]

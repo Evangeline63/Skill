@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-09T11:51:04Z",
+    "updated": "2026-06-09T14:15:34Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-09T11:51:04Z",
+    "updated": "2026-06-09T14:15:34Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-09T11:51:04Z",
+    "updated": "2026-06-09T14:15:34Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184859,
-            "stars_today": 184859,
+            "stars": 184860,
+            "stars_today": 184860,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163459,
-            "stars_today": 163459,
+            "stars": 163463,
+            "stars_today": 163463,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 81403,
-            "stars_today": 81403,
+            "stars": 81430,
+            "stars_today": 81430,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 76300,
-            "stars_today": 76300,
+            "stars": 76308,
+            "stars_today": 76308,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 53431,
-            "stars_today": 53431,
+            "stars": 53433,
+            "stars_today": 53433,
             "url": "https://github.com/FlowiseAI/Flowise"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "Kong/kong",
             "description": "🦍 The API and AI Gateway",
             "language": "Lua",
-            "stars": 43550,
-            "stars_today": 43550,
+            "stars": 43553,
+            "stars_today": 43553,
             "url": "https://github.com/Kong/kong"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-09T11:51:04Z",
+    "updated": "2026-06-09T14:15:34Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-09T11:51:04Z",
+    "updated": "2026-06-09T14:15:34Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-09T11:51:04Z",
+    "updated": "2026-06-09T14:15:34Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
-            "insight": "HN 热议：227 分 · 96 评论",
+            "insight": "HN 热议：328 分 · 131 评论",
             "sentiment": "positive",
-            "comments": 96,
+            "comments": 131,
             "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Apple reveals new AI architecture built around Google Gemini models",
-            "insight": "HN 热议：617 分 · 472 评论",
-            "sentiment": "positive",
-            "comments": 472,
-            "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
+            "title": "Cleaning up after AI rockstar developers",
+            "insight": "HN 热议：146 分 · 80 评论",
+            "sentiment": "neutral",
+            "comments": 80,
+            "url": "https://www.codingwithjesse.com/blog/rockstar-developers/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Siri AI",
-            "insight": "HN 热议：601 分 · 558 评论",
+            "title": "Apple reveals new AI architecture built around Google Gemini models",
+            "insight": "HN 热议：660 分 · 510 评论",
             "sentiment": "positive",
-            "comments": 558,
-            "url": "https://www.apple.com/apple-intelligence/",
+            "comments": 510,
+            "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
             "id": 3
         },
         {
             "source": "HackerNews",
             "title": "xAI is looking more like a datacentre REIT than a frontier lab",
-            "insight": "HN 热议：583 分 · 456 评论",
+            "insight": "HN 热议：613 分 · 483 评论",
             "sentiment": "positive",
-            "comments": 456,
+            "comments": 483,
             "url": "https://martinalderson.com/posts/xais-new-rental-business/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Apple Core AI Framework",
-            "insight": "HN 热议：314 分 · 82 评论",
+            "title": "Siri AI",
+            "insight": "HN 热议：624 分 · 618 评论",
             "sentiment": "positive",
-            "comments": 82,
-            "url": "https://developer.apple.com/documentation/coreai/",
+            "comments": 618,
+            "url": "https://www.apple.com/apple-intelligence/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-09T11:51:04Z",
+    "updated": "2026-06-09T14:15:34Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
