@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-08T22:20:55Z",
+    "updated": "2026-06-09T01:52:22Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-08T22:20:55Z",
+    "updated": "2026-06-09T01:52:22Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-08T22:20:55Z",
+    "updated": "2026-06-09T01:52:22Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184847,
-            "stars_today": 184847,
+            "stars": 184848,
+            "stars_today": 184848,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,50 +282,50 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163440,
-            "stars_today": 163440,
+            "stars": 163441,
+            "stars_today": 163441,
             "url": "https://github.com/f/prompts.chat"
         },
         {
             "rank": 3,
-            "name": "rasbt/LLMs-from-scratch",
-            "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
-            "language": "Jupyter Notebook",
-            "stars": 96863,
-            "stars_today": 96863,
-            "url": "https://github.com/rasbt/LLMs-from-scratch"
-        },
-        {
-            "rank": 4,
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 81286,
-            "stars_today": 81286,
+            "stars": 81310,
+            "stars_today": 81310,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
-            "rank": 5,
+            "rank": 4,
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 76260,
-            "stars_today": 76260,
+            "stars": 76271,
+            "stars_today": 76271,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
-            "rank": 6,
+            "rank": 5,
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 53422,
-            "stars_today": 53422,
+            "stars": 53424,
+            "stars_today": 53424,
             "url": "https://github.com/FlowiseAI/Flowise"
+        },
+        {
+            "rank": 6,
+            "name": "Kong/kong",
+            "description": "🦍 The API and AI Gateway",
+            "language": "Lua",
+            "stars": 43547,
+            "stars_today": 43547,
+            "url": "https://github.com/Kong/kong"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-08T22:20:55Z",
+    "updated": "2026-06-09T01:52:22Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-08T22:20:55Z",
+    "updated": "2026-06-09T01:52:22Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-08T22:20:55Z",
+    "updated": "2026-06-09T01:52:22Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "OpenAI Submits S-1 Draft to SEC",
-            "insight": "HN 热议：79 分 · 26 评论",
-            "sentiment": "neutral",
-            "comments": 26,
-            "url": "https://openai.com/index/openai-submits-confidential-s-1/",
+            "title": "Apple reveals new AI architecture built around Google Gemini models",
+            "insight": "HN 热议：329 分 · 315 评论",
+            "sentiment": "positive",
+            "comments": 315,
+            "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "Siri AI",
-            "insight": "HN 热议：288 分 · 214 评论",
+            "insight": "HN 热议：410 分 · 354 评论",
             "sentiment": "positive",
-            "comments": 214,
+            "comments": 354,
             "url": "https://www.apple.com/apple-intelligence/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Apple reveals new AI architecture built around Google Gemini models",
-            "insight": "HN 热议：276 分 · 232 评论",
-            "sentiment": "positive",
-            "comments": 232,
-            "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
+            "title": "Apple Core AI Framework",
+            "insight": "HN 热议：194 分 · 38 评论",
+            "sentiment": "neutral",
+            "comments": 38,
+            "url": "https://developer.apple.com/documentation/coreai/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Apple Core AI Framework",
-            "insight": "HN 热议：86 分 · 4 评论",
-            "sentiment": "neutral",
-            "comments": 4,
-            "url": "https://developer.apple.com/documentation/coreai/",
+            "title": "xAI is looking more like a datacentre REIT than a frontier lab",
+            "insight": "HN 热议：400 分 · 311 评论",
+            "sentiment": "positive",
+            "comments": 311,
+            "url": "https://martinalderson.com/posts/xais-new-rental-business/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "xAI is looking more like a datacentre REIT than a frontier lab",
-            "insight": "HN 热议：329 分 · 246 评论",
-            "sentiment": "positive",
-            "comments": 246,
-            "url": "https://martinalderson.com/posts/xais-new-rental-business/",
+            "title": "Hermes Agent – Open-Source AI Agent with Persistent Memory",
+            "insight": "HN 热议：6 分 · 0 评论",
+            "sentiment": "neutral",
+            "comments": 0,
+            "url": "https://hermes-agent.org/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-08T22:20:55Z",
+    "updated": "2026-06-09T01:52:22Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
