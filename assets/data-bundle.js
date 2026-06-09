@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-09T14:15:34Z",
+    "updated": "2026-06-09T17:15:41Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-09T14:15:34Z",
+    "updated": "2026-06-09T17:15:41Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,7 +266,7 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-09T14:15:34Z",
+    "updated": "2026-06-09T17:15:41Z",
     "repos": [
         {
             "rank": 1,
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163463,
-            "stars_today": 163463,
+            "stars": 163464,
+            "stars_today": 163464,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 81430,
-            "stars_today": 81430,
+            "stars": 81453,
+            "stars_today": 81453,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 76308,
-            "stars_today": 76308,
+            "stars": 76317,
+            "stars_today": 76317,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 53433,
-            "stars_today": 53433,
+            "stars": 53435,
+            "stars_today": 53435,
             "url": "https://github.com/FlowiseAI/Flowise"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "Kong/kong",
             "description": "🦍 The API and AI Gateway",
             "language": "Lua",
-            "stars": 43553,
-            "stars_today": 43553,
+            "stars": 43554,
+            "stars_today": 43554,
             "url": "https://github.com/Kong/kong"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-09T14:15:34Z",
+    "updated": "2026-06-09T17:15:41Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-09T14:15:34Z",
+    "updated": "2026-06-09T17:15:41Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-09T14:15:34Z",
+    "updated": "2026-06-09T17:15:41Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
-            "insight": "HN 热议：328 分 · 131 评论",
-            "sentiment": "positive",
-            "comments": 131,
-            "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
+            "title": "Claude Fable 5",
+            "insight": "HN 热议：173 分 · 49 评论",
+            "sentiment": "neutral",
+            "comments": 49,
+            "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Cleaning up after AI rockstar developers",
-            "insight": "HN 热议：146 分 · 80 评论",
+            "title": "System Card: Claude Fable 5 and Claude Mythos 5 [pdf]",
+            "insight": "HN 热议：50 分 · 8 评论",
             "sentiment": "neutral",
-            "comments": 80,
-            "url": "https://www.codingwithjesse.com/blog/rockstar-developers/",
+            "comments": 8,
+            "url": "https://www-cdn.anthropic.com/d00db56fa754a1b115b6dd7cb2e3c342ee809620.pdf",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Apple reveals new AI architecture built around Google Gemini models",
-            "insight": "HN 热议：660 分 · 510 评论",
+            "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
+            "insight": "HN 热议：429 分 · 159 评论",
             "sentiment": "positive",
-            "comments": 510,
-            "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
+            "comments": 159,
+            "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "xAI is looking more like a datacentre REIT than a frontier lab",
-            "insight": "HN 热议：613 分 · 483 评论",
-            "sentiment": "positive",
-            "comments": 483,
-            "url": "https://martinalderson.com/posts/xais-new-rental-business/",
+            "title": "Can LLMs Beat Classical Hyperparameter Optimization Algorithms?",
+            "insight": "HN 热议：54 分 · 6 评论",
+            "sentiment": "neutral",
+            "comments": 6,
+            "url": "https://arxiv.org/abs/2603.24647",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Siri AI",
-            "insight": "HN 热议：624 分 · 618 评论",
-            "sentiment": "positive",
-            "comments": 618,
-            "url": "https://www.apple.com/apple-intelligence/",
+            "title": "Is Grep All You Need? How Agent Harnesses Reshape Agentic Search",
+            "insight": "HN 热议：56 分 · 28 评论",
+            "sentiment": "neutral",
+            "comments": 28,
+            "url": "https://arxiv.org/abs/2605.15184",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-09T14:15:34Z",
+    "updated": "2026-06-09T17:15:41Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

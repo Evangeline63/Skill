@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-09T14:15:34Z",
+  "updated": "2026-06-09T17:15:41Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
-      "insight": "HN 热议：328 分 · 131 评论",
-      "sentiment": "positive",
-      "comments": 131,
-      "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
+      "title": "Claude Fable 5",
+      "insight": "HN 热议：173 分 · 49 评论",
+      "sentiment": "neutral",
+      "comments": 49,
+      "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Cleaning up after AI rockstar developers",
-      "insight": "HN 热议：146 分 · 80 评论",
+      "title": "System Card: Claude Fable 5 and Claude Mythos 5 [pdf]",
+      "insight": "HN 热议：50 分 · 8 评论",
       "sentiment": "neutral",
-      "comments": 80,
-      "url": "https://www.codingwithjesse.com/blog/rockstar-developers/",
+      "comments": 8,
+      "url": "https://www-cdn.anthropic.com/d00db56fa754a1b115b6dd7cb2e3c342ee809620.pdf",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Apple reveals new AI architecture built around Google Gemini models",
-      "insight": "HN 热议：660 分 · 510 评论",
+      "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
+      "insight": "HN 热议：429 分 · 159 评论",
       "sentiment": "positive",
-      "comments": 510,
-      "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
+      "comments": 159,
+      "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "xAI is looking more like a datacentre REIT than a frontier lab",
-      "insight": "HN 热议：613 分 · 483 评论",
-      "sentiment": "positive",
-      "comments": 483,
-      "url": "https://martinalderson.com/posts/xais-new-rental-business/",
+      "title": "Can LLMs Beat Classical Hyperparameter Optimization Algorithms?",
+      "insight": "HN 热议：54 分 · 6 评论",
+      "sentiment": "neutral",
+      "comments": 6,
+      "url": "https://arxiv.org/abs/2603.24647",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Siri AI",
-      "insight": "HN 热议：624 分 · 618 评论",
-      "sentiment": "positive",
-      "comments": 618,
-      "url": "https://www.apple.com/apple-intelligence/",
+      "title": "Is Grep All You Need? How Agent Harnesses Reshape Agentic Search",
+      "insight": "HN 热议：56 分 · 28 评论",
+      "sentiment": "neutral",
+      "comments": 28,
+      "url": "https://arxiv.org/abs/2605.15184",
       "id": 5
     }
   ]
