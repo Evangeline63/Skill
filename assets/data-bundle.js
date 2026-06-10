@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-10T02:03:48Z",
+    "updated": "2026-06-10T06:55:21Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-10T02:03:48Z",
+    "updated": "2026-06-10T06:55:21Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-10T02:03:48Z",
+    "updated": "2026-06-10T06:55:21Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184861,
-            "stars_today": 184861,
+            "stars": 184864,
+            "stars_today": 184864,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163477,
-            "stars_today": 163477,
+            "stars": 163493,
+            "stars_today": 163493,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 81494,
-            "stars_today": 81494,
+            "stars": 81511,
+            "stars_today": 81511,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 76336,
-            "stars_today": 76336,
+            "stars": 76357,
+            "stars_today": 76357,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 53439,
-            "stars_today": 53439,
+            "stars": 53446,
+            "stars_today": 53446,
             "url": "https://github.com/FlowiseAI/Flowise"
         },
         {
@@ -325,7 +325,7 @@ window.__DATA__ = {
     ]
 },
   "products": {
-    "updated": "2026-06-10T02:03:48Z",
+    "updated": "2026-06-10T06:55:21Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-10T02:03:48Z",
+    "updated": "2026-06-10T06:55:21Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-10T02:03:48Z",
+    "updated": "2026-06-10T06:55:21Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "macOS Container Machines",
-            "insight": "HN 热议：147 分 · 63 评论",
-            "sentiment": "neutral",
-            "comments": 63,
+            "insight": "HN 热议：572 分 · 209 评论",
+            "sentiment": "positive",
+            "comments": 209,
             "url": "https://github.com/apple/container/blob/main/docs/container-machine.md",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "Claude Fable 5",
-            "insight": "HN 热议：1800 分 · 1412 评论",
+            "insight": "HN 热议：2065 分 · 1593 评论",
             "sentiment": "positive",
-            "comments": 1412,
+            "comments": 1593,
             "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks",
-            "insight": "HN 热议：158 分 · 22 评论",
+            "title": "Rich Sutton on AI creativity and discovery",
+            "insight": "HN 热议：83 分 · 45 评论",
             "sentiment": "neutral",
-            "comments": 22,
-            "url": "https://aarushgupta.io/posts/kan-fpga/",
+            "comments": 45,
+            "url": "https://twitter.com/RichardSSutton/status/2061216087744946656",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "If Claude Fable stops helping you, you'll never know",
-            "insight": "HN 热议：499 分 · 240 评论",
+            "title": "German ruling declares Google liable for false answers in AI Overviews",
+            "insight": "HN 热议：348 分 · 209 评论",
             "sentiment": "positive",
-            "comments": 240,
-            "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
+            "comments": 209,
+            "url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Grit: Rewriting Git in Rust with agents",
-            "insight": "HN 热议：71 分 · 88 评论",
-            "sentiment": "neutral",
-            "comments": 88,
-            "url": "https://blog.gitbutler.com/true-grit",
+            "title": "Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks",
+            "insight": "HN 热议：208 分 · 29 评论",
+            "sentiment": "positive",
+            "comments": 29,
+            "url": "https://aarushgupta.io/posts/kan-fpga/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-10T02:03:48Z",
+    "updated": "2026-06-10T06:55:21Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
