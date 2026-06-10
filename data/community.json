@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-09T22:16:42Z",
+  "updated": "2026-06-10T02:03:48Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Claude Fable 5",
-      "insight": "HN 热议：1502 分 · 1177 评论",
-      "sentiment": "positive",
-      "comments": 1177,
-      "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+      "title": "macOS Container Machines",
+      "insight": "HN 热议：147 分 · 63 评论",
+      "sentiment": "neutral",
+      "comments": 63,
+      "url": "https://github.com/apple/container/blob/main/docs/container-machine.md",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks",
-      "insight": "HN 热议：108 分 · 14 评论",
-      "sentiment": "neutral",
-      "comments": 14,
-      "url": "https://aarushgupta.io/posts/kan-fpga/",
+      "title": "Claude Fable 5",
+      "insight": "HN 热议：1800 分 · 1412 评论",
+      "sentiment": "positive",
+      "comments": 1412,
+      "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "If Claude Fable stops helping you, you'll never know",
-      "insight": "HN 热议：104 分 · 35 评论",
+      "title": "Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks",
+      "insight": "HN 热议：158 分 · 22 评论",
       "sentiment": "neutral",
-      "comments": 35,
-      "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
+      "comments": 22,
+      "url": "https://aarushgupta.io/posts/kan-fpga/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Grit: Rewriting Git in Rust with Agents",
-      "insight": "HN 热议：12 分 · 0 评论",
-      "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://blog.gitbutler.com/true-grit",
+      "title": "If Claude Fable stops helping you, you'll never know",
+      "insight": "HN 热议：499 分 · 240 评论",
+      "sentiment": "positive",
+      "comments": 240,
+      "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
-      "insight": "HN 热议：514 分 · 175 评论",
-      "sentiment": "positive",
-      "comments": 175,
-      "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
+      "title": "Grit: Rewriting Git in Rust with agents",
+      "insight": "HN 热议：71 分 · 88 评论",
+      "sentiment": "neutral",
+      "comments": 88,
+      "url": "https://blog.gitbutler.com/true-grit",
       "id": 5
     }
   ]

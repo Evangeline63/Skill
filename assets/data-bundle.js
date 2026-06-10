@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-09T22:16:42Z",
+    "updated": "2026-06-10T02:03:48Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-09T22:16:42Z",
+    "updated": "2026-06-10T02:03:48Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-09T22:16:42Z",
+    "updated": "2026-06-10T02:03:48Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184862,
-            "stars_today": 184862,
+            "stars": 184861,
+            "stars_today": 184861,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163470,
-            "stars_today": 163470,
+            "stars": 163477,
+            "stars_today": 163477,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 81478,
-            "stars_today": 81478,
+            "stars": 81494,
+            "stars_today": 81494,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 76328,
-            "stars_today": 76328,
+            "stars": 76336,
+            "stars_today": 76336,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "Kong/kong",
             "description": "🦍 The API and AI Gateway",
             "language": "Lua",
-            "stars": 43555,
-            "stars_today": 43555,
+            "stars": 43554,
+            "stars_today": 43554,
             "url": "https://github.com/Kong/kong"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-09T22:16:42Z",
+    "updated": "2026-06-10T02:03:48Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-09T22:16:42Z",
+    "updated": "2026-06-10T02:03:48Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-09T22:16:42Z",
+    "updated": "2026-06-10T02:03:48Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Claude Fable 5",
-            "insight": "HN 热议：1502 分 · 1177 评论",
-            "sentiment": "positive",
-            "comments": 1177,
-            "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+            "title": "macOS Container Machines",
+            "insight": "HN 热议：147 分 · 63 评论",
+            "sentiment": "neutral",
+            "comments": 63,
+            "url": "https://github.com/apple/container/blob/main/docs/container-machine.md",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks",
-            "insight": "HN 热议：108 分 · 14 评论",
-            "sentiment": "neutral",
-            "comments": 14,
-            "url": "https://aarushgupta.io/posts/kan-fpga/",
+            "title": "Claude Fable 5",
+            "insight": "HN 热议：1800 分 · 1412 评论",
+            "sentiment": "positive",
+            "comments": 1412,
+            "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "If Claude Fable stops helping you, you'll never know",
-            "insight": "HN 热议：104 分 · 35 评论",
+            "title": "Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks",
+            "insight": "HN 热议：158 分 · 22 评论",
             "sentiment": "neutral",
-            "comments": 35,
-            "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
+            "comments": 22,
+            "url": "https://aarushgupta.io/posts/kan-fpga/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Grit: Rewriting Git in Rust with Agents",
-            "insight": "HN 热议：12 分 · 0 评论",
-            "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://blog.gitbutler.com/true-grit",
+            "title": "If Claude Fable stops helping you, you'll never know",
+            "insight": "HN 热议：499 分 · 240 评论",
+            "sentiment": "positive",
+            "comments": 240,
+            "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
-            "insight": "HN 热议：514 分 · 175 评论",
-            "sentiment": "positive",
-            "comments": 175,
-            "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
+            "title": "Grit: Rewriting Git in Rust with agents",
+            "insight": "HN 热议：71 分 · 88 评论",
+            "sentiment": "neutral",
+            "comments": 88,
+            "url": "https://blog.gitbutler.com/true-grit",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-09T22:16:42Z",
+    "updated": "2026-06-10T02:03:48Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

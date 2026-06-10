@@ -1,13 +1,13 @@
 {
-  "updated": "2026-06-09T22:16:42Z",
+  "updated": "2026-06-10T02:03:48Z",
   "repos": [
     {
       "rank": 1,
       "name": "Significant-Gravitas/AutoGPT",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
       "language": "Python",
-      "stars": 184862,
-      "stars_today": 184862,
+      "stars": 184861,
+      "stars_today": 184861,
       "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
@@ -15,8 +15,8 @@
       "name": "f/prompts.chat",
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
       "language": "HTML",
-      "stars": 163470,
-      "stars_today": 163470,
+      "stars": 163477,
+      "stars_today": 163477,
       "url": "https://github.com/f/prompts.chat"
     },
     {
@@ -24,8 +24,8 @@
       "name": "thedotmack/claude-mem",
       "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
       "language": "JavaScript",
-      "stars": 81478,
-      "stars_today": 81478,
+      "stars": 81494,
+      "stars_today": 81494,
       "url": "https://github.com/thedotmack/claude-mem"
     },
     {
@@ -33,8 +33,8 @@
       "name": "OpenHands/OpenHands",
       "description": "🙌 OpenHands: AI-Driven Development",
       "language": "Python",
-      "stars": 76328,
-      "stars_today": 76328,
+      "stars": 76336,
+      "stars_today": 76336,
       "url": "https://github.com/OpenHands/OpenHands"
     },
     {
@@ -51,8 +51,8 @@
       "name": "Kong/kong",
       "description": "🦍 The API and AI Gateway",
       "language": "Lua",
-      "stars": 43555,
-      "stars_today": 43555,
+      "stars": 43554,
+      "stars_today": 43554,
       "url": "https://github.com/Kong/kong"
     }
   ]
