@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-10T06:55:21Z",
+    "updated": "2026-06-10T12:11:49Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-10T06:55:21Z",
+    "updated": "2026-06-10T12:11:49Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-10T06:55:21Z",
+    "updated": "2026-06-10T12:11:49Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184864,
-            "stars_today": 184864,
+            "stars": 184875,
+            "stars_today": 184875,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163493,
-            "stars_today": 163493,
+            "stars": 163508,
+            "stars_today": 163508,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 81511,
-            "stars_today": 81511,
+            "stars": 81548,
+            "stars_today": 81548,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 76357,
-            "stars_today": 76357,
+            "stars": 76376,
+            "stars_today": 76376,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 53446,
-            "stars_today": 53446,
+            "stars": 53451,
+            "stars_today": 53451,
             "url": "https://github.com/FlowiseAI/Flowise"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "Kong/kong",
             "description": "🦍 The API and AI Gateway",
             "language": "Lua",
-            "stars": 43554,
-            "stars_today": 43554,
+            "stars": 43558,
+            "stars_today": 43558,
             "url": "https://github.com/Kong/kong"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-10T06:55:21Z",
+    "updated": "2026-06-10T12:11:49Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-10T06:55:21Z",
+    "updated": "2026-06-10T12:11:49Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-10T06:55:21Z",
+    "updated": "2026-06-10T12:11:49Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "macOS Container Machines",
-            "insight": "HN 热议：572 分 · 209 评论",
+            "insight": "HN 热议：858 分 · 309 评论",
             "sentiment": "positive",
-            "comments": 209,
+            "comments": 309,
             "url": "https://github.com/apple/container/blob/main/docs/container-machine.md",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "Claude Fable 5",
-            "insight": "HN 热议：2065 分 · 1593 评论",
+            "insight": "HN 热议：2324 分 · 1806 评论",
             "sentiment": "positive",
-            "comments": 1593,
+            "comments": 1806,
             "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Rich Sutton on AI creativity and discovery",
-            "insight": "HN 热议：83 分 · 45 评论",
+            "title": "AWS Bedrock to require sharing data with Anthropic for Mythos and future models",
+            "insight": "HN 热议：139 分 · 73 评论",
             "sentiment": "neutral",
-            "comments": 45,
-            "url": "https://twitter.com/RichardSSutton/status/2061216087744946656",
+            "comments": 73,
+            "url": "https://news.ycombinator.com/item?id=48473166",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "German ruling declares Google liable for false answers in AI Overviews",
-            "insight": "HN 热议：348 分 · 209 评论",
-            "sentiment": "positive",
-            "comments": 209,
-            "url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
+            "title": "Rich Sutton on AI creativity and discovery",
+            "insight": "HN 热议：144 分 · 75 评论",
+            "sentiment": "neutral",
+            "comments": 75,
+            "url": "https://twitter.com/RichardSSutton/status/2061216087744946656",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks",
-            "insight": "HN 热议：208 分 · 29 评论",
+            "title": "German ruling declares Google liable for false answers in AI Overviews",
+            "insight": "HN 热议：665 分 · 376 评论",
             "sentiment": "positive",
-            "comments": 29,
-            "url": "https://aarushgupta.io/posts/kan-fpga/",
+            "comments": 376,
+            "url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-10T06:55:21Z",
+    "updated": "2026-06-10T12:11:49Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
