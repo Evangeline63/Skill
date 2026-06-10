@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-10T17:48:35Z",
+    "updated": "2026-06-10T20:05:04Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-10T17:48:35Z",
+    "updated": "2026-06-10T20:05:04Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-10T17:48:35Z",
+    "updated": "2026-06-10T20:05:04Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184874,
-            "stars_today": 184874,
+            "stars": 184876,
+            "stars_today": 184876,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163520,
-            "stars_today": 163520,
+            "stars": 163523,
+            "stars_today": 163523,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 81599,
-            "stars_today": 81599,
+            "stars": 81610,
+            "stars_today": 81610,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 76392,
-            "stars_today": 76392,
+            "stars": 76400,
+            "stars_today": 76400,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 53459,
-            "stars_today": 53459,
+            "stars": 53460,
+            "stars_today": 53460,
             "url": "https://github.com/FlowiseAI/Flowise"
         },
         {
@@ -325,7 +325,7 @@ window.__DATA__ = {
     ]
 },
   "products": {
-    "updated": "2026-06-10T17:48:35Z",
+    "updated": "2026-06-10T20:05:04Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-10T17:48:35Z",
+    "updated": "2026-06-10T20:05:04Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-10T17:48:35Z",
+    "updated": "2026-06-10T20:05:04Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Apache Burr: Build reliable AI agents and applications",
-            "insight": "HN 热议：87 分 · 57 评论",
+            "title": "Claude Desktop spins up a VM without no way of stopping it",
+            "insight": "HN 热议：191 分 · 109 评论",
             "sentiment": "neutral",
-            "comments": 57,
-            "url": "https://burr.apache.org/",
+            "comments": 109,
+            "url": "https://github.com/anthropics/claude-code/issues/29045",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "macOS Container Machines",
-            "insight": "HN 热议：1101 分 · 383 评论",
-            "sentiment": "positive",
-            "comments": 383,
-            "url": "https://github.com/apple/container/blob/main/docs/container-machine.md",
+            "title": "Anthropic's Model Naming, Extrapolated",
+            "insight": "HN 热议：66 分 · 16 评论",
+            "sentiment": "neutral",
+            "comments": 16,
+            "url": "https://samwilkinson.io/posts/2026-06-09-anthropics-model-naming-extrapolated",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "All 9,300 Japanese train station, animated by the year it opened (1872–2026)",
-            "insight": "HN 热议：129 分 · 45 评论",
+            "title": "L'Affaire Siloxane",
+            "insight": "HN 热议：52 分 · 10 评论",
             "sentiment": "neutral",
-            "comments": 45,
-            "url": "https://jivx.com/eki",
+            "comments": 10,
+            "url": "https://mceglowski.substack.com/p/laffaire-siloxane",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Buy a train, bridge or tracks from the Swiss Railway",
-            "insight": "HN 热议：130 分 · 62 评论",
+            "title": "Policy on the AI Exponential",
+            "insight": "HN 热议：68 分 · 54 评论",
             "sentiment": "neutral",
-            "comments": 62,
-            "url": "https://sbbresale.ch/",
+            "comments": 54,
+            "url": "https://darioamodei.com/post/policy-on-the-ai-exponential",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "DiffusionGemma: 4x Faster Text Generation",
-            "insight": "HN 热议：96 分 · 21 评论",
+            "title": "Show HN: HelixDB – A graph database built on object storage",
+            "insight": "HN 热议：46 分 · 24 评论",
             "sentiment": "neutral",
-            "comments": 21,
-            "url": "https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/",
+            "comments": 24,
+            "url": "https://github.com/HelixDB/helix-db/tree/main",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-10T17:48:35Z",
+    "updated": "2026-06-10T20:05:04Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
