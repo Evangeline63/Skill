@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-11T20:19:31Z",
+    "updated": "2026-06-11T22:45:16Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-11T20:19:31Z",
+    "updated": "2026-06-11T22:45:16Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-11T20:19:31Z",
+    "updated": "2026-06-11T22:45:16Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184886,
-            "stars_today": 184886,
+            "stars": 184887,
+            "stars_today": 184887,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163581,
-            "stars_today": 163581,
+            "stars": 163584,
+            "stars_today": 163584,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 81813,
-            "stars_today": 81813,
+            "stars": 81824,
+            "stars_today": 81824,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 76477,
-            "stars_today": 76477,
+            "stars": 76488,
+            "stars_today": 76488,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "microsoft/AI-For-Beginners",
             "description": "12 Weeks, 24 Lessons, AI for All!",
             "language": "Jupyter Notebook",
-            "stars": 48074,
-            "stars_today": 48074,
+            "stars": 48075,
+            "stars_today": 48075,
             "url": "https://github.com/microsoft/AI-For-Beginners"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-11T20:19:31Z",
+    "updated": "2026-06-11T22:45:16Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-11T20:19:31Z",
+    "updated": "2026-06-11T22:45:16Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-11T20:19:31Z",
+    "updated": "2026-06-11T22:45:16Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Ear Training Practice Exercises",
-            "insight": "HN 热议：38 分 · 24 评论",
+            "title": "Shall we play a game? – LLMs use tactical nukes in 95% of simulations",
+            "insight": "HN 热议：129 分 · 114 评论",
             "sentiment": "neutral",
-            "comments": 24,
-            "url": "https://tonedear.com/",
+            "comments": 114,
+            "url": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Pokémon Go Scans Trained the Navigation Tech for Military Drones",
-            "insight": "HN 热议：641 分 · 296 评论",
-            "sentiment": "positive",
-            "comments": 296,
-            "url": "https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/",
+            "title": "Ear Training Practice Exercises",
+            "insight": "HN 热议：108 分 · 63 评论",
+            "sentiment": "neutral",
+            "comments": 63,
+            "url": "https://tonedear.com/",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "Claude Fable 5: mid-tier results on coding tasks",
-            "insight": "HN 热议：73 分 · 20 评论",
+            "insight": "HN 热议：165 分 · 64 评论",
             "sentiment": "neutral",
-            "comments": 20,
+            "comments": 64,
             "url": "https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Building agents without harness engineering",
-            "insight": "HN 热议：8 分 · 0 评论",
+            "title": "Show HN: Claw Patrol, a security firewall for agents",
+            "insight": "HN 热议：76 分 · 26 评论",
             "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://rajitkhanna.com/agents/",
+            "comments": 26,
+            "url": "https://github.com/denoland/clawpatrol",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "How Terry Tao became an evangelist for AI in math",
-            "insight": "HN 热议：88 分 · 58 评论",
+            "title": "Show HN: TunnelMind – reputation API for IPs, ASNs, and ad-tech supply chains",
+            "insight": "HN 热议：3 分 · 0 评论",
             "sentiment": "neutral",
-            "comments": 58,
-            "url": "https://www.quantamagazine.org/how-terry-tao-became-an-evangelist-for-ai-in-math-20260608/",
+            "comments": 0,
+            "url": "https://tunnelmind.ai/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-11T20:19:31Z",
+    "updated": "2026-06-11T22:45:16Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
