@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-11T07:19:58Z",
+    "updated": "2026-06-11T12:34:53Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-11T07:19:58Z",
+    "updated": "2026-06-11T12:34:53Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-11T07:19:58Z",
+    "updated": "2026-06-11T12:34:53Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184890,
-            "stars_today": 184890,
+            "stars": 184887,
+            "stars_today": 184887,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163545,
-            "stars_today": 163545,
+            "stars": 163568,
+            "stars_today": 163568,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 81707,
-            "stars_today": 81707,
+            "stars": 81749,
+            "stars_today": 81749,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 76439,
-            "stars_today": 76439,
+            "stars": 76454,
+            "stars_today": 76454,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 53467,
-            "stars_today": 53467,
+            "stars": 53482,
+            "stars_today": 53482,
             "url": "https://github.com/FlowiseAI/Flowise"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "microsoft/AI-For-Beginners",
             "description": "12 Weeks, 24 Lessons, AI for All!",
             "language": "Jupyter Notebook",
-            "stars": 48059,
-            "stars_today": 48059,
+            "stars": 48066,
+            "stars_today": 48066,
             "url": "https://github.com/microsoft/AI-For-Beginners"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-11T07:19:58Z",
+    "updated": "2026-06-11T12:34:53Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-11T07:19:58Z",
+    "updated": "2026-06-11T12:34:53Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-11T07:19:58Z",
+    "updated": "2026-06-11T12:34:53Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Pokémon Go Scans Trained the Navigation Tech for Military Drones",
-            "insight": "HN 热议：40 分 · 6 评论",
-            "sentiment": "neutral",
-            "comments": 6,
+            "insight": "HN 热议：392 分 · 167 评论",
+            "sentiment": "positive",
+            "comments": 167,
             "url": "https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "AI agent runs amok in Fedora and elsewhere",
-            "insight": "HN 热议：346 分 · 112 评论",
+            "insight": "HN 热议：449 分 · 202 评论",
             "sentiment": "positive",
-            "comments": 112,
+            "comments": 202,
             "url": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
-            "insight": "HN 热议：381 分 · 343 评论",
-            "sentiment": "positive",
-            "comments": 343,
-            "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+            "title": "Build a Basic AI Agent from Scratch: Long Task Planning",
+            "insight": "HN 热议：51 分 · 13 评论",
+            "sentiment": "neutral",
+            "comments": 13,
+            "url": "https://medium.com/@rogi23696/build-a-basic-ai-agent-from-scratch-long-task-planning-14e803f9bd6d",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Anthropic requires 30 day data retention for Fable and Mythos",
-            "insight": "HN 热议：369 分 · 170 评论",
+            "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
+            "insight": "HN 热议：486 分 · 427 评论",
             "sentiment": "positive",
-            "comments": 170,
-            "url": "https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models",
+            "comments": 427,
+            "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Klondike Solitaire game for curses in 5k of C",
-            "insight": "HN 热议：64 分 · 6 评论",
-            "sentiment": "neutral",
-            "comments": 6,
-            "url": "https://nanochess.org/klondike_in_c.html",
+            "title": "Anthropic requires 30 day data retention for Fable and Mythos",
+            "insight": "HN 热议：483 分 · 248 评论",
+            "sentiment": "positive",
+            "comments": 248,
+            "url": "https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-11T07:19:58Z",
+    "updated": "2026-06-11T12:34:53Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
