@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-11T02:15:18Z",
+  "updated": "2026-06-11T07:19:58Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "AI agent runs amok in Fedora and elsewhere",
-      "insight": "HN 热议：104 分 · 16 评论",
+      "title": "Pokémon Go Scans Trained the Navigation Tech for Military Drones",
+      "insight": "HN 热议：40 分 · 6 评论",
       "sentiment": "neutral",
-      "comments": 16,
-      "url": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
+      "comments": 6,
+      "url": "https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
-      "insight": "HN 热议：228 分 · 215 评论",
+      "title": "AI agent runs amok in Fedora and elsewhere",
+      "insight": "HN 热议：346 分 · 112 评论",
       "sentiment": "positive",
-      "comments": 215,
-      "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+      "comments": 112,
+      "url": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Anthropic requires 30 day data retention for Fable and Mythos",
-      "insight": "HN 热议：197 分 · 76 评论",
-      "sentiment": "neutral",
-      "comments": 76,
-      "url": "https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models",
+      "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
+      "insight": "HN 热议：381 分 · 343 评论",
+      "sentiment": "positive",
+      "comments": 343,
+      "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Klondike Solitaire game for curses in 5k of C",
-      "insight": "HN 热议：13 分 · 0 评论",
-      "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://nanochess.org/klondike_in_c.html",
+      "title": "Anthropic requires 30 day data retention for Fable and Mythos",
+      "insight": "HN 热议：369 分 · 170 评论",
+      "sentiment": "positive",
+      "comments": 170,
+      "url": "https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "L'Affaire Siloxane",
-      "insight": "HN 热议：157 分 · 25 评论",
+      "title": "Klondike Solitaire game for curses in 5k of C",
+      "insight": "HN 热议：64 分 · 6 评论",
       "sentiment": "neutral",
-      "comments": 25,
-      "url": "https://mceglowski.substack.com/p/laffaire-siloxane",
+      "comments": 6,
+      "url": "https://nanochess.org/klondike_in_c.html",
       "id": 5
     }
   ]
