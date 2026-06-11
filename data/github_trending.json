@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-11T12:34:53Z",
+  "updated": "2026-06-11T17:59:04Z",
   "repos": [
     {
       "rank": 1,
@@ -15,8 +15,8 @@
       "name": "f/prompts.chat",
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
       "language": "HTML",
-      "stars": 163568,
-      "stars_today": 163568,
+      "stars": 163577,
+      "stars_today": 163577,
       "url": "https://github.com/f/prompts.chat"
     },
     {
@@ -24,8 +24,8 @@
       "name": "thedotmack/claude-mem",
       "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
       "language": "JavaScript",
-      "stars": 81749,
-      "stars_today": 81749,
+      "stars": 81796,
+      "stars_today": 81796,
       "url": "https://github.com/thedotmack/claude-mem"
     },
     {
@@ -33,8 +33,8 @@
       "name": "OpenHands/OpenHands",
       "description": "🙌 OpenHands: AI-Driven Development",
       "language": "Python",
-      "stars": 76454,
-      "stars_today": 76454,
+      "stars": 76472,
+      "stars_today": 76472,
       "url": "https://github.com/OpenHands/OpenHands"
     },
     {
@@ -42,8 +42,8 @@
       "name": "FlowiseAI/Flowise",
       "description": "Build AI Agents, Visually",
       "language": "TypeScript",
-      "stars": 53482,
-      "stars_today": 53482,
+      "stars": 53485,
+      "stars_today": 53485,
       "url": "https://github.com/FlowiseAI/Flowise"
     },
     {
@@ -51,8 +51,8 @@
       "name": "microsoft/AI-For-Beginners",
       "description": "12 Weeks, 24 Lessons, AI for All!",
       "language": "Jupyter Notebook",
-      "stars": 48066,
-      "stars_today": 48066,
+      "stars": 48072,
+      "stars_today": 48072,
       "url": "https://github.com/microsoft/AI-For-Beginners"
     }
   ]

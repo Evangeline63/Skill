@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-11T12:34:53Z",
+    "updated": "2026-06-11T17:59:04Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-11T12:34:53Z",
+    "updated": "2026-06-11T17:59:04Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,7 +266,7 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-11T12:34:53Z",
+    "updated": "2026-06-11T17:59:04Z",
     "repos": [
         {
             "rank": 1,
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163568,
-            "stars_today": 163568,
+            "stars": 163577,
+            "stars_today": 163577,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 81749,
-            "stars_today": 81749,
+            "stars": 81796,
+            "stars_today": 81796,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 76454,
-            "stars_today": 76454,
+            "stars": 76472,
+            "stars_today": 76472,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 53482,
-            "stars_today": 53482,
+            "stars": 53485,
+            "stars_today": 53485,
             "url": "https://github.com/FlowiseAI/Flowise"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "microsoft/AI-For-Beginners",
             "description": "12 Weeks, 24 Lessons, AI for All!",
             "language": "Jupyter Notebook",
-            "stars": 48066,
-            "stars_today": 48066,
+            "stars": 48072,
+            "stars_today": 48072,
             "url": "https://github.com/microsoft/AI-For-Beginners"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-11T12:34:53Z",
+    "updated": "2026-06-11T17:59:04Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-11T12:34:53Z",
+    "updated": "2026-06-11T17:59:04Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-11T12:34:53Z",
+    "updated": "2026-06-11T17:59:04Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Pokémon Go Scans Trained the Navigation Tech for Military Drones",
-            "insight": "HN 热议：392 分 · 167 评论",
-            "sentiment": "positive",
-            "comments": 167,
-            "url": "https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/",
+            "title": "Anthropic apologizes for invisible Claude Fable guardrails",
+            "insight": "HN 热议：155 分 · 146 评论",
+            "sentiment": "neutral",
+            "comments": 146,
+            "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "AI agent runs amok in Fedora and elsewhere",
-            "insight": "HN 热议：449 分 · 202 评论",
+            "title": "Pokémon Go Scans Trained the Navigation Tech for Military Drones",
+            "insight": "HN 热议：602 分 · 278 评论",
             "sentiment": "positive",
-            "comments": 202,
-            "url": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
+            "comments": 278,
+            "url": "https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Build a Basic AI Agent from Scratch: Long Task Planning",
-            "insight": "HN 热议：51 分 · 13 评论",
+            "title": "Show HN: Claw Patrol, a security firewall for agents",
+            "insight": "HN 热议：38 分 · 10 评论",
             "sentiment": "neutral",
-            "comments": 13,
-            "url": "https://medium.com/@rogi23696/build-a-basic-ai-agent-from-scratch-long-task-planning-14e803f9bd6d",
+            "comments": 10,
+            "url": "https://github.com/denoland/clawpatrol",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
-            "insight": "HN 热议：486 分 · 427 评论",
-            "sentiment": "positive",
-            "comments": 427,
-            "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+            "title": "How Terry Tao became an evangelist for AI in math",
+            "insight": "HN 热议：47 分 · 20 评论",
+            "sentiment": "neutral",
+            "comments": 20,
+            "url": "https://www.quantamagazine.org/how-terry-tao-became-an-evangelist-for-ai-in-math-20260608/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Anthropic requires 30 day data retention for Fable and Mythos",
-            "insight": "HN 热议：483 分 · 248 评论",
-            "sentiment": "positive",
-            "comments": 248,
-            "url": "https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models",
+            "title": "Ask HN: How do you get into a flow state when using AI to code?",
+            "insight": "HN 热议：47 分 · 74 评论",
+            "sentiment": "neutral",
+            "comments": 74,
+            "url": "https://news.ycombinator.com/item?id=48492118",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-11T12:34:53Z",
+    "updated": "2026-06-11T17:59:04Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
