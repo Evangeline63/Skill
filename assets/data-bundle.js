@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-10T22:45:02Z",
+    "updated": "2026-06-11T02:15:18Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-10T22:45:02Z",
+    "updated": "2026-06-11T02:15:18Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-10T22:45:02Z",
+    "updated": "2026-06-11T02:15:18Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184877,
-            "stars_today": 184877,
+            "stars": 184886,
+            "stars_today": 184886,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163529,
-            "stars_today": 163529,
+            "stars": 163535,
+            "stars_today": 163535,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 81630,
-            "stars_today": 81630,
+            "stars": 81659,
+            "stars_today": 81659,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 76403,
-            "stars_today": 76403,
+            "stars": 76413,
+            "stars_today": 76413,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 53459,
-            "stars_today": 53459,
+            "stars": 53463,
+            "stars_today": 53463,
             "url": "https://github.com/FlowiseAI/Flowise"
         },
         {
@@ -325,7 +325,7 @@ window.__DATA__ = {
     ]
 },
   "products": {
-    "updated": "2026-06-10T22:45:02Z",
+    "updated": "2026-06-11T02:15:18Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-10T22:45:02Z",
+    "updated": "2026-06-11T02:15:18Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-10T22:45:02Z",
+    "updated": "2026-06-11T02:15:18Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
-            "insight": "HN 热议：19 分 · 16 评论",
+            "title": "AI agent runs amok in Fedora and elsewhere",
+            "insight": "HN 热议：104 分 · 16 评论",
             "sentiment": "neutral",
             "comments": 16,
-            "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+            "url": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "L'Affaire Siloxane",
-            "insight": "HN 热议：115 分 · 18 评论",
-            "sentiment": "neutral",
-            "comments": 18,
-            "url": "https://mceglowski.substack.com/p/laffaire-siloxane",
+            "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
+            "insight": "HN 热议：228 分 · 215 评论",
+            "sentiment": "positive",
+            "comments": 215,
+            "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "Anthropic requires 30 day data retention for Fable and Mythos",
-            "insight": "HN 热议：30 分 · 5 评论",
+            "insight": "HN 热议：197 分 · 76 评论",
             "sentiment": "neutral",
-            "comments": 5,
+            "comments": 76,
             "url": "https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: HelixDB – A graph database built on object storage",
-            "insight": "HN 热议：78 分 · 29 评论",
+            "title": "Klondike Solitaire game for curses in 5k of C",
+            "insight": "HN 热议：13 分 · 0 评论",
             "sentiment": "neutral",
-            "comments": 29,
-            "url": "https://github.com/HelixDB/helix-db/tree/main",
+            "comments": 0,
+            "url": "https://nanochess.org/klondike_in_c.html",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Claude Desktop spawns 1.8 GB Hyper-V VM on every launch, even for chat-only use",
-            "insight": "HN 热议：299 分 · 203 评论",
-            "sentiment": "positive",
-            "comments": 203,
-            "url": "https://github.com/anthropics/claude-code/issues/29045",
+            "title": "L'Affaire Siloxane",
+            "insight": "HN 热议：157 分 · 25 评论",
+            "sentiment": "neutral",
+            "comments": 25,
+            "url": "https://mceglowski.substack.com/p/laffaire-siloxane",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-10T22:45:02Z",
+    "updated": "2026-06-11T02:15:18Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
