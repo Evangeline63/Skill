@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-11T22:45:16Z",
+  "updated": "2026-06-12T02:10:53Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Shall we play a game? – LLMs use tactical nukes in 95% of simulations",
-      "insight": "HN 热议：129 分 · 114 评论",
+      "title": "Claude Fable is relentlessly proactive",
+      "insight": "HN 热议：34 分 · 15 评论",
       "sentiment": "neutral",
-      "comments": 114,
-      "url": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
+      "comments": 15,
+      "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Ear Training Practice Exercises",
-      "insight": "HN 热议：108 分 · 63 评论",
-      "sentiment": "neutral",
-      "comments": 63,
-      "url": "https://tonedear.com/",
+      "title": "Anthropic apologizes for invisible Claude Fable guardrails",
+      "insight": "HN 热议：321 分 · 311 评论",
+      "sentiment": "positive",
+      "comments": 311,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Claude Fable 5: mid-tier results on coding tasks",
-      "insight": "HN 热议：165 分 · 64 评论",
+      "title": "A jacket that harvests drinking water from the air",
+      "insight": "HN 热议：38 分 · 24 评论",
       "sentiment": "neutral",
-      "comments": 64,
-      "url": "https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype",
+      "comments": 24,
+      "url": "https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Claw Patrol, a security firewall for agents",
-      "insight": "HN 热议：76 分 · 26 评论",
+      "title": "Ear Training Practice",
+      "insight": "HN 热议：159 分 · 84 评论",
       "sentiment": "neutral",
-      "comments": 26,
-      "url": "https://github.com/denoland/clawpatrol",
+      "comments": 84,
+      "url": "https://tonedear.com/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: TunnelMind – reputation API for IPs, ASNs, and ad-tech supply chains",
-      "insight": "HN 热议：3 分 · 0 评论",
+      "title": "Making a vintage LLM from scratch",
+      "insight": "HN 热议：24 分 · 3 评论",
       "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://tunnelmind.ai/",
+      "comments": 3,
+      "url": "https://crlf.link/log/entries/260525-1/",
       "id": 5
     }
   ]

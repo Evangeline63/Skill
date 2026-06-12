@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-11T22:45:16Z",
+    "updated": "2026-06-12T02:10:53Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-11T22:45:16Z",
+    "updated": "2026-06-12T02:10:53Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-11T22:45:16Z",
+    "updated": "2026-06-12T02:10:53Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184887,
-            "stars_today": 184887,
+            "stars": 184889,
+            "stars_today": 184889,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163584,
-            "stars_today": 163584,
+            "stars": 163591,
+            "stars_today": 163591,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 81824,
-            "stars_today": 81824,
+            "stars": 81851,
+            "stars_today": 81851,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 76488,
-            "stars_today": 76488,
+            "stars": 76500,
+            "stars_today": 76500,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 53487,
-            "stars_today": 53487,
+            "stars": 53493,
+            "stars_today": 53493,
             "url": "https://github.com/FlowiseAI/Flowise"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "microsoft/AI-For-Beginners",
             "description": "12 Weeks, 24 Lessons, AI for All!",
             "language": "Jupyter Notebook",
-            "stars": 48075,
-            "stars_today": 48075,
+            "stars": 48076,
+            "stars_today": 48076,
             "url": "https://github.com/microsoft/AI-For-Beginners"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-11T22:45:16Z",
+    "updated": "2026-06-12T02:10:53Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-11T22:45:16Z",
+    "updated": "2026-06-12T02:10:53Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-11T22:45:16Z",
+    "updated": "2026-06-12T02:10:53Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Shall we play a game? – LLMs use tactical nukes in 95% of simulations",
-            "insight": "HN 热议：129 分 · 114 评论",
+            "title": "Claude Fable is relentlessly proactive",
+            "insight": "HN 热议：34 分 · 15 评论",
             "sentiment": "neutral",
-            "comments": 114,
-            "url": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
+            "comments": 15,
+            "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Ear Training Practice Exercises",
-            "insight": "HN 热议：108 分 · 63 评论",
-            "sentiment": "neutral",
-            "comments": 63,
-            "url": "https://tonedear.com/",
+            "title": "Anthropic apologizes for invisible Claude Fable guardrails",
+            "insight": "HN 热议：321 分 · 311 评论",
+            "sentiment": "positive",
+            "comments": 311,
+            "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Claude Fable 5: mid-tier results on coding tasks",
-            "insight": "HN 热议：165 分 · 64 评论",
+            "title": "A jacket that harvests drinking water from the air",
+            "insight": "HN 热议：38 分 · 24 评论",
             "sentiment": "neutral",
-            "comments": 64,
-            "url": "https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype",
+            "comments": 24,
+            "url": "https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Claw Patrol, a security firewall for agents",
-            "insight": "HN 热议：76 分 · 26 评论",
+            "title": "Ear Training Practice",
+            "insight": "HN 热议：159 分 · 84 评论",
             "sentiment": "neutral",
-            "comments": 26,
-            "url": "https://github.com/denoland/clawpatrol",
+            "comments": 84,
+            "url": "https://tonedear.com/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: TunnelMind – reputation API for IPs, ASNs, and ad-tech supply chains",
-            "insight": "HN 热议：3 分 · 0 评论",
+            "title": "Making a vintage LLM from scratch",
+            "insight": "HN 热议：24 分 · 3 评论",
             "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://tunnelmind.ai/",
+            "comments": 3,
+            "url": "https://crlf.link/log/entries/260525-1/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-11T22:45:16Z",
+    "updated": "2026-06-12T02:10:53Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
