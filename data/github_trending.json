@@ -1,13 +1,13 @@
 {
-  "updated": "2026-06-12T02:10:53Z",
+  "updated": "2026-06-12T07:09:52Z",
   "repos": [
     {
       "rank": 1,
       "name": "Significant-Gravitas/AutoGPT",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
       "language": "Python",
-      "stars": 184889,
-      "stars_today": 184889,
+      "stars": 184897,
+      "stars_today": 184897,
       "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
@@ -15,8 +15,8 @@
       "name": "f/prompts.chat",
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
       "language": "HTML",
-      "stars": 163591,
-      "stars_today": 163591,
+      "stars": 163602,
+      "stars_today": 163602,
       "url": "https://github.com/f/prompts.chat"
     },
     {
@@ -24,8 +24,8 @@
       "name": "thedotmack/claude-mem",
       "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
       "language": "JavaScript",
-      "stars": 81851,
-      "stars_today": 81851,
+      "stars": 81883,
+      "stars_today": 81883,
       "url": "https://github.com/thedotmack/claude-mem"
     },
     {
@@ -33,8 +33,8 @@
       "name": "OpenHands/OpenHands",
       "description": "🙌 OpenHands: AI-Driven Development",
       "language": "Python",
-      "stars": 76500,
-      "stars_today": 76500,
+      "stars": 76536,
+      "stars_today": 76536,
       "url": "https://github.com/OpenHands/OpenHands"
     },
     {
@@ -42,8 +42,8 @@
       "name": "FlowiseAI/Flowise",
       "description": "Build AI Agents, Visually",
       "language": "TypeScript",
-      "stars": 53493,
-      "stars_today": 53493,
+      "stars": 53503,
+      "stars_today": 53503,
       "url": "https://github.com/FlowiseAI/Flowise"
     },
     {
@@ -51,8 +51,8 @@
       "name": "microsoft/AI-For-Beginners",
       "description": "12 Weeks, 24 Lessons, AI for All!",
       "language": "Jupyter Notebook",
-      "stars": 48076,
-      "stars_today": 48076,
+      "stars": 48081,
+      "stars_today": 48081,
       "url": "https://github.com/microsoft/AI-For-Beginners"
     }
   ]
