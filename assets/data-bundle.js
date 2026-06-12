@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-12T19:48:40Z",
+    "updated": "2026-06-12T22:16:52Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-12T19:48:40Z",
+    "updated": "2026-06-12T22:16:52Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-12T19:48:40Z",
+    "updated": "2026-06-12T22:16:52Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184914,
-            "stars_today": 184914,
+            "stars": 184913,
+            "stars_today": 184913,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 81985,
-            "stars_today": 81985,
+            "stars": 81994,
+            "stars_today": 81994,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 76626,
-            "stars_today": 76626,
+            "stars": 76642,
+            "stars_today": 76642,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 53523,
-            "stars_today": 53523,
+            "stars": 53524,
+            "stars_today": 53524,
             "url": "https://github.com/FlowiseAI/Flowise"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "microsoft/AI-For-Beginners",
             "description": "12 Weeks, 24 Lessons, AI for All!",
             "language": "Jupyter Notebook",
-            "stars": 48095,
-            "stars_today": 48095,
+            "stars": 48099,
+            "stars_today": 48099,
             "url": "https://github.com/microsoft/AI-For-Beginners"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-12T19:48:40Z",
+    "updated": "2026-06-12T22:16:52Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-12T19:48:40Z",
+    "updated": "2026-06-12T22:16:52Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-12T19:48:40Z",
+    "updated": "2026-06-12T22:16:52Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "How to Setup a Local Coding Agent on macOS",
-            "insight": "HN 热议：87 分 · 27 评论",
+            "title": "Mmorpg World of ClaudeCraft, vibe coded with Fable 5",
+            "insight": "HN 热议：42 分 · 31 评论",
             "sentiment": "neutral",
-            "comments": 27,
-            "url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
+            "comments": 31,
+            "url": "https://worldofclaudecraft.com/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Slightly reducing the sloppiness of AI generated front end",
-            "insight": "HN 热议：126 分 · 81 评论",
+            "title": "How to setup a local coding agent on macOS",
+            "insight": "HN 热议：174 分 · 57 评论",
             "sentiment": "neutral",
-            "comments": 81,
-            "url": "https://envs.net/~volpe/blog/posts/reduce-slop.html",
+            "comments": 57,
+            "url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents",
-            "insight": "HN 热议：18 分 · 8 评论",
+            "title": "Palantir loses legal challenge against Swiss investigative magazine",
+            "insight": "HN 热议：85 分 · 12 评论",
             "sentiment": "neutral",
-            "comments": 8,
-            "url": "https://bitboard.work/",
+            "comments": 12,
+            "url": "https://www.ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "There Is Life Before Main in Rust",
-            "insight": "HN 热议：39 分 · 12 评论",
+            "title": "Slightly reducing the sloppiness of AI generated front end",
+            "insight": "HN 热议：149 分 · 102 评论",
             "sentiment": "neutral",
-            "comments": 12,
-            "url": "https://grack.com/blog/2026/06/11/life-before-main/",
+            "comments": 102,
+            "url": "https://envs.net/~volpe/blog/posts/reduce-slop.html",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "AI agent bankrupted their operator while trying to scan DN42",
-            "insight": "HN 热议：1329 分 · 477 评论",
-            "sentiment": "positive",
-            "comments": 477,
-            "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
+            "title": "Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents",
+            "insight": "HN 热议：29 分 · 16 评论",
+            "sentiment": "neutral",
+            "comments": 16,
+            "url": "https://bitboard.work/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-12T19:48:40Z",
+    "updated": "2026-06-12T22:16:52Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

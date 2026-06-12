@@ -1,13 +1,13 @@
 {
-  "updated": "2026-06-12T19:48:40Z",
+  "updated": "2026-06-12T22:16:52Z",
   "repos": [
     {
       "rank": 1,
       "name": "Significant-Gravitas/AutoGPT",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
       "language": "Python",
-      "stars": 184914,
-      "stars_today": 184914,
+      "stars": 184913,
+      "stars_today": 184913,
       "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
@@ -24,8 +24,8 @@
       "name": "thedotmack/claude-mem",
       "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
       "language": "JavaScript",
-      "stars": 81985,
-      "stars_today": 81985,
+      "stars": 81994,
+      "stars_today": 81994,
       "url": "https://github.com/thedotmack/claude-mem"
     },
     {
@@ -33,8 +33,8 @@
       "name": "OpenHands/OpenHands",
       "description": "🙌 OpenHands: AI-Driven Development",
       "language": "Python",
-      "stars": 76626,
-      "stars_today": 76626,
+      "stars": 76642,
+      "stars_today": 76642,
       "url": "https://github.com/OpenHands/OpenHands"
     },
     {
@@ -42,8 +42,8 @@
       "name": "FlowiseAI/Flowise",
       "description": "Build AI Agents, Visually",
       "language": "TypeScript",
-      "stars": 53523,
-      "stars_today": 53523,
+      "stars": 53524,
+      "stars_today": 53524,
       "url": "https://github.com/FlowiseAI/Flowise"
     },
     {
@@ -51,8 +51,8 @@
       "name": "microsoft/AI-For-Beginners",
       "description": "12 Weeks, 24 Lessons, AI for All!",
       "language": "Jupyter Notebook",
-      "stars": 48095,
-      "stars_today": 48095,
+      "stars": 48099,
+      "stars_today": 48099,
       "url": "https://github.com/microsoft/AI-For-Beginners"
     }
   ]
