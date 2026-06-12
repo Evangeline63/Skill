@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-12T12:09:57Z",
+    "updated": "2026-06-12T17:29:27Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-12T12:09:57Z",
+    "updated": "2026-06-12T17:29:27Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-12T12:09:57Z",
+    "updated": "2026-06-12T17:29:27Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184903,
-            "stars_today": 184903,
+            "stars": 184908,
+            "stars_today": 184908,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163614,
-            "stars_today": 163614,
+            "stars": 163623,
+            "stars_today": 163623,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 81922,
-            "stars_today": 81922,
+            "stars": 81972,
+            "stars_today": 81972,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 76561,
-            "stars_today": 76561,
+            "stars": 76603,
+            "stars_today": 76603,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 53513,
-            "stars_today": 53513,
+            "stars": 53521,
+            "stars_today": 53521,
             "url": "https://github.com/FlowiseAI/Flowise"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "microsoft/AI-For-Beginners",
             "description": "12 Weeks, 24 Lessons, AI for All!",
             "language": "Jupyter Notebook",
-            "stars": 48087,
-            "stars_today": 48087,
+            "stars": 48093,
+            "stars_today": 48093,
             "url": "https://github.com/microsoft/AI-For-Beginners"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-12T12:09:57Z",
+    "updated": "2026-06-12T17:29:27Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-12T12:09:57Z",
+    "updated": "2026-06-12T17:29:27Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-12T12:09:57Z",
+    "updated": "2026-06-12T17:29:27Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "AI agent bankrupted their operator while trying to scan DN42",
-            "insight": "HN 热议：773 分 · 298 评论",
-            "sentiment": "positive",
-            "comments": 298,
-            "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
+            "title": "Slightly reducing the sloppiness of AI generated front end",
+            "insight": "HN 热议：75 分 · 47 评论",
+            "sentiment": "neutral",
+            "comments": 47,
+            "url": "https://envs.net/~volpe/blog/posts/reduce-slop.html",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Ryanair dark UX patterns summer 2026 refresher",
-            "insight": "HN 热议：35 分 · 19 评论",
+            "title": "Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents",
+            "insight": "HN 热议：5 分 · 2 评论",
             "sentiment": "neutral",
-            "comments": 19,
-            "url": "https://blog.osull.com/2026/06/12/ryanair-dark-ux-patterns-summer-2026-refresher/",
+            "comments": 2,
+            "url": "https://bitboard.work/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Claude Fable is relentlessly proactive",
-            "insight": "HN 热议：513 分 · 410 评论",
+            "title": "AI agent bankrupted their operator while trying to scan DN42",
+            "insight": "HN 热议：1265 分 · 456 评论",
             "sentiment": "positive",
-            "comments": 410,
-            "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
+            "comments": 456,
+            "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "The Future of Email",
-            "insight": "HN 热议：53 分 · 58 评论",
+            "title": "Show HN: Script to bulk delete Claude chats from the web UI",
+            "insight": "HN 热议：30 分 · 9 评论",
             "sentiment": "neutral",
-            "comments": 58,
-            "url": "https://www.fastmail.com/blog/the-future-of-email/",
+            "comments": 9,
+            "url": "https://github.com/MatteoLeonesi/bulk-delete-claude-chat",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Anthropic apologizes for invisible Claude Fable guardrails",
-            "insight": "HN 热议：443 分 · 396 评论",
-            "sentiment": "positive",
-            "comments": 396,
-            "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+            "title": "There Is Life Before Main in Rust",
+            "insight": "HN 热议：4 分 · 1 评论",
+            "sentiment": "neutral",
+            "comments": 1,
+            "url": "https://grack.com/blog/2026/06/11/life-before-main/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-12T12:09:57Z",
+    "updated": "2026-06-12T17:29:27Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

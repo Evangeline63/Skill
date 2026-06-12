@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-12T12:09:57Z",
+  "updated": "2026-06-12T17:29:27Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "AI agent bankrupted their operator while trying to scan DN42",
-      "insight": "HN 热议：773 分 · 298 评论",
-      "sentiment": "positive",
-      "comments": 298,
-      "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
+      "title": "Slightly reducing the sloppiness of AI generated front end",
+      "insight": "HN 热议：75 分 · 47 评论",
+      "sentiment": "neutral",
+      "comments": 47,
+      "url": "https://envs.net/~volpe/blog/posts/reduce-slop.html",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Ryanair dark UX patterns summer 2026 refresher",
-      "insight": "HN 热议：35 分 · 19 评论",
+      "title": "Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents",
+      "insight": "HN 热议：5 分 · 2 评论",
       "sentiment": "neutral",
-      "comments": 19,
-      "url": "https://blog.osull.com/2026/06/12/ryanair-dark-ux-patterns-summer-2026-refresher/",
+      "comments": 2,
+      "url": "https://bitboard.work/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Claude Fable is relentlessly proactive",
-      "insight": "HN 热议：513 分 · 410 评论",
+      "title": "AI agent bankrupted their operator while trying to scan DN42",
+      "insight": "HN 热议：1265 分 · 456 评论",
       "sentiment": "positive",
-      "comments": 410,
-      "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
+      "comments": 456,
+      "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "The Future of Email",
-      "insight": "HN 热议：53 分 · 58 评论",
+      "title": "Show HN: Script to bulk delete Claude chats from the web UI",
+      "insight": "HN 热议：30 分 · 9 评论",
       "sentiment": "neutral",
-      "comments": 58,
-      "url": "https://www.fastmail.com/blog/the-future-of-email/",
+      "comments": 9,
+      "url": "https://github.com/MatteoLeonesi/bulk-delete-claude-chat",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Anthropic apologizes for invisible Claude Fable guardrails",
-      "insight": "HN 热议：443 分 · 396 评论",
-      "sentiment": "positive",
-      "comments": 396,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+      "title": "There Is Life Before Main in Rust",
+      "insight": "HN 热议：4 分 · 1 评论",
+      "sentiment": "neutral",
+      "comments": 1,
+      "url": "https://grack.com/blog/2026/06/11/life-before-main/",
       "id": 5
     }
   ]
