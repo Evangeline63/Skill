@@ -1,48 +1,48 @@
 {
-  "updated": "2026-06-13T11:07:02Z",
+  "updated": "2026-06-13T13:19:06Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Show HN: Paca – Lightweight Jira alternative for human-AI collaboration",
-      "insight": "HN 热议：18 分 · 6 评论",
+      "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
+      "insight": "HN 热议：10 分 · 1 评论",
       "sentiment": "neutral",
-      "comments": 6,
-      "url": "https://github.com/Paca-AI/paca",
+      "comments": 1,
+      "url": "https://github.com/tensorzero/tensorzero",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Open source AI must win",
-      "insight": "HN 热议：1000 分 · 314 评论",
-      "sentiment": "positive",
-      "comments": 314,
-      "url": "https://opensourceaimustwin.com/?share=v2",
+      "title": "Show HN: Paca – Lightweight Jira alternative for human-AI collaboration",
+      "insight": "HN 热议：50 分 · 22 评论",
+      "sentiment": "neutral",
+      "comments": 22,
+      "url": "https://github.com/Paca-AI/paca",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Shepherd's Dog: A Game by the Most Dangerous AI Model",
-      "insight": "HN 热议：95 分 · 81 评论",
-      "sentiment": "neutral",
-      "comments": 81,
-      "url": "https://koenvangilst.nl/lab/claude-fable-shepherds-dog",
+      "title": "Open source AI must win",
+      "insight": "HN 热议：1163 分 · 366 评论",
+      "sentiment": "positive",
+      "comments": 366,
+      "url": "https://opensourceaimustwin.com/?share=v2",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "How to setup a local coding agent on macOS",
-      "insight": "HN 热议：379 分 · 94 评论",
+      "insight": "HN 热议：408 分 · 102 评论",
       "sentiment": "positive",
-      "comments": 94,
+      "comments": 102,
       "url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
       "id": 4
     },
     {
       "source": "HackerNews",
       "title": "Show HN: Putt.day a daily mini golf game",
-      "insight": "HN 热议：194 分 · 83 评论",
-      "sentiment": "neutral",
-      "comments": 83,
+      "insight": "HN 热议：216 分 · 91 评论",
+      "sentiment": "positive",
+      "comments": 91,
       "url": "https://putt.day/",
       "id": 5
     }
