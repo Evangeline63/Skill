@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-13T02:03:21Z",
+    "updated": "2026-06-13T06:44:23Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-13T02:03:21Z",
+    "updated": "2026-06-13T06:44:23Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-13T02:03:21Z",
+    "updated": "2026-06-13T06:44:23Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184915,
-            "stars_today": 184915,
+            "stars": 184921,
+            "stars_today": 184921,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163628,
-            "stars_today": 163628,
+            "stars": 163639,
+            "stars_today": 163639,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 82009,
-            "stars_today": 82009,
+            "stars": 82038,
+            "stars_today": 82038,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 76668,
-            "stars_today": 76668,
+            "stars": 76704,
+            "stars_today": 76704,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 53526,
-            "stars_today": 53526,
+            "stars": 53528,
+            "stars_today": 53528,
             "url": "https://github.com/FlowiseAI/Flowise"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "microsoft/AI-For-Beginners",
             "description": "12 Weeks, 24 Lessons, AI for All!",
             "language": "Jupyter Notebook",
-            "stars": 48102,
-            "stars_today": 48102,
+            "stars": 48104,
+            "stars_today": 48104,
             "url": "https://github.com/microsoft/AI-For-Beginners"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-13T02:03:21Z",
+    "updated": "2026-06-13T06:44:23Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-13T02:03:21Z",
+    "updated": "2026-06-13T06:44:23Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-13T02:03:21Z",
+    "updated": "2026-06-13T06:44:23Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "How to setup a local coding agent on macOS",
-            "insight": "HN 热议：263 分 · 71 评论",
-            "sentiment": "positive",
-            "comments": 71,
-            "url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
+            "title": "Shepherd's Dog: A Game by the Most Dangerous AI Model",
+            "insight": "HN 热议：13 分 · 6 评论",
+            "sentiment": "neutral",
+            "comments": 6,
+            "url": "https://koenvangilst.nl/lab/claude-fable-shepherds-dog",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Putt.day a daily mini golf game",
-            "insight": "HN 热议：70 分 · 54 评论",
-            "sentiment": "neutral",
-            "comments": 54,
-            "url": "https://putt.day/",
+            "title": "Open source AI must win",
+            "insight": "HN 热议：684 分 · 216 评论",
+            "sentiment": "positive",
+            "comments": 216,
+            "url": "https://opensourceaimustwin.com/?share=v2",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Palantir loses legal challenge against Swiss investigative magazine",
-            "insight": "HN 热议：199 分 · 45 评论",
+            "title": "Show HN: Putt.day a daily mini golf game",
+            "insight": "HN 热议：139 分 · 67 评论",
             "sentiment": "neutral",
-            "comments": 45,
-            "url": "https://www.ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979",
+            "comments": 67,
+            "url": "https://putt.day/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Slightly reducing the sloppiness of AI generated front end",
-            "insight": "HN 热议：165 分 · 111 评论",
-            "sentiment": "neutral",
-            "comments": 111,
-            "url": "https://envs.net/~volpe/blog/posts/reduce-slop.html",
+            "title": "How to setup a local coding agent on macOS",
+            "insight": "HN 热议：337 分 · 81 评论",
+            "sentiment": "positive",
+            "comments": 81,
+            "url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "\"Don't You Just Upload It to ChatGPT?\"",
-            "insight": "HN 热议：315 分 · 268 评论",
-            "sentiment": "positive",
-            "comments": 268,
-            "url": "https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt/",
+            "title": "Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents",
+            "insight": "HN 热议：40 分 · 21 评论",
+            "sentiment": "neutral",
+            "comments": 21,
+            "url": "https://bitboard.work/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-13T02:03:21Z",
+    "updated": "2026-06-13T06:44:23Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
