@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-13T19:04:07Z",
+    "updated": "2026-06-13T21:55:17Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-13T19:04:07Z",
+    "updated": "2026-06-13T21:55:17Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,7 +266,7 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-13T19:04:07Z",
+    "updated": "2026-06-13T21:55:17Z",
     "repos": [
         {
             "rank": 1,
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163669,
-            "stars_today": 163669,
+            "stars": 163675,
+            "stars_today": 163675,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 82119,
-            "stars_today": 82119,
+            "stars": 82138,
+            "stars_today": 82138,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 76832,
-            "stars_today": 76832,
+            "stars": 76866,
+            "stars_today": 76866,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 53544,
-            "stars_today": 53544,
+            "stars": 53545,
+            "stars_today": 53545,
             "url": "https://github.com/FlowiseAI/Flowise"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "microsoft/AI-For-Beginners",
             "description": "12 Weeks, 24 Lessons, AI for All!",
             "language": "Jupyter Notebook",
-            "stars": 48112,
-            "stars_today": 48112,
+            "stars": 48116,
+            "stars_today": 48116,
             "url": "https://github.com/microsoft/AI-For-Beginners"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-13T19:04:07Z",
+    "updated": "2026-06-13T21:55:17Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-13T19:04:07Z",
+    "updated": "2026-06-13T21:55:17Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-13T19:04:07Z",
+    "updated": "2026-06-13T21:55:17Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "AI Coding at Home Without Going Broke",
-            "insight": "HN 热议：98 分 · 92 评论",
-            "sentiment": "neutral",
-            "comments": 92,
-            "url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
+            "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
+            "insight": "HN 热议：372 分 · 293 评论",
+            "sentiment": "positive",
+            "comments": 293,
+            "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
-            "insight": "HN 热议：198 分 · 138 评论",
+            "title": "Police officer investigated for using AI to 'create evidence' in multiple cases",
+            "insight": "HN 热议：70 分 · 17 评论",
             "sentiment": "neutral",
-            "comments": 138,
-            "url": "https://github.com/tensorzero/tensorzero",
+            "comments": 17,
+            "url": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Paca – Lightweight Jira alternative for human-AI collaboration",
-            "insight": "HN 热议：108 分 · 42 评论",
+            "title": "AI coding at home without going broke",
+            "insight": "HN 热议：179 分 · 169 评论",
             "sentiment": "neutral",
-            "comments": 42,
-            "url": "https://github.com/Paca-AI/paca",
+            "comments": 169,
+            "url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Amazon CEO's Talks with U.S. Officials Triggered Crackdown on Anthropic Models",
-            "insight": "HN 热议：148 分 · 149 评论",
-            "sentiment": "neutral",
-            "comments": 149,
-            "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578",
+            "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
+            "insight": "HN 热议：219 分 · 146 评论",
+            "sentiment": "positive",
+            "comments": 146,
+            "url": "https://github.com/tensorzero/tensorzero",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "PwC Report: AI Making Medical Bills Higher",
-            "insight": "HN 热议：16 分 · 2 评论",
+            "title": "Show HN: Paca – Lightweight Jira alternative for human-AI collaboration",
+            "insight": "HN 热议：123 分 · 49 评论",
             "sentiment": "neutral",
-            "comments": 2,
-            "url": "https://fortune.com/2026/06/12/ai-making-medical-bills-higher/",
+            "comments": 49,
+            "url": "https://github.com/Paca-AI/paca",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-13T19:04:07Z",
+    "updated": "2026-06-13T21:55:17Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
