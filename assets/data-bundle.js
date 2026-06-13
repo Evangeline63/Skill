@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-13T13:19:06Z",
+    "updated": "2026-06-13T16:07:09Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-13T13:19:06Z",
+    "updated": "2026-06-13T16:07:09Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-13T13:19:06Z",
+    "updated": "2026-06-13T16:07:09Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184923,
-            "stars_today": 184923,
+            "stars": 184927,
+            "stars_today": 184927,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163655,
-            "stars_today": 163655,
+            "stars": 163665,
+            "stars_today": 163665,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 82075,
-            "stars_today": 82075,
+            "stars": 82100,
+            "stars_today": 82100,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 76761,
-            "stars_today": 76761,
+            "stars": 76801,
+            "stars_today": 76801,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 53538,
-            "stars_today": 53538,
+            "stars": 53541,
+            "stars_today": 53541,
             "url": "https://github.com/FlowiseAI/Flowise"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "microsoft/AI-For-Beginners",
             "description": "12 Weeks, 24 Lessons, AI for All!",
             "language": "Jupyter Notebook",
-            "stars": 48106,
-            "stars_today": 48106,
+            "stars": 48110,
+            "stars_today": 48110,
             "url": "https://github.com/microsoft/AI-For-Beginners"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-13T13:19:06Z",
+    "updated": "2026-06-13T16:07:09Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-13T13:19:06Z",
+    "updated": "2026-06-13T16:07:09Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-13T13:19:06Z",
+    "updated": "2026-06-13T16:07:09Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
-            "insight": "HN 热议：10 分 · 1 评论",
+            "insight": "HN 热议：151 分 · 97 评论",
             "sentiment": "neutral",
-            "comments": 1,
+            "comments": 97,
             "url": "https://github.com/tensorzero/tensorzero",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "Show HN: Paca – Lightweight Jira alternative for human-AI collaboration",
-            "insight": "HN 热议：50 分 · 22 评论",
+            "insight": "HN 热议：81 分 · 29 评论",
             "sentiment": "neutral",
-            "comments": 22,
+            "comments": 29,
             "url": "https://github.com/Paca-AI/paca",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "Open source AI must win",
-            "insight": "HN 热议：1163 分 · 366 评论",
+            "insight": "HN 热议：1317 分 · 410 评论",
             "sentiment": "positive",
-            "comments": 366,
+            "comments": 410,
             "url": "https://opensourceaimustwin.com/?share=v2",
             "id": 3
         },
         {
             "source": "HackerNews",
             "title": "How to setup a local coding agent on macOS",
-            "insight": "HN 热议：408 分 · 102 评论",
+            "insight": "HN 热议：434 分 · 109 评论",
             "sentiment": "positive",
-            "comments": 102,
+            "comments": 109,
             "url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
             "id": 4
         },
         {
             "source": "HackerNews",
             "title": "Show HN: Putt.day a daily mini golf game",
-            "insight": "HN 热议：216 分 · 91 评论",
+            "insight": "HN 热议：250 分 · 97 评论",
             "sentiment": "positive",
-            "comments": 91,
+            "comments": 97,
             "url": "https://putt.day/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-13T13:19:06Z",
+    "updated": "2026-06-13T16:07:09Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
