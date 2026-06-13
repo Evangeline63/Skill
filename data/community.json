@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-13T06:44:23Z",
+  "updated": "2026-06-13T11:07:02Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Shepherd's Dog: A Game by the Most Dangerous AI Model",
-      "insight": "HN 热议：13 分 · 6 评论",
+      "title": "Show HN: Paca – Lightweight Jira alternative for human-AI collaboration",
+      "insight": "HN 热议：18 分 · 6 评论",
       "sentiment": "neutral",
       "comments": 6,
-      "url": "https://koenvangilst.nl/lab/claude-fable-shepherds-dog",
+      "url": "https://github.com/Paca-AI/paca",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "Open source AI must win",
-      "insight": "HN 热议：684 分 · 216 评论",
+      "insight": "HN 热议：1000 分 · 314 评论",
       "sentiment": "positive",
-      "comments": 216,
+      "comments": 314,
       "url": "https://opensourceaimustwin.com/?share=v2",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Putt.day a daily mini golf game",
-      "insight": "HN 热议：139 分 · 67 评论",
+      "title": "Shepherd's Dog: A Game by the Most Dangerous AI Model",
+      "insight": "HN 热议：95 分 · 81 评论",
       "sentiment": "neutral",
-      "comments": 67,
-      "url": "https://putt.day/",
+      "comments": 81,
+      "url": "https://koenvangilst.nl/lab/claude-fable-shepherds-dog",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "How to setup a local coding agent on macOS",
-      "insight": "HN 热议：337 分 · 81 评论",
+      "insight": "HN 热议：379 分 · 94 评论",
       "sentiment": "positive",
-      "comments": 81,
+      "comments": 94,
       "url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents",
-      "insight": "HN 热议：40 分 · 21 评论",
+      "title": "Show HN: Putt.day a daily mini golf game",
+      "insight": "HN 热议：194 分 · 83 评论",
       "sentiment": "neutral",
-      "comments": 21,
-      "url": "https://bitboard.work/",
+      "comments": 83,
+      "url": "https://putt.day/",
       "id": 5
     }
   ]
