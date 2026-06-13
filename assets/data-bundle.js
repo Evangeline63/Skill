@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-13T16:07:09Z",
+    "updated": "2026-06-13T19:04:07Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-13T16:07:09Z",
+    "updated": "2026-06-13T19:04:07Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-13T16:07:09Z",
+    "updated": "2026-06-13T19:04:07Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184927,
-            "stars_today": 184927,
+            "stars": 184930,
+            "stars_today": 184930,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163665,
-            "stars_today": 163665,
+            "stars": 163669,
+            "stars_today": 163669,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 82100,
-            "stars_today": 82100,
+            "stars": 82119,
+            "stars_today": 82119,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 76801,
-            "stars_today": 76801,
+            "stars": 76832,
+            "stars_today": 76832,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 53541,
-            "stars_today": 53541,
+            "stars": 53544,
+            "stars_today": 53544,
             "url": "https://github.com/FlowiseAI/Flowise"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "microsoft/AI-For-Beginners",
             "description": "12 Weeks, 24 Lessons, AI for All!",
             "language": "Jupyter Notebook",
-            "stars": 48110,
-            "stars_today": 48110,
+            "stars": 48112,
+            "stars_today": 48112,
             "url": "https://github.com/microsoft/AI-For-Beginners"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-13T16:07:09Z",
+    "updated": "2026-06-13T19:04:07Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-13T16:07:09Z",
+    "updated": "2026-06-13T19:04:07Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-13T16:07:09Z",
+    "updated": "2026-06-13T19:04:07Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
-            "insight": "HN 热议：151 分 · 97 评论",
+            "title": "AI Coding at Home Without Going Broke",
+            "insight": "HN 热议：98 分 · 92 评论",
             "sentiment": "neutral",
-            "comments": 97,
-            "url": "https://github.com/tensorzero/tensorzero",
+            "comments": 92,
+            "url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Paca – Lightweight Jira alternative for human-AI collaboration",
-            "insight": "HN 热议：81 分 · 29 评论",
+            "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
+            "insight": "HN 热议：198 分 · 138 评论",
             "sentiment": "neutral",
-            "comments": 29,
-            "url": "https://github.com/Paca-AI/paca",
+            "comments": 138,
+            "url": "https://github.com/tensorzero/tensorzero",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Open source AI must win",
-            "insight": "HN 热议：1317 分 · 410 评论",
-            "sentiment": "positive",
-            "comments": 410,
-            "url": "https://opensourceaimustwin.com/?share=v2",
+            "title": "Show HN: Paca – Lightweight Jira alternative for human-AI collaboration",
+            "insight": "HN 热议：108 分 · 42 评论",
+            "sentiment": "neutral",
+            "comments": 42,
+            "url": "https://github.com/Paca-AI/paca",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "How to setup a local coding agent on macOS",
-            "insight": "HN 热议：434 分 · 109 评论",
-            "sentiment": "positive",
-            "comments": 109,
-            "url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
+            "title": "Amazon CEO's Talks with U.S. Officials Triggered Crackdown on Anthropic Models",
+            "insight": "HN 热议：148 分 · 149 评论",
+            "sentiment": "neutral",
+            "comments": 149,
+            "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Putt.day a daily mini golf game",
-            "insight": "HN 热议：250 分 · 97 评论",
-            "sentiment": "positive",
-            "comments": 97,
-            "url": "https://putt.day/",
+            "title": "PwC Report: AI Making Medical Bills Higher",
+            "insight": "HN 热议：16 分 · 2 评论",
+            "sentiment": "neutral",
+            "comments": 2,
+            "url": "https://fortune.com/2026/06/12/ai-making-medical-bills-higher/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-13T16:07:09Z",
+    "updated": "2026-06-13T19:04:07Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
