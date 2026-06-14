@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-14T19:04:40Z",
+    "updated": "2026-06-14T22:00:48Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-14T19:04:40Z",
+    "updated": "2026-06-14T22:00:48Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,7 +266,7 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-14T19:04:40Z",
+    "updated": "2026-06-14T22:00:48Z",
     "repos": [
         {
             "rank": 1,
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163716,
-            "stars_today": 163716,
+            "stars": 163722,
+            "stars_today": 163722,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93834,
-            "stars_today": 93834,
+            "stars": 93837,
+            "stars_today": 93837,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 82238,
-            "stars_today": 82238,
+            "stars": 82254,
+            "stars_today": 82254,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 77038,
-            "stars_today": 77038,
+            "stars": 77048,
+            "stars_today": 77048,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 53566,
-            "stars_today": 53566,
+            "stars": 53569,
+            "stars_today": 53569,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-14T19:04:40Z",
+    "updated": "2026-06-14T22:00:48Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-14T19:04:40Z",
+    "updated": "2026-06-14T22:00:48Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-14T19:04:40Z",
+    "updated": "2026-06-14T22:00:48Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
-            "insight": "HN 热议：155 分 · 86 评论",
-            "sentiment": "neutral",
-            "comments": 86,
+            "insight": "HN 热议：230 分 · 125 评论",
+            "sentiment": "positive",
+            "comments": 125,
             "url": "https://github.com/nex-agi/Nex-N2/issues/4",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "No, everyone is not using AI for everything",
-            "insight": "HN 热议：299 分 · 302 评论",
-            "sentiment": "positive",
-            "comments": 302,
-            "url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
+            "title": "Inverse Rubric Optimization: A testbed for agent science",
+            "insight": "HN 热议：15 分 · 0 评论",
+            "sentiment": "neutral",
+            "comments": 0,
+            "url": "https://fulcrum.inc/2026/06/09/inverse-rubric-optimization.html",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "FTX's former Anthropic stake would be worth about $75B at today's valuation",
-            "insight": "HN 热议：37 分 · 16 评论",
-            "sentiment": "neutral",
-            "comments": 16,
-            "url": "https://news.ycombinator.com/item?id=48529190",
+            "title": "Not everyone is using AI for everything",
+            "insight": "HN 热议：384 分 · 406 评论",
+            "sentiment": "positive",
+            "comments": 406,
+            "url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "KPMG pulls report on AI usage due to apparent hallucinations",
-            "insight": "HN 热议：92 分 · 12 评论",
+            "title": "AI is code – and can't be prompted into being smarter",
+            "insight": "HN 热议：5 分 · 0 评论",
             "sentiment": "neutral",
-            "comments": 12,
-            "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+            "comments": 0,
+            "url": "https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
-            "insight": "HN 热议：766 分 · 568 评论",
-            "sentiment": "positive",
-            "comments": 568,
-            "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
+            "title": "Ponytail – make your AI agent think like the laziest senior dev in the room",
+            "insight": "HN 热议：21 分 · 1 评论",
+            "sentiment": "neutral",
+            "comments": 1,
+            "url": "https://github.com/DietrichGebert/ponytail",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-14T19:04:40Z",
+    "updated": "2026-06-14T22:00:48Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
