@@ -1,32 +1,41 @@
 {
-  "updated": "2026-06-14T11:21:00Z",
+  "updated": "2026-06-14T13:23:17Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
-      "insight": "HN 热议：703 分 · 517 评论",
-      "sentiment": "positive",
-      "comments": 517,
-      "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
+      "title": "Making Claude a Chemist",
+      "insight": "HN 热议：52 分 · 54 评论",
+      "sentiment": "neutral",
+      "comments": 54,
+      "url": "https://www.anthropic.com/research/making-claude-a-chemist",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "AI coding at home without going broke",
-      "insight": "HN 热议：301 分 · 240 评论",
+      "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
+      "insight": "HN 热议：727 分 · 543 评论",
       "sentiment": "positive",
-      "comments": 240,
-      "url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
+      "comments": 543,
+      "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "Police officer investigated for using AI to 'create evidence' in multiple cases",
-      "insight": "HN 热议：329 分 · 158 评论",
+      "insight": "HN 热议：345 分 · 174 评论",
       "sentiment": "positive",
-      "comments": 158,
+      "comments": 174,
       "url": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661",
       "id": 3
+    },
+    {
+      "source": "HackerNews",
+      "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
+      "insight": "HN 热议：266 分 · 166 评论",
+      "sentiment": "positive",
+      "comments": 166,
+      "url": "https://github.com/tensorzero/tensorzero",
+      "id": 4
     },
     {
       "source": "HackerNews",
@@ -35,15 +44,6 @@
       "sentiment": "neutral",
       "comments": 3,
       "url": "https://www.ox.ac.uk/news/2026-06-09-ancient-genome-duplications-laid-the-foundations-of-complex-brains",
-      "id": 4
-    },
-    {
-      "source": "HackerNews",
-      "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
-      "insight": "HN 热议：263 分 · 165 评论",
-      "sentiment": "positive",
-      "comments": 165,
-      "url": "https://github.com/tensorzero/tensorzero",
       "id": 5
     }
   ]

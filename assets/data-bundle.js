@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-14T11:21:00Z",
+    "updated": "2026-06-14T13:23:17Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-14T11:21:00Z",
+    "updated": "2026-06-14T13:23:17Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-14T11:21:00Z",
+    "updated": "2026-06-14T13:23:17Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184934,
-            "stars_today": 184934,
+            "stars": 184935,
+            "stars_today": 184935,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,50 +282,50 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163693,
-            "stars_today": 163693,
+            "stars": 163699,
+            "stars_today": 163699,
             "url": "https://github.com/f/prompts.chat"
         },
         {
             "rank": 3,
-            "name": "thedotmack/claude-mem",
-            "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
-            "language": "JavaScript",
-            "stars": 82193,
-            "stars_today": 82193,
-            "url": "https://github.com/thedotmack/claude-mem"
+            "name": "hacksider/Deep-Live-Cam",
+            "description": "real time face swap and one-click video deepfake with only a single image",
+            "language": "Python",
+            "stars": 93825,
+            "stars_today": 93825,
+            "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
             "rank": 4,
-            "name": "OpenHands/OpenHands",
-            "description": "🙌 OpenHands: AI-Driven Development",
-            "language": "Python",
-            "stars": 76986,
-            "stars_today": 76986,
-            "url": "https://github.com/OpenHands/OpenHands"
+            "name": "thedotmack/claude-mem",
+            "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
+            "language": "JavaScript",
+            "stars": 82204,
+            "stars_today": 82204,
+            "url": "https://github.com/thedotmack/claude-mem"
         },
         {
             "rank": 5,
-            "name": "FlowiseAI/Flowise",
-            "description": "Build AI Agents, Visually",
-            "language": "TypeScript",
-            "stars": 53558,
-            "stars_today": 53558,
-            "url": "https://github.com/FlowiseAI/Flowise"
+            "name": "OpenHands/OpenHands",
+            "description": "🙌 OpenHands: AI-Driven Development",
+            "language": "Python",
+            "stars": 76996,
+            "stars_today": 76996,
+            "url": "https://github.com/OpenHands/OpenHands"
         },
         {
             "rank": 6,
-            "name": "microsoft/AI-For-Beginners",
-            "description": "12 Weeks, 24 Lessons, AI for All!",
-            "language": "Jupyter Notebook",
-            "stars": 48124,
-            "stars_today": 48124,
-            "url": "https://github.com/microsoft/AI-For-Beginners"
+            "name": "FlowiseAI/Flowise",
+            "description": "Build AI Agents, Visually",
+            "language": "TypeScript",
+            "stars": 53562,
+            "stars_today": 53562,
+            "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-14T11:21:00Z",
+    "updated": "2026-06-14T13:23:17Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-14T11:21:00Z",
+    "updated": "2026-06-14T13:23:17Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,34 +511,43 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-14T11:21:00Z",
+    "updated": "2026-06-14T13:23:17Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
-            "insight": "HN 热议：703 分 · 517 评论",
-            "sentiment": "positive",
-            "comments": 517,
-            "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
+            "title": "Making Claude a Chemist",
+            "insight": "HN 热议：52 分 · 54 评论",
+            "sentiment": "neutral",
+            "comments": 54,
+            "url": "https://www.anthropic.com/research/making-claude-a-chemist",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "AI coding at home without going broke",
-            "insight": "HN 热议：301 分 · 240 评论",
+            "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
+            "insight": "HN 热议：727 分 · 543 评论",
             "sentiment": "positive",
-            "comments": 240,
-            "url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
+            "comments": 543,
+            "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "Police officer investigated for using AI to 'create evidence' in multiple cases",
-            "insight": "HN 热议：329 分 · 158 评论",
+            "insight": "HN 热议：345 分 · 174 评论",
             "sentiment": "positive",
-            "comments": 158,
+            "comments": 174,
             "url": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661",
             "id": 3
+        },
+        {
+            "source": "HackerNews",
+            "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
+            "insight": "HN 热议：266 分 · 166 评论",
+            "sentiment": "positive",
+            "comments": 166,
+            "url": "https://github.com/tensorzero/tensorzero",
+            "id": 4
         },
         {
             "source": "HackerNews",
@@ -547,21 +556,12 @@ window.__DATA__ = {
             "sentiment": "neutral",
             "comments": 3,
             "url": "https://www.ox.ac.uk/news/2026-06-09-ancient-genome-duplications-laid-the-foundations-of-complex-brains",
-            "id": 4
-        },
-        {
-            "source": "HackerNews",
-            "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
-            "insight": "HN 热议：263 分 · 165 评论",
-            "sentiment": "positive",
-            "comments": 165,
-            "url": "https://github.com/tensorzero/tensorzero",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-14T11:21:00Z",
+    "updated": "2026-06-14T13:23:17Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
