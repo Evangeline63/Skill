@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-14T13:23:17Z",
+  "updated": "2026-06-14T16:15:18Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Making Claude a Chemist",
-      "insight": "HN 热议：52 分 · 54 评论",
+      "title": "No, everyone is not using AI for everything",
+      "insight": "HN 热议：120 分 · 93 评论",
       "sentiment": "neutral",
-      "comments": 54,
-      "url": "https://www.anthropic.com/research/making-claude-a-chemist",
+      "comments": 93,
+      "url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
-      "insight": "HN 热议：727 分 · 543 评论",
-      "sentiment": "positive",
-      "comments": 543,
-      "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
+      "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
+      "insight": "HN 热议：4 分 · 1 评论",
+      "sentiment": "neutral",
+      "comments": 1,
+      "url": "https://github.com/nex-agi/Nex-N2/issues/4",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Police officer investigated for using AI to 'create evidence' in multiple cases",
-      "insight": "HN 热议：345 分 · 174 评论",
-      "sentiment": "positive",
-      "comments": 174,
-      "url": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661",
+      "title": "EU Commission looking at practical consequences of Anthropic decision",
+      "insight": "HN 热议：38 分 · 19 评论",
+      "sentiment": "neutral",
+      "comments": 19,
+      "url": "https://www.reuters.com/legal/litigation/eu-commission-looking-practical-consequences-anthropic-decision-spokesperson-2026-06-14/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
-      "insight": "HN 热议：266 分 · 166 评论",
-      "sentiment": "positive",
-      "comments": 166,
-      "url": "https://github.com/tensorzero/tensorzero",
+      "title": "KPMG pulls report on AI usage due to apparent hallucinations",
+      "insight": "HN 热议：51 分 · 3 评论",
+      "sentiment": "neutral",
+      "comments": 3,
+      "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Ancient genome duplications laid the foundations of complex brains",
-      "insight": "HN 热议：35 分 · 3 评论",
+      "title": "Cloud-based LLM gold rush is ending",
+      "insight": "HN 热议：29 分 · 3 评论",
       "sentiment": "neutral",
       "comments": 3,
-      "url": "https://www.ox.ac.uk/news/2026-06-09-ancient-genome-duplications-laid-the-foundations-of-complex-brains",
+      "url": "https://automato.substack.com/p/apple-wwdc-and-the-fable-5-embargo",
       "id": 5
     }
   ]

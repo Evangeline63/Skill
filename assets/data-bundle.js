@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-14T13:23:17Z",
+    "updated": "2026-06-14T16:15:18Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-14T13:23:17Z",
+    "updated": "2026-06-14T16:15:18Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-14T13:23:17Z",
+    "updated": "2026-06-14T16:15:18Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184935,
-            "stars_today": 184935,
+            "stars": 184939,
+            "stars_today": 184939,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163699,
-            "stars_today": 163699,
+            "stars": 163708,
+            "stars_today": 163708,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93825,
-            "stars_today": 93825,
+            "stars": 93830,
+            "stars_today": 93830,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 82204,
-            "stars_today": 82204,
+            "stars": 82224,
+            "stars_today": 82224,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 76996,
-            "stars_today": 76996,
+            "stars": 77024,
+            "stars_today": 77024,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 53562,
-            "stars_today": 53562,
+            "stars": 53564,
+            "stars_today": 53564,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-14T13:23:17Z",
+    "updated": "2026-06-14T16:15:18Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-14T13:23:17Z",
+    "updated": "2026-06-14T16:15:18Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-14T13:23:17Z",
+    "updated": "2026-06-14T16:15:18Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Making Claude a Chemist",
-            "insight": "HN 热议：52 分 · 54 评论",
+            "title": "No, everyone is not using AI for everything",
+            "insight": "HN 热议：120 分 · 93 评论",
             "sentiment": "neutral",
-            "comments": 54,
-            "url": "https://www.anthropic.com/research/making-claude-a-chemist",
+            "comments": 93,
+            "url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
-            "insight": "HN 热议：727 分 · 543 评论",
-            "sentiment": "positive",
-            "comments": 543,
-            "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
+            "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
+            "insight": "HN 热议：4 分 · 1 评论",
+            "sentiment": "neutral",
+            "comments": 1,
+            "url": "https://github.com/nex-agi/Nex-N2/issues/4",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Police officer investigated for using AI to 'create evidence' in multiple cases",
-            "insight": "HN 热议：345 分 · 174 评论",
-            "sentiment": "positive",
-            "comments": 174,
-            "url": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661",
+            "title": "EU Commission looking at practical consequences of Anthropic decision",
+            "insight": "HN 热议：38 分 · 19 评论",
+            "sentiment": "neutral",
+            "comments": 19,
+            "url": "https://www.reuters.com/legal/litigation/eu-commission-looking-practical-consequences-anthropic-decision-spokesperson-2026-06-14/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
-            "insight": "HN 热议：266 分 · 166 评论",
-            "sentiment": "positive",
-            "comments": 166,
-            "url": "https://github.com/tensorzero/tensorzero",
+            "title": "KPMG pulls report on AI usage due to apparent hallucinations",
+            "insight": "HN 热议：51 分 · 3 评论",
+            "sentiment": "neutral",
+            "comments": 3,
+            "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Ancient genome duplications laid the foundations of complex brains",
-            "insight": "HN 热议：35 分 · 3 评论",
+            "title": "Cloud-based LLM gold rush is ending",
+            "insight": "HN 热议：29 分 · 3 评论",
             "sentiment": "neutral",
             "comments": 3,
-            "url": "https://www.ox.ac.uk/news/2026-06-09-ancient-genome-duplications-laid-the-foundations-of-complex-brains",
+            "url": "https://automato.substack.com/p/apple-wwdc-and-the-fable-5-embargo",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-14T13:23:17Z",
+    "updated": "2026-06-14T16:15:18Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
