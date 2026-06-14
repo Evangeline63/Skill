@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-14T16:15:18Z",
+    "updated": "2026-06-14T19:04:40Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-14T16:15:18Z",
+    "updated": "2026-06-14T19:04:40Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,7 +266,7 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-14T16:15:18Z",
+    "updated": "2026-06-14T19:04:40Z",
     "repos": [
         {
             "rank": 1,
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163708,
-            "stars_today": 163708,
+            "stars": 163716,
+            "stars_today": 163716,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93830,
-            "stars_today": 93830,
+            "stars": 93834,
+            "stars_today": 93834,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 82224,
-            "stars_today": 82224,
+            "stars": 82238,
+            "stars_today": 82238,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 77024,
-            "stars_today": 77024,
+            "stars": 77038,
+            "stars_today": 77038,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 53564,
-            "stars_today": 53564,
+            "stars": 53566,
+            "stars_today": 53566,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-14T16:15:18Z",
+    "updated": "2026-06-14T19:04:40Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-14T16:15:18Z",
+    "updated": "2026-06-14T19:04:40Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-14T16:15:18Z",
+    "updated": "2026-06-14T19:04:40Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "No, everyone is not using AI for everything",
-            "insight": "HN 热议：120 分 · 93 评论",
+            "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
+            "insight": "HN 热议：155 分 · 86 评论",
             "sentiment": "neutral",
-            "comments": 93,
-            "url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
+            "comments": 86,
+            "url": "https://github.com/nex-agi/Nex-N2/issues/4",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
-            "insight": "HN 热议：4 分 · 1 评论",
-            "sentiment": "neutral",
-            "comments": 1,
-            "url": "https://github.com/nex-agi/Nex-N2/issues/4",
+            "title": "No, everyone is not using AI for everything",
+            "insight": "HN 热议：299 分 · 302 评论",
+            "sentiment": "positive",
+            "comments": 302,
+            "url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "EU Commission looking at practical consequences of Anthropic decision",
-            "insight": "HN 热议：38 分 · 19 评论",
+            "title": "FTX's former Anthropic stake would be worth about $75B at today's valuation",
+            "insight": "HN 热议：37 分 · 16 评论",
             "sentiment": "neutral",
-            "comments": 19,
-            "url": "https://www.reuters.com/legal/litigation/eu-commission-looking-practical-consequences-anthropic-decision-spokesperson-2026-06-14/",
+            "comments": 16,
+            "url": "https://news.ycombinator.com/item?id=48529190",
             "id": 3
         },
         {
             "source": "HackerNews",
             "title": "KPMG pulls report on AI usage due to apparent hallucinations",
-            "insight": "HN 热议：51 分 · 3 评论",
+            "insight": "HN 热议：92 分 · 12 评论",
             "sentiment": "neutral",
-            "comments": 3,
+            "comments": 12,
             "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Cloud-based LLM gold rush is ending",
-            "insight": "HN 热议：29 分 · 3 评论",
-            "sentiment": "neutral",
-            "comments": 3,
-            "url": "https://automato.substack.com/p/apple-wwdc-and-the-fable-5-embargo",
+            "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
+            "insight": "HN 热议：766 分 · 568 评论",
+            "sentiment": "positive",
+            "comments": 568,
+            "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-14T16:15:18Z",
+    "updated": "2026-06-14T19:04:40Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
