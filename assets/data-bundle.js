@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-15T14:52:40Z",
+    "updated": "2026-06-15T18:58:46Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-15T14:52:40Z",
+    "updated": "2026-06-15T18:58:46Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-15T14:52:40Z",
+    "updated": "2026-06-15T18:58:46Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184956,
-            "stars_today": 184956,
+            "stars": 184957,
+            "stars_today": 184957,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163768,
-            "stars_today": 163768,
+            "stars": 163776,
+            "stars_today": 163776,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93861,
-            "stars_today": 93861,
+            "stars": 93863,
+            "stars_today": 93863,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 82458,
-            "stars_today": 82458,
+            "stars": 82503,
+            "stars_today": 82503,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 77170,
-            "stars_today": 77170,
+            "stars": 77195,
+            "stars_today": 77195,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 53607,
-            "stars_today": 53607,
+            "stars": 53608,
+            "stars_today": 53608,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-15T14:52:40Z",
+    "updated": "2026-06-15T18:58:46Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-15T14:52:40Z",
+    "updated": "2026-06-15T18:58:46Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-15T14:52:40Z",
+    "updated": "2026-06-15T18:58:46Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "CrankGPT",
-            "insight": "HN 热议：94 分 · 38 评论",
-            "sentiment": "neutral",
-            "comments": 38,
-            "url": "https://crankgpt.com",
+            "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
+            "insight": "HN 热议：252 分 · 50 评论",
+            "sentiment": "positive",
+            "comments": 50,
+            "url": "https://tinywind.io",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: I wrote a C++ ray tracer from scratch without AI",
-            "insight": "HN 热议：85 分 · 30 评论",
-            "sentiment": "neutral",
-            "comments": 30,
-            "url": "https://github.com/themartiano/luz",
+            "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
+            "insight": "HN 热议：202 分 · 133 评论",
+            "sentiment": "positive",
+            "comments": 133,
+            "url": "https://news.ycombinator.com/item?id=48542100",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Anthropic's Safety Superpower",
-            "insight": "HN 热议：152 分 · 120 评论",
+            "title": "My Homelab AI Dev Platform",
+            "insight": "HN 热议：119 分 · 32 评论",
             "sentiment": "neutral",
-            "comments": 120,
-            "url": "https://stratechery.com/2026/anthropics-safety-superpower/",
+            "comments": 32,
+            "url": "https://rsgm.dev/post/ai-dev-platform/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
-            "insight": "HN 热议：377 分 · 199 评论",
-            "sentiment": "positive",
-            "comments": 199,
-            "url": "https://github.com/nex-agi/Nex-N2/issues/4",
+            "title": "Show HN: Fata – Spaced repetition to fight skill rot from AI coding",
+            "insight": "HN 热议：23 分 · 9 评论",
+            "sentiment": "neutral",
+            "comments": 9,
+            "url": "https://fata.dev",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "A short history of Cerro Torre, the most controversial mountain (2012)",
-            "insight": "HN 热议：62 分 · 38 评论",
-            "sentiment": "neutral",
-            "comments": 38,
-            "url": "https://www.markhorrell.com/blog/2012/a-short-history-of-cerro-torre/",
+            "title": "CrankGPT",
+            "insight": "HN 热议：470 分 · 191 评论",
+            "sentiment": "positive",
+            "comments": 191,
+            "url": "https://crankgpt.com",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-15T14:52:40Z",
+    "updated": "2026-06-15T18:58:46Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

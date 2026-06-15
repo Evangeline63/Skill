@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-15T14:52:40Z",
+  "updated": "2026-06-15T18:58:46Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "CrankGPT",
-      "insight": "HN 热议：94 分 · 38 评论",
-      "sentiment": "neutral",
-      "comments": 38,
-      "url": "https://crankgpt.com",
+      "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
+      "insight": "HN 热议：252 分 · 50 评论",
+      "sentiment": "positive",
+      "comments": 50,
+      "url": "https://tinywind.io",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: I wrote a C++ ray tracer from scratch without AI",
-      "insight": "HN 热议：85 分 · 30 评论",
-      "sentiment": "neutral",
-      "comments": 30,
-      "url": "https://github.com/themartiano/luz",
+      "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
+      "insight": "HN 热议：202 分 · 133 评论",
+      "sentiment": "positive",
+      "comments": 133,
+      "url": "https://news.ycombinator.com/item?id=48542100",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Anthropic's Safety Superpower",
-      "insight": "HN 热议：152 分 · 120 评论",
+      "title": "My Homelab AI Dev Platform",
+      "insight": "HN 热议：119 分 · 32 评论",
       "sentiment": "neutral",
-      "comments": 120,
-      "url": "https://stratechery.com/2026/anthropics-safety-superpower/",
+      "comments": 32,
+      "url": "https://rsgm.dev/post/ai-dev-platform/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
-      "insight": "HN 热议：377 分 · 199 评论",
-      "sentiment": "positive",
-      "comments": 199,
-      "url": "https://github.com/nex-agi/Nex-N2/issues/4",
+      "title": "Show HN: Fata – Spaced repetition to fight skill rot from AI coding",
+      "insight": "HN 热议：23 分 · 9 评论",
+      "sentiment": "neutral",
+      "comments": 9,
+      "url": "https://fata.dev",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "A short history of Cerro Torre, the most controversial mountain (2012)",
-      "insight": "HN 热议：62 分 · 38 评论",
-      "sentiment": "neutral",
-      "comments": 38,
-      "url": "https://www.markhorrell.com/blog/2012/a-short-history-of-cerro-torre/",
+      "title": "CrankGPT",
+      "insight": "HN 热议：470 分 · 191 评论",
+      "sentiment": "positive",
+      "comments": 191,
+      "url": "https://crankgpt.com",
       "id": 5
     }
   ]
