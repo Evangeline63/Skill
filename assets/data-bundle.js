@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-14T22:00:48Z",
+    "updated": "2026-06-15T02:29:42Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-14T22:00:48Z",
+    "updated": "2026-06-15T02:29:42Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-14T22:00:48Z",
+    "updated": "2026-06-15T02:29:42Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184939,
-            "stars_today": 184939,
+            "stars": 184940,
+            "stars_today": 184940,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163722,
-            "stars_today": 163722,
+            "stars": 163732,
+            "stars_today": 163732,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93837,
-            "stars_today": 93837,
+            "stars": 93843,
+            "stars_today": 93843,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 82254,
-            "stars_today": 82254,
+            "stars": 82292,
+            "stars_today": 82292,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 77048,
-            "stars_today": 77048,
+            "stars": 77078,
+            "stars_today": 77078,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 53569,
-            "stars_today": 53569,
+            "stars": 53575,
+            "stars_today": 53575,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-14T22:00:48Z",
+    "updated": "2026-06-15T02:29:42Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-14T22:00:48Z",
+    "updated": "2026-06-15T02:29:42Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-14T22:00:48Z",
+    "updated": "2026-06-15T02:29:42Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
-            "insight": "HN 热议：230 分 · 125 评论",
+            "insight": "HN 热议：287 分 · 151 评论",
             "sentiment": "positive",
-            "comments": 125,
+            "comments": 151,
             "url": "https://github.com/nex-agi/Nex-N2/issues/4",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Inverse Rubric Optimization: A testbed for agent science",
-            "insight": "HN 热议：15 分 · 0 评论",
+            "title": "AI is code – and can't be prompted into being smarter",
+            "insight": "HN 热议：86 分 · 48 评论",
             "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://fulcrum.inc/2026/06/09/inverse-rubric-optimization.html",
+            "comments": 48,
+            "url": "https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Not everyone is using AI for everything",
-            "insight": "HN 热议：384 分 · 406 评论",
-            "sentiment": "positive",
-            "comments": 406,
-            "url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
+            "title": "The hallucinogenic mushroom that contains no known psychedelic",
+            "insight": "HN 热议：25 分 · 11 评论",
+            "sentiment": "neutral",
+            "comments": 11,
+            "url": "https://psychedelics.co.uk/news/a-mushroom-genus-that-gets-people-high-but-not-the",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "AI is code – and can't be prompted into being smarter",
-            "insight": "HN 热议：5 分 · 0 评论",
-            "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141",
+            "title": "Not everyone is using AI for everything",
+            "insight": "HN 热议：430 分 · 466 评论",
+            "sentiment": "positive",
+            "comments": 466,
+            "url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Ponytail – make your AI agent think like the laziest senior dev in the room",
-            "insight": "HN 热议：21 分 · 1 评论",
+            "title": "Inverse Rubric Optimization: A testbed for agent science",
+            "insight": "HN 热议：25 分 · 0 评论",
             "sentiment": "neutral",
-            "comments": 1,
-            "url": "https://github.com/DietrichGebert/ponytail",
+            "comments": 0,
+            "url": "https://fulcrum.inc/2026/06/09/inverse-rubric-optimization.html",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-14T22:00:48Z",
+    "updated": "2026-06-15T02:29:42Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

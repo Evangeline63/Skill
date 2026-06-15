@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-14T22:00:48Z",
+  "updated": "2026-06-15T02:29:42Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
-      "insight": "HN 热议：230 分 · 125 评论",
+      "insight": "HN 热议：287 分 · 151 评论",
       "sentiment": "positive",
-      "comments": 125,
+      "comments": 151,
       "url": "https://github.com/nex-agi/Nex-N2/issues/4",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Inverse Rubric Optimization: A testbed for agent science",
-      "insight": "HN 热议：15 分 · 0 评论",
+      "title": "AI is code – and can't be prompted into being smarter",
+      "insight": "HN 热议：86 分 · 48 评论",
       "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://fulcrum.inc/2026/06/09/inverse-rubric-optimization.html",
+      "comments": 48,
+      "url": "https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Not everyone is using AI for everything",
-      "insight": "HN 热议：384 分 · 406 评论",
-      "sentiment": "positive",
-      "comments": 406,
-      "url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
+      "title": "The hallucinogenic mushroom that contains no known psychedelic",
+      "insight": "HN 热议：25 分 · 11 评论",
+      "sentiment": "neutral",
+      "comments": 11,
+      "url": "https://psychedelics.co.uk/news/a-mushroom-genus-that-gets-people-high-but-not-the",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "AI is code – and can't be prompted into being smarter",
-      "insight": "HN 热议：5 分 · 0 评论",
-      "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141",
+      "title": "Not everyone is using AI for everything",
+      "insight": "HN 热议：430 分 · 466 评论",
+      "sentiment": "positive",
+      "comments": 466,
+      "url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Ponytail – make your AI agent think like the laziest senior dev in the room",
-      "insight": "HN 热议：21 分 · 1 评论",
+      "title": "Inverse Rubric Optimization: A testbed for agent science",
+      "insight": "HN 热议：25 分 · 0 评论",
       "sentiment": "neutral",
-      "comments": 1,
-      "url": "https://github.com/DietrichGebert/ponytail",
+      "comments": 0,
+      "url": "https://fulcrum.inc/2026/06/09/inverse-rubric-optimization.html",
       "id": 5
     }
   ]
