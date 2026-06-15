@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-15T18:58:46Z",
+    "updated": "2026-06-15T22:52:34Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-15T18:58:46Z",
+    "updated": "2026-06-15T22:52:34Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-15T18:58:46Z",
+    "updated": "2026-06-15T22:52:34Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184957,
-            "stars_today": 184957,
+            "stars": 184959,
+            "stars_today": 184959,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163776,
-            "stars_today": 163776,
+            "stars": 163778,
+            "stars_today": 163778,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93863,
-            "stars_today": 93863,
+            "stars": 93870,
+            "stars_today": 93870,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 82503,
-            "stars_today": 82503,
+            "stars": 82534,
+            "stars_today": 82534,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 77195,
-            "stars_today": 77195,
+            "stars": 77217,
+            "stars_today": 77217,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 53608,
-            "stars_today": 53608,
+            "stars": 53612,
+            "stars_today": 53612,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-15T18:58:46Z",
+    "updated": "2026-06-15T22:52:34Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-15T18:58:46Z",
+    "updated": "2026-06-15T22:52:34Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-15T18:58:46Z",
+    "updated": "2026-06-15T22:52:34Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
-            "insight": "HN 热议：252 分 · 50 评论",
+            "insight": "HN 热议：520 分 · 106 评论",
             "sentiment": "positive",
-            "comments": 50,
+            "comments": 106,
             "url": "https://tinywind.io",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
-            "insight": "HN 热议：202 分 · 133 评论",
+            "insight": "HN 热议：545 分 · 281 评论",
             "sentiment": "positive",
-            "comments": 133,
+            "comments": 281,
             "url": "https://news.ycombinator.com/item?id=48542100",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "My Homelab AI Dev Platform",
-            "insight": "HN 热议：119 分 · 32 评论",
+            "title": "Why I Email Complete Strangers",
+            "insight": "HN 热议：17 分 · 3 评论",
             "sentiment": "neutral",
-            "comments": 32,
-            "url": "https://rsgm.dev/post/ai-dev-platform/",
+            "comments": 3,
+            "url": "https://www.goodinternetmagazine.com/why-i-email-complete-strangers/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Fata – Spaced repetition to fight skill rot from AI coding",
-            "insight": "HN 热议：23 分 · 9 评论",
+            "title": "My Homelab AI Dev Platform",
+            "insight": "HN 热议：200 分 · 41 评论",
             "sentiment": "neutral",
-            "comments": 9,
-            "url": "https://fata.dev",
+            "comments": 41,
+            "url": "https://rsgm.dev/post/ai-dev-platform/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "CrankGPT",
-            "insight": "HN 热议：470 分 · 191 评论",
-            "sentiment": "positive",
-            "comments": 191,
-            "url": "https://crankgpt.com",
+            "title": "Show HN: Fata – Spaced repetition to fight skill rot from AI coding",
+            "insight": "HN 热议：67 分 · 41 评论",
+            "sentiment": "neutral",
+            "comments": 41,
+            "url": "https://fata.dev",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-15T18:58:46Z",
+    "updated": "2026-06-15T22:52:34Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

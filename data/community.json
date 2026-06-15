@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-15T18:58:46Z",
+  "updated": "2026-06-15T22:52:34Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
-      "insight": "HN 热议：252 分 · 50 评论",
+      "insight": "HN 热议：520 分 · 106 评论",
       "sentiment": "positive",
-      "comments": 50,
+      "comments": 106,
       "url": "https://tinywind.io",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
-      "insight": "HN 热议：202 分 · 133 评论",
+      "insight": "HN 热议：545 分 · 281 评论",
       "sentiment": "positive",
-      "comments": 133,
+      "comments": 281,
       "url": "https://news.ycombinator.com/item?id=48542100",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "My Homelab AI Dev Platform",
-      "insight": "HN 热议：119 分 · 32 评论",
+      "title": "Why I Email Complete Strangers",
+      "insight": "HN 热议：17 分 · 3 评论",
       "sentiment": "neutral",
-      "comments": 32,
-      "url": "https://rsgm.dev/post/ai-dev-platform/",
+      "comments": 3,
+      "url": "https://www.goodinternetmagazine.com/why-i-email-complete-strangers/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Fata – Spaced repetition to fight skill rot from AI coding",
-      "insight": "HN 热议：23 分 · 9 评论",
+      "title": "My Homelab AI Dev Platform",
+      "insight": "HN 热议：200 分 · 41 评论",
       "sentiment": "neutral",
-      "comments": 9,
-      "url": "https://fata.dev",
+      "comments": 41,
+      "url": "https://rsgm.dev/post/ai-dev-platform/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "CrankGPT",
-      "insight": "HN 热议：470 分 · 191 评论",
-      "sentiment": "positive",
-      "comments": 191,
-      "url": "https://crankgpt.com",
+      "title": "Show HN: Fata – Spaced repetition to fight skill rot from AI coding",
+      "insight": "HN 热议：67 分 · 41 评论",
+      "sentiment": "neutral",
+      "comments": 41,
+      "url": "https://fata.dev",
       "id": 5
     }
   ]
