@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-15T02:29:42Z",
+  "updated": "2026-06-15T08:45:27Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
-      "insight": "HN 热议：287 分 · 151 评论",
+      "insight": "HN 热议：342 分 · 184 评论",
       "sentiment": "positive",
-      "comments": 151,
+      "comments": 184,
       "url": "https://github.com/nex-agi/Nex-N2/issues/4",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "AI is code – and can't be prompted into being smarter",
-      "insight": "HN 热议：86 分 · 48 评论",
+      "title": "A short history of Cerro Torre, the most controversial mountain (2012)",
+      "insight": "HN 热议：39 分 · 15 评论",
       "sentiment": "neutral",
-      "comments": 48,
-      "url": "https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141",
+      "comments": 15,
+      "url": "https://www.markhorrell.com/blog/2012/a-short-history-of-cerro-torre/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "The hallucinogenic mushroom that contains no known psychedelic",
-      "insight": "HN 热议：25 分 · 11 评论",
-      "sentiment": "neutral",
-      "comments": 11,
-      "url": "https://psychedelics.co.uk/news/a-mushroom-genus-that-gets-people-high-but-not-the",
+      "title": "Not everyone is using AI for everything",
+      "insight": "HN 热议：462 分 · 495 评论",
+      "sentiment": "positive",
+      "comments": 495,
+      "url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Not everyone is using AI for everything",
-      "insight": "HN 热议：430 分 · 466 评论",
-      "sentiment": "positive",
-      "comments": 466,
-      "url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
+      "title": "AI is code – and can't be prompted into being smarter",
+      "insight": "HN 热议：130 分 · 110 评论",
+      "sentiment": "neutral",
+      "comments": 110,
+      "url": "https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Inverse Rubric Optimization: A testbed for agent science",
-      "insight": "HN 热议：25 分 · 0 评论",
+      "title": "Ponytail – make your AI agent think like the laziest senior dev in the room",
+      "insight": "HN 热议：61 分 · 6 评论",
       "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://fulcrum.inc/2026/06/09/inverse-rubric-optimization.html",
+      "comments": 6,
+      "url": "https://github.com/DietrichGebert/ponytail",
       "id": 5
     }
   ]
