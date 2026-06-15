@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-15T08:45:27Z",
+  "updated": "2026-06-15T14:52:40Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
-      "insight": "HN 热议：342 分 · 184 评论",
-      "sentiment": "positive",
-      "comments": 184,
-      "url": "https://github.com/nex-agi/Nex-N2/issues/4",
+      "title": "CrankGPT",
+      "insight": "HN 热议：94 分 · 38 评论",
+      "sentiment": "neutral",
+      "comments": 38,
+      "url": "https://crankgpt.com",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "A short history of Cerro Torre, the most controversial mountain (2012)",
-      "insight": "HN 热议：39 分 · 15 评论",
+      "title": "Show HN: I wrote a C++ ray tracer from scratch without AI",
+      "insight": "HN 热议：85 分 · 30 评论",
       "sentiment": "neutral",
-      "comments": 15,
-      "url": "https://www.markhorrell.com/blog/2012/a-short-history-of-cerro-torre/",
+      "comments": 30,
+      "url": "https://github.com/themartiano/luz",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Not everyone is using AI for everything",
-      "insight": "HN 热议：462 分 · 495 评论",
-      "sentiment": "positive",
-      "comments": 495,
-      "url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
+      "title": "Anthropic's Safety Superpower",
+      "insight": "HN 热议：152 分 · 120 评论",
+      "sentiment": "neutral",
+      "comments": 120,
+      "url": "https://stratechery.com/2026/anthropics-safety-superpower/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "AI is code – and can't be prompted into being smarter",
-      "insight": "HN 热议：130 分 · 110 评论",
-      "sentiment": "neutral",
-      "comments": 110,
-      "url": "https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141",
+      "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
+      "insight": "HN 热议：377 分 · 199 评论",
+      "sentiment": "positive",
+      "comments": 199,
+      "url": "https://github.com/nex-agi/Nex-N2/issues/4",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Ponytail – make your AI agent think like the laziest senior dev in the room",
-      "insight": "HN 热议：61 分 · 6 评论",
+      "title": "A short history of Cerro Torre, the most controversial mountain (2012)",
+      "insight": "HN 热议：62 分 · 38 评论",
       "sentiment": "neutral",
-      "comments": 6,
-      "url": "https://github.com/DietrichGebert/ponytail",
+      "comments": 38,
+      "url": "https://www.markhorrell.com/blog/2012/a-short-history-of-cerro-torre/",
       "id": 5
     }
   ]

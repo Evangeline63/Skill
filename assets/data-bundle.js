@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-15T08:45:27Z",
+    "updated": "2026-06-15T14:52:40Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-15T08:45:27Z",
+    "updated": "2026-06-15T14:52:40Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-15T08:45:27Z",
+    "updated": "2026-06-15T14:52:40Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184946,
-            "stars_today": 184946,
+            "stars": 184956,
+            "stars_today": 184956,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163750,
-            "stars_today": 163750,
+            "stars": 163768,
+            "stars_today": 163768,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93851,
-            "stars_today": 93851,
+            "stars": 93861,
+            "stars_today": 93861,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 82361,
-            "stars_today": 82361,
+            "stars": 82458,
+            "stars_today": 82458,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 77129,
-            "stars_today": 77129,
+            "stars": 77170,
+            "stars_today": 77170,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 53588,
-            "stars_today": 53588,
+            "stars": 53607,
+            "stars_today": 53607,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-15T08:45:27Z",
+    "updated": "2026-06-15T14:52:40Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-15T08:45:27Z",
+    "updated": "2026-06-15T14:52:40Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-15T08:45:27Z",
+    "updated": "2026-06-15T14:52:40Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
-            "insight": "HN 热议：342 分 · 184 评论",
-            "sentiment": "positive",
-            "comments": 184,
-            "url": "https://github.com/nex-agi/Nex-N2/issues/4",
+            "title": "CrankGPT",
+            "insight": "HN 热议：94 分 · 38 评论",
+            "sentiment": "neutral",
+            "comments": 38,
+            "url": "https://crankgpt.com",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "A short history of Cerro Torre, the most controversial mountain (2012)",
-            "insight": "HN 热议：39 分 · 15 评论",
+            "title": "Show HN: I wrote a C++ ray tracer from scratch without AI",
+            "insight": "HN 热议：85 分 · 30 评论",
             "sentiment": "neutral",
-            "comments": 15,
-            "url": "https://www.markhorrell.com/blog/2012/a-short-history-of-cerro-torre/",
+            "comments": 30,
+            "url": "https://github.com/themartiano/luz",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Not everyone is using AI for everything",
-            "insight": "HN 热议：462 分 · 495 评论",
-            "sentiment": "positive",
-            "comments": 495,
-            "url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
+            "title": "Anthropic's Safety Superpower",
+            "insight": "HN 热议：152 分 · 120 评论",
+            "sentiment": "neutral",
+            "comments": 120,
+            "url": "https://stratechery.com/2026/anthropics-safety-superpower/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "AI is code – and can't be prompted into being smarter",
-            "insight": "HN 热议：130 分 · 110 评论",
-            "sentiment": "neutral",
-            "comments": 110,
-            "url": "https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141",
+            "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
+            "insight": "HN 热议：377 分 · 199 评论",
+            "sentiment": "positive",
+            "comments": 199,
+            "url": "https://github.com/nex-agi/Nex-N2/issues/4",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Ponytail – make your AI agent think like the laziest senior dev in the room",
-            "insight": "HN 热议：61 分 · 6 评论",
+            "title": "A short history of Cerro Torre, the most controversial mountain (2012)",
+            "insight": "HN 热议：62 分 · 38 评论",
             "sentiment": "neutral",
-            "comments": 6,
-            "url": "https://github.com/DietrichGebert/ponytail",
+            "comments": 38,
+            "url": "https://www.markhorrell.com/blog/2012/a-short-history-of-cerro-torre/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-15T08:45:27Z",
+    "updated": "2026-06-15T14:52:40Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
