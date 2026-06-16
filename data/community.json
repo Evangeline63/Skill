@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-15T22:52:34Z",
+  "updated": "2026-06-16T02:32:22Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
-      "insight": "HN 热议：520 分 · 106 评论",
+      "insight": "HN 热议：623 分 · 127 评论",
       "sentiment": "positive",
-      "comments": 106,
+      "comments": 127,
       "url": "https://tinywind.io",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
-      "insight": "HN 热议：545 分 · 281 评论",
+      "insight": "HN 热议：710 分 · 342 评论",
       "sentiment": "positive",
-      "comments": 281,
+      "comments": 342,
       "url": "https://news.ycombinator.com/item?id=48542100",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Why I Email Complete Strangers",
-      "insight": "HN 热议：17 分 · 3 评论",
+      "title": "Why I email complete strangers",
+      "insight": "HN 热议：82 分 · 41 评论",
       "sentiment": "neutral",
-      "comments": 3,
+      "comments": 41,
       "url": "https://www.goodinternetmagazine.com/why-i-email-complete-strangers/",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "My Homelab AI Dev Platform",
-      "insight": "HN 热议：200 分 · 41 评论",
-      "sentiment": "neutral",
-      "comments": 41,
+      "insight": "HN 热议：248 分 · 49 评论",
+      "sentiment": "positive",
+      "comments": 49,
       "url": "https://rsgm.dev/post/ai-dev-platform/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Fata – Spaced repetition to fight skill rot from AI coding",
-      "insight": "HN 热议：67 分 · 41 评论",
+      "title": "Claude Corps",
+      "insight": "HN 热议：96 分 · 60 评论",
       "sentiment": "neutral",
-      "comments": 41,
-      "url": "https://fata.dev",
+      "comments": 60,
+      "url": "https://www.anthropic.com/news/claude-corps",
       "id": 5
     }
   ]
