@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-16T02:32:22Z",
+    "updated": "2026-06-16T08:36:28Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-16T02:32:22Z",
+    "updated": "2026-06-16T08:36:28Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-16T02:32:22Z",
+    "updated": "2026-06-16T08:36:28Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184962,
-            "stars_today": 184962,
+            "stars": 184965,
+            "stars_today": 184965,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163783,
-            "stars_today": 163783,
+            "stars": 163798,
+            "stars_today": 163798,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93871,
-            "stars_today": 93871,
+            "stars": 93875,
+            "stars_today": 93875,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 82567,
-            "stars_today": 82567,
+            "stars": 82636,
+            "stars_today": 82636,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 77251,
-            "stars_today": 77251,
+            "stars": 77288,
+            "stars_today": 77288,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 53617,
-            "stars_today": 53617,
+            "stars": 53632,
+            "stars_today": 53632,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-16T02:32:22Z",
+    "updated": "2026-06-16T08:36:28Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-16T02:32:22Z",
+    "updated": "2026-06-16T08:36:28Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-16T02:32:22Z",
+    "updated": "2026-06-16T08:36:28Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
-            "insight": "HN 热议：623 分 · 127 评论",
+            "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
+            "insight": "HN 热议：940 分 · 423 评论",
             "sentiment": "positive",
-            "comments": 127,
-            "url": "https://tinywind.io",
+            "comments": 423,
+            "url": "https://news.ycombinator.com/item?id=48542100",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
-            "insight": "HN 热议：710 分 · 342 评论",
+            "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
+            "insight": "HN 热议：801 分 · 152 评论",
             "sentiment": "positive",
-            "comments": 342,
-            "url": "https://news.ycombinator.com/item?id=48542100",
+            "comments": 152,
+            "url": "https://tinywind.io",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "Why I email complete strangers",
-            "insight": "HN 热议：82 分 · 41 评论",
+            "insight": "HN 热议：144 分 · 61 评论",
             "sentiment": "neutral",
-            "comments": 41,
+            "comments": 61,
             "url": "https://www.goodinternetmagazine.com/why-i-email-complete-strangers/",
             "id": 3
         },
         {
             "source": "HackerNews",
             "title": "My Homelab AI Dev Platform",
-            "insight": "HN 热议：248 分 · 49 评论",
+            "insight": "HN 热议：302 分 · 52 评论",
             "sentiment": "positive",
-            "comments": 49,
+            "comments": 52,
             "url": "https://rsgm.dev/post/ai-dev-platform/",
             "id": 4
         },
         {
             "source": "HackerNews",
             "title": "Claude Corps",
-            "insight": "HN 热议：96 分 · 60 评论",
+            "insight": "HN 热议：127 分 · 85 评论",
             "sentiment": "neutral",
-            "comments": 60,
+            "comments": 85,
             "url": "https://www.anthropic.com/news/claude-corps",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-16T02:32:22Z",
+    "updated": "2026-06-16T08:36:28Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
