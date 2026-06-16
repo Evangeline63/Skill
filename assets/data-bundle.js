@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-16T13:20:49Z",
+    "updated": "2026-06-16T18:50:22Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-16T13:20:49Z",
+    "updated": "2026-06-16T18:50:22Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-16T13:20:49Z",
+    "updated": "2026-06-16T18:50:22Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184971,
-            "stars_today": 184971,
+            "stars": 184977,
+            "stars_today": 184977,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163809,
-            "stars_today": 163809,
+            "stars": 163817,
+            "stars_today": 163817,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93878,
-            "stars_today": 93878,
+            "stars": 93886,
+            "stars_today": 93886,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 82687,
-            "stars_today": 82687,
+            "stars": 82748,
+            "stars_today": 82748,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 77325,
-            "stars_today": 77325,
+            "stars": 77363,
+            "stars_today": 77363,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 53640,
-            "stars_today": 53640,
+            "stars": 53652,
+            "stars_today": 53652,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-16T13:20:49Z",
+    "updated": "2026-06-16T18:50:22Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-16T13:20:49Z",
+    "updated": "2026-06-16T18:50:22Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-16T13:20:49Z",
+    "updated": "2026-06-16T18:50:22Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
-            "insight": "HN 热议：1114 分 · 478 评论",
-            "sentiment": "positive",
-            "comments": 478,
-            "url": "https://news.ycombinator.com/item?id=48542100",
+            "title": "Claude: Elevated errors across many models",
+            "insight": "HN 热议：114 分 · 86 评论",
+            "sentiment": "neutral",
+            "comments": 86,
+            "url": "https://status.claude.com/incidents/xmhsglsz3h3w",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Feds freaked over Fable 5 after simple 'fix this code' prompt, not jailbreak",
-            "insight": "HN 热议：195 分 · 110 评论",
+            "title": "GPT‑NL: a sovereign language model for the Netherlands",
+            "insight": "HN 热议：22 分 · 5 评论",
             "sentiment": "neutral",
-            "comments": 110,
-            "url": "https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827",
+            "comments": 5,
+            "url": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
-            "insight": "HN 热议：904 分 · 162 评论",
+            "title": "I admire Fabrice Bellard. He is almost certainly a better overall programmer",
+            "insight": "HN 热议：766 分 · 366 评论",
             "sentiment": "positive",
-            "comments": 162,
-            "url": "https://tinywind.io",
+            "comments": 366,
+            "url": "https://twitter.com/ID_AA_Carmack/status/2064095424420487226",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "My Homelab AI Dev Platform",
-            "insight": "HN 热议：333 分 · 54 评论",
-            "sentiment": "positive",
+            "title": "After AI Takes Everything",
+            "insight": "HN 热议：63 分 · 54 评论",
+            "sentiment": "neutral",
             "comments": 54,
-            "url": "https://rsgm.dev/post/ai-dev-platform/",
+            "url": "https://ursb.me/en/posts/after-ai-takes-everything/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Why I email complete strangers",
-            "insight": "HN 热议：176 分 · 79 评论",
+            "title": "The octopus architecture for AI agents",
+            "insight": "HN 热议：11 分 · 2 评论",
             "sentiment": "neutral",
-            "comments": 79,
-            "url": "https://www.goodinternetmagazine.com/why-i-email-complete-strangers/",
+            "comments": 2,
+            "url": "https://blog.goodman.dev/blog/octopus-agent-architecture/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-16T13:20:49Z",
+    "updated": "2026-06-16T18:50:22Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
