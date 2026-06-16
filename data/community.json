@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-16T08:36:28Z",
+  "updated": "2026-06-16T13:20:49Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
-      "insight": "HN 热议：940 分 · 423 评论",
+      "insight": "HN 热议：1114 分 · 478 评论",
       "sentiment": "positive",
-      "comments": 423,
+      "comments": 478,
       "url": "https://news.ycombinator.com/item?id=48542100",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
-      "insight": "HN 热议：801 分 · 152 评论",
-      "sentiment": "positive",
-      "comments": 152,
-      "url": "https://tinywind.io",
+      "title": "Feds freaked over Fable 5 after simple 'fix this code' prompt, not jailbreak",
+      "insight": "HN 热议：195 分 · 110 评论",
+      "sentiment": "neutral",
+      "comments": 110,
+      "url": "https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Why I email complete strangers",
-      "insight": "HN 热议：144 分 · 61 评论",
-      "sentiment": "neutral",
-      "comments": 61,
-      "url": "https://www.goodinternetmagazine.com/why-i-email-complete-strangers/",
+      "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
+      "insight": "HN 热议：904 分 · 162 评论",
+      "sentiment": "positive",
+      "comments": 162,
+      "url": "https://tinywind.io",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "My Homelab AI Dev Platform",
-      "insight": "HN 热议：302 分 · 52 评论",
+      "insight": "HN 热议：333 分 · 54 评论",
       "sentiment": "positive",
-      "comments": 52,
+      "comments": 54,
       "url": "https://rsgm.dev/post/ai-dev-platform/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Claude Corps",
-      "insight": "HN 热议：127 分 · 85 评论",
+      "title": "Why I email complete strangers",
+      "insight": "HN 热议：176 分 · 79 评论",
       "sentiment": "neutral",
-      "comments": 85,
-      "url": "https://www.anthropic.com/news/claude-corps",
+      "comments": 79,
+      "url": "https://www.goodinternetmagazine.com/why-i-email-complete-strangers/",
       "id": 5
     }
   ]
