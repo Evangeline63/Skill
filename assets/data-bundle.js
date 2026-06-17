@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-17T19:55:11Z",
+    "updated": "2026-06-17T22:27:51Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-17T19:55:11Z",
+    "updated": "2026-06-17T22:27:51Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-17T19:55:11Z",
+    "updated": "2026-06-17T22:27:51Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184999,
-            "stars_today": 184999,
+            "stars": 185000,
+            "stars_today": 185000,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163856,
-            "stars_today": 163856,
+            "stars": 163857,
+            "stars_today": 163857,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93911,
-            "stars_today": 93911,
+            "stars": 93914,
+            "stars_today": 93914,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 82969,
-            "stars_today": 82969,
+            "stars": 82982,
+            "stars_today": 82982,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 77547,
-            "stars_today": 77547,
+            "stars": 77553,
+            "stars_today": 77553,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 53687,
-            "stars_today": 53687,
+            "stars": 53689,
+            "stars_today": 53689,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-17T19:55:11Z",
+    "updated": "2026-06-17T22:27:51Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-17T19:55:11Z",
+    "updated": "2026-06-17T22:27:51Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-17T19:55:11Z",
+    "updated": "2026-06-17T22:27:51Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
-            "insight": "HN 热议：91 分 · 42 评论",
+            "title": "A robot is sprinting towards you. Do you want it running on Claude or Grok?",
+            "insight": "HN 热议：92 分 · 69 评论",
             "sentiment": "neutral",
-            "comments": 42,
-            "url": "https://github.com/Adam-CAD/CADAM",
+            "comments": 69,
+            "url": "https://openrouter.ai/blog/insights/royale-last-agent-standing/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "The hacker sent by Anthropic to calm the government's nerves about AI safety",
-            "insight": "HN 热议：25 分 · 12 评论",
+            "title": "Leaked financial docs show OpenAI is losing billions of dollars a year",
+            "insight": "HN 热议：74 分 · 29 评论",
             "sentiment": "neutral",
-            "comments": 12,
-            "url": "https://www.wsj.com/tech/ai/anthropic-mythos-safety-nicholas-carlini-20bceaa3",
+            "comments": 29,
+            "url": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
-            "insight": "HN 热议：923 分 · 476 评论",
-            "sentiment": "positive",
-            "comments": 476,
-            "url": "https://wpvip.com/future-of-the-web-2026/",
+            "title": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
+            "insight": "HN 热议：127 分 · 68 评论",
+            "sentiment": "neutral",
+            "comments": 68,
+            "url": "https://github.com/Adam-CAD/CADAM",
             "id": 3
         },
         {
             "source": "HackerNews",
             "title": "The Competitive Moat That AI Can't Replicate",
-            "insight": "HN 热议：44 分 · 24 评论",
+            "insight": "HN 热议：87 分 · 70 评论",
             "sentiment": "neutral",
-            "comments": 24,
+            "comments": 70,
             "url": "https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "TREX: An AI code reviewer that runs your code",
-            "insight": "HN 热议：32 分 · 5 评论",
+            "title": "Using AI to improve a challenging reaction in medicinal chemistry",
+            "insight": "HN 热议：41 分 · 17 评论",
             "sentiment": "neutral",
-            "comments": 5,
-            "url": "https://www.greptile.com/blog/trex-code-execution",
+            "comments": 17,
+            "url": "https://openai.com/index/ai-chemist-improves-reaction/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-17T19:55:11Z",
+    "updated": "2026-06-17T22:27:51Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

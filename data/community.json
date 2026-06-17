@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-17T19:55:11Z",
+  "updated": "2026-06-17T22:27:51Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
-      "insight": "HN 热议：91 分 · 42 评论",
+      "title": "A robot is sprinting towards you. Do you want it running on Claude or Grok?",
+      "insight": "HN 热议：92 分 · 69 评论",
       "sentiment": "neutral",
-      "comments": 42,
-      "url": "https://github.com/Adam-CAD/CADAM",
+      "comments": 69,
+      "url": "https://openrouter.ai/blog/insights/royale-last-agent-standing/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "The hacker sent by Anthropic to calm the government's nerves about AI safety",
-      "insight": "HN 热议：25 分 · 12 评论",
+      "title": "Leaked financial docs show OpenAI is losing billions of dollars a year",
+      "insight": "HN 热议：74 分 · 29 评论",
       "sentiment": "neutral",
-      "comments": 12,
-      "url": "https://www.wsj.com/tech/ai/anthropic-mythos-safety-nicholas-carlini-20bceaa3",
+      "comments": 29,
+      "url": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
-      "insight": "HN 热议：923 分 · 476 评论",
-      "sentiment": "positive",
-      "comments": 476,
-      "url": "https://wpvip.com/future-of-the-web-2026/",
+      "title": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
+      "insight": "HN 热议：127 分 · 68 评论",
+      "sentiment": "neutral",
+      "comments": 68,
+      "url": "https://github.com/Adam-CAD/CADAM",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "The Competitive Moat That AI Can't Replicate",
-      "insight": "HN 热议：44 分 · 24 评论",
+      "insight": "HN 热议：87 分 · 70 评论",
       "sentiment": "neutral",
-      "comments": 24,
+      "comments": 70,
       "url": "https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "TREX: An AI code reviewer that runs your code",
-      "insight": "HN 热议：32 分 · 5 评论",
+      "title": "Using AI to improve a challenging reaction in medicinal chemistry",
+      "insight": "HN 热议：41 分 · 17 评论",
       "sentiment": "neutral",
-      "comments": 5,
-      "url": "https://www.greptile.com/blog/trex-code-execution",
+      "comments": 17,
+      "url": "https://openai.com/index/ai-chemist-improves-reaction/",
       "id": 5
     }
   ]
