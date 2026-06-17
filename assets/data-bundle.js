@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-17T17:41:53Z",
+    "updated": "2026-06-17T19:55:11Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-17T17:41:53Z",
+    "updated": "2026-06-17T19:55:11Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-17T17:41:53Z",
+    "updated": "2026-06-17T19:55:11Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184998,
-            "stars_today": 184998,
+            "stars": 184999,
+            "stars_today": 184999,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163853,
-            "stars_today": 163853,
+            "stars": 163856,
+            "stars_today": 163856,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93906,
-            "stars_today": 93906,
+            "stars": 93911,
+            "stars_today": 93911,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 82960,
-            "stars_today": 82960,
+            "stars": 82969,
+            "stars_today": 82969,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 77536,
-            "stars_today": 77536,
+            "stars": 77547,
+            "stars_today": 77547,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 53686,
-            "stars_today": 53686,
+            "stars": 53687,
+            "stars_today": 53687,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-17T17:41:53Z",
+    "updated": "2026-06-17T19:55:11Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-17T17:41:53Z",
+    "updated": "2026-06-17T19:55:11Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-17T17:41:53Z",
+    "updated": "2026-06-17T19:55:11Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
-            "insight": "HN 热议：44 分 · 16 评论",
+            "insight": "HN 热议：91 分 · 42 评论",
             "sentiment": "neutral",
-            "comments": 16,
+            "comments": 42,
             "url": "https://github.com/Adam-CAD/CADAM",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
-            "insight": "HN 热议：774 分 · 417 评论",
-            "sentiment": "positive",
-            "comments": 417,
-            "url": "https://wpvip.com/future-of-the-web-2026/",
+            "title": "The hacker sent by Anthropic to calm the government's nerves about AI safety",
+            "insight": "HN 热议：25 分 · 12 评论",
+            "sentiment": "neutral",
+            "comments": 12,
+            "url": "https://www.wsj.com/tech/ai/anthropic-mythos-safety-nicholas-carlini-20bceaa3",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Only 16 Percent of Americans Think AI Will Have a Positive Impact on Society",
-            "insight": "HN 热议：13 分 · 0 评论",
-            "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
+            "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
+            "insight": "HN 热议：923 分 · 476 评论",
+            "sentiment": "positive",
+            "comments": 476,
+            "url": "https://wpvip.com/future-of-the-web-2026/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Agentic coding deserves more than a chat box bolted onto VS Code",
-            "insight": "HN 热议：46 分 · 17 评论",
+            "title": "The Competitive Moat That AI Can't Replicate",
+            "insight": "HN 热议：44 分 · 24 评论",
             "sentiment": "neutral",
-            "comments": 17,
-            "url": "https://github.com/evanklem/polypore",
+            "comments": 24,
+            "url": "https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "AI demands more engineering discipline. Not less",
-            "insight": "HN 热议：182 分 · 78 评论",
+            "title": "TREX: An AI code reviewer that runs your code",
+            "insight": "HN 热议：32 分 · 5 评论",
             "sentiment": "neutral",
-            "comments": 78,
-            "url": "https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline",
+            "comments": 5,
+            "url": "https://www.greptile.com/blog/trex-code-execution",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-17T17:41:53Z",
+    "updated": "2026-06-17T19:55:11Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
