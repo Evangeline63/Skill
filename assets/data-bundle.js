@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-16T22:45:32Z",
+    "updated": "2026-06-17T02:29:27Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-16T22:45:32Z",
+    "updated": "2026-06-17T02:29:27Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-16T22:45:32Z",
+    "updated": "2026-06-17T02:29:27Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184979,
-            "stars_today": 184979,
+            "stars": 184985,
+            "stars_today": 184985,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163818,
-            "stars_today": 163818,
+            "stars": 163823,
+            "stars_today": 163823,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93890,
-            "stars_today": 93890,
+            "stars": 93893,
+            "stars_today": 93893,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 82766,
-            "stars_today": 82766,
+            "stars": 82794,
+            "stars_today": 82794,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 77381,
-            "stars_today": 77381,
+            "stars": 77404,
+            "stars_today": 77404,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 53657,
-            "stars_today": 53657,
+            "stars": 53660,
+            "stars_today": 53660,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-16T22:45:32Z",
+    "updated": "2026-06-17T02:29:27Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-16T22:45:32Z",
+    "updated": "2026-06-17T02:29:27Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-16T22:45:32Z",
+    "updated": "2026-06-17T02:29:27Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "GPT‑NL: a sovereign language model for the Netherlands",
-            "insight": "HN 热议：114 分 · 104 评论",
+            "title": "Humiliating IIS servers for fun and jail time",
+            "insight": "HN 热议：104 分 · 17 评论",
             "sentiment": "neutral",
-            "comments": 104,
-            "url": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
+            "comments": 17,
+            "url": "https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Has AI already killed self-help nonfiction books?",
-            "insight": "HN 热议：93 分 · 103 评论",
+            "title": "Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More",
+            "insight": "HN 热议：86 分 · 20 评论",
             "sentiment": "neutral",
-            "comments": 103,
-            "url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
+            "comments": 20,
+            "url": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Apple is about to make Hide My Email useless",
-            "insight": "HN 热议：310 分 · 185 评论",
-            "sentiment": "positive",
-            "comments": 185,
-            "url": "https://arseniyshestakov.com/2026/06/16/apple-is-about-to-make-hide-my-email-useless/",
+            "title": "GPT‑NL: a sovereign language model for the Netherlands",
+            "insight": "HN 热议：142 分 · 137 评论",
+            "sentiment": "neutral",
+            "comments": 137,
+            "url": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "I admire Fabrice Bellard. He is almost certainly a better overall programmer",
-            "insight": "HN 热议：838 分 · 411 评论",
-            "sentiment": "positive",
-            "comments": 411,
-            "url": "https://twitter.com/ID_AA_Carmack/status/2064095424420487226",
+            "title": "Has AI already killed self-help nonfiction books?",
+            "insight": "HN 热议：169 分 · 185 评论",
+            "sentiment": "neutral",
+            "comments": 185,
+            "url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Feds freaked over Fable 5 after 'fix this code', not jailbreak, say researchers",
-            "insight": "HN 热议：532 分 · 314 评论",
-            "sentiment": "positive",
-            "comments": 314,
-            "url": "https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827",
+            "title": "Stop Killing Games fails to secure EU law despite 1.3M signatures",
+            "insight": "HN 热议：9 分 · 0 评论",
+            "sentiment": "neutral",
+            "comments": 0,
+            "url": "https://www.dexerto.com/gaming/stop-killing-games-fails-to-secure-eu-law-despite-1-3m-signatures-3376431/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-16T22:45:32Z",
+    "updated": "2026-06-17T02:29:27Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

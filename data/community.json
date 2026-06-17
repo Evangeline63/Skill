@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-16T22:45:32Z",
+  "updated": "2026-06-17T02:29:27Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "GPT‑NL: a sovereign language model for the Netherlands",
-      "insight": "HN 热议：114 分 · 104 评论",
+      "title": "Humiliating IIS servers for fun and jail time",
+      "insight": "HN 热议：104 分 · 17 评论",
       "sentiment": "neutral",
-      "comments": 104,
-      "url": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
+      "comments": 17,
+      "url": "https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Has AI already killed self-help nonfiction books?",
-      "insight": "HN 热议：93 分 · 103 评论",
+      "title": "Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More",
+      "insight": "HN 热议：86 分 · 20 评论",
       "sentiment": "neutral",
-      "comments": 103,
-      "url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
+      "comments": 20,
+      "url": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Apple is about to make Hide My Email useless",
-      "insight": "HN 热议：310 分 · 185 评论",
-      "sentiment": "positive",
-      "comments": 185,
-      "url": "https://arseniyshestakov.com/2026/06/16/apple-is-about-to-make-hide-my-email-useless/",
+      "title": "GPT‑NL: a sovereign language model for the Netherlands",
+      "insight": "HN 热议：142 分 · 137 评论",
+      "sentiment": "neutral",
+      "comments": 137,
+      "url": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "I admire Fabrice Bellard. He is almost certainly a better overall programmer",
-      "insight": "HN 热议：838 分 · 411 评论",
-      "sentiment": "positive",
-      "comments": 411,
-      "url": "https://twitter.com/ID_AA_Carmack/status/2064095424420487226",
+      "title": "Has AI already killed self-help nonfiction books?",
+      "insight": "HN 热议：169 分 · 185 评论",
+      "sentiment": "neutral",
+      "comments": 185,
+      "url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Feds freaked over Fable 5 after 'fix this code', not jailbreak, say researchers",
-      "insight": "HN 热议：532 分 · 314 评论",
-      "sentiment": "positive",
-      "comments": 314,
-      "url": "https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827",
+      "title": "Stop Killing Games fails to secure EU law despite 1.3M signatures",
+      "insight": "HN 热议：9 分 · 0 评论",
+      "sentiment": "neutral",
+      "comments": 0,
+      "url": "https://www.dexerto.com/gaming/stop-killing-games-fails-to-secure-eu-law-despite-1-3m-signatures-3376431/",
       "id": 5
     }
   ]
