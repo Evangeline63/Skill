@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-17T12:43:34Z",
+  "updated": "2026-06-17T17:41:53Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
-      "insight": "HN 热议：74 分 · 32 评论",
+      "title": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
+      "insight": "HN 热议：44 分 · 16 评论",
       "sentiment": "neutral",
-      "comments": 32,
-      "url": "https://wpvip.com/future-of-the-web-2026/",
+      "comments": 16,
+      "url": "https://github.com/Adam-CAD/CADAM",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: High-Res Neural Cellular Automata",
-      "insight": "HN 热议：91 分 · 12 评论",
-      "sentiment": "neutral",
-      "comments": 12,
-      "url": "https://cells2pixels.github.io/",
+      "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
+      "insight": "HN 热议：774 分 · 417 评论",
+      "sentiment": "positive",
+      "comments": 417,
+      "url": "https://wpvip.com/future-of-the-web-2026/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Abandoned and Little-Known Airfields",
-      "insight": "HN 热议：17 分 · 1 评论",
+      "title": "Only 16 Percent of Americans Think AI Will Have a Positive Impact on Society",
+      "insight": "HN 热议：13 分 · 0 评论",
       "sentiment": "neutral",
-      "comments": 1,
-      "url": "https://airfields-freeman.com/",
+      "comments": 0,
+      "url": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Humiliating IIS servers for fun and jail time",
-      "insight": "HN 热议：298 分 · 70 评论",
-      "sentiment": "positive",
-      "comments": 70,
-      "url": "https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/",
+      "title": "Agentic coding deserves more than a chat box bolted onto VS Code",
+      "insight": "HN 热议：46 分 · 17 评论",
+      "sentiment": "neutral",
+      "comments": 17,
+      "url": "https://github.com/evanklem/polypore",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Has AI already killed self-help nonfiction books?",
-      "insight": "HN 热议：333 分 · 389 评论",
-      "sentiment": "positive",
-      "comments": 389,
-      "url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
+      "title": "AI demands more engineering discipline. Not less",
+      "insight": "HN 热议：182 分 · 78 评论",
+      "sentiment": "neutral",
+      "comments": 78,
+      "url": "https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline",
       "id": 5
     }
   ]

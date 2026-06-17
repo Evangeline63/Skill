@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-17T12:43:34Z",
+    "updated": "2026-06-17T17:41:53Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-17T12:43:34Z",
+    "updated": "2026-06-17T17:41:53Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-17T12:43:34Z",
+    "updated": "2026-06-17T17:41:53Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 184988,
-            "stars_today": 184988,
+            "stars": 184998,
+            "stars_today": 184998,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163843,
-            "stars_today": 163843,
+            "stars": 163853,
+            "stars_today": 163853,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93908,
-            "stars_today": 93908,
+            "stars": 93906,
+            "stars_today": 93906,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 82917,
-            "stars_today": 82917,
+            "stars": 82960,
+            "stars_today": 82960,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 77500,
-            "stars_today": 77500,
+            "stars": 77536,
+            "stars_today": 77536,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 53681,
-            "stars_today": 53681,
+            "stars": 53686,
+            "stars_today": 53686,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-17T12:43:34Z",
+    "updated": "2026-06-17T17:41:53Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-17T12:43:34Z",
+    "updated": "2026-06-17T17:41:53Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-17T12:43:34Z",
+    "updated": "2026-06-17T17:41:53Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
-            "insight": "HN 热议：74 分 · 32 评论",
+            "title": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
+            "insight": "HN 热议：44 分 · 16 评论",
             "sentiment": "neutral",
-            "comments": 32,
-            "url": "https://wpvip.com/future-of-the-web-2026/",
+            "comments": 16,
+            "url": "https://github.com/Adam-CAD/CADAM",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: High-Res Neural Cellular Automata",
-            "insight": "HN 热议：91 分 · 12 评论",
-            "sentiment": "neutral",
-            "comments": 12,
-            "url": "https://cells2pixels.github.io/",
+            "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
+            "insight": "HN 热议：774 分 · 417 评论",
+            "sentiment": "positive",
+            "comments": 417,
+            "url": "https://wpvip.com/future-of-the-web-2026/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Abandoned and Little-Known Airfields",
-            "insight": "HN 热议：17 分 · 1 评论",
+            "title": "Only 16 Percent of Americans Think AI Will Have a Positive Impact on Society",
+            "insight": "HN 热议：13 分 · 0 评论",
             "sentiment": "neutral",
-            "comments": 1,
-            "url": "https://airfields-freeman.com/",
+            "comments": 0,
+            "url": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Humiliating IIS servers for fun and jail time",
-            "insight": "HN 热议：298 分 · 70 评论",
-            "sentiment": "positive",
-            "comments": 70,
-            "url": "https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/",
+            "title": "Agentic coding deserves more than a chat box bolted onto VS Code",
+            "insight": "HN 热议：46 分 · 17 评论",
+            "sentiment": "neutral",
+            "comments": 17,
+            "url": "https://github.com/evanklem/polypore",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Has AI already killed self-help nonfiction books?",
-            "insight": "HN 热议：333 分 · 389 评论",
-            "sentiment": "positive",
-            "comments": 389,
-            "url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
+            "title": "AI demands more engineering discipline. Not less",
+            "insight": "HN 热议：182 分 · 78 评论",
+            "sentiment": "neutral",
+            "comments": 78,
+            "url": "https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-17T12:43:34Z",
+    "updated": "2026-06-17T17:41:53Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
