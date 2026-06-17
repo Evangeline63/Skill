@@ -1,48 +1,48 @@
 {
-  "updated": "2026-06-17T02:29:27Z",
+  "updated": "2026-06-17T08:19:22Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Humiliating IIS servers for fun and jail time",
-      "insight": "HN 热议：104 分 · 17 评论",
+      "title": "The founder's playbook: Building an AI-native startup",
+      "insight": "HN 热议：41 分 · 38 评论",
       "sentiment": "neutral",
-      "comments": 17,
-      "url": "https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/",
+      "comments": 38,
+      "url": "https://claude.com/blog/the-founders-playbook",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More",
-      "insight": "HN 热议：86 分 · 20 评论",
-      "sentiment": "neutral",
-      "comments": 20,
-      "url": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/",
+      "title": "Humiliating IIS servers for fun and jail time",
+      "insight": "HN 热议：227 分 · 54 评论",
+      "sentiment": "positive",
+      "comments": 54,
+      "url": "https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "GPT‑NL: a sovereign language model for the Netherlands",
-      "insight": "HN 热议：142 分 · 137 评论",
-      "sentiment": "neutral",
-      "comments": 137,
+      "insight": "HN 热议：202 分 · 189 评论",
+      "sentiment": "positive",
+      "comments": 189,
       "url": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "Has AI already killed self-help nonfiction books?",
-      "insight": "HN 热议：169 分 · 185 评论",
-      "sentiment": "neutral",
-      "comments": 185,
+      "insight": "HN 热议：277 分 · 301 评论",
+      "sentiment": "positive",
+      "comments": 301,
       "url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
       "id": 4
     },
     {
       "source": "HackerNews",
       "title": "Stop Killing Games fails to secure EU law despite 1.3M signatures",
-      "insight": "HN 热议：9 分 · 0 评论",
+      "insight": "HN 热议：197 分 · 85 评论",
       "sentiment": "neutral",
-      "comments": 0,
+      "comments": 85,
       "url": "https://www.dexerto.com/gaming/stop-killing-games-fails-to-secure-eu-law-despite-1-3m-signatures-3376431/",
       "id": 5
     }
