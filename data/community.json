@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-17T08:19:22Z",
+  "updated": "2026-06-17T12:43:34Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "The founder's playbook: Building an AI-native startup",
-      "insight": "HN 热议：41 分 · 38 评论",
+      "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
+      "insight": "HN 热议：74 分 · 32 评论",
       "sentiment": "neutral",
-      "comments": 38,
-      "url": "https://claude.com/blog/the-founders-playbook",
+      "comments": 32,
+      "url": "https://wpvip.com/future-of-the-web-2026/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Humiliating IIS servers for fun and jail time",
-      "insight": "HN 热议：227 分 · 54 评论",
-      "sentiment": "positive",
-      "comments": 54,
-      "url": "https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/",
+      "title": "Show HN: High-Res Neural Cellular Automata",
+      "insight": "HN 热议：91 分 · 12 评论",
+      "sentiment": "neutral",
+      "comments": 12,
+      "url": "https://cells2pixels.github.io/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "GPT‑NL: a sovereign language model for the Netherlands",
-      "insight": "HN 热议：202 分 · 189 评论",
-      "sentiment": "positive",
-      "comments": 189,
-      "url": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
+      "title": "Abandoned and Little-Known Airfields",
+      "insight": "HN 热议：17 分 · 1 评论",
+      "sentiment": "neutral",
+      "comments": 1,
+      "url": "https://airfields-freeman.com/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Has AI already killed self-help nonfiction books?",
-      "insight": "HN 热议：277 分 · 301 评论",
+      "title": "Humiliating IIS servers for fun and jail time",
+      "insight": "HN 热议：298 分 · 70 评论",
       "sentiment": "positive",
-      "comments": 301,
-      "url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
+      "comments": 70,
+      "url": "https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Stop Killing Games fails to secure EU law despite 1.3M signatures",
-      "insight": "HN 热议：197 分 · 85 评论",
-      "sentiment": "neutral",
-      "comments": 85,
-      "url": "https://www.dexerto.com/gaming/stop-killing-games-fails-to-secure-eu-law-despite-1-3m-signatures-3376431/",
+      "title": "Has AI already killed self-help nonfiction books?",
+      "insight": "HN 热议：333 分 · 389 评论",
+      "sentiment": "positive",
+      "comments": 389,
+      "url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
       "id": 5
     }
   ]
