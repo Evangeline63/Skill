@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-18T17:52:15Z",
+  "updated": "2026-06-18T20:05:16Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps",
-      "insight": "HN 热议：46 分 · 24 评论",
+      "title": "Noam Shazeer Joins OpenAI",
+      "insight": "HN 热议：76 分 · 30 评论",
       "sentiment": "neutral",
-      "comments": 24,
-      "url": "https://tester.army",
+      "comments": 30,
+      "url": "https://twitter.com/NoamShazeer/status/2067400851438932297",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Emacs 31 is around the corner: The changes I'm daily driving",
-      "insight": "HN 热议：304 分 · 157 评论",
-      "sentiment": "positive",
-      "comments": 157,
-      "url": "https://www.rahuljuliato.com/posts/emacs-31-around-the-corner",
+      "title": "Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps",
+      "insight": "HN 热议：72 分 · 33 评论",
+      "sentiment": "neutral",
+      "comments": 33,
+      "url": "https://tester.army",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Gerrymandle - Daily puzzle game where you redraw electoral districts",
-      "insight": "HN 热议：46 分 · 18 评论",
+      "title": "Agentic Resource Discovery Specification",
+      "insight": "HN 热议：16 分 · 4 评论",
       "sentiment": "neutral",
-      "comments": 18,
-      "url": "https://gerrymandle.cc/",
+      "comments": 4,
+      "url": "https://agenticresourcediscovery.org/introduction/",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "The founder of Craigslist has given away half a billion dollars",
-      "insight": "HN 热议：39 分 · 8 评论",
+      "insight": "HN 热议：186 分 · 115 评论",
       "sentiment": "neutral",
-      "comments": 8,
+      "comments": 115,
       "url": "https://www.independent.co.uk/us/money/craigslist-multimillionaire-craig-newmark-b2980681.html",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "We built a persistent agent memory layer on Elasticsearch with 0.89 recall",
-      "insight": "HN 热议：74 分 · 31 评论",
+      "title": "Show HN: Gerrymandle - Daily puzzle game where you redraw electoral districts",
+      "insight": "HN 热议：83 分 · 35 评论",
       "sentiment": "neutral",
-      "comments": 31,
-      "url": "https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch",
+      "comments": 35,
+      "url": "https://gerrymandle.cc/",
       "id": 5
     }
   ]
