@@ -1,13 +1,13 @@
 {
-  "updated": "2026-06-18T07:23:16Z",
+  "updated": "2026-06-18T12:15:31Z",
   "repos": [
     {
       "rank": 1,
       "name": "Significant-Gravitas/AutoGPT",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
       "language": "Python",
-      "stars": 185010,
-      "stars_today": 185010,
+      "stars": 185017,
+      "stars_today": 185017,
       "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
@@ -15,8 +15,8 @@
       "name": "f/prompts.chat",
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
       "language": "HTML",
-      "stars": 163869,
-      "stars_today": 163869,
+      "stars": 163878,
+      "stars_today": 163878,
       "url": "https://github.com/f/prompts.chat"
     },
     {
@@ -24,8 +24,8 @@
       "name": "hacksider/Deep-Live-Cam",
       "description": "real time face swap and one-click video deepfake with only a single image",
       "language": "Python",
-      "stars": 93934,
-      "stars_today": 93934,
+      "stars": 93950,
+      "stars_today": 93950,
       "url": "https://github.com/hacksider/Deep-Live-Cam"
     },
     {
@@ -33,8 +33,8 @@
       "name": "thedotmack/claude-mem",
       "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
       "language": "JavaScript",
-      "stars": 83049,
-      "stars_today": 83049,
+      "stars": 83087,
+      "stars_today": 83087,
       "url": "https://github.com/thedotmack/claude-mem"
     },
     {
@@ -42,8 +42,8 @@
       "name": "OpenHands/OpenHands",
       "description": "🙌 OpenHands: AI-Driven Development",
       "language": "Python",
-      "stars": 77602,
-      "stars_today": 77602,
+      "stars": 77631,
+      "stars_today": 77631,
       "url": "https://github.com/OpenHands/OpenHands"
     },
     {
@@ -51,8 +51,8 @@
       "name": "FlowiseAI/Flowise",
       "description": "Build AI Agents, Visually",
       "language": "TypeScript",
-      "stars": 53696,
-      "stars_today": 53696,
+      "stars": 53703,
+      "stars_today": 53703,
       "url": "https://github.com/FlowiseAI/Flowise"
     }
   ]

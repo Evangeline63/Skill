@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-18T07:23:16Z",
+    "updated": "2026-06-18T12:15:31Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-18T07:23:16Z",
+    "updated": "2026-06-18T12:15:31Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-18T07:23:16Z",
+    "updated": "2026-06-18T12:15:31Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185010,
-            "stars_today": 185010,
+            "stars": 185017,
+            "stars_today": 185017,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163869,
-            "stars_today": 163869,
+            "stars": 163878,
+            "stars_today": 163878,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93934,
-            "stars_today": 93934,
+            "stars": 93950,
+            "stars_today": 93950,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 83049,
-            "stars_today": 83049,
+            "stars": 83087,
+            "stars_today": 83087,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 77602,
-            "stars_today": 77602,
+            "stars": 77631,
+            "stars_today": 77631,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 53696,
-            "stars_today": 53696,
+            "stars": 53703,
+            "stars_today": 53703,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-18T07:23:16Z",
+    "updated": "2026-06-18T12:15:31Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-18T07:23:16Z",
+    "updated": "2026-06-18T12:15:31Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-18T07:23:16Z",
+    "updated": "2026-06-18T12:15:31Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "The Australian Government to Require SMS/MMS Sender ID Registraion",
-            "insight": "HN 热议：34 分 · 12 评论",
+            "title": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
+            "insight": "HN 热议：191 分 · 88 评论",
             "sentiment": "neutral",
-            "comments": 12,
-            "url": "https://www.acma.gov.au/sms-sender-id-register",
+            "comments": 88,
+            "url": "https://github.com/Adam-CAD/CADAM",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "How to Become a Person After Smartphones Have Rotted Your Brain",
-            "insight": "HN 热议：22 分 · 3 评论",
+            "title": "The Australian Government to Require SMS/MMS Sender ID Registraion",
+            "insight": "HN 热议：114 分 · 64 评论",
             "sentiment": "neutral",
-            "comments": 3,
-            "url": "https://www.thenewatlantis.com/publications/how-to-become-a-person-after-smartphones-have-rotted-your-brain",
+            "comments": 64,
+            "url": "https://www.acma.gov.au/sms-sender-id-register",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "[x86] AI Compute Extensions (ACE) Specification",
-            "insight": "HN 热议：29 分 · 13 评论",
+            "title": "AI Compute Extensions (ACE) Specification",
+            "insight": "HN 热议：46 分 · 18 评论",
             "sentiment": "neutral",
-            "comments": 13,
+            "comments": 18,
             "url": "https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
-            "insight": "HN 热议：177 分 · 85 评论",
-            "sentiment": "neutral",
-            "comments": 85,
-            "url": "https://github.com/Adam-CAD/CADAM",
+            "title": "The founder's playbook: Building an AI-native startup",
+            "insight": "HN 热议：233 分 · 160 评论",
+            "sentiment": "positive",
+            "comments": 160,
+            "url": "https://claude.com/blog/the-founders-playbook",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "The founder's playbook: Building an AI-native startup",
-            "insight": "HN 热议：227 分 · 158 评论",
-            "sentiment": "positive",
-            "comments": 158,
-            "url": "https://claude.com/blog/the-founders-playbook",
+            "title": "ChatGPT's image generator can be manipulated to produce violent, sexual content",
+            "insight": "HN 热议：105 分 · 149 评论",
+            "sentiment": "neutral",
+            "comments": 149,
+            "url": "https://mindgard.ai/blog/chatgpt-spontaneously-generated-violent-images-from-a-viral-prompt",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-18T07:23:16Z",
+    "updated": "2026-06-18T12:15:31Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
