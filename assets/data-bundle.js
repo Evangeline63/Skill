@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-18T12:15:31Z",
+    "updated": "2026-06-18T17:52:15Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-18T12:15:31Z",
+    "updated": "2026-06-18T17:52:15Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-18T12:15:31Z",
+    "updated": "2026-06-18T17:52:15Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185017,
-            "stars_today": 185017,
+            "stars": 185018,
+            "stars_today": 185018,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163878,
-            "stars_today": 163878,
+            "stars": 163890,
+            "stars_today": 163890,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93950,
-            "stars_today": 93950,
+            "stars": 93955,
+            "stars_today": 93955,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 83087,
-            "stars_today": 83087,
+            "stars": 83118,
+            "stars_today": 83118,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 77631,
-            "stars_today": 77631,
+            "stars": 77656,
+            "stars_today": 77656,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 53703,
-            "stars_today": 53703,
+            "stars": 53707,
+            "stars_today": 53707,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-18T12:15:31Z",
+    "updated": "2026-06-18T17:52:15Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-18T12:15:31Z",
+    "updated": "2026-06-18T17:52:15Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-18T12:15:31Z",
+    "updated": "2026-06-18T17:52:15Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
-            "insight": "HN 热议：191 分 · 88 评论",
+            "title": "Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps",
+            "insight": "HN 热议：46 分 · 24 评论",
             "sentiment": "neutral",
-            "comments": 88,
-            "url": "https://github.com/Adam-CAD/CADAM",
+            "comments": 24,
+            "url": "https://tester.army",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "The Australian Government to Require SMS/MMS Sender ID Registraion",
-            "insight": "HN 热议：114 分 · 64 评论",
-            "sentiment": "neutral",
-            "comments": 64,
-            "url": "https://www.acma.gov.au/sms-sender-id-register",
+            "title": "Emacs 31 is around the corner: The changes I'm daily driving",
+            "insight": "HN 热议：304 分 · 157 评论",
+            "sentiment": "positive",
+            "comments": 157,
+            "url": "https://www.rahuljuliato.com/posts/emacs-31-around-the-corner",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "AI Compute Extensions (ACE) Specification",
+            "title": "Show HN: Gerrymandle - Daily puzzle game where you redraw electoral districts",
             "insight": "HN 热议：46 分 · 18 评论",
             "sentiment": "neutral",
             "comments": 18,
-            "url": "https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/",
+            "url": "https://gerrymandle.cc/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "The founder's playbook: Building an AI-native startup",
-            "insight": "HN 热议：233 分 · 160 评论",
-            "sentiment": "positive",
-            "comments": 160,
-            "url": "https://claude.com/blog/the-founders-playbook",
+            "title": "The founder of Craigslist has given away half a billion dollars",
+            "insight": "HN 热议：39 分 · 8 评论",
+            "sentiment": "neutral",
+            "comments": 8,
+            "url": "https://www.independent.co.uk/us/money/craigslist-multimillionaire-craig-newmark-b2980681.html",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "ChatGPT's image generator can be manipulated to produce violent, sexual content",
-            "insight": "HN 热议：105 分 · 149 评论",
+            "title": "We built a persistent agent memory layer on Elasticsearch with 0.89 recall",
+            "insight": "HN 热议：74 分 · 31 评论",
             "sentiment": "neutral",
-            "comments": 149,
-            "url": "https://mindgard.ai/blog/chatgpt-spontaneously-generated-violent-images-from-a-viral-prompt",
+            "comments": 31,
+            "url": "https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-18T12:15:31Z",
+    "updated": "2026-06-18T17:52:15Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
