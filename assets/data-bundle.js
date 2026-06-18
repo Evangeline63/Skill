@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-18T02:15:15Z",
+    "updated": "2026-06-18T07:23:16Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-18T02:15:15Z",
+    "updated": "2026-06-18T07:23:16Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-18T02:15:15Z",
+    "updated": "2026-06-18T07:23:16Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185004,
-            "stars_today": 185004,
+            "stars": 185010,
+            "stars_today": 185010,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163858,
-            "stars_today": 163858,
+            "stars": 163869,
+            "stars_today": 163869,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93918,
-            "stars_today": 93918,
+            "stars": 93934,
+            "stars_today": 93934,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 83007,
-            "stars_today": 83007,
+            "stars": 83049,
+            "stars_today": 83049,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 77571,
-            "stars_today": 77571,
+            "stars": 77602,
+            "stars_today": 77602,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 53691,
-            "stars_today": 53691,
+            "stars": 53696,
+            "stars_today": 53696,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-18T02:15:15Z",
+    "updated": "2026-06-18T07:23:16Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-18T02:15:15Z",
+    "updated": "2026-06-18T07:23:16Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-18T02:15:15Z",
+    "updated": "2026-06-18T07:23:16Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Leaked financial docs show OpenAI is losing billions of dollars a year",
-            "insight": "HN 热议：317 分 · 237 评论",
-            "sentiment": "positive",
-            "comments": 237,
-            "url": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/",
+            "title": "The Australian Government to Require SMS/MMS Sender ID Registraion",
+            "insight": "HN 热议：34 分 · 12 评论",
+            "sentiment": "neutral",
+            "comments": 12,
+            "url": "https://www.acma.gov.au/sms-sender-id-register",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
-            "insight": "HN 热议：158 分 · 82 评论",
+            "title": "How to Become a Person After Smartphones Have Rotted Your Brain",
+            "insight": "HN 热议：22 分 · 3 评论",
             "sentiment": "neutral",
-            "comments": 82,
-            "url": "https://github.com/Adam-CAD/CADAM",
+            "comments": 3,
+            "url": "https://www.thenewatlantis.com/publications/how-to-become-a-person-after-smartphones-have-rotted-your-brain",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "The Competitive Moat That AI Can't Replicate",
-            "insight": "HN 热议：124 分 · 104 评论",
+            "title": "[x86] AI Compute Extensions (ACE) Specification",
+            "insight": "HN 热议：29 分 · 13 评论",
             "sentiment": "neutral",
-            "comments": 104,
-            "url": "https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat/",
+            "comments": 13,
+            "url": "https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "A robot is sprinting towards you. Do you want it running on Claude or Grok?",
-            "insight": "HN 热议：173 分 · 147 评论",
+            "title": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
+            "insight": "HN 热议：177 分 · 85 评论",
             "sentiment": "neutral",
-            "comments": 147,
-            "url": "https://openrouter.ai/blog/insights/royale-last-agent-standing/",
+            "comments": 85,
+            "url": "https://github.com/Adam-CAD/CADAM",
             "id": 4
         },
         {
             "source": "HackerNews",
             "title": "The founder's playbook: Building an AI-native startup",
-            "insight": "HN 热议：212 分 · 154 评论",
+            "insight": "HN 热议：227 分 · 158 评论",
             "sentiment": "positive",
-            "comments": 154,
+            "comments": 158,
             "url": "https://claude.com/blog/the-founders-playbook",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-18T02:15:15Z",
+    "updated": "2026-06-18T07:23:16Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

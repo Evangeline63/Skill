@@ -1,48 +1,48 @@
 {
-  "updated": "2026-06-18T02:15:15Z",
+  "updated": "2026-06-18T07:23:16Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Leaked financial docs show OpenAI is losing billions of dollars a year",
-      "insight": "HN 热议：317 分 · 237 评论",
-      "sentiment": "positive",
-      "comments": 237,
-      "url": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/",
+      "title": "The Australian Government to Require SMS/MMS Sender ID Registraion",
+      "insight": "HN 热议：34 分 · 12 评论",
+      "sentiment": "neutral",
+      "comments": 12,
+      "url": "https://www.acma.gov.au/sms-sender-id-register",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
-      "insight": "HN 热议：158 分 · 82 评论",
+      "title": "How to Become a Person After Smartphones Have Rotted Your Brain",
+      "insight": "HN 热议：22 分 · 3 评论",
       "sentiment": "neutral",
-      "comments": 82,
-      "url": "https://github.com/Adam-CAD/CADAM",
+      "comments": 3,
+      "url": "https://www.thenewatlantis.com/publications/how-to-become-a-person-after-smartphones-have-rotted-your-brain",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "The Competitive Moat That AI Can't Replicate",
-      "insight": "HN 热议：124 分 · 104 评论",
+      "title": "[x86] AI Compute Extensions (ACE) Specification",
+      "insight": "HN 热议：29 分 · 13 评论",
       "sentiment": "neutral",
-      "comments": 104,
-      "url": "https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat/",
+      "comments": 13,
+      "url": "https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "A robot is sprinting towards you. Do you want it running on Claude or Grok?",
-      "insight": "HN 热议：173 分 · 147 评论",
+      "title": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
+      "insight": "HN 热议：177 分 · 85 评论",
       "sentiment": "neutral",
-      "comments": 147,
-      "url": "https://openrouter.ai/blog/insights/royale-last-agent-standing/",
+      "comments": 85,
+      "url": "https://github.com/Adam-CAD/CADAM",
       "id": 4
     },
     {
       "source": "HackerNews",
       "title": "The founder's playbook: Building an AI-native startup",
-      "insight": "HN 热议：212 分 · 154 评论",
+      "insight": "HN 热议：227 分 · 158 评论",
       "sentiment": "positive",
-      "comments": 154,
+      "comments": 158,
       "url": "https://claude.com/blog/the-founders-playbook",
       "id": 5
     }
