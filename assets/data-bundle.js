@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-18T20:05:16Z",
+    "updated": "2026-06-18T22:49:25Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-18T20:05:16Z",
+    "updated": "2026-06-18T22:49:25Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,7 +266,7 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-18T20:05:16Z",
+    "updated": "2026-06-18T22:49:25Z",
     "repos": [
         {
             "rank": 1,
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 83131,
-            "stars_today": 83131,
+            "stars": 83142,
+            "stars_today": 83142,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 77664,
-            "stars_today": 77664,
+            "stars": 77673,
+            "stars_today": 77673,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 53708,
-            "stars_today": 53708,
+            "stars": 53710,
+            "stars_today": 53710,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-18T20:05:16Z",
+    "updated": "2026-06-18T22:49:25Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-18T20:05:16Z",
+    "updated": "2026-06-18T22:49:25Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-18T20:05:16Z",
+    "updated": "2026-06-18T22:49:25Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Noam Shazeer Joins OpenAI",
-            "insight": "HN 热议：76 分 · 30 评论",
-            "sentiment": "neutral",
-            "comments": 30,
+            "insight": "HN 热议：231 分 · 196 评论",
+            "sentiment": "positive",
+            "comments": 196,
             "url": "https://twitter.com/NoamShazeer/status/2067400851438932297",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps",
-            "insight": "HN 热议：72 分 · 33 评论",
+            "title": "The Korean telecom giant at the center of Anthropic's Mythos controversy",
+            "insight": "HN 热议：66 分 · 40 评论",
             "sentiment": "neutral",
-            "comments": 33,
-            "url": "https://tester.army",
+            "comments": 40,
+            "url": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Agentic Resource Discovery Specification",
-            "insight": "HN 热议：16 分 · 4 评论",
+            "title": "Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps",
+            "insight": "HN 热议：90 分 · 40 评论",
             "sentiment": "neutral",
-            "comments": 4,
-            "url": "https://agenticresourcediscovery.org/introduction/",
+            "comments": 40,
+            "url": "https://tester.army",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "The founder of Craigslist has given away half a billion dollars",
-            "insight": "HN 热议：186 分 · 115 评论",
+            "title": "Agentic Resource Discovery Specification",
+            "insight": "HN 热议：40 分 · 10 评论",
             "sentiment": "neutral",
-            "comments": 115,
-            "url": "https://www.independent.co.uk/us/money/craigslist-multimillionaire-craig-newmark-b2980681.html",
+            "comments": 10,
+            "url": "https://agenticresourcediscovery.org/introduction/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Gerrymandle - Daily puzzle game where you redraw electoral districts",
-            "insight": "HN 热议：83 分 · 35 评论",
-            "sentiment": "neutral",
-            "comments": 35,
-            "url": "https://gerrymandle.cc/",
+            "title": "The founder of Craigslist has given away half a billion dollars",
+            "insight": "HN 热议：276 分 · 195 评论",
+            "sentiment": "positive",
+            "comments": 195,
+            "url": "https://www.independent.co.uk/us/money/craigslist-multimillionaire-craig-newmark-b2980681.html",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-18T20:05:16Z",
+    "updated": "2026-06-18T22:49:25Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

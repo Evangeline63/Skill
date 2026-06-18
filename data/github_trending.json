@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T20:05:16Z",
+  "updated": "2026-06-18T22:49:25Z",
   "repos": [
     {
       "rank": 1,
@@ -33,8 +33,8 @@
       "name": "thedotmack/claude-mem",
       "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
       "language": "JavaScript",
-      "stars": 83131,
-      "stars_today": 83131,
+      "stars": 83142,
+      "stars_today": 83142,
       "url": "https://github.com/thedotmack/claude-mem"
     },
     {
@@ -42,8 +42,8 @@
       "name": "OpenHands/OpenHands",
       "description": "🙌 OpenHands: AI-Driven Development",
       "language": "Python",
-      "stars": 77664,
-      "stars_today": 77664,
+      "stars": 77673,
+      "stars_today": 77673,
       "url": "https://github.com/OpenHands/OpenHands"
     },
     {
@@ -51,8 +51,8 @@
       "name": "FlowiseAI/Flowise",
       "description": "Build AI Agents, Visually",
       "language": "TypeScript",
-      "stars": 53708,
-      "stars_today": 53708,
+      "stars": 53710,
+      "stars_today": 53710,
       "url": "https://github.com/FlowiseAI/Flowise"
     }
   ]

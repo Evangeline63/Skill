@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-18T20:05:16Z",
+  "updated": "2026-06-18T22:49:25Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Noam Shazeer Joins OpenAI",
-      "insight": "HN 热议：76 分 · 30 评论",
-      "sentiment": "neutral",
-      "comments": 30,
+      "insight": "HN 热议：231 分 · 196 评论",
+      "sentiment": "positive",
+      "comments": 196,
       "url": "https://twitter.com/NoamShazeer/status/2067400851438932297",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps",
-      "insight": "HN 热议：72 分 · 33 评论",
+      "title": "The Korean telecom giant at the center of Anthropic's Mythos controversy",
+      "insight": "HN 热议：66 分 · 40 评论",
       "sentiment": "neutral",
-      "comments": 33,
-      "url": "https://tester.army",
+      "comments": 40,
+      "url": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Agentic Resource Discovery Specification",
-      "insight": "HN 热议：16 分 · 4 评论",
+      "title": "Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps",
+      "insight": "HN 热议：90 分 · 40 评论",
       "sentiment": "neutral",
-      "comments": 4,
-      "url": "https://agenticresourcediscovery.org/introduction/",
+      "comments": 40,
+      "url": "https://tester.army",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "The founder of Craigslist has given away half a billion dollars",
-      "insight": "HN 热议：186 分 · 115 评论",
+      "title": "Agentic Resource Discovery Specification",
+      "insight": "HN 热议：40 分 · 10 评论",
       "sentiment": "neutral",
-      "comments": 115,
-      "url": "https://www.independent.co.uk/us/money/craigslist-multimillionaire-craig-newmark-b2980681.html",
+      "comments": 10,
+      "url": "https://agenticresourcediscovery.org/introduction/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Gerrymandle - Daily puzzle game where you redraw electoral districts",
-      "insight": "HN 热议：83 分 · 35 评论",
-      "sentiment": "neutral",
-      "comments": 35,
-      "url": "https://gerrymandle.cc/",
+      "title": "The founder of Craigslist has given away half a billion dollars",
+      "insight": "HN 热议：276 分 · 195 评论",
+      "sentiment": "positive",
+      "comments": 195,
+      "url": "https://www.independent.co.uk/us/money/craigslist-multimillionaire-craig-newmark-b2980681.html",
       "id": 5
     }
   ]
