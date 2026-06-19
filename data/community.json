@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-19T17:08:45Z",
+  "updated": "2026-06-19T19:21:43Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
-      "insight": "HN 热议：418 分 · 240 评论",
+      "title": "Hyundai buys Boston Dynamics",
+      "insight": "HN 热议：270 分 · 128 评论",
       "sentiment": "positive",
-      "comments": 240,
-      "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
+      "comments": 128,
+      "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Zen and the Art of Machine Learning Research",
-      "insight": "HN 热议：175 分 · 56 评论",
-      "sentiment": "neutral",
-      "comments": 56,
-      "url": "https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning",
+      "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
+      "insight": "HN 热议：478 分 · 277 评论",
+      "sentiment": "positive",
+      "comments": 277,
+      "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "The AirPods Effect",
-      "insight": "HN 热议：285 分 · 504 评论",
-      "sentiment": "positive",
-      "comments": 504,
-      "url": "https://www.theescapenewsletter.com/p/the-airpods-effect",
+      "title": "A new bill takes aim at government pressure to silence lawful online speech",
+      "insight": "HN 热议：95 分 · 43 评论",
+      "sentiment": "neutral",
+      "comments": 43,
+      "url": "https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Reinventing the Renaissance",
-      "insight": "HN 热议：15 分 · 4 评论",
+      "title": "Is AI ruining our skills? Early results are in – and they're not good",
+      "insight": "HN 热议：109 分 · 106 评论",
       "sentiment": "neutral",
-      "comments": 4,
-      "url": "https://drb.ie/article/reinventing-the-renaissance/",
+      "comments": 106,
+      "url": "https://www.nature.com/articles/d41586-026-01947-1",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "How Japan's railways stayed one while splitting apart",
-      "insight": "HN 热议：145 分 · 120 评论",
-      "sentiment": "neutral",
-      "comments": 120,
-      "url": "https://arun.is/blog/jr-logo/",
+      "title": "Zen and the Art of Machine Learning Research",
+      "insight": "HN 热议：201 分 · 69 评论",
+      "sentiment": "positive",
+      "comments": 69,
+      "url": "https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning",
       "id": 5
     }
   ]
