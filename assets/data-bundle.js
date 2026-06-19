@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-19T19:21:43Z",
+    "updated": "2026-06-19T21:56:21Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-19T19:21:43Z",
+    "updated": "2026-06-19T21:56:21Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-19T19:21:43Z",
+    "updated": "2026-06-19T21:56:21Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185036,
-            "stars_today": 185036,
+            "stars": 185037,
+            "stars_today": 185037,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163936,
-            "stars_today": 163936,
+            "stars": 163945,
+            "stars_today": 163945,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93977,
-            "stars_today": 93977,
+            "stars": 93981,
+            "stars_today": 93981,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 83248,
-            "stars_today": 83248,
+            "stars": 83257,
+            "stars_today": 83257,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 77765,
-            "stars_today": 77765,
+            "stars": 77778,
+            "stars_today": 77778,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 53728,
-            "stars_today": 53728,
+            "stars": 53730,
+            "stars_today": 53730,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-19T19:21:43Z",
+    "updated": "2026-06-19T21:56:21Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-19T19:21:43Z",
+    "updated": "2026-06-19T21:56:21Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-19T19:21:43Z",
+    "updated": "2026-06-19T21:56:21Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Hyundai buys Boston Dynamics",
-            "insight": "HN 热议：270 分 · 128 评论",
-            "sentiment": "positive",
-            "comments": 128,
-            "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
+            "title": "Norway imposes near ban on AI in elementary school",
+            "insight": "HN 热议：79 分 · 50 评论",
+            "sentiment": "neutral",
+            "comments": 50,
+            "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
-            "insight": "HN 热议：478 分 · 277 评论",
+            "title": "Hyundai buys Boston Dynamics",
+            "insight": "HN 热议：506 分 · 251 评论",
             "sentiment": "positive",
-            "comments": 277,
-            "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
+            "comments": 251,
+            "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "A new bill takes aim at government pressure to silence lawful online speech",
-            "insight": "HN 热议：95 分 · 43 评论",
-            "sentiment": "neutral",
-            "comments": 43,
-            "url": "https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech",
+            "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
+            "insight": "HN 热议：514 分 · 308 评论",
+            "sentiment": "positive",
+            "comments": 308,
+            "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Is AI ruining our skills? Early results are in – and they're not good",
-            "insight": "HN 热议：109 分 · 106 评论",
+            "title": "A new bill takes aim at government pressure to silence lawful online speech",
+            "insight": "HN 热议：185 分 · 96 评论",
             "sentiment": "neutral",
-            "comments": 106,
-            "url": "https://www.nature.com/articles/d41586-026-01947-1",
+            "comments": 96,
+            "url": "https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Zen and the Art of Machine Learning Research",
-            "insight": "HN 热议：201 分 · 69 评论",
-            "sentiment": "positive",
-            "comments": 69,
-            "url": "https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning",
+            "title": "Companies rein in AI usage as costs strain budgets",
+            "insight": "HN 热议：53 分 · 35 评论",
+            "sentiment": "neutral",
+            "comments": 35,
+            "url": "https://www.ft.com/content/1d37cc08-e0aa-45a4-a45d-4ad282529314",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-19T19:21:43Z",
+    "updated": "2026-06-19T21:56:21Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
