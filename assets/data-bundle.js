@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-19T02:44:20Z",
+    "updated": "2026-06-19T08:23:31Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-19T02:44:20Z",
+    "updated": "2026-06-19T08:23:31Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-19T02:44:20Z",
+    "updated": "2026-06-19T08:23:31Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185021,
-            "stars_today": 185021,
+            "stars": 185023,
+            "stars_today": 185023,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163898,
-            "stars_today": 163898,
+            "stars": 163908,
+            "stars_today": 163908,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93960,
-            "stars_today": 93960,
+            "stars": 93966,
+            "stars_today": 93966,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 83150,
-            "stars_today": 83150,
+            "stars": 83179,
+            "stars_today": 83179,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 77681,
-            "stars_today": 77681,
+            "stars": 77708,
+            "stars_today": 77708,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 53711,
-            "stars_today": 53711,
+            "stars": 53716,
+            "stars_today": 53716,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-19T02:44:20Z",
+    "updated": "2026-06-19T08:23:31Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-19T02:44:20Z",
+    "updated": "2026-06-19T08:23:31Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-19T02:44:20Z",
+    "updated": "2026-06-19T08:23:31Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "How Japan's railways stayed one while splitting apart",
-            "insight": "HN 热议：41 分 · 24 评论",
+            "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
+            "insight": "HN 热议：44 分 · 14 评论",
             "sentiment": "neutral",
-            "comments": 24,
-            "url": "https://arun.is/blog/jr-logo/",
+            "comments": 14,
+            "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps",
-            "insight": "HN 热议：106 分 · 45 评论",
+            "title": "Zen and the Art of Machine Learning Research",
+            "insight": "HN 热议：37 分 · 11 评论",
             "sentiment": "neutral",
-            "comments": 45,
-            "url": "https://tester.army",
+            "comments": 11,
+            "url": "https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Noam Shazeer Joins OpenAI",
-            "insight": "HN 热议：293 分 · 285 评论",
-            "sentiment": "positive",
-            "comments": 285,
-            "url": "https://twitter.com/NoamShazeer/status/2067400851438932297",
+            "title": "How Japan's railways stayed one while splitting apart",
+            "insight": "HN 热议：85 分 · 69 评论",
+            "sentiment": "neutral",
+            "comments": 69,
+            "url": "https://arun.is/blog/jr-logo/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Gerrymandle - Daily puzzle game where you redraw electoral districts",
-            "insight": "HN 热议：142 分 · 64 评论",
+            "title": "Generative AI Is Having Its Herbalife Moment",
+            "insight": "HN 热议：33 分 · 32 评论",
             "sentiment": "neutral",
-            "comments": 64,
-            "url": "https://gerrymandle.cc/",
+            "comments": 32,
+            "url": "https://www.whatwelo.st/p/generative-ai-is-having-its-herbalife",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Agentic Resource Discovery Specification",
-            "insight": "HN 热议：53 分 · 14 评论",
+            "title": "The AirPods Effect",
+            "insight": "HN 热议：75 分 · 122 评论",
             "sentiment": "neutral",
-            "comments": 14,
-            "url": "https://agenticresourcediscovery.org/introduction/",
+            "comments": 122,
+            "url": "https://www.theescapenewsletter.com/p/the-airpods-effect",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-19T02:44:20Z",
+    "updated": "2026-06-19T08:23:31Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
