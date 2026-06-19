@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-19T12:38:54Z",
+    "updated": "2026-06-19T17:08:45Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-19T12:38:54Z",
+    "updated": "2026-06-19T17:08:45Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-19T12:38:54Z",
+    "updated": "2026-06-19T17:08:45Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185025,
-            "stars_today": 185025,
+            "stars": 185034,
+            "stars_today": 185034,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163915,
-            "stars_today": 163915,
+            "stars": 163928,
+            "stars_today": 163928,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93970,
-            "stars_today": 93970,
+            "stars": 93978,
+            "stars_today": 93978,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 83203,
-            "stars_today": 83203,
+            "stars": 83234,
+            "stars_today": 83234,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 77726,
-            "stars_today": 77726,
+            "stars": 77754,
+            "stars_today": 77754,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 53722,
-            "stars_today": 53722,
+            "stars": 53728,
+            "stars_today": 53728,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-19T12:38:54Z",
+    "updated": "2026-06-19T17:08:45Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-19T12:38:54Z",
+    "updated": "2026-06-19T17:08:45Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-19T12:38:54Z",
+    "updated": "2026-06-19T17:08:45Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
-            "insight": "HN 热议：240 分 · 101 评论",
+            "insight": "HN 热议：418 分 · 240 评论",
             "sentiment": "positive",
-            "comments": 101,
+            "comments": 240,
             "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "Zen and the Art of Machine Learning Research",
-            "insight": "HN 热议：98 分 · 34 评论",
+            "insight": "HN 热议：175 分 · 56 评论",
             "sentiment": "neutral",
-            "comments": 34,
+            "comments": 56,
             "url": "https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "The AirPods Effect",
-            "insight": "HN 热议：153 分 · 293 评论",
-            "sentiment": "neutral",
-            "comments": 293,
+            "insight": "HN 热议：285 分 · 504 评论",
+            "sentiment": "positive",
+            "comments": 504,
             "url": "https://www.theescapenewsletter.com/p/the-airpods-effect",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "How Japan's railways stayed one while splitting apart",
-            "insight": "HN 热议：117 分 · 91 评论",
+            "title": "Reinventing the Renaissance",
+            "insight": "HN 热议：15 分 · 4 评论",
             "sentiment": "neutral",
-            "comments": 91,
-            "url": "https://arun.is/blog/jr-logo/",
+            "comments": 4,
+            "url": "https://drb.ie/article/reinventing-the-renaissance/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps",
-            "insight": "HN 热议：123 分 · 58 评论",
+            "title": "How Japan's railways stayed one while splitting apart",
+            "insight": "HN 热议：145 分 · 120 评论",
             "sentiment": "neutral",
-            "comments": 58,
-            "url": "https://tester.army",
+            "comments": 120,
+            "url": "https://arun.is/blog/jr-logo/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-19T12:38:54Z",
+    "updated": "2026-06-19T17:08:45Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

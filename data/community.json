@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-19T12:38:54Z",
+  "updated": "2026-06-19T17:08:45Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
-      "insight": "HN 热议：240 分 · 101 评论",
+      "insight": "HN 热议：418 分 · 240 评论",
       "sentiment": "positive",
-      "comments": 101,
+      "comments": 240,
       "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "Zen and the Art of Machine Learning Research",
-      "insight": "HN 热议：98 分 · 34 评论",
+      "insight": "HN 热议：175 分 · 56 评论",
       "sentiment": "neutral",
-      "comments": 34,
+      "comments": 56,
       "url": "https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "The AirPods Effect",
-      "insight": "HN 热议：153 分 · 293 评论",
-      "sentiment": "neutral",
-      "comments": 293,
+      "insight": "HN 热议：285 分 · 504 评论",
+      "sentiment": "positive",
+      "comments": 504,
       "url": "https://www.theescapenewsletter.com/p/the-airpods-effect",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "How Japan's railways stayed one while splitting apart",
-      "insight": "HN 热议：117 分 · 91 评论",
+      "title": "Reinventing the Renaissance",
+      "insight": "HN 热议：15 分 · 4 评论",
       "sentiment": "neutral",
-      "comments": 91,
-      "url": "https://arun.is/blog/jr-logo/",
+      "comments": 4,
+      "url": "https://drb.ie/article/reinventing-the-renaissance/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps",
-      "insight": "HN 热议：123 分 · 58 评论",
+      "title": "How Japan's railways stayed one while splitting apart",
+      "insight": "HN 热议：145 分 · 120 评论",
       "sentiment": "neutral",
-      "comments": 58,
-      "url": "https://tester.army",
+      "comments": 120,
+      "url": "https://arun.is/blog/jr-logo/",
       "id": 5
     }
   ]
