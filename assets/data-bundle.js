@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-18T22:49:25Z",
+    "updated": "2026-06-19T02:44:20Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-18T22:49:25Z",
+    "updated": "2026-06-19T02:44:20Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-18T22:49:25Z",
+    "updated": "2026-06-19T02:44:20Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185018,
-            "stars_today": 185018,
+            "stars": 185021,
+            "stars_today": 185021,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163892,
-            "stars_today": 163892,
+            "stars": 163898,
+            "stars_today": 163898,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93955,
-            "stars_today": 93955,
+            "stars": 93960,
+            "stars_today": 93960,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 83142,
-            "stars_today": 83142,
+            "stars": 83150,
+            "stars_today": 83150,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 77673,
-            "stars_today": 77673,
+            "stars": 77681,
+            "stars_today": 77681,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 53710,
-            "stars_today": 53710,
+            "stars": 53711,
+            "stars_today": 53711,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-18T22:49:25Z",
+    "updated": "2026-06-19T02:44:20Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-18T22:49:25Z",
+    "updated": "2026-06-19T02:44:20Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-18T22:49:25Z",
+    "updated": "2026-06-19T02:44:20Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Noam Shazeer Joins OpenAI",
-            "insight": "HN 热议：231 分 · 196 评论",
-            "sentiment": "positive",
-            "comments": 196,
-            "url": "https://twitter.com/NoamShazeer/status/2067400851438932297",
+            "title": "How Japan's railways stayed one while splitting apart",
+            "insight": "HN 热议：41 分 · 24 评论",
+            "sentiment": "neutral",
+            "comments": 24,
+            "url": "https://arun.is/blog/jr-logo/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "The Korean telecom giant at the center of Anthropic's Mythos controversy",
-            "insight": "HN 热议：66 分 · 40 评论",
+            "title": "Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps",
+            "insight": "HN 热议：106 分 · 45 评论",
             "sentiment": "neutral",
-            "comments": 40,
-            "url": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/",
+            "comments": 45,
+            "url": "https://tester.army",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps",
-            "insight": "HN 热议：90 分 · 40 评论",
-            "sentiment": "neutral",
-            "comments": 40,
-            "url": "https://tester.army",
+            "title": "Noam Shazeer Joins OpenAI",
+            "insight": "HN 热议：293 分 · 285 评论",
+            "sentiment": "positive",
+            "comments": 285,
+            "url": "https://twitter.com/NoamShazeer/status/2067400851438932297",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Agentic Resource Discovery Specification",
-            "insight": "HN 热议：40 分 · 10 评论",
+            "title": "Show HN: Gerrymandle - Daily puzzle game where you redraw electoral districts",
+            "insight": "HN 热议：142 分 · 64 评论",
             "sentiment": "neutral",
-            "comments": 10,
-            "url": "https://agenticresourcediscovery.org/introduction/",
+            "comments": 64,
+            "url": "https://gerrymandle.cc/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "The founder of Craigslist has given away half a billion dollars",
-            "insight": "HN 热议：276 分 · 195 评论",
-            "sentiment": "positive",
-            "comments": 195,
-            "url": "https://www.independent.co.uk/us/money/craigslist-multimillionaire-craig-newmark-b2980681.html",
+            "title": "Agentic Resource Discovery Specification",
+            "insight": "HN 热议：53 分 · 14 评论",
+            "sentiment": "neutral",
+            "comments": 14,
+            "url": "https://agenticresourcediscovery.org/introduction/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-18T22:49:25Z",
+    "updated": "2026-06-19T02:44:20Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
