@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-20T13:21:20Z",
+  "updated": "2026-06-20T16:09:45Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Bootimus – A Self-Contained PXE and HTTP Boot Server",
-      "insight": "HN 热议：9 分 · 1 评论",
+      "insight": "HN 热议：56 分 · 19 评论",
       "sentiment": "neutral",
-      "comments": 1,
+      "comments": 19,
       "url": "https://bootimus.com",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Data Compression Explained (2012)",
-      "insight": "HN 热议：153 分 · 21 评论",
+      "title": "Temporary Cloudflare Accounts for AI Agents",
+      "insight": "HN 热议：33 分 · 14 评论",
       "sentiment": "neutral",
-      "comments": 21,
-      "url": "https://mattmahoney.net/dc/dce.html",
+      "comments": 14,
+      "url": "https://blog.cloudflare.com/temporary-accounts/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
-      "insight": "HN 热议：290 分 · 116 评论",
-      "sentiment": "positive",
-      "comments": 116,
-      "url": "https://arrowtsx.dev/bigger-models/",
+      "title": "Ubisoft co-founder Claude Guillemot has died in a plane crash",
+      "insight": "HN 热议：36 分 · 10 评论",
+      "sentiment": "neutral",
+      "comments": 10,
+      "url": "https://www.bloomberg.com/news/articles/2026-06-20/ubisoft-co-founder-claude-guillemot-dies-in-air-crash-at-age-69",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "LLMs Are Complicated Now",
-      "insight": "HN 热议：67 分 · 15 评论",
-      "sentiment": "neutral",
-      "comments": 15,
-      "url": "https://ianbarber.blog/2026/06/19/llms-are-complicated-now/",
+      "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
+      "insight": "HN 热议：377 分 · 180 评论",
+      "sentiment": "positive",
+      "comments": 180,
+      "url": "https://arrowtsx.dev/bigger-models/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "A 1969 camera operators' strike created Upstairs Downstairs multiverse",
-      "insight": "HN 热议：45 分 · 12 评论",
+      "title": "Data Compression Explained (2012)",
+      "insight": "HN 热议：170 分 · 25 评论",
       "sentiment": "neutral",
-      "comments": 12,
-      "url": "https://ironicsans.ghost.io/the-color-strike/",
+      "comments": 25,
+      "url": "https://mattmahoney.net/dc/dce.html",
       "id": 5
     }
   ]

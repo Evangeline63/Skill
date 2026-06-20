@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-20T13:21:20Z",
+    "updated": "2026-06-20T16:09:45Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-20T13:21:20Z",
+    "updated": "2026-06-20T16:09:45Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,7 +266,7 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-20T13:21:20Z",
+    "updated": "2026-06-20T16:09:45Z",
     "repos": [
         {
             "rank": 1,
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163970,
-            "stars_today": 163970,
+            "stars": 163974,
+            "stars_today": 163974,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93999,
-            "stars_today": 93999,
+            "stars": 94005,
+            "stars_today": 94005,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 83332,
-            "stars_today": 83332,
+            "stars": 83361,
+            "stars_today": 83361,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 77818,
-            "stars_today": 77818,
+            "stars": 77828,
+            "stars_today": 77828,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 53775,
-            "stars_today": 53775,
+            "stars": 53802,
+            "stars_today": 53802,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-20T13:21:20Z",
+    "updated": "2026-06-20T16:09:45Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-20T13:21:20Z",
+    "updated": "2026-06-20T16:09:45Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-20T13:21:20Z",
+    "updated": "2026-06-20T16:09:45Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Bootimus – A Self-Contained PXE and HTTP Boot Server",
-            "insight": "HN 热议：9 分 · 1 评论",
+            "insight": "HN 热议：56 分 · 19 评论",
             "sentiment": "neutral",
-            "comments": 1,
+            "comments": 19,
             "url": "https://bootimus.com",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Data Compression Explained (2012)",
-            "insight": "HN 热议：153 分 · 21 评论",
+            "title": "Temporary Cloudflare Accounts for AI Agents",
+            "insight": "HN 热议：33 分 · 14 评论",
             "sentiment": "neutral",
-            "comments": 21,
-            "url": "https://mattmahoney.net/dc/dce.html",
+            "comments": 14,
+            "url": "https://blog.cloudflare.com/temporary-accounts/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
-            "insight": "HN 热议：290 分 · 116 评论",
-            "sentiment": "positive",
-            "comments": 116,
-            "url": "https://arrowtsx.dev/bigger-models/",
+            "title": "Ubisoft co-founder Claude Guillemot has died in a plane crash",
+            "insight": "HN 热议：36 分 · 10 评论",
+            "sentiment": "neutral",
+            "comments": 10,
+            "url": "https://www.bloomberg.com/news/articles/2026-06-20/ubisoft-co-founder-claude-guillemot-dies-in-air-crash-at-age-69",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "LLMs Are Complicated Now",
-            "insight": "HN 热议：67 分 · 15 评论",
-            "sentiment": "neutral",
-            "comments": 15,
-            "url": "https://ianbarber.blog/2026/06/19/llms-are-complicated-now/",
+            "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
+            "insight": "HN 热议：377 分 · 180 评论",
+            "sentiment": "positive",
+            "comments": 180,
+            "url": "https://arrowtsx.dev/bigger-models/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "A 1969 camera operators' strike created Upstairs Downstairs multiverse",
-            "insight": "HN 热议：45 分 · 12 评论",
+            "title": "Data Compression Explained (2012)",
+            "insight": "HN 热议：170 分 · 25 评论",
             "sentiment": "neutral",
-            "comments": 12,
-            "url": "https://ironicsans.ghost.io/the-color-strike/",
+            "comments": 25,
+            "url": "https://mattmahoney.net/dc/dce.html",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-20T13:21:20Z",
+    "updated": "2026-06-20T16:09:45Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
