@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-20T16:09:45Z",
+  "updated": "2026-06-20T19:05:46Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Bootimus – A Self-Contained PXE and HTTP Boot Server",
-      "insight": "HN 热议：56 分 · 19 评论",
+      "title": "Agency stole bestselling author's book, used AI to relaunch as their own",
+      "insight": "HN 热议：146 分 · 39 评论",
       "sentiment": "neutral",
-      "comments": 19,
-      "url": "https://bootimus.com",
+      "comments": 39,
+      "url": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Temporary Cloudflare Accounts for AI Agents",
-      "insight": "HN 热议：33 分 · 14 评论",
+      "title": "Show HN: We post-trained a model that pen tests instead of refusing",
+      "insight": "HN 热议：16 分 · 0 评论",
       "sentiment": "neutral",
-      "comments": 14,
-      "url": "https://blog.cloudflare.com/temporary-accounts/",
+      "comments": 0,
+      "url": "https://www.argusred.com/cli",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Ubisoft co-founder Claude Guillemot has died in a plane crash",
-      "insight": "HN 热议：36 分 · 10 评论",
+      "title": "Temporary Cloudflare Accounts for AI Agents",
+      "insight": "HN 热议：83 分 · 60 评论",
       "sentiment": "neutral",
-      "comments": 10,
-      "url": "https://www.bloomberg.com/news/articles/2026-06-20/ubisoft-co-founder-claude-guillemot-dies-in-air-crash-at-age-69",
+      "comments": 60,
+      "url": "https://blog.cloudflare.com/temporary-accounts/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
-      "insight": "HN 热议：377 分 · 180 评论",
-      "sentiment": "positive",
-      "comments": 180,
-      "url": "https://arrowtsx.dev/bigger-models/",
+      "title": "Bootimus – A Self-Contained PXE and HTTP Boot Server",
+      "insight": "HN 热议：87 分 · 31 评论",
+      "sentiment": "neutral",
+      "comments": 31,
+      "url": "https://bootimus.com",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Data Compression Explained (2012)",
-      "insight": "HN 热议：170 分 · 25 评论",
+      "title": "Ubisoft co-founder Claude Guillemot has died in a plane crash",
+      "insight": "HN 热议：119 分 · 60 评论",
       "sentiment": "neutral",
-      "comments": 25,
-      "url": "https://mattmahoney.net/dc/dce.html",
+      "comments": 60,
+      "url": "https://www.reuters.com/world/ubisofts-co-founder-claude-guillemot-dies-plane-crash-2026-06-20/",
       "id": 5
     }
   ]
