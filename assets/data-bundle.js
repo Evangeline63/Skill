@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-20T11:06:23Z",
+    "updated": "2026-06-20T13:21:20Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-20T11:06:23Z",
+    "updated": "2026-06-20T13:21:20Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-20T11:06:23Z",
+    "updated": "2026-06-20T13:21:20Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185046,
-            "stars_today": 185046,
+            "stars": 185048,
+            "stars_today": 185048,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163968,
-            "stars_today": 163968,
+            "stars": 163970,
+            "stars_today": 163970,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93997,
-            "stars_today": 93997,
+            "stars": 93999,
+            "stars_today": 93999,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 83315,
-            "stars_today": 83315,
+            "stars": 83332,
+            "stars_today": 83332,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 77815,
-            "stars_today": 77815,
+            "stars": 77818,
+            "stars_today": 77818,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 53757,
-            "stars_today": 53757,
+            "stars": 53775,
+            "stars_today": 53775,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-20T11:06:23Z",
+    "updated": "2026-06-20T13:21:20Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-20T11:06:23Z",
+    "updated": "2026-06-20T13:21:20Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-20T11:06:23Z",
+    "updated": "2026-06-20T13:21:20Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Data Compression Explained (2012)",
-            "insight": "HN 热议：136 分 · 17 评论",
+            "title": "Bootimus – A Self-Contained PXE and HTTP Boot Server",
+            "insight": "HN 热议：9 分 · 1 评论",
             "sentiment": "neutral",
-            "comments": 17,
-            "url": "https://mattmahoney.net/dc/dce.html",
+            "comments": 1,
+            "url": "https://bootimus.com",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
-            "insight": "HN 热议：202 分 · 61 评论",
-            "sentiment": "positive",
-            "comments": 61,
-            "url": "https://arrowtsx.dev/bigger-models/",
+            "title": "Data Compression Explained (2012)",
+            "insight": "HN 热议：153 分 · 21 评论",
+            "sentiment": "neutral",
+            "comments": 21,
+            "url": "https://mattmahoney.net/dc/dce.html",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "A 1969 camera operators' strike created Upstairs Downstairs multiverse",
-            "insight": "HN 热议：34 分 · 8 评论",
-            "sentiment": "neutral",
-            "comments": 8,
-            "url": "https://ironicsans.ghost.io/the-color-strike/",
+            "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
+            "insight": "HN 热议：290 分 · 116 评论",
+            "sentiment": "positive",
+            "comments": 116,
+            "url": "https://arrowtsx.dev/bigger-models/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Hyundai buys Boston Dynamics",
-            "insight": "HN 热议：838 分 · 365 评论",
-            "sentiment": "positive",
-            "comments": 365,
-            "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
+            "title": "LLMs Are Complicated Now",
+            "insight": "HN 热议：67 分 · 15 评论",
+            "sentiment": "neutral",
+            "comments": 15,
+            "url": "https://ianbarber.blog/2026/06/19/llms-are-complicated-now/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Norway imposes near ban on AI in elementary school",
-            "insight": "HN 热议：690 分 · 482 评论",
-            "sentiment": "positive",
-            "comments": 482,
-            "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
+            "title": "A 1969 camera operators' strike created Upstairs Downstairs multiverse",
+            "insight": "HN 热议：45 分 · 12 评论",
+            "sentiment": "neutral",
+            "comments": 12,
+            "url": "https://ironicsans.ghost.io/the-color-strike/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-20T11:06:23Z",
+    "updated": "2026-06-20T13:21:20Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

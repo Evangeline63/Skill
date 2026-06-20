@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-20T11:06:23Z",
+  "updated": "2026-06-20T13:21:20Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Data Compression Explained (2012)",
-      "insight": "HN 热议：136 分 · 17 评论",
+      "title": "Bootimus – A Self-Contained PXE and HTTP Boot Server",
+      "insight": "HN 热议：9 分 · 1 评论",
       "sentiment": "neutral",
-      "comments": 17,
-      "url": "https://mattmahoney.net/dc/dce.html",
+      "comments": 1,
+      "url": "https://bootimus.com",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
-      "insight": "HN 热议：202 分 · 61 评论",
-      "sentiment": "positive",
-      "comments": 61,
-      "url": "https://arrowtsx.dev/bigger-models/",
+      "title": "Data Compression Explained (2012)",
+      "insight": "HN 热议：153 分 · 21 评论",
+      "sentiment": "neutral",
+      "comments": 21,
+      "url": "https://mattmahoney.net/dc/dce.html",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "A 1969 camera operators' strike created Upstairs Downstairs multiverse",
-      "insight": "HN 热议：34 分 · 8 评论",
-      "sentiment": "neutral",
-      "comments": 8,
-      "url": "https://ironicsans.ghost.io/the-color-strike/",
+      "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
+      "insight": "HN 热议：290 分 · 116 评论",
+      "sentiment": "positive",
+      "comments": 116,
+      "url": "https://arrowtsx.dev/bigger-models/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Hyundai buys Boston Dynamics",
-      "insight": "HN 热议：838 分 · 365 评论",
-      "sentiment": "positive",
-      "comments": 365,
-      "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
+      "title": "LLMs Are Complicated Now",
+      "insight": "HN 热议：67 分 · 15 评论",
+      "sentiment": "neutral",
+      "comments": 15,
+      "url": "https://ianbarber.blog/2026/06/19/llms-are-complicated-now/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Norway imposes near ban on AI in elementary school",
-      "insight": "HN 热议：690 分 · 482 评论",
-      "sentiment": "positive",
-      "comments": 482,
-      "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
+      "title": "A 1969 camera operators' strike created Upstairs Downstairs multiverse",
+      "insight": "HN 热议：45 分 · 12 评论",
+      "sentiment": "neutral",
+      "comments": 12,
+      "url": "https://ironicsans.ghost.io/the-color-strike/",
       "id": 5
     }
   ]
