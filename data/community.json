@@ -1,48 +1,48 @@
 {
-  "updated": "2026-06-20T19:05:46Z",
+  "updated": "2026-06-20T21:57:42Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Agency stole bestselling author's book, used AI to relaunch as their own",
-      "insight": "HN 热议：146 分 · 39 评论",
+      "title": "Temporary Cloudflare accounts for AI agents",
+      "insight": "HN 热议：130 分 · 81 评论",
       "sentiment": "neutral",
-      "comments": 39,
-      "url": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/",
+      "comments": 81,
+      "url": "https://blog.cloudflare.com/temporary-accounts/",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "Show HN: We post-trained a model that pen tests instead of refusing",
-      "insight": "HN 热议：16 分 · 0 评论",
+      "insight": "HN 热议：50 分 · 25 评论",
       "sentiment": "neutral",
-      "comments": 0,
+      "comments": 25,
       "url": "https://www.argusred.com/cli",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Temporary Cloudflare Accounts for AI Agents",
-      "insight": "HN 热议：83 分 · 60 评论",
+      "title": "Bootimus – A Self-Contained PXE and HTTP Boot Server",
+      "insight": "HN 热议：98 分 · 35 评论",
       "sentiment": "neutral",
-      "comments": 60,
-      "url": "https://blog.cloudflare.com/temporary-accounts/",
+      "comments": 35,
+      "url": "https://bootimus.com",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Bootimus – A Self-Contained PXE and HTTP Boot Server",
-      "insight": "HN 热议：87 分 · 31 评论",
-      "sentiment": "neutral",
-      "comments": 31,
-      "url": "https://bootimus.com",
+      "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
+      "insight": "HN 热议：483 分 · 240 评论",
+      "sentiment": "positive",
+      "comments": 240,
+      "url": "https://arrowtsx.dev/bigger-models/",
       "id": 4
     },
     {
       "source": "HackerNews",
       "title": "Ubisoft co-founder Claude Guillemot has died in a plane crash",
-      "insight": "HN 热议：119 分 · 60 评论",
+      "insight": "HN 热议：140 分 · 83 评论",
       "sentiment": "neutral",
-      "comments": 60,
+      "comments": 83,
       "url": "https://www.reuters.com/world/ubisofts-co-founder-claude-guillemot-dies-plane-crash-2026-06-20/",
       "id": 5
     }
