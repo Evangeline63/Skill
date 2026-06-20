@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-19T21:56:21Z",
+  "updated": "2026-06-20T02:03:57Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Norway imposes near ban on AI in elementary school",
-      "insight": "HN 热议：79 分 · 50 评论",
-      "sentiment": "neutral",
-      "comments": 50,
+      "insight": "HN 热议：450 分 · 299 评论",
+      "sentiment": "positive",
+      "comments": 299,
       "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Hyundai buys Boston Dynamics",
-      "insight": "HN 热议：506 分 · 251 评论",
-      "sentiment": "positive",
-      "comments": 251,
-      "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
+      "title": "Aikido Code Audit",
+      "insight": "HN 热议：14 分 · 7 评论",
+      "sentiment": "neutral",
+      "comments": 7,
+      "url": "https://www.aikido.dev/blog/introducing-code-audit-find-complex-vulnerabilities-hidden-in-your-codebase",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
-      "insight": "HN 热议：514 分 · 308 评论",
+      "title": "Hyundai buys Boston Dynamics",
+      "insight": "HN 热议：666 分 · 312 评论",
       "sentiment": "positive",
-      "comments": 308,
-      "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
+      "comments": 312,
+      "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "A new bill takes aim at government pressure to silence lawful online speech",
-      "insight": "HN 热议：185 分 · 96 评论",
-      "sentiment": "neutral",
-      "comments": 96,
-      "url": "https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech",
+      "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
+      "insight": "HN 热议：542 分 · 334 评论",
+      "sentiment": "positive",
+      "comments": 334,
+      "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Companies rein in AI usage as costs strain budgets",
-      "insight": "HN 热议：53 分 · 35 评论",
+      "title": "Digital Printing of Arabic: explaining the problem",
+      "insight": "HN 热议：17 分 · 0 评论",
       "sentiment": "neutral",
-      "comments": 35,
-      "url": "https://www.ft.com/content/1d37cc08-e0aa-45a4-a45d-4ad282529314",
+      "comments": 0,
+      "url": "https://digitalorientalist.com/2017/08/21/digital-printing-of-arabic-explaining-the-problem/",
       "id": 5
     }
   ]
