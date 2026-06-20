@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-20T02:03:57Z",
+    "updated": "2026-06-20T06:52:08Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-20T02:03:57Z",
+    "updated": "2026-06-20T06:52:08Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-20T02:03:57Z",
+    "updated": "2026-06-20T06:52:08Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185040,
-            "stars_today": 185040,
+            "stars": 185045,
+            "stars_today": 185045,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163955,
-            "stars_today": 163955,
+            "stars": 163962,
+            "stars_today": 163962,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 93985,
-            "stars_today": 93985,
+            "stars": 93991,
+            "stars_today": 93991,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 83272,
-            "stars_today": 83272,
+            "stars": 83288,
+            "stars_today": 83288,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 77791,
-            "stars_today": 77791,
+            "stars": 77802,
+            "stars_today": 77802,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 53737,
-            "stars_today": 53737,
+            "stars": 53747,
+            "stars_today": 53747,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-20T02:03:57Z",
+    "updated": "2026-06-20T06:52:08Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-20T02:03:57Z",
+    "updated": "2026-06-20T06:52:08Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-20T02:03:57Z",
+    "updated": "2026-06-20T06:52:08Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Norway imposes near ban on AI in elementary school",
-            "insight": "HN 热议：450 分 · 299 评论",
-            "sentiment": "positive",
-            "comments": 299,
-            "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
+            "title": "Data Compression Explained (2012)",
+            "insight": "HN 热议：83 分 · 7 评论",
+            "sentiment": "neutral",
+            "comments": 7,
+            "url": "https://mattmahoney.net/dc/dce.html",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Aikido Code Audit",
-            "insight": "HN 热议：14 分 · 7 评论",
-            "sentiment": "neutral",
-            "comments": 7,
-            "url": "https://www.aikido.dev/blog/introducing-code-audit-find-complex-vulnerabilities-hidden-in-your-codebase",
+            "title": "Hyundai buys Boston Dynamics",
+            "insight": "HN 热议：757 分 · 345 评论",
+            "sentiment": "positive",
+            "comments": 345,
+            "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Hyundai buys Boston Dynamics",
-            "insight": "HN 热议：666 分 · 312 评论",
+            "title": "Norway imposes near ban on AI in elementary school",
+            "insight": "HN 热议：593 分 · 403 评论",
             "sentiment": "positive",
-            "comments": 312,
-            "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
+            "comments": 403,
+            "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
             "id": 3
         },
         {
             "source": "HackerNews",
             "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
-            "insight": "HN 热议：542 分 · 334 评论",
+            "insight": "HN 热议：577 分 · 359 评论",
             "sentiment": "positive",
-            "comments": 334,
+            "comments": 359,
             "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Digital Printing of Arabic: explaining the problem",
-            "insight": "HN 热议：17 分 · 0 评论",
+            "title": "John Jumper to join Anthropic",
+            "insight": "HN 热议：111 分 · 82 评论",
             "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://digitalorientalist.com/2017/08/21/digital-printing-of-arabic-explaining-the-problem/",
+            "comments": 82,
+            "url": "https://twitter.com/JohnJumperSci/status/2068001285173834106",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-20T02:03:57Z",
+    "updated": "2026-06-20T06:52:08Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

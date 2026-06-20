@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-20T02:03:57Z",
+  "updated": "2026-06-20T06:52:08Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Norway imposes near ban on AI in elementary school",
-      "insight": "HN 热议：450 分 · 299 评论",
-      "sentiment": "positive",
-      "comments": 299,
-      "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
+      "title": "Data Compression Explained (2012)",
+      "insight": "HN 热议：83 分 · 7 评论",
+      "sentiment": "neutral",
+      "comments": 7,
+      "url": "https://mattmahoney.net/dc/dce.html",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Aikido Code Audit",
-      "insight": "HN 热议：14 分 · 7 评论",
-      "sentiment": "neutral",
-      "comments": 7,
-      "url": "https://www.aikido.dev/blog/introducing-code-audit-find-complex-vulnerabilities-hidden-in-your-codebase",
+      "title": "Hyundai buys Boston Dynamics",
+      "insight": "HN 热议：757 分 · 345 评论",
+      "sentiment": "positive",
+      "comments": 345,
+      "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Hyundai buys Boston Dynamics",
-      "insight": "HN 热议：666 分 · 312 评论",
+      "title": "Norway imposes near ban on AI in elementary school",
+      "insight": "HN 热议：593 分 · 403 评论",
       "sentiment": "positive",
-      "comments": 312,
-      "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
+      "comments": 403,
+      "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
-      "insight": "HN 热议：542 分 · 334 评论",
+      "insight": "HN 热议：577 分 · 359 评论",
       "sentiment": "positive",
-      "comments": 334,
+      "comments": 359,
       "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Digital Printing of Arabic: explaining the problem",
-      "insight": "HN 热议：17 分 · 0 评论",
+      "title": "John Jumper to join Anthropic",
+      "insight": "HN 热议：111 分 · 82 评论",
       "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://digitalorientalist.com/2017/08/21/digital-printing-of-arabic-explaining-the-problem/",
+      "comments": 82,
+      "url": "https://twitter.com/JohnJumperSci/status/2068001285173834106",
       "id": 5
     }
   ]
