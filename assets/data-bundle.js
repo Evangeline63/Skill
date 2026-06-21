@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-21T07:22:30Z",
+    "updated": "2026-06-21T11:37:10Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-21T07:22:30Z",
+    "updated": "2026-06-21T11:37:10Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-21T07:22:30Z",
+    "updated": "2026-06-21T11:37:10Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185047,
-            "stars_today": 185047,
+            "stars": 185051,
+            "stars_today": 185051,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163992,
-            "stars_today": 163992,
+            "stars": 164001,
+            "stars_today": 164001,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 83454,
-            "stars_today": 83454,
+            "stars": 83481,
+            "stars_today": 83481,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 77875,
-            "stars_today": 77875,
+            "stars": 77885,
+            "stars_today": 77885,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 53852,
-            "stars_today": 53852,
+            "stars": 53860,
+            "stars_today": 53860,
             "url": "https://github.com/FlowiseAI/Flowise"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "Kong/kong",
             "description": "🦍 The API and AI Gateway",
             "language": "Lua",
-            "stars": 43633,
-            "stars_today": 43633,
+            "stars": 43632,
+            "stars_today": 43632,
             "url": "https://github.com/Kong/kong"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-21T07:22:30Z",
+    "updated": "2026-06-21T11:37:10Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-21T07:22:30Z",
+    "updated": "2026-06-21T11:37:10Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-21T07:22:30Z",
+    "updated": "2026-06-21T11:37:10Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Building reliable agentic AI systems",
-            "insight": "HN 热议：63 分 · 12 评论",
-            "sentiment": "neutral",
-            "comments": 12,
-            "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+            "title": "Loupe – A iOS app that raises awareness about what native apps can see",
+            "insight": "HN 热议：328 分 · 124 评论",
+            "sentiment": "positive",
+            "comments": 124,
+            "url": "https://github.com/mysk-research/loupe",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Loupe – A iOS app that raises awareness about what native apps can see",
-            "insight": "HN 热议：214 分 · 59 评论",
+            "title": "Slow breathing modulates brain function and risk behavior",
+            "insight": "HN 热议：225 分 · 60 评论",
             "sentiment": "positive",
-            "comments": 59,
-            "url": "https://github.com/mysk-research/loupe",
+            "comments": 60,
+            "url": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "The 100k Whys of AI",
-            "insight": "HN 热议：51 分 · 15 评论",
+            "title": "Building reliable agentic AI systems",
+            "insight": "HN 热议：111 分 · 23 评论",
             "sentiment": "neutral",
-            "comments": 15,
-            "url": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai",
+            "comments": 23,
+            "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Slow breathing modulates brain function and risk behavior",
-            "insight": "HN 热议：160 分 · 33 评论",
-            "sentiment": "neutral",
-            "comments": 33,
-            "url": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
+            "title": "Temporary Cloudflare accounts for AI agents",
+            "insight": "HN 热议：218 分 · 115 评论",
+            "sentiment": "positive",
+            "comments": 115,
+            "url": "https://blog.cloudflare.com/temporary-accounts/",
             "id": 4
         },
         {
             "source": "HackerNews",
             "title": "Your brain was never designed for this much bad news",
-            "insight": "HN 热议：116 分 · 72 评论",
-            "sentiment": "neutral",
-            "comments": 72,
+            "insight": "HN 热议：228 分 · 168 评论",
+            "sentiment": "positive",
+            "comments": 168,
             "url": "https://www.sciencedaily.com/releases/2026/06/260614012006.htm",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-21T07:22:30Z",
+    "updated": "2026-06-21T11:37:10Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
