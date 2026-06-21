@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-21T19:10:06Z",
+    "updated": "2026-06-21T22:06:42Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-21T19:10:06Z",
+    "updated": "2026-06-21T22:06:42Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-21T19:10:06Z",
+    "updated": "2026-06-21T22:06:42Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185060,
-            "stars_today": 185060,
+            "stars": 185062,
+            "stars_today": 185062,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 164023,
-            "stars_today": 164023,
+            "stars": 164037,
+            "stars_today": 164037,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 83542,
-            "stars_today": 83542,
+            "stars": 83557,
+            "stars_today": 83557,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 77917,
-            "stars_today": 77917,
+            "stars": 77925,
+            "stars_today": 77925,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 53872,
-            "stars_today": 53872,
+            "stars": 53873,
+            "stars_today": 53873,
             "url": "https://github.com/FlowiseAI/Flowise"
         },
         {
@@ -325,7 +325,7 @@ window.__DATA__ = {
     ]
 },
   "products": {
-    "updated": "2026-06-21T19:10:06Z",
+    "updated": "2026-06-21T22:06:42Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-21T19:10:06Z",
+    "updated": "2026-06-21T22:06:42Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-21T19:10:06Z",
+    "updated": "2026-06-21T22:06:42Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Identity verification on Claude",
-            "insight": "HN 热议：223 分 · 201 评论",
-            "sentiment": "positive",
-            "comments": 201,
-            "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
+            "title": "Apertus – Open Foundation Model for Sovereign AI",
+            "insight": "HN 热议：27 分 · 5 评论",
+            "sentiment": "neutral",
+            "comments": 5,
+            "url": "https://apertvs.ai/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Loupe – A iOS app that raises awareness about what native apps can see",
-            "insight": "HN 热议：469 分 · 190 评论",
-            "sentiment": "positive",
-            "comments": 190,
-            "url": "https://github.com/mysk-research/loupe",
+            "title": "JSON-LD Explained for Personal Websites",
+            "insight": "HN 热议：118 分 · 30 评论",
+            "sentiment": "neutral",
+            "comments": 30,
+            "url": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Pulse – Dashboard for Claude Code, approve tool calls from your phone",
-            "insight": "HN 热议：16 分 · 7 评论",
+            "title": "Stop wasting tokens and re explaining your project between sessions",
+            "insight": "HN 热议：15 分 · 12 评论",
             "sentiment": "neutral",
-            "comments": 7,
-            "url": "https://github.com/nikitadoudikov/claude-pulse",
+            "comments": 12,
+            "url": "https://github.com/raiyanyahya/recall",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Slow breathing modulates brain function and risk behavior",
-            "insight": "HN 热议：338 分 · 97 评论",
+            "title": "Identity verification on Claude",
+            "insight": "HN 热议：454 分 · 417 评论",
             "sentiment": "positive",
-            "comments": 97,
-            "url": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
+            "comments": 417,
+            "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "The brain was not designed for this much bad news",
-            "insight": "HN 热议：300 分 · 261 评论",
-            "sentiment": "positive",
-            "comments": 261,
-            "url": "https://www.sciencedaily.com/releases/2026/06/260614012006.htm",
+            "title": "The Anatomy of an AI-Native Org",
+            "insight": "HN 热议：27 分 · 27 评论",
+            "sentiment": "neutral",
+            "comments": 27,
+            "url": "https://ajeygore.in/content/the-anatomy-of-an-ai-native-org",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-21T19:10:06Z",
+    "updated": "2026-06-21T22:06:42Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
