@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-21T02:27:35Z",
+  "updated": "2026-06-21T07:22:30Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Slow breathing modulates brain function and risk behavior",
-      "insight": "HN 热议：65 分 · 6 评论",
+      "title": "Building reliable agentic AI systems",
+      "insight": "HN 热议：63 分 · 12 评论",
       "sentiment": "neutral",
-      "comments": 6,
-      "url": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
+      "comments": 12,
+      "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "Loupe – A iOS app that raises awareness about what native apps can see",
-      "insight": "HN 热议：68 分 · 17 评论",
-      "sentiment": "neutral",
-      "comments": 17,
+      "insight": "HN 热议：214 分 · 59 评论",
+      "sentiment": "positive",
+      "comments": 59,
       "url": "https://github.com/mysk-research/loupe",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "When I reject AI code even if it works",
-      "insight": "HN 热议：27 分 · 8 评论",
+      "title": "The 100k Whys of AI",
+      "insight": "HN 热议：51 分 · 15 评论",
       "sentiment": "neutral",
-      "comments": 8,
-      "url": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/",
+      "comments": 15,
+      "url": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Semiconductor Lifeline Keeps Fighter Jets in the Air",
-      "insight": "HN 热议：38 分 · 11 评论",
+      "title": "Slow breathing modulates brain function and risk behavior",
+      "insight": "HN 热议：160 分 · 33 评论",
       "sentiment": "neutral",
-      "comments": 11,
-      "url": "https://spectrum.ieee.org/phoenix-semiconductors-legacychips-oems",
+      "comments": 33,
+      "url": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Temporary Cloudflare accounts for AI agents",
-      "insight": "HN 热议：175 分 · 96 评论",
+      "title": "Your brain was never designed for this much bad news",
+      "insight": "HN 热议：116 分 · 72 评论",
       "sentiment": "neutral",
-      "comments": 96,
-      "url": "https://blog.cloudflare.com/temporary-accounts/",
+      "comments": 72,
+      "url": "https://www.sciencedaily.com/releases/2026/06/260614012006.htm",
       "id": 5
     }
   ]
