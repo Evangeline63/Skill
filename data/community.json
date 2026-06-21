@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-20T21:57:42Z",
+  "updated": "2026-06-21T02:27:35Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Temporary Cloudflare accounts for AI agents",
-      "insight": "HN 热议：130 分 · 81 评论",
+      "title": "Slow breathing modulates brain function and risk behavior",
+      "insight": "HN 热议：65 分 · 6 评论",
       "sentiment": "neutral",
-      "comments": 81,
-      "url": "https://blog.cloudflare.com/temporary-accounts/",
+      "comments": 6,
+      "url": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: We post-trained a model that pen tests instead of refusing",
-      "insight": "HN 热议：50 分 · 25 评论",
+      "title": "Loupe – A iOS app that raises awareness about what native apps can see",
+      "insight": "HN 热议：68 分 · 17 评论",
       "sentiment": "neutral",
-      "comments": 25,
-      "url": "https://www.argusred.com/cli",
+      "comments": 17,
+      "url": "https://github.com/mysk-research/loupe",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Bootimus – A Self-Contained PXE and HTTP Boot Server",
-      "insight": "HN 热议：98 分 · 35 评论",
+      "title": "When I reject AI code even if it works",
+      "insight": "HN 热议：27 分 · 8 评论",
       "sentiment": "neutral",
-      "comments": 35,
-      "url": "https://bootimus.com",
+      "comments": 8,
+      "url": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
-      "insight": "HN 热议：483 分 · 240 评论",
-      "sentiment": "positive",
-      "comments": 240,
-      "url": "https://arrowtsx.dev/bigger-models/",
+      "title": "Semiconductor Lifeline Keeps Fighter Jets in the Air",
+      "insight": "HN 热议：38 分 · 11 评论",
+      "sentiment": "neutral",
+      "comments": 11,
+      "url": "https://spectrum.ieee.org/phoenix-semiconductors-legacychips-oems",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Ubisoft co-founder Claude Guillemot has died in a plane crash",
-      "insight": "HN 热议：140 分 · 83 评论",
+      "title": "Temporary Cloudflare accounts for AI agents",
+      "insight": "HN 热议：175 分 · 96 评论",
       "sentiment": "neutral",
-      "comments": 83,
-      "url": "https://www.reuters.com/world/ubisofts-co-founder-claude-guillemot-dies-plane-crash-2026-06-20/",
+      "comments": 96,
+      "url": "https://blog.cloudflare.com/temporary-accounts/",
       "id": 5
     }
   ]

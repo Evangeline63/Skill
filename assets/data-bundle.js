@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-20T21:57:42Z",
+    "updated": "2026-06-21T02:27:35Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-20T21:57:42Z",
+    "updated": "2026-06-21T02:27:35Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-20T21:57:42Z",
+    "updated": "2026-06-21T02:27:35Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185047,
-            "stars_today": 185047,
+            "stars": 185046,
+            "stars_today": 185046,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,50 +282,50 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 163985,
-            "stars_today": 163985,
+            "stars": 163988,
+            "stars_today": 163988,
             "url": "https://github.com/f/prompts.chat"
         },
         {
             "rank": 3,
-            "name": "hacksider/Deep-Live-Cam",
-            "description": "real time face swap and one-click video deepfake with only a single image",
-            "language": "Python",
-            "stars": 94010,
-            "stars_today": 94010,
-            "url": "https://github.com/hacksider/Deep-Live-Cam"
-        },
-        {
-            "rank": 4,
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 83385,
-            "stars_today": 83385,
+            "stars": 83417,
+            "stars_today": 83417,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
-            "rank": 5,
+            "rank": 4,
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 77844,
-            "stars_today": 77844,
+            "stars": 77853,
+            "stars_today": 77853,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
-            "rank": 6,
+            "rank": 5,
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 53825,
-            "stars_today": 53825,
+            "stars": 53836,
+            "stars_today": 53836,
             "url": "https://github.com/FlowiseAI/Flowise"
+        },
+        {
+            "rank": 6,
+            "name": "Kong/kong",
+            "description": "🦍 The API and AI Gateway",
+            "language": "Lua",
+            "stars": 43631,
+            "stars_today": 43631,
+            "url": "https://github.com/Kong/kong"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-20T21:57:42Z",
+    "updated": "2026-06-21T02:27:35Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-20T21:57:42Z",
+    "updated": "2026-06-21T02:27:35Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-20T21:57:42Z",
+    "updated": "2026-06-21T02:27:35Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Temporary Cloudflare accounts for AI agents",
-            "insight": "HN 热议：130 分 · 81 评论",
+            "title": "Slow breathing modulates brain function and risk behavior",
+            "insight": "HN 热议：65 分 · 6 评论",
             "sentiment": "neutral",
-            "comments": 81,
-            "url": "https://blog.cloudflare.com/temporary-accounts/",
+            "comments": 6,
+            "url": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: We post-trained a model that pen tests instead of refusing",
-            "insight": "HN 热议：50 分 · 25 评论",
+            "title": "Loupe – A iOS app that raises awareness about what native apps can see",
+            "insight": "HN 热议：68 分 · 17 评论",
             "sentiment": "neutral",
-            "comments": 25,
-            "url": "https://www.argusred.com/cli",
+            "comments": 17,
+            "url": "https://github.com/mysk-research/loupe",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Bootimus – A Self-Contained PXE and HTTP Boot Server",
-            "insight": "HN 热议：98 分 · 35 评论",
+            "title": "When I reject AI code even if it works",
+            "insight": "HN 热议：27 分 · 8 评论",
             "sentiment": "neutral",
-            "comments": 35,
-            "url": "https://bootimus.com",
+            "comments": 8,
+            "url": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
-            "insight": "HN 热议：483 分 · 240 评论",
-            "sentiment": "positive",
-            "comments": 240,
-            "url": "https://arrowtsx.dev/bigger-models/",
+            "title": "Semiconductor Lifeline Keeps Fighter Jets in the Air",
+            "insight": "HN 热议：38 分 · 11 评论",
+            "sentiment": "neutral",
+            "comments": 11,
+            "url": "https://spectrum.ieee.org/phoenix-semiconductors-legacychips-oems",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Ubisoft co-founder Claude Guillemot has died in a plane crash",
-            "insight": "HN 热议：140 分 · 83 评论",
+            "title": "Temporary Cloudflare accounts for AI agents",
+            "insight": "HN 热议：175 分 · 96 评论",
             "sentiment": "neutral",
-            "comments": 83,
-            "url": "https://www.reuters.com/world/ubisofts-co-founder-claude-guillemot-dies-plane-crash-2026-06-20/",
+            "comments": 96,
+            "url": "https://blog.cloudflare.com/temporary-accounts/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-20T21:57:42Z",
+    "updated": "2026-06-21T02:27:35Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
