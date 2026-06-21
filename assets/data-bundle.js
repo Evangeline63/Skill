@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-21T13:30:27Z",
+    "updated": "2026-06-21T16:23:40Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-21T13:30:27Z",
+    "updated": "2026-06-21T16:23:40Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-21T13:30:27Z",
+    "updated": "2026-06-21T16:23:40Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185052,
-            "stars_today": 185052,
+            "stars": 185057,
+            "stars_today": 185057,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 164008,
-            "stars_today": 164008,
+            "stars": 164019,
+            "stars_today": 164019,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 83504,
-            "stars_today": 83504,
+            "stars": 83530,
+            "stars_today": 83530,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 77888,
-            "stars_today": 77888,
+            "stars": 77905,
+            "stars_today": 77905,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 53864,
-            "stars_today": 53864,
+            "stars": 53867,
+            "stars_today": 53867,
             "url": "https://github.com/FlowiseAI/Flowise"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "Kong/kong",
             "description": "🦍 The API and AI Gateway",
             "language": "Lua",
-            "stars": 43632,
-            "stars_today": 43632,
+            "stars": 43633,
+            "stars_today": 43633,
             "url": "https://github.com/Kong/kong"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-21T13:30:27Z",
+    "updated": "2026-06-21T16:23:40Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-21T13:30:27Z",
+    "updated": "2026-06-21T16:23:40Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-21T13:30:27Z",
+    "updated": "2026-06-21T16:23:40Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "The case against geometric algebra (2024)",
-            "insight": "HN 热议：54 分 · 24 评论",
+            "insight": "HN 热议：97 分 · 74 评论",
             "sentiment": "neutral",
-            "comments": 24,
+            "comments": 74,
             "url": "https://alexkritchevsky.com/2024/02/28/geometric-algebra.html",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Anthropic to Require ID Verification for Certain Capabilities Starting July 8",
-            "insight": "HN 热议：56 分 · 33 评论",
-            "sentiment": "neutral",
-            "comments": 33,
-            "url": "https://old.reddit.com/r/ClaudeAI/comments/1ubm53n/official_anthropic_to_require_identity/",
+            "title": "Loupe – A iOS app that raises awareness about what native apps can see",
+            "insight": "HN 热议：428 分 · 172 评论",
+            "sentiment": "positive",
+            "comments": 172,
+            "url": "https://github.com/mysk-research/loupe",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Loupe – A iOS app that raises awareness about what native apps can see",
-            "insight": "HN 热议：367 分 · 152 评论",
+            "title": "Slow breathing modulates brain function and risk behavior",
+            "insight": "HN 热议：311 分 · 89 评论",
             "sentiment": "positive",
-            "comments": 152,
-            "url": "https://github.com/mysk-research/loupe",
+            "comments": 89,
+            "url": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Slow breathing modulates brain function and risk behavior",
-            "insight": "HN 热议：254 分 · 74 评论",
-            "sentiment": "positive",
-            "comments": 74,
-            "url": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
+            "title": "Building reliable agentic AI systems",
+            "insight": "HN 热议：149 分 · 36 评论",
+            "sentiment": "neutral",
+            "comments": 36,
+            "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Building reliable agentic AI systems",
-            "insight": "HN 热议：118 分 · 29 评论",
-            "sentiment": "neutral",
-            "comments": 29,
-            "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+            "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
+            "insight": "HN 热议：540 分 · 272 评论",
+            "sentiment": "positive",
+            "comments": 272,
+            "url": "https://arrowtsx.dev/bigger-models/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-21T13:30:27Z",
+    "updated": "2026-06-21T16:23:40Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
