@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-22T02:31:18Z",
+  "updated": "2026-06-22T08:46:05Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Apertus – Open Foundation Model for Sovereign AI",
-      "insight": "HN 热议：212 分 · 79 评论",
+      "insight": "HN 热议：362 分 · 122 评论",
       "sentiment": "positive",
-      "comments": 79,
+      "comments": 122,
       "url": "https://apertvs.ai/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "JSON-LD explained for personal websites",
-      "insight": "HN 热议：170 分 · 46 评论",
+      "title": "Munich 1991: The Roots of the Current AI Boom",
+      "insight": "HN 热议：32 分 · 6 评论",
       "sentiment": "neutral",
-      "comments": 46,
-      "url": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
+      "comments": 6,
+      "url": "https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Petition against Meta's employee training data collection for ML models",
-      "insight": "HN 热议：45 分 · 31 评论",
+      "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
+      "insight": "HN 热议：123 分 · 29 评论",
       "sentiment": "neutral",
-      "comments": 31,
-      "url": "https://mcipetition.com/",
+      "comments": 29,
+      "url": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "Identity verification on Claude",
-      "insight": "HN 热议：592 分 · 520 评论",
+      "insight": "HN 热议：731 分 · 615 评论",
       "sentiment": "positive",
-      "comments": 520,
+      "comments": 615,
       "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
-      "insight": "HN 热议：24 分 · 2 评论",
-      "sentiment": "neutral",
-      "comments": 2,
-      "url": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
+      "title": "JSON-LD explained for personal websites",
+      "insight": "HN 热议：212 分 · 62 评论",
+      "sentiment": "positive",
+      "comments": 62,
+      "url": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
       "id": 5
     }
   ]
