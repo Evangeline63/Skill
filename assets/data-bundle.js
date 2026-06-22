@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-22T14:22:38Z",
+    "updated": "2026-06-22T18:39:09Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-22T14:22:38Z",
+    "updated": "2026-06-22T18:39:09Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-22T14:22:38Z",
+    "updated": "2026-06-22T18:39:09Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185072,
-            "stars_today": 185072,
+            "stars": 185081,
+            "stars_today": 185081,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 164086,
-            "stars_today": 164086,
+            "stars": 164101,
+            "stars_today": 164101,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 83708,
-            "stars_today": 83708,
+            "stars": 83739,
+            "stars_today": 83739,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 78001,
-            "stars_today": 78001,
+            "stars": 78007,
+            "stars_today": 78007,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 53898,
-            "stars_today": 53898,
+            "stars": 53903,
+            "stars_today": 53903,
             "url": "https://github.com/FlowiseAI/Flowise"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "Kong/kong",
             "description": "🦍 The API and AI Gateway",
             "language": "Lua",
-            "stars": 43647,
-            "stars_today": 43647,
+            "stars": 43648,
+            "stars_today": 43648,
             "url": "https://github.com/Kong/kong"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-22T14:22:38Z",
+    "updated": "2026-06-22T18:39:09Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-22T14:22:38Z",
+    "updated": "2026-06-22T18:39:09Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-22T14:22:38Z",
+    "updated": "2026-06-22T18:39:09Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Munich 1991: The Roots of the Current AI Boom",
-            "insight": "HN 热议：152 分 · 61 评论",
+            "title": "Moebius: 0.2B image inpainting model with 10B-level performance",
+            "insight": "HN 热议：135 分 · 32 评论",
             "sentiment": "neutral",
-            "comments": 61,
-            "url": "https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html",
+            "comments": 32,
+            "url": "https://hustvl.github.io/Moebius/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Apertus – Open Foundation Model for Sovereign AI",
-            "insight": "HN 热议：474 分 · 160 评论",
-            "sentiment": "positive",
-            "comments": 160,
-            "url": "https://apertvs.ai/",
+            "title": "Show HN: Oak – Git replacement designed for agents",
+            "insight": "HN 热议：54 分 · 74 评论",
+            "sentiment": "neutral",
+            "comments": 74,
+            "url": "https://oak.space/oak/oak",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Becoming a dad changes men's brains",
-            "insight": "HN 热议：51 分 · 28 评论",
-            "sentiment": "neutral",
-            "comments": 28,
-            "url": "https://www.scientificamerican.com/article/how-becoming-a-dad-changes-mens-brains/",
+            "title": "The text in Claude Code’s “Extended Thinking” output",
+            "insight": "HN 热议：208 分 · 148 评论",
+            "sentiment": "positive",
+            "comments": 148,
+            "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
-            "insight": "HN 热议：178 分 · 34 评论",
+            "title": "Blogger defeats photographer's copyright claim",
+            "insight": "HN 热议：25 分 · 6 评论",
             "sentiment": "neutral",
-            "comments": 34,
-            "url": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
+            "comments": 6,
+            "url": "https://blog.ericgoldman.org/archives/2026/06/blogger-defeats-photographers-copyright-claim-sokolskyfilm-v-messiah.htm",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "JSON-LD explained for personal websites",
-            "insight": "HN 热议：247 分 · 78 评论",
-            "sentiment": "positive",
-            "comments": 78,
-            "url": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
+            "title": "Bain tests software takeover targets by vibecoding AI replicas",
+            "insight": "HN 热议：11 分 · 22 评论",
+            "sentiment": "neutral",
+            "comments": 22,
+            "url": "https://www.ft.com/content/e5bac4d1-b1f8-43a4-bd54-b182d5357af0",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-22T14:22:38Z",
+    "updated": "2026-06-22T18:39:09Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
