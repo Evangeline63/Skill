@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-21T22:06:42Z",
+    "updated": "2026-06-22T02:31:18Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-21T22:06:42Z",
+    "updated": "2026-06-22T02:31:18Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-21T22:06:42Z",
+    "updated": "2026-06-22T02:31:18Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185062,
-            "stars_today": 185062,
+            "stars": 185063,
+            "stars_today": 185063,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 164037,
-            "stars_today": 164037,
+            "stars": 164052,
+            "stars_today": 164052,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 83557,
-            "stars_today": 83557,
+            "stars": 83586,
+            "stars_today": 83586,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 77925,
-            "stars_today": 77925,
+            "stars": 77939,
+            "stars_today": 77939,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 53873,
-            "stars_today": 53873,
+            "stars": 53877,
+            "stars_today": 53877,
             "url": "https://github.com/FlowiseAI/Flowise"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "Kong/kong",
             "description": "🦍 The API and AI Gateway",
             "language": "Lua",
-            "stars": 43635,
-            "stars_today": 43635,
+            "stars": 43636,
+            "stars_today": 43636,
             "url": "https://github.com/Kong/kong"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-21T22:06:42Z",
+    "updated": "2026-06-22T02:31:18Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-21T22:06:42Z",
+    "updated": "2026-06-22T02:31:18Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-21T22:06:42Z",
+    "updated": "2026-06-22T02:31:18Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Apertus – Open Foundation Model for Sovereign AI",
-            "insight": "HN 热议：27 分 · 5 评论",
-            "sentiment": "neutral",
-            "comments": 5,
+            "insight": "HN 热议：212 分 · 79 评论",
+            "sentiment": "positive",
+            "comments": 79,
             "url": "https://apertvs.ai/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "JSON-LD Explained for Personal Websites",
-            "insight": "HN 热议：118 分 · 30 评论",
+            "title": "JSON-LD explained for personal websites",
+            "insight": "HN 热议：170 分 · 46 评论",
             "sentiment": "neutral",
-            "comments": 30,
+            "comments": 46,
             "url": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Stop wasting tokens and re explaining your project between sessions",
-            "insight": "HN 热议：15 分 · 12 评论",
+            "title": "Petition against Meta's employee training data collection for ML models",
+            "insight": "HN 热议：45 分 · 31 评论",
             "sentiment": "neutral",
-            "comments": 12,
-            "url": "https://github.com/raiyanyahya/recall",
+            "comments": 31,
+            "url": "https://mcipetition.com/",
             "id": 3
         },
         {
             "source": "HackerNews",
             "title": "Identity verification on Claude",
-            "insight": "HN 热议：454 分 · 417 评论",
+            "insight": "HN 热议：592 分 · 520 评论",
             "sentiment": "positive",
-            "comments": 417,
+            "comments": 520,
             "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "The Anatomy of an AI-Native Org",
-            "insight": "HN 热议：27 分 · 27 评论",
+            "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
+            "insight": "HN 热议：24 分 · 2 评论",
             "sentiment": "neutral",
-            "comments": 27,
-            "url": "https://ajeygore.in/content/the-anatomy-of-an-ai-native-org",
+            "comments": 2,
+            "url": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-21T22:06:42Z",
+    "updated": "2026-06-22T02:31:18Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
