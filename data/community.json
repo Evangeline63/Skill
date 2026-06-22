@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-22T18:39:09Z",
+  "updated": "2026-06-22T22:29:21Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Moebius: 0.2B image inpainting model with 10B-level performance",
-      "insight": "HN 热议：135 分 · 32 评论",
+      "title": "Nearly Half of LG Smart TV Apps Contain Residential Proxy SDKs",
+      "insight": "HN 热议：56 分 · 21 评论",
       "sentiment": "neutral",
-      "comments": 32,
-      "url": "https://hustvl.github.io/Moebius/",
+      "comments": 21,
+      "url": "https://spur.us/blog/smart-tv-apps-residential-proxy-sdks",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Oak – Git replacement designed for agents",
-      "insight": "HN 热议：54 分 · 74 评论",
+      "title": "Moebius: 0.2B image inpainting model with 10B-level performance",
+      "insight": "HN 热议：195 分 · 59 评论",
       "sentiment": "neutral",
-      "comments": 74,
-      "url": "https://oak.space/oak/oak",
+      "comments": 59,
+      "url": "https://hustvl.github.io/Moebius/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "The text in Claude Code’s “Extended Thinking” output",
-      "insight": "HN 热议：208 分 · 148 评论",
-      "sentiment": "positive",
-      "comments": 148,
-      "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
+      "title": "Show HN: Oak – Git alternative designed for agents",
+      "insight": "HN 热议：122 分 · 120 评论",
+      "sentiment": "neutral",
+      "comments": 120,
+      "url": "https://oak.space/oak/oak",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Blogger defeats photographer's copyright claim",
-      "insight": "HN 热议：25 分 · 6 评论",
-      "sentiment": "neutral",
-      "comments": 6,
-      "url": "https://blog.ericgoldman.org/archives/2026/06/blogger-defeats-photographers-copyright-claim-sokolskyfilm-v-messiah.htm",
+      "title": "The text in Claude Code’s “Extended Thinking” output",
+      "insight": "HN 热议：247 分 · 176 评论",
+      "sentiment": "positive",
+      "comments": 176,
+      "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Bain tests software takeover targets by vibecoding AI replicas",
-      "insight": "HN 热议：11 分 · 22 评论",
+      "title": "Blogger defeats photographer's copyright claim",
+      "insight": "HN 热议：79 分 · 45 评论",
       "sentiment": "neutral",
-      "comments": 22,
-      "url": "https://www.ft.com/content/e5bac4d1-b1f8-43a4-bd54-b182d5357af0",
+      "comments": 45,
+      "url": "https://blog.ericgoldman.org/archives/2026/06/blogger-defeats-photographers-copyright-claim-sokolskyfilm-v-messiah.htm",
       "id": 5
     }
   ]

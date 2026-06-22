@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-22T18:39:09Z",
+    "updated": "2026-06-22T22:29:21Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-22T18:39:09Z",
+    "updated": "2026-06-22T22:29:21Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-22T18:39:09Z",
+    "updated": "2026-06-22T22:29:21Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185081,
-            "stars_today": 185081,
+            "stars": 185084,
+            "stars_today": 185084,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 164101,
-            "stars_today": 164101,
+            "stars": 164106,
+            "stars_today": 164106,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 83739,
-            "stars_today": 83739,
+            "stars": 83757,
+            "stars_today": 83757,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 78007,
-            "stars_today": 78007,
+            "stars": 78021,
+            "stars_today": 78021,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 53903,
-            "stars_today": 53903,
+            "stars": 53906,
+            "stars_today": 53906,
             "url": "https://github.com/FlowiseAI/Flowise"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "Kong/kong",
             "description": "🦍 The API and AI Gateway",
             "language": "Lua",
-            "stars": 43648,
-            "stars_today": 43648,
+            "stars": 43649,
+            "stars_today": 43649,
             "url": "https://github.com/Kong/kong"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-22T18:39:09Z",
+    "updated": "2026-06-22T22:29:21Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-22T18:39:09Z",
+    "updated": "2026-06-22T22:29:21Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-22T18:39:09Z",
+    "updated": "2026-06-22T22:29:21Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Moebius: 0.2B image inpainting model with 10B-level performance",
-            "insight": "HN 热议：135 分 · 32 评论",
+            "title": "Nearly Half of LG Smart TV Apps Contain Residential Proxy SDKs",
+            "insight": "HN 热议：56 分 · 21 评论",
             "sentiment": "neutral",
-            "comments": 32,
-            "url": "https://hustvl.github.io/Moebius/",
+            "comments": 21,
+            "url": "https://spur.us/blog/smart-tv-apps-residential-proxy-sdks",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Oak – Git replacement designed for agents",
-            "insight": "HN 热议：54 分 · 74 评论",
+            "title": "Moebius: 0.2B image inpainting model with 10B-level performance",
+            "insight": "HN 热议：195 分 · 59 评论",
             "sentiment": "neutral",
-            "comments": 74,
-            "url": "https://oak.space/oak/oak",
+            "comments": 59,
+            "url": "https://hustvl.github.io/Moebius/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "The text in Claude Code’s “Extended Thinking” output",
-            "insight": "HN 热议：208 分 · 148 评论",
-            "sentiment": "positive",
-            "comments": 148,
-            "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
+            "title": "Show HN: Oak – Git alternative designed for agents",
+            "insight": "HN 热议：122 分 · 120 评论",
+            "sentiment": "neutral",
+            "comments": 120,
+            "url": "https://oak.space/oak/oak",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Blogger defeats photographer's copyright claim",
-            "insight": "HN 热议：25 分 · 6 评论",
-            "sentiment": "neutral",
-            "comments": 6,
-            "url": "https://blog.ericgoldman.org/archives/2026/06/blogger-defeats-photographers-copyright-claim-sokolskyfilm-v-messiah.htm",
+            "title": "The text in Claude Code’s “Extended Thinking” output",
+            "insight": "HN 热议：247 分 · 176 评论",
+            "sentiment": "positive",
+            "comments": 176,
+            "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Bain tests software takeover targets by vibecoding AI replicas",
-            "insight": "HN 热议：11 分 · 22 评论",
+            "title": "Blogger defeats photographer's copyright claim",
+            "insight": "HN 热议：79 分 · 45 评论",
             "sentiment": "neutral",
-            "comments": 22,
-            "url": "https://www.ft.com/content/e5bac4d1-b1f8-43a4-bd54-b182d5357af0",
+            "comments": 45,
+            "url": "https://blog.ericgoldman.org/archives/2026/06/blogger-defeats-photographers-copyright-claim-sokolskyfilm-v-messiah.htm",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-22T18:39:09Z",
+    "updated": "2026-06-22T22:29:21Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
