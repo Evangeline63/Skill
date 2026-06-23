@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-23T01:57:55Z",
+    "updated": "2026-06-23T06:37:08Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-23T01:57:55Z",
+    "updated": "2026-06-23T06:37:08Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-23T01:57:55Z",
+    "updated": "2026-06-23T06:37:08Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185088,
-            "stars_today": 185088,
+            "stars": 185094,
+            "stars_today": 185094,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 164112,
-            "stars_today": 164112,
+            "stars": 164125,
+            "stars_today": 164125,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 83767,
-            "stars_today": 83767,
+            "stars": 83810,
+            "stars_today": 83810,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 78037,
-            "stars_today": 78037,
+            "stars": 78058,
+            "stars_today": 78058,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "Kong/kong",
             "description": "🦍 The API and AI Gateway",
             "language": "Lua",
-            "stars": 43650,
-            "stars_today": 43650,
+            "stars": 43653,
+            "stars_today": 43653,
             "url": "https://github.com/Kong/kong"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "simstudioai/sim",
             "description": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
             "language": "TypeScript",
-            "stars": 28840,
-            "stars_today": 28840,
+            "stars": 28839,
+            "stars_today": 28839,
             "url": "https://github.com/simstudioai/sim"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-23T01:57:55Z",
+    "updated": "2026-06-23T06:37:08Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-23T01:57:55Z",
+    "updated": "2026-06-23T06:37:08Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-23T01:57:55Z",
+    "updated": "2026-06-23T06:37:08Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Moebius: 0.2B image inpainting model with 10B-level performance",
-            "insight": "HN 热议：235 分 · 64 评论",
-            "sentiment": "positive",
-            "comments": 64,
-            "url": "https://hustvl.github.io/Moebius/",
+            "title": "Polymarket has flooded social media with deceptive videos by paid creators",
+            "insight": "HN 热议：177 分 · 139 评论",
+            "sentiment": "neutral",
+            "comments": 139,
+            "url": "https://www.wsj.com/business/media/polymarket-social-media-bets-prediction-market-441cdeb5?st=HhTZY2",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040",
-            "insight": "HN 热议：300 分 · 154 评论",
-            "sentiment": "positive",
-            "comments": 154,
-            "url": "https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509",
+            "title": "In praise of memcached",
+            "insight": "HN 热议：114 分 · 45 评论",
+            "sentiment": "neutral",
+            "comments": 45,
+            "url": "https://jchri.st/blog/in-praise-of-memcached/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Oak – Git alternative designed for agents",
-            "insight": "HN 热议：148 分 · 142 评论",
+            "title": "OpenAI DayBreak – GPT-5.5-Cyber",
+            "insight": "HN 热议：37 分 · 2 评论",
             "sentiment": "neutral",
-            "comments": 142,
-            "url": "https://oak.space/oak/oak",
+            "comments": 2,
+            "url": "https://openai.com/index/daybreak-securing-the-world/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "The text in Claude Code’s “Extended Thinking” output",
-            "insight": "HN 热议：282 分 · 195 评论",
+            "title": "Moebius: 0.2B image inpainting model with 10B-level performance",
+            "insight": "HN 热议：267 分 · 67 评论",
             "sentiment": "positive",
-            "comments": 195,
-            "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
+            "comments": 67,
+            "url": "https://hustvl.github.io/Moebius/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Munich 1991: The Roots of the Current AI Boom",
-            "insight": "HN 热议：212 分 · 95 评论",
-            "sentiment": "positive",
-            "comments": 95,
-            "url": "https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html",
+            "title": "Show HN: Oak – Git alternative designed for agents",
+            "insight": "HN 热议：178 分 · 157 评论",
+            "sentiment": "neutral",
+            "comments": 157,
+            "url": "https://oak.space/oak/oak",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-23T01:57:55Z",
+    "updated": "2026-06-23T06:37:08Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

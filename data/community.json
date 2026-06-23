@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-23T01:57:55Z",
+  "updated": "2026-06-23T06:37:08Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Moebius: 0.2B image inpainting model with 10B-level performance",
-      "insight": "HN 热议：235 分 · 64 评论",
-      "sentiment": "positive",
-      "comments": 64,
-      "url": "https://hustvl.github.io/Moebius/",
+      "title": "Polymarket has flooded social media with deceptive videos by paid creators",
+      "insight": "HN 热议：177 分 · 139 评论",
+      "sentiment": "neutral",
+      "comments": 139,
+      "url": "https://www.wsj.com/business/media/polymarket-social-media-bets-prediction-market-441cdeb5?st=HhTZY2",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040",
-      "insight": "HN 热议：300 分 · 154 评论",
-      "sentiment": "positive",
-      "comments": 154,
-      "url": "https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509",
+      "title": "In praise of memcached",
+      "insight": "HN 热议：114 分 · 45 评论",
+      "sentiment": "neutral",
+      "comments": 45,
+      "url": "https://jchri.st/blog/in-praise-of-memcached/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Oak – Git alternative designed for agents",
-      "insight": "HN 热议：148 分 · 142 评论",
+      "title": "OpenAI DayBreak – GPT-5.5-Cyber",
+      "insight": "HN 热议：37 分 · 2 评论",
       "sentiment": "neutral",
-      "comments": 142,
-      "url": "https://oak.space/oak/oak",
+      "comments": 2,
+      "url": "https://openai.com/index/daybreak-securing-the-world/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "The text in Claude Code’s “Extended Thinking” output",
-      "insight": "HN 热议：282 分 · 195 评论",
+      "title": "Moebius: 0.2B image inpainting model with 10B-level performance",
+      "insight": "HN 热议：267 分 · 67 评论",
       "sentiment": "positive",
-      "comments": 195,
-      "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
+      "comments": 67,
+      "url": "https://hustvl.github.io/Moebius/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Munich 1991: The Roots of the Current AI Boom",
-      "insight": "HN 热议：212 分 · 95 评论",
-      "sentiment": "positive",
-      "comments": 95,
-      "url": "https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html",
+      "title": "Show HN: Oak – Git alternative designed for agents",
+      "insight": "HN 热议：178 分 · 157 评论",
+      "sentiment": "neutral",
+      "comments": 157,
+      "url": "https://oak.space/oak/oak",
       "id": 5
     }
   ]
