@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-23T19:46:40Z",
+  "updated": "2026-06-23T22:06:43Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Claude Tag",
-      "insight": "HN 热议：143 分 · 69 评论",
+      "title": "German Rail Service Suspended Due to Radio Interference",
+      "insight": "HN 热议：71 分 · 21 评论",
       "sentiment": "neutral",
-      "comments": 69,
-      "url": "https://www.anthropic.com/news/introducing-claude-tag",
+      "comments": 21,
+      "url": "https://www.bluewin.ch/en/news/german-rail-service-suspended-due-to-radio-interference-li.3295297",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Mistral OCR 4",
-      "insight": "HN 热议：344 分 · 87 评论",
-      "sentiment": "positive",
-      "comments": 87,
-      "url": "https://mistral.ai/news/ocr-4/",
+      "title": "All train services in Germany halted after train radio communications disruption",
+      "insight": "HN 热议：61 分 · 28 评论",
+      "sentiment": "neutral",
+      "comments": 28,
+      "url": "https://english.news.cn/20260624/65f1b6192cd947e28849776a5aef05c6/c.html",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "The Low-Tech AI of Elden Ring",
-      "insight": "HN 热议：63 分 · 37 评论",
+      "title": "Don't verify email addresses by sending spam to them",
+      "insight": "HN 热议：79 分 · 11 评论",
       "sentiment": "neutral",
-      "comments": 37,
-      "url": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html",
+      "comments": 11,
+      "url": "https://milek7.pl/mailverifyspam/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "The End of Code Review: Coding Agents Supersede Human Inspection",
-      "insight": "HN 热议：13 分 · 10 评论",
+      "title": "AI Hiring Tools Can Yield Racial Bias and Systemic Rejection",
+      "insight": "HN 热议：109 分 · 89 评论",
       "sentiment": "neutral",
-      "comments": 10,
-      "url": "https://arxiv.org/abs/2606.13175",
+      "comments": 89,
+      "url": "https://hai.stanford.edu/news/ai-hiring-tools-can-yield-racial-bias-and-systemic-rejection",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "In praise of memcached",
-      "insight": "HN 热议：251 分 · 101 评论",
+      "title": "Claude Tag",
+      "insight": "HN 热议：204 分 · 131 评论",
       "sentiment": "positive",
-      "comments": 101,
-      "url": "https://jchri.st/blog/in-praise-of-memcached/",
+      "comments": 131,
+      "url": "https://www.anthropic.com/news/introducing-claude-tag",
       "id": 5
     }
   ]

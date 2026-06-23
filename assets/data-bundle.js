@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-23T19:46:40Z",
+    "updated": "2026-06-23T22:06:43Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-23T19:46:40Z",
+    "updated": "2026-06-23T22:06:43Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-23T19:46:40Z",
+    "updated": "2026-06-23T22:06:43Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185112,
-            "stars_today": 185112,
+            "stars": 185116,
+            "stars_today": 185116,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 164183,
-            "stars_today": 164183,
+            "stars": 164192,
+            "stars_today": 164192,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 83915,
-            "stars_today": 83915,
+            "stars": 83923,
+            "stars_today": 83923,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 78125,
-            "stars_today": 78125,
+            "stars": 78135,
+            "stars_today": 78135,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 53947,
-            "stars_today": 53947,
+            "stars": 53949,
+            "stars_today": 53949,
             "url": "https://github.com/FlowiseAI/Flowise"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "Kong/kong",
             "description": "🦍 The API and AI Gateway",
             "language": "Lua",
-            "stars": 43660,
-            "stars_today": 43660,
+            "stars": 43663,
+            "stars_today": 43663,
             "url": "https://github.com/Kong/kong"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-23T19:46:40Z",
+    "updated": "2026-06-23T22:06:43Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-23T19:46:40Z",
+    "updated": "2026-06-23T22:06:43Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-23T19:46:40Z",
+    "updated": "2026-06-23T22:06:43Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Claude Tag",
-            "insight": "HN 热议：143 分 · 69 评论",
+            "title": "German Rail Service Suspended Due to Radio Interference",
+            "insight": "HN 热议：71 分 · 21 评论",
             "sentiment": "neutral",
-            "comments": 69,
-            "url": "https://www.anthropic.com/news/introducing-claude-tag",
+            "comments": 21,
+            "url": "https://www.bluewin.ch/en/news/german-rail-service-suspended-due-to-radio-interference-li.3295297",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Mistral OCR 4",
-            "insight": "HN 热议：344 分 · 87 评论",
-            "sentiment": "positive",
-            "comments": 87,
-            "url": "https://mistral.ai/news/ocr-4/",
+            "title": "All train services in Germany halted after train radio communications disruption",
+            "insight": "HN 热议：61 分 · 28 评论",
+            "sentiment": "neutral",
+            "comments": 28,
+            "url": "https://english.news.cn/20260624/65f1b6192cd947e28849776a5aef05c6/c.html",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "The Low-Tech AI of Elden Ring",
-            "insight": "HN 热议：63 分 · 37 评论",
+            "title": "Don't verify email addresses by sending spam to them",
+            "insight": "HN 热议：79 分 · 11 评论",
             "sentiment": "neutral",
-            "comments": 37,
-            "url": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html",
+            "comments": 11,
+            "url": "https://milek7.pl/mailverifyspam/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "The End of Code Review: Coding Agents Supersede Human Inspection",
-            "insight": "HN 热议：13 分 · 10 评论",
+            "title": "AI Hiring Tools Can Yield Racial Bias and Systemic Rejection",
+            "insight": "HN 热议：109 分 · 89 评论",
             "sentiment": "neutral",
-            "comments": 10,
-            "url": "https://arxiv.org/abs/2606.13175",
+            "comments": 89,
+            "url": "https://hai.stanford.edu/news/ai-hiring-tools-can-yield-racial-bias-and-systemic-rejection",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "In praise of memcached",
-            "insight": "HN 热议：251 分 · 101 评论",
+            "title": "Claude Tag",
+            "insight": "HN 热议：204 分 · 131 评论",
             "sentiment": "positive",
-            "comments": 101,
-            "url": "https://jchri.st/blog/in-praise-of-memcached/",
+            "comments": 131,
+            "url": "https://www.anthropic.com/news/introducing-claude-tag",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-23T19:46:40Z",
+    "updated": "2026-06-23T22:06:43Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
