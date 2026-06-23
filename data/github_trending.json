@@ -1,13 +1,13 @@
 {
-  "updated": "2026-06-22T22:29:21Z",
+  "updated": "2026-06-23T01:57:55Z",
   "repos": [
     {
       "rank": 1,
       "name": "Significant-Gravitas/AutoGPT",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
       "language": "Python",
-      "stars": 185084,
-      "stars_today": 185084,
+      "stars": 185088,
+      "stars_today": 185088,
       "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
@@ -15,8 +15,8 @@
       "name": "f/prompts.chat",
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
       "language": "HTML",
-      "stars": 164106,
-      "stars_today": 164106,
+      "stars": 164112,
+      "stars_today": 164112,
       "url": "https://github.com/f/prompts.chat"
     },
     {
@@ -24,8 +24,8 @@
       "name": "thedotmack/claude-mem",
       "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
       "language": "JavaScript",
-      "stars": 83757,
-      "stars_today": 83757,
+      "stars": 83767,
+      "stars_today": 83767,
       "url": "https://github.com/thedotmack/claude-mem"
     },
     {
@@ -33,27 +33,27 @@
       "name": "OpenHands/OpenHands",
       "description": "🙌 OpenHands: AI-Driven Development",
       "language": "Python",
-      "stars": 78021,
-      "stars_today": 78021,
+      "stars": 78037,
+      "stars_today": 78037,
       "url": "https://github.com/OpenHands/OpenHands"
     },
     {
       "rank": 5,
-      "name": "FlowiseAI/Flowise",
-      "description": "Build AI Agents, Visually",
-      "language": "TypeScript",
-      "stars": 53906,
-      "stars_today": 53906,
-      "url": "https://github.com/FlowiseAI/Flowise"
-    },
-    {
-      "rank": 6,
       "name": "Kong/kong",
       "description": "🦍 The API and AI Gateway",
       "language": "Lua",
-      "stars": 43649,
-      "stars_today": 43649,
+      "stars": 43650,
+      "stars_today": 43650,
       "url": "https://github.com/Kong/kong"
+    },
+    {
+      "rank": 6,
+      "name": "simstudioai/sim",
+      "description": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
+      "language": "TypeScript",
+      "stars": 28840,
+      "stars_today": 28840,
+      "url": "https://github.com/simstudioai/sim"
     }
   ]
 }

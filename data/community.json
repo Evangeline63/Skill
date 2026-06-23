@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-22T22:29:21Z",
+  "updated": "2026-06-23T01:57:55Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Nearly Half of LG Smart TV Apps Contain Residential Proxy SDKs",
-      "insight": "HN 热议：56 分 · 21 评论",
-      "sentiment": "neutral",
-      "comments": 21,
-      "url": "https://spur.us/blog/smart-tv-apps-residential-proxy-sdks",
+      "title": "Moebius: 0.2B image inpainting model with 10B-level performance",
+      "insight": "HN 热议：235 分 · 64 评论",
+      "sentiment": "positive",
+      "comments": 64,
+      "url": "https://hustvl.github.io/Moebius/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Moebius: 0.2B image inpainting model with 10B-level performance",
-      "insight": "HN 热议：195 分 · 59 评论",
-      "sentiment": "neutral",
-      "comments": 59,
-      "url": "https://hustvl.github.io/Moebius/",
+      "title": "Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040",
+      "insight": "HN 热议：300 分 · 154 评论",
+      "sentiment": "positive",
+      "comments": 154,
+      "url": "https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "Show HN: Oak – Git alternative designed for agents",
-      "insight": "HN 热议：122 分 · 120 评论",
+      "insight": "HN 热议：148 分 · 142 评论",
       "sentiment": "neutral",
-      "comments": 120,
+      "comments": 142,
       "url": "https://oak.space/oak/oak",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "The text in Claude Code’s “Extended Thinking” output",
-      "insight": "HN 热议：247 分 · 176 评论",
+      "insight": "HN 热议：282 分 · 195 评论",
       "sentiment": "positive",
-      "comments": 176,
+      "comments": 195,
       "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Blogger defeats photographer's copyright claim",
-      "insight": "HN 热议：79 分 · 45 评论",
-      "sentiment": "neutral",
-      "comments": 45,
-      "url": "https://blog.ericgoldman.org/archives/2026/06/blogger-defeats-photographers-copyright-claim-sokolskyfilm-v-messiah.htm",
+      "title": "Munich 1991: The Roots of the Current AI Boom",
+      "insight": "HN 热议：212 分 · 95 评论",
+      "sentiment": "positive",
+      "comments": 95,
+      "url": "https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html",
       "id": 5
     }
   ]
