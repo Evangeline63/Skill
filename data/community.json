@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-23T14:15:59Z",
+  "updated": "2026-06-23T17:09:21Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "In praise of memcached",
-      "insight": "HN 热议：212 分 · 81 评论",
+      "title": "Mistral OCR 4",
+      "insight": "HN 热议：227 分 · 62 评论",
       "sentiment": "positive",
-      "comments": 81,
-      "url": "https://jchri.st/blog/in-praise-of-memcached/",
+      "comments": 62,
+      "url": "https://mistral.ai/news/ocr-4/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Neural Particle Automata",
-      "insight": "HN 热议：44 分 · 12 评论",
+      "title": "The Low-Tech AI of Elden Ring",
+      "insight": "HN 热议：36 分 · 16 评论",
       "sentiment": "neutral",
-      "comments": 12,
-      "url": "https://selforg-npa.github.io/",
+      "comments": 16,
+      "url": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Shumai – open-source Frame.io alternative for creative work",
-      "insight": "HN 热议：19 分 · 0 评论",
+      "title": "AI's Affordability Crisis",
+      "insight": "HN 热议：136 分 · 171 评论",
       "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://github.com/shumaiOne/shumai",
+      "comments": 171,
+      "url": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Apple is going to raise device prices, but when?",
-      "insight": "HN 热议：51 分 · 35 评论",
+      "title": "Show HN: Neural Particle Automata",
+      "insight": "HN 热议：69 分 · 14 评论",
       "sentiment": "neutral",
-      "comments": 35,
-      "url": "https://daringfireball.net/linked/2026/06/22/apple-device-prices-when",
+      "comments": 14,
+      "url": "https://selforg-npa.github.io/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "OpenAI DayBreak – GPT-5.5-Cyber",
-      "insight": "HN 热议：152 分 · 115 评论",
-      "sentiment": "neutral",
-      "comments": 115,
-      "url": "https://openai.com/index/daybreak-securing-the-world/",
+      "title": "In praise of memcached",
+      "insight": "HN 热议：243 分 · 100 评论",
+      "sentiment": "positive",
+      "comments": 100,
+      "url": "https://jchri.st/blog/in-praise-of-memcached/",
       "id": 5
     }
   ]
