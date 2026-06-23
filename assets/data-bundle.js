@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-23T06:37:08Z",
+    "updated": "2026-06-23T11:50:12Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-23T06:37:08Z",
+    "updated": "2026-06-23T11:50:12Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-23T06:37:08Z",
+    "updated": "2026-06-23T11:50:12Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185094,
-            "stars_today": 185094,
+            "stars": 185105,
+            "stars_today": 185105,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 164125,
-            "stars_today": 164125,
+            "stars": 164153,
+            "stars_today": 164153,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 83810,
-            "stars_today": 83810,
+            "stars": 83872,
+            "stars_today": 83872,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,32 +300,32 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 78058,
-            "stars_today": 78058,
+            "stars": 78090,
+            "stars_today": 78090,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
             "rank": 5,
-            "name": "Kong/kong",
-            "description": "🦍 The API and AI Gateway",
-            "language": "Lua",
-            "stars": 43653,
-            "stars_today": 43653,
-            "url": "https://github.com/Kong/kong"
+            "name": "FlowiseAI/Flowise",
+            "description": "Build AI Agents, Visually",
+            "language": "TypeScript",
+            "stars": 53929,
+            "stars_today": 53929,
+            "url": "https://github.com/FlowiseAI/Flowise"
         },
         {
             "rank": 6,
-            "name": "simstudioai/sim",
-            "description": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
-            "language": "TypeScript",
-            "stars": 28839,
-            "stars_today": 28839,
-            "url": "https://github.com/simstudioai/sim"
+            "name": "Kong/kong",
+            "description": "🦍 The API and AI Gateway",
+            "language": "Lua",
+            "stars": 43658,
+            "stars_today": 43658,
+            "url": "https://github.com/Kong/kong"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-23T06:37:08Z",
+    "updated": "2026-06-23T11:50:12Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-23T06:37:08Z",
+    "updated": "2026-06-23T11:50:12Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-23T06:37:08Z",
+    "updated": "2026-06-23T11:50:12Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Polymarket has flooded social media with deceptive videos by paid creators",
-            "insight": "HN 热议：177 分 · 139 评论",
+            "title": "The new HTTP QUERY method explained",
+            "insight": "HN 热议：163 分 · 88 评论",
             "sentiment": "neutral",
-            "comments": 139,
-            "url": "https://www.wsj.com/business/media/polymarket-social-media-bets-prediction-market-441cdeb5?st=HhTZY2",
+            "comments": 88,
+            "url": "https://kreya.app/blog/new-http-query-method-explained/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "In praise of memcached",
-            "insight": "HN 热议：114 分 · 45 评论",
-            "sentiment": "neutral",
-            "comments": 45,
-            "url": "https://jchri.st/blog/in-praise-of-memcached/",
+            "title": "Polymarket has flooded social media with deceptive videos by paid creators",
+            "insight": "HN 热议：366 分 · 276 评论",
+            "sentiment": "positive",
+            "comments": 276,
+            "url": "https://www.wsj.com/business/media/polymarket-social-media-bets-prediction-market-441cdeb5?st=HhTZY2",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "OpenAI DayBreak – GPT-5.5-Cyber",
-            "insight": "HN 热议：37 分 · 2 评论",
+            "title": "The Reversal Curse: LLMs trained on \"A is B\" fail to learn \"B is A\"",
+            "insight": "HN 热议：9 分 · 3 评论",
             "sentiment": "neutral",
-            "comments": 2,
-            "url": "https://openai.com/index/daybreak-securing-the-world/",
+            "comments": 3,
+            "url": "https://arxiv.org/abs/2309.12288",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Moebius: 0.2B image inpainting model with 10B-level performance",
-            "insight": "HN 热议：267 分 · 67 评论",
-            "sentiment": "positive",
-            "comments": 67,
-            "url": "https://hustvl.github.io/Moebius/",
+            "title": "In praise of memcached",
+            "insight": "HN 热议：180 分 · 65 评论",
+            "sentiment": "neutral",
+            "comments": 65,
+            "url": "https://jchri.st/blog/in-praise-of-memcached/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Oak – Git alternative designed for agents",
-            "insight": "HN 热议：178 分 · 157 评论",
+            "title": "Show HN: Neural Particle Automata",
+            "insight": "HN 热议：21 分 · 3 评论",
             "sentiment": "neutral",
-            "comments": 157,
-            "url": "https://oak.space/oak/oak",
+            "comments": 3,
+            "url": "https://selforg-npa.github.io/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-23T06:37:08Z",
+    "updated": "2026-06-23T11:50:12Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

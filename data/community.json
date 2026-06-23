@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-23T06:37:08Z",
+  "updated": "2026-06-23T11:50:12Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Polymarket has flooded social media with deceptive videos by paid creators",
-      "insight": "HN 热议：177 分 · 139 评论",
+      "title": "The new HTTP QUERY method explained",
+      "insight": "HN 热议：163 分 · 88 评论",
       "sentiment": "neutral",
-      "comments": 139,
-      "url": "https://www.wsj.com/business/media/polymarket-social-media-bets-prediction-market-441cdeb5?st=HhTZY2",
+      "comments": 88,
+      "url": "https://kreya.app/blog/new-http-query-method-explained/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "In praise of memcached",
-      "insight": "HN 热议：114 分 · 45 评论",
-      "sentiment": "neutral",
-      "comments": 45,
-      "url": "https://jchri.st/blog/in-praise-of-memcached/",
+      "title": "Polymarket has flooded social media with deceptive videos by paid creators",
+      "insight": "HN 热议：366 分 · 276 评论",
+      "sentiment": "positive",
+      "comments": 276,
+      "url": "https://www.wsj.com/business/media/polymarket-social-media-bets-prediction-market-441cdeb5?st=HhTZY2",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "OpenAI DayBreak – GPT-5.5-Cyber",
-      "insight": "HN 热议：37 分 · 2 评论",
+      "title": "The Reversal Curse: LLMs trained on \"A is B\" fail to learn \"B is A\"",
+      "insight": "HN 热议：9 分 · 3 评论",
       "sentiment": "neutral",
-      "comments": 2,
-      "url": "https://openai.com/index/daybreak-securing-the-world/",
+      "comments": 3,
+      "url": "https://arxiv.org/abs/2309.12288",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Moebius: 0.2B image inpainting model with 10B-level performance",
-      "insight": "HN 热议：267 分 · 67 评论",
-      "sentiment": "positive",
-      "comments": 67,
-      "url": "https://hustvl.github.io/Moebius/",
+      "title": "In praise of memcached",
+      "insight": "HN 热议：180 分 · 65 评论",
+      "sentiment": "neutral",
+      "comments": 65,
+      "url": "https://jchri.st/blog/in-praise-of-memcached/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Oak – Git alternative designed for agents",
-      "insight": "HN 热议：178 分 · 157 评论",
+      "title": "Show HN: Neural Particle Automata",
+      "insight": "HN 热议：21 分 · 3 评论",
       "sentiment": "neutral",
-      "comments": 157,
-      "url": "https://oak.space/oak/oak",
+      "comments": 3,
+      "url": "https://selforg-npa.github.io/",
       "id": 5
     }
   ]
