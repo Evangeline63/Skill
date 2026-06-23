@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-23T11:50:12Z",
+    "updated": "2026-06-23T14:15:59Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-23T11:50:12Z",
+    "updated": "2026-06-23T14:15:59Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-23T11:50:12Z",
+    "updated": "2026-06-23T14:15:59Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185105,
-            "stars_today": 185105,
+            "stars": 185107,
+            "stars_today": 185107,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 164153,
-            "stars_today": 164153,
+            "stars": 164162,
+            "stars_today": 164162,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 83872,
-            "stars_today": 83872,
+            "stars": 83894,
+            "stars_today": 83894,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 78090,
-            "stars_today": 78090,
+            "stars": 78100,
+            "stars_today": 78100,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 53929,
-            "stars_today": 53929,
+            "stars": 53935,
+            "stars_today": 53935,
             "url": "https://github.com/FlowiseAI/Flowise"
         },
         {
@@ -325,7 +325,7 @@ window.__DATA__ = {
     ]
 },
   "products": {
-    "updated": "2026-06-23T11:50:12Z",
+    "updated": "2026-06-23T14:15:59Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-23T11:50:12Z",
+    "updated": "2026-06-23T14:15:59Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-23T11:50:12Z",
+    "updated": "2026-06-23T14:15:59Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "The new HTTP QUERY method explained",
-            "insight": "HN 热议：163 分 · 88 评论",
-            "sentiment": "neutral",
-            "comments": 88,
-            "url": "https://kreya.app/blog/new-http-query-method-explained/",
+            "title": "In praise of memcached",
+            "insight": "HN 热议：212 分 · 81 评论",
+            "sentiment": "positive",
+            "comments": 81,
+            "url": "https://jchri.st/blog/in-praise-of-memcached/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Polymarket has flooded social media with deceptive videos by paid creators",
-            "insight": "HN 热议：366 分 · 276 评论",
-            "sentiment": "positive",
-            "comments": 276,
-            "url": "https://www.wsj.com/business/media/polymarket-social-media-bets-prediction-market-441cdeb5?st=HhTZY2",
+            "title": "Show HN: Neural Particle Automata",
+            "insight": "HN 热议：44 分 · 12 评论",
+            "sentiment": "neutral",
+            "comments": 12,
+            "url": "https://selforg-npa.github.io/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "The Reversal Curse: LLMs trained on \"A is B\" fail to learn \"B is A\"",
-            "insight": "HN 热议：9 分 · 3 评论",
+            "title": "Show HN: Shumai – open-source Frame.io alternative for creative work",
+            "insight": "HN 热议：19 分 · 0 评论",
             "sentiment": "neutral",
-            "comments": 3,
-            "url": "https://arxiv.org/abs/2309.12288",
+            "comments": 0,
+            "url": "https://github.com/shumaiOne/shumai",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "In praise of memcached",
-            "insight": "HN 热议：180 分 · 65 评论",
+            "title": "Apple is going to raise device prices, but when?",
+            "insight": "HN 热议：51 分 · 35 评论",
             "sentiment": "neutral",
-            "comments": 65,
-            "url": "https://jchri.st/blog/in-praise-of-memcached/",
+            "comments": 35,
+            "url": "https://daringfireball.net/linked/2026/06/22/apple-device-prices-when",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Neural Particle Automata",
-            "insight": "HN 热议：21 分 · 3 评论",
+            "title": "OpenAI DayBreak – GPT-5.5-Cyber",
+            "insight": "HN 热议：152 分 · 115 评论",
             "sentiment": "neutral",
-            "comments": 3,
-            "url": "https://selforg-npa.github.io/",
+            "comments": 115,
+            "url": "https://openai.com/index/daybreak-securing-the-world/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-23T11:50:12Z",
+    "updated": "2026-06-23T14:15:59Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
