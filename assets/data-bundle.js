@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-23T17:09:21Z",
+    "updated": "2026-06-23T19:46:40Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-23T17:09:21Z",
+    "updated": "2026-06-23T19:46:40Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-23T17:09:21Z",
+    "updated": "2026-06-23T19:46:40Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185110,
-            "stars_today": 185110,
+            "stars": 185112,
+            "stars_today": 185112,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 164172,
-            "stars_today": 164172,
+            "stars": 164183,
+            "stars_today": 164183,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 83905,
-            "stars_today": 83905,
+            "stars": 83915,
+            "stars_today": 83915,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 78119,
-            "stars_today": 78119,
+            "stars": 78125,
+            "stars_today": 78125,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 53941,
-            "stars_today": 53941,
+            "stars": 53947,
+            "stars_today": 53947,
             "url": "https://github.com/FlowiseAI/Flowise"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "Kong/kong",
             "description": "🦍 The API and AI Gateway",
             "language": "Lua",
-            "stars": 43658,
-            "stars_today": 43658,
+            "stars": 43660,
+            "stars_today": 43660,
             "url": "https://github.com/Kong/kong"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-23T17:09:21Z",
+    "updated": "2026-06-23T19:46:40Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-23T17:09:21Z",
+    "updated": "2026-06-23T19:46:40Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-23T17:09:21Z",
+    "updated": "2026-06-23T19:46:40Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Mistral OCR 4",
-            "insight": "HN 热议：227 分 · 62 评论",
-            "sentiment": "positive",
-            "comments": 62,
-            "url": "https://mistral.ai/news/ocr-4/",
+            "title": "Claude Tag",
+            "insight": "HN 热议：143 分 · 69 评论",
+            "sentiment": "neutral",
+            "comments": 69,
+            "url": "https://www.anthropic.com/news/introducing-claude-tag",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "The Low-Tech AI of Elden Ring",
-            "insight": "HN 热议：36 分 · 16 评论",
-            "sentiment": "neutral",
-            "comments": 16,
-            "url": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html",
+            "title": "Mistral OCR 4",
+            "insight": "HN 热议：344 分 · 87 评论",
+            "sentiment": "positive",
+            "comments": 87,
+            "url": "https://mistral.ai/news/ocr-4/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "AI's Affordability Crisis",
-            "insight": "HN 热议：136 分 · 171 评论",
+            "title": "The Low-Tech AI of Elden Ring",
+            "insight": "HN 热议：63 分 · 37 评论",
             "sentiment": "neutral",
-            "comments": 171,
-            "url": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html",
+            "comments": 37,
+            "url": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Neural Particle Automata",
-            "insight": "HN 热议：69 分 · 14 评论",
+            "title": "The End of Code Review: Coding Agents Supersede Human Inspection",
+            "insight": "HN 热议：13 分 · 10 评论",
             "sentiment": "neutral",
-            "comments": 14,
-            "url": "https://selforg-npa.github.io/",
+            "comments": 10,
+            "url": "https://arxiv.org/abs/2606.13175",
             "id": 4
         },
         {
             "source": "HackerNews",
             "title": "In praise of memcached",
-            "insight": "HN 热议：243 分 · 100 评论",
+            "insight": "HN 热议：251 分 · 101 评论",
             "sentiment": "positive",
-            "comments": 100,
+            "comments": 101,
             "url": "https://jchri.st/blog/in-praise-of-memcached/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-23T17:09:21Z",
+    "updated": "2026-06-23T19:46:40Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

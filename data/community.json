@@ -1,48 +1,48 @@
 {
-  "updated": "2026-06-23T17:09:21Z",
+  "updated": "2026-06-23T19:46:40Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Mistral OCR 4",
-      "insight": "HN 热议：227 分 · 62 评论",
-      "sentiment": "positive",
-      "comments": 62,
-      "url": "https://mistral.ai/news/ocr-4/",
+      "title": "Claude Tag",
+      "insight": "HN 热议：143 分 · 69 评论",
+      "sentiment": "neutral",
+      "comments": 69,
+      "url": "https://www.anthropic.com/news/introducing-claude-tag",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "The Low-Tech AI of Elden Ring",
-      "insight": "HN 热议：36 分 · 16 评论",
-      "sentiment": "neutral",
-      "comments": 16,
-      "url": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html",
+      "title": "Mistral OCR 4",
+      "insight": "HN 热议：344 分 · 87 评论",
+      "sentiment": "positive",
+      "comments": 87,
+      "url": "https://mistral.ai/news/ocr-4/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "AI's Affordability Crisis",
-      "insight": "HN 热议：136 分 · 171 评论",
+      "title": "The Low-Tech AI of Elden Ring",
+      "insight": "HN 热议：63 分 · 37 评论",
       "sentiment": "neutral",
-      "comments": 171,
-      "url": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html",
+      "comments": 37,
+      "url": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Neural Particle Automata",
-      "insight": "HN 热议：69 分 · 14 评论",
+      "title": "The End of Code Review: Coding Agents Supersede Human Inspection",
+      "insight": "HN 热议：13 分 · 10 评论",
       "sentiment": "neutral",
-      "comments": 14,
-      "url": "https://selforg-npa.github.io/",
+      "comments": 10,
+      "url": "https://arxiv.org/abs/2606.13175",
       "id": 4
     },
     {
       "source": "HackerNews",
       "title": "In praise of memcached",
-      "insight": "HN 热议：243 分 · 100 评论",
+      "insight": "HN 热议：251 分 · 101 评论",
       "sentiment": "positive",
-      "comments": 100,
+      "comments": 101,
       "url": "https://jchri.st/blog/in-praise-of-memcached/",
       "id": 5
     }
