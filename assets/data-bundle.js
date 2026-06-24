@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-23T22:06:43Z",
+    "updated": "2026-06-24T01:57:57Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-23T22:06:43Z",
+    "updated": "2026-06-24T01:57:57Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-23T22:06:43Z",
+    "updated": "2026-06-24T01:57:57Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185116,
-            "stars_today": 185116,
+            "stars": 185118,
+            "stars_today": 185118,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 164192,
-            "stars_today": 164192,
+            "stars": 164200,
+            "stars_today": 164200,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 83923,
-            "stars_today": 83923,
+            "stars": 83948,
+            "stars_today": 83948,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 78135,
-            "stars_today": 78135,
+            "stars": 78148,
+            "stars_today": 78148,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,23 +309,23 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 53949,
-            "stars_today": 53949,
+            "stars": 53956,
+            "stars_today": 53956,
             "url": "https://github.com/FlowiseAI/Flowise"
         },
         {
             "rank": 6,
-            "name": "Kong/kong",
-            "description": "🦍 The API and AI Gateway",
-            "language": "Lua",
-            "stars": 43663,
-            "stars_today": 43663,
-            "url": "https://github.com/Kong/kong"
+            "name": "simstudioai/sim",
+            "description": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
+            "language": "TypeScript",
+            "stars": 28852,
+            "stars_today": 28852,
+            "url": "https://github.com/simstudioai/sim"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-23T22:06:43Z",
+    "updated": "2026-06-24T01:57:57Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-23T22:06:43Z",
+    "updated": "2026-06-24T01:57:57Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-23T22:06:43Z",
+    "updated": "2026-06-24T01:57:57Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "German Rail Service Suspended Due to Radio Interference",
-            "insight": "HN 热议：71 分 · 21 评论",
+            "title": "Show HN: Y – A malleable coding-agent desktop app built with Electron",
+            "insight": "HN 热议：13 分 · 10 评论",
             "sentiment": "neutral",
-            "comments": 21,
-            "url": "https://www.bluewin.ch/en/news/german-rail-service-suspended-due-to-radio-interference-li.3295297",
+            "comments": 10,
+            "url": "https://github.com/y-times-y/y",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "All train services in Germany halted after train radio communications disruption",
-            "insight": "HN 热议：61 分 · 28 评论",
+            "title": "The Low-Tech AI of Elden Ring",
+            "insight": "HN 热议：107 分 · 55 评论",
             "sentiment": "neutral",
-            "comments": 28,
-            "url": "https://english.news.cn/20260624/65f1b6192cd947e28849776a5aef05c6/c.html",
+            "comments": 55,
+            "url": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "Don't verify email addresses by sending spam to them",
-            "insight": "HN 热议：79 分 · 11 评论",
+            "insight": "HN 热议：144 分 · 46 评论",
             "sentiment": "neutral",
-            "comments": 11,
+            "comments": 46,
             "url": "https://milek7.pl/mailverifyspam/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "AI Hiring Tools Can Yield Racial Bias and Systemic Rejection",
-            "insight": "HN 热议：109 分 · 89 评论",
+            "title": "Trains halted across Germany because of communication system problem",
+            "insight": "HN 热议：142 分 · 140 评论",
             "sentiment": "neutral",
-            "comments": 89,
-            "url": "https://hai.stanford.edu/news/ai-hiring-tools-can-yield-racial-bias-and-systemic-rejection",
+            "comments": 140,
+            "url": "https://apnews.com/article/germany-trains-halted-communications-radio-problem-deutsche-bahn-e8fd970b2d889f3ae7ce03322d5c726b",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Claude Tag",
-            "insight": "HN 热议：204 分 · 131 评论",
+            "title": "AI's Affordability Crisis",
+            "insight": "HN 热议：255 分 · 344 评论",
             "sentiment": "positive",
-            "comments": 131,
-            "url": "https://www.anthropic.com/news/introducing-claude-tag",
+            "comments": 344,
+            "url": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-23T22:06:43Z",
+    "updated": "2026-06-24T01:57:57Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

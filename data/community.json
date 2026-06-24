@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-23T22:06:43Z",
+  "updated": "2026-06-24T01:57:57Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "German Rail Service Suspended Due to Radio Interference",
-      "insight": "HN 热议：71 分 · 21 评论",
+      "title": "Show HN: Y – A malleable coding-agent desktop app built with Electron",
+      "insight": "HN 热议：13 分 · 10 评论",
       "sentiment": "neutral",
-      "comments": 21,
-      "url": "https://www.bluewin.ch/en/news/german-rail-service-suspended-due-to-radio-interference-li.3295297",
+      "comments": 10,
+      "url": "https://github.com/y-times-y/y",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "All train services in Germany halted after train radio communications disruption",
-      "insight": "HN 热议：61 分 · 28 评论",
+      "title": "The Low-Tech AI of Elden Ring",
+      "insight": "HN 热议：107 分 · 55 评论",
       "sentiment": "neutral",
-      "comments": 28,
-      "url": "https://english.news.cn/20260624/65f1b6192cd947e28849776a5aef05c6/c.html",
+      "comments": 55,
+      "url": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "Don't verify email addresses by sending spam to them",
-      "insight": "HN 热议：79 分 · 11 评论",
+      "insight": "HN 热议：144 分 · 46 评论",
       "sentiment": "neutral",
-      "comments": 11,
+      "comments": 46,
       "url": "https://milek7.pl/mailverifyspam/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "AI Hiring Tools Can Yield Racial Bias and Systemic Rejection",
-      "insight": "HN 热议：109 分 · 89 评论",
+      "title": "Trains halted across Germany because of communication system problem",
+      "insight": "HN 热议：142 分 · 140 评论",
       "sentiment": "neutral",
-      "comments": 89,
-      "url": "https://hai.stanford.edu/news/ai-hiring-tools-can-yield-racial-bias-and-systemic-rejection",
+      "comments": 140,
+      "url": "https://apnews.com/article/germany-trains-halted-communications-radio-problem-deutsche-bahn-e8fd970b2d889f3ae7ce03322d5c726b",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Claude Tag",
-      "insight": "HN 热议：204 分 · 131 评论",
+      "title": "AI's Affordability Crisis",
+      "insight": "HN 热议：255 分 · 344 评论",
       "sentiment": "positive",
-      "comments": 131,
-      "url": "https://www.anthropic.com/news/introducing-claude-tag",
+      "comments": 344,
+      "url": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html",
       "id": 5
     }
   ]
