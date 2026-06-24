@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-24T06:33:26Z",
+  "updated": "2026-06-24T11:36:32Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Qwen-AgentWorld: Language World Models for General Agents",
-      "insight": "HN 热议：47 分 · 9 评论",
+      "title": "Why eval startups fail (2025)",
+      "insight": "HN 热议：31 分 · 30 评论",
       "sentiment": "neutral",
-      "comments": 9,
-      "url": "https://arxiv.org/abs/2606.24597",
+      "comments": 30,
+      "url": "https://thomasliao.com/eval-startups",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "DiffusionBench: Towards Holistic Evaluation of Generative Diffusion Transformers",
-      "insight": "HN 热议：27 分 · 0 评论",
+      "title": "Qwen-AgentWorld: Language World Models for General Agents",
+      "insight": "HN 热议：121 分 · 40 评论",
       "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://github.com/End2End-Diffusion/diffusion-bench",
+      "comments": 40,
+      "url": "https://arxiv.org/abs/2606.24597",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "The Low-Tech AI of Elden Ring",
-      "insight": "HN 热议：135 分 · 63 评论",
+      "title": "How to burst the AI bubble: Strike at its roots",
+      "insight": "HN 热议：28 分 · 16 评论",
       "sentiment": "neutral",
-      "comments": 63,
-      "url": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html",
+      "comments": 16,
+      "url": "https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: RLM-based local debugger for AI agent traces",
-      "insight": "HN 热议：19 分 · 5 评论",
+      "title": "The Low-Tech AI of Elden Ring",
+      "insight": "HN 热议：150 分 · 89 评论",
       "sentiment": "neutral",
-      "comments": 5,
-      "url": "https://github.com/context-labs/halo",
+      "comments": 89,
+      "url": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "US AI stock sell-off shakes markets from Wall Street to Asia",
-      "insight": "HN 热议：31 分 · 3 评论",
+      "title": "DiffusionBench: Towards Holistic Evaluation of Generative Diffusion Transformers",
+      "insight": "HN 热议：37 分 · 1 评论",
       "sentiment": "neutral",
-      "comments": 3,
-      "url": "https://www.theguardian.com/business/2026/jun/23/ai-stocks-sell-off-us-markets",
+      "comments": 1,
+      "url": "https://github.com/End2End-Diffusion/diffusion-bench",
       "id": 5
     }
   ]

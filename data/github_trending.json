@@ -1,13 +1,13 @@
 {
-  "updated": "2026-06-24T06:33:26Z",
+  "updated": "2026-06-24T11:36:32Z",
   "repos": [
     {
       "rank": 1,
       "name": "Significant-Gravitas/AutoGPT",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
       "language": "Python",
-      "stars": 185132,
-      "stars_today": 185132,
+      "stars": 185143,
+      "stars_today": 185143,
       "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
@@ -15,45 +15,45 @@
       "name": "f/prompts.chat",
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
       "language": "HTML",
-      "stars": 164219,
-      "stars_today": 164219,
+      "stars": 164240,
+      "stars_today": 164240,
       "url": "https://github.com/f/prompts.chat"
     },
     {
       "rank": 3,
-      "name": "thedotmack/claude-mem",
-      "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
-      "language": "JavaScript",
-      "stars": 83994,
-      "stars_today": 83994,
-      "url": "https://github.com/thedotmack/claude-mem"
+      "name": "hacksider/Deep-Live-Cam",
+      "description": "real time face swap and one-click video deepfake with only a single image",
+      "language": "Python",
+      "stars": 94133,
+      "stars_today": 94133,
+      "url": "https://github.com/hacksider/Deep-Live-Cam"
     },
     {
       "rank": 4,
-      "name": "OpenHands/OpenHands",
-      "description": "🙌 OpenHands: AI-Driven Development",
-      "language": "Python",
-      "stars": 78176,
-      "stars_today": 78176,
-      "url": "https://github.com/OpenHands/OpenHands"
+      "name": "thedotmack/claude-mem",
+      "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
+      "language": "JavaScript",
+      "stars": 84047,
+      "stars_today": 84047,
+      "url": "https://github.com/thedotmack/claude-mem"
     },
     {
       "rank": 5,
-      "name": "FlowiseAI/Flowise",
-      "description": "Build AI Agents, Visually",
-      "language": "TypeScript",
-      "stars": 53961,
-      "stars_today": 53961,
-      "url": "https://github.com/FlowiseAI/Flowise"
+      "name": "OpenHands/OpenHands",
+      "description": "🙌 OpenHands: AI-Driven Development",
+      "language": "Python",
+      "stars": 78210,
+      "stars_today": 78210,
+      "url": "https://github.com/OpenHands/OpenHands"
     },
     {
       "rank": 6,
-      "name": "simstudioai/sim",
-      "description": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
+      "name": "FlowiseAI/Flowise",
+      "description": "Build AI Agents, Visually",
       "language": "TypeScript",
-      "stars": 28853,
-      "stars_today": 28853,
-      "url": "https://github.com/simstudioai/sim"
+      "stars": 53972,
+      "stars_today": 53972,
+      "url": "https://github.com/FlowiseAI/Flowise"
     }
   ]
 }
