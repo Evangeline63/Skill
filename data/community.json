@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-24T11:36:32Z",
+  "updated": "2026-06-24T14:00:49Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Why eval startups fail (2025)",
-      "insight": "HN 热议：31 分 · 30 评论",
+      "title": "Minimus container images are now free",
+      "insight": "HN 热议：50 分 · 28 评论",
       "sentiment": "neutral",
-      "comments": 30,
-      "url": "https://thomasliao.com/eval-startups",
+      "comments": 28,
+      "url": "https://images.minimus.io/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Qwen-AgentWorld: Language World Models for General Agents",
-      "insight": "HN 热议：121 分 · 40 评论",
+      "title": "Haystack: Open-Source AI Framework for Production Ready Agents, RAG",
+      "insight": "HN 热议：22 分 · 7 评论",
       "sentiment": "neutral",
-      "comments": 40,
-      "url": "https://arxiv.org/abs/2606.24597",
+      "comments": 7,
+      "url": "https://haystack.deepset.ai/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "How to burst the AI bubble: Strike at its roots",
-      "insight": "HN 热议：28 分 · 16 评论",
+      "title": "Reid Hoffman says SpaceX 'not an AI company', xAI 'complete train wreck'",
+      "insight": "HN 热议：94 分 · 84 评论",
       "sentiment": "neutral",
-      "comments": 16,
-      "url": "https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots/",
+      "comments": 84,
+      "url": "https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "The Low-Tech AI of Elden Ring",
-      "insight": "HN 热议：150 分 · 89 评论",
+      "title": "Qwen-AgentWorld: Language World Models for General Agents",
+      "insight": "HN 热议：146 分 · 44 评论",
       "sentiment": "neutral",
-      "comments": 89,
-      "url": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html",
+      "comments": 44,
+      "url": "https://arxiv.org/abs/2606.24597",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "DiffusionBench: Towards Holistic Evaluation of Generative Diffusion Transformers",
-      "insight": "HN 热议：37 分 · 1 评论",
+      "title": "Why eval startups fail (2025)",
+      "insight": "HN 热议：50 分 · 41 评论",
       "sentiment": "neutral",
-      "comments": 1,
-      "url": "https://github.com/End2End-Diffusion/diffusion-bench",
+      "comments": 41,
+      "url": "https://thomasliao.com/eval-startups",
       "id": 5
     }
   ]

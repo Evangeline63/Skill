@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-24T11:36:32Z",
+    "updated": "2026-06-24T14:00:49Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-24T11:36:32Z",
+    "updated": "2026-06-24T14:00:49Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-24T11:36:32Z",
+    "updated": "2026-06-24T14:00:49Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185143,
-            "stars_today": 185143,
+            "stars": 185147,
+            "stars_today": 185147,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 164240,
-            "stars_today": 164240,
+            "stars": 164245,
+            "stars_today": 164245,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 94133,
-            "stars_today": 94133,
+            "stars": 94138,
+            "stars_today": 94138,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 84047,
-            "stars_today": 84047,
+            "stars": 84061,
+            "stars_today": 84061,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 78210,
-            "stars_today": 78210,
+            "stars": 78214,
+            "stars_today": 78214,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 53972,
-            "stars_today": 53972,
+            "stars": 53980,
+            "stars_today": 53980,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-24T11:36:32Z",
+    "updated": "2026-06-24T14:00:49Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-24T11:36:32Z",
+    "updated": "2026-06-24T14:00:49Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-24T11:36:32Z",
+    "updated": "2026-06-24T14:00:49Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Why eval startups fail (2025)",
-            "insight": "HN 热议：31 分 · 30 评论",
+            "title": "Minimus container images are now free",
+            "insight": "HN 热议：50 分 · 28 评论",
             "sentiment": "neutral",
-            "comments": 30,
-            "url": "https://thomasliao.com/eval-startups",
+            "comments": 28,
+            "url": "https://images.minimus.io/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Qwen-AgentWorld: Language World Models for General Agents",
-            "insight": "HN 热议：121 分 · 40 评论",
+            "title": "Haystack: Open-Source AI Framework for Production Ready Agents, RAG",
+            "insight": "HN 热议：22 分 · 7 评论",
             "sentiment": "neutral",
-            "comments": 40,
-            "url": "https://arxiv.org/abs/2606.24597",
+            "comments": 7,
+            "url": "https://haystack.deepset.ai/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "How to burst the AI bubble: Strike at its roots",
-            "insight": "HN 热议：28 分 · 16 评论",
+            "title": "Reid Hoffman says SpaceX 'not an AI company', xAI 'complete train wreck'",
+            "insight": "HN 热议：94 分 · 84 评论",
             "sentiment": "neutral",
-            "comments": 16,
-            "url": "https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots/",
+            "comments": 84,
+            "url": "https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "The Low-Tech AI of Elden Ring",
-            "insight": "HN 热议：150 分 · 89 评论",
+            "title": "Qwen-AgentWorld: Language World Models for General Agents",
+            "insight": "HN 热议：146 分 · 44 评论",
             "sentiment": "neutral",
-            "comments": 89,
-            "url": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html",
+            "comments": 44,
+            "url": "https://arxiv.org/abs/2606.24597",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "DiffusionBench: Towards Holistic Evaluation of Generative Diffusion Transformers",
-            "insight": "HN 热议：37 分 · 1 评论",
+            "title": "Why eval startups fail (2025)",
+            "insight": "HN 热议：50 分 · 41 评论",
             "sentiment": "neutral",
-            "comments": 1,
-            "url": "https://github.com/End2End-Diffusion/diffusion-bench",
+            "comments": 41,
+            "url": "https://thomasliao.com/eval-startups",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-24T11:36:32Z",
+    "updated": "2026-06-24T14:00:49Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
