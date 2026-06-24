@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-24T14:00:49Z",
+    "updated": "2026-06-24T16:57:40Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-24T14:00:49Z",
+    "updated": "2026-06-24T16:57:40Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-24T14:00:49Z",
+    "updated": "2026-06-24T16:57:40Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185147,
-            "stars_today": 185147,
+            "stars": 185149,
+            "stars_today": 185149,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 94138,
-            "stars_today": 94138,
+            "stars": 94142,
+            "stars_today": 94142,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 84061,
-            "stars_today": 84061,
+            "stars": 84085,
+            "stars_today": 84085,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 78214,
-            "stars_today": 78214,
+            "stars": 78225,
+            "stars_today": 78225,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 53980,
-            "stars_today": 53980,
+            "stars": 53982,
+            "stars_today": 53982,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-24T14:00:49Z",
+    "updated": "2026-06-24T16:57:40Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-24T14:00:49Z",
+    "updated": "2026-06-24T16:57:40Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-24T14:00:49Z",
+    "updated": "2026-06-24T16:57:40Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Minimus container images are now free",
-            "insight": "HN 热议：50 分 · 28 评论",
+            "title": "RubyLLM: A Ruby framework for all major AI providers",
+            "insight": "HN 热议：162 分 · 21 评论",
             "sentiment": "neutral",
-            "comments": 28,
-            "url": "https://images.minimus.io/",
+            "comments": 21,
+            "url": "https://rubyllm.com/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Haystack: Open-Source AI Framework for Production Ready Agents, RAG",
-            "insight": "HN 热议：22 分 · 7 评论",
+            "title": "CAPTCHAs have failed for 20 years",
+            "insight": "HN 热议：18 分 · 12 评论",
             "sentiment": "neutral",
-            "comments": 7,
-            "url": "https://haystack.deepset.ai/",
+            "comments": 12,
+            "url": "https://www.browserbase.com/blog/why-captchas-are-getting-harder",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Reid Hoffman says SpaceX 'not an AI company', xAI 'complete train wreck'",
-            "insight": "HN 热议：94 分 · 84 评论",
+            "title": "PR spam today looks like email spam in the early 2000s",
+            "insight": "HN 热议：25 分 · 12 评论",
             "sentiment": "neutral",
-            "comments": 84,
-            "url": "https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/",
+            "comments": 12,
+            "url": "https://www.greptile.com/blog/prs-on-openclaw",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Qwen-AgentWorld: Language World Models for General Agents",
-            "insight": "HN 热议：146 分 · 44 评论",
+            "title": "For Most of the World, Open-Source AI Is the Only Way Forward",
+            "insight": "HN 热议：22 分 · 0 评论",
             "sentiment": "neutral",
-            "comments": 44,
-            "url": "https://arxiv.org/abs/2606.24597",
+            "comments": 0,
+            "url": "https://techstrong.ai/articles/for-most-of-the-world-open-source-ai-is-the-only-way-forward/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Why eval startups fail (2025)",
-            "insight": "HN 热议：50 分 · 41 评论",
+            "title": "Boffin claims Microsoft's \"quantum leap\" is invalid due to \"basic Python errors\"",
+            "insight": "HN 热议：58 分 · 25 评论",
             "sentiment": "neutral",
-            "comments": 41,
-            "url": "https://thomasliao.com/eval-startups",
+            "comments": 25,
+            "url": "https://www.theregister.com/research/2026/06/24/boffin-claims-microsofts-supposed-quantum-leap-does-not-compute-due-to-basic-python-errors/5260489",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-24T14:00:49Z",
+    "updated": "2026-06-24T16:57:40Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

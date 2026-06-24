@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-24T14:00:49Z",
+  "updated": "2026-06-24T16:57:40Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Minimus container images are now free",
-      "insight": "HN 热议：50 分 · 28 评论",
+      "title": "RubyLLM: A Ruby framework for all major AI providers",
+      "insight": "HN 热议：162 分 · 21 评论",
       "sentiment": "neutral",
-      "comments": 28,
-      "url": "https://images.minimus.io/",
+      "comments": 21,
+      "url": "https://rubyllm.com/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Haystack: Open-Source AI Framework for Production Ready Agents, RAG",
-      "insight": "HN 热议：22 分 · 7 评论",
+      "title": "CAPTCHAs have failed for 20 years",
+      "insight": "HN 热议：18 分 · 12 评论",
       "sentiment": "neutral",
-      "comments": 7,
-      "url": "https://haystack.deepset.ai/",
+      "comments": 12,
+      "url": "https://www.browserbase.com/blog/why-captchas-are-getting-harder",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Reid Hoffman says SpaceX 'not an AI company', xAI 'complete train wreck'",
-      "insight": "HN 热议：94 分 · 84 评论",
+      "title": "PR spam today looks like email spam in the early 2000s",
+      "insight": "HN 热议：25 分 · 12 评论",
       "sentiment": "neutral",
-      "comments": 84,
-      "url": "https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/",
+      "comments": 12,
+      "url": "https://www.greptile.com/blog/prs-on-openclaw",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Qwen-AgentWorld: Language World Models for General Agents",
-      "insight": "HN 热议：146 分 · 44 评论",
+      "title": "For Most of the World, Open-Source AI Is the Only Way Forward",
+      "insight": "HN 热议：22 分 · 0 评论",
       "sentiment": "neutral",
-      "comments": 44,
-      "url": "https://arxiv.org/abs/2606.24597",
+      "comments": 0,
+      "url": "https://techstrong.ai/articles/for-most-of-the-world-open-source-ai-is-the-only-way-forward/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Why eval startups fail (2025)",
-      "insight": "HN 热议：50 分 · 41 评论",
+      "title": "Boffin claims Microsoft's \"quantum leap\" is invalid due to \"basic Python errors\"",
+      "insight": "HN 热议：58 分 · 25 评论",
       "sentiment": "neutral",
-      "comments": 41,
-      "url": "https://thomasliao.com/eval-startups",
+      "comments": 25,
+      "url": "https://www.theregister.com/research/2026/06/24/boffin-claims-microsofts-supposed-quantum-leap-does-not-compute-due-to-basic-python-errors/5260489",
       "id": 5
     }
   ]
