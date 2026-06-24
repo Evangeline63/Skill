@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-24T01:57:57Z",
+    "updated": "2026-06-24T06:33:26Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-24T01:57:57Z",
+    "updated": "2026-06-24T06:33:26Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-24T01:57:57Z",
+    "updated": "2026-06-24T06:33:26Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185118,
-            "stars_today": 185118,
+            "stars": 185132,
+            "stars_today": 185132,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 164200,
-            "stars_today": 164200,
+            "stars": 164219,
+            "stars_today": 164219,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 83948,
-            "stars_today": 83948,
+            "stars": 83994,
+            "stars_today": 83994,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 78148,
-            "stars_today": 78148,
+            "stars": 78176,
+            "stars_today": 78176,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 53956,
-            "stars_today": 53956,
+            "stars": 53961,
+            "stars_today": 53961,
             "url": "https://github.com/FlowiseAI/Flowise"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "simstudioai/sim",
             "description": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
             "language": "TypeScript",
-            "stars": 28852,
-            "stars_today": 28852,
+            "stars": 28853,
+            "stars_today": 28853,
             "url": "https://github.com/simstudioai/sim"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-24T01:57:57Z",
+    "updated": "2026-06-24T06:33:26Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-24T01:57:57Z",
+    "updated": "2026-06-24T06:33:26Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-24T01:57:57Z",
+    "updated": "2026-06-24T06:33:26Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Show HN: Y – A malleable coding-agent desktop app built with Electron",
-            "insight": "HN 热议：13 分 · 10 评论",
+            "title": "Qwen-AgentWorld: Language World Models for General Agents",
+            "insight": "HN 热议：47 分 · 9 评论",
             "sentiment": "neutral",
-            "comments": 10,
-            "url": "https://github.com/y-times-y/y",
+            "comments": 9,
+            "url": "https://arxiv.org/abs/2606.24597",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "The Low-Tech AI of Elden Ring",
-            "insight": "HN 热议：107 分 · 55 评论",
+            "title": "DiffusionBench: Towards Holistic Evaluation of Generative Diffusion Transformers",
+            "insight": "HN 热议：27 分 · 0 评论",
             "sentiment": "neutral",
-            "comments": 55,
-            "url": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html",
+            "comments": 0,
+            "url": "https://github.com/End2End-Diffusion/diffusion-bench",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Don't verify email addresses by sending spam to them",
-            "insight": "HN 热议：144 分 · 46 评论",
+            "title": "The Low-Tech AI of Elden Ring",
+            "insight": "HN 热议：135 分 · 63 评论",
             "sentiment": "neutral",
-            "comments": 46,
-            "url": "https://milek7.pl/mailverifyspam/",
+            "comments": 63,
+            "url": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Trains halted across Germany because of communication system problem",
-            "insight": "HN 热议：142 分 · 140 评论",
+            "title": "Show HN: RLM-based local debugger for AI agent traces",
+            "insight": "HN 热议：19 分 · 5 评论",
             "sentiment": "neutral",
-            "comments": 140,
-            "url": "https://apnews.com/article/germany-trains-halted-communications-radio-problem-deutsche-bahn-e8fd970b2d889f3ae7ce03322d5c726b",
+            "comments": 5,
+            "url": "https://github.com/context-labs/halo",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "AI's Affordability Crisis",
-            "insight": "HN 热议：255 分 · 344 评论",
-            "sentiment": "positive",
-            "comments": 344,
-            "url": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html",
+            "title": "US AI stock sell-off shakes markets from Wall Street to Asia",
+            "insight": "HN 热议：31 分 · 3 评论",
+            "sentiment": "neutral",
+            "comments": 3,
+            "url": "https://www.theguardian.com/business/2026/jun/23/ai-stocks-sell-off-us-markets",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-24T01:57:57Z",
+    "updated": "2026-06-24T06:33:26Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

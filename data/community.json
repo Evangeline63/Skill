@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-24T01:57:57Z",
+  "updated": "2026-06-24T06:33:26Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Show HN: Y – A malleable coding-agent desktop app built with Electron",
-      "insight": "HN 热议：13 分 · 10 评论",
+      "title": "Qwen-AgentWorld: Language World Models for General Agents",
+      "insight": "HN 热议：47 分 · 9 评论",
       "sentiment": "neutral",
-      "comments": 10,
-      "url": "https://github.com/y-times-y/y",
+      "comments": 9,
+      "url": "https://arxiv.org/abs/2606.24597",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "The Low-Tech AI of Elden Ring",
-      "insight": "HN 热议：107 分 · 55 评论",
+      "title": "DiffusionBench: Towards Holistic Evaluation of Generative Diffusion Transformers",
+      "insight": "HN 热议：27 分 · 0 评论",
       "sentiment": "neutral",
-      "comments": 55,
-      "url": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html",
+      "comments": 0,
+      "url": "https://github.com/End2End-Diffusion/diffusion-bench",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Don't verify email addresses by sending spam to them",
-      "insight": "HN 热议：144 分 · 46 评论",
+      "title": "The Low-Tech AI of Elden Ring",
+      "insight": "HN 热议：135 分 · 63 评论",
       "sentiment": "neutral",
-      "comments": 46,
-      "url": "https://milek7.pl/mailverifyspam/",
+      "comments": 63,
+      "url": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Trains halted across Germany because of communication system problem",
-      "insight": "HN 热议：142 分 · 140 评论",
+      "title": "Show HN: RLM-based local debugger for AI agent traces",
+      "insight": "HN 热议：19 分 · 5 评论",
       "sentiment": "neutral",
-      "comments": 140,
-      "url": "https://apnews.com/article/germany-trains-halted-communications-radio-problem-deutsche-bahn-e8fd970b2d889f3ae7ce03322d5c726b",
+      "comments": 5,
+      "url": "https://github.com/context-labs/halo",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "AI's Affordability Crisis",
-      "insight": "HN 热议：255 分 · 344 评论",
-      "sentiment": "positive",
-      "comments": 344,
-      "url": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html",
+      "title": "US AI stock sell-off shakes markets from Wall Street to Asia",
+      "insight": "HN 热议：31 分 · 3 评论",
+      "sentiment": "neutral",
+      "comments": 3,
+      "url": "https://www.theguardian.com/business/2026/jun/23/ai-stocks-sell-off-us-markets",
       "id": 5
     }
   ]
