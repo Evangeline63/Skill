@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-24T19:23:32Z",
+    "updated": "2026-06-24T22:05:00Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-24T19:23:32Z",
+    "updated": "2026-06-24T22:05:00Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-24T19:23:32Z",
+    "updated": "2026-06-24T22:05:00Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185151,
-            "stars_today": 185151,
+            "stars": 185153,
+            "stars_today": 185153,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 164253,
-            "stars_today": 164253,
+            "stars": 164259,
+            "stars_today": 164259,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 94146,
-            "stars_today": 94146,
+            "stars": 94151,
+            "stars_today": 94151,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 84098,
-            "stars_today": 84098,
+            "stars": 84117,
+            "stars_today": 84117,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 78231,
-            "stars_today": 78231,
+            "stars": 78242,
+            "stars_today": 78242,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 53989,
-            "stars_today": 53989,
+            "stars": 53991,
+            "stars_today": 53991,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-24T19:23:32Z",
+    "updated": "2026-06-24T22:05:00Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-24T19:23:32Z",
+    "updated": "2026-06-24T22:05:00Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-24T19:23:32Z",
+    "updated": "2026-06-24T22:05:00Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "OpenAI unveils its first custom chip, built by Broadcom",
-            "insight": "HN 热议：178 分 · 155 评论",
-            "sentiment": "neutral",
-            "comments": 155,
+            "insight": "HN 热议：377 分 · 258 评论",
+            "sentiment": "positive",
+            "comments": 258,
             "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "RubyLLM: A Ruby framework for all major AI providers",
-            "insight": "HN 热议：258 分 · 37 评论",
+            "insight": "HN 热议：310 分 · 47 评论",
             "sentiment": "positive",
-            "comments": 37,
+            "comments": 47,
             "url": "https://rubyllm.com/",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "PR spam today looks like email spam in the early 2000s",
-            "insight": "HN 热议：76 分 · 55 评论",
+            "insight": "HN 热议：136 分 · 86 评论",
             "sentiment": "neutral",
-            "comments": 55,
+            "comments": 86,
             "url": "https://www.greptile.com/blog/prs-on-openclaw",
             "id": 3
         },
         {
             "source": "HackerNews",
             "title": "Computer use in Gemini 3.5 Flash",
-            "insight": "HN 热议：69 分 · 27 评论",
+            "insight": "HN 热议：118 分 · 67 评论",
             "sentiment": "neutral",
-            "comments": 27,
+            "comments": 67,
             "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "NSA lost access to Mythos amid Anthropic dispute",
-            "insight": "HN 热议：132 分 · 86 评论",
+            "title": "Thomann takes legal action against Fender",
+            "insight": "HN 热议：150 分 · 89 评论",
             "sentiment": "neutral",
-            "comments": 86,
-            "url": "https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-access-anthropic-tool.html",
+            "comments": 89,
+            "url": "https://www.thomann.de/blog/en/inside/thomann-takes-legal-action-against-fender/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-24T19:23:32Z",
+    "updated": "2026-06-24T22:05:00Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
