@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-24T16:57:40Z",
+    "updated": "2026-06-24T19:23:32Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-24T16:57:40Z",
+    "updated": "2026-06-24T19:23:32Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-24T16:57:40Z",
+    "updated": "2026-06-24T19:23:32Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185149,
-            "stars_today": 185149,
+            "stars": 185151,
+            "stars_today": 185151,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 164245,
-            "stars_today": 164245,
+            "stars": 164253,
+            "stars_today": 164253,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 94142,
-            "stars_today": 94142,
+            "stars": 94146,
+            "stars_today": 94146,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 84085,
-            "stars_today": 84085,
+            "stars": 84098,
+            "stars_today": 84098,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 78225,
-            "stars_today": 78225,
+            "stars": 78231,
+            "stars_today": 78231,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 53982,
-            "stars_today": 53982,
+            "stars": 53989,
+            "stars_today": 53989,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-24T16:57:40Z",
+    "updated": "2026-06-24T19:23:32Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-24T16:57:40Z",
+    "updated": "2026-06-24T19:23:32Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-24T16:57:40Z",
+    "updated": "2026-06-24T19:23:32Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "RubyLLM: A Ruby framework for all major AI providers",
-            "insight": "HN 热议：162 分 · 21 评论",
+            "title": "OpenAI unveils its first custom chip, built by Broadcom",
+            "insight": "HN 热议：178 分 · 155 评论",
             "sentiment": "neutral",
-            "comments": 21,
-            "url": "https://rubyllm.com/",
+            "comments": 155,
+            "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "CAPTCHAs have failed for 20 years",
-            "insight": "HN 热议：18 分 · 12 评论",
-            "sentiment": "neutral",
-            "comments": 12,
-            "url": "https://www.browserbase.com/blog/why-captchas-are-getting-harder",
+            "title": "RubyLLM: A Ruby framework for all major AI providers",
+            "insight": "HN 热议：258 分 · 37 评论",
+            "sentiment": "positive",
+            "comments": 37,
+            "url": "https://rubyllm.com/",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "PR spam today looks like email spam in the early 2000s",
-            "insight": "HN 热议：25 分 · 12 评论",
+            "insight": "HN 热议：76 分 · 55 评论",
             "sentiment": "neutral",
-            "comments": 12,
+            "comments": 55,
             "url": "https://www.greptile.com/blog/prs-on-openclaw",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "For Most of the World, Open-Source AI Is the Only Way Forward",
-            "insight": "HN 热议：22 分 · 0 评论",
+            "title": "Computer use in Gemini 3.5 Flash",
+            "insight": "HN 热议：69 分 · 27 评论",
             "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://techstrong.ai/articles/for-most-of-the-world-open-source-ai-is-the-only-way-forward/",
+            "comments": 27,
+            "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Boffin claims Microsoft's \"quantum leap\" is invalid due to \"basic Python errors\"",
-            "insight": "HN 热议：58 分 · 25 评论",
+            "title": "NSA lost access to Mythos amid Anthropic dispute",
+            "insight": "HN 热议：132 分 · 86 评论",
             "sentiment": "neutral",
-            "comments": 25,
-            "url": "https://www.theregister.com/research/2026/06/24/boffin-claims-microsofts-supposed-quantum-leap-does-not-compute-due-to-basic-python-errors/5260489",
+            "comments": 86,
+            "url": "https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-access-anthropic-tool.html",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-24T16:57:40Z",
+    "updated": "2026-06-24T19:23:32Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
