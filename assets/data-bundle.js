@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-25T17:02:35Z",
+    "updated": "2026-06-25T19:42:23Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-25T17:02:35Z",
+    "updated": "2026-06-25T19:42:23Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-25T17:02:35Z",
+    "updated": "2026-06-25T19:42:23Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185153,
-            "stars_today": 185153,
+            "stars": 185155,
+            "stars_today": 185155,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 164344,
-            "stars_today": 164344,
+            "stars": 164348,
+            "stars_today": 164348,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 94168,
-            "stars_today": 94168,
+            "stars": 94170,
+            "stars_today": 94170,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 84260,
-            "stars_today": 84260,
+            "stars": 84275,
+            "stars_today": 84275,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 78322,
-            "stars_today": 78322,
+            "stars": 78326,
+            "stars_today": 78326,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54007,
-            "stars_today": 54007,
+            "stars": 54012,
+            "stars_today": 54012,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-25T17:02:35Z",
+    "updated": "2026-06-25T19:42:23Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-25T17:02:35Z",
+    "updated": "2026-06-25T19:42:23Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-25T17:02:35Z",
+    "updated": "2026-06-25T19:42:23Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Ford rehires 350 engineers after AI fails to preserve expertise or train juniors",
-            "insight": "HN 热议：450 分 · 210 评论",
+            "title": "Apple raises prices of MacBooks, iPads",
+            "insight": "HN 热议：416 分 · 627 评论",
             "sentiment": "positive",
-            "comments": 210,
-            "url": "https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short",
+            "comments": 627,
+            "url": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
-            "insight": "HN 热议：685 分 · 1114 评论",
-            "sentiment": "positive",
-            "comments": 1114,
-            "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
+            "title": "The annotated PyTorch training loop",
+            "insight": "HN 热议：13 分 · 1 评论",
+            "sentiment": "neutral",
+            "comments": 1,
+            "url": "https://idlemachines.co.uk/essays/pytorch-training-loop",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "OpenAI unveils its first custom chip, built by Broadcom",
-            "insight": "HN 热议：786 分 · 451 评论",
-            "sentiment": "positive",
-            "comments": 451,
-            "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+            "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
+            "insight": "HN 热议：29 分 · 6 评论",
+            "sentiment": "neutral",
+            "comments": 6,
+            "url": "https://github.com/inkeep/open-knowledge",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Wikipedia Workers in Britain set global first by seeking union recognition",
-            "insight": "HN 热议：194 分 · 184 评论",
+            "title": "Advanced Nintendo Entertainment System (ANES) – NES Modded to Use 2 PPUs",
+            "insight": "HN 热议：51 分 · 14 评论",
             "sentiment": "neutral",
-            "comments": 184,
-            "url": "https://utaw.tech/news/wikipedia-recognition",
+            "comments": 14,
+            "url": "https://github.com/decrazyo/anes",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "GLM-5.2 is a step change for open agents",
-            "insight": "HN 热议：337 分 · 193 评论",
-            "sentiment": "positive",
-            "comments": 193,
-            "url": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
+            "title": "Political bias in AI: Where the AI models stand",
+            "insight": "HN 热议：57 分 · 123 评论",
+            "sentiment": "neutral",
+            "comments": 123,
+            "url": "https://trakkr.ai/bias",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-25T17:02:35Z",
+    "updated": "2026-06-25T19:42:23Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
