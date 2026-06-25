@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-24T22:05:00Z",
+    "updated": "2026-06-25T02:00:46Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-24T22:05:00Z",
+    "updated": "2026-06-25T02:00:46Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,7 +266,7 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-24T22:05:00Z",
+    "updated": "2026-06-25T02:00:46Z",
     "repos": [
         {
             "rank": 1,
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 164259,
-            "stars_today": 164259,
+            "stars": 164270,
+            "stars_today": 164270,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 94151,
-            "stars_today": 94151,
+            "stars": 94155,
+            "stars_today": 94155,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 84117,
-            "stars_today": 84117,
+            "stars": 84148,
+            "stars_today": 84148,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 78242,
-            "stars_today": 78242,
+            "stars": 78251,
+            "stars_today": 78251,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 53991,
-            "stars_today": 53991,
+            "stars": 53993,
+            "stars_today": 53993,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-24T22:05:00Z",
+    "updated": "2026-06-25T02:00:46Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-24T22:05:00Z",
+    "updated": "2026-06-25T02:00:46Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-24T22:05:00Z",
+    "updated": "2026-06-25T02:00:46Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "OpenAI unveils its first custom chip, built by Broadcom",
-            "insight": "HN 热议：377 分 · 258 评论",
+            "insight": "HN 热议：533 分 · 332 评论",
             "sentiment": "positive",
-            "comments": 258,
+            "comments": 332,
             "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "RubyLLM: A Ruby framework for all major AI providers",
-            "insight": "HN 热议：310 分 · 47 评论",
+            "insight": "HN 热议：347 分 · 55 评论",
             "sentiment": "positive",
-            "comments": 47,
+            "comments": 55,
             "url": "https://rubyllm.com/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "PR spam today looks like email spam in the early 2000s",
-            "insight": "HN 热议：136 分 · 86 评论",
+            "title": "Bible as RAG Database",
+            "insight": "HN 热议：6 分 · 4 评论",
             "sentiment": "neutral",
-            "comments": 86,
-            "url": "https://www.greptile.com/blog/prs-on-openclaw",
+            "comments": 4,
+            "url": "https://www.crosscanon.com/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Computer use in Gemini 3.5 Flash",
-            "insight": "HN 热议：118 分 · 67 评论",
+            "title": "PR spam today looks like email spam in the early 2000s",
+            "insight": "HN 热议：181 分 · 101 评论",
             "sentiment": "neutral",
-            "comments": 67,
-            "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
+            "comments": 101,
+            "url": "https://www.greptile.com/blog/prs-on-openclaw",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Thomann takes legal action against Fender",
-            "insight": "HN 热议：150 分 · 89 评论",
+            "title": "Computer use in Gemini 3.5 Flash",
+            "insight": "HN 热议：174 分 · 104 评论",
             "sentiment": "neutral",
-            "comments": 89,
-            "url": "https://www.thomann.de/blog/en/inside/thomann-takes-legal-action-against-fender/",
+            "comments": 104,
+            "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-24T22:05:00Z",
+    "updated": "2026-06-25T02:00:46Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
