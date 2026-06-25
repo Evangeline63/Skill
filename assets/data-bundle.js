@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-25T06:37:18Z",
+    "updated": "2026-06-25T11:30:46Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-25T06:37:18Z",
+    "updated": "2026-06-25T11:30:46Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -325,7 +325,7 @@ window.__DATA__ = {
     ]
 },
   "products": {
-    "updated": "2026-06-25T06:37:18Z",
+    "updated": "2026-06-25T11:30:46Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-25T06:37:18Z",
+    "updated": "2026-06-25T11:30:46Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-25T06:37:18Z",
+    "updated": "2026-06-25T11:30:46Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
-            "insight": "HN 热议：292 分 · 511 评论",
+            "insight": "HN 热议：466 分 · 809 评论",
             "sentiment": "positive",
-            "comments": 511,
+            "comments": 809,
             "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "OpenAI unveils its first custom chip, built by Broadcom",
-            "insight": "HN 热议：646 分 · 368 评论",
+            "insight": "HN 热议：715 分 · 405 评论",
             "sentiment": "positive",
-            "comments": 368,
+            "comments": 405,
             "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "Markdy: Like Mermaid Diagrams, but for Motion",
-            "insight": "HN 热议：16 分 · 1 评论",
+            "insight": "HN 热议：77 分 · 36 评论",
             "sentiment": "neutral",
-            "comments": 1,
+            "comments": 36,
             "url": "https://markdy.com",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "RubyLLM: A Ruby framework for all major AI providers",
-            "insight": "HN 热议：373 分 · 60 评论",
-            "sentiment": "positive",
-            "comments": 60,
-            "url": "https://rubyllm.com/",
+            "title": "Wikipedia Workers in Britain set global first by seeking union recognition",
+            "insight": "HN 热议：97 分 · 105 评论",
+            "sentiment": "neutral",
+            "comments": 105,
+            "url": "https://utaw.tech/news/wikipedia-recognition",
             "id": 4
         },
         {
             "source": "HackerNews",
             "title": "GLM-5.2 is a step change for open agents",
-            "insight": "HN 热议：192 分 · 107 评论",
-            "sentiment": "neutral",
-            "comments": 107,
+            "insight": "HN 热议：249 分 · 146 评论",
+            "sentiment": "positive",
+            "comments": 146,
             "url": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-25T06:37:18Z",
+    "updated": "2026-06-25T11:30:46Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
