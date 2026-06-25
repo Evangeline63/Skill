@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-25T02:00:46Z",
+  "updated": "2026-06-25T06:37:18Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "OpenAI unveils its first custom chip, built by Broadcom",
-      "insight": "HN 热议：533 分 · 332 评论",
+      "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+      "insight": "HN 热议：292 分 · 511 评论",
       "sentiment": "positive",
-      "comments": 332,
-      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+      "comments": 511,
+      "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "RubyLLM: A Ruby framework for all major AI providers",
-      "insight": "HN 热议：347 分 · 55 评论",
+      "title": "OpenAI unveils its first custom chip, built by Broadcom",
+      "insight": "HN 热议：646 分 · 368 评论",
       "sentiment": "positive",
-      "comments": 55,
-      "url": "https://rubyllm.com/",
+      "comments": 368,
+      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Bible as RAG Database",
-      "insight": "HN 热议：6 分 · 4 评论",
+      "title": "Markdy: Like Mermaid Diagrams, but for Motion",
+      "insight": "HN 热议：16 分 · 1 评论",
       "sentiment": "neutral",
-      "comments": 4,
-      "url": "https://www.crosscanon.com/",
+      "comments": 1,
+      "url": "https://markdy.com",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "PR spam today looks like email spam in the early 2000s",
-      "insight": "HN 热议：181 分 · 101 评论",
-      "sentiment": "neutral",
-      "comments": 101,
-      "url": "https://www.greptile.com/blog/prs-on-openclaw",
+      "title": "RubyLLM: A Ruby framework for all major AI providers",
+      "insight": "HN 热议：373 分 · 60 评论",
+      "sentiment": "positive",
+      "comments": 60,
+      "url": "https://rubyllm.com/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Computer use in Gemini 3.5 Flash",
-      "insight": "HN 热议：174 分 · 104 评论",
+      "title": "GLM-5.2 is a step change for open agents",
+      "insight": "HN 热议：192 分 · 107 评论",
       "sentiment": "neutral",
-      "comments": 104,
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
+      "comments": 107,
+      "url": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
       "id": 5
     }
   ]

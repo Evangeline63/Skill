@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-25T02:00:46Z",
+    "updated": "2026-06-25T06:37:18Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-25T02:00:46Z",
+    "updated": "2026-06-25T06:37:18Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-25T02:00:46Z",
+    "updated": "2026-06-25T06:37:18Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185153,
-            "stars_today": 185153,
+            "stars": 185154,
+            "stars_today": 185154,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 164270,
-            "stars_today": 164270,
+            "stars": 164305,
+            "stars_today": 164305,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 94155,
-            "stars_today": 94155,
+            "stars": 94159,
+            "stars_today": 94159,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 84148,
-            "stars_today": 84148,
+            "stars": 84183,
+            "stars_today": 84183,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 78251,
-            "stars_today": 78251,
+            "stars": 78270,
+            "stars_today": 78270,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 53993,
-            "stars_today": 53993,
+            "stars": 53994,
+            "stars_today": 53994,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-25T02:00:46Z",
+    "updated": "2026-06-25T06:37:18Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-25T02:00:46Z",
+    "updated": "2026-06-25T06:37:18Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-25T02:00:46Z",
+    "updated": "2026-06-25T06:37:18Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "OpenAI unveils its first custom chip, built by Broadcom",
-            "insight": "HN 热议：533 分 · 332 评论",
+            "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+            "insight": "HN 热议：292 分 · 511 评论",
             "sentiment": "positive",
-            "comments": 332,
-            "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+            "comments": 511,
+            "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "RubyLLM: A Ruby framework for all major AI providers",
-            "insight": "HN 热议：347 分 · 55 评论",
+            "title": "OpenAI unveils its first custom chip, built by Broadcom",
+            "insight": "HN 热议：646 分 · 368 评论",
             "sentiment": "positive",
-            "comments": 55,
-            "url": "https://rubyllm.com/",
+            "comments": 368,
+            "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Bible as RAG Database",
-            "insight": "HN 热议：6 分 · 4 评论",
+            "title": "Markdy: Like Mermaid Diagrams, but for Motion",
+            "insight": "HN 热议：16 分 · 1 评论",
             "sentiment": "neutral",
-            "comments": 4,
-            "url": "https://www.crosscanon.com/",
+            "comments": 1,
+            "url": "https://markdy.com",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "PR spam today looks like email spam in the early 2000s",
-            "insight": "HN 热议：181 分 · 101 评论",
-            "sentiment": "neutral",
-            "comments": 101,
-            "url": "https://www.greptile.com/blog/prs-on-openclaw",
+            "title": "RubyLLM: A Ruby framework for all major AI providers",
+            "insight": "HN 热议：373 分 · 60 评论",
+            "sentiment": "positive",
+            "comments": 60,
+            "url": "https://rubyllm.com/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Computer use in Gemini 3.5 Flash",
-            "insight": "HN 热议：174 分 · 104 评论",
+            "title": "GLM-5.2 is a step change for open agents",
+            "insight": "HN 热议：192 分 · 107 评论",
             "sentiment": "neutral",
-            "comments": 104,
-            "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
+            "comments": 107,
+            "url": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-25T02:00:46Z",
+    "updated": "2026-06-25T06:37:18Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
