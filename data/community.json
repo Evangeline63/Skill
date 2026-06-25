@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-25T11:30:46Z",
+  "updated": "2026-06-25T13:57:32Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
-      "insight": "HN 热议：466 分 · 809 评论",
+      "insight": "HN 热议：574 分 · 923 评论",
       "sentiment": "positive",
-      "comments": 809,
+      "comments": 923,
       "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "OpenAI unveils its first custom chip, built by Broadcom",
-      "insight": "HN 热议：715 分 · 405 评论",
+      "insight": "HN 热议：750 分 · 428 评论",
       "sentiment": "positive",
-      "comments": 405,
+      "comments": 428,
       "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Markdy: Like Mermaid Diagrams, but for Motion",
-      "insight": "HN 热议：77 分 · 36 评论",
+      "title": "Wikipedia Workers in Britain set global first by seeking union recognition",
+      "insight": "HN 热议：138 分 · 144 评论",
       "sentiment": "neutral",
-      "comments": 36,
-      "url": "https://markdy.com",
+      "comments": 144,
+      "url": "https://utaw.tech/news/wikipedia-recognition",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Wikipedia Workers in Britain set global first by seeking union recognition",
-      "insight": "HN 热议：97 分 · 105 评论",
-      "sentiment": "neutral",
-      "comments": 105,
-      "url": "https://utaw.tech/news/wikipedia-recognition",
+      "title": "GLM-5.2 is a step change for open agents",
+      "insight": "HN 热议：290 分 · 176 评论",
+      "sentiment": "positive",
+      "comments": 176,
+      "url": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "GLM-5.2 is a step change for open agents",
-      "insight": "HN 热议：249 分 · 146 评论",
+      "title": "RubyLLM: A Ruby framework for all major AI providers",
+      "insight": "HN 热议：413 分 · 70 评论",
       "sentiment": "positive",
-      "comments": 146,
-      "url": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
+      "comments": 70,
+      "url": "https://rubyllm.com/",
       "id": 5
     }
   ]

@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-25T11:30:46Z",
+    "updated": "2026-06-25T13:57:32Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-25T11:30:46Z",
+    "updated": "2026-06-25T13:57:32Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-25T06:37:18Z",
+    "updated": "2026-06-25T13:57:32Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185154,
-            "stars_today": 185154,
+            "stars": 185155,
+            "stars_today": 185155,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 164305,
-            "stars_today": 164305,
+            "stars": 164339,
+            "stars_today": 164339,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 94159,
-            "stars_today": 94159,
+            "stars": 94162,
+            "stars_today": 94162,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 84183,
-            "stars_today": 84183,
+            "stars": 84232,
+            "stars_today": 84232,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 78270,
-            "stars_today": 78270,
+            "stars": 78304,
+            "stars_today": 78304,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 53994,
-            "stars_today": 53994,
+            "stars": 54004,
+            "stars_today": 54004,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-25T11:30:46Z",
+    "updated": "2026-06-25T13:57:32Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-25T11:30:46Z",
+    "updated": "2026-06-25T13:57:32Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-25T11:30:46Z",
+    "updated": "2026-06-25T13:57:32Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
-            "insight": "HN 热议：466 分 · 809 评论",
+            "insight": "HN 热议：574 分 · 923 评论",
             "sentiment": "positive",
-            "comments": 809,
+            "comments": 923,
             "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "OpenAI unveils its first custom chip, built by Broadcom",
-            "insight": "HN 热议：715 分 · 405 评论",
+            "insight": "HN 热议：750 分 · 428 评论",
             "sentiment": "positive",
-            "comments": 405,
+            "comments": 428,
             "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Markdy: Like Mermaid Diagrams, but for Motion",
-            "insight": "HN 热议：77 分 · 36 评论",
+            "title": "Wikipedia Workers in Britain set global first by seeking union recognition",
+            "insight": "HN 热议：138 分 · 144 评论",
             "sentiment": "neutral",
-            "comments": 36,
-            "url": "https://markdy.com",
+            "comments": 144,
+            "url": "https://utaw.tech/news/wikipedia-recognition",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Wikipedia Workers in Britain set global first by seeking union recognition",
-            "insight": "HN 热议：97 分 · 105 评论",
-            "sentiment": "neutral",
-            "comments": 105,
-            "url": "https://utaw.tech/news/wikipedia-recognition",
+            "title": "GLM-5.2 is a step change for open agents",
+            "insight": "HN 热议：290 分 · 176 评论",
+            "sentiment": "positive",
+            "comments": 176,
+            "url": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "GLM-5.2 is a step change for open agents",
-            "insight": "HN 热议：249 分 · 146 评论",
+            "title": "RubyLLM: A Ruby framework for all major AI providers",
+            "insight": "HN 热议：413 分 · 70 评论",
             "sentiment": "positive",
-            "comments": 146,
-            "url": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
+            "comments": 70,
+            "url": "https://rubyllm.com/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-25T11:30:46Z",
+    "updated": "2026-06-25T13:57:32Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
