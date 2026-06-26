@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-26T13:55:30Z",
+  "updated": "2026-06-26T16:53:55Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "What happened after 2k people tried to hack my AI assistant",
-      "insight": "HN 热议：245 分 · 95 评论",
-      "sentiment": "positive",
-      "comments": 95,
-      "url": "https://www.fernandoi.cl/posts/hackmyclaw/",
+      "title": "Ultrasound imaging of the brain",
+      "insight": "HN 热议：100 分 · 26 评论",
+      "sentiment": "neutral",
+      "comments": 26,
+      "url": "https://alephneuro.com/blog/ultrasound-brain",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
-      "insight": "HN 热议：307 分 · 152 评论",
-      "sentiment": "positive",
-      "comments": 152,
-      "url": "https://github.com/inkeep/open-knowledge",
+      "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
+      "insight": "HN 热议：3 分 · 0 评论",
+      "sentiment": "neutral",
+      "comments": 0,
+      "url": "https://github.com/workweave/router",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Apple raises prices of MacBooks, iPads",
-      "insight": "HN 热议：768 分 · 1121 评论",
+      "title": "What happened after 2k people tried to hack my AI assistant",
+      "insight": "HN 热议：297 分 · 127 评论",
       "sentiment": "positive",
-      "comments": 1121,
-      "url": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
+      "comments": 127,
+      "url": "https://www.fernandoi.cl/posts/hackmyclaw/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Doing a masters while working in Spain",
-      "insight": "HN 热议：72 分 · 49 评论",
-      "sentiment": "neutral",
-      "comments": 49,
-      "url": "https://jan-herlyn.com/blog/doing-a-masters-while-working/",
+      "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
+      "insight": "HN 热议：338 分 · 158 评论",
+      "sentiment": "positive",
+      "comments": 158,
+      "url": "https://github.com/inkeep/open-knowledge",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Political bias in AI: Where the AI models stand",
-      "insight": "HN 热议：154 分 · 278 评论",
+      "title": "OpenAI leans toward waiting until next year for IPO",
+      "insight": "HN 热议：129 分 · 104 评论",
       "sentiment": "neutral",
-      "comments": 278,
-      "url": "https://trakkr.ai/bias",
+      "comments": 104,
+      "url": "https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html",
       "id": 5
     }
   ]
