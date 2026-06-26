@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-25T22:14:03Z",
+    "updated": "2026-06-26T02:02:26Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-25T22:14:03Z",
+    "updated": "2026-06-26T02:02:26Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-25T22:14:03Z",
+    "updated": "2026-06-26T02:02:26Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185153,
-            "stars_today": 185153,
+            "stars": 185156,
+            "stars_today": 185156,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 164349,
-            "stars_today": 164349,
+            "stars": 164352,
+            "stars_today": 164352,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 94172,
-            "stars_today": 94172,
+            "stars": 94174,
+            "stars_today": 94174,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 84289,
-            "stars_today": 84289,
+            "stars": 84303,
+            "stars_today": 84303,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 78330,
-            "stars_today": 78330,
+            "stars": 78349,
+            "stars_today": 78349,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -325,7 +325,7 @@ window.__DATA__ = {
     ]
 },
   "products": {
-    "updated": "2026-06-25T22:14:03Z",
+    "updated": "2026-06-26T02:02:26Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-25T22:14:03Z",
+    "updated": "2026-06-26T02:02:26Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-25T22:14:03Z",
+    "updated": "2026-06-26T02:02:26Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
-            "insight": "HN 热议：136 分 · 64 评论",
+            "title": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line",
+            "insight": "HN 热议：43 分 · 28 评论",
             "sentiment": "neutral",
-            "comments": 64,
-            "url": "https://github.com/inkeep/open-knowledge",
+            "comments": 28,
+            "url": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Apple raises prices of MacBooks, iPads",
-            "insight": "HN 热议：543 分 · 795 评论",
+            "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
+            "insight": "HN 热议：208 分 · 99 评论",
             "sentiment": "positive",
-            "comments": 795,
-            "url": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
+            "comments": 99,
+            "url": "https://github.com/inkeep/open-knowledge",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "The annotated PyTorch training loop",
-            "insight": "HN 热议：44 分 · 9 评论",
+            "title": "AI children's books, body horror edition",
+            "insight": "HN 热议：7 分 · 0 评论",
             "sentiment": "neutral",
-            "comments": 9,
-            "url": "https://idlemachines.co.uk/essays/pytorch-training-loop",
+            "comments": 0,
+            "url": "https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Advanced Nintendo Entertainment System (ANES) – NES Modded to Use 2 PPUs",
-            "insight": "HN 热议：77 分 · 23 评论",
-            "sentiment": "neutral",
-            "comments": 23,
-            "url": "https://github.com/decrazyo/anes",
+            "title": "Apple raises prices of MacBooks, iPads",
+            "insight": "HN 热议：628 分 · 903 评论",
+            "sentiment": "positive",
+            "comments": 903,
+            "url": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Political bias in AI: Where the AI models stand",
-            "insight": "HN 热议：86 分 · 182 评论",
+            "title": "The annotated PyTorch training loop",
+            "insight": "HN 热议：63 分 · 11 评论",
             "sentiment": "neutral",
-            "comments": 182,
-            "url": "https://trakkr.ai/bias",
+            "comments": 11,
+            "url": "https://idlemachines.co.uk/essays/pytorch-training-loop",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-25T22:14:03Z",
+    "updated": "2026-06-26T02:02:26Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
