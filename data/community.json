@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-26T16:53:55Z",
+  "updated": "2026-06-26T19:25:14Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Ultrasound imaging of the brain",
-      "insight": "HN 热议：100 分 · 26 评论",
-      "sentiment": "neutral",
-      "comments": 26,
-      "url": "https://alephneuro.com/blog/ultrasound-brain",
+      "title": "Previewing GPT‑5.6 Sol: a next-generation model",
+      "insight": "HN 热议：408 分 · 252 评论",
+      "sentiment": "positive",
+      "comments": 252,
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
-      "insight": "HN 热议：3 分 · 0 评论",
+      "insight": "HN 热议：75 分 · 54 评论",
       "sentiment": "neutral",
-      "comments": 0,
+      "comments": 54,
       "url": "https://github.com/workweave/router",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "What happened after 2k people tried to hack my AI assistant",
-      "insight": "HN 热议：297 分 · 127 评论",
-      "sentiment": "positive",
-      "comments": 127,
-      "url": "https://www.fernandoi.cl/posts/hackmyclaw/",
+      "title": "U.S. government will decide who gets to use GPT-5.6",
+      "insight": "HN 热议：138 分 · 385 评论",
+      "sentiment": "neutral",
+      "comments": 385,
+      "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
-      "insight": "HN 热议：338 分 · 158 评论",
-      "sentiment": "positive",
-      "comments": 158,
-      "url": "https://github.com/inkeep/open-knowledge",
+      "title": "Ultrasound imaging of the brain",
+      "insight": "HN 热议：160 分 · 56 评论",
+      "sentiment": "neutral",
+      "comments": 56,
+      "url": "https://alephneuro.com/blog/ultrasound-brain",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "OpenAI leans toward waiting until next year for IPO",
-      "insight": "HN 热议：129 分 · 104 评论",
-      "sentiment": "neutral",
-      "comments": 104,
-      "url": "https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html",
+      "title": "What happened after 2k people tried to hack my AI assistant",
+      "insight": "HN 热议：325 分 · 150 评论",
+      "sentiment": "positive",
+      "comments": 150,
+      "url": "https://www.fernandoi.cl/posts/hackmyclaw/",
       "id": 5
     }
   ]

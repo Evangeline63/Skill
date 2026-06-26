@@ -1,13 +1,13 @@
 {
-  "updated": "2026-06-26T16:53:55Z",
+  "updated": "2026-06-26T19:25:14Z",
   "repos": [
     {
       "rank": 1,
       "name": "Significant-Gravitas/AutoGPT",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
       "language": "Python",
-      "stars": 185158,
-      "stars_today": 185158,
+      "stars": 185159,
+      "stars_today": 185159,
       "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
@@ -15,8 +15,8 @@
       "name": "f/prompts.chat",
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
       "language": "HTML",
-      "stars": 164386,
-      "stars_today": 164386,
+      "stars": 164387,
+      "stars_today": 164387,
       "url": "https://github.com/f/prompts.chat"
     },
     {
@@ -24,8 +24,8 @@
       "name": "hacksider/Deep-Live-Cam",
       "description": "real time face swap and one-click video deepfake with only a single image",
       "language": "Python",
-      "stars": 94190,
-      "stars_today": 94190,
+      "stars": 94192,
+      "stars_today": 94192,
       "url": "https://github.com/hacksider/Deep-Live-Cam"
     },
     {
@@ -33,8 +33,8 @@
       "name": "thedotmack/claude-mem",
       "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
       "language": "JavaScript",
-      "stars": 84446,
-      "stars_today": 84446,
+      "stars": 84467,
+      "stars_today": 84467,
       "url": "https://github.com/thedotmack/claude-mem"
     },
     {
@@ -42,8 +42,8 @@
       "name": "OpenHands/OpenHands",
       "description": "🙌 OpenHands: AI-Driven Development",
       "language": "Python",
-      "stars": 78423,
-      "stars_today": 78423,
+      "stars": 78429,
+      "stars_today": 78429,
       "url": "https://github.com/OpenHands/OpenHands"
     },
     {
