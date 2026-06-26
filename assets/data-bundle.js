@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-26T19:25:14Z",
+    "updated": "2026-06-26T21:59:31Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-26T19:25:14Z",
+    "updated": "2026-06-26T21:59:31Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-26T19:25:14Z",
+    "updated": "2026-06-26T21:59:31Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185159,
-            "stars_today": 185159,
+            "stars": 185160,
+            "stars_today": 185160,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 164387,
-            "stars_today": 164387,
+            "stars": 164392,
+            "stars_today": 164392,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 94192,
-            "stars_today": 94192,
+            "stars": 94194,
+            "stars_today": 94194,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 84467,
-            "stars_today": 84467,
+            "stars": 84484,
+            "stars_today": 84484,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 78429,
-            "stars_today": 78429,
+            "stars": 78432,
+            "stars_today": 78432,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54035,
-            "stars_today": 54035,
+            "stars": 54036,
+            "stars_today": 54036,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-26T19:25:14Z",
+    "updated": "2026-06-26T21:59:31Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-26T19:25:14Z",
+    "updated": "2026-06-26T21:59:31Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-26T19:25:14Z",
+    "updated": "2026-06-26T21:59:31Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Previewing GPT‑5.6 Sol: a next-generation model",
-            "insight": "HN 热议：408 分 · 252 评论",
+            "insight": "HN 热议：663 分 · 406 评论",
             "sentiment": "positive",
-            "comments": 252,
+            "comments": 406,
             "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
-            "insight": "HN 热议：75 分 · 54 评论",
+            "title": "The gap between open weights LLMs and closed source LLMs",
+            "insight": "HN 热议：22 分 · 9 评论",
             "sentiment": "neutral",
-            "comments": 54,
-            "url": "https://github.com/workweave/router",
+            "comments": 9,
+            "url": "https://blog.doubleword.ai/frontier-os-llm",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "U.S. government will decide who gets to use GPT-5.6",
-            "insight": "HN 热议：138 分 · 385 评论",
-            "sentiment": "neutral",
-            "comments": 385,
+            "insight": "HN 热议：576 分 · 724 评论",
+            "sentiment": "positive",
+            "comments": 724,
             "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Ultrasound imaging of the brain",
-            "insight": "HN 热议：160 分 · 56 评论",
+            "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
+            "insight": "HN 热议：112 分 · 79 评论",
             "sentiment": "neutral",
-            "comments": 56,
-            "url": "https://alephneuro.com/blog/ultrasound-brain",
+            "comments": 79,
+            "url": "https://github.com/workweave/router",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "What happened after 2k people tried to hack my AI assistant",
-            "insight": "HN 热议：325 分 · 150 评论",
+            "title": "Ultrasound imaging of the brain",
+            "insight": "HN 热议：206 分 · 76 评论",
             "sentiment": "positive",
-            "comments": 150,
-            "url": "https://www.fernandoi.cl/posts/hackmyclaw/",
+            "comments": 76,
+            "url": "https://alephneuro.com/blog/ultrasound-brain",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-26T19:25:14Z",
+    "updated": "2026-06-26T21:59:31Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
