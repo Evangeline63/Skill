@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T11:36:32Z",
+  "updated": "2026-06-26T13:55:30Z",
   "repos": [
     {
       "rank": 1,
@@ -15,8 +15,8 @@
       "name": "f/prompts.chat",
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
       "language": "HTML",
-      "stars": 164377,
-      "stars_today": 164377,
+      "stars": 164379,
+      "stars_today": 164379,
       "url": "https://github.com/f/prompts.chat"
     },
     {
@@ -24,8 +24,8 @@
       "name": "hacksider/Deep-Live-Cam",
       "description": "real time face swap and one-click video deepfake with only a single image",
       "language": "Python",
-      "stars": 94180,
-      "stars_today": 94180,
+      "stars": 94185,
+      "stars_today": 94185,
       "url": "https://github.com/hacksider/Deep-Live-Cam"
     },
     {
@@ -33,8 +33,8 @@
       "name": "thedotmack/claude-mem",
       "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
       "language": "JavaScript",
-      "stars": 84387,
-      "stars_today": 84387,
+      "stars": 84408,
+      "stars_today": 84408,
       "url": "https://github.com/thedotmack/claude-mem"
     },
     {
@@ -42,8 +42,8 @@
       "name": "OpenHands/OpenHands",
       "description": "🙌 OpenHands: AI-Driven Development",
       "language": "Python",
-      "stars": 78401,
-      "stars_today": 78401,
+      "stars": 78409,
+      "stars_today": 78409,
       "url": "https://github.com/OpenHands/OpenHands"
     },
     {
@@ -51,8 +51,8 @@
       "name": "FlowiseAI/Flowise",
       "description": "Build AI Agents, Visually",
       "language": "TypeScript",
-      "stars": 54025,
-      "stars_today": 54025,
+      "stars": 54032,
+      "stars_today": 54032,
       "url": "https://github.com/FlowiseAI/Flowise"
     }
   ]

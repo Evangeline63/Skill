@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-26T11:36:32Z",
+    "updated": "2026-06-26T13:55:30Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-26T11:36:32Z",
+    "updated": "2026-06-26T13:55:30Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,7 +266,7 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-26T11:36:32Z",
+    "updated": "2026-06-26T13:55:30Z",
     "repos": [
         {
             "rank": 1,
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 164377,
-            "stars_today": 164377,
+            "stars": 164379,
+            "stars_today": 164379,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 94180,
-            "stars_today": 94180,
+            "stars": 94185,
+            "stars_today": 94185,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 84387,
-            "stars_today": 84387,
+            "stars": 84408,
+            "stars_today": 84408,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 78401,
-            "stars_today": 78401,
+            "stars": 78409,
+            "stars_today": 78409,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54025,
-            "stars_today": 54025,
+            "stars": 54032,
+            "stars_today": 54032,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-26T11:36:32Z",
+    "updated": "2026-06-26T13:55:30Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-26T11:36:32Z",
+    "updated": "2026-06-26T13:55:30Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-26T11:36:32Z",
+    "updated": "2026-06-26T13:55:30Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "What happened after 2k people tried to hack my AI assistant",
-            "insight": "HN 热议：193 分 · 72 评论",
-            "sentiment": "neutral",
-            "comments": 72,
+            "insight": "HN 热议：245 分 · 95 评论",
+            "sentiment": "positive",
+            "comments": 95,
             "url": "https://www.fernandoi.cl/posts/hackmyclaw/",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
-            "insight": "HN 热议：289 分 · 142 评论",
+            "insight": "HN 热议：307 分 · 152 评论",
             "sentiment": "positive",
-            "comments": 142,
+            "comments": 152,
             "url": "https://github.com/inkeep/open-knowledge",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "Apple raises prices of MacBooks, iPads",
-            "insight": "HN 热议：741 分 · 1065 评论",
+            "insight": "HN 热议：768 分 · 1121 评论",
             "sentiment": "positive",
-            "comments": 1065,
+            "comments": 1121,
             "url": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line",
-            "insight": "HN 热议：280 分 · 280 评论",
-            "sentiment": "positive",
-            "comments": 280,
-            "url": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true",
+            "title": "Doing a masters while working in Spain",
+            "insight": "HN 热议：72 分 · 49 评论",
+            "sentiment": "neutral",
+            "comments": 49,
+            "url": "https://jan-herlyn.com/blog/doing-a-masters-while-working/",
             "id": 4
         },
         {
             "source": "HackerNews",
             "title": "Political bias in AI: Where the AI models stand",
-            "insight": "HN 热议：147 分 · 261 评论",
+            "insight": "HN 热议：154 分 · 278 评论",
             "sentiment": "neutral",
-            "comments": 261,
+            "comments": 278,
             "url": "https://trakkr.ai/bias",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-26T11:36:32Z",
+    "updated": "2026-06-26T13:55:30Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

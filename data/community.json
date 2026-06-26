@@ -1,48 +1,48 @@
 {
-  "updated": "2026-06-26T11:36:32Z",
+  "updated": "2026-06-26T13:55:30Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "What happened after 2k people tried to hack my AI assistant",
-      "insight": "HN 热议：193 分 · 72 评论",
-      "sentiment": "neutral",
-      "comments": 72,
+      "insight": "HN 热议：245 分 · 95 评论",
+      "sentiment": "positive",
+      "comments": 95,
       "url": "https://www.fernandoi.cl/posts/hackmyclaw/",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
-      "insight": "HN 热议：289 分 · 142 评论",
+      "insight": "HN 热议：307 分 · 152 评论",
       "sentiment": "positive",
-      "comments": 142,
+      "comments": 152,
       "url": "https://github.com/inkeep/open-knowledge",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "Apple raises prices of MacBooks, iPads",
-      "insight": "HN 热议：741 分 · 1065 评论",
+      "insight": "HN 热议：768 分 · 1121 评论",
       "sentiment": "positive",
-      "comments": 1065,
+      "comments": 1121,
       "url": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line",
-      "insight": "HN 热议：280 分 · 280 评论",
-      "sentiment": "positive",
-      "comments": 280,
-      "url": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true",
+      "title": "Doing a masters while working in Spain",
+      "insight": "HN 热议：72 分 · 49 评论",
+      "sentiment": "neutral",
+      "comments": 49,
+      "url": "https://jan-herlyn.com/blog/doing-a-masters-while-working/",
       "id": 4
     },
     {
       "source": "HackerNews",
       "title": "Political bias in AI: Where the AI models stand",
-      "insight": "HN 热议：147 分 · 261 评论",
+      "insight": "HN 热议：154 分 · 278 评论",
       "sentiment": "neutral",
-      "comments": 261,
+      "comments": 278,
       "url": "https://trakkr.ai/bias",
       "id": 5
     }
