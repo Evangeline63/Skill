@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-26T06:40:49Z",
+  "updated": "2026-06-26T11:36:32Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "What happened after 2k people tried to hack my AI assistant",
-      "insight": "HN 热议：84 分 · 31 评论",
+      "insight": "HN 热议：193 分 · 72 评论",
       "sentiment": "neutral",
-      "comments": 31,
+      "comments": 72,
       "url": "https://www.fernandoi.cl/posts/hackmyclaw/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line",
-      "insight": "HN 热议：206 分 · 163 评论",
+      "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
+      "insight": "HN 热议：289 分 · 142 评论",
       "sentiment": "positive",
-      "comments": 163,
-      "url": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true",
+      "comments": 142,
+      "url": "https://github.com/inkeep/open-knowledge",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Doing a masters while working in Spain",
-      "insight": "HN 热议：28 分 · 5 评论",
-      "sentiment": "neutral",
-      "comments": 5,
-      "url": "https://jan-herlyn.com/blog/doing-a-masters-while-working/",
+      "title": "Apple raises prices of MacBooks, iPads",
+      "insight": "HN 热议：741 分 · 1065 评论",
+      "sentiment": "positive",
+      "comments": 1065,
+      "url": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
-      "insight": "HN 热议：250 分 · 124 评论",
+      "title": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line",
+      "insight": "HN 热议：280 分 · 280 评论",
       "sentiment": "positive",
-      "comments": 124,
-      "url": "https://github.com/inkeep/open-knowledge",
+      "comments": 280,
+      "url": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Apple raises prices of MacBooks, iPads",
-      "insight": "HN 热议：689 分 · 993 评论",
-      "sentiment": "positive",
-      "comments": 993,
-      "url": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
+      "title": "Political bias in AI: Where the AI models stand",
+      "insight": "HN 热议：147 分 · 261 评论",
+      "sentiment": "neutral",
+      "comments": 261,
+      "url": "https://trakkr.ai/bias",
       "id": 5
     }
   ]
