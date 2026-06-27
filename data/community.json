@@ -1,48 +1,48 @@
 {
-  "updated": "2026-06-27T13:03:23Z",
+  "updated": "2026-06-27T15:57:13Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Previewing GPT‑5.6 Sol: a next-generation model",
-      "insight": "HN 热议：1033 分 · 657 评论",
+      "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+      "insight": "HN 热议：598 分 · 228 评论",
       "sentiment": "positive",
-      "comments": 657,
-      "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+      "comments": 228,
+      "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Task Failed Successfully: Saturating NIC and Disk Bandwidth",
-      "insight": "HN 热议：3 分 · 1 评论",
-      "sentiment": "neutral",
-      "comments": 1,
-      "url": "https://blog.mrcroxx.com/posts/task-failed-successfully-saturating-nic-and-disk-bandwidth/",
+      "title": "Previewing GPT‑5.6 Sol: a next-generation model",
+      "insight": "HN 热议：1065 分 · 679 评论",
+      "sentiment": "positive",
+      "comments": 679,
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
-      "insight": "HN 热议：479 分 · 608 评论",
-      "sentiment": "positive",
-      "comments": 608,
-      "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
+      "title": "Reducing tick density along recreational trails in Ottawa, Canada",
+      "insight": "HN 热议：20 分 · 1 评论",
+      "sentiment": "neutral",
+      "comments": 1,
+      "url": "https://www.sciencedirect.com/science/article/pii/S1877959X26000476",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "AI in mathematics is forcing big questions",
-      "insight": "HN 热议：153 分 · 121 评论",
+      "title": "Task Failed Successfully: Saturating NIC and Disk Bandwidth",
+      "insight": "HN 热议：12 分 · 6 评论",
       "sentiment": "neutral",
-      "comments": 121,
-      "url": "https://spectrum.ieee.org/ai-in-mathematics",
+      "comments": 6,
+      "url": "https://blog.mrcroxx.com/posts/task-failed-successfully-saturating-nic-and-disk-bandwidth/",
       "id": 4
     },
     {
       "source": "HackerNews",
       "title": "Anatomy of a Failed (Nation-State?) Attack",
-      "insight": "HN 热议：86 分 · 12 评论",
+      "insight": "HN 热议：108 分 · 23 评论",
       "sentiment": "neutral",
-      "comments": 12,
+      "comments": 23,
       "url": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/",
       "id": 5
     }

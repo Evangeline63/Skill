@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-27T13:03:23Z",
+    "updated": "2026-06-27T15:57:13Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-27T13:03:23Z",
+    "updated": "2026-06-27T15:57:13Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-27T13:03:23Z",
+    "updated": "2026-06-27T15:57:13Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185174,
-            "stars_today": 185174,
+            "stars": 185179,
+            "stars_today": 185179,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 164424,
-            "stars_today": 164424,
+            "stars": 164427,
+            "stars_today": 164427,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 94263,
-            "stars_today": 94263,
+            "stars": 94274,
+            "stars_today": 94274,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 84644,
-            "stars_today": 84644,
+            "stars": 84678,
+            "stars_today": 84678,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 78476,
-            "stars_today": 78476,
+            "stars": 78492,
+            "stars_today": 78492,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54053,
-            "stars_today": 54053,
+            "stars": 54056,
+            "stars_today": 54056,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-27T13:03:23Z",
+    "updated": "2026-06-27T15:57:13Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-27T13:03:23Z",
+    "updated": "2026-06-27T15:57:13Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-27T13:03:23Z",
+    "updated": "2026-06-27T15:57:13Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Previewing GPT‑5.6 Sol: a next-generation model",
-            "insight": "HN 热议：1033 分 · 657 评论",
+            "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+            "insight": "HN 热议：598 分 · 228 评论",
             "sentiment": "positive",
-            "comments": 657,
-            "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+            "comments": 228,
+            "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Task Failed Successfully: Saturating NIC and Disk Bandwidth",
-            "insight": "HN 热议：3 分 · 1 评论",
-            "sentiment": "neutral",
-            "comments": 1,
-            "url": "https://blog.mrcroxx.com/posts/task-failed-successfully-saturating-nic-and-disk-bandwidth/",
+            "title": "Previewing GPT‑5.6 Sol: a next-generation model",
+            "insight": "HN 热议：1065 分 · 679 评论",
+            "sentiment": "positive",
+            "comments": 679,
+            "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
-            "insight": "HN 热议：479 分 · 608 评论",
-            "sentiment": "positive",
-            "comments": 608,
-            "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
+            "title": "Reducing tick density along recreational trails in Ottawa, Canada",
+            "insight": "HN 热议：20 分 · 1 评论",
+            "sentiment": "neutral",
+            "comments": 1,
+            "url": "https://www.sciencedirect.com/science/article/pii/S1877959X26000476",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "AI in mathematics is forcing big questions",
-            "insight": "HN 热议：153 分 · 121 评论",
+            "title": "Task Failed Successfully: Saturating NIC and Disk Bandwidth",
+            "insight": "HN 热议：12 分 · 6 评论",
             "sentiment": "neutral",
-            "comments": 121,
-            "url": "https://spectrum.ieee.org/ai-in-mathematics",
+            "comments": 6,
+            "url": "https://blog.mrcroxx.com/posts/task-failed-successfully-saturating-nic-and-disk-bandwidth/",
             "id": 4
         },
         {
             "source": "HackerNews",
             "title": "Anatomy of a Failed (Nation-State?) Attack",
-            "insight": "HN 热议：86 分 · 12 评论",
+            "insight": "HN 热议：108 分 · 23 评论",
             "sentiment": "neutral",
-            "comments": 12,
+            "comments": 23,
             "url": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-27T13:03:23Z",
+    "updated": "2026-06-27T15:57:13Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
