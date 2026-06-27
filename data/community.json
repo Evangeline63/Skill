@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-27T15:57:13Z",
+  "updated": "2026-06-27T18:59:30Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
-      "insight": "HN 热议：598 分 · 228 评论",
-      "sentiment": "positive",
-      "comments": 228,
-      "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+      "title": "AI Is Designing Radio Chips That Humans Couldn't Even Imagine",
+      "insight": "HN 热议：61 分 · 24 评论",
+      "sentiment": "neutral",
+      "comments": 24,
+      "url": "https://spectrum.ieee.org/ai-radio-chip-design",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Previewing GPT‑5.6 Sol: a next-generation model",
-      "insight": "HN 热议：1065 分 · 679 评论",
+      "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+      "insight": "HN 热议：668 分 · 261 评论",
       "sentiment": "positive",
-      "comments": 679,
-      "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+      "comments": 261,
+      "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "Reducing tick density along recreational trails in Ottawa, Canada",
-      "insight": "HN 热议：20 分 · 1 评论",
+      "insight": "HN 热议：71 分 · 34 评论",
       "sentiment": "neutral",
-      "comments": 1,
+      "comments": 34,
       "url": "https://www.sciencedirect.com/science/article/pii/S1877959X26000476",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Task Failed Successfully: Saturating NIC and Disk Bandwidth",
-      "insight": "HN 热议：12 分 · 6 评论",
-      "sentiment": "neutral",
-      "comments": 6,
-      "url": "https://blog.mrcroxx.com/posts/task-failed-successfully-saturating-nic-and-disk-bandwidth/",
+      "title": "Previewing GPT‑5.6 Sol: a next-generation model",
+      "insight": "HN 热议：1090 分 · 695 评论",
+      "sentiment": "positive",
+      "comments": 695,
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Anatomy of a Failed (Nation-State?) Attack",
-      "insight": "HN 热议：108 分 · 23 评论",
+      "title": "Task Failed Successfully: Saturating NIC and Disk Bandwidth",
+      "insight": "HN 热议：27 分 · 8 评论",
       "sentiment": "neutral",
-      "comments": 23,
-      "url": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/",
+      "comments": 8,
+      "url": "https://blog.mrcroxx.com/posts/task-failed-successfully-saturating-nic-and-disk-bandwidth/",
       "id": 5
     }
   ]
