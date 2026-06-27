@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-27T06:18:36Z",
+    "updated": "2026-06-27T10:51:22Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-27T06:18:36Z",
+    "updated": "2026-06-27T10:51:22Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-27T06:18:36Z",
+    "updated": "2026-06-27T10:51:22Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185164,
-            "stars_today": 185164,
+            "stars": 185171,
+            "stars_today": 185171,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 164412,
-            "stars_today": 164412,
+            "stars": 164423,
+            "stars_today": 164423,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 94206,
-            "stars_today": 94206,
+            "stars": 94239,
+            "stars_today": 94239,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 84558,
-            "stars_today": 84558,
+            "stars": 84612,
+            "stars_today": 84612,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 78448,
-            "stars_today": 78448,
+            "stars": 78466,
+            "stars_today": 78466,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54045,
-            "stars_today": 54045,
+            "stars": 54050,
+            "stars_today": 54050,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-27T06:18:36Z",
+    "updated": "2026-06-27T10:51:22Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-27T06:18:36Z",
+    "updated": "2026-06-27T10:51:22Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-27T06:18:36Z",
+    "updated": "2026-06-27T10:51:22Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Previewing GPT‑5.6 Sol: a next-generation model",
-            "insight": "HN 热议：930 分 · 569 评论",
+            "insight": "HN 热议：1018 分 · 639 评论",
             "sentiment": "positive",
-            "comments": 569,
+            "comments": 639,
             "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
-            "insight": "HN 热议：347 分 · 345 评论",
+            "insight": "HN 热议：451 分 · 535 评论",
             "sentiment": "positive",
-            "comments": 345,
+            "comments": 535,
             "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Hacker News on a train station-style flip board",
-            "insight": "HN 热议：44 分 · 9 评论",
+            "title": "AI in mathematics is forcing big questions",
+            "insight": "HN 热议：133 分 · 99 评论",
             "sentiment": "neutral",
-            "comments": 9,
-            "url": "https://popflame.quickish.space/hn-flipboard/",
+            "comments": 99,
+            "url": "https://spectrum.ieee.org/ai-in-mathematics",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "AI in mathematics is forcing big questions",
-            "insight": "HN 热议：96 分 · 65 评论",
-            "sentiment": "neutral",
-            "comments": 65,
-            "url": "https://spectrum.ieee.org/ai-in-mathematics",
+            "title": "U.S. government will decide who gets to use GPT-5.6",
+            "insight": "HN 热议：1043 分 · 1101 评论",
+            "sentiment": "positive",
+            "comments": 1101,
+            "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "U.S. government will decide who gets to use GPT-5.6",
-            "insight": "HN 热议：944 分 · 1014 评论",
-            "sentiment": "positive",
-            "comments": 1014,
-            "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
+            "title": "Anatomy of a Failed (Nation-State?) Attack",
+            "insight": "HN 热议：63 分 · 10 评论",
+            "sentiment": "neutral",
+            "comments": 10,
+            "url": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-27T06:18:36Z",
+    "updated": "2026-06-27T10:51:22Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

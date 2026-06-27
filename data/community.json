@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-27T06:18:36Z",
+  "updated": "2026-06-27T10:51:22Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Previewing GPT‑5.6 Sol: a next-generation model",
-      "insight": "HN 热议：930 分 · 569 评论",
+      "insight": "HN 热议：1018 分 · 639 评论",
       "sentiment": "positive",
-      "comments": 569,
+      "comments": 639,
       "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
-      "insight": "HN 热议：347 分 · 345 评论",
+      "insight": "HN 热议：451 分 · 535 评论",
       "sentiment": "positive",
-      "comments": 345,
+      "comments": 535,
       "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Hacker News on a train station-style flip board",
-      "insight": "HN 热议：44 分 · 9 评论",
+      "title": "AI in mathematics is forcing big questions",
+      "insight": "HN 热议：133 分 · 99 评论",
       "sentiment": "neutral",
-      "comments": 9,
-      "url": "https://popflame.quickish.space/hn-flipboard/",
+      "comments": 99,
+      "url": "https://spectrum.ieee.org/ai-in-mathematics",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "AI in mathematics is forcing big questions",
-      "insight": "HN 热议：96 分 · 65 评论",
-      "sentiment": "neutral",
-      "comments": 65,
-      "url": "https://spectrum.ieee.org/ai-in-mathematics",
+      "title": "U.S. government will decide who gets to use GPT-5.6",
+      "insight": "HN 热议：1043 分 · 1101 评论",
+      "sentiment": "positive",
+      "comments": 1101,
+      "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "U.S. government will decide who gets to use GPT-5.6",
-      "insight": "HN 热议：944 分 · 1014 评论",
-      "sentiment": "positive",
-      "comments": 1014,
-      "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
+      "title": "Anatomy of a Failed (Nation-State?) Attack",
+      "insight": "HN 热议：63 分 · 10 评论",
+      "sentiment": "neutral",
+      "comments": 10,
+      "url": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/",
       "id": 5
     }
   ]
