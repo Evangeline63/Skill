@@ -1,48 +1,48 @@
 {
-  "updated": "2026-06-27T10:51:22Z",
+  "updated": "2026-06-27T13:03:23Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Previewing GPT‑5.6 Sol: a next-generation model",
-      "insight": "HN 热议：1018 分 · 639 评论",
+      "insight": "HN 热议：1033 分 · 657 评论",
       "sentiment": "positive",
-      "comments": 639,
+      "comments": 657,
       "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
-      "insight": "HN 热议：451 分 · 535 评论",
-      "sentiment": "positive",
-      "comments": 535,
-      "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
+      "title": "Task Failed Successfully: Saturating NIC and Disk Bandwidth",
+      "insight": "HN 热议：3 分 · 1 评论",
+      "sentiment": "neutral",
+      "comments": 1,
+      "url": "https://blog.mrcroxx.com/posts/task-failed-successfully-saturating-nic-and-disk-bandwidth/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "AI in mathematics is forcing big questions",
-      "insight": "HN 热议：133 分 · 99 评论",
-      "sentiment": "neutral",
-      "comments": 99,
-      "url": "https://spectrum.ieee.org/ai-in-mathematics",
+      "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
+      "insight": "HN 热议：479 分 · 608 评论",
+      "sentiment": "positive",
+      "comments": 608,
+      "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "U.S. government will decide who gets to use GPT-5.6",
-      "insight": "HN 热议：1043 分 · 1101 评论",
-      "sentiment": "positive",
-      "comments": 1101,
-      "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
+      "title": "AI in mathematics is forcing big questions",
+      "insight": "HN 热议：153 分 · 121 评论",
+      "sentiment": "neutral",
+      "comments": 121,
+      "url": "https://spectrum.ieee.org/ai-in-mathematics",
       "id": 4
     },
     {
       "source": "HackerNews",
       "title": "Anatomy of a Failed (Nation-State?) Attack",
-      "insight": "HN 热议：63 分 · 10 评论",
+      "insight": "HN 热议：86 分 · 12 评论",
       "sentiment": "neutral",
-      "comments": 10,
+      "comments": 12,
       "url": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/",
       "id": 5
     }
