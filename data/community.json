@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-27T01:56:12Z",
+  "updated": "2026-06-27T06:18:36Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Previewing GPT‑5.6 Sol: a next-generation model",
-      "insight": "HN 热议：848 分 · 504 评论",
+      "insight": "HN 热议：930 分 · 569 评论",
       "sentiment": "positive",
-      "comments": 504,
+      "comments": 569,
       "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "U.S. government will decide who gets to use GPT-5.6",
-      "insight": "HN 热议：827 分 · 926 评论",
+      "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
+      "insight": "HN 热议：347 分 · 345 评论",
       "sentiment": "positive",
-      "comments": 926,
-      "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
+      "comments": 345,
+      "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "The gap between open weights LLMs and closed source LLMs",
-      "insight": "HN 热议：118 分 · 97 评论",
+      "title": "Show HN: Hacker News on a train station-style flip board",
+      "insight": "HN 热议：44 分 · 9 评论",
       "sentiment": "neutral",
-      "comments": 97,
-      "url": "https://blog.doubleword.ai/frontier-os-llm",
+      "comments": 9,
+      "url": "https://popflame.quickish.space/hn-flipboard/",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "AI in mathematics is forcing big questions",
-      "insight": "HN 热议：40 分 · 17 评论",
+      "insight": "HN 热议：96 分 · 65 评论",
       "sentiment": "neutral",
-      "comments": 17,
+      "comments": 65,
       "url": "https://spectrum.ieee.org/ai-in-mathematics",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "US allows Anthropic to release Mythos to 'trusted partners'",
-      "insight": "HN 热议：206 分 · 165 评论",
+      "title": "U.S. government will decide who gets to use GPT-5.6",
+      "insight": "HN 热议：944 分 · 1014 评论",
       "sentiment": "positive",
-      "comments": 165,
-      "url": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/",
+      "comments": 1014,
+      "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
       "id": 5
     }
   ]
