@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-26T21:59:31Z",
+  "updated": "2026-06-27T01:56:12Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Previewing GPT‑5.6 Sol: a next-generation model",
-      "insight": "HN 热议：663 分 · 406 评论",
+      "insight": "HN 热议：848 分 · 504 评论",
       "sentiment": "positive",
-      "comments": 406,
+      "comments": 504,
       "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "The gap between open weights LLMs and closed source LLMs",
-      "insight": "HN 热议：22 分 · 9 评论",
-      "sentiment": "neutral",
-      "comments": 9,
-      "url": "https://blog.doubleword.ai/frontier-os-llm",
+      "title": "U.S. government will decide who gets to use GPT-5.6",
+      "insight": "HN 热议：827 分 · 926 评论",
+      "sentiment": "positive",
+      "comments": 926,
+      "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "U.S. government will decide who gets to use GPT-5.6",
-      "insight": "HN 热议：576 分 · 724 评论",
-      "sentiment": "positive",
-      "comments": 724,
-      "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
+      "title": "The gap between open weights LLMs and closed source LLMs",
+      "insight": "HN 热议：118 分 · 97 评论",
+      "sentiment": "neutral",
+      "comments": 97,
+      "url": "https://blog.doubleword.ai/frontier-os-llm",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
-      "insight": "HN 热议：112 分 · 79 评论",
+      "title": "AI in mathematics is forcing big questions",
+      "insight": "HN 热议：40 分 · 17 评论",
       "sentiment": "neutral",
-      "comments": 79,
-      "url": "https://github.com/workweave/router",
+      "comments": 17,
+      "url": "https://spectrum.ieee.org/ai-in-mathematics",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Ultrasound imaging of the brain",
-      "insight": "HN 热议：206 分 · 76 评论",
+      "title": "US allows Anthropic to release Mythos to 'trusted partners'",
+      "insight": "HN 热议：206 分 · 165 评论",
       "sentiment": "positive",
-      "comments": 76,
-      "url": "https://alephneuro.com/blog/ultrasound-brain",
+      "comments": 165,
+      "url": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/",
       "id": 5
     }
   ]
