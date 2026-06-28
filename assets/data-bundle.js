@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-28T13:08:39Z",
+    "updated": "2026-06-28T16:01:51Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-28T13:08:39Z",
+    "updated": "2026-06-28T16:01:51Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-28T13:08:39Z",
+    "updated": "2026-06-28T16:01:51Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185192,
-            "stars_today": 185192,
+            "stars": 185194,
+            "stars_today": 185194,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 164456,
-            "stars_today": 164456,
+            "stars": 164457,
+            "stars_today": 164457,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 94354,
-            "stars_today": 94354,
+            "stars": 94366,
+            "stars_today": 94366,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 84818,
-            "stars_today": 84818,
+            "stars": 84844,
+            "stars_today": 84844,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 78550,
-            "stars_today": 78550,
+            "stars": 78560,
+            "stars_today": 78560,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54079,
-            "stars_today": 54079,
+            "stars": 54083,
+            "stars_today": 54083,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-28T13:08:39Z",
+    "updated": "2026-06-28T16:01:51Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-28T13:08:39Z",
+    "updated": "2026-06-28T16:01:51Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-28T13:08:39Z",
+    "updated": "2026-06-28T16:01:51Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "A way to exclude sensitive files issue still open for OpenAI Codex",
-            "insight": "HN 热议：12 分 · 8 评论",
+            "insight": "HN 热议：96 分 · 69 评论",
             "sentiment": "neutral",
-            "comments": 8,
+            "comments": 69,
             "url": "https://github.com/openai/codex/issues/2847",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
-            "insight": "HN 热议：84 分 · 37 评论",
+            "title": "The origins of the school system aimed to produce independent, critical thinkers",
+            "insight": "HN 热议：64 分 · 22 评论",
             "sentiment": "neutral",
-            "comments": 37,
-            "url": "https://github.com/itsthelore/wayfinder-router",
+            "comments": 22,
+            "url": "https://www.cbc.ca/radio/ideas/humboldt-education-system-bildung-1.7172093",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "The origins of the school system aimed to produce independent, critical thinkers",
-            "insight": "HN 热议：5 分 · 0 评论",
+            "title": "Google limits Meta's use of its Gemini AI models",
+            "insight": "HN 热议：73 分 · 23 评论",
             "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://www.cbc.ca/radio/ideas/humboldt-education-system-bildung-1.7172093",
+            "comments": 23,
+            "url": "https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "From Hallmark to neon signs: A look at Jim Parkinson's career in letter art",
-            "insight": "HN 热议：13 分 · 0 评论",
+            "title": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
+            "insight": "HN 热议：95 分 · 48 评论",
             "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://typographica.org/on-typography/jim-parkinson-1941-2025/",
+            "comments": 48,
+            "url": "https://github.com/itsthelore/wayfinder-router",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "AI learns the “dark art” of RFIC design",
-            "insight": "HN 热议：247 分 · 160 评论",
-            "sentiment": "positive",
-            "comments": 160,
-            "url": "https://spectrum.ieee.org/ai-radio-chip-design",
+            "title": "Austria Lobbies EU to Host Anthropic After US Access Curbs",
+            "insight": "HN 热议：75 分 · 64 评论",
+            "sentiment": "neutral",
+            "comments": 64,
+            "url": "https://www.bloomberg.com/news/articles/2026-06-28/austria-lobbies-eu-to-host-anthropic-after-us-access-curbs",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-28T13:08:39Z",
+    "updated": "2026-06-28T16:01:51Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
