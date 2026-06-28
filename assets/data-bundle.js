@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-27T21:51:00Z",
+    "updated": "2026-06-28T02:07:01Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-27T21:51:00Z",
+    "updated": "2026-06-28T02:07:01Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-27T21:51:00Z",
+    "updated": "2026-06-28T02:07:01Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185183,
-            "stars_today": 185183,
+            "stars": 185186,
+            "stars_today": 185186,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 164436,
-            "stars_today": 164436,
+            "stars": 164439,
+            "stars_today": 164439,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 94306,
-            "stars_today": 94306,
+            "stars": 94328,
+            "stars_today": 94328,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 84737,
-            "stars_today": 84737,
+            "stars": 84754,
+            "stars_today": 84754,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 78508,
-            "stars_today": 78508,
+            "stars": 78516,
+            "stars_today": 78516,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54062,
-            "stars_today": 54062,
+            "stars": 54064,
+            "stars_today": 54064,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-27T21:51:00Z",
+    "updated": "2026-06-28T02:07:01Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-27T21:51:00Z",
+    "updated": "2026-06-28T02:07:01Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-27T21:51:00Z",
+    "updated": "2026-06-28T02:07:01Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work",
-            "insight": "HN 热议：29 分 · 26 评论",
+            "title": "AI learns the “dark art” of RFIC design",
+            "insight": "HN 热议：191 分 · 124 评论",
             "sentiment": "neutral",
-            "comments": 26,
-            "url": "https://github.com/kageroumado/adrafinil",
+            "comments": 124,
+            "url": "https://spectrum.ieee.org/ai-radio-chip-design",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "AI learns the “dark art” of RFIC design",
-            "insight": "HN 热议：154 分 · 92 评论",
+            "title": "Asian AI startups launch Mythos-like models",
+            "insight": "HN 热议：145 分 · 132 评论",
             "sentiment": "neutral",
-            "comments": 92,
-            "url": "https://spectrum.ieee.org/ai-radio-chip-design",
+            "comments": 132,
+            "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
-            "insight": "HN 热议：700 分 · 288 评论",
-            "sentiment": "positive",
-            "comments": 288,
-            "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+            "title": "Reducing tick density along recreational trails in Ottawa, Canada",
+            "insight": "HN 热议：158 分 · 87 评论",
+            "sentiment": "neutral",
+            "comments": 87,
+            "url": "https://www.sciencedirect.com/science/article/pii/S1877959X26000476",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "'Careless People' author claims Meta surveilled her for 12mos to enforce silence",
-            "insight": "HN 热议：50 分 · 6 评论",
+            "title": "Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work",
+            "insight": "HN 热议：90 分 · 55 评论",
             "sentiment": "neutral",
-            "comments": 6,
-            "url": "https://fortune.com/2026/06/26/meta-wynn-williams-surveillance-gag-order-lawsuit-2026/",
+            "comments": 55,
+            "url": "https://github.com/kageroumado/adrafinil",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Reducing tick density along recreational trails in Ottawa, Canada",
-            "insight": "HN 热议：111 分 · 61 评论",
-            "sentiment": "neutral",
-            "comments": 61,
-            "url": "https://www.sciencedirect.com/science/article/pii/S1877959X26000476",
+            "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+            "insight": "HN 热议：725 分 · 298 评论",
+            "sentiment": "positive",
+            "comments": 298,
+            "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-27T21:51:00Z",
+    "updated": "2026-06-28T02:07:01Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
