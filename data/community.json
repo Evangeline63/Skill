@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-28T06:51:20Z",
+  "updated": "2026-06-28T10:57:02Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
-      "insight": "HN 热议：34 分 · 1 评论",
+      "insight": "HN 热议：71 分 · 22 评论",
       "sentiment": "neutral",
-      "comments": 1,
+      "comments": 22,
       "url": "https://github.com/itsthelore/wayfinder-router",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Ford hired AI and sacked humans. It backfired badly",
-      "insight": "HN 热议：127 分 · 64 评论",
+      "title": "From Hallmark to neon signs: A look at Jim Parkinson's career in letter art",
+      "insight": "HN 热议：5 分 · 0 评论",
       "sentiment": "neutral",
-      "comments": 64,
-      "url": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html",
+      "comments": 0,
+      "url": "https://typographica.org/on-typography/jim-parkinson-1941-2025/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Ancient Tablets Show Markets Worked 4k Years Before Economists Explained Them",
-      "insight": "HN 热议：37 分 · 26 评论",
-      "sentiment": "neutral",
-      "comments": 26,
-      "url": "https://thedailyeconomy.org/article/ancient-clay-tablets-show-markets-worked-4000-years-before-economists-explained-them/",
+      "title": "AI learns the “dark art” of RFIC design",
+      "insight": "HN 热议：236 分 · 153 评论",
+      "sentiment": "positive",
+      "comments": 153,
+      "url": "https://spectrum.ieee.org/ai-radio-chip-design",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "AI learns the “dark art” of RFIC design",
-      "insight": "HN 热议：223 分 · 145 评论",
+      "title": "The best response to AI slop and online noise is from Robin Williams",
+      "insight": "HN 热议：239 分 · 137 评论",
       "sentiment": "positive",
-      "comments": 145,
-      "url": "https://spectrum.ieee.org/ai-radio-chip-design",
+      "comments": 137,
+      "url": "https://jayacunzo.com/blog/your-move-chief",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Asian AI startups launch Mythos-like models",
-      "insight": "HN 热议：210 分 · 160 评论",
+      "title": "Reducing tick density along recreational trails in Ottawa, Canada",
+      "insight": "HN 热议：202 分 · 112 评论",
       "sentiment": "positive",
-      "comments": 160,
-      "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+      "comments": 112,
+      "url": "https://www.sciencedirect.com/science/article/pii/S1877959X26000476",
       "id": 5
     }
   ]
