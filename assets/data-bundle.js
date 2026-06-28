@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-28T02:07:01Z",
+    "updated": "2026-06-28T06:51:20Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-28T02:07:01Z",
+    "updated": "2026-06-28T06:51:20Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -325,7 +325,7 @@ window.__DATA__ = {
     ]
 },
   "products": {
-    "updated": "2026-06-28T02:07:01Z",
+    "updated": "2026-06-28T06:51:20Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-28T02:07:01Z",
+    "updated": "2026-06-28T06:51:20Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-28T02:07:01Z",
+    "updated": "2026-06-28T06:51:20Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "AI learns the “dark art” of RFIC design",
-            "insight": "HN 热议：191 分 · 124 评论",
+            "title": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
+            "insight": "HN 热议：34 分 · 1 评论",
             "sentiment": "neutral",
-            "comments": 124,
-            "url": "https://spectrum.ieee.org/ai-radio-chip-design",
+            "comments": 1,
+            "url": "https://github.com/itsthelore/wayfinder-router",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Asian AI startups launch Mythos-like models",
-            "insight": "HN 热议：145 分 · 132 评论",
+            "title": "Ford hired AI and sacked humans. It backfired badly",
+            "insight": "HN 热议：127 分 · 64 评论",
             "sentiment": "neutral",
-            "comments": 132,
-            "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+            "comments": 64,
+            "url": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Reducing tick density along recreational trails in Ottawa, Canada",
-            "insight": "HN 热议：158 分 · 87 评论",
+            "title": "Ancient Tablets Show Markets Worked 4k Years Before Economists Explained Them",
+            "insight": "HN 热议：37 分 · 26 评论",
             "sentiment": "neutral",
-            "comments": 87,
-            "url": "https://www.sciencedirect.com/science/article/pii/S1877959X26000476",
+            "comments": 26,
+            "url": "https://thedailyeconomy.org/article/ancient-clay-tablets-show-markets-worked-4000-years-before-economists-explained-them/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work",
-            "insight": "HN 热议：90 分 · 55 评论",
-            "sentiment": "neutral",
-            "comments": 55,
-            "url": "https://github.com/kageroumado/adrafinil",
+            "title": "AI learns the “dark art” of RFIC design",
+            "insight": "HN 热议：223 分 · 145 评论",
+            "sentiment": "positive",
+            "comments": 145,
+            "url": "https://spectrum.ieee.org/ai-radio-chip-design",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
-            "insight": "HN 热议：725 分 · 298 评论",
+            "title": "Asian AI startups launch Mythos-like models",
+            "insight": "HN 热议：210 分 · 160 评论",
             "sentiment": "positive",
-            "comments": 298,
-            "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+            "comments": 160,
+            "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-28T02:07:01Z",
+    "updated": "2026-06-28T06:51:20Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
