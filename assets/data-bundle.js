@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-28T18:58:37Z",
+    "updated": "2026-06-28T21:51:22Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-28T18:58:37Z",
+    "updated": "2026-06-28T21:51:22Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-28T18:58:37Z",
+    "updated": "2026-06-28T21:51:22Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185195,
-            "stars_today": 185195,
+            "stars": 185198,
+            "stars_today": 185198,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 164461,
-            "stars_today": 164461,
+            "stars": 164468,
+            "stars_today": 164468,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 94377,
-            "stars_today": 94377,
+            "stars": 94384,
+            "stars_today": 94384,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 84865,
-            "stars_today": 84865,
+            "stars": 84883,
+            "stars_today": 84883,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 78572,
-            "stars_today": 78572,
+            "stars": 78581,
+            "stars_today": 78581,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54085,
-            "stars_today": 54085,
+            "stars": 54088,
+            "stars_today": 54088,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-28T18:58:37Z",
+    "updated": "2026-06-28T21:51:22Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-28T18:58:37Z",
+    "updated": "2026-06-28T21:51:22Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-28T18:58:37Z",
+    "updated": "2026-06-28T21:51:22Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "I used Claude Code to get a second opinion on my MRI",
-            "insight": "HN 热议：125 分 · 192 评论",
+            "title": "GLM 5.2 beats Claude in our benchmarks",
+            "insight": "HN 热议：163 分 · 48 评论",
             "sentiment": "neutral",
-            "comments": 192,
-            "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+            "comments": 48,
+            "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Working around dragons with the Lemote Yeeloong laptop and OpenBSD",
-            "insight": "HN 热议：45 分 · 6 评论",
-            "sentiment": "neutral",
-            "comments": 6,
-            "url": "http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html",
+            "title": "I used Claude Code to get a second opinion on my MRI",
+            "insight": "HN 热议：252 分 · 361 评论",
+            "sentiment": "positive",
+            "comments": 361,
+            "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Reflections on Software Engineering in the Age of AI",
-            "insight": "HN 热议：61 分 · 18 评论",
+            "title": "Librepods: AirPods liberated",
+            "insight": "HN 热议：172 分 · 54 评论",
             "sentiment": "neutral",
-            "comments": 18,
-            "url": "https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai/",
+            "comments": 54,
+            "url": "https://github.com/librepods-org/librepods",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Daisugi, the Japanese technique of growing trees out of other trees (2020)",
-            "insight": "HN 热议：55 分 · 18 评论",
+            "title": "Working around dragons with the Lemote Yeeloong laptop and OpenBSD",
+            "insight": "HN 热议：76 分 · 13 评论",
             "sentiment": "neutral",
-            "comments": 18,
-            "url": "https://www.openculture.com/2020/10/daisugi.html",
+            "comments": 13,
+            "url": "http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "A way to exclude sensitive files issue still open for OpenAI Codex",
-            "insight": "HN 热议：144 分 · 96 评论",
+            "title": "Show HN: NanoEuler – GPT-2 scale model in pure C/CUDA from scratch",
+            "insight": "HN 热议：22 分 · 3 评论",
             "sentiment": "neutral",
-            "comments": 96,
-            "url": "https://github.com/openai/codex/issues/2847",
+            "comments": 3,
+            "url": "https://github.com/JustVugg/nanoeuler",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-28T18:58:37Z",
+    "updated": "2026-06-28T21:51:22Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

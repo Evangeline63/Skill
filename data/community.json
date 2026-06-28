@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-28T18:58:37Z",
+  "updated": "2026-06-28T21:51:22Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "I used Claude Code to get a second opinion on my MRI",
-      "insight": "HN 热议：125 分 · 192 评论",
+      "title": "GLM 5.2 beats Claude in our benchmarks",
+      "insight": "HN 热议：163 分 · 48 评论",
       "sentiment": "neutral",
-      "comments": 192,
-      "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+      "comments": 48,
+      "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Working around dragons with the Lemote Yeeloong laptop and OpenBSD",
-      "insight": "HN 热议：45 分 · 6 评论",
-      "sentiment": "neutral",
-      "comments": 6,
-      "url": "http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html",
+      "title": "I used Claude Code to get a second opinion on my MRI",
+      "insight": "HN 热议：252 分 · 361 评论",
+      "sentiment": "positive",
+      "comments": 361,
+      "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Reflections on Software Engineering in the Age of AI",
-      "insight": "HN 热议：61 分 · 18 评论",
+      "title": "Librepods: AirPods liberated",
+      "insight": "HN 热议：172 分 · 54 评论",
       "sentiment": "neutral",
-      "comments": 18,
-      "url": "https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai/",
+      "comments": 54,
+      "url": "https://github.com/librepods-org/librepods",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Daisugi, the Japanese technique of growing trees out of other trees (2020)",
-      "insight": "HN 热议：55 分 · 18 评论",
+      "title": "Working around dragons with the Lemote Yeeloong laptop and OpenBSD",
+      "insight": "HN 热议：76 分 · 13 评论",
       "sentiment": "neutral",
-      "comments": 18,
-      "url": "https://www.openculture.com/2020/10/daisugi.html",
+      "comments": 13,
+      "url": "http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "A way to exclude sensitive files issue still open for OpenAI Codex",
-      "insight": "HN 热议：144 分 · 96 评论",
+      "title": "Show HN: NanoEuler – GPT-2 scale model in pure C/CUDA from scratch",
+      "insight": "HN 热议：22 分 · 3 评论",
       "sentiment": "neutral",
-      "comments": 96,
-      "url": "https://github.com/openai/codex/issues/2847",
+      "comments": 3,
+      "url": "https://github.com/JustVugg/nanoeuler",
       "id": 5
     }
   ]
