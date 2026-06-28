@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-28T16:01:51Z",
+  "updated": "2026-06-28T18:58:37Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "A way to exclude sensitive files issue still open for OpenAI Codex",
-      "insight": "HN 热议：96 分 · 69 评论",
+      "title": "I used Claude Code to get a second opinion on my MRI",
+      "insight": "HN 热议：125 分 · 192 评论",
       "sentiment": "neutral",
-      "comments": 69,
-      "url": "https://github.com/openai/codex/issues/2847",
+      "comments": 192,
+      "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "The origins of the school system aimed to produce independent, critical thinkers",
-      "insight": "HN 热议：64 分 · 22 评论",
+      "title": "Working around dragons with the Lemote Yeeloong laptop and OpenBSD",
+      "insight": "HN 热议：45 分 · 6 评论",
       "sentiment": "neutral",
-      "comments": 22,
-      "url": "https://www.cbc.ca/radio/ideas/humboldt-education-system-bildung-1.7172093",
+      "comments": 6,
+      "url": "http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Google limits Meta's use of its Gemini AI models",
-      "insight": "HN 热议：73 分 · 23 评论",
+      "title": "Reflections on Software Engineering in the Age of AI",
+      "insight": "HN 热议：61 分 · 18 评论",
       "sentiment": "neutral",
-      "comments": 23,
-      "url": "https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html",
+      "comments": 18,
+      "url": "https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
-      "insight": "HN 热议：95 分 · 48 评论",
+      "title": "Daisugi, the Japanese technique of growing trees out of other trees (2020)",
+      "insight": "HN 热议：55 分 · 18 评论",
       "sentiment": "neutral",
-      "comments": 48,
-      "url": "https://github.com/itsthelore/wayfinder-router",
+      "comments": 18,
+      "url": "https://www.openculture.com/2020/10/daisugi.html",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Austria Lobbies EU to Host Anthropic After US Access Curbs",
-      "insight": "HN 热议：75 分 · 64 评论",
+      "title": "A way to exclude sensitive files issue still open for OpenAI Codex",
+      "insight": "HN 热议：144 分 · 96 评论",
       "sentiment": "neutral",
-      "comments": 64,
-      "url": "https://www.bloomberg.com/news/articles/2026-06-28/austria-lobbies-eu-to-host-anthropic-after-us-access-curbs",
+      "comments": 96,
+      "url": "https://github.com/openai/codex/issues/2847",
       "id": 5
     }
   ]
