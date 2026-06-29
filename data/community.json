@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-29T02:07:24Z",
+  "updated": "2026-06-29T07:19:15Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "GLM 5.2 beats Claude in our benchmarks",
-      "insight": "HN 热议：458 分 · 225 评论",
+      "insight": "HN 热议：740 分 · 351 评论",
       "sentiment": "positive",
-      "comments": 225,
+      "comments": 351,
       "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Sophon PFG-1: a monolithic-3D AI ASIC with 330 GB of on-die DRAM and no HBM",
-      "insight": "HN 热议：18 分 · 12 评论",
-      "sentiment": "neutral",
-      "comments": 12,
-      "url": "https://www.phantafield.com/whitepaper",
+      "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88",
+      "insight": "HN 热议：250 分 · 69 评论",
+      "sentiment": "positive",
+      "comments": 69,
+      "url": "https://danunparsed.com/p/hackerrank-open-source-ats",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Professor denounces mass AI fraud on an exam at Brown",
-      "insight": "HN 热议：273 分 · 365 评论",
-      "sentiment": "positive",
-      "comments": 365,
-      "url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
+      "title": "Herdr: Agent multiplexer that lives in your terminal",
+      "insight": "HN 热议：36 分 · 13 评论",
+      "sentiment": "neutral",
+      "comments": 13,
+      "url": "https://github.com/ogulcancelik/herdr",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "I used Claude Code to get a second opinion on my MRI",
-      "insight": "HN 热议：347 分 · 456 评论",
-      "sentiment": "positive",
-      "comments": 456,
-      "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+      "title": "Lore – Give your coding agent the decisions your team made",
+      "insight": "HN 热议：21 分 · 15 评论",
+      "sentiment": "neutral",
+      "comments": 15,
+      "url": "https://github.com/itsthelore/rac-core",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "AI boom risks global financial crash, warn central bankers",
-      "insight": "HN 热议：14 分 · 2 评论",
-      "sentiment": "neutral",
-      "comments": 2,
-      "url": "https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/",
+      "title": "I used Claude Code to get a second opinion on my MRI",
+      "insight": "HN 热议：408 分 · 533 评论",
+      "sentiment": "positive",
+      "comments": 533,
+      "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
       "id": 5
     }
   ]
