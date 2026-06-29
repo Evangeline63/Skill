@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-29T17:25:45Z",
+  "updated": "2026-06-29T19:29:28Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88",
-      "insight": "HN 热议：838 分 · 364 评论",
-      "sentiment": "positive",
-      "comments": 364,
-      "url": "https://danunparsed.com/p/hackerrank-open-source-ats",
+      "title": "Ornith-1.0: self-improving open-source models for agentic coding",
+      "insight": "HN 热议：38 分 · 5 评论",
+      "sentiment": "neutral",
+      "comments": 5,
+      "url": "https://github.com/deepreinforce-ai/Ornith-1",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Tidal AI Policy",
-      "insight": "HN 热议：216 分 · 240 评论",
+      "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88",
+      "insight": "HN 热议：908 分 · 390 评论",
       "sentiment": "positive",
-      "comments": 240,
-      "url": "https://tidal.com/ai-policy",
+      "comments": 390,
+      "url": "https://danunparsed.com/p/hackerrank-open-source-ats",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "The CEO of Mullvad is the main financer of the Swedish Örebro party",
-      "insight": "HN 热议：182 分 · 512 评论",
-      "sentiment": "neutral",
-      "comments": 512,
-      "url": "https://det.social/@lostgen/116820546568940358",
+      "title": "Tidal AI Policy",
+      "insight": "HN 热议：264 分 · 290 评论",
+      "sentiment": "positive",
+      "comments": 290,
+      "url": "https://tidal.com/ai-policy",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "GLM 5.2 beats Claude in our benchmarks",
-      "insight": "HN 热议：1041 分 · 479 评论",
+      "title": "The CEO of Mullvad is the main financer of the Swedish Örebro party",
+      "insight": "HN 热议：352 分 · 787 评论",
       "sentiment": "positive",
-      "comments": 479,
-      "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+      "comments": 787,
+      "url": "https://det.social/@lostgen/116820546568940358",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Herdr: Agent multiplexer that lives in your terminal",
-      "insight": "HN 热议：122 分 · 80 评论",
-      "sentiment": "neutral",
-      "comments": 80,
-      "url": "https://github.com/ogulcancelik/herdr",
+      "title": "GLM 5.2 beats Claude in our benchmarks",
+      "insight": "HN 热议：1048 分 · 484 评论",
+      "sentiment": "positive",
+      "comments": 484,
+      "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
       "id": 5
     }
   ]
