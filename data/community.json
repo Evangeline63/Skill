@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-28T21:51:22Z",
+  "updated": "2026-06-29T02:07:24Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "GLM 5.2 beats Claude in our benchmarks",
-      "insight": "HN 热议：163 分 · 48 评论",
-      "sentiment": "neutral",
-      "comments": 48,
+      "insight": "HN 热议：458 分 · 225 评论",
+      "sentiment": "positive",
+      "comments": 225,
       "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "I used Claude Code to get a second opinion on my MRI",
-      "insight": "HN 热议：252 分 · 361 评论",
-      "sentiment": "positive",
-      "comments": 361,
-      "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+      "title": "Sophon PFG-1: a monolithic-3D AI ASIC with 330 GB of on-die DRAM and no HBM",
+      "insight": "HN 热议：18 分 · 12 评论",
+      "sentiment": "neutral",
+      "comments": 12,
+      "url": "https://www.phantafield.com/whitepaper",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Librepods: AirPods liberated",
-      "insight": "HN 热议：172 分 · 54 评论",
-      "sentiment": "neutral",
-      "comments": 54,
-      "url": "https://github.com/librepods-org/librepods",
+      "title": "Professor denounces mass AI fraud on an exam at Brown",
+      "insight": "HN 热议：273 分 · 365 评论",
+      "sentiment": "positive",
+      "comments": 365,
+      "url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Working around dragons with the Lemote Yeeloong laptop and OpenBSD",
-      "insight": "HN 热议：76 分 · 13 评论",
-      "sentiment": "neutral",
-      "comments": 13,
-      "url": "http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html",
+      "title": "I used Claude Code to get a second opinion on my MRI",
+      "insight": "HN 热议：347 分 · 456 评论",
+      "sentiment": "positive",
+      "comments": 456,
+      "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: NanoEuler – GPT-2 scale model in pure C/CUDA from scratch",
-      "insight": "HN 热议：22 分 · 3 评论",
+      "title": "AI boom risks global financial crash, warn central bankers",
+      "insight": "HN 热议：14 分 · 2 评论",
       "sentiment": "neutral",
-      "comments": 3,
-      "url": "https://github.com/JustVugg/nanoeuler",
+      "comments": 2,
+      "url": "https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/",
       "id": 5
     }
   ]

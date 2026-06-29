@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-28T21:51:22Z",
+    "updated": "2026-06-29T02:07:24Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-28T21:51:22Z",
+    "updated": "2026-06-29T02:07:24Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-28T21:51:22Z",
+    "updated": "2026-06-29T02:07:24Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185198,
-            "stars_today": 185198,
+            "stars": 185201,
+            "stars_today": 185201,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 164468,
-            "stars_today": 164468,
+            "stars": 164478,
+            "stars_today": 164478,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 94384,
-            "stars_today": 94384,
+            "stars": 94395,
+            "stars_today": 94395,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 84883,
-            "stars_today": 84883,
+            "stars": 84907,
+            "stars_today": 84907,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 78581,
-            "stars_today": 78581,
+            "stars": 78597,
+            "stars_today": 78597,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54088,
-            "stars_today": 54088,
+            "stars": 54091,
+            "stars_today": 54091,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-28T21:51:22Z",
+    "updated": "2026-06-29T02:07:24Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-28T21:51:22Z",
+    "updated": "2026-06-29T02:07:24Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-28T21:51:22Z",
+    "updated": "2026-06-29T02:07:24Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "GLM 5.2 beats Claude in our benchmarks",
-            "insight": "HN 热议：163 分 · 48 评论",
-            "sentiment": "neutral",
-            "comments": 48,
+            "insight": "HN 热议：458 分 · 225 评论",
+            "sentiment": "positive",
+            "comments": 225,
             "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "I used Claude Code to get a second opinion on my MRI",
-            "insight": "HN 热议：252 分 · 361 评论",
-            "sentiment": "positive",
-            "comments": 361,
-            "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+            "title": "Sophon PFG-1: a monolithic-3D AI ASIC with 330 GB of on-die DRAM and no HBM",
+            "insight": "HN 热议：18 分 · 12 评论",
+            "sentiment": "neutral",
+            "comments": 12,
+            "url": "https://www.phantafield.com/whitepaper",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Librepods: AirPods liberated",
-            "insight": "HN 热议：172 分 · 54 评论",
-            "sentiment": "neutral",
-            "comments": 54,
-            "url": "https://github.com/librepods-org/librepods",
+            "title": "Professor denounces mass AI fraud on an exam at Brown",
+            "insight": "HN 热议：273 分 · 365 评论",
+            "sentiment": "positive",
+            "comments": 365,
+            "url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Working around dragons with the Lemote Yeeloong laptop and OpenBSD",
-            "insight": "HN 热议：76 分 · 13 评论",
-            "sentiment": "neutral",
-            "comments": 13,
-            "url": "http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html",
+            "title": "I used Claude Code to get a second opinion on my MRI",
+            "insight": "HN 热议：347 分 · 456 评论",
+            "sentiment": "positive",
+            "comments": 456,
+            "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: NanoEuler – GPT-2 scale model in pure C/CUDA from scratch",
-            "insight": "HN 热议：22 分 · 3 评论",
+            "title": "AI boom risks global financial crash, warn central bankers",
+            "insight": "HN 热议：14 分 · 2 评论",
             "sentiment": "neutral",
-            "comments": 3,
-            "url": "https://github.com/JustVugg/nanoeuler",
+            "comments": 2,
+            "url": "https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-28T21:51:22Z",
+    "updated": "2026-06-29T02:07:24Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
