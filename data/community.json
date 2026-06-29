@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-29T12:54:05Z",
+  "updated": "2026-06-29T17:25:45Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88",
-      "insight": "HN 热议：622 分 · 261 评论",
+      "insight": "HN 热议：838 分 · 364 评论",
       "sentiment": "positive",
-      "comments": 261,
+      "comments": 364,
       "url": "https://danunparsed.com/p/hackerrank-open-source-ats",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "GLM 5.2 beats Claude in our benchmarks",
-      "insight": "HN 热议：930 分 · 426 评论",
+      "title": "Tidal AI Policy",
+      "insight": "HN 热议：216 分 · 240 评论",
       "sentiment": "positive",
-      "comments": 426,
-      "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+      "comments": 240,
+      "url": "https://tidal.com/ai-policy",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "I used Claude Code to get a second opinion on my MRI",
-      "insight": "HN 热议：476 分 · 610 评论",
-      "sentiment": "positive",
-      "comments": 610,
-      "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+      "title": "The CEO of Mullvad is the main financer of the Swedish Örebro party",
+      "insight": "HN 热议：182 分 · 512 评论",
+      "sentiment": "neutral",
+      "comments": 512,
+      "url": "https://det.social/@lostgen/116820546568940358",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Herdr: Agent multiplexer that lives in your terminal",
-      "insight": "HN 热议：90 分 · 55 评论",
-      "sentiment": "neutral",
-      "comments": 55,
-      "url": "https://github.com/ogulcancelik/herdr",
+      "title": "GLM 5.2 beats Claude in our benchmarks",
+      "insight": "HN 热议：1041 分 · 479 评论",
+      "sentiment": "positive",
+      "comments": 479,
+      "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Professor denounces mass AI fraud on an exam at Brown",
-      "insight": "HN 热议：447 分 · 592 评论",
-      "sentiment": "positive",
-      "comments": 592,
-      "url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
+      "title": "Herdr: Agent multiplexer that lives in your terminal",
+      "insight": "HN 热议：122 分 · 80 评论",
+      "sentiment": "neutral",
+      "comments": 80,
+      "url": "https://github.com/ogulcancelik/herdr",
       "id": 5
     }
   ]

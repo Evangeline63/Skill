@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-29T12:54:05Z",
+    "updated": "2026-06-29T17:25:45Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-29T12:54:05Z",
+    "updated": "2026-06-29T17:25:45Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-29T12:54:05Z",
+    "updated": "2026-06-29T17:25:45Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185205,
-            "stars_today": 185205,
+            "stars": 185210,
+            "stars_today": 185210,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 164512,
-            "stars_today": 164512,
+            "stars": 164517,
+            "stars_today": 164517,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 94419,
-            "stars_today": 94419,
+            "stars": 94424,
+            "stars_today": 94424,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 85012,
-            "stars_today": 85012,
+            "stars": 85052,
+            "stars_today": 85052,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 78664,
-            "stars_today": 78664,
+            "stars": 78681,
+            "stars_today": 78681,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54106,
-            "stars_today": 54106,
+            "stars": 54111,
+            "stars_today": 54111,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-29T12:54:05Z",
+    "updated": "2026-06-29T17:25:45Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-29T12:54:05Z",
+    "updated": "2026-06-29T17:25:45Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-29T12:54:05Z",
+    "updated": "2026-06-29T17:25:45Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88",
-            "insight": "HN 热议：622 分 · 261 评论",
+            "insight": "HN 热议：838 分 · 364 评论",
             "sentiment": "positive",
-            "comments": 261,
+            "comments": 364,
             "url": "https://danunparsed.com/p/hackerrank-open-source-ats",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "GLM 5.2 beats Claude in our benchmarks",
-            "insight": "HN 热议：930 分 · 426 评论",
+            "title": "Tidal AI Policy",
+            "insight": "HN 热议：216 分 · 240 评论",
             "sentiment": "positive",
-            "comments": 426,
-            "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+            "comments": 240,
+            "url": "https://tidal.com/ai-policy",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "I used Claude Code to get a second opinion on my MRI",
-            "insight": "HN 热议：476 分 · 610 评论",
-            "sentiment": "positive",
-            "comments": 610,
-            "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+            "title": "The CEO of Mullvad is the main financer of the Swedish Örebro party",
+            "insight": "HN 热议：182 分 · 512 评论",
+            "sentiment": "neutral",
+            "comments": 512,
+            "url": "https://det.social/@lostgen/116820546568940358",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Herdr: Agent multiplexer that lives in your terminal",
-            "insight": "HN 热议：90 分 · 55 评论",
-            "sentiment": "neutral",
-            "comments": 55,
-            "url": "https://github.com/ogulcancelik/herdr",
+            "title": "GLM 5.2 beats Claude in our benchmarks",
+            "insight": "HN 热议：1041 分 · 479 评论",
+            "sentiment": "positive",
+            "comments": 479,
+            "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Professor denounces mass AI fraud on an exam at Brown",
-            "insight": "HN 热议：447 分 · 592 评论",
-            "sentiment": "positive",
-            "comments": 592,
-            "url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
+            "title": "Herdr: Agent multiplexer that lives in your terminal",
+            "insight": "HN 热议：122 分 · 80 评论",
+            "sentiment": "neutral",
+            "comments": 80,
+            "url": "https://github.com/ogulcancelik/herdr",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-29T12:54:05Z",
+    "updated": "2026-06-29T17:25:45Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
