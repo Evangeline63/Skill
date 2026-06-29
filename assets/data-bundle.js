@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-29T19:29:28Z",
+    "updated": "2026-06-29T22:01:43Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-29T19:29:28Z",
+    "updated": "2026-06-29T22:01:43Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-29T19:29:28Z",
+    "updated": "2026-06-29T22:01:43Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185213,
-            "stars_today": 185213,
+            "stars": 185215,
+            "stars_today": 185215,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 164518,
-            "stars_today": 164518,
+            "stars": 164519,
+            "stars_today": 164519,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 94426,
-            "stars_today": 94426,
+            "stars": 94424,
+            "stars_today": 94424,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 85061,
-            "stars_today": 85061,
+            "stars": 85069,
+            "stars_today": 85069,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 78691,
-            "stars_today": 78691,
+            "stars": 78702,
+            "stars_today": 78702,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54113,
-            "stars_today": 54113,
+            "stars": 54115,
+            "stars_today": 54115,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-29T19:29:28Z",
+    "updated": "2026-06-29T22:01:43Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-29T19:29:28Z",
+    "updated": "2026-06-29T22:01:43Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-29T19:29:28Z",
+    "updated": "2026-06-29T22:01:43Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Ornith-1.0: self-improving open-source models for agentic coding",
-            "insight": "HN 热议：38 分 · 5 评论",
+            "title": ".self: A new top-level domain designed to support self-hosting",
+            "insight": "HN 热议：114 分 · 84 评论",
             "sentiment": "neutral",
-            "comments": 5,
-            "url": "https://github.com/deepreinforce-ai/Ornith-1",
+            "comments": 84,
+            "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88",
-            "insight": "HN 热议：908 分 · 390 评论",
-            "sentiment": "positive",
-            "comments": 390,
-            "url": "https://danunparsed.com/p/hackerrank-open-source-ats",
+            "title": "Ornith-1.0: self-improving open-source models for agentic coding",
+            "insight": "HN 热议：110 分 · 27 评论",
+            "sentiment": "neutral",
+            "comments": 27,
+            "url": "https://github.com/deepreinforce-ai/Ornith-1",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Tidal AI Policy",
-            "insight": "HN 热议：264 分 · 290 评论",
-            "sentiment": "positive",
-            "comments": 290,
-            "url": "https://tidal.com/ai-policy",
+            "title": "Micro-Agent: Beat Frontier Models with Collaboration Inside Model API",
+            "insight": "HN 热议：36 分 · 11 评论",
+            "sentiment": "neutral",
+            "comments": 11,
+            "url": "https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "The CEO of Mullvad is the main financer of the Swedish Örebro party",
-            "insight": "HN 热议：352 分 · 787 评论",
-            "sentiment": "positive",
-            "comments": 787,
-            "url": "https://det.social/@lostgen/116820546568940358",
+            "title": "Working With AI: A concrete example",
+            "insight": "HN 热议：50 分 · 14 评论",
+            "sentiment": "neutral",
+            "comments": 14,
+            "url": "https://htmx.org/essays/working-with-ai/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "GLM 5.2 beats Claude in our benchmarks",
-            "insight": "HN 热议：1048 分 · 484 评论",
-            "sentiment": "positive",
-            "comments": 484,
-            "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+            "title": "Apple Neural Engine: Architecture, Programming, and Performance",
+            "insight": "HN 热议：67 分 · 5 评论",
+            "sentiment": "neutral",
+            "comments": 5,
+            "url": "https://arxiv.org/abs/2606.22283",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-29T19:29:28Z",
+    "updated": "2026-06-29T22:01:43Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

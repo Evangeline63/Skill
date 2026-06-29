@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-29T19:29:28Z",
+  "updated": "2026-06-29T22:01:43Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Ornith-1.0: self-improving open-source models for agentic coding",
-      "insight": "HN 热议：38 分 · 5 评论",
+      "title": ".self: A new top-level domain designed to support self-hosting",
+      "insight": "HN 热议：114 分 · 84 评论",
       "sentiment": "neutral",
-      "comments": 5,
-      "url": "https://github.com/deepreinforce-ai/Ornith-1",
+      "comments": 84,
+      "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88",
-      "insight": "HN 热议：908 分 · 390 评论",
-      "sentiment": "positive",
-      "comments": 390,
-      "url": "https://danunparsed.com/p/hackerrank-open-source-ats",
+      "title": "Ornith-1.0: self-improving open-source models for agentic coding",
+      "insight": "HN 热议：110 分 · 27 评论",
+      "sentiment": "neutral",
+      "comments": 27,
+      "url": "https://github.com/deepreinforce-ai/Ornith-1",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Tidal AI Policy",
-      "insight": "HN 热议：264 分 · 290 评论",
-      "sentiment": "positive",
-      "comments": 290,
-      "url": "https://tidal.com/ai-policy",
+      "title": "Micro-Agent: Beat Frontier Models with Collaboration Inside Model API",
+      "insight": "HN 热议：36 分 · 11 评论",
+      "sentiment": "neutral",
+      "comments": 11,
+      "url": "https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "The CEO of Mullvad is the main financer of the Swedish Örebro party",
-      "insight": "HN 热议：352 分 · 787 评论",
-      "sentiment": "positive",
-      "comments": 787,
-      "url": "https://det.social/@lostgen/116820546568940358",
+      "title": "Working With AI: A concrete example",
+      "insight": "HN 热议：50 分 · 14 评论",
+      "sentiment": "neutral",
+      "comments": 14,
+      "url": "https://htmx.org/essays/working-with-ai/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "GLM 5.2 beats Claude in our benchmarks",
-      "insight": "HN 热议：1048 分 · 484 评论",
-      "sentiment": "positive",
-      "comments": 484,
-      "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+      "title": "Apple Neural Engine: Architecture, Programming, and Performance",
+      "insight": "HN 热议：67 分 · 5 评论",
+      "sentiment": "neutral",
+      "comments": 5,
+      "url": "https://arxiv.org/abs/2606.22283",
       "id": 5
     }
   ]
