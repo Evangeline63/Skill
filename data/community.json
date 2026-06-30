@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-30T16:59:19Z",
+  "updated": "2026-06-30T19:28:04Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Claude Code Is Steganographically Marking Requests",
-      "insight": "HN 热议：314 分 · 100 评论",
+      "title": "Claude Sonnet 5",
+      "insight": "HN 热议：416 分 · 208 评论",
       "sentiment": "positive",
-      "comments": 100,
-      "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+      "comments": 208,
+      "url": "https://www.anthropic.com/news/claude-sonnet-5",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "EU commissioners shut down air conditioning for employees, leave theirs on",
-      "insight": "HN 热议：75 分 · 39 评论",
-      "sentiment": "neutral",
-      "comments": 39,
-      "url": "https://www.politico.eu/article/eu-commission-heatwave-hq-forced-shut-down-air-conditioning-europe/",
+      "title": "Claude Code is steganographically marking requests",
+      "insight": "HN 热议：808 分 · 234 评论",
+      "sentiment": "positive",
+      "comments": 234,
+      "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": ".self: A new top-level domain designed to support self-hosting",
-      "insight": "HN 热议：614 分 · 350 评论",
-      "sentiment": "positive",
-      "comments": 350,
-      "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
+      "title": "Claude Science",
+      "insight": "HN 热议：164 分 · 65 评论",
+      "sentiment": "neutral",
+      "comments": 65,
+      "url": "https://claude.com/product/claude-science",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Scammers Sell Seeds for Exotic AI-Generated Flowers That Don't Exist",
-      "insight": "HN 热议：34 分 · 12 评论",
+      "title": "Show HN: I made a heatmap of 3400 VCs who are open to cold emails",
+      "insight": "HN 热议：6 分 · 1 评论",
       "sentiment": "neutral",
-      "comments": 12,
-      "url": "https://www.404media.co/scammers-sell-seeds-for-exotic-ai-generated-flowers-that-dont-exist/",
+      "comments": 1,
+      "url": "https://apparent.social/heat-map",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Computer-Aided Language Development in Nonspeaking Children (1968) [pdf]",
-      "insight": "HN 热议：33 分 · 1 评论",
-      "sentiment": "neutral",
-      "comments": 1,
-      "url": "https://archive.org/details/colby1968-computer-aided-language-development-in-non-speaking-children",
+      "title": ".self: A new top-level domain designed to support self-hosting",
+      "insight": "HN 热议：644 分 · 357 评论",
+      "sentiment": "positive",
+      "comments": 357,
+      "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
       "id": 5
     }
   ]
