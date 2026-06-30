@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-30T19:28:04Z",
+    "updated": "2026-06-30T22:06:17Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-30T19:28:04Z",
+    "updated": "2026-06-30T22:06:17Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-30T19:28:04Z",
+    "updated": "2026-06-30T22:06:17Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185218,
-            "stars_today": 185218,
+            "stars": 185217,
+            "stars_today": 185217,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 164567,
-            "stars_today": 164567,
+            "stars": 164568,
+            "stars_today": 164568,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 94455,
-            "stars_today": 94455,
+            "stars": 94465,
+            "stars_today": 94465,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 85202,
-            "stars_today": 85202,
+            "stars": 85221,
+            "stars_today": 85221,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 78831,
-            "stars_today": 78831,
+            "stars": 78846,
+            "stars_today": 78846,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54139,
-            "stars_today": 54139,
+            "stars": 54141,
+            "stars_today": 54141,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-30T19:28:04Z",
+    "updated": "2026-06-30T22:06:17Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-30T19:28:04Z",
+    "updated": "2026-06-30T22:06:17Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-30T19:28:04Z",
+    "updated": "2026-06-30T22:06:17Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Claude Sonnet 5",
-            "insight": "HN 热议：416 分 · 208 评论",
+            "insight": "HN 热议：724 分 · 394 评论",
             "sentiment": "positive",
-            "comments": 208,
+            "comments": 394,
             "url": "https://www.anthropic.com/news/claude-sonnet-5",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "Claude Code is steganographically marking requests",
-            "insight": "HN 热议：808 分 · 234 评论",
+            "insight": "HN 热议：1168 分 · 305 评论",
             "sentiment": "positive",
-            "comments": 234,
+            "comments": 305,
             "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Claude Science",
-            "insight": "HN 热议：164 分 · 65 评论",
+            "title": "Meta's brain-scanning system reads sentences non-invasively, code open source",
+            "insight": "HN 热议：32 分 · 18 评论",
             "sentiment": "neutral",
-            "comments": 65,
-            "url": "https://claude.com/product/claude-science",
+            "comments": 18,
+            "url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: I made a heatmap of 3400 VCs who are open to cold emails",
-            "insight": "HN 热议：6 分 · 1 评论",
-            "sentiment": "neutral",
-            "comments": 1,
-            "url": "https://apparent.social/heat-map",
+            "title": "Claude Science",
+            "insight": "HN 热议：291 分 · 100 评论",
+            "sentiment": "positive",
+            "comments": 100,
+            "url": "https://claude.com/product/claude-science",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": ".self: A new top-level domain designed to support self-hosting",
-            "insight": "HN 热议：644 分 · 357 评论",
-            "sentiment": "positive",
-            "comments": 357,
-            "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
+            "title": "Claude Sonnet 5 – benchmark results",
+            "insight": "HN 热议：34 分 · 15 评论",
+            "sentiment": "neutral",
+            "comments": 15,
+            "url": "https://artificialanalysis.ai/models/claude-sonnet-5",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-30T19:28:04Z",
+    "updated": "2026-06-30T22:06:17Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

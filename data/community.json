@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-30T19:28:04Z",
+  "updated": "2026-06-30T22:06:17Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Claude Sonnet 5",
-      "insight": "HN 热议：416 分 · 208 评论",
+      "insight": "HN 热议：724 分 · 394 评论",
       "sentiment": "positive",
-      "comments": 208,
+      "comments": 394,
       "url": "https://www.anthropic.com/news/claude-sonnet-5",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "Claude Code is steganographically marking requests",
-      "insight": "HN 热议：808 分 · 234 评论",
+      "insight": "HN 热议：1168 分 · 305 评论",
       "sentiment": "positive",
-      "comments": 234,
+      "comments": 305,
       "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Claude Science",
-      "insight": "HN 热议：164 分 · 65 评论",
+      "title": "Meta's brain-scanning system reads sentences non-invasively, code open source",
+      "insight": "HN 热议：32 分 · 18 评论",
       "sentiment": "neutral",
-      "comments": 65,
-      "url": "https://claude.com/product/claude-science",
+      "comments": 18,
+      "url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: I made a heatmap of 3400 VCs who are open to cold emails",
-      "insight": "HN 热议：6 分 · 1 评论",
-      "sentiment": "neutral",
-      "comments": 1,
-      "url": "https://apparent.social/heat-map",
+      "title": "Claude Science",
+      "insight": "HN 热议：291 分 · 100 评论",
+      "sentiment": "positive",
+      "comments": 100,
+      "url": "https://claude.com/product/claude-science",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": ".self: A new top-level domain designed to support self-hosting",
-      "insight": "HN 热议：644 分 · 357 评论",
-      "sentiment": "positive",
-      "comments": 357,
-      "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
+      "title": "Claude Sonnet 5 – benchmark results",
+      "insight": "HN 热议：34 分 · 15 评论",
+      "sentiment": "neutral",
+      "comments": 15,
+      "url": "https://artificialanalysis.ai/models/claude-sonnet-5",
       "id": 5
     }
   ]
