@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-30T06:42:43Z",
+    "updated": "2026-06-30T11:37:01Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-30T06:42:43Z",
+    "updated": "2026-06-30T11:37:01Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-30T06:42:43Z",
+    "updated": "2026-06-30T11:37:01Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185222,
-            "stars_today": 185222,
+            "stars": 185228,
+            "stars_today": 185228,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 164540,
-            "stars_today": 164540,
+            "stars": 164557,
+            "stars_today": 164557,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 94432,
-            "stars_today": 94432,
+            "stars": 94442,
+            "stars_today": 94442,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 85106,
-            "stars_today": 85106,
+            "stars": 85143,
+            "stars_today": 85143,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 78748,
-            "stars_today": 78748,
+            "stars": 78784,
+            "stars_today": 78784,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54120,
-            "stars_today": 54120,
+            "stars": 54134,
+            "stars_today": 54134,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-30T06:42:43Z",
+    "updated": "2026-06-30T11:37:01Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-30T06:42:43Z",
+    "updated": "2026-06-30T11:37:01Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-30T06:42:43Z",
+    "updated": "2026-06-30T11:37:01Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": ".self: A new top-level domain designed to support self-hosting",
-            "insight": "HN 热议：432 分 · 251 评论",
+            "insight": "HN 热议：541 分 · 314 评论",
             "sentiment": "positive",
-            "comments": 251,
+            "comments": 314,
             "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "Ornith-1.0: self-improving open-source models for agentic coding",
-            "insight": "HN 热议：189 分 · 38 评论",
-            "sentiment": "neutral",
-            "comments": 38,
+            "insight": "HN 热议：218 分 · 40 评论",
+            "sentiment": "positive",
+            "comments": 40,
             "url": "https://github.com/deepreinforce-ai/Ornith-1",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "Apple Neural Engine: Architecture, Programming, and Performance",
-            "insight": "HN 热议：150 分 · 22 评论",
+            "insight": "HN 热议：186 分 · 25 评论",
             "sentiment": "neutral",
-            "comments": 22,
+            "comments": 25,
             "url": "https://arxiv.org/abs/2606.22283",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Working With AI: A concrete example",
-            "insight": "HN 热议：133 分 · 44 评论",
+            "title": "Polaroid just dropped the most iconic anti-AI ad of the year",
+            "insight": "HN 热议：8 分 · 2 评论",
             "sentiment": "neutral",
-            "comments": 44,
-            "url": "https://htmx.org/essays/working-with-ai/",
+            "comments": 2,
+            "url": "https://www.creativebloq.com/design/branding/polaroid-just-dropped-the-most-iconic-anti-ai-ad-of-the-year",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Open Memory Protocol – One Memory Store for Claude, ChatGPT, Curso",
-            "insight": "HN 热议：26 分 · 9 评论",
+            "title": "Working With AI: A concrete example",
+            "insight": "HN 热议：165 分 · 57 评论",
             "sentiment": "neutral",
-            "comments": 9,
-            "url": "https://github.com/SMJAI/open-memory-protocol",
+            "comments": 57,
+            "url": "https://htmx.org/essays/working-with-ai/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-30T06:42:43Z",
+    "updated": "2026-06-30T11:37:01Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
