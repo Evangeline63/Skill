@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-30T11:37:01Z",
+  "updated": "2026-06-30T13:50:00Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": ".self: A new top-level domain designed to support self-hosting",
-      "insight": "HN 热议：541 分 · 314 评论",
+      "insight": "HN 热议：568 分 · 334 评论",
       "sentiment": "positive",
-      "comments": 314,
+      "comments": 334,
       "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "Ornith-1.0: self-improving open-source models for agentic coding",
-      "insight": "HN 热议：218 分 · 40 评论",
+      "insight": "HN 热议：229 分 · 44 评论",
       "sentiment": "positive",
-      "comments": 40,
+      "comments": 44,
       "url": "https://github.com/deepreinforce-ai/Ornith-1",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "Apple Neural Engine: Architecture, Programming, and Performance",
-      "insight": "HN 热议：186 分 · 25 评论",
-      "sentiment": "neutral",
-      "comments": 25,
+      "insight": "HN 热议：206 分 · 26 评论",
+      "sentiment": "positive",
+      "comments": 26,
       "url": "https://arxiv.org/abs/2606.22283",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Polaroid just dropped the most iconic anti-AI ad of the year",
-      "insight": "HN 热议：8 分 · 2 评论",
+      "title": "Working With AI: A concrete example",
+      "insight": "HN 热议：169 分 · 60 评论",
       "sentiment": "neutral",
-      "comments": 2,
-      "url": "https://www.creativebloq.com/design/branding/polaroid-just-dropped-the-most-iconic-anti-ai-ad-of-the-year",
+      "comments": 60,
+      "url": "https://htmx.org/essays/working-with-ai/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Working With AI: A concrete example",
-      "insight": "HN 热议：165 分 · 57 评论",
+      "title": "Ornith-1.0: Self-scaffolding LLMs for agentic coding",
+      "insight": "HN 热议：76 分 · 7 评论",
       "sentiment": "neutral",
-      "comments": 57,
-      "url": "https://htmx.org/essays/working-with-ai/",
+      "comments": 7,
+      "url": "https://deep-reinforce.com/ornith_1_0.html",
       "id": 5
     }
   ]
