@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-30T13:50:00Z",
+  "updated": "2026-06-30T16:59:19Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": ".self: A new top-level domain designed to support self-hosting",
-      "insight": "HN 热议：568 分 · 334 评论",
+      "title": "Claude Code Is Steganographically Marking Requests",
+      "insight": "HN 热议：314 分 · 100 评论",
       "sentiment": "positive",
-      "comments": 334,
-      "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
+      "comments": 100,
+      "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Ornith-1.0: self-improving open-source models for agentic coding",
-      "insight": "HN 热议：229 分 · 44 评论",
-      "sentiment": "positive",
-      "comments": 44,
-      "url": "https://github.com/deepreinforce-ai/Ornith-1",
+      "title": "EU commissioners shut down air conditioning for employees, leave theirs on",
+      "insight": "HN 热议：75 分 · 39 评论",
+      "sentiment": "neutral",
+      "comments": 39,
+      "url": "https://www.politico.eu/article/eu-commission-heatwave-hq-forced-shut-down-air-conditioning-europe/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Apple Neural Engine: Architecture, Programming, and Performance",
-      "insight": "HN 热议：206 分 · 26 评论",
+      "title": ".self: A new top-level domain designed to support self-hosting",
+      "insight": "HN 热议：614 分 · 350 评论",
       "sentiment": "positive",
-      "comments": 26,
-      "url": "https://arxiv.org/abs/2606.22283",
+      "comments": 350,
+      "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Working With AI: A concrete example",
-      "insight": "HN 热议：169 分 · 60 评论",
+      "title": "Scammers Sell Seeds for Exotic AI-Generated Flowers That Don't Exist",
+      "insight": "HN 热议：34 分 · 12 评论",
       "sentiment": "neutral",
-      "comments": 60,
-      "url": "https://htmx.org/essays/working-with-ai/",
+      "comments": 12,
+      "url": "https://www.404media.co/scammers-sell-seeds-for-exotic-ai-generated-flowers-that-dont-exist/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Ornith-1.0: Self-scaffolding LLMs for agentic coding",
-      "insight": "HN 热议：76 分 · 7 评论",
+      "title": "Computer-Aided Language Development in Nonspeaking Children (1968) [pdf]",
+      "insight": "HN 热议：33 分 · 1 评论",
       "sentiment": "neutral",
-      "comments": 7,
-      "url": "https://deep-reinforce.com/ornith_1_0.html",
+      "comments": 1,
+      "url": "https://archive.org/details/colby1968-computer-aided-language-development-in-non-speaking-children",
       "id": 5
     }
   ]

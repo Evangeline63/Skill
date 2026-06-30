@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-06-30T13:50:00Z",
+    "updated": "2026-06-30T16:59:19Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-06-30T13:50:00Z",
+    "updated": "2026-06-30T16:59:19Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-06-30T13:50:00Z",
+    "updated": "2026-06-30T16:59:19Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185220,
-            "stars_today": 185220,
+            "stars": 185217,
+            "stars_today": 185217,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 164554,
-            "stars_today": 164554,
+            "stars": 164558,
+            "stars_today": 164558,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 94443,
-            "stars_today": 94443,
+            "stars": 94451,
+            "stars_today": 94451,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 85157,
-            "stars_today": 85157,
+            "stars": 85186,
+            "stars_today": 85186,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 78792,
-            "stars_today": 78792,
+            "stars": 78817,
+            "stars_today": 78817,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54137,
-            "stars_today": 54137,
+            "stars": 54138,
+            "stars_today": 54138,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-06-30T13:50:00Z",
+    "updated": "2026-06-30T16:59:19Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-06-30T13:50:00Z",
+    "updated": "2026-06-30T16:59:19Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-06-30T13:50:00Z",
+    "updated": "2026-06-30T16:59:19Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": ".self: A new top-level domain designed to support self-hosting",
-            "insight": "HN 热议：568 分 · 334 评论",
+            "title": "Claude Code Is Steganographically Marking Requests",
+            "insight": "HN 热议：314 分 · 100 评论",
             "sentiment": "positive",
-            "comments": 334,
-            "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
+            "comments": 100,
+            "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Ornith-1.0: self-improving open-source models for agentic coding",
-            "insight": "HN 热议：229 分 · 44 评论",
-            "sentiment": "positive",
-            "comments": 44,
-            "url": "https://github.com/deepreinforce-ai/Ornith-1",
+            "title": "EU commissioners shut down air conditioning for employees, leave theirs on",
+            "insight": "HN 热议：75 分 · 39 评论",
+            "sentiment": "neutral",
+            "comments": 39,
+            "url": "https://www.politico.eu/article/eu-commission-heatwave-hq-forced-shut-down-air-conditioning-europe/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Apple Neural Engine: Architecture, Programming, and Performance",
-            "insight": "HN 热议：206 分 · 26 评论",
+            "title": ".self: A new top-level domain designed to support self-hosting",
+            "insight": "HN 热议：614 分 · 350 评论",
             "sentiment": "positive",
-            "comments": 26,
-            "url": "https://arxiv.org/abs/2606.22283",
+            "comments": 350,
+            "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Working With AI: A concrete example",
-            "insight": "HN 热议：169 分 · 60 评论",
+            "title": "Scammers Sell Seeds for Exotic AI-Generated Flowers That Don't Exist",
+            "insight": "HN 热议：34 分 · 12 评论",
             "sentiment": "neutral",
-            "comments": 60,
-            "url": "https://htmx.org/essays/working-with-ai/",
+            "comments": 12,
+            "url": "https://www.404media.co/scammers-sell-seeds-for-exotic-ai-generated-flowers-that-dont-exist/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Ornith-1.0: Self-scaffolding LLMs for agentic coding",
-            "insight": "HN 热议：76 分 · 7 评论",
+            "title": "Computer-Aided Language Development in Nonspeaking Children (1968) [pdf]",
+            "insight": "HN 热议：33 分 · 1 评论",
             "sentiment": "neutral",
-            "comments": 7,
-            "url": "https://deep-reinforce.com/ornith_1_0.html",
+            "comments": 1,
+            "url": "https://archive.org/details/colby1968-computer-aided-language-development-in-non-speaking-children",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-06-30T13:50:00Z",
+    "updated": "2026-06-30T16:59:19Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
