@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-29T22:01:43Z",
+  "updated": "2026-06-30T02:01:59Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": ".self: A new top-level domain designed to support self-hosting",
-      "insight": "HN 热议：114 分 · 84 评论",
-      "sentiment": "neutral",
-      "comments": 84,
+      "insight": "HN 热议：330 分 · 192 评论",
+      "sentiment": "positive",
+      "comments": 192,
       "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "Ornith-1.0: self-improving open-source models for agentic coding",
-      "insight": "HN 热议：110 分 · 27 评论",
+      "insight": "HN 热议：154 分 · 32 评论",
       "sentiment": "neutral",
-      "comments": 27,
+      "comments": 32,
       "url": "https://github.com/deepreinforce-ai/Ornith-1",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Micro-Agent: Beat Frontier Models with Collaboration Inside Model API",
-      "insight": "HN 热议：36 分 · 11 评论",
+      "title": "Apple Neural Engine: Architecture, Programming, and Performance",
+      "insight": "HN 热议：121 分 · 17 评论",
       "sentiment": "neutral",
-      "comments": 11,
-      "url": "https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models",
+      "comments": 17,
+      "url": "https://arxiv.org/abs/2606.22283",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Working With AI: A concrete example",
-      "insight": "HN 热议：50 分 · 14 评论",
+      "title": "Open Memory Protocol – One Memory Store for Claude, ChatGPT, Curso",
+      "insight": "HN 热议：7 分 · 1 评论",
       "sentiment": "neutral",
-      "comments": 14,
-      "url": "https://htmx.org/essays/working-with-ai/",
+      "comments": 1,
+      "url": "https://github.com/SMJAI/open-memory-protocol",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Apple Neural Engine: Architecture, Programming, and Performance",
-      "insight": "HN 热议：67 分 · 5 评论",
+      "title": "Working With AI: A concrete example",
+      "insight": "HN 热议：89 分 · 30 评论",
       "sentiment": "neutral",
-      "comments": 5,
-      "url": "https://arxiv.org/abs/2606.22283",
+      "comments": 30,
+      "url": "https://htmx.org/essays/working-with-ai/",
       "id": 5
     }
   ]
