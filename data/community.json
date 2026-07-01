@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-30T22:06:17Z",
+  "updated": "2026-07-01T02:07:13Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Claude Sonnet 5",
-      "insight": "HN 热议：724 分 · 394 评论",
+      "insight": "HN 热议：889 分 · 499 评论",
       "sentiment": "positive",
-      "comments": 394,
+      "comments": 499,
       "url": "https://www.anthropic.com/news/claude-sonnet-5",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "Claude Code is steganographically marking requests",
-      "insight": "HN 热议：1168 分 · 305 评论",
+      "insight": "HN 热议：1429 分 · 409 评论",
       "sentiment": "positive",
-      "comments": 305,
+      "comments": 409,
       "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Meta's brain-scanning system reads sentences non-invasively, code open source",
-      "insight": "HN 热议：32 分 · 18 评论",
-      "sentiment": "neutral",
-      "comments": 18,
-      "url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1",
+      "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
+      "insight": "HN 热议：232 分 · 90 评论",
+      "sentiment": "positive",
+      "comments": 90,
+      "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Claude Science",
-      "insight": "HN 热议：291 分 · 100 评论",
-      "sentiment": "positive",
-      "comments": 100,
-      "url": "https://claude.com/product/claude-science",
+      "title": "From brain waves to words: a new path to communication without surgery",
+      "insight": "HN 热议：109 分 · 58 评论",
+      "sentiment": "neutral",
+      "comments": 58,
+      "url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Claude Sonnet 5 – benchmark results",
-      "insight": "HN 热议：34 分 · 15 评论",
-      "sentiment": "neutral",
-      "comments": 15,
-      "url": "https://artificialanalysis.ai/models/claude-sonnet-5",
+      "title": "Claude Science",
+      "insight": "HN 热议：371 分 · 122 评论",
+      "sentiment": "positive",
+      "comments": 122,
+      "url": "https://claude.com/product/claude-science",
       "id": 5
     }
   ]
