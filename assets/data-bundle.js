@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-01T17:03:40Z",
+    "updated": "2026-07-01T19:26:33Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-01T17:03:40Z",
+    "updated": "2026-07-01T19:26:33Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-01T17:03:40Z",
+    "updated": "2026-07-01T19:26:33Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185229,
-            "stars_today": 185229,
+            "stars": 185231,
+            "stars_today": 185231,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 164592,
-            "stars_today": 164592,
+            "stars": 164593,
+            "stars_today": 164593,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 85343,
-            "stars_today": 85343,
+            "stars": 85356,
+            "stars_today": 85356,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 78976,
-            "stars_today": 78976,
+            "stars": 78997,
+            "stars_today": 78997,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54168,
-            "stars_today": 54168,
+            "stars": 54169,
+            "stars_today": 54169,
             "url": "https://github.com/FlowiseAI/Flowise"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "jingyaogong/minimind",
             "description": "🧠「大模型」2小时完全从0训练64M的小参数LLM！Train a 64M-parameter LLM from scratch in just 2h!",
             "language": "Python",
-            "stars": 52439,
-            "stars_today": 52439,
+            "stars": 52442,
+            "stars_today": 52442,
             "url": "https://github.com/jingyaogong/minimind"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-01T17:03:40Z",
+    "updated": "2026-07-01T19:26:33Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-01T17:03:40Z",
+    "updated": "2026-07-01T19:26:33Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-01T17:03:40Z",
+    "updated": "2026-07-01T19:26:33Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Meta loses bid to dismiss US states' claims that FB, Instagram addict children",
-            "insight": "HN 热议：80 分 · 15 评论",
+            "title": "Are readers generating fiction with AI models?",
+            "insight": "HN 热议：23 分 · 32 评论",
             "sentiment": "neutral",
-            "comments": 15,
-            "url": "https://www.reuters.com/legal/government/meta-loses-bid-dismiss-us-states-claims-that-facebook-instagram-addict-children-2026-06-30/",
+            "comments": 32,
+            "url": "https://arxiv.org/abs/2606.22748",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Sony Deletes 551 Movies PlayStation Owners Paid For",
-            "insight": "HN 热议：185 分 · 93 评论",
+            "title": "ZCode: Claude Code from the Makers of GLM",
+            "insight": "HN 热议：5 分 · 1 评论",
             "sentiment": "neutral",
-            "comments": 93,
-            "url": "https://reclaimthenet.org/sony-deletes-551-studiocanal-movies-playstation-owners-paid-for",
+            "comments": 1,
+            "url": "https://zcode.z.ai/cn",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Apple 'Hide My Email' Vulnerability Reveals Peoples' Real Email Addresses",
-            "insight": "HN 热议：34 分 · 3 评论",
-            "sentiment": "neutral",
-            "comments": 3,
-            "url": "https://easyoptouts.com/guides/apple-hide-my-email-is-leaking-email-addresses",
+            "title": "Sony Deletes 551 Movies PlayStation Owners Paid For",
+            "insight": "HN 热议：319 分 · 161 评论",
+            "sentiment": "positive",
+            "comments": 161,
+            "url": "https://reclaimthenet.org/sony-deletes-551-studiocanal-movies-playstation-owners-paid-for",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Nintendo has raised its employees base salary by 10%",
-            "insight": "HN 热议：375 分 · 193 评论",
-            "sentiment": "positive",
-            "comments": 193,
-            "url": "https://mynintendonews.com/2026/06/26/nintendo-has-raised-its-employees-base-salary-by-10/",
+            "title": "Apple 'Hide My Email' vulnerability reveals peoples' real email addresses",
+            "insight": "HN 热议：160 分 · 26 评论",
+            "sentiment": "neutral",
+            "comments": 26,
+            "url": "https://easyoptouts.com/guides/apple-hide-my-email-is-leaking-email-addresses",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: PMB – local memory for coding agents that shows if it is used",
-            "insight": "HN 热议：7 分 · 0 评论",
-            "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://pmbai.dev",
+            "title": "Nintendo has raised its employees base salary by 10%",
+            "insight": "HN 热议：439 分 · 268 评论",
+            "sentiment": "positive",
+            "comments": 268,
+            "url": "https://mynintendonews.com/2026/06/26/nintendo-has-raised-its-employees-base-salary-by-10/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-01T17:03:40Z",
+    "updated": "2026-07-01T19:26:33Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
