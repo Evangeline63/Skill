@@ -1,48 +1,48 @@
 {
-  "updated": "2026-07-01T11:48:26Z",
+  "updated": "2026-07-01T14:01:40Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Claude Code is steganographically marking requests",
-      "insight": "HN 热议：2138 分 · 618 评论",
+      "insight": "HN 热议：2252 分 · 660 评论",
       "sentiment": "positive",
-      "comments": 618,
+      "comments": 660,
       "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Claude Sonnet 5",
-      "insight": "HN 热议：1157 分 · 685 评论",
-      "sentiment": "positive",
-      "comments": 685,
-      "url": "https://www.anthropic.com/news/claude-sonnet-5",
+      "title": "Nintendo has raised its employees base salary by 10%",
+      "insight": "HN 热议：155 分 · 47 评论",
+      "sentiment": "neutral",
+      "comments": 47,
+      "url": "https://mynintendonews.com/2026/06/26/nintendo-has-raised-its-employees-base-salary-by-10/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Godot will no longer accept AI-authored code contributions",
-      "insight": "HN 热议：241 分 · 151 评论",
+      "title": "Claude Sonnet 5",
+      "insight": "HN 热议：1180 分 · 722 评论",
       "sentiment": "positive",
-      "comments": 151,
-      "url": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/",
+      "comments": 722,
+      "url": "https://www.anthropic.com/news/claude-sonnet-5",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "I Don't Maintain My Homelab",
-      "insight": "HN 热议：44 分 · 36 评论",
-      "sentiment": "neutral",
-      "comments": 36,
-      "url": "https://cleberg.net/blog/homelab-maintenance.html",
+      "title": "Godot will no longer accept AI-authored code contributions",
+      "insight": "HN 热议：388 分 · 247 评论",
+      "sentiment": "positive",
+      "comments": 247,
+      "url": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/",
       "id": 4
     },
     {
       "source": "HackerNews",
       "title": "Claude Science",
-      "insight": "HN 热议：506 分 · 149 评论",
+      "insight": "HN 热议：520 分 · 151 评论",
       "sentiment": "positive",
-      "comments": 149,
+      "comments": 151,
       "url": "https://claude.com/product/claude-science",
       "id": 5
     }
