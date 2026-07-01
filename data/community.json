@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-01T02:07:13Z",
+  "updated": "2026-07-01T07:00:52Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Claude Sonnet 5",
-      "insight": "HN 热议：889 分 · 499 评论",
+      "title": "Claude Code is steganographically marking requests",
+      "insight": "HN 热议：1749 分 · 500 评论",
       "sentiment": "positive",
-      "comments": 499,
-      "url": "https://www.anthropic.com/news/claude-sonnet-5",
+      "comments": 500,
+      "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Claude Code is steganographically marking requests",
-      "insight": "HN 热议：1429 分 · 409 评论",
+      "title": "Claude Sonnet 5",
+      "insight": "HN 热议：1054 分 · 613 评论",
       "sentiment": "positive",
-      "comments": 409,
-      "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+      "comments": 613,
+      "url": "https://www.anthropic.com/news/claude-sonnet-5",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
-      "insight": "HN 热议：232 分 · 90 评论",
+      "insight": "HN 热议：575 分 · 303 评论",
       "sentiment": "positive",
-      "comments": 90,
+      "comments": 303,
       "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "From brain waves to words: a new path to communication without surgery",
-      "insight": "HN 热议：109 分 · 58 评论",
-      "sentiment": "neutral",
-      "comments": 58,
-      "url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1",
+      "title": "Claude Science",
+      "insight": "HN 热议：453 分 · 135 评论",
+      "sentiment": "positive",
+      "comments": 135,
+      "url": "https://claude.com/product/claude-science",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Claude Science",
-      "insight": "HN 热议：371 分 · 122 评论",
-      "sentiment": "positive",
-      "comments": 122,
-      "url": "https://claude.com/product/claude-science",
+      "title": "From brain waves to words: a new path to communication without surgery",
+      "insight": "HN 热议：143 分 · 75 评论",
+      "sentiment": "neutral",
+      "comments": 75,
+      "url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1",
       "id": 5
     }
   ]

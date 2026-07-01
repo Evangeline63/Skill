@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-01T02:07:13Z",
+    "updated": "2026-07-01T07:00:52Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-01T02:07:13Z",
+    "updated": "2026-07-01T07:00:52Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-01T02:07:13Z",
+    "updated": "2026-07-01T07:00:52Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185220,
-            "stars_today": 185220,
+            "stars": 185221,
+            "stars_today": 185221,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 164571,
-            "stars_today": 164571,
+            "stars": 164578,
+            "stars_today": 164578,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 85244,
-            "stars_today": 85244,
+            "stars": 85279,
+            "stars_today": 85279,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 78860,
-            "stars_today": 78860,
+            "stars": 78905,
+            "stars_today": 78905,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54148,
-            "stars_today": 54148,
+            "stars": 54151,
+            "stars_today": 54151,
             "url": "https://github.com/FlowiseAI/Flowise"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "jingyaogong/minimind",
             "description": "🧠「大模型」2小时完全从0训练64M的小参数LLM！Train a 64M-parameter LLM from scratch in just 2h!",
             "language": "Python",
-            "stars": 52396,
-            "stars_today": 52396,
+            "stars": 52408,
+            "stars_today": 52408,
             "url": "https://github.com/jingyaogong/minimind"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-01T02:07:13Z",
+    "updated": "2026-07-01T07:00:52Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-01T02:07:13Z",
+    "updated": "2026-07-01T07:00:52Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-01T02:07:13Z",
+    "updated": "2026-07-01T07:00:52Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Claude Sonnet 5",
-            "insight": "HN 热议：889 分 · 499 评论",
+            "title": "Claude Code is steganographically marking requests",
+            "insight": "HN 热议：1749 分 · 500 评论",
             "sentiment": "positive",
-            "comments": 499,
-            "url": "https://www.anthropic.com/news/claude-sonnet-5",
+            "comments": 500,
+            "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Claude Code is steganographically marking requests",
-            "insight": "HN 热议：1429 分 · 409 评论",
+            "title": "Claude Sonnet 5",
+            "insight": "HN 热议：1054 分 · 613 评论",
             "sentiment": "positive",
-            "comments": 409,
-            "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+            "comments": 613,
+            "url": "https://www.anthropic.com/news/claude-sonnet-5",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
-            "insight": "HN 热议：232 分 · 90 评论",
+            "insight": "HN 热议：575 分 · 303 评论",
             "sentiment": "positive",
-            "comments": 90,
+            "comments": 303,
             "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "From brain waves to words: a new path to communication without surgery",
-            "insight": "HN 热议：109 分 · 58 评论",
-            "sentiment": "neutral",
-            "comments": 58,
-            "url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1",
+            "title": "Claude Science",
+            "insight": "HN 热议：453 分 · 135 评论",
+            "sentiment": "positive",
+            "comments": 135,
+            "url": "https://claude.com/product/claude-science",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Claude Science",
-            "insight": "HN 热议：371 分 · 122 评论",
-            "sentiment": "positive",
-            "comments": 122,
-            "url": "https://claude.com/product/claude-science",
+            "title": "From brain waves to words: a new path to communication without surgery",
+            "insight": "HN 热议：143 分 · 75 评论",
+            "sentiment": "neutral",
+            "comments": 75,
+            "url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-01T02:07:13Z",
+    "updated": "2026-07-01T07:00:52Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
