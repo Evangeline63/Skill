@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-01T19:26:33Z",
+    "updated": "2026-07-01T22:10:47Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-01T19:26:33Z",
+    "updated": "2026-07-01T22:10:47Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-01T19:26:33Z",
+    "updated": "2026-07-01T22:10:47Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185231,
-            "stars_today": 185231,
+            "stars": 185234,
+            "stars_today": 185234,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 164593,
-            "stars_today": 164593,
+            "stars": 164598,
+            "stars_today": 164598,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 85356,
-            "stars_today": 85356,
+            "stars": 85371,
+            "stars_today": 85371,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 78997,
-            "stars_today": 78997,
+            "stars": 79017,
+            "stars_today": 79017,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54169,
-            "stars_today": 54169,
+            "stars": 54173,
+            "stars_today": 54173,
             "url": "https://github.com/FlowiseAI/Flowise"
         },
         {
@@ -325,7 +325,7 @@ window.__DATA__ = {
     ]
 },
   "products": {
-    "updated": "2026-07-01T19:26:33Z",
+    "updated": "2026-07-01T22:10:47Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-01T19:26:33Z",
+    "updated": "2026-07-01T22:10:47Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-01T19:26:33Z",
+    "updated": "2026-07-01T22:10:47Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Are readers generating fiction with AI models?",
-            "insight": "HN 热议：23 分 · 32 评论",
+            "title": "OpenWiki: CLI that writes and maintains agent documentation for your codebase",
+            "insight": "HN 热议：4 分 · 0 评论",
             "sentiment": "neutral",
-            "comments": 32,
-            "url": "https://arxiv.org/abs/2606.22748",
+            "comments": 0,
+            "url": "https://github.com/langchain-ai/openwiki",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "ZCode: Claude Code from the Makers of GLM",
-            "insight": "HN 热议：5 分 · 1 评论",
-            "sentiment": "neutral",
-            "comments": 1,
-            "url": "https://zcode.z.ai/cn",
+            "title": "Sony Deletes 551 Movies PlayStation Owners Paid For",
+            "insight": "HN 热议：460 分 · 204 评论",
+            "sentiment": "positive",
+            "comments": 204,
+            "url": "https://reclaimthenet.org/sony-deletes-551-studiocanal-movies-playstation-owners-paid-for",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Sony Deletes 551 Movies PlayStation Owners Paid For",
-            "insight": "HN 热议：319 分 · 161 评论",
-            "sentiment": "positive",
-            "comments": 161,
-            "url": "https://reclaimthenet.org/sony-deletes-551-studiocanal-movies-playstation-owners-paid-for",
+            "title": "Fable open sourced NanoClaw's agent factory. It cost $800",
+            "insight": "HN 热议：12 分 · 6 评论",
+            "sentiment": "neutral",
+            "comments": 6,
+            "url": "https://twitter.com/Gavriel_Cohen/status/2072432348805669139",
             "id": 3
         },
         {
             "source": "HackerNews",
             "title": "Apple 'Hide My Email' vulnerability reveals peoples' real email addresses",
-            "insight": "HN 热议：160 分 · 26 评论",
-            "sentiment": "neutral",
-            "comments": 26,
+            "insight": "HN 热议：227 分 · 51 评论",
+            "sentiment": "positive",
+            "comments": 51,
             "url": "https://easyoptouts.com/guides/apple-hide-my-email-is-leaking-email-addresses",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Nintendo has raised its employees base salary by 10%",
-            "insight": "HN 热议：439 分 · 268 评论",
+            "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
+            "insight": "HN 热议：912 分 · 630 评论",
             "sentiment": "positive",
-            "comments": 268,
-            "url": "https://mynintendonews.com/2026/06/26/nintendo-has-raised-its-employees-base-salary-by-10/",
+            "comments": 630,
+            "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-01T19:26:33Z",
+    "updated": "2026-07-01T22:10:47Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
