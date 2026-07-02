@@ -1,48 +1,48 @@
 {
-  "updated": "2026-07-02T16:43:11Z",
+  "updated": "2026-07-02T19:04:52Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "AI can't be listed as inventor on patent applications, Japan's top court rules",
-      "insight": "HN 热议：175 分 · 71 评论",
+      "title": "Klara and the Sun Essay Contest – $1k Prize – AI Use Allowed",
+      "insight": "HN 热议：4 分 · 1 评论",
       "sentiment": "neutral",
-      "comments": 71,
-      "url": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/",
+      "comments": 1,
+      "url": "https://willpenman.com/klara/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Mail Memories – A desktop app to rescue photos from Gmail",
-      "insight": "HN 热议：69 分 · 19 评论",
-      "sentiment": "neutral",
-      "comments": 19,
-      "url": "https://mailmemories.com",
+      "title": "AI can't be listed as inventor on patent applications, Japan's top court rules",
+      "insight": "HN 热议：272 分 · 146 评论",
+      "sentiment": "positive",
+      "comments": 146,
+      "url": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Is One Layer Enough? A Single Transformer Layer Matches Full-Parameter RL Train",
-      "insight": "HN 热议：75 分 · 19 评论",
-      "sentiment": "neutral",
-      "comments": 19,
-      "url": "https://arxiv.org/abs/2607.01232",
+      "title": "Spain Orders Blacklist of Palantir from Public and Private Companies",
+      "insight": "HN 热议：237 分 · 46 评论",
+      "sentiment": "positive",
+      "comments": 46,
+      "url": "https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
-      "insight": "HN 热议：318 分 · 132 评论",
+      "insight": "HN 热议：367 分 · 154 评论",
       "sentiment": "positive",
-      "comments": 132,
+      "comments": 154,
       "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
       "id": 4
     },
     {
       "source": "HackerNews",
       "title": "The Egg Bandits Made a Thousand Times the Fine They Just Paid for Price Fixing",
-      "insight": "HN 热议：143 分 · 39 评论",
-      "sentiment": "neutral",
-      "comments": 39,
+      "insight": "HN 热议：302 分 · 133 评论",
+      "sentiment": "positive",
+      "comments": 133,
       "url": "https://www.thebignewsletter.com/p/crime-pays-the-egg-bandits-made-a",
       "id": 5
     }
