@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-02T06:27:31Z",
+    "updated": "2026-07-02T11:24:28Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-02T06:27:31Z",
+    "updated": "2026-07-02T11:24:28Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-02T06:27:31Z",
+    "updated": "2026-07-02T11:24:28Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185248,
-            "stars_today": 185248,
+            "stars": 185256,
+            "stars_today": 185256,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 164606,
-            "stars_today": 164606,
+            "stars": 164623,
+            "stars_today": 164623,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 85413,
-            "stars_today": 85413,
+            "stars": 85463,
+            "stars_today": 85463,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 79078,
-            "stars_today": 79078,
+            "stars": 79104,
+            "stars_today": 79104,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54186,
-            "stars_today": 54186,
+            "stars": 54190,
+            "stars_today": 54190,
             "url": "https://github.com/FlowiseAI/Flowise"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "jingyaogong/minimind",
             "description": "🧠「大模型」2小时完全从0训练64M的小参数LLM！Train a 64M-parameter LLM from scratch in just 2h!",
             "language": "Python",
-            "stars": 52448,
-            "stars_today": 52448,
+            "stars": 52463,
+            "stars_today": 52463,
             "url": "https://github.com/jingyaogong/minimind"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-02T06:27:31Z",
+    "updated": "2026-07-02T11:24:28Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-02T06:27:31Z",
+    "updated": "2026-07-02T11:24:28Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-02T06:27:31Z",
+    "updated": "2026-07-02T11:24:28Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
-            "insight": "HN 热议：57 分 · 38 评论",
+            "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
+            "insight": "HN 热议：187 分 · 77 评论",
             "sentiment": "neutral",
-            "comments": 38,
-            "url": "https://senior-swe-bench.snorkel.ai/",
+            "comments": 77,
+            "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
-            "insight": "HN 热议：26 分 · 10 评论",
+            "title": "Asymmetric Quantization: Near-Lossless Retrieval with 97% Storage Reduction",
+            "insight": "HN 热议：43 分 · 8 评论",
             "sentiment": "neutral",
-            "comments": 10,
-            "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
+            "comments": 8,
+            "url": "https://www.mixedbread.com/blog/asymmetric-quant",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
-            "insight": "HN 热议：931 分 · 644 评论",
-            "sentiment": "positive",
-            "comments": 644,
-            "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
+            "title": "Meta building cloud business to sell excess AI capacity",
+            "insight": "HN 热议：15 分 · 10 评论",
+            "sentiment": "neutral",
+            "comments": 10,
+            "url": "https://www.reuters.com/business/meta-sell-excess-ai-computing-capacity-via-cloud-business-bloomberg-news-reports-2026-07-01/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "OpenWiki: CLI that writes and maintains agent documentation for your codebase",
-            "insight": "HN 热议：34 分 · 8 评论",
+            "title": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
+            "insight": "HN 热议：101 分 · 75 评论",
             "sentiment": "neutral",
-            "comments": 8,
-            "url": "https://github.com/langchain-ai/openwiki",
+            "comments": 75,
+            "url": "https://senior-swe-bench.snorkel.ai/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Sony Deletes 551 Movies PlayStation Owners Paid For",
-            "insight": "HN 热议：544 分 · 248 评论",
-            "sentiment": "positive",
-            "comments": 248,
-            "url": "https://reclaimthenet.org/sony-deletes-551-studiocanal-movies-playstation-owners-paid-for",
+            "title": "OpenAI: In early talks to give 5% stake to US Government",
+            "insight": "HN 热议：4 分 · 1 评论",
+            "sentiment": "neutral",
+            "comments": 1,
+            "url": "https://www.theguardian.com/technology/2026/jul/02/openai-stake-us-government-ai-sam-altman",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-02T06:27:31Z",
+    "updated": "2026-07-02T11:24:28Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
