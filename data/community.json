@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-02T13:24:40Z",
+  "updated": "2026-07-02T16:43:11Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "AI fake news complaining about how AI fake news is the death of real news",
-      "insight": "HN 热议：22 分 · 1 评论",
+      "title": "AI can't be listed as inventor on patent applications, Japan's top court rules",
+      "insight": "HN 热议：175 分 · 71 评论",
       "sentiment": "neutral",
-      "comments": 1,
-      "url": "https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/",
+      "comments": 71,
+      "url": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
-      "insight": "HN 热议：240 分 · 103 评论",
-      "sentiment": "positive",
-      "comments": 103,
-      "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
+      "title": "Show HN: Mail Memories – A desktop app to rescue photos from Gmail",
+      "insight": "HN 热议：69 分 · 19 评论",
+      "sentiment": "neutral",
+      "comments": 19,
+      "url": "https://mailmemories.com",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "Is One Layer Enough? A Single Transformer Layer Matches Full-Parameter RL Train",
-      "insight": "HN 热议：12 分 · 2 评论",
+      "insight": "HN 热议：75 分 · 19 评论",
       "sentiment": "neutral",
-      "comments": 2,
+      "comments": 19,
       "url": "https://arxiv.org/abs/2607.01232",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Claudoro, Pomodoro timer embedded in the Claude Code statusline",
-      "insight": "HN 热议：4 分 · 1 评论",
-      "sentiment": "neutral",
-      "comments": 1,
-      "url": "https://github.com/emson/claudoro",
+      "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
+      "insight": "HN 热议：318 分 · 132 评论",
+      "sentiment": "positive",
+      "comments": 132,
+      "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Asymmetric Quantization: Near-Lossless Retrieval with 97% Storage Reduction",
-      "insight": "HN 热议：61 分 · 12 评论",
+      "title": "The Egg Bandits Made a Thousand Times the Fine They Just Paid for Price Fixing",
+      "insight": "HN 热议：143 分 · 39 评论",
       "sentiment": "neutral",
-      "comments": 12,
-      "url": "https://www.mixedbread.com/blog/asymmetric-quant",
+      "comments": 39,
+      "url": "https://www.thebignewsletter.com/p/crime-pays-the-egg-bandits-made-a",
       "id": 5
     }
   ]

@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-02T13:24:40Z",
+    "updated": "2026-07-02T16:43:11Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-02T13:24:40Z",
+    "updated": "2026-07-02T16:43:11Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-02T13:24:40Z",
+    "updated": "2026-07-02T16:43:11Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185261,
-            "stars_today": 185261,
+            "stars": 185269,
+            "stars_today": 185269,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 164631,
-            "stars_today": 164631,
+            "stars": 164637,
+            "stars_today": 164637,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 85477,
-            "stars_today": 85477,
+            "stars": 85511,
+            "stars_today": 85511,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 79122,
-            "stars_today": 79122,
+            "stars": 79148,
+            "stars_today": 79148,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54196,
-            "stars_today": 54196,
+            "stars": 54200,
+            "stars_today": 54200,
             "url": "https://github.com/FlowiseAI/Flowise"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "jingyaogong/minimind",
             "description": "🧠「大模型」2小时完全从0训练64M的小参数LLM！Train a 64M-parameter LLM from scratch in just 2h!",
             "language": "Python",
-            "stars": 52467,
-            "stars_today": 52467,
+            "stars": 52472,
+            "stars_today": 52472,
             "url": "https://github.com/jingyaogong/minimind"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-02T13:24:40Z",
+    "updated": "2026-07-02T16:43:11Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-02T13:24:40Z",
+    "updated": "2026-07-02T16:43:11Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-02T13:24:40Z",
+    "updated": "2026-07-02T16:43:11Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "AI fake news complaining about how AI fake news is the death of real news",
-            "insight": "HN 热议：22 分 · 1 评论",
+            "title": "AI can't be listed as inventor on patent applications, Japan's top court rules",
+            "insight": "HN 热议：175 分 · 71 评论",
             "sentiment": "neutral",
-            "comments": 1,
-            "url": "https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/",
+            "comments": 71,
+            "url": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
-            "insight": "HN 热议：240 分 · 103 评论",
-            "sentiment": "positive",
-            "comments": 103,
-            "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
+            "title": "Show HN: Mail Memories – A desktop app to rescue photos from Gmail",
+            "insight": "HN 热议：69 分 · 19 评论",
+            "sentiment": "neutral",
+            "comments": 19,
+            "url": "https://mailmemories.com",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "Is One Layer Enough? A Single Transformer Layer Matches Full-Parameter RL Train",
-            "insight": "HN 热议：12 分 · 2 评论",
+            "insight": "HN 热议：75 分 · 19 评论",
             "sentiment": "neutral",
-            "comments": 2,
+            "comments": 19,
             "url": "https://arxiv.org/abs/2607.01232",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Claudoro, Pomodoro timer embedded in the Claude Code statusline",
-            "insight": "HN 热议：4 分 · 1 评论",
-            "sentiment": "neutral",
-            "comments": 1,
-            "url": "https://github.com/emson/claudoro",
+            "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
+            "insight": "HN 热议：318 分 · 132 评论",
+            "sentiment": "positive",
+            "comments": 132,
+            "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Asymmetric Quantization: Near-Lossless Retrieval with 97% Storage Reduction",
-            "insight": "HN 热议：61 分 · 12 评论",
+            "title": "The Egg Bandits Made a Thousand Times the Fine They Just Paid for Price Fixing",
+            "insight": "HN 热议：143 分 · 39 评论",
             "sentiment": "neutral",
-            "comments": 12,
-            "url": "https://www.mixedbread.com/blog/asymmetric-quant",
+            "comments": 39,
+            "url": "https://www.thebignewsletter.com/p/crime-pays-the-egg-bandits-made-a",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-02T13:24:40Z",
+    "updated": "2026-07-02T16:43:11Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
