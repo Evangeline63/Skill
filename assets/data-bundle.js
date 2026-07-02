@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-01T22:10:47Z",
+    "updated": "2026-07-02T02:00:03Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-01T22:10:47Z",
+    "updated": "2026-07-02T02:00:03Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-01T22:10:47Z",
+    "updated": "2026-07-02T02:00:03Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185234,
-            "stars_today": 185234,
+            "stars": 185241,
+            "stars_today": 185241,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 164598,
-            "stars_today": 164598,
+            "stars": 164601,
+            "stars_today": 164601,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 85371,
-            "stars_today": 85371,
+            "stars": 85391,
+            "stars_today": 85391,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 79017,
-            "stars_today": 79017,
+            "stars": 79037,
+            "stars_today": 79037,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54173,
-            "stars_today": 54173,
+            "stars": 54176,
+            "stars_today": 54176,
             "url": "https://github.com/FlowiseAI/Flowise"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "jingyaogong/minimind",
             "description": "🧠「大模型」2小时完全从0训练64M的小参数LLM！Train a 64M-parameter LLM from scratch in just 2h!",
             "language": "Python",
-            "stars": 52442,
-            "stars_today": 52442,
+            "stars": 52444,
+            "stars_today": 52444,
             "url": "https://github.com/jingyaogong/minimind"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-01T22:10:47Z",
+    "updated": "2026-07-02T02:00:03Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-01T22:10:47Z",
+    "updated": "2026-07-02T02:00:03Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-01T22:10:47Z",
+    "updated": "2026-07-02T02:00:03Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "OpenWiki: CLI that writes and maintains agent documentation for your codebase",
-            "insight": "HN 热议：4 分 · 0 评论",
+            "title": "Meta Caps Internal AI Token Spending After Costs Approach Billions in 2026",
+            "insight": "HN 热议：97 分 · 84 评论",
             "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://github.com/langchain-ai/openwiki",
+            "comments": 84,
+            "url": "https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Sony Deletes 551 Movies PlayStation Owners Paid For",
-            "insight": "HN 热议：460 分 · 204 评论",
-            "sentiment": "positive",
-            "comments": 204,
-            "url": "https://reclaimthenet.org/sony-deletes-551-studiocanal-movies-playstation-owners-paid-for",
+            "title": "OpenWiki: CLI that writes and maintains agent documentation for your codebase",
+            "insight": "HN 热议：26 分 · 4 评论",
+            "sentiment": "neutral",
+            "comments": 4,
+            "url": "https://github.com/langchain-ai/openwiki",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Fable open sourced NanoClaw's agent factory. It cost $800",
-            "insight": "HN 热议：12 分 · 6 评论",
-            "sentiment": "neutral",
-            "comments": 6,
-            "url": "https://twitter.com/Gavriel_Cohen/status/2072432348805669139",
+            "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
+            "insight": "HN 热议：923 分 · 640 评论",
+            "sentiment": "positive",
+            "comments": 640,
+            "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Apple 'Hide My Email' vulnerability reveals peoples' real email addresses",
-            "insight": "HN 热议：227 分 · 51 评论",
+            "title": "Sony Deletes 551 Movies PlayStation Owners Paid For",
+            "insight": "HN 热议：519 分 · 236 评论",
             "sentiment": "positive",
-            "comments": 51,
-            "url": "https://easyoptouts.com/guides/apple-hide-my-email-is-leaking-email-addresses",
+            "comments": 236,
+            "url": "https://reclaimthenet.org/sony-deletes-551-studiocanal-movies-playstation-owners-paid-for",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
-            "insight": "HN 热议：912 分 · 630 评论",
+            "title": "Apple 'Hide My Email' vulnerability reveals peoples' real email addresses",
+            "insight": "HN 热议：245 分 · 64 评论",
             "sentiment": "positive",
-            "comments": 630,
-            "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
+            "comments": 64,
+            "url": "https://easyoptouts.com/guides/apple-hide-my-email-is-leaking-email-addresses",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-01T22:10:47Z",
+    "updated": "2026-07-02T02:00:03Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
