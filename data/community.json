@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-02T11:24:28Z",
+  "updated": "2026-07-02T13:24:40Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
-      "insight": "HN 热议：187 分 · 77 评论",
+      "title": "AI fake news complaining about how AI fake news is the death of real news",
+      "insight": "HN 热议：22 分 · 1 评论",
       "sentiment": "neutral",
-      "comments": 77,
-      "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
+      "comments": 1,
+      "url": "https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Asymmetric Quantization: Near-Lossless Retrieval with 97% Storage Reduction",
-      "insight": "HN 热议：43 分 · 8 评论",
-      "sentiment": "neutral",
-      "comments": 8,
-      "url": "https://www.mixedbread.com/blog/asymmetric-quant",
+      "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
+      "insight": "HN 热议：240 分 · 103 评论",
+      "sentiment": "positive",
+      "comments": 103,
+      "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Meta building cloud business to sell excess AI capacity",
-      "insight": "HN 热议：15 分 · 10 评论",
+      "title": "Is One Layer Enough? A Single Transformer Layer Matches Full-Parameter RL Train",
+      "insight": "HN 热议：12 分 · 2 评论",
       "sentiment": "neutral",
-      "comments": 10,
-      "url": "https://www.reuters.com/business/meta-sell-excess-ai-computing-capacity-via-cloud-business-bloomberg-news-reports-2026-07-01/",
+      "comments": 2,
+      "url": "https://arxiv.org/abs/2607.01232",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
-      "insight": "HN 热议：101 分 · 75 评论",
+      "title": "Show HN: Claudoro, Pomodoro timer embedded in the Claude Code statusline",
+      "insight": "HN 热议：4 分 · 1 评论",
       "sentiment": "neutral",
-      "comments": 75,
-      "url": "https://senior-swe-bench.snorkel.ai/",
+      "comments": 1,
+      "url": "https://github.com/emson/claudoro",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "OpenAI: In early talks to give 5% stake to US Government",
-      "insight": "HN 热议：4 分 · 1 评论",
+      "title": "Asymmetric Quantization: Near-Lossless Retrieval with 97% Storage Reduction",
+      "insight": "HN 热议：61 分 · 12 评论",
       "sentiment": "neutral",
-      "comments": 1,
-      "url": "https://www.theguardian.com/technology/2026/jul/02/openai-stake-us-government-ai-sam-altman",
+      "comments": 12,
+      "url": "https://www.mixedbread.com/blog/asymmetric-quant",
       "id": 5
     }
   ]

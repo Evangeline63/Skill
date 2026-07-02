@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-02T11:24:28Z",
+    "updated": "2026-07-02T13:24:40Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-02T11:24:28Z",
+    "updated": "2026-07-02T13:24:40Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-02T11:24:28Z",
+    "updated": "2026-07-02T13:24:40Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185256,
-            "stars_today": 185256,
+            "stars": 185261,
+            "stars_today": 185261,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 164623,
-            "stars_today": 164623,
+            "stars": 164631,
+            "stars_today": 164631,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 85463,
-            "stars_today": 85463,
+            "stars": 85477,
+            "stars_today": 85477,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 79104,
-            "stars_today": 79104,
+            "stars": 79122,
+            "stars_today": 79122,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54190,
-            "stars_today": 54190,
+            "stars": 54196,
+            "stars_today": 54196,
             "url": "https://github.com/FlowiseAI/Flowise"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "jingyaogong/minimind",
             "description": "🧠「大模型」2小时完全从0训练64M的小参数LLM！Train a 64M-parameter LLM from scratch in just 2h!",
             "language": "Python",
-            "stars": 52463,
-            "stars_today": 52463,
+            "stars": 52467,
+            "stars_today": 52467,
             "url": "https://github.com/jingyaogong/minimind"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-02T11:24:28Z",
+    "updated": "2026-07-02T13:24:40Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-02T11:24:28Z",
+    "updated": "2026-07-02T13:24:40Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-02T11:24:28Z",
+    "updated": "2026-07-02T13:24:40Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
-            "insight": "HN 热议：187 分 · 77 评论",
+            "title": "AI fake news complaining about how AI fake news is the death of real news",
+            "insight": "HN 热议：22 分 · 1 评论",
             "sentiment": "neutral",
-            "comments": 77,
-            "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
+            "comments": 1,
+            "url": "https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Asymmetric Quantization: Near-Lossless Retrieval with 97% Storage Reduction",
-            "insight": "HN 热议：43 分 · 8 评论",
-            "sentiment": "neutral",
-            "comments": 8,
-            "url": "https://www.mixedbread.com/blog/asymmetric-quant",
+            "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
+            "insight": "HN 热议：240 分 · 103 评论",
+            "sentiment": "positive",
+            "comments": 103,
+            "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Meta building cloud business to sell excess AI capacity",
-            "insight": "HN 热议：15 分 · 10 评论",
+            "title": "Is One Layer Enough? A Single Transformer Layer Matches Full-Parameter RL Train",
+            "insight": "HN 热议：12 分 · 2 评论",
             "sentiment": "neutral",
-            "comments": 10,
-            "url": "https://www.reuters.com/business/meta-sell-excess-ai-computing-capacity-via-cloud-business-bloomberg-news-reports-2026-07-01/",
+            "comments": 2,
+            "url": "https://arxiv.org/abs/2607.01232",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
-            "insight": "HN 热议：101 分 · 75 评论",
+            "title": "Show HN: Claudoro, Pomodoro timer embedded in the Claude Code statusline",
+            "insight": "HN 热议：4 分 · 1 评论",
             "sentiment": "neutral",
-            "comments": 75,
-            "url": "https://senior-swe-bench.snorkel.ai/",
+            "comments": 1,
+            "url": "https://github.com/emson/claudoro",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "OpenAI: In early talks to give 5% stake to US Government",
-            "insight": "HN 热议：4 分 · 1 评论",
+            "title": "Asymmetric Quantization: Near-Lossless Retrieval with 97% Storage Reduction",
+            "insight": "HN 热议：61 分 · 12 评论",
             "sentiment": "neutral",
-            "comments": 1,
-            "url": "https://www.theguardian.com/technology/2026/jul/02/openai-stake-us-government-ai-sam-altman",
+            "comments": 12,
+            "url": "https://www.mixedbread.com/blog/asymmetric-quant",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-02T11:24:28Z",
+    "updated": "2026-07-02T13:24:40Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
