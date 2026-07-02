@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-02T19:04:52Z",
+    "updated": "2026-07-02T21:56:19Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-02T19:04:52Z",
+    "updated": "2026-07-02T21:56:19Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-02T19:04:52Z",
+    "updated": "2026-07-02T21:56:19Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185276,
-            "stars_today": 185276,
+            "stars": 185279,
+            "stars_today": 185279,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 164643,
-            "stars_today": 164643,
+            "stars": 164644,
+            "stars_today": 164644,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 85525,
-            "stars_today": 85525,
+            "stars": 85540,
+            "stars_today": 85540,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 79161,
-            "stars_today": 79161,
+            "stars": 79174,
+            "stars_today": 79174,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54205,
-            "stars_today": 54205,
+            "stars": 54210,
+            "stars_today": 54210,
             "url": "https://github.com/FlowiseAI/Flowise"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "jingyaogong/minimind",
             "description": "🧠「大模型」2小时完全从0训练64M的小参数LLM！Train a 64M-parameter LLM from scratch in just 2h!",
             "language": "Python",
-            "stars": 52474,
-            "stars_today": 52474,
+            "stars": 52476,
+            "stars_today": 52476,
             "url": "https://github.com/jingyaogong/minimind"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-02T19:04:52Z",
+    "updated": "2026-07-02T21:56:19Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-02T19:04:52Z",
+    "updated": "2026-07-02T21:56:19Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-02T19:04:52Z",
+    "updated": "2026-07-02T21:56:19Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Klara and the Sun Essay Contest – $1k Prize – AI Use Allowed",
-            "insight": "HN 热议：4 分 · 1 评论",
+            "title": "Vulkan is now available on NetBSD",
+            "insight": "HN 热议：52 分 · 12 评论",
             "sentiment": "neutral",
-            "comments": 1,
-            "url": "https://willpenman.com/klara/",
+            "comments": 12,
+            "url": "https://github.com/segaboy/vulkan-netbsd",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "AI can't be listed as inventor on patent applications, Japan's top court rules",
-            "insight": "HN 热议：272 分 · 146 评论",
-            "sentiment": "positive",
-            "comments": 146,
-            "url": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/",
+            "title": "The Short Leash AI Coding Method for Beating Fable",
+            "insight": "HN 热议：29 分 · 7 评论",
+            "sentiment": "neutral",
+            "comments": 7,
+            "url": "https://blog.okturtles.org/2026/07/short-leash-ai-method/",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "Spain Orders Blacklist of Palantir from Public and Private Companies",
-            "insight": "HN 热议：237 分 · 46 评论",
+            "insight": "HN 热议：478 分 · 151 评论",
             "sentiment": "positive",
-            "comments": 46,
+            "comments": 151,
             "url": "https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
-            "insight": "HN 热议：367 分 · 154 评论",
-            "sentiment": "positive",
-            "comments": 154,
-            "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
+            "title": "Claude-real-video － any LLM can watch a video",
+            "insight": "HN 热议：30 分 · 6 评论",
+            "sentiment": "neutral",
+            "comments": 6,
+            "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "The Egg Bandits Made a Thousand Times the Fine They Just Paid for Price Fixing",
-            "insight": "HN 热议：302 分 · 133 评论",
-            "sentiment": "positive",
-            "comments": 133,
-            "url": "https://www.thebignewsletter.com/p/crime-pays-the-egg-bandits-made-a",
+            "title": "Reality has a surprising amount of detail",
+            "insight": "HN 热议：7 分 · 2 评论",
+            "sentiment": "neutral",
+            "comments": 2,
+            "url": "https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-02T19:04:52Z",
+    "updated": "2026-07-02T21:56:19Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
