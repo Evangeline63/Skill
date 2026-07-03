@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-03T13:28:52Z",
+    "updated": "2026-07-03T16:17:20Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-03T13:28:52Z",
+    "updated": "2026-07-03T16:17:20Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-03T13:28:52Z",
+    "updated": "2026-07-03T16:17:20Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185310,
-            "stars_today": 185310,
+            "stars": 185311,
+            "stars_today": 185311,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 164676,
-            "stars_today": 164676,
+            "stars": 164681,
+            "stars_today": 164681,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 85633,
-            "stars_today": 85633,
+            "stars": 85658,
+            "stars_today": 85658,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 79257,
-            "stars_today": 79257,
+            "stars": 79283,
+            "stars_today": 79283,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "jingyaogong/minimind",
             "description": "🧠「大模型」2小时完全从0训练64M的小参数LLM！Train a 64M-parameter LLM from scratch in just 2h!",
             "language": "Python",
-            "stars": 52519,
-            "stars_today": 52519,
+            "stars": 52523,
+            "stars_today": 52523,
             "url": "https://github.com/jingyaogong/minimind"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-03T13:28:52Z",
+    "updated": "2026-07-03T16:17:20Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-03T13:28:52Z",
+    "updated": "2026-07-03T16:17:20Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-03T13:28:52Z",
+    "updated": "2026-07-03T16:17:20Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Please Stop the AI Confidence Theater",
-            "insight": "HN 热议：9 分 · 0 评论",
+            "title": "Jamesob's guide to running SOTA LLMs locally",
+            "insight": "HN 热议：25 分 · 6 评论",
             "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater",
+            "comments": 6,
+            "url": "https://github.com/jamesob/local-llm",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
-            "insight": "HN 热议：194 分 · 144 评论",
+            "title": "My Dad Helped Build North America's Oat Supply Chain: Can It Be Remade?",
+            "insight": "HN 热议：6 分 · 1 评论",
             "sentiment": "neutral",
-            "comments": 144,
-            "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/",
+            "comments": 1,
+            "url": "https://ambrook.com/offrange/perspective/how-we-lost-our-oats",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "Reality has a surprising amount of detail (2017)",
-            "insight": "HN 热议：304 分 · 114 评论",
+            "insight": "HN 热议：338 分 · 124 评论",
             "sentiment": "positive",
-            "comments": 114,
+            "comments": 124,
             "url": "https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "The short leash AI coding method for beating Fable",
-            "insight": "HN 热议：156 分 · 197 评论",
-            "sentiment": "neutral",
-            "comments": 197,
-            "url": "https://blog.okturtles.org/2026/07/short-leash-ai-method/",
+            "title": "Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
+            "insight": "HN 热议：260 分 · 216 评论",
+            "sentiment": "positive",
+            "comments": 216,
+            "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "A Special Wireless-Free Nikon Camera Is Publicly Available for the First Time",
-            "insight": "HN 热议：74 分 · 59 评论",
+            "title": "Show HN: TaskPeace – a task queue my AI coding agents pull work from over MCP",
+            "insight": "HN 热议：3 分 · 1 评论",
             "sentiment": "neutral",
-            "comments": 59,
-            "url": "https://petapixel.com/2026/06/24/a-special-wireless-free-nikon-camera-is-publicly-available-for-the-first-time/",
+            "comments": 1,
+            "url": "https://taskpeace.com/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-03T13:28:52Z",
+    "updated": "2026-07-03T16:17:20Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

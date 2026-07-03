@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-03T13:28:52Z",
+  "updated": "2026-07-03T16:17:20Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Please Stop the AI Confidence Theater",
-      "insight": "HN 热议：9 分 · 0 评论",
+      "title": "Jamesob's guide to running SOTA LLMs locally",
+      "insight": "HN 热议：25 分 · 6 评论",
       "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater",
+      "comments": 6,
+      "url": "https://github.com/jamesob/local-llm",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
-      "insight": "HN 热议：194 分 · 144 评论",
+      "title": "My Dad Helped Build North America's Oat Supply Chain: Can It Be Remade?",
+      "insight": "HN 热议：6 分 · 1 评论",
       "sentiment": "neutral",
-      "comments": 144,
-      "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/",
+      "comments": 1,
+      "url": "https://ambrook.com/offrange/perspective/how-we-lost-our-oats",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "Reality has a surprising amount of detail (2017)",
-      "insight": "HN 热议：304 分 · 114 评论",
+      "insight": "HN 热议：338 分 · 124 评论",
       "sentiment": "positive",
-      "comments": 114,
+      "comments": 124,
       "url": "https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "The short leash AI coding method for beating Fable",
-      "insight": "HN 热议：156 分 · 197 评论",
-      "sentiment": "neutral",
-      "comments": 197,
-      "url": "https://blog.okturtles.org/2026/07/short-leash-ai-method/",
+      "title": "Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
+      "insight": "HN 热议：260 分 · 216 评论",
+      "sentiment": "positive",
+      "comments": 216,
+      "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "A Special Wireless-Free Nikon Camera Is Publicly Available for the First Time",
-      "insight": "HN 热议：74 分 · 59 评论",
+      "title": "Show HN: TaskPeace – a task queue my AI coding agents pull work from over MCP",
+      "insight": "HN 热议：3 分 · 1 评论",
       "sentiment": "neutral",
-      "comments": 59,
-      "url": "https://petapixel.com/2026/06/24/a-special-wireless-free-nikon-camera-is-publicly-available-for-the-first-time/",
+      "comments": 1,
+      "url": "https://taskpeace.com/",
       "id": 5
     }
   ]
