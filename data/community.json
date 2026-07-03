@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-02T21:56:19Z",
+  "updated": "2026-07-03T01:43:35Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Vulkan is now available on NetBSD",
-      "insight": "HN 热议：52 分 · 12 评论",
+      "title": "GitHub is proud to announce that you can now obtain your public repo on CD-ROM",
+      "insight": "HN 热议：46 分 · 28 评论",
       "sentiment": "neutral",
-      "comments": 12,
-      "url": "https://github.com/segaboy/vulkan-netbsd",
+      "comments": 28,
+      "url": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR6G-c11n8yFDlQmk4B-QjDxUQkdTTjZLU0EyTFFRV1E3NVRTVTRTWjRHMy4u&route=shorturl",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "The Short Leash AI Coding Method for Beating Fable",
-      "insight": "HN 热议：29 分 · 7 评论",
+      "title": "Reality has a surprising amount of detail (2017)",
+      "insight": "HN 热议：138 分 · 47 评论",
       "sentiment": "neutral",
-      "comments": 7,
-      "url": "https://blog.okturtles.org/2026/07/short-leash-ai-method/",
+      "comments": 47,
+      "url": "https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Spain Orders Blacklist of Palantir from Public and Private Companies",
-      "insight": "HN 热议：478 分 · 151 评论",
-      "sentiment": "positive",
-      "comments": 151,
-      "url": "https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv",
+      "title": "Claude-real-video － any LLM can watch a video",
+      "insight": "HN 热议：81 分 · 28 评论",
+      "sentiment": "neutral",
+      "comments": 28,
+      "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Claude-real-video － any LLM can watch a video",
-      "insight": "HN 热议：30 分 · 6 评论",
+      "title": "The short leash AI coding method for beating Fable",
+      "insight": "HN 热议：63 分 · 62 评论",
       "sentiment": "neutral",
-      "comments": 6,
-      "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+      "comments": 62,
+      "url": "https://blog.okturtles.org/2026/07/short-leash-ai-method/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Reality has a surprising amount of detail",
-      "insight": "HN 热议：7 分 · 2 评论",
+      "title": "A Special Wireless-Free Nikon Camera Is Publicly Available for the First Time",
+      "insight": "HN 热议：13 分 · 11 评论",
       "sentiment": "neutral",
-      "comments": 2,
-      "url": "https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail",
+      "comments": 11,
+      "url": "https://petapixel.com/2026/06/24/a-special-wireless-free-nikon-camera-is-publicly-available-for-the-first-time/",
       "id": 5
     }
   ]
