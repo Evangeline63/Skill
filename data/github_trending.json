@@ -1,13 +1,13 @@
 {
-  "updated": "2026-07-03T18:57:34Z",
+  "updated": "2026-07-03T21:53:44Z",
   "repos": [
     {
       "rank": 1,
       "name": "Significant-Gravitas/AutoGPT",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
       "language": "Python",
-      "stars": 185317,
-      "stars_today": 185317,
+      "stars": 185321,
+      "stars_today": 185321,
       "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
@@ -15,8 +15,8 @@
       "name": "f/prompts.chat",
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
       "language": "HTML",
-      "stars": 164681,
-      "stars_today": 164681,
+      "stars": 164685,
+      "stars_today": 164685,
       "url": "https://github.com/f/prompts.chat"
     },
     {
@@ -24,8 +24,8 @@
       "name": "thedotmack/claude-mem",
       "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
       "language": "JavaScript",
-      "stars": 85671,
-      "stars_today": 85671,
+      "stars": 85685,
+      "stars_today": 85685,
       "url": "https://github.com/thedotmack/claude-mem"
     },
     {
@@ -33,8 +33,8 @@
       "name": "OpenHands/OpenHands",
       "description": "🙌 OpenHands: AI-Driven Development",
       "language": "Python",
-      "stars": 79301,
-      "stars_today": 79301,
+      "stars": 79308,
+      "stars_today": 79308,
       "url": "https://github.com/OpenHands/OpenHands"
     },
     {
@@ -42,8 +42,8 @@
       "name": "FlowiseAI/Flowise",
       "description": "Build AI Agents, Visually",
       "language": "TypeScript",
-      "stars": 54246,
-      "stars_today": 54246,
+      "stars": 54249,
+      "stars_today": 54249,
       "url": "https://github.com/FlowiseAI/Flowise"
     },
     {

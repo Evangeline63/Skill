@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-03T18:57:34Z",
+    "updated": "2026-07-03T21:53:44Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-03T18:57:34Z",
+    "updated": "2026-07-03T21:53:44Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-03T18:57:34Z",
+    "updated": "2026-07-03T21:53:44Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185317,
-            "stars_today": 185317,
+            "stars": 185321,
+            "stars_today": 185321,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 164681,
-            "stars_today": 164681,
+            "stars": 164685,
+            "stars_today": 164685,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 85671,
-            "stars_today": 85671,
+            "stars": 85685,
+            "stars_today": 85685,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 79301,
-            "stars_today": 79301,
+            "stars": 79308,
+            "stars_today": 79308,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54246,
-            "stars_today": 54246,
+            "stars": 54249,
+            "stars_today": 54249,
             "url": "https://github.com/FlowiseAI/Flowise"
         },
         {
@@ -325,7 +325,7 @@ window.__DATA__ = {
     ]
 },
   "products": {
-    "updated": "2026-07-03T18:57:34Z",
+    "updated": "2026-07-03T21:53:44Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-03T18:57:34Z",
+    "updated": "2026-07-03T21:53:44Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-03T18:57:34Z",
+    "updated": "2026-07-03T21:53:44Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Jamesob's guide to running SOTA LLMs locally",
-            "insight": "HN 热议：109 分 · 41 评论",
+            "title": "Espionage Against the European Parliament",
+            "insight": "HN 热议：101 分 · 12 评论",
             "sentiment": "neutral",
-            "comments": 41,
-            "url": "https://github.com/jamesob/local-llm",
+            "comments": 12,
+            "url": "https://citizenlab.ca/research/member-of-committee-investigating-spyware-hacked-with-pegasus/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "My dad helped build North America's oat supply chain: Can it be remade?",
-            "insight": "HN 热议：50 分 · 14 评论",
+            "title": "AI First: How the Federal Government Is Prioritizing AI over People and Planet",
+            "insight": "HN 热议：16 分 · 6 评论",
             "sentiment": "neutral",
-            "comments": 14,
-            "url": "https://ambrook.com/offrange/perspective/how-we-lost-our-oats",
+            "comments": 6,
+            "url": "https://stopgreedbuildgreen.climateandcommunity.org/posts/ai-first",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: ctx – Search the coding agent history already on your machine",
-            "insight": "HN 热议：45 分 · 20 评论",
-            "sentiment": "neutral",
-            "comments": 20,
-            "url": "https://github.com/ctxrs/ctx",
+            "title": "Jamesob's guide to running SOTA LLMs locally",
+            "insight": "HN 热议：221 分 · 102 评论",
+            "sentiment": "positive",
+            "comments": 102,
+            "url": "https://github.com/jamesob/local-llm",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "I Wasn't Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination",
-            "insight": "HN 热议：34 分 · 16 评论",
+            "title": "Kagi Changelog (July 2): Heads, tails, and an AI toggle",
+            "insight": "HN 热议：25 分 · 4 评论",
             "sentiment": "neutral",
-            "comments": 16,
-            "url": "https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type",
+            "comments": 4,
+            "url": "https://kagi.com/changelog#10959",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Reality has a surprising amount of detail (2017)",
-            "insight": "HN 热议：351 分 · 135 评论",
-            "sentiment": "positive",
-            "comments": 135,
-            "url": "https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail",
+            "title": "My dad helped build North America's oat supply chain: Can it be remade?",
+            "insight": "HN 热议：76 分 · 40 评论",
+            "sentiment": "neutral",
+            "comments": 40,
+            "url": "https://ambrook.com/offrange/perspective/how-we-lost-our-oats",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-03T18:57:34Z",
+    "updated": "2026-07-03T21:53:44Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
