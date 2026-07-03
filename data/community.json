@@ -1,48 +1,48 @@
 {
-  "updated": "2026-07-03T01:43:35Z",
+  "updated": "2026-07-03T06:18:52Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "GitHub is proud to announce that you can now obtain your public repo on CD-ROM",
-      "insight": "HN 热议：46 分 · 28 评论",
-      "sentiment": "neutral",
-      "comments": 28,
-      "url": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR6G-c11n8yFDlQmk4B-QjDxUQkdTTjZLU0EyTFFRV1E3NVRTVTRTWjRHMy4u&route=shorturl",
+      "title": "Reality has a surprising amount of detail (2017)",
+      "insight": "HN 热议：210 分 · 77 评论",
+      "sentiment": "positive",
+      "comments": 77,
+      "url": "https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Reality has a surprising amount of detail (2017)",
-      "insight": "HN 热议：138 分 · 47 评论",
+      "title": "Every AI Visibility Tool Is Lying to You",
+      "insight": "HN 热议：12 分 · 1 评论",
       "sentiment": "neutral",
-      "comments": 47,
-      "url": "https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail",
+      "comments": 1,
+      "url": "https://canonry.ai/blog/ai-visibility-tools-are-lying",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "Claude-real-video － any LLM can watch a video",
-      "insight": "HN 热议：81 分 · 28 评论",
+      "insight": "HN 热议：119 分 · 36 评论",
       "sentiment": "neutral",
-      "comments": 28,
+      "comments": 36,
       "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "The short leash AI coding method for beating Fable",
-      "insight": "HN 热议：63 分 · 62 评论",
+      "insight": "HN 热议：100 分 · 126 评论",
       "sentiment": "neutral",
-      "comments": 62,
+      "comments": 126,
       "url": "https://blog.okturtles.org/2026/07/short-leash-ai-method/",
       "id": 4
     },
     {
       "source": "HackerNews",
       "title": "A Special Wireless-Free Nikon Camera Is Publicly Available for the First Time",
-      "insight": "HN 热议：13 分 · 11 评论",
+      "insight": "HN 热议：41 分 · 21 评论",
       "sentiment": "neutral",
-      "comments": 11,
+      "comments": 21,
       "url": "https://petapixel.com/2026/06/24/a-special-wireless-free-nikon-camera-is-publicly-available-for-the-first-time/",
       "id": 5
     }
