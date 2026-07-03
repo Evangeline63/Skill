@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-03T16:17:20Z",
+    "updated": "2026-07-03T18:57:34Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-03T16:17:20Z",
+    "updated": "2026-07-03T18:57:34Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-03T16:17:20Z",
+    "updated": "2026-07-03T18:57:34Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185311,
-            "stars_today": 185311,
+            "stars": 185317,
+            "stars_today": 185317,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 85658,
-            "stars_today": 85658,
+            "stars": 85671,
+            "stars_today": 85671,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 79283,
-            "stars_today": 79283,
+            "stars": 79301,
+            "stars_today": 79301,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54241,
-            "stars_today": 54241,
+            "stars": 54246,
+            "stars_today": 54246,
             "url": "https://github.com/FlowiseAI/Flowise"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "jingyaogong/minimind",
             "description": "🧠「大模型」2小时完全从0训练64M的小参数LLM！Train a 64M-parameter LLM from scratch in just 2h!",
             "language": "Python",
-            "stars": 52523,
-            "stars_today": 52523,
+            "stars": 52526,
+            "stars_today": 52526,
             "url": "https://github.com/jingyaogong/minimind"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-03T16:17:20Z",
+    "updated": "2026-07-03T18:57:34Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-03T16:17:20Z",
+    "updated": "2026-07-03T18:57:34Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-03T16:17:20Z",
+    "updated": "2026-07-03T18:57:34Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Jamesob's guide to running SOTA LLMs locally",
-            "insight": "HN 热议：25 分 · 6 评论",
+            "insight": "HN 热议：109 分 · 41 评论",
             "sentiment": "neutral",
-            "comments": 6,
+            "comments": 41,
             "url": "https://github.com/jamesob/local-llm",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "My Dad Helped Build North America's Oat Supply Chain: Can It Be Remade?",
-            "insight": "HN 热议：6 分 · 1 评论",
+            "title": "My dad helped build North America's oat supply chain: Can it be remade?",
+            "insight": "HN 热议：50 分 · 14 评论",
             "sentiment": "neutral",
-            "comments": 1,
+            "comments": 14,
             "url": "https://ambrook.com/offrange/perspective/how-we-lost-our-oats",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Reality has a surprising amount of detail (2017)",
-            "insight": "HN 热议：338 分 · 124 评论",
-            "sentiment": "positive",
-            "comments": 124,
-            "url": "https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail",
+            "title": "Show HN: ctx – Search the coding agent history already on your machine",
+            "insight": "HN 热议：45 分 · 20 评论",
+            "sentiment": "neutral",
+            "comments": 20,
+            "url": "https://github.com/ctxrs/ctx",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
-            "insight": "HN 热议：260 分 · 216 评论",
-            "sentiment": "positive",
-            "comments": 216,
-            "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/",
+            "title": "I Wasn't Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination",
+            "insight": "HN 热议：34 分 · 16 评论",
+            "sentiment": "neutral",
+            "comments": 16,
+            "url": "https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: TaskPeace – a task queue my AI coding agents pull work from over MCP",
-            "insight": "HN 热议：3 分 · 1 评论",
-            "sentiment": "neutral",
-            "comments": 1,
-            "url": "https://taskpeace.com/",
+            "title": "Reality has a surprising amount of detail (2017)",
+            "insight": "HN 热议：351 分 · 135 评论",
+            "sentiment": "positive",
+            "comments": 135,
+            "url": "https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-03T16:17:20Z",
+    "updated": "2026-07-03T18:57:34Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

@@ -1,13 +1,13 @@
 {
-  "updated": "2026-07-03T16:17:20Z",
+  "updated": "2026-07-03T18:57:34Z",
   "repos": [
     {
       "rank": 1,
       "name": "Significant-Gravitas/AutoGPT",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
       "language": "Python",
-      "stars": 185311,
-      "stars_today": 185311,
+      "stars": 185317,
+      "stars_today": 185317,
       "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
@@ -24,8 +24,8 @@
       "name": "thedotmack/claude-mem",
       "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
       "language": "JavaScript",
-      "stars": 85658,
-      "stars_today": 85658,
+      "stars": 85671,
+      "stars_today": 85671,
       "url": "https://github.com/thedotmack/claude-mem"
     },
     {
@@ -33,8 +33,8 @@
       "name": "OpenHands/OpenHands",
       "description": "🙌 OpenHands: AI-Driven Development",
       "language": "Python",
-      "stars": 79283,
-      "stars_today": 79283,
+      "stars": 79301,
+      "stars_today": 79301,
       "url": "https://github.com/OpenHands/OpenHands"
     },
     {
@@ -42,8 +42,8 @@
       "name": "FlowiseAI/Flowise",
       "description": "Build AI Agents, Visually",
       "language": "TypeScript",
-      "stars": 54241,
-      "stars_today": 54241,
+      "stars": 54246,
+      "stars_today": 54246,
       "url": "https://github.com/FlowiseAI/Flowise"
     },
     {
@@ -51,8 +51,8 @@
       "name": "jingyaogong/minimind",
       "description": "🧠「大模型」2小时完全从0训练64M的小参数LLM！Train a 64M-parameter LLM from scratch in just 2h!",
       "language": "Python",
-      "stars": 52523,
-      "stars_today": 52523,
+      "stars": 52526,
+      "stars_today": 52526,
       "url": "https://github.com/jingyaogong/minimind"
     }
   ]
