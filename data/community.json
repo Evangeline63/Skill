@@ -1,48 +1,48 @@
 {
-  "updated": "2026-07-03T06:18:52Z",
+  "updated": "2026-07-03T11:23:14Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Reality has a surprising amount of detail (2017)",
-      "insight": "HN 热议：210 分 · 77 评论",
-      "sentiment": "positive",
-      "comments": 77,
-      "url": "https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail",
+      "title": "Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
+      "insight": "HN 热议：112 分 · 68 评论",
+      "sentiment": "neutral",
+      "comments": 68,
+      "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Every AI Visibility Tool Is Lying to You",
-      "insight": "HN 热议：12 分 · 1 评论",
-      "sentiment": "neutral",
-      "comments": 1,
-      "url": "https://canonry.ai/blog/ai-visibility-tools-are-lying",
+      "title": "Reality has a surprising amount of detail (2017)",
+      "insight": "HN 热议：283 分 · 107 评论",
+      "sentiment": "positive",
+      "comments": 107,
+      "url": "https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Claude-real-video － any LLM can watch a video",
-      "insight": "HN 热议：119 分 · 36 评论",
+      "title": "The short leash AI coding method for beating Fable",
+      "insight": "HN 热议：143 分 · 180 评论",
       "sentiment": "neutral",
-      "comments": 36,
-      "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+      "comments": 180,
+      "url": "https://blog.okturtles.org/2026/07/short-leash-ai-method/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "The short leash AI coding method for beating Fable",
-      "insight": "HN 热议：100 分 · 126 评论",
+      "title": "Claude-real-video － any LLM can watch a video",
+      "insight": "HN 热议：139 分 · 43 评论",
       "sentiment": "neutral",
-      "comments": 126,
-      "url": "https://blog.okturtles.org/2026/07/short-leash-ai-method/",
+      "comments": 43,
+      "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
       "id": 4
     },
     {
       "source": "HackerNews",
       "title": "A Special Wireless-Free Nikon Camera Is Publicly Available for the First Time",
-      "insight": "HN 热议：41 分 · 21 评论",
+      "insight": "HN 热议：67 分 · 56 评论",
       "sentiment": "neutral",
-      "comments": 21,
+      "comments": 56,
       "url": "https://petapixel.com/2026/06/24/a-special-wireless-free-nikon-camera-is-publicly-available-for-the-first-time/",
       "id": 5
     }

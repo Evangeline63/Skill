@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-03T06:18:52Z",
+    "updated": "2026-07-03T11:23:14Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-03T06:18:52Z",
+    "updated": "2026-07-03T11:23:14Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-03T06:18:52Z",
+    "updated": "2026-07-03T11:23:14Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185298,
-            "stars_today": 185298,
+            "stars": 185307,
+            "stars_today": 185307,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 164663,
-            "stars_today": 164663,
+            "stars": 164675,
+            "stars_today": 164675,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 85581,
-            "stars_today": 85581,
+            "stars": 85616,
+            "stars_today": 85616,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 79216,
-            "stars_today": 79216,
+            "stars": 79245,
+            "stars_today": 79245,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54226,
-            "stars_today": 54226,
+            "stars": 54239,
+            "stars_today": 54239,
             "url": "https://github.com/FlowiseAI/Flowise"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "jingyaogong/minimind",
             "description": "🧠「大模型」2小时完全从0训练64M的小参数LLM！Train a 64M-parameter LLM from scratch in just 2h!",
             "language": "Python",
-            "stars": 52495,
-            "stars_today": 52495,
+            "stars": 52515,
+            "stars_today": 52515,
             "url": "https://github.com/jingyaogong/minimind"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-03T06:18:52Z",
+    "updated": "2026-07-03T11:23:14Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-03T06:18:52Z",
+    "updated": "2026-07-03T11:23:14Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-03T06:18:52Z",
+    "updated": "2026-07-03T11:23:14Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Reality has a surprising amount of detail (2017)",
-            "insight": "HN 热议：210 分 · 77 评论",
-            "sentiment": "positive",
-            "comments": 77,
-            "url": "https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail",
+            "title": "Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
+            "insight": "HN 热议：112 分 · 68 评论",
+            "sentiment": "neutral",
+            "comments": 68,
+            "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Every AI Visibility Tool Is Lying to You",
-            "insight": "HN 热议：12 分 · 1 评论",
-            "sentiment": "neutral",
-            "comments": 1,
-            "url": "https://canonry.ai/blog/ai-visibility-tools-are-lying",
+            "title": "Reality has a surprising amount of detail (2017)",
+            "insight": "HN 热议：283 分 · 107 评论",
+            "sentiment": "positive",
+            "comments": 107,
+            "url": "https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Claude-real-video － any LLM can watch a video",
-            "insight": "HN 热议：119 分 · 36 评论",
+            "title": "The short leash AI coding method for beating Fable",
+            "insight": "HN 热议：143 分 · 180 评论",
             "sentiment": "neutral",
-            "comments": 36,
-            "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+            "comments": 180,
+            "url": "https://blog.okturtles.org/2026/07/short-leash-ai-method/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "The short leash AI coding method for beating Fable",
-            "insight": "HN 热议：100 分 · 126 评论",
+            "title": "Claude-real-video － any LLM can watch a video",
+            "insight": "HN 热议：139 分 · 43 评论",
             "sentiment": "neutral",
-            "comments": 126,
-            "url": "https://blog.okturtles.org/2026/07/short-leash-ai-method/",
+            "comments": 43,
+            "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
             "id": 4
         },
         {
             "source": "HackerNews",
             "title": "A Special Wireless-Free Nikon Camera Is Publicly Available for the First Time",
-            "insight": "HN 热议：41 分 · 21 评论",
+            "insight": "HN 热议：67 分 · 56 评论",
             "sentiment": "neutral",
-            "comments": 21,
+            "comments": 56,
             "url": "https://petapixel.com/2026/06/24/a-special-wireless-free-nikon-camera-is-publicly-available-for-the-first-time/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-03T06:18:52Z",
+    "updated": "2026-07-03T11:23:14Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
