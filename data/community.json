@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-04T18:51:47Z",
+  "updated": "2026-07-04T21:44:44Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "No more than 100 000 faint satellites should orbit Earth",
-      "insight": "HN 热议：51 分 · 41 评论",
+      "title": "At Dog School, children gain a sense of achievement",
+      "insight": "HN 热议：8 分 · 0 评论",
       "sentiment": "neutral",
-      "comments": 41,
-      "url": "https://www.eso.org/public/news/eso2607/",
+      "comments": 0,
+      "url": "https://www.csmonitor.com/Perspectives/Making-a-difference/2026/0630/dog-school-south-africa-funda-nenja",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Plein Air",
-      "insight": "HN 热议：18 分 · 2 评论",
+      "title": "Neural Render Proxies for Interactive and Differentiable Lighting",
+      "insight": "HN 热议：37 分 · 3 评论",
       "sentiment": "neutral",
-      "comments": 2,
-      "url": "https://art.joonas.wtf/",
+      "comments": 3,
+      "url": "https://studios.disneyresearch.com/2026/07/01/neural-render-proxies-for-interactive-and-differentiable-lighting/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Neural Render Proxies for Interactive and Differentiable Lighting",
-      "insight": "HN 热议：16 分 · 2 评论",
+      "title": "Postgres data stored in Parquet on S3: LTAP architecture explained",
+      "insight": "HN 热议：151 分 · 50 评论",
       "sentiment": "neutral",
-      "comments": 2,
-      "url": "https://studios.disneyresearch.com/2026/07/01/neural-render-proxies-for-interactive-and-differentiable-lighting/",
+      "comments": 50,
+      "url": "https://www.databricks.com/blog/lakebase-ltap-rethinking-database-storage",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Postgres data stored in Parquet on S3: LTAP architecture explained",
-      "insight": "HN 热议：134 分 · 43 评论",
-      "sentiment": "neutral",
-      "comments": 43,
-      "url": "https://www.databricks.com/blog/lakebase-ltap-rethinking-database-storage",
+      "title": "The bottleneck might be the air in the room",
+      "insight": "HN 热议：714 分 · 414 评论",
+      "sentiment": "positive",
+      "comments": 414,
+      "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "The bottleneck might be the air in the room",
-      "insight": "HN 热议：675 分 · 376 评论",
-      "sentiment": "positive",
-      "comments": 376,
-      "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
+      "title": "Plein Air",
+      "insight": "HN 热议：48 分 · 6 评论",
+      "sentiment": "neutral",
+      "comments": 6,
+      "url": "https://art.joonas.wtf/",
       "id": 5
     }
   ]

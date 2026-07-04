@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-04T18:51:47Z",
+    "updated": "2026-07-04T21:44:44Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-04T18:51:47Z",
+    "updated": "2026-07-04T21:44:44Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-04T18:51:47Z",
+    "updated": "2026-07-04T21:44:44Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185345,
-            "stars_today": 185345,
+            "stars": 185349,
+            "stars_today": 185349,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 164714,
-            "stars_today": 164714,
+            "stars": 164720,
+            "stars_today": 164720,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 85804,
-            "stars_today": 85804,
+            "stars": 85821,
+            "stars_today": 85821,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 79404,
-            "stars_today": 79404,
+            "stars": 79412,
+            "stars_today": 79412,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54273,
-            "stars_today": 54273,
+            "stars": 54275,
+            "stars_today": 54275,
             "url": "https://github.com/FlowiseAI/Flowise"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "jingyaogong/minimind",
             "description": "🧠「大模型」2小时完全从0训练64M的小参数LLM！Train a 64M-parameter LLM from scratch in just 2h!",
             "language": "Python",
-            "stars": 52558,
-            "stars_today": 52558,
+            "stars": 52559,
+            "stars_today": 52559,
             "url": "https://github.com/jingyaogong/minimind"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-04T18:51:47Z",
+    "updated": "2026-07-04T21:44:44Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-04T18:51:47Z",
+    "updated": "2026-07-04T21:44:44Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-04T18:51:47Z",
+    "updated": "2026-07-04T21:44:44Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "No more than 100 000 faint satellites should orbit Earth",
-            "insight": "HN 热议：51 分 · 41 评论",
+            "title": "At Dog School, children gain a sense of achievement",
+            "insight": "HN 热议：8 分 · 0 评论",
             "sentiment": "neutral",
-            "comments": 41,
-            "url": "https://www.eso.org/public/news/eso2607/",
+            "comments": 0,
+            "url": "https://www.csmonitor.com/Perspectives/Making-a-difference/2026/0630/dog-school-south-africa-funda-nenja",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Plein Air",
-            "insight": "HN 热议：18 分 · 2 评论",
+            "title": "Neural Render Proxies for Interactive and Differentiable Lighting",
+            "insight": "HN 热议：37 分 · 3 评论",
             "sentiment": "neutral",
-            "comments": 2,
-            "url": "https://art.joonas.wtf/",
+            "comments": 3,
+            "url": "https://studios.disneyresearch.com/2026/07/01/neural-render-proxies-for-interactive-and-differentiable-lighting/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Neural Render Proxies for Interactive and Differentiable Lighting",
-            "insight": "HN 热议：16 分 · 2 评论",
+            "title": "Postgres data stored in Parquet on S3: LTAP architecture explained",
+            "insight": "HN 热议：151 分 · 50 评论",
             "sentiment": "neutral",
-            "comments": 2,
-            "url": "https://studios.disneyresearch.com/2026/07/01/neural-render-proxies-for-interactive-and-differentiable-lighting/",
+            "comments": 50,
+            "url": "https://www.databricks.com/blog/lakebase-ltap-rethinking-database-storage",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Postgres data stored in Parquet on S3: LTAP architecture explained",
-            "insight": "HN 热议：134 分 · 43 评论",
-            "sentiment": "neutral",
-            "comments": 43,
-            "url": "https://www.databricks.com/blog/lakebase-ltap-rethinking-database-storage",
+            "title": "The bottleneck might be the air in the room",
+            "insight": "HN 热议：714 分 · 414 评论",
+            "sentiment": "positive",
+            "comments": 414,
+            "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "The bottleneck might be the air in the room",
-            "insight": "HN 热议：675 分 · 376 评论",
-            "sentiment": "positive",
-            "comments": 376,
-            "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
+            "title": "Plein Air",
+            "insight": "HN 热议：48 分 · 6 评论",
+            "sentiment": "neutral",
+            "comments": 6,
+            "url": "https://art.joonas.wtf/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-04T18:51:47Z",
+    "updated": "2026-07-04T21:44:44Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
