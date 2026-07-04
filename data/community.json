@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-03T21:53:44Z",
+  "updated": "2026-07-04T01:30:37Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Espionage Against the European Parliament",
-      "insight": "HN 热议：101 分 · 12 评论",
+      "title": "MSI Center – How to gain SYSTEM privileges in seconds",
+      "insight": "HN 热议：12 分 · 2 评论",
       "sentiment": "neutral",
-      "comments": 12,
-      "url": "https://citizenlab.ca/research/member-of-committee-investigating-spyware-hacked-with-pegasus/",
+      "comments": 2,
+      "url": "https://mrbruh.com/msicenter/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "AI First: How the Federal Government Is Prioritizing AI over People and Planet",
-      "insight": "HN 热议：16 分 · 6 评论",
+      "title": "The circuit that lets your brain think and see",
+      "insight": "HN 热议：32 分 · 4 评论",
       "sentiment": "neutral",
-      "comments": 6,
-      "url": "https://stopgreedbuildgreen.climateandcommunity.org/posts/ai-first",
+      "comments": 4,
+      "url": "https://www.engineering.columbia.edu/about/news/circuit-lets-your-brain-think-and-see",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "Jamesob's guide to running SOTA LLMs locally",
-      "insight": "HN 热议：221 分 · 102 评论",
+      "insight": "HN 热议：273 分 · 125 评论",
       "sentiment": "positive",
-      "comments": 102,
+      "comments": 125,
       "url": "https://github.com/jamesob/local-llm",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Kagi Changelog (July 2): Heads, tails, and an AI toggle",
-      "insight": "HN 热议：25 分 · 4 评论",
-      "sentiment": "neutral",
-      "comments": 4,
-      "url": "https://kagi.com/changelog#10959",
+      "title": "Espionage Against the European Parliament",
+      "insight": "HN 热议：267 分 · 65 评论",
+      "sentiment": "positive",
+      "comments": 65,
+      "url": "https://citizenlab.ca/research/member-of-committee-investigating-spyware-hacked-with-pegasus/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "My dad helped build North America's oat supply chain: Can it be remade?",
-      "insight": "HN 热议：76 分 · 40 评论",
+      "title": "New serious vulnerabilities spiked around release of Claude Mythos Preview",
+      "insight": "HN 热议：38 分 · 8 评论",
       "sentiment": "neutral",
-      "comments": 40,
-      "url": "https://ambrook.com/offrange/perspective/how-we-lost-our-oats",
+      "comments": 8,
+      "url": "https://epoch.ai/data-insights/cve-severity-spike",
       "id": 5
     }
   ]

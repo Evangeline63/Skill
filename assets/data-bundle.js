@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-03T21:53:44Z",
+    "updated": "2026-07-04T01:30:37Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-03T21:53:44Z",
+    "updated": "2026-07-04T01:30:37Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-03T21:53:44Z",
+    "updated": "2026-07-04T01:30:37Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185321,
-            "stars_today": 185321,
+            "stars": 185324,
+            "stars_today": 185324,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 164685,
-            "stars_today": 164685,
+            "stars": 164687,
+            "stars_today": 164687,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 85685,
-            "stars_today": 85685,
+            "stars": 85702,
+            "stars_today": 85702,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 79308,
-            "stars_today": 79308,
+            "stars": 79324,
+            "stars_today": 79324,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54249,
-            "stars_today": 54249,
+            "stars": 54251,
+            "stars_today": 54251,
             "url": "https://github.com/FlowiseAI/Flowise"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "jingyaogong/minimind",
             "description": "🧠「大模型」2小时完全从0训练64M的小参数LLM！Train a 64M-parameter LLM from scratch in just 2h!",
             "language": "Python",
-            "stars": 52526,
-            "stars_today": 52526,
+            "stars": 52527,
+            "stars_today": 52527,
             "url": "https://github.com/jingyaogong/minimind"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-03T21:53:44Z",
+    "updated": "2026-07-04T01:30:37Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-03T21:53:44Z",
+    "updated": "2026-07-04T01:30:37Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-03T21:53:44Z",
+    "updated": "2026-07-04T01:30:37Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Espionage Against the European Parliament",
-            "insight": "HN 热议：101 分 · 12 评论",
+            "title": "MSI Center – How to gain SYSTEM privileges in seconds",
+            "insight": "HN 热议：12 分 · 2 评论",
             "sentiment": "neutral",
-            "comments": 12,
-            "url": "https://citizenlab.ca/research/member-of-committee-investigating-spyware-hacked-with-pegasus/",
+            "comments": 2,
+            "url": "https://mrbruh.com/msicenter/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "AI First: How the Federal Government Is Prioritizing AI over People and Planet",
-            "insight": "HN 热议：16 分 · 6 评论",
+            "title": "The circuit that lets your brain think and see",
+            "insight": "HN 热议：32 分 · 4 评论",
             "sentiment": "neutral",
-            "comments": 6,
-            "url": "https://stopgreedbuildgreen.climateandcommunity.org/posts/ai-first",
+            "comments": 4,
+            "url": "https://www.engineering.columbia.edu/about/news/circuit-lets-your-brain-think-and-see",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "Jamesob's guide to running SOTA LLMs locally",
-            "insight": "HN 热议：221 分 · 102 评论",
+            "insight": "HN 热议：273 分 · 125 评论",
             "sentiment": "positive",
-            "comments": 102,
+            "comments": 125,
             "url": "https://github.com/jamesob/local-llm",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Kagi Changelog (July 2): Heads, tails, and an AI toggle",
-            "insight": "HN 热议：25 分 · 4 评论",
-            "sentiment": "neutral",
-            "comments": 4,
-            "url": "https://kagi.com/changelog#10959",
+            "title": "Espionage Against the European Parliament",
+            "insight": "HN 热议：267 分 · 65 评论",
+            "sentiment": "positive",
+            "comments": 65,
+            "url": "https://citizenlab.ca/research/member-of-committee-investigating-spyware-hacked-with-pegasus/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "My dad helped build North America's oat supply chain: Can it be remade?",
-            "insight": "HN 热议：76 分 · 40 评论",
+            "title": "New serious vulnerabilities spiked around release of Claude Mythos Preview",
+            "insight": "HN 热议：38 分 · 8 评论",
             "sentiment": "neutral",
-            "comments": 40,
-            "url": "https://ambrook.com/offrange/perspective/how-we-lost-our-oats",
+            "comments": 8,
+            "url": "https://epoch.ai/data-insights/cve-severity-spike",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-03T21:53:44Z",
+    "updated": "2026-07-04T01:30:37Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
