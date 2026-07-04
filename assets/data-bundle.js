@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-04T12:54:07Z",
+    "updated": "2026-07-04T15:52:02Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-04T12:54:07Z",
+    "updated": "2026-07-04T15:52:02Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-04T12:54:07Z",
+    "updated": "2026-07-04T15:52:02Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185335,
-            "stars_today": 185335,
+            "stars": 185338,
+            "stars_today": 185338,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 164708,
-            "stars_today": 164708,
+            "stars": 164712,
+            "stars_today": 164712,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 85751,
-            "stars_today": 85751,
+            "stars": 85789,
+            "stars_today": 85789,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 79375,
-            "stars_today": 79375,
+            "stars": 79393,
+            "stars_today": 79393,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54261,
-            "stars_today": 54261,
+            "stars": 54268,
+            "stars_today": 54268,
             "url": "https://github.com/FlowiseAI/Flowise"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "jingyaogong/minimind",
             "description": "🧠「大模型」2小时完全从0训练64M的小参数LLM！Train a 64M-parameter LLM from scratch in just 2h!",
             "language": "Python",
-            "stars": 52547,
-            "stars_today": 52547,
+            "stars": 52553,
+            "stars_today": 52553,
             "url": "https://github.com/jingyaogong/minimind"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-04T12:54:07Z",
+    "updated": "2026-07-04T15:52:02Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-04T12:54:07Z",
+    "updated": "2026-07-04T15:52:02Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-04T12:54:07Z",
+    "updated": "2026-07-04T15:52:02Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "The bottleneck might be the air in the room",
-            "insight": "HN 热议：433 分 · 262 评论",
-            "sentiment": "positive",
-            "comments": 262,
-            "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
+            "title": "Postgres data stored in Parquet on S3: LTAP architecture explained",
+            "insight": "HN 热议：105 分 · 30 评论",
+            "sentiment": "neutral",
+            "comments": 30,
+            "url": "https://www.databricks.com/blog/lakebase-ltap-rethinking-database-storage",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "The Vespa at 80: Why the Italian scooter remains the coolest thing on 2 wheels",
-            "insight": "HN 热议：18 分 · 11 评论",
-            "sentiment": "neutral",
-            "comments": 11,
-            "url": "https://www.cbc.ca/news/world/vespa-italy-postwar-design-9.7252641",
+            "title": "The bottleneck might be the air in the room",
+            "insight": "HN 热议：581 分 · 336 评论",
+            "sentiment": "positive",
+            "comments": 336,
+            "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Postgres data stored in Parquet on S3: LTAP architecture explained",
-            "insight": "HN 热议：57 分 · 19 评论",
+            "title": "The Vespa at 80: Why the Italian scooter remains the coolest thing on 2 wheels",
+            "insight": "HN 热议：79 分 · 73 评论",
             "sentiment": "neutral",
-            "comments": 19,
-            "url": "https://www.databricks.com/blog/lakebase-ltap-rethinking-database-storage",
+            "comments": 73,
+            "url": "https://www.cbc.ca/news/world/vespa-italy-postwar-design-9.7252641",
             "id": 3
         },
         {
             "source": "HackerNews",
             "title": "MSI Center – How to gain SYSTEM privileges in seconds",
-            "insight": "HN 热议：105 分 · 41 评论",
+            "insight": "HN 热议：124 分 · 51 评论",
             "sentiment": "neutral",
-            "comments": 41,
+            "comments": 51,
             "url": "https://mrbruh.com/msicenter/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Agentic coding notes from Galapagos Island",
-            "insight": "HN 热议：119 分 · 59 评论",
-            "sentiment": "neutral",
-            "comments": 59,
-            "url": "https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post",
+            "title": "Jamesob's guide to running SOTA LLMs locally",
+            "insight": "HN 热议：379 分 · 171 评论",
+            "sentiment": "positive",
+            "comments": 171,
+            "url": "https://github.com/jamesob/local-llm",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-04T12:54:07Z",
+    "updated": "2026-07-04T15:52:02Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
