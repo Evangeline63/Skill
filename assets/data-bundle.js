@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-04T15:52:02Z",
+    "updated": "2026-07-04T18:51:47Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-04T15:52:02Z",
+    "updated": "2026-07-04T18:51:47Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-04T15:52:02Z",
+    "updated": "2026-07-04T18:51:47Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185338,
-            "stars_today": 185338,
+            "stars": 185345,
+            "stars_today": 185345,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 164712,
-            "stars_today": 164712,
+            "stars": 164714,
+            "stars_today": 164714,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 85789,
-            "stars_today": 85789,
+            "stars": 85804,
+            "stars_today": 85804,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 79393,
-            "stars_today": 79393,
+            "stars": 79404,
+            "stars_today": 79404,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54268,
-            "stars_today": 54268,
+            "stars": 54273,
+            "stars_today": 54273,
             "url": "https://github.com/FlowiseAI/Flowise"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "jingyaogong/minimind",
             "description": "🧠「大模型」2小时完全从0训练64M的小参数LLM！Train a 64M-parameter LLM from scratch in just 2h!",
             "language": "Python",
-            "stars": 52553,
-            "stars_today": 52553,
+            "stars": 52558,
+            "stars_today": 52558,
             "url": "https://github.com/jingyaogong/minimind"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-04T15:52:02Z",
+    "updated": "2026-07-04T18:51:47Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-04T15:52:02Z",
+    "updated": "2026-07-04T18:51:47Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-04T15:52:02Z",
+    "updated": "2026-07-04T18:51:47Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Postgres data stored in Parquet on S3: LTAP architecture explained",
-            "insight": "HN 热议：105 分 · 30 评论",
+            "title": "No more than 100 000 faint satellites should orbit Earth",
+            "insight": "HN 热议：51 分 · 41 评论",
             "sentiment": "neutral",
-            "comments": 30,
-            "url": "https://www.databricks.com/blog/lakebase-ltap-rethinking-database-storage",
+            "comments": 41,
+            "url": "https://www.eso.org/public/news/eso2607/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "The bottleneck might be the air in the room",
-            "insight": "HN 热议：581 分 · 336 评论",
-            "sentiment": "positive",
-            "comments": 336,
-            "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
+            "title": "Plein Air",
+            "insight": "HN 热议：18 分 · 2 评论",
+            "sentiment": "neutral",
+            "comments": 2,
+            "url": "https://art.joonas.wtf/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "The Vespa at 80: Why the Italian scooter remains the coolest thing on 2 wheels",
-            "insight": "HN 热议：79 分 · 73 评论",
+            "title": "Neural Render Proxies for Interactive and Differentiable Lighting",
+            "insight": "HN 热议：16 分 · 2 评论",
             "sentiment": "neutral",
-            "comments": 73,
-            "url": "https://www.cbc.ca/news/world/vespa-italy-postwar-design-9.7252641",
+            "comments": 2,
+            "url": "https://studios.disneyresearch.com/2026/07/01/neural-render-proxies-for-interactive-and-differentiable-lighting/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "MSI Center – How to gain SYSTEM privileges in seconds",
-            "insight": "HN 热议：124 分 · 51 评论",
+            "title": "Postgres data stored in Parquet on S3: LTAP architecture explained",
+            "insight": "HN 热议：134 分 · 43 评论",
             "sentiment": "neutral",
-            "comments": 51,
-            "url": "https://mrbruh.com/msicenter/",
+            "comments": 43,
+            "url": "https://www.databricks.com/blog/lakebase-ltap-rethinking-database-storage",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Jamesob's guide to running SOTA LLMs locally",
-            "insight": "HN 热议：379 分 · 171 评论",
+            "title": "The bottleneck might be the air in the room",
+            "insight": "HN 热议：675 分 · 376 评论",
             "sentiment": "positive",
-            "comments": 171,
-            "url": "https://github.com/jamesob/local-llm",
+            "comments": 376,
+            "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-04T15:52:02Z",
+    "updated": "2026-07-04T18:51:47Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
