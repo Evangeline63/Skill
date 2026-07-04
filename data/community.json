@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-04T10:46:24Z",
+  "updated": "2026-07-04T12:54:07Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "The bottleneck might be the air in the room",
-      "insight": "HN 热议：274 分 · 165 评论",
+      "insight": "HN 热议：433 分 · 262 评论",
       "sentiment": "positive",
-      "comments": 165,
+      "comments": 262,
       "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Agentic coding notes from Galapagos Island",
-      "insight": "HN 热议：97 分 · 42 评论",
+      "title": "The Vespa at 80: Why the Italian scooter remains the coolest thing on 2 wheels",
+      "insight": "HN 热议：18 分 · 11 评论",
       "sentiment": "neutral",
-      "comments": 42,
-      "url": "https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post",
+      "comments": 11,
+      "url": "https://www.cbc.ca/news/world/vespa-italy-postwar-design-9.7252641",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "Postgres data stored in Parquet on S3: LTAP architecture explained",
-      "insight": "HN 热议：30 分 · 11 评论",
+      "insight": "HN 热议：57 分 · 19 评论",
       "sentiment": "neutral",
-      "comments": 11,
+      "comments": 19,
       "url": "https://www.databricks.com/blog/lakebase-ltap-rethinking-database-storage",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "MSI Center – How to gain SYSTEM privileges in seconds",
-      "insight": "HN 热议：94 分 · 28 评论",
+      "insight": "HN 热议：105 分 · 41 评论",
       "sentiment": "neutral",
-      "comments": 28,
+      "comments": 41,
       "url": "https://mrbruh.com/msicenter/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Jamesob's guide to running SOTA LLMs locally",
-      "insight": "HN 热议：351 分 · 153 评论",
-      "sentiment": "positive",
-      "comments": 153,
-      "url": "https://github.com/jamesob/local-llm",
+      "title": "Agentic coding notes from Galapagos Island",
+      "insight": "HN 热议：119 分 · 59 评论",
+      "sentiment": "neutral",
+      "comments": 59,
+      "url": "https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post",
       "id": 5
     }
   ]
