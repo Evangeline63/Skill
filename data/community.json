@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-05T13:01:59Z",
+  "updated": "2026-07-05T15:58:22Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Claude Design System Prompt",
-      "insight": "HN 热议：52 分 · 12 评论",
+      "title": "Airplane Boneyards List and Map",
+      "insight": "HN 热议：28 分 · 2 评论",
       "sentiment": "neutral",
-      "comments": 12,
-      "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
+      "comments": 2,
+      "url": "https://airplaneboneyards.com/airplane-boneyards-list-and-map.htm",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
-      "insight": "HN 热议：316 分 · 120 评论",
-      "sentiment": "positive",
-      "comments": 120,
-      "url": "https://github.com/openai/codex/issues/30364",
+      "title": "Train and run transformers directly on Apple's Neural Engine",
+      "insight": "HN 热议：14 分 · 3 评论",
+      "sentiment": "neutral",
+      "comments": 3,
+      "url": "https://github.com/christopherkarani/Espresso",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "The Log is the Agent",
-      "insight": "HN 热议：59 分 · 18 评论",
+      "title": "Solar rail could become common in Europe after successful trial in Switzerland",
+      "insight": "HN 热议：13 分 · 3 评论",
       "sentiment": "neutral",
-      "comments": 18,
-      "url": "https://arxiv.org/abs/2605.21997",
+      "comments": 3,
+      "url": "https://www.euronews.com/2026/07/05/italy-could-be-the-next-country-to-build-a-solar-railway-after-switzerlands-successful-tri",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "I wanted to be Anthony Bourdain–until I met him",
-      "insight": "HN 热议：36 分 · 4 评论",
+      "title": "The Log is the Agent",
+      "insight": "HN 热议：82 分 · 25 评论",
       "sentiment": "neutral",
-      "comments": 4,
-      "url": "https://cailey.substack.com/p/i-wanted-to-be-anthony-bourdainuntil",
+      "comments": 25,
+      "url": "https://arxiv.org/abs/2605.21997",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Record-breaking solo rower Kelsey Pfendler arrives in Hawaii",
-      "insight": "HN 热议：63 分 · 6 评论",
+      "title": "Spain's cadastre API is SOAP from 2003, so I built a JSON wrapper (+MCP)",
+      "insight": "HN 热议：14 分 · 7 评论",
       "sentiment": "neutral",
-      "comments": 6,
-      "url": "https://www.hawaiinewsnow.com/2026/07/04/record-breaking-solo-rower-kelsey-pfendler-arrives-hawaii/",
+      "comments": 7,
+      "url": "https://prediohq.com/",
       "id": 5
     }
   ]

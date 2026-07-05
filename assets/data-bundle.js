@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-05T13:01:59Z",
+    "updated": "2026-07-05T15:58:22Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-05T13:01:59Z",
+    "updated": "2026-07-05T15:58:22Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-05T13:01:59Z",
+    "updated": "2026-07-05T15:58:22Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185371,
-            "stars_today": 185371,
+            "stars": 185376,
+            "stars_today": 185376,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 164749,
-            "stars_today": 164749,
+            "stars": 164758,
+            "stars_today": 164758,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 85917,
-            "stars_today": 85917,
+            "stars": 85938,
+            "stars_today": 85938,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 79477,
-            "stars_today": 79477,
+            "stars": 79490,
+            "stars_today": 79490,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54292,
-            "stars_today": 54292,
+            "stars": 54296,
+            "stars_today": 54296,
             "url": "https://github.com/FlowiseAI/Flowise"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "microsoft/AI-For-Beginners",
             "description": "12 Weeks, 24 Lessons, AI for All!",
             "language": "Jupyter Notebook",
-            "stars": 51702,
-            "stars_today": 51702,
+            "stars": 51705,
+            "stars_today": 51705,
             "url": "https://github.com/microsoft/AI-For-Beginners"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-05T13:01:59Z",
+    "updated": "2026-07-05T15:58:22Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-05T13:01:59Z",
+    "updated": "2026-07-05T15:58:22Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-05T13:01:59Z",
+    "updated": "2026-07-05T15:58:22Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Claude Design System Prompt",
-            "insight": "HN 热议：52 分 · 12 评论",
+            "title": "Airplane Boneyards List and Map",
+            "insight": "HN 热议：28 分 · 2 评论",
             "sentiment": "neutral",
-            "comments": 12,
-            "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
+            "comments": 2,
+            "url": "https://airplaneboneyards.com/airplane-boneyards-list-and-map.htm",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
-            "insight": "HN 热议：316 分 · 120 评论",
-            "sentiment": "positive",
-            "comments": 120,
-            "url": "https://github.com/openai/codex/issues/30364",
+            "title": "Train and run transformers directly on Apple's Neural Engine",
+            "insight": "HN 热议：14 分 · 3 评论",
+            "sentiment": "neutral",
+            "comments": 3,
+            "url": "https://github.com/christopherkarani/Espresso",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "The Log is the Agent",
-            "insight": "HN 热议：59 分 · 18 评论",
+            "title": "Solar rail could become common in Europe after successful trial in Switzerland",
+            "insight": "HN 热议：13 分 · 3 评论",
             "sentiment": "neutral",
-            "comments": 18,
-            "url": "https://arxiv.org/abs/2605.21997",
+            "comments": 3,
+            "url": "https://www.euronews.com/2026/07/05/italy-could-be-the-next-country-to-build-a-solar-railway-after-switzerlands-successful-tri",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "I wanted to be Anthony Bourdain–until I met him",
-            "insight": "HN 热议：36 分 · 4 评论",
+            "title": "The Log is the Agent",
+            "insight": "HN 热议：82 分 · 25 评论",
             "sentiment": "neutral",
-            "comments": 4,
-            "url": "https://cailey.substack.com/p/i-wanted-to-be-anthony-bourdainuntil",
+            "comments": 25,
+            "url": "https://arxiv.org/abs/2605.21997",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Record-breaking solo rower Kelsey Pfendler arrives in Hawaii",
-            "insight": "HN 热议：63 分 · 6 评论",
+            "title": "Spain's cadastre API is SOAP from 2003, so I built a JSON wrapper (+MCP)",
+            "insight": "HN 热议：14 分 · 7 评论",
             "sentiment": "neutral",
-            "comments": 6,
-            "url": "https://www.hawaiinewsnow.com/2026/07/04/record-breaking-solo-rower-kelsey-pfendler-arrives-hawaii/",
+            "comments": 7,
+            "url": "https://prediohq.com/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-05T13:01:59Z",
+    "updated": "2026-07-05T15:58:22Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
