@@ -1,13 +1,13 @@
 {
-  "updated": "2026-07-04T21:44:44Z",
+  "updated": "2026-07-05T01:47:14Z",
   "repos": [
     {
       "rank": 1,
       "name": "Significant-Gravitas/AutoGPT",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
       "language": "Python",
-      "stars": 185349,
-      "stars_today": 185349,
+      "stars": 185352,
+      "stars_today": 185352,
       "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
@@ -15,8 +15,8 @@
       "name": "f/prompts.chat",
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
       "language": "HTML",
-      "stars": 164720,
-      "stars_today": 164720,
+      "stars": 164723,
+      "stars_today": 164723,
       "url": "https://github.com/f/prompts.chat"
     },
     {
@@ -24,8 +24,8 @@
       "name": "thedotmack/claude-mem",
       "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
       "language": "JavaScript",
-      "stars": 85821,
-      "stars_today": 85821,
+      "stars": 85842,
+      "stars_today": 85842,
       "url": "https://github.com/thedotmack/claude-mem"
     },
     {
@@ -33,8 +33,8 @@
       "name": "OpenHands/OpenHands",
       "description": "🙌 OpenHands: AI-Driven Development",
       "language": "Python",
-      "stars": 79412,
-      "stars_today": 79412,
+      "stars": 79429,
+      "stars_today": 79429,
       "url": "https://github.com/OpenHands/OpenHands"
     },
     {
@@ -42,18 +42,18 @@
       "name": "FlowiseAI/Flowise",
       "description": "Build AI Agents, Visually",
       "language": "TypeScript",
-      "stars": 54275,
-      "stars_today": 54275,
+      "stars": 54277,
+      "stars_today": 54277,
       "url": "https://github.com/FlowiseAI/Flowise"
     },
     {
       "rank": 6,
-      "name": "jingyaogong/minimind",
-      "description": "🧠「大模型」2小时完全从0训练64M的小参数LLM！Train a 64M-parameter LLM from scratch in just 2h!",
-      "language": "Python",
-      "stars": 52559,
-      "stars_today": 52559,
-      "url": "https://github.com/jingyaogong/minimind"
+      "name": "microsoft/AI-For-Beginners",
+      "description": "12 Weeks, 24 Lessons, AI for All!",
+      "language": "Jupyter Notebook",
+      "stars": 51666,
+      "stars_today": 51666,
+      "url": "https://github.com/microsoft/AI-For-Beginners"
     }
   ]
 }
