@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-05T01:47:14Z",
+    "updated": "2026-07-05T06:27:32Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-05T01:47:14Z",
+    "updated": "2026-07-05T06:27:32Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-05T01:47:14Z",
+    "updated": "2026-07-05T06:27:32Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185352,
-            "stars_today": 185352,
+            "stars": 185357,
+            "stars_today": 185357,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 164723,
-            "stars_today": 164723,
+            "stars": 164732,
+            "stars_today": 164732,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 85842,
-            "stars_today": 85842,
+            "stars": 85870,
+            "stars_today": 85870,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 79429,
-            "stars_today": 79429,
+            "stars": 79456,
+            "stars_today": 79456,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54277,
-            "stars_today": 54277,
+            "stars": 54282,
+            "stars_today": 54282,
             "url": "https://github.com/FlowiseAI/Flowise"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "microsoft/AI-For-Beginners",
             "description": "12 Weeks, 24 Lessons, AI for All!",
             "language": "Jupyter Notebook",
-            "stars": 51666,
-            "stars_today": 51666,
+            "stars": 51679,
+            "stars_today": 51679,
             "url": "https://github.com/microsoft/AI-For-Beginners"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-05T01:47:14Z",
+    "updated": "2026-07-05T06:27:32Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-05T01:47:14Z",
+    "updated": "2026-07-05T06:27:32Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-05T01:47:14Z",
+    "updated": "2026-07-05T06:27:32Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Scientists reverse brain aging, with a nasal spray",
-            "insight": "HN 热议：121 分 · 44 评论",
+            "title": "Mouse: Precision Editing Tools for AI Coding Agents",
+            "insight": "HN 热议：12 分 · 13 评论",
             "sentiment": "neutral",
-            "comments": 44,
-            "url": "https://stories.tamu.edu/news/2026/04/14/scientists-reverse-brain-aging-with-a-nasal-spray/",
+            "comments": 13,
+            "url": "https://hic-ai.com",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
-            "insight": "HN 热议：140 分 · 44 评论",
-            "sentiment": "neutral",
-            "comments": 44,
+            "insight": "HN 热议：224 分 · 78 评论",
+            "sentiment": "positive",
+            "comments": 78,
             "url": "https://github.com/openai/codex/issues/30364",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress",
-            "insight": "HN 热议：24 分 · 27 评论",
+            "title": "Atomic Force Microscope high-speed video, stainless etching, bacteria, and more",
+            "insight": "HN 热议：49 分 · 4 评论",
             "sentiment": "neutral",
-            "comments": 27,
-            "url": "https://ekinertac.com/blog/i-dont-know-rust-my-ai-is-rewriting-php-in-it/",
+            "comments": 4,
+            "url": "https://www.youtube.com/watch?v=DyIQkqBXhS0",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Protocol Prying: Vulnerability Research in AirDrop and Quick Share",
-            "insight": "HN 热议：12 分 · 1 评论",
+            "title": "The Log Is the Agent",
+            "insight": "HN 热议：17 分 · 0 评论",
             "sentiment": "neutral",
-            "comments": 1,
-            "url": "https://arxiv.org/abs/2606.26967",
+            "comments": 0,
+            "url": "https://arxiv.org/abs/2605.21997",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Neural Render Proxies for Interactive and Differentiable Lighting",
-            "insight": "HN 热议：51 分 · 8 评论",
+            "title": "Record-breaking solo rower Kelsey Pfendler arrives in Hawaii",
+            "insight": "HN 热议：29 分 · 1 评论",
             "sentiment": "neutral",
-            "comments": 8,
-            "url": "https://studios.disneyresearch.com/2026/07/01/neural-render-proxies-for-interactive-and-differentiable-lighting/",
+            "comments": 1,
+            "url": "https://www.hawaiinewsnow.com/2026/07/04/record-breaking-solo-rower-kelsey-pfendler-arrives-hawaii/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-05T01:47:14Z",
+    "updated": "2026-07-05T06:27:32Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
