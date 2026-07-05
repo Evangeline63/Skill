@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-05T18:56:05Z",
+    "updated": "2026-07-05T21:47:18Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-05T18:56:05Z",
+    "updated": "2026-07-05T21:47:18Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-05T18:56:05Z",
+    "updated": "2026-07-05T21:47:18Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185378,
-            "stars_today": 185378,
+            "stars": 185388,
+            "stars_today": 185388,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 164763,
-            "stars_today": 164763,
+            "stars": 164770,
+            "stars_today": 164770,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 85958,
-            "stars_today": 85958,
+            "stars": 85974,
+            "stars_today": 85974,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 79505,
-            "stars_today": 79505,
+            "stars": 79514,
+            "stars_today": 79514,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54296,
-            "stars_today": 54296,
+            "stars": 54300,
+            "stars_today": 54300,
             "url": "https://github.com/FlowiseAI/Flowise"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "microsoft/AI-For-Beginners",
             "description": "12 Weeks, 24 Lessons, AI for All!",
             "language": "Jupyter Notebook",
-            "stars": 51718,
-            "stars_today": 51718,
+            "stars": 51731,
+            "stars_today": 51731,
             "url": "https://github.com/microsoft/AI-For-Beginners"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-05T18:56:05Z",
+    "updated": "2026-07-05T21:47:18Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-05T18:56:05Z",
+    "updated": "2026-07-05T21:47:18Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-05T18:56:05Z",
+    "updated": "2026-07-05T21:47:18Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Airplane Boneyards List and Map",
-            "insight": "HN 热议：60 分 · 12 评论",
+            "title": "Reparaible and open source paper printer",
+            "insight": "HN 热议：47 分 · 12 评论",
             "sentiment": "neutral",
             "comments": 12,
-            "url": "https://airplaneboneyards.com/airplane-boneyards-list-and-map.htm",
+            "url": "https://www.opentools.studio/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Why DMARC's new \"NP\" tag can fail with DNSSEC",
-            "insight": "HN 热议：22 分 · 7 评论",
+            "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
+            "insight": "HN 热议：87 分 · 55 评论",
             "sentiment": "neutral",
-            "comments": 7,
-            "url": "https://dmarcwise.io/blog/dmarc-np-incompatibility-with-dnssec",
+            "comments": 55,
+            "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Mark Zuckerberg tells staff that AI agents haven't progressed enough",
-            "insight": "HN 热议：101 分 · 86 评论",
+            "title": "Mr. Baby Paint and accidentally discovering a new cellular automata",
+            "insight": "HN 热议：54 分 · 9 评论",
             "sentiment": "neutral",
-            "comments": 86,
-            "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+            "comments": 9,
+            "url": "https://tekstien-marginaalien-keskus.aalto.fi/residenssi/heikki/blog/004-december-2/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "OpenWiki: CLI that writes and maintains agent documentation for your codebase",
-            "insight": "HN 热议：49 分 · 15 评论",
+            "title": "Show HN: Osint tool that finds exposed files on domains",
+            "insight": "HN 热议：9 分 · 0 评论",
             "sentiment": "neutral",
-            "comments": 15,
-            "url": "https://github.com/langchain-ai/openwiki",
+            "comments": 0,
+            "url": "https://search.cerast-intelligence.com/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Autonomous flying umbrella follows and shields users from rain and sunlight",
-            "insight": "HN 热议：55 分 · 25 评论",
+            "title": "Airplane Boneyards List and Map",
+            "insight": "HN 热议：71 分 · 12 评论",
             "sentiment": "neutral",
-            "comments": 25,
-            "url": "https://www.designboom.com/technology/autonomous-flying-umbrella-follows-users-rain-sunlight-i-build-stuff-01-13-2026/",
+            "comments": 12,
+            "url": "https://airplaneboneyards.com/airplane-boneyards-list-and-map.htm",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-05T18:56:05Z",
+    "updated": "2026-07-05T21:47:18Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

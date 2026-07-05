@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-05T18:56:05Z",
+  "updated": "2026-07-05T21:47:18Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Airplane Boneyards List and Map",
-      "insight": "HN 热议：60 分 · 12 评论",
+      "title": "Reparaible and open source paper printer",
+      "insight": "HN 热议：47 分 · 12 评论",
       "sentiment": "neutral",
       "comments": 12,
-      "url": "https://airplaneboneyards.com/airplane-boneyards-list-and-map.htm",
+      "url": "https://www.opentools.studio/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Why DMARC's new \"NP\" tag can fail with DNSSEC",
-      "insight": "HN 热议：22 分 · 7 评论",
+      "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
+      "insight": "HN 热议：87 分 · 55 评论",
       "sentiment": "neutral",
-      "comments": 7,
-      "url": "https://dmarcwise.io/blog/dmarc-np-incompatibility-with-dnssec",
+      "comments": 55,
+      "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Mark Zuckerberg tells staff that AI agents haven't progressed enough",
-      "insight": "HN 热议：101 分 · 86 评论",
+      "title": "Mr. Baby Paint and accidentally discovering a new cellular automata",
+      "insight": "HN 热议：54 分 · 9 评论",
       "sentiment": "neutral",
-      "comments": 86,
-      "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+      "comments": 9,
+      "url": "https://tekstien-marginaalien-keskus.aalto.fi/residenssi/heikki/blog/004-december-2/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "OpenWiki: CLI that writes and maintains agent documentation for your codebase",
-      "insight": "HN 热议：49 分 · 15 评论",
+      "title": "Show HN: Osint tool that finds exposed files on domains",
+      "insight": "HN 热议：9 分 · 0 评论",
       "sentiment": "neutral",
-      "comments": 15,
-      "url": "https://github.com/langchain-ai/openwiki",
+      "comments": 0,
+      "url": "https://search.cerast-intelligence.com/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Autonomous flying umbrella follows and shields users from rain and sunlight",
-      "insight": "HN 热议：55 分 · 25 评论",
+      "title": "Airplane Boneyards List and Map",
+      "insight": "HN 热议：71 分 · 12 评论",
       "sentiment": "neutral",
-      "comments": 25,
-      "url": "https://www.designboom.com/technology/autonomous-flying-umbrella-follows-users-rain-sunlight-i-build-stuff-01-13-2026/",
+      "comments": 12,
+      "url": "https://airplaneboneyards.com/airplane-boneyards-list-and-map.htm",
       "id": 5
     }
   ]
