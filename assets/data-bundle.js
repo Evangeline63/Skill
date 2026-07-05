@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-05T06:27:32Z",
+    "updated": "2026-07-05T10:56:15Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-05T06:27:32Z",
+    "updated": "2026-07-05T10:56:15Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-05T06:27:32Z",
+    "updated": "2026-07-05T10:56:15Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185357,
-            "stars_today": 185357,
+            "stars": 185369,
+            "stars_today": 185369,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 164732,
-            "stars_today": 164732,
+            "stars": 164746,
+            "stars_today": 164746,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 85870,
-            "stars_today": 85870,
+            "stars": 85902,
+            "stars_today": 85902,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 79456,
-            "stars_today": 79456,
+            "stars": 79471,
+            "stars_today": 79471,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54282,
-            "stars_today": 54282,
+            "stars": 54291,
+            "stars_today": 54291,
             "url": "https://github.com/FlowiseAI/Flowise"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "microsoft/AI-For-Beginners",
             "description": "12 Weeks, 24 Lessons, AI for All!",
             "language": "Jupyter Notebook",
-            "stars": 51679,
-            "stars_today": 51679,
+            "stars": 51698,
+            "stars_today": 51698,
             "url": "https://github.com/microsoft/AI-For-Beginners"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-05T06:27:32Z",
+    "updated": "2026-07-05T10:56:15Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-05T06:27:32Z",
+    "updated": "2026-07-05T10:56:15Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-05T06:27:32Z",
+    "updated": "2026-07-05T10:56:15Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Mouse: Precision Editing Tools for AI Coding Agents",
-            "insight": "HN 热议：12 分 · 13 评论",
-            "sentiment": "neutral",
-            "comments": 13,
-            "url": "https://hic-ai.com",
+            "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
+            "insight": "HN 热议：283 分 · 112 评论",
+            "sentiment": "positive",
+            "comments": 112,
+            "url": "https://github.com/openai/codex/issues/30364",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
-            "insight": "HN 热议：224 分 · 78 评论",
-            "sentiment": "positive",
-            "comments": 78,
-            "url": "https://github.com/openai/codex/issues/30364",
+            "title": "Atomic Force Microscope high-speed video, stainless etching, bacteria, and more",
+            "insight": "HN 热议：77 分 · 8 评论",
+            "sentiment": "neutral",
+            "comments": 8,
+            "url": "https://www.youtube.com/watch?v=DyIQkqBXhS0",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Atomic Force Microscope high-speed video, stainless etching, bacteria, and more",
-            "insight": "HN 热议：49 分 · 4 评论",
+            "title": "The Log Is the Agent",
+            "insight": "HN 热议：46 分 · 12 评论",
             "sentiment": "neutral",
-            "comments": 4,
-            "url": "https://www.youtube.com/watch?v=DyIQkqBXhS0",
+            "comments": 12,
+            "url": "https://arxiv.org/abs/2605.21997",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "The Log Is the Agent",
-            "insight": "HN 热议：17 分 · 0 评论",
+            "title": "Record-breaking solo rower Kelsey Pfendler arrives in Hawaii",
+            "insight": "HN 热议：54 分 · 6 评论",
             "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://arxiv.org/abs/2605.21997",
+            "comments": 6,
+            "url": "https://www.hawaiinewsnow.com/2026/07/04/record-breaking-solo-rower-kelsey-pfendler-arrives-hawaii/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Record-breaking solo rower Kelsey Pfendler arrives in Hawaii",
-            "insight": "HN 热议：29 分 · 1 评论",
+            "title": "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
+            "insight": "HN 热议：51 分 · 56 评论",
             "sentiment": "neutral",
-            "comments": 1,
-            "url": "https://www.hawaiinewsnow.com/2026/07/04/record-breaking-solo-rower-kelsey-pfendler-arrives-hawaii/",
+            "comments": 56,
+            "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-05T06:27:32Z",
+    "updated": "2026-07-05T10:56:15Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
