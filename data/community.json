@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-05T15:58:22Z",
+  "updated": "2026-07-05T18:56:05Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Airplane Boneyards List and Map",
-      "insight": "HN 热议：28 分 · 2 评论",
+      "insight": "HN 热议：60 分 · 12 评论",
       "sentiment": "neutral",
-      "comments": 2,
+      "comments": 12,
       "url": "https://airplaneboneyards.com/airplane-boneyards-list-and-map.htm",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Train and run transformers directly on Apple's Neural Engine",
-      "insight": "HN 热议：14 分 · 3 评论",
+      "title": "Why DMARC's new \"NP\" tag can fail with DNSSEC",
+      "insight": "HN 热议：22 分 · 7 评论",
       "sentiment": "neutral",
-      "comments": 3,
-      "url": "https://github.com/christopherkarani/Espresso",
+      "comments": 7,
+      "url": "https://dmarcwise.io/blog/dmarc-np-incompatibility-with-dnssec",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Solar rail could become common in Europe after successful trial in Switzerland",
-      "insight": "HN 热议：13 分 · 3 评论",
+      "title": "Mark Zuckerberg tells staff that AI agents haven't progressed enough",
+      "insight": "HN 热议：101 分 · 86 评论",
       "sentiment": "neutral",
-      "comments": 3,
-      "url": "https://www.euronews.com/2026/07/05/italy-could-be-the-next-country-to-build-a-solar-railway-after-switzerlands-successful-tri",
+      "comments": 86,
+      "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "The Log is the Agent",
-      "insight": "HN 热议：82 分 · 25 评论",
+      "title": "OpenWiki: CLI that writes and maintains agent documentation for your codebase",
+      "insight": "HN 热议：49 分 · 15 评论",
       "sentiment": "neutral",
-      "comments": 25,
-      "url": "https://arxiv.org/abs/2605.21997",
+      "comments": 15,
+      "url": "https://github.com/langchain-ai/openwiki",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Spain's cadastre API is SOAP from 2003, so I built a JSON wrapper (+MCP)",
-      "insight": "HN 热议：14 分 · 7 评论",
+      "title": "Autonomous flying umbrella follows and shields users from rain and sunlight",
+      "insight": "HN 热议：55 分 · 25 评论",
       "sentiment": "neutral",
-      "comments": 7,
-      "url": "https://prediohq.com/",
+      "comments": 25,
+      "url": "https://www.designboom.com/technology/autonomous-flying-umbrella-follows-users-rain-sunlight-i-build-stuff-01-13-2026/",
       "id": 5
     }
   ]

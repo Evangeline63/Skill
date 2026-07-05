@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-05T15:58:22Z",
+    "updated": "2026-07-05T18:56:05Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-05T15:58:22Z",
+    "updated": "2026-07-05T18:56:05Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-05T15:58:22Z",
+    "updated": "2026-07-05T18:56:05Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185376,
-            "stars_today": 185376,
+            "stars": 185378,
+            "stars_today": 185378,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 164758,
-            "stars_today": 164758,
+            "stars": 164763,
+            "stars_today": 164763,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 85938,
-            "stars_today": 85938,
+            "stars": 85958,
+            "stars_today": 85958,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 79490,
-            "stars_today": 79490,
+            "stars": 79505,
+            "stars_today": 79505,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "microsoft/AI-For-Beginners",
             "description": "12 Weeks, 24 Lessons, AI for All!",
             "language": "Jupyter Notebook",
-            "stars": 51705,
-            "stars_today": 51705,
+            "stars": 51718,
+            "stars_today": 51718,
             "url": "https://github.com/microsoft/AI-For-Beginners"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-05T15:58:22Z",
+    "updated": "2026-07-05T18:56:05Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-05T15:58:22Z",
+    "updated": "2026-07-05T18:56:05Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-05T15:58:22Z",
+    "updated": "2026-07-05T18:56:05Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Airplane Boneyards List and Map",
-            "insight": "HN 热议：28 分 · 2 评论",
+            "insight": "HN 热议：60 分 · 12 评论",
             "sentiment": "neutral",
-            "comments": 2,
+            "comments": 12,
             "url": "https://airplaneboneyards.com/airplane-boneyards-list-and-map.htm",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Train and run transformers directly on Apple's Neural Engine",
-            "insight": "HN 热议：14 分 · 3 评论",
+            "title": "Why DMARC's new \"NP\" tag can fail with DNSSEC",
+            "insight": "HN 热议：22 分 · 7 评论",
             "sentiment": "neutral",
-            "comments": 3,
-            "url": "https://github.com/christopherkarani/Espresso",
+            "comments": 7,
+            "url": "https://dmarcwise.io/blog/dmarc-np-incompatibility-with-dnssec",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Solar rail could become common in Europe after successful trial in Switzerland",
-            "insight": "HN 热议：13 分 · 3 评论",
+            "title": "Mark Zuckerberg tells staff that AI agents haven't progressed enough",
+            "insight": "HN 热议：101 分 · 86 评论",
             "sentiment": "neutral",
-            "comments": 3,
-            "url": "https://www.euronews.com/2026/07/05/italy-could-be-the-next-country-to-build-a-solar-railway-after-switzerlands-successful-tri",
+            "comments": 86,
+            "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "The Log is the Agent",
-            "insight": "HN 热议：82 分 · 25 评论",
+            "title": "OpenWiki: CLI that writes and maintains agent documentation for your codebase",
+            "insight": "HN 热议：49 分 · 15 评论",
             "sentiment": "neutral",
-            "comments": 25,
-            "url": "https://arxiv.org/abs/2605.21997",
+            "comments": 15,
+            "url": "https://github.com/langchain-ai/openwiki",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Spain's cadastre API is SOAP from 2003, so I built a JSON wrapper (+MCP)",
-            "insight": "HN 热议：14 分 · 7 评论",
+            "title": "Autonomous flying umbrella follows and shields users from rain and sunlight",
+            "insight": "HN 热议：55 分 · 25 评论",
             "sentiment": "neutral",
-            "comments": 7,
-            "url": "https://prediohq.com/",
+            "comments": 25,
+            "url": "https://www.designboom.com/technology/autonomous-flying-umbrella-follows-users-rain-sunlight-i-build-stuff-01-13-2026/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-05T15:58:22Z",
+    "updated": "2026-07-05T18:56:05Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
