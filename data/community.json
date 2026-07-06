@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-06T19:27:59Z",
+  "updated": "2026-07-06T22:04:10Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
-      "insight": "HN 热议：193 分 · 147 评论",
-      "sentiment": "neutral",
-      "comments": 147,
+      "insight": "HN 热议：244 分 · 172 评论",
+      "sentiment": "positive",
+      "comments": 172,
       "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
-      "insight": "HN 热议：44 分 · 6 评论",
+      "title": "Pruning RAG context down to what the answer actually needs",
+      "insight": "HN 热议：7 分 · 0 评论",
       "sentiment": "neutral",
-      "comments": 6,
-      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "comments": 0,
+      "url": "https://www.kapa.ai/blog/how-we-prune-rag-context",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Real-time map of Great Britain's rail network",
-      "insight": "HN 热议：341 分 · 129 评论",
-      "sentiment": "positive",
-      "comments": 129,
-      "url": "https://www.map.signalbox.io",
+      "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
+      "insight": "HN 热议：82 分 · 25 评论",
+      "sentiment": "neutral",
+      "comments": 25,
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Big Tech Has Suddenly Flipped on the AI Jobs Wipeout Scenario",
-      "insight": "HN 热议：75 分 · 73 评论",
+      "title": "Taiganet.com, Home of the WS4000 Simulator",
+      "insight": "HN 热议：4 分 · 0 评论",
       "sentiment": "neutral",
-      "comments": 73,
-      "url": "https://www.wsj.com/tech/ai/ai-workers-tech-ceos-job-losses-afc71e15",
+      "comments": 0,
+      "url": "https://www.taiganet.com/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Does code cleanliness affect coding agents? A controlled minimal-pair study",
-      "insight": "HN 热议：187 分 · 88 评论",
-      "sentiment": "neutral",
-      "comments": 88,
-      "url": "https://arxiv.org/abs/2605.20049",
+      "title": "Real-time map of Great Britain's rail network",
+      "insight": "HN 热议：365 分 · 136 评论",
+      "sentiment": "positive",
+      "comments": 136,
+      "url": "https://www.map.signalbox.io",
       "id": 5
     }
   ]

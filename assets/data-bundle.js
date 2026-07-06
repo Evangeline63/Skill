@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-06T19:27:59Z",
+    "updated": "2026-07-06T22:04:10Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-06T19:27:59Z",
+    "updated": "2026-07-06T22:04:10Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-06T19:27:59Z",
+    "updated": "2026-07-06T22:04:10Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185403,
-            "stars_today": 185403,
+            "stars": 185401,
+            "stars_today": 185401,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,50 +282,50 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 164903,
-            "stars_today": 164903,
+            "stars": 164912,
+            "stars_today": 164912,
             "url": "https://github.com/f/prompts.chat"
         },
         {
             "rank": 3,
-            "name": "thedotmack/claude-mem",
-            "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
-            "language": "JavaScript",
-            "stars": 86145,
-            "stars_today": 86145,
-            "url": "https://github.com/thedotmack/claude-mem"
+            "name": "hacksider/Deep-Live-Cam",
+            "description": "real time face swap and one-click video deepfake with only a single image",
+            "language": "Python",
+            "stars": 94652,
+            "stars_today": 94652,
+            "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
             "rank": 4,
-            "name": "OpenHands/OpenHands",
-            "description": "🙌 OpenHands: AI-Driven Development",
-            "language": "Python",
-            "stars": 79638,
-            "stars_today": 79638,
-            "url": "https://github.com/OpenHands/OpenHands"
+            "name": "thedotmack/claude-mem",
+            "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
+            "language": "JavaScript",
+            "stars": 86155,
+            "stars_today": 86155,
+            "url": "https://github.com/thedotmack/claude-mem"
         },
         {
             "rank": 5,
-            "name": "FlowiseAI/Flowise",
-            "description": "Build AI Agents, Visually",
-            "language": "TypeScript",
-            "stars": 54340,
-            "stars_today": 54340,
-            "url": "https://github.com/FlowiseAI/Flowise"
+            "name": "OpenHands/OpenHands",
+            "description": "🙌 OpenHands: AI-Driven Development",
+            "language": "Python",
+            "stars": 79643,
+            "stars_today": 79643,
+            "url": "https://github.com/OpenHands/OpenHands"
         },
         {
             "rank": 6,
-            "name": "microsoft/AI-For-Beginners",
-            "description": "12 Weeks, 24 Lessons, AI for All!",
-            "language": "Jupyter Notebook",
-            "stars": 51791,
-            "stars_today": 51791,
-            "url": "https://github.com/microsoft/AI-For-Beginners"
+            "name": "FlowiseAI/Flowise",
+            "description": "Build AI Agents, Visually",
+            "language": "TypeScript",
+            "stars": 54342,
+            "stars_today": 54342,
+            "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-06T19:27:59Z",
+    "updated": "2026-07-06T22:04:10Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-06T19:27:59Z",
+    "updated": "2026-07-06T22:04:10Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-06T19:27:59Z",
+    "updated": "2026-07-06T22:04:10Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
-            "insight": "HN 热议：193 分 · 147 评论",
-            "sentiment": "neutral",
-            "comments": 147,
+            "insight": "HN 热议：244 分 · 172 评论",
+            "sentiment": "positive",
+            "comments": 172,
             "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
-            "insight": "HN 热议：44 分 · 6 评论",
+            "title": "Pruning RAG context down to what the answer actually needs",
+            "insight": "HN 热议：7 分 · 0 评论",
             "sentiment": "neutral",
-            "comments": 6,
-            "url": "https://github.com/iOfficeAI/OfficeCLI",
+            "comments": 0,
+            "url": "https://www.kapa.ai/blog/how-we-prune-rag-context",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Real-time map of Great Britain's rail network",
-            "insight": "HN 热议：341 分 · 129 评论",
-            "sentiment": "positive",
-            "comments": 129,
-            "url": "https://www.map.signalbox.io",
+            "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
+            "insight": "HN 热议：82 分 · 25 评论",
+            "sentiment": "neutral",
+            "comments": 25,
+            "url": "https://github.com/iOfficeAI/OfficeCLI",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Big Tech Has Suddenly Flipped on the AI Jobs Wipeout Scenario",
-            "insight": "HN 热议：75 分 · 73 评论",
+            "title": "Taiganet.com, Home of the WS4000 Simulator",
+            "insight": "HN 热议：4 分 · 0 评论",
             "sentiment": "neutral",
-            "comments": 73,
-            "url": "https://www.wsj.com/tech/ai/ai-workers-tech-ceos-job-losses-afc71e15",
+            "comments": 0,
+            "url": "https://www.taiganet.com/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Does code cleanliness affect coding agents? A controlled minimal-pair study",
-            "insight": "HN 热议：187 分 · 88 评论",
-            "sentiment": "neutral",
-            "comments": 88,
-            "url": "https://arxiv.org/abs/2605.20049",
+            "title": "Real-time map of Great Britain's rail network",
+            "insight": "HN 热议：365 分 · 136 评论",
+            "sentiment": "positive",
+            "comments": 136,
+            "url": "https://www.map.signalbox.io",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-06T19:27:59Z",
+    "updated": "2026-07-06T22:04:10Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
