@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-06T12:33:29Z",
+    "updated": "2026-07-06T17:35:48Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-06T12:33:29Z",
+    "updated": "2026-07-06T17:35:48Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-06T12:33:29Z",
+    "updated": "2026-07-06T17:35:48Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185403,
-            "stars_today": 185403,
+            "stars": 185402,
+            "stars_today": 185402,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 164860,
-            "stars_today": 164860,
+            "stars": 164900,
+            "stars_today": 164900,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 86105,
-            "stars_today": 86105,
+            "stars": 86138,
+            "stars_today": 86138,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 79601,
-            "stars_today": 79601,
+            "stars": 79628,
+            "stars_today": 79628,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54324,
-            "stars_today": 54324,
+            "stars": 54335,
+            "stars_today": 54335,
             "url": "https://github.com/FlowiseAI/Flowise"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "microsoft/AI-For-Beginners",
             "description": "12 Weeks, 24 Lessons, AI for All!",
             "language": "Jupyter Notebook",
-            "stars": 51764,
-            "stars_today": 51764,
+            "stars": 51786,
+            "stars_today": 51786,
             "url": "https://github.com/microsoft/AI-For-Beginners"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-06T12:33:29Z",
+    "updated": "2026-07-06T17:35:48Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-06T12:33:29Z",
+    "updated": "2026-07-06T17:35:48Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-06T12:33:29Z",
+    "updated": "2026-07-06T17:35:48Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Real-time map of Great Britain's rail network",
-            "insight": "HN 热议：171 分 · 68 评论",
+            "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
+            "insight": "HN 热议：108 分 · 84 评论",
             "sentiment": "neutral",
-            "comments": 68,
-            "url": "https://www.map.signalbox.io",
+            "comments": 84,
+            "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "GPT-5.6 Sol Ultra will be in Codex",
-            "insight": "HN 热议：328 分 · 275 评论",
+            "title": "Real-time map of Great Britain's rail network",
+            "insight": "HN 热议：320 分 · 123 评论",
             "sentiment": "positive",
-            "comments": 275,
-            "url": "https://twitter.com/thsottiaux/status/2073933490513752151",
+            "comments": 123,
+            "url": "https://www.map.signalbox.io",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Kill the Plastic AI Portrait",
-            "insight": "HN 热议：3 分 · 1 评论",
+            "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
+            "insight": "HN 热议：9 分 · 0 评论",
             "sentiment": "neutral",
-            "comments": 1,
-            "url": "https://realistic-shot-deploy-eight.vercel.app/",
+            "comments": 0,
+            "url": "https://github.com/iOfficeAI/OfficeCLI",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "C programmers commit fresh crimes against readability",
-            "insight": "HN 热议：20 分 · 0 评论",
+            "title": "The AI Superforecasters Are Here",
+            "insight": "HN 热议：6 分 · 1 评论",
             "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://www.theregister.com/offbeat/2026/07/05/c-programmers-commit-fresh-crimes-against-readability/5265981",
+            "comments": 1,
+            "url": "https://www.astralcodexten.com/p/the-ai-superforecasters-are-here",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Does code cleanliness affect coding agents? A controlled minimal-pair study",
-            "insight": "HN 热议：154 分 · 79 评论",
+            "title": "Electric anti-aircraft interceptor drone breaks world air speed record at 434mph",
+            "insight": "HN 热议：45 分 · 31 评论",
             "sentiment": "neutral",
-            "comments": 79,
-            "url": "https://arxiv.org/abs/2605.20049",
+            "comments": 31,
+            "url": "https://www.tomshardware.com/tech-industry/drones/electric-drone-breaks-world-air-speed-record-at-434-mph-designed-for-anti-aircraft-interceptor-roles-german-firm-convincingly-smashed-the-official-409-mph-record-hopes-to-get-stamp-of-approval-from-guinness-soon",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-06T12:33:29Z",
+    "updated": "2026-07-06T17:35:48Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
