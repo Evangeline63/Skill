@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-06T01:53:15Z",
+  "updated": "2026-07-06T06:58:19Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills",
-      "insight": "HN 热议：75 分 · 22 评论",
-      "sentiment": "neutral",
-      "comments": 22,
-      "url": "https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt",
+      "title": "GPT-5.6 Sol Ultra will be in Codex",
+      "insight": "HN 热议：212 分 · 147 评论",
+      "sentiment": "positive",
+      "comments": 147,
+      "url": "https://twitter.com/thsottiaux/status/2073933490513752151",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "GPT-5.6 Sol Ultra will be in Codex",
-      "insight": "HN 热议：20 分 · 2 评论",
+      "title": "Does code cleanliness affect coding agents? A controlled minimal-pair study",
+      "insight": "HN 热议：95 分 · 46 评论",
       "sentiment": "neutral",
-      "comments": 2,
-      "url": "https://twitter.com/thsottiaux/status/2073933490513752151",
+      "comments": 46,
+      "url": "https://arxiv.org/abs/2605.20049",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
-      "insight": "HN 热议：129 分 · 79 评论",
+      "title": "Mr. Baby Paint and accidentally discovering a new cellular automata",
+      "insight": "HN 热议：160 分 · 32 评论",
       "sentiment": "neutral",
-      "comments": 79,
-      "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
+      "comments": 32,
+      "url": "https://tekstien-marginaalien-keskus.aalto.fi/residenssi/heikki/blog/004-december-2/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Does Code Cleanliness Affect Coding Agents?",
-      "insight": "HN 热议：22 分 · 2 评论",
+      "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
+      "insight": "HN 热议：157 分 · 93 评论",
       "sentiment": "neutral",
-      "comments": 2,
-      "url": "https://arxiv.org/abs/2605.20049",
+      "comments": 93,
+      "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Mr. Baby Paint and accidentally discovering a new cellular automata",
-      "insight": "HN 热议：112 分 · 24 评论",
+      "title": "Delta flight hit by firework while landing at Midway Airport on Fourth of July",
+      "insight": "HN 热议：113 分 · 170 评论",
       "sentiment": "neutral",
-      "comments": 24,
-      "url": "https://tekstien-marginaalien-keskus.aalto.fi/residenssi/heikki/blog/004-december-2/",
+      "comments": 170,
+      "url": "https://www.nbcchicago.com/news/local/delta-flight-hit-by-firework-while-landing-at-midway-airport-on-fourth-of-july/3957451/",
       "id": 5
     }
   ]

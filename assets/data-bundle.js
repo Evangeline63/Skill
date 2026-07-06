@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-06T01:53:15Z",
+    "updated": "2026-07-06T06:58:19Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-06T01:53:15Z",
+    "updated": "2026-07-06T06:58:19Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-06T01:53:15Z",
+    "updated": "2026-07-06T06:58:19Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185389,
-            "stars_today": 185389,
+            "stars": 185399,
+            "stars_today": 185399,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 164788,
-            "stars_today": 164788,
+            "stars": 164822,
+            "stars_today": 164822,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 85993,
-            "stars_today": 85993,
+            "stars": 86041,
+            "stars_today": 86041,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 79531,
-            "stars_today": 79531,
+            "stars": 79558,
+            "stars_today": 79558,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54302,
-            "stars_today": 54302,
+            "stars": 54312,
+            "stars_today": 54312,
             "url": "https://github.com/FlowiseAI/Flowise"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "microsoft/AI-For-Beginners",
             "description": "12 Weeks, 24 Lessons, AI for All!",
             "language": "Jupyter Notebook",
-            "stars": 51737,
-            "stars_today": 51737,
+            "stars": 51752,
+            "stars_today": 51752,
             "url": "https://github.com/microsoft/AI-For-Beginners"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-06T01:53:15Z",
+    "updated": "2026-07-06T06:58:19Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-06T01:53:15Z",
+    "updated": "2026-07-06T06:58:19Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-06T01:53:15Z",
+    "updated": "2026-07-06T06:58:19Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills",
-            "insight": "HN 热议：75 分 · 22 评论",
-            "sentiment": "neutral",
-            "comments": 22,
-            "url": "https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt",
+            "title": "GPT-5.6 Sol Ultra will be in Codex",
+            "insight": "HN 热议：212 分 · 147 评论",
+            "sentiment": "positive",
+            "comments": 147,
+            "url": "https://twitter.com/thsottiaux/status/2073933490513752151",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "GPT-5.6 Sol Ultra will be in Codex",
-            "insight": "HN 热议：20 分 · 2 评论",
+            "title": "Does code cleanliness affect coding agents? A controlled minimal-pair study",
+            "insight": "HN 热议：95 分 · 46 评论",
             "sentiment": "neutral",
-            "comments": 2,
-            "url": "https://twitter.com/thsottiaux/status/2073933490513752151",
+            "comments": 46,
+            "url": "https://arxiv.org/abs/2605.20049",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
-            "insight": "HN 热议：129 分 · 79 评论",
+            "title": "Mr. Baby Paint and accidentally discovering a new cellular automata",
+            "insight": "HN 热议：160 分 · 32 评论",
             "sentiment": "neutral",
-            "comments": 79,
-            "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
+            "comments": 32,
+            "url": "https://tekstien-marginaalien-keskus.aalto.fi/residenssi/heikki/blog/004-december-2/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Does Code Cleanliness Affect Coding Agents?",
-            "insight": "HN 热议：22 分 · 2 评论",
+            "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
+            "insight": "HN 热议：157 分 · 93 评论",
             "sentiment": "neutral",
-            "comments": 2,
-            "url": "https://arxiv.org/abs/2605.20049",
+            "comments": 93,
+            "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Mr. Baby Paint and accidentally discovering a new cellular automata",
-            "insight": "HN 热议：112 分 · 24 评论",
+            "title": "Delta flight hit by firework while landing at Midway Airport on Fourth of July",
+            "insight": "HN 热议：113 分 · 170 评论",
             "sentiment": "neutral",
-            "comments": 24,
-            "url": "https://tekstien-marginaalien-keskus.aalto.fi/residenssi/heikki/blog/004-december-2/",
+            "comments": 170,
+            "url": "https://www.nbcchicago.com/news/local/delta-flight-hit-by-firework-while-landing-at-midway-airport-on-fourth-of-july/3957451/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-06T01:53:15Z",
+    "updated": "2026-07-06T06:58:19Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
