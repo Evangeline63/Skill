@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-07T17:02:54Z",
+  "updated": "2026-07-07T19:29:39Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Weighing smoke: why AI visibility dashboards are mostly useless",
-      "insight": "HN 热议：6 分 · 0 评论",
+      "title": "Chat Control 1.0 and 2.0 Explained",
+      "insight": "HN 热议：169 分 · 35 评论",
       "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://betterthangood.xyz/blog/weighing-smoke/",
+      "comments": 35,
+      "url": "https://fightchatcontrol.eu/chat-control-overview",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "C++ Details of Asymmetric Fences",
-      "insight": "HN 热议：42 分 · 2 评论",
+      "title": "AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
+      "insight": "HN 热议：11 分 · 0 评论",
       "sentiment": "neutral",
-      "comments": 2,
-      "url": "https://nekrozqliphort.github.io/posts/membarrier/",
+      "comments": 0,
+      "url": "https://blog.zksecurity.xyz/posts/circl-bugs/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "GitHub Freno: cooperative, highly available throttler service",
-      "insight": "HN 热议：4 分 · 0 评论",
+      "title": "Automating AI Away",
+      "insight": "HN 热议：50 分 · 27 评论",
       "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://github.com/github/freno",
+      "comments": 27,
+      "url": "https://replicated.live/blog/away",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Automating AI Away",
-      "insight": "HN 热议：5 分 · 0 评论",
+      "title": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
+      "insight": "HN 热议：7 分 · 0 评论",
       "sentiment": "neutral",
       "comments": 0,
-      "url": "https://replicated.live/blog/away",
+      "url": "https://github.com/rowboatlabs/rowboat",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Small AI Models Gain Traction In places with unreliable networks",
-      "insight": "HN 热议：247 分 · 76 评论",
-      "sentiment": "positive",
-      "comments": 76,
-      "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+      "title": "Show HN: Docx-CLI: agents read/edit Word docs using 1/2 the time and tokens",
+      "insight": "HN 热议：10 分 · 6 评论",
+      "sentiment": "neutral",
+      "comments": 6,
+      "url": "https://github.com/kklimuk/docx-cli",
       "id": 5
     }
   ]

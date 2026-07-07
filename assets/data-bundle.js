@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-07T17:02:54Z",
+    "updated": "2026-07-07T19:29:39Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-07T17:02:54Z",
+    "updated": "2026-07-07T19:29:39Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-07T17:02:54Z",
+    "updated": "2026-07-07T19:29:39Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185419,
-            "stars_today": 185419,
+            "stars": 185420,
+            "stars_today": 185420,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 165018,
-            "stars_today": 165018,
+            "stars": 165025,
+            "stars_today": 165025,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 94677,
-            "stars_today": 94677,
+            "stars": 94676,
+            "stars_today": 94676,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 86300,
-            "stars_today": 86300,
+            "stars": 86309,
+            "stars_today": 86309,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 79799,
-            "stars_today": 79799,
+            "stars": 79810,
+            "stars_today": 79810,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54382,
-            "stars_today": 54382,
+            "stars": 54385,
+            "stars_today": 54385,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-07T17:02:54Z",
+    "updated": "2026-07-07T19:29:39Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-07T17:02:54Z",
+    "updated": "2026-07-07T19:29:39Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-07T17:02:54Z",
+    "updated": "2026-07-07T19:29:39Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Weighing smoke: why AI visibility dashboards are mostly useless",
-            "insight": "HN 热议：6 分 · 0 评论",
+            "title": "Chat Control 1.0 and 2.0 Explained",
+            "insight": "HN 热议：169 分 · 35 评论",
             "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://betterthangood.xyz/blog/weighing-smoke/",
+            "comments": 35,
+            "url": "https://fightchatcontrol.eu/chat-control-overview",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "C++ Details of Asymmetric Fences",
-            "insight": "HN 热议：42 分 · 2 评论",
+            "title": "AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
+            "insight": "HN 热议：11 分 · 0 评论",
             "sentiment": "neutral",
-            "comments": 2,
-            "url": "https://nekrozqliphort.github.io/posts/membarrier/",
+            "comments": 0,
+            "url": "https://blog.zksecurity.xyz/posts/circl-bugs/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "GitHub Freno: cooperative, highly available throttler service",
-            "insight": "HN 热议：4 分 · 0 评论",
+            "title": "Automating AI Away",
+            "insight": "HN 热议：50 分 · 27 评论",
             "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://github.com/github/freno",
+            "comments": 27,
+            "url": "https://replicated.live/blog/away",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Automating AI Away",
-            "insight": "HN 热议：5 分 · 0 评论",
+            "title": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
+            "insight": "HN 热议：7 分 · 0 评论",
             "sentiment": "neutral",
             "comments": 0,
-            "url": "https://replicated.live/blog/away",
+            "url": "https://github.com/rowboatlabs/rowboat",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Small AI Models Gain Traction In places with unreliable networks",
-            "insight": "HN 热议：247 分 · 76 评论",
-            "sentiment": "positive",
-            "comments": 76,
-            "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+            "title": "Show HN: Docx-CLI: agents read/edit Word docs using 1/2 the time and tokens",
+            "insight": "HN 热议：10 分 · 6 评论",
+            "sentiment": "neutral",
+            "comments": 6,
+            "url": "https://github.com/kklimuk/docx-cli",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-07T17:02:54Z",
+    "updated": "2026-07-07T19:29:39Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
