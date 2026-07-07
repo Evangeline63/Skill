@@ -1,48 +1,48 @@
 {
-  "updated": "2026-07-07T19:29:39Z",
+  "updated": "2026-07-07T22:02:37Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Chat Control 1.0 and 2.0 Explained",
-      "insight": "HN 热议：169 分 · 35 评论",
-      "sentiment": "neutral",
-      "comments": 35,
+      "insight": "HN 热议：325 分 · 105 评论",
+      "sentiment": "positive",
+      "comments": 105,
       "url": "https://fightchatcontrol.eu/chat-control-overview",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
-      "insight": "HN 热议：11 分 · 0 评论",
+      "title": "Show HN: Davit, a Apple Containers UI",
+      "insight": "HN 热议：103 分 · 14 评论",
       "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://blog.zksecurity.xyz/posts/circl-bugs/",
+      "comments": 14,
+      "url": "https://davit.app",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Automating AI Away",
-      "insight": "HN 热议：50 分 · 27 评论",
+      "title": "AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
+      "insight": "HN 热议：55 分 · 7 评论",
       "sentiment": "neutral",
-      "comments": 27,
-      "url": "https://replicated.live/blog/away",
+      "comments": 7,
+      "url": "https://blog.zksecurity.xyz/posts/circl-bugs/",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
-      "insight": "HN 热议：7 分 · 0 评论",
+      "insight": "HN 热议：48 分 · 12 评论",
       "sentiment": "neutral",
-      "comments": 0,
+      "comments": 12,
       "url": "https://github.com/rowboatlabs/rowboat",
       "id": 4
     },
     {
       "source": "HackerNews",
       "title": "Show HN: Docx-CLI: agents read/edit Word docs using 1/2 the time and tokens",
-      "insight": "HN 热议：10 分 · 6 评论",
+      "insight": "HN 热议：40 分 · 15 评论",
       "sentiment": "neutral",
-      "comments": 6,
+      "comments": 15,
       "url": "https://github.com/kklimuk/docx-cli",
       "id": 5
     }
