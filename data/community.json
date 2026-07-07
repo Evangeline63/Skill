@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-06T22:04:10Z",
+  "updated": "2026-07-07T01:50:11Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
-      "insight": "HN 热议：244 分 · 172 评论",
-      "sentiment": "positive",
-      "comments": 172,
-      "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
+      "title": "GLM 5.2 and the coming AI margin collapse",
+      "insight": "HN 热议：157 分 · 108 评论",
+      "sentiment": "neutral",
+      "comments": 108,
+      "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Pruning RAG context down to what the answer actually needs",
-      "insight": "HN 热议：7 分 · 0 评论",
+      "title": "NSA and IETF: Fairness",
+      "insight": "HN 热议：35 分 · 8 评论",
       "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://www.kapa.ai/blog/how-we-prune-rag-context",
+      "comments": 8,
+      "url": "https://blog.cr.yp.to/20260706-fairness.html",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
-      "insight": "HN 热议：82 分 · 25 评论",
+      "title": "Pruning RAG context down to what the answer actually needs",
+      "insight": "HN 热议：54 分 · 5 评论",
       "sentiment": "neutral",
-      "comments": 25,
-      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "comments": 5,
+      "url": "https://www.kapa.ai/blog/how-we-prune-rag-context",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Taiganet.com, Home of the WS4000 Simulator",
-      "insight": "HN 热议：4 分 · 0 评论",
+      "title": "Small AI Models Gain Traction In places with unreliable networks",
+      "insight": "HN 热议：13 分 · 1 评论",
       "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://www.taiganet.com/",
+      "comments": 1,
+      "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Real-time map of Great Britain's rail network",
-      "insight": "HN 热议：365 分 · 136 评论",
+      "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
+      "insight": "HN 热议：275 分 · 199 评论",
       "sentiment": "positive",
-      "comments": 136,
-      "url": "https://www.map.signalbox.io",
+      "comments": 199,
+      "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
       "id": 5
     }
   ]
