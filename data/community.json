@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-07T14:01:16Z",
+  "updated": "2026-07-07T17:02:54Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "C++ Details of Asymmetric Fences",
-      "insight": "HN 热议：5 分 · 0 评论",
+      "title": "Weighing smoke: why AI visibility dashboards are mostly useless",
+      "insight": "HN 热议：6 分 · 0 评论",
       "sentiment": "neutral",
       "comments": 0,
-      "url": "https://nekrozqliphort.github.io/posts/membarrier/",
+      "url": "https://betterthangood.xyz/blog/weighing-smoke/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "GLM 5.2 and the coming AI margin collapse",
-      "insight": "HN 热议：566 分 · 347 评论",
-      "sentiment": "positive",
-      "comments": 347,
-      "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+      "title": "C++ Details of Asymmetric Fences",
+      "insight": "HN 热议：42 分 · 2 评论",
+      "sentiment": "neutral",
+      "comments": 2,
+      "url": "https://nekrozqliphort.github.io/posts/membarrier/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Small AI Models Gain Traction In places with unreliable networks",
-      "insight": "HN 热议：198 分 · 67 评论",
+      "title": "GitHub Freno: cooperative, highly available throttler service",
+      "insight": "HN 热议：4 分 · 0 评论",
       "sentiment": "neutral",
-      "comments": 67,
-      "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+      "comments": 0,
+      "url": "https://github.com/github/freno",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "In Praise of Observational Evidence",
-      "insight": "HN 热议：57 分 · 13 评论",
+      "title": "Automating AI Away",
+      "insight": "HN 热议：5 分 · 0 评论",
       "sentiment": "neutral",
-      "comments": 13,
-      "url": "https://asteriskmag.com/issues/14/in-praise-of-observational-evidence",
+      "comments": 0,
+      "url": "https://replicated.live/blog/away",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
-      "insight": "HN 热议：358 分 · 238 评论",
+      "title": "Small AI Models Gain Traction In places with unreliable networks",
+      "insight": "HN 热议：247 分 · 76 评论",
       "sentiment": "positive",
-      "comments": 238,
-      "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
+      "comments": 76,
+      "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
       "id": 5
     }
   ]

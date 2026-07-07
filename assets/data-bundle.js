@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-07T14:01:16Z",
+    "updated": "2026-07-07T17:02:54Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-07T14:01:16Z",
+    "updated": "2026-07-07T17:02:54Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-07T14:01:16Z",
+    "updated": "2026-07-07T17:02:54Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185417,
-            "stars_today": 185417,
+            "stars": 185419,
+            "stars_today": 185419,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 165005,
-            "stars_today": 165005,
+            "stars": 165018,
+            "stars_today": 165018,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 94672,
-            "stars_today": 94672,
+            "stars": 94677,
+            "stars_today": 94677,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 86283,
-            "stars_today": 86283,
+            "stars": 86300,
+            "stars_today": 86300,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 79763,
-            "stars_today": 79763,
+            "stars": 79799,
+            "stars_today": 79799,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54374,
-            "stars_today": 54374,
+            "stars": 54382,
+            "stars_today": 54382,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-07T14:01:16Z",
+    "updated": "2026-07-07T17:02:54Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-07T14:01:16Z",
+    "updated": "2026-07-07T17:02:54Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-07T14:01:16Z",
+    "updated": "2026-07-07T17:02:54Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "C++ Details of Asymmetric Fences",
-            "insight": "HN 热议：5 分 · 0 评论",
+            "title": "Weighing smoke: why AI visibility dashboards are mostly useless",
+            "insight": "HN 热议：6 分 · 0 评论",
             "sentiment": "neutral",
             "comments": 0,
-            "url": "https://nekrozqliphort.github.io/posts/membarrier/",
+            "url": "https://betterthangood.xyz/blog/weighing-smoke/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "GLM 5.2 and the coming AI margin collapse",
-            "insight": "HN 热议：566 分 · 347 评论",
-            "sentiment": "positive",
-            "comments": 347,
-            "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+            "title": "C++ Details of Asymmetric Fences",
+            "insight": "HN 热议：42 分 · 2 评论",
+            "sentiment": "neutral",
+            "comments": 2,
+            "url": "https://nekrozqliphort.github.io/posts/membarrier/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Small AI Models Gain Traction In places with unreliable networks",
-            "insight": "HN 热议：198 分 · 67 评论",
+            "title": "GitHub Freno: cooperative, highly available throttler service",
+            "insight": "HN 热议：4 分 · 0 评论",
             "sentiment": "neutral",
-            "comments": 67,
-            "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+            "comments": 0,
+            "url": "https://github.com/github/freno",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "In Praise of Observational Evidence",
-            "insight": "HN 热议：57 分 · 13 评论",
+            "title": "Automating AI Away",
+            "insight": "HN 热议：5 分 · 0 评论",
             "sentiment": "neutral",
-            "comments": 13,
-            "url": "https://asteriskmag.com/issues/14/in-praise-of-observational-evidence",
+            "comments": 0,
+            "url": "https://replicated.live/blog/away",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
-            "insight": "HN 热议：358 分 · 238 评论",
+            "title": "Small AI Models Gain Traction In places with unreliable networks",
+            "insight": "HN 热议：247 分 · 76 评论",
             "sentiment": "positive",
-            "comments": 238,
-            "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
+            "comments": 76,
+            "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-07T14:01:16Z",
+    "updated": "2026-07-07T17:02:54Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
