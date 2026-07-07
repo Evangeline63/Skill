@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-07T01:50:11Z",
+    "updated": "2026-07-07T06:33:13Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-07T01:50:11Z",
+    "updated": "2026-07-07T06:33:13Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-07T01:50:11Z",
+    "updated": "2026-07-07T06:33:13Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185406,
-            "stars_today": 185406,
+            "stars": 185411,
+            "stars_today": 185411,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 164930,
-            "stars_today": 164930,
+            "stars": 164963,
+            "stars_today": 164963,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 94656,
-            "stars_today": 94656,
+            "stars": 94662,
+            "stars_today": 94662,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 86173,
-            "stars_today": 86173,
+            "stars": 86210,
+            "stars_today": 86210,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 79654,
-            "stars_today": 79654,
+            "stars": 79681,
+            "stars_today": 79681,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54346,
-            "stars_today": 54346,
+            "stars": 54353,
+            "stars_today": 54353,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-07T01:50:11Z",
+    "updated": "2026-07-07T06:33:13Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-07T01:50:11Z",
+    "updated": "2026-07-07T06:33:13Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-07T01:50:11Z",
+    "updated": "2026-07-07T06:33:13Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "GLM 5.2 and the coming AI margin collapse",
-            "insight": "HN 热议：157 分 · 108 评论",
-            "sentiment": "neutral",
-            "comments": 108,
+            "insight": "HN 热议：312 分 · 191 评论",
+            "sentiment": "positive",
+            "comments": 191,
             "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "NSA and IETF: Fairness",
-            "insight": "HN 热议：35 分 · 8 评论",
+            "title": "Small AI Models Gain Traction In places with unreliable networks",
+            "insight": "HN 热议：96 分 · 19 评论",
             "sentiment": "neutral",
-            "comments": 8,
-            "url": "https://blog.cr.yp.to/20260706-fairness.html",
+            "comments": 19,
+            "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "Pruning RAG context down to what the answer actually needs",
-            "insight": "HN 热议：54 分 · 5 评论",
+            "insight": "HN 热议：84 分 · 14 评论",
             "sentiment": "neutral",
-            "comments": 5,
+            "comments": 14,
             "url": "https://www.kapa.ai/blog/how-we-prune-rag-context",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Small AI Models Gain Traction In places with unreliable networks",
-            "insight": "HN 热议：13 分 · 1 评论",
-            "sentiment": "neutral",
-            "comments": 1,
-            "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+            "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
+            "insight": "HN 热议：308 分 · 218 评论",
+            "sentiment": "positive",
+            "comments": 218,
+            "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
-            "insight": "HN 热议：275 分 · 199 评论",
-            "sentiment": "positive",
-            "comments": 199,
-            "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
+            "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
+            "insight": "HN 热议：156 分 · 44 评论",
+            "sentiment": "neutral",
+            "comments": 44,
+            "url": "https://github.com/iOfficeAI/OfficeCLI",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-07T01:50:11Z",
+    "updated": "2026-07-07T06:33:13Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
