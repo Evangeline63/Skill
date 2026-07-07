@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-07T11:35:22Z",
+  "updated": "2026-07-07T14:01:16Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "GLM 5.2 and the coming AI margin collapse",
-      "insight": "HN 热议：479 分 · 287 评论",
-      "sentiment": "positive",
-      "comments": 287,
-      "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+      "title": "C++ Details of Asymmetric Fences",
+      "insight": "HN 热议：5 分 · 0 评论",
+      "sentiment": "neutral",
+      "comments": 0,
+      "url": "https://nekrozqliphort.github.io/posts/membarrier/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Small AI Models Gain Traction In places with unreliable networks",
-      "insight": "HN 热议：167 分 · 58 评论",
-      "sentiment": "neutral",
-      "comments": 58,
-      "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+      "title": "GLM 5.2 and the coming AI margin collapse",
+      "insight": "HN 热议：566 分 · 347 评论",
+      "sentiment": "positive",
+      "comments": 347,
+      "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "In Praise of Observational Evidence",
-      "insight": "HN 热议：28 分 · 2 评论",
+      "title": "Small AI Models Gain Traction In places with unreliable networks",
+      "insight": "HN 热议：198 分 · 67 评论",
       "sentiment": "neutral",
-      "comments": 2,
-      "url": "https://asteriskmag.com/issues/14/in-praise-of-observational-evidence",
+      "comments": 67,
+      "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
-      "insight": "HN 热议：343 分 · 229 评论",
-      "sentiment": "positive",
-      "comments": 229,
-      "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
+      "title": "In Praise of Observational Evidence",
+      "insight": "HN 热议：57 分 · 13 评论",
+      "sentiment": "neutral",
+      "comments": 13,
+      "url": "https://asteriskmag.com/issues/14/in-praise-of-observational-evidence",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Pruning RAG context down to what the answer actually needs",
-      "insight": "HN 热议：109 分 · 27 评论",
-      "sentiment": "neutral",
-      "comments": 27,
-      "url": "https://www.kapa.ai/blog/how-we-prune-rag-context",
+      "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
+      "insight": "HN 热议：358 分 · 238 评论",
+      "sentiment": "positive",
+      "comments": 238,
+      "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
       "id": 5
     }
   ]
