@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-07T06:33:13Z",
+  "updated": "2026-07-07T11:35:22Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "GLM 5.2 and the coming AI margin collapse",
-      "insight": "HN 热议：312 分 · 191 评论",
+      "insight": "HN 热议：479 分 · 287 评论",
       "sentiment": "positive",
-      "comments": 191,
+      "comments": 287,
       "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "Small AI Models Gain Traction In places with unreliable networks",
-      "insight": "HN 热议：96 分 · 19 评论",
+      "insight": "HN 热议：167 分 · 58 评论",
       "sentiment": "neutral",
-      "comments": 19,
+      "comments": 58,
       "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Pruning RAG context down to what the answer actually needs",
-      "insight": "HN 热议：84 分 · 14 评论",
+      "title": "In Praise of Observational Evidence",
+      "insight": "HN 热议：28 分 · 2 评论",
       "sentiment": "neutral",
-      "comments": 14,
-      "url": "https://www.kapa.ai/blog/how-we-prune-rag-context",
+      "comments": 2,
+      "url": "https://asteriskmag.com/issues/14/in-praise-of-observational-evidence",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
-      "insight": "HN 热议：308 分 · 218 评论",
+      "insight": "HN 热议：343 分 · 229 评论",
       "sentiment": "positive",
-      "comments": 218,
+      "comments": 229,
       "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
-      "insight": "HN 热议：156 分 · 44 评论",
+      "title": "Pruning RAG context down to what the answer actually needs",
+      "insight": "HN 热议：109 分 · 27 评论",
       "sentiment": "neutral",
-      "comments": 44,
-      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "comments": 27,
+      "url": "https://www.kapa.ai/blog/how-we-prune-rag-context",
       "id": 5
     }
   ]
