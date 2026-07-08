@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-08T16:23:33Z",
+  "updated": "2026-07-08T19:01:52Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
-      "insight": "HN 热议：164 分 · 35 评论",
-      "sentiment": "neutral",
-      "comments": 35,
+      "insight": "HN 热议：300 分 · 66 评论",
+      "sentiment": "positive",
+      "comments": 66,
       "url": "https://mistral.ai/news/robostral-navigate/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
-      "insight": "HN 热议：399 分 · 158 评论",
+      "title": "GPT‑Live",
+      "insight": "HN 热议：336 分 · 241 评论",
       "sentiment": "positive",
-      "comments": 158,
-      "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
+      "comments": 241,
+      "url": "https://openai.com/index/introducing-gpt-live/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Kastor – Terraform-style specs for AI agents",
-      "insight": "HN 热议：10 分 · 9 评论",
+      "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
+      "insight": "HN 热议：40 分 · 18 评论",
       "sentiment": "neutral",
-      "comments": 9,
-      "url": "https://github.com/weirdGuy/kastor",
+      "comments": 18,
+      "url": "https://microsoft.github.io/flint-chart/#/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "EVE Online's Carbon engine is now open source: Fenris Creations explains why",
-      "insight": "HN 热议：244 分 · 81 评论",
-      "sentiment": "positive",
-      "comments": 81,
-      "url": "https://www.gamesindustry.biz/eve-onlines-carbon-engine-is-now-open-source-fenris-creations-explains-why",
+      "title": "SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence",
+      "insight": "HN 热议：130 分 · 83 评论",
+      "sentiment": "neutral",
+      "comments": 83,
+      "url": "https://cognition.com/blog/swe-1-7",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Follow London Trains in 3D",
-      "insight": "HN 热议：45 分 · 18 评论",
-      "sentiment": "neutral",
-      "comments": 18,
-      "url": "https://ride.nexttrain.london/",
+      "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
+      "insight": "HN 热议：461 分 · 178 评论",
+      "sentiment": "positive",
+      "comments": 178,
+      "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
       "id": 5
     }
   ]
