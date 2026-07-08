@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-08T05:39:33Z",
+  "updated": "2026-07-08T08:03:31Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
-      "insight": "HN 热议：112 分 · 29 评论",
+      "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
+      "insight": "HN 热议：89 分 · 27 评论",
       "sentiment": "neutral",
-      "comments": 29,
-      "url": "https://kb.cert.org/vuls/id/213560",
+      "comments": 27,
+      "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks",
-      "insight": "HN 热议：14 分 · 3 评论",
+      "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
+      "insight": "HN 热议：178 分 · 51 评论",
       "sentiment": "neutral",
-      "comments": 3,
-      "url": "https://www.digipres.org/the-floppy-guide/",
+      "comments": 51,
+      "url": "https://kb.cert.org/vuls/id/213560",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Chat Control 1.0 and 2.0 Explained",
-      "insight": "HN 热议：526 分 · 171 评论",
-      "sentiment": "positive",
-      "comments": 171,
-      "url": "https://fightchatcontrol.eu/chat-control-overview",
+      "title": "Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks",
+      "insight": "HN 热议：55 分 · 11 评论",
+      "sentiment": "neutral",
+      "comments": 11,
+      "url": "https://www.digipres.org/the-floppy-guide/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday",
-      "insight": "HN 热议：60 分 · 17 评论",
-      "sentiment": "neutral",
-      "comments": 17,
-      "url": "https://twitter.com/OpenAI/status/2074704958419792299",
+      "title": "Chat Control 1.0 and 2.0 Explained",
+      "insight": "HN 热议：604 分 · 215 评论",
+      "sentiment": "positive",
+      "comments": 215,
+      "url": "https://fightchatcontrol.eu/chat-control-overview",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Davit, a Apple Containers UI",
-      "insight": "HN 热议：257 分 · 56 评论",
-      "sentiment": "positive",
-      "comments": 56,
-      "url": "https://davit.app",
+      "title": "GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday",
+      "insight": "HN 热议：160 分 · 91 评论",
+      "sentiment": "neutral",
+      "comments": 91,
+      "url": "https://twitter.com/OpenAI/status/2074704958419792299",
       "id": 5
     }
   ]
