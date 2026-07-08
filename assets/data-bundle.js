@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-08T19:01:52Z",
+    "updated": "2026-07-08T21:56:01Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-08T19:01:52Z",
+    "updated": "2026-07-08T21:56:01Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-08T19:01:52Z",
+    "updated": "2026-07-08T21:56:01Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185434,
-            "stars_today": 185434,
+            "stars": 185435,
+            "stars_today": 185435,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 165091,
-            "stars_today": 165091,
+            "stars": 165097,
+            "stars_today": 165097,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 94753,
-            "stars_today": 94753,
+            "stars": 94754,
+            "stars_today": 94754,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 86434,
-            "stars_today": 86434,
+            "stars": 86448,
+            "stars_today": 86448,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 80007,
-            "stars_today": 80007,
+            "stars": 80027,
+            "stars_today": 80027,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54430,
-            "stars_today": 54430,
+            "stars": 54440,
+            "stars_today": 54440,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-08T19:01:52Z",
+    "updated": "2026-07-08T21:56:01Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-08T19:01:52Z",
+    "updated": "2026-07-08T21:56:01Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-08T19:01:52Z",
+    "updated": "2026-07-08T21:56:01Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
-            "insight": "HN 热议：300 分 · 66 评论",
+            "insight": "HN 热议：366 分 · 87 评论",
             "sentiment": "positive",
-            "comments": 66,
+            "comments": 87,
             "url": "https://mistral.ai/news/robostral-navigate/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "GPT‑Live",
-            "insight": "HN 热议：336 分 · 241 评论",
-            "sentiment": "positive",
-            "comments": 241,
-            "url": "https://openai.com/index/introducing-gpt-live/",
+            "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
+            "insight": "HN 热议：127 分 · 54 评论",
+            "sentiment": "neutral",
+            "comments": 54,
+            "url": "https://microsoft.github.io/flint-chart/#/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
-            "insight": "HN 热议：40 分 · 18 评论",
-            "sentiment": "neutral",
-            "comments": 18,
-            "url": "https://microsoft.github.io/flint-chart/#/",
+            "title": "GPT‑Live",
+            "insight": "HN 热议：516 分 · 357 评论",
+            "sentiment": "positive",
+            "comments": 357,
+            "url": "https://openai.com/index/introducing-gpt-live/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence",
-            "insight": "HN 热议：130 分 · 83 评论",
+            "title": "The classifiers Anthropic puts in front of Fable are too zealous",
+            "insight": "HN 热议：142 分 · 119 评论",
             "sentiment": "neutral",
-            "comments": 83,
-            "url": "https://cognition.com/blog/swe-1-7",
+            "comments": 119,
+            "url": "https://combine-lab.github.io/blog/2026/07/07/fable-is-not-a-useful-model.html",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
-            "insight": "HN 热议：461 分 · 178 评论",
+            "title": "SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence",
+            "insight": "HN 热议：227 分 · 118 评论",
             "sentiment": "positive",
-            "comments": 178,
-            "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
+            "comments": 118,
+            "url": "https://cognition.com/blog/swe-1-7",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-08T19:01:52Z",
+    "updated": "2026-07-08T21:56:01Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
