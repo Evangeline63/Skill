@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-08T13:23:54Z",
+    "updated": "2026-07-08T16:23:33Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-08T13:23:54Z",
+    "updated": "2026-07-08T16:23:33Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-08T13:23:54Z",
+    "updated": "2026-07-08T16:23:33Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185430,
-            "stars_today": 185430,
+            "stars": 185432,
+            "stars_today": 185432,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 165072,
-            "stars_today": 165072,
+            "stars": 165085,
+            "stars_today": 165085,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 94746,
-            "stars_today": 94746,
+            "stars": 94750,
+            "stars_today": 94750,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 86408,
-            "stars_today": 86408,
+            "stars": 86425,
+            "stars_today": 86425,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 79969,
-            "stars_today": 79969,
+            "stars": 79988,
+            "stars_today": 79988,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54423,
-            "stars_today": 54423,
+            "stars": 54426,
+            "stars_today": 54426,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-08T13:23:54Z",
+    "updated": "2026-07-08T16:23:33Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-08T13:23:54Z",
+    "updated": "2026-07-08T16:23:33Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-08T13:23:54Z",
+    "updated": "2026-07-08T16:23:33Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
-            "insight": "HN 热议：309 分 · 121 评论",
-            "sentiment": "positive",
-            "comments": 121,
-            "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
+            "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
+            "insight": "HN 热议：164 分 · 35 评论",
+            "sentiment": "neutral",
+            "comments": 35,
+            "url": "https://mistral.ai/news/robostral-navigate/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "EVE Online's Carbon engine is now open source: Fenris Creations explains why",
-            "insight": "HN 热议：134 分 · 34 评论",
-            "sentiment": "neutral",
-            "comments": 34,
-            "url": "https://www.gamesindustry.biz/eve-onlines-carbon-engine-is-now-open-source-fenris-creations-explains-why",
+            "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
+            "insight": "HN 热议：399 分 · 158 评论",
+            "sentiment": "positive",
+            "comments": 158,
+            "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Geosql: A Claude/Codex skill for geospatial data",
-            "insight": "HN 热议：52 分 · 6 评论",
+            "title": "Show HN: Kastor – Terraform-style specs for AI agents",
+            "insight": "HN 热议：10 分 · 9 评论",
             "sentiment": "neutral",
-            "comments": 6,
-            "url": "https://github.com/dekart-xyz/geosql",
+            "comments": 9,
+            "url": "https://github.com/weirdGuy/kastor",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
-            "insight": "HN 热议：263 分 · 89 评论",
+            "title": "EVE Online's Carbon engine is now open source: Fenris Creations explains why",
+            "insight": "HN 热议：244 分 · 81 评论",
             "sentiment": "positive",
-            "comments": 89,
-            "url": "https://kb.cert.org/vuls/id/213560",
+            "comments": 81,
+            "url": "https://www.gamesindustry.biz/eve-onlines-carbon-engine-is-now-open-source-fenris-creations-explains-why",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks",
-            "insight": "HN 热议：116 分 · 33 评论",
+            "title": "Show HN: Follow London Trains in 3D",
+            "insight": "HN 热议：45 分 · 18 评论",
             "sentiment": "neutral",
-            "comments": 33,
-            "url": "https://www.digipres.org/the-floppy-guide/",
+            "comments": 18,
+            "url": "https://ride.nexttrain.london/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-08T13:23:54Z",
+    "updated": "2026-07-08T16:23:33Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
