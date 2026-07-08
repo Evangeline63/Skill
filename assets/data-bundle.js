@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-08T08:03:31Z",
+    "updated": "2026-07-08T10:52:39Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-08T08:03:31Z",
+    "updated": "2026-07-08T10:52:39Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-08T08:03:31Z",
+    "updated": "2026-07-08T10:52:39Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185434,
-            "stars_today": 185434,
+            "stars": 185433,
+            "stars_today": 185433,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 165063,
-            "stars_today": 165063,
+            "stars": 165065,
+            "stars_today": 165065,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 94722,
-            "stars_today": 94722,
+            "stars": 94746,
+            "stars_today": 94746,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 86377,
-            "stars_today": 86377,
+            "stars": 86397,
+            "stars_today": 86397,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 79937,
-            "stars_today": 79937,
+            "stars": 79955,
+            "stars_today": 79955,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54415,
-            "stars_today": 54415,
+            "stars": 54425,
+            "stars_today": 54425,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-08T08:03:31Z",
+    "updated": "2026-07-08T10:52:39Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-08T08:03:31Z",
+    "updated": "2026-07-08T10:52:39Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-08T08:03:31Z",
+    "updated": "2026-07-08T10:52:39Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
-            "insight": "HN 热议：89 分 · 27 评论",
-            "sentiment": "neutral",
-            "comments": 27,
+            "insight": "HN 热议：208 分 · 85 评论",
+            "sentiment": "positive",
+            "comments": 85,
             "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
-            "insight": "HN 热议：178 分 · 51 评论",
-            "sentiment": "neutral",
-            "comments": 51,
+            "insight": "HN 热议：225 分 · 72 评论",
+            "sentiment": "positive",
+            "comments": 72,
             "url": "https://kb.cert.org/vuls/id/213560",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks",
-            "insight": "HN 热议：55 分 · 11 评论",
+            "insight": "HN 热议：82 分 · 25 评论",
             "sentiment": "neutral",
-            "comments": 11,
+            "comments": 25,
             "url": "https://www.digipres.org/the-floppy-guide/",
             "id": 3
         },
         {
             "source": "HackerNews",
             "title": "Chat Control 1.0 and 2.0 Explained",
-            "insight": "HN 热议：604 分 · 215 评论",
+            "insight": "HN 热议：683 分 · 272 评论",
             "sentiment": "positive",
-            "comments": 215,
+            "comments": 272,
             "url": "https://fightchatcontrol.eu/chat-control-overview",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday",
-            "insight": "HN 热议：160 分 · 91 评论",
+            "title": "Geosql: A Claude/Codex skill for geospatial data",
+            "insight": "HN 热议：12 分 · 0 评论",
             "sentiment": "neutral",
-            "comments": 91,
-            "url": "https://twitter.com/OpenAI/status/2074704958419792299",
+            "comments": 0,
+            "url": "https://github.com/dekart-xyz/geosql",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-08T08:03:31Z",
+    "updated": "2026-07-08T10:52:39Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
