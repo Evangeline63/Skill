@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-08T01:21:37Z",
+    "updated": "2026-07-08T05:39:33Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-08T01:21:37Z",
+    "updated": "2026-07-08T05:39:33Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-08T01:21:37Z",
+    "updated": "2026-07-08T05:39:33Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185427,
-            "stars_today": 185427,
+            "stars": 185432,
+            "stars_today": 185432,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 165035,
-            "stars_today": 165035,
+            "stars": 165050,
+            "stars_today": 165050,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 94681,
-            "stars_today": 94681,
+            "stars": 94692,
+            "stars_today": 94692,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 86336,
-            "stars_today": 86336,
+            "stars": 86364,
+            "stars_today": 86364,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 79859,
-            "stars_today": 79859,
+            "stars": 79903,
+            "stars_today": 79903,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54392,
-            "stars_today": 54392,
+            "stars": 54411,
+            "stars_today": 54411,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-08T01:21:37Z",
+    "updated": "2026-07-08T05:39:33Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-08T01:21:37Z",
+    "updated": "2026-07-08T05:39:33Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-08T01:21:37Z",
+    "updated": "2026-07-08T05:39:33Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "We charge $10k a week to delete AI-generated code",
-            "insight": "HN 热议：125 分 · 55 评论",
+            "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
+            "insight": "HN 热议：112 分 · 29 评论",
             "sentiment": "neutral",
-            "comments": 55,
-            "url": "https://odra.dev/slopfix/",
+            "comments": 29,
+            "url": "https://kb.cert.org/vuls/id/213560",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Chat Control 1.0 and 2.0 Explained",
-            "insight": "HN 热议：429 分 · 145 评论",
-            "sentiment": "positive",
-            "comments": 145,
-            "url": "https://fightchatcontrol.eu/chat-control-overview",
+            "title": "Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks",
+            "insight": "HN 热议：14 分 · 3 评论",
+            "sentiment": "neutral",
+            "comments": 3,
+            "url": "https://www.digipres.org/the-floppy-guide/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Davit, a Apple Containers UI",
-            "insight": "HN 热议：183 分 · 41 评论",
-            "sentiment": "neutral",
-            "comments": 41,
-            "url": "https://davit.app",
+            "title": "Chat Control 1.0 and 2.0 Explained",
+            "insight": "HN 热议：526 分 · 171 评论",
+            "sentiment": "positive",
+            "comments": 171,
+            "url": "https://fightchatcontrol.eu/chat-control-overview",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Honey, We Bought an AI Story",
-            "insight": "HN 热议：14 分 · 2 评论",
+            "title": "GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday",
+            "insight": "HN 热议：60 分 · 17 评论",
             "sentiment": "neutral",
-            "comments": 2,
-            "url": "https://www.bona-books.com/news/we-bought-an-ai-story",
+            "comments": 17,
+            "url": "https://twitter.com/OpenAI/status/2074704958419792299",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
-            "insight": "HN 热议：88 分 · 25 评论",
-            "sentiment": "neutral",
-            "comments": 25,
-            "url": "https://github.com/rowboatlabs/rowboat",
+            "title": "Show HN: Davit, a Apple Containers UI",
+            "insight": "HN 热议：257 分 · 56 评论",
+            "sentiment": "positive",
+            "comments": 56,
+            "url": "https://davit.app",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-08T01:21:37Z",
+    "updated": "2026-07-08T05:39:33Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
