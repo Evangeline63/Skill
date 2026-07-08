@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-08T10:52:39Z",
+    "updated": "2026-07-08T13:23:54Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-08T10:52:39Z",
+    "updated": "2026-07-08T13:23:54Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-08T10:52:39Z",
+    "updated": "2026-07-08T13:23:54Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185433,
-            "stars_today": 185433,
+            "stars": 185430,
+            "stars_today": 185430,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 165065,
-            "stars_today": 165065,
+            "stars": 165072,
+            "stars_today": 165072,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 86397,
-            "stars_today": 86397,
+            "stars": 86408,
+            "stars_today": 86408,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 79955,
-            "stars_today": 79955,
+            "stars": 79969,
+            "stars_today": 79969,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54425,
-            "stars_today": 54425,
+            "stars": 54423,
+            "stars_today": 54423,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-08T10:52:39Z",
+    "updated": "2026-07-08T13:23:54Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-08T10:52:39Z",
+    "updated": "2026-07-08T13:23:54Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-08T10:52:39Z",
+    "updated": "2026-07-08T13:23:54Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
-            "insight": "HN 热议：208 分 · 85 评论",
+            "insight": "HN 热议：309 分 · 121 评论",
             "sentiment": "positive",
-            "comments": 85,
+            "comments": 121,
             "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
-            "insight": "HN 热议：225 分 · 72 评论",
-            "sentiment": "positive",
-            "comments": 72,
-            "url": "https://kb.cert.org/vuls/id/213560",
+            "title": "EVE Online's Carbon engine is now open source: Fenris Creations explains why",
+            "insight": "HN 热议：134 分 · 34 评论",
+            "sentiment": "neutral",
+            "comments": 34,
+            "url": "https://www.gamesindustry.biz/eve-onlines-carbon-engine-is-now-open-source-fenris-creations-explains-why",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks",
-            "insight": "HN 热议：82 分 · 25 评论",
+            "title": "Geosql: A Claude/Codex skill for geospatial data",
+            "insight": "HN 热议：52 分 · 6 评论",
             "sentiment": "neutral",
-            "comments": 25,
-            "url": "https://www.digipres.org/the-floppy-guide/",
+            "comments": 6,
+            "url": "https://github.com/dekart-xyz/geosql",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Chat Control 1.0 and 2.0 Explained",
-            "insight": "HN 热议：683 分 · 272 评论",
+            "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
+            "insight": "HN 热议：263 分 · 89 评论",
             "sentiment": "positive",
-            "comments": 272,
-            "url": "https://fightchatcontrol.eu/chat-control-overview",
+            "comments": 89,
+            "url": "https://kb.cert.org/vuls/id/213560",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Geosql: A Claude/Codex skill for geospatial data",
-            "insight": "HN 热议：12 分 · 0 评论",
+            "title": "Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks",
+            "insight": "HN 热议：116 分 · 33 评论",
             "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://github.com/dekart-xyz/geosql",
+            "comments": 33,
+            "url": "https://www.digipres.org/the-floppy-guide/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-08T10:52:39Z",
+    "updated": "2026-07-08T13:23:54Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

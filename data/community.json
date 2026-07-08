@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-08T10:52:39Z",
+  "updated": "2026-07-08T13:23:54Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
-      "insight": "HN 热议：208 分 · 85 评论",
+      "insight": "HN 热议：309 分 · 121 评论",
       "sentiment": "positive",
-      "comments": 85,
+      "comments": 121,
       "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
-      "insight": "HN 热议：225 分 · 72 评论",
-      "sentiment": "positive",
-      "comments": 72,
-      "url": "https://kb.cert.org/vuls/id/213560",
+      "title": "EVE Online's Carbon engine is now open source: Fenris Creations explains why",
+      "insight": "HN 热议：134 分 · 34 评论",
+      "sentiment": "neutral",
+      "comments": 34,
+      "url": "https://www.gamesindustry.biz/eve-onlines-carbon-engine-is-now-open-source-fenris-creations-explains-why",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks",
-      "insight": "HN 热议：82 分 · 25 评论",
+      "title": "Geosql: A Claude/Codex skill for geospatial data",
+      "insight": "HN 热议：52 分 · 6 评论",
       "sentiment": "neutral",
-      "comments": 25,
-      "url": "https://www.digipres.org/the-floppy-guide/",
+      "comments": 6,
+      "url": "https://github.com/dekart-xyz/geosql",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Chat Control 1.0 and 2.0 Explained",
-      "insight": "HN 热议：683 分 · 272 评论",
+      "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
+      "insight": "HN 热议：263 分 · 89 评论",
       "sentiment": "positive",
-      "comments": 272,
-      "url": "https://fightchatcontrol.eu/chat-control-overview",
+      "comments": 89,
+      "url": "https://kb.cert.org/vuls/id/213560",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Geosql: A Claude/Codex skill for geospatial data",
-      "insight": "HN 热议：12 分 · 0 评论",
+      "title": "Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks",
+      "insight": "HN 热议：116 分 · 33 评论",
       "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://github.com/dekart-xyz/geosql",
+      "comments": 33,
+      "url": "https://www.digipres.org/the-floppy-guide/",
       "id": 5
     }
   ]
