@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-09T11:42:30Z",
+  "updated": "2026-07-09T14:23:53Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "John Deere owners will get the right to repair equipment under FTC settlement",
-      "insight": "HN 热议：931 分 · 177 评论",
-      "sentiment": "positive",
-      "comments": 177,
-      "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
+      "title": "Show HN: FableCut – A browser video editor AI agents can drive (zero deps)",
+      "insight": "HN 热议：36 分 · 18 评论",
+      "sentiment": "neutral",
+      "comments": 18,
+      "url": "https://github.com/ronak-create/FableCut",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Benchmarking coding agents on Databricks' multi-million line codebase",
-      "insight": "HN 热议：108 分 · 41 评论",
-      "sentiment": "neutral",
-      "comments": 41,
-      "url": "https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase",
+      "title": "John Deere owners will get the right to repair equipment under FTC settlement",
+      "insight": "HN 热议：1149 分 · 227 评论",
+      "sentiment": "positive",
+      "comments": 227,
+      "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
-      "insight": "HN 热议：301 分 · 113 评论",
-      "sentiment": "positive",
-      "comments": 113,
-      "url": "https://microsoft.github.io/flint-chart/#/",
+      "title": "How Version Control Will Evolve for the Agent Boom",
+      "insight": "HN 热议：24 分 · 15 评论",
+      "sentiment": "neutral",
+      "comments": 15,
+      "url": "https://entire.io/blog/how-version-control-will-evolve-for-the-agent-boom",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "3D Airplane tracker on Mercator map",
-      "insight": "HN 热议：21 分 · 3 评论",
+      "title": "Show HN: Arcaide – Explore code with multi-level call graphs",
+      "insight": "HN 热议：10 分 · 3 评论",
       "sentiment": "neutral",
       "comments": 3,
-      "url": "https://github.com/jamalrfordii-arch/Vanguard-Map",
+      "url": "https://arcaide.foo",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "MIRA: Multiplayer Interactive World Models Trained on Rocket League",
-      "insight": "HN 热议：87 分 · 15 评论",
+      "title": "Files over tools: how we built our agent with a virtual filesystem and bash",
+      "insight": "HN 热议：7 分 · 0 评论",
       "sentiment": "neutral",
-      "comments": 15,
-      "url": "https://mira-wm.com/",
+      "comments": 0,
+      "url": "https://knock.app/blog/how-we-built-the-knock-agent-virtual-filesystem-and-bash",
       "id": 5
     }
   ]
