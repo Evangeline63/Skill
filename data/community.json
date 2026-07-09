@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-08T21:56:01Z",
+  "updated": "2026-07-09T01:30:10Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
-      "insight": "HN 热议：366 分 · 87 评论",
+      "title": "John Deere owners will get the right to repair equipment under FTC settlement",
+      "insight": "HN 热议：241 分 · 56 评论",
       "sentiment": "positive",
-      "comments": 87,
-      "url": "https://mistral.ai/news/robostral-navigate/",
+      "comments": 56,
+      "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
-      "insight": "HN 热议：127 分 · 54 评论",
+      "title": "We made Grok 4.5, GPT-5.5, and Claude build the same apps",
+      "insight": "HN 热议：47 分 · 16 评论",
       "sentiment": "neutral",
-      "comments": 54,
-      "url": "https://microsoft.github.io/flint-chart/#/",
+      "comments": 16,
+      "url": "https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "GPT‑Live",
-      "insight": "HN 热议：516 分 · 357 评论",
+      "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
+      "insight": "HN 热议：408 分 · 96 评论",
       "sentiment": "positive",
-      "comments": 357,
-      "url": "https://openai.com/index/introducing-gpt-live/",
+      "comments": 96,
+      "url": "https://mistral.ai/news/robostral-navigate/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "The classifiers Anthropic puts in front of Fable are too zealous",
-      "insight": "HN 热议：142 分 · 119 评论",
+      "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
+      "insight": "HN 热议：195 分 · 75 评论",
       "sentiment": "neutral",
-      "comments": 119,
-      "url": "https://combine-lab.github.io/blog/2026/07/07/fable-is-not-a-useful-model.html",
+      "comments": 75,
+      "url": "https://microsoft.github.io/flint-chart/#/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence",
-      "insight": "HN 热议：227 分 · 118 评论",
-      "sentiment": "positive",
-      "comments": 118,
-      "url": "https://cognition.com/blog/swe-1-7",
+      "title": "MIRA: Multiplayer Interactive World Models Trained on Rocket League",
+      "insight": "HN 热议：9 分 · 2 评论",
+      "sentiment": "neutral",
+      "comments": 2,
+      "url": "https://mira-wm.com/",
       "id": 5
     }
   ]

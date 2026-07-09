@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-08T21:56:01Z",
+    "updated": "2026-07-09T01:30:10Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-08T21:56:01Z",
+    "updated": "2026-07-09T01:30:10Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-08T21:56:01Z",
+    "updated": "2026-07-09T01:30:10Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185435,
-            "stars_today": 185435,
+            "stars": 185434,
+            "stars_today": 185434,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 165097,
-            "stars_today": 165097,
+            "stars": 165104,
+            "stars_today": 165104,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 86448,
-            "stars_today": 86448,
+            "stars": 86462,
+            "stars_today": 86462,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 80027,
-            "stars_today": 80027,
+            "stars": 80048,
+            "stars_today": 80048,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54440,
-            "stars_today": 54440,
+            "stars": 54447,
+            "stars_today": 54447,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-08T21:56:01Z",
+    "updated": "2026-07-09T01:30:10Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-08T21:56:01Z",
+    "updated": "2026-07-09T01:30:10Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-08T21:56:01Z",
+    "updated": "2026-07-09T01:30:10Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
-            "insight": "HN 热议：366 分 · 87 评论",
+            "title": "John Deere owners will get the right to repair equipment under FTC settlement",
+            "insight": "HN 热议：241 分 · 56 评论",
             "sentiment": "positive",
-            "comments": 87,
-            "url": "https://mistral.ai/news/robostral-navigate/",
+            "comments": 56,
+            "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
-            "insight": "HN 热议：127 分 · 54 评论",
+            "title": "We made Grok 4.5, GPT-5.5, and Claude build the same apps",
+            "insight": "HN 热议：47 分 · 16 评论",
             "sentiment": "neutral",
-            "comments": 54,
-            "url": "https://microsoft.github.io/flint-chart/#/",
+            "comments": 16,
+            "url": "https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "GPT‑Live",
-            "insight": "HN 热议：516 分 · 357 评论",
+            "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
+            "insight": "HN 热议：408 分 · 96 评论",
             "sentiment": "positive",
-            "comments": 357,
-            "url": "https://openai.com/index/introducing-gpt-live/",
+            "comments": 96,
+            "url": "https://mistral.ai/news/robostral-navigate/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "The classifiers Anthropic puts in front of Fable are too zealous",
-            "insight": "HN 热议：142 分 · 119 评论",
+            "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
+            "insight": "HN 热议：195 分 · 75 评论",
             "sentiment": "neutral",
-            "comments": 119,
-            "url": "https://combine-lab.github.io/blog/2026/07/07/fable-is-not-a-useful-model.html",
+            "comments": 75,
+            "url": "https://microsoft.github.io/flint-chart/#/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence",
-            "insight": "HN 热议：227 分 · 118 评论",
-            "sentiment": "positive",
-            "comments": 118,
-            "url": "https://cognition.com/blog/swe-1-7",
+            "title": "MIRA: Multiplayer Interactive World Models Trained on Rocket League",
+            "insight": "HN 热议：9 分 · 2 评论",
+            "sentiment": "neutral",
+            "comments": 2,
+            "url": "https://mira-wm.com/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-08T21:56:01Z",
+    "updated": "2026-07-09T01:30:10Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
