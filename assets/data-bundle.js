@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-09T19:16:45Z",
+    "updated": "2026-07-09T22:11:27Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-09T19:16:45Z",
+    "updated": "2026-07-09T22:11:27Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-09T19:16:45Z",
+    "updated": "2026-07-09T22:11:27Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185444,
-            "stars_today": 185444,
+            "stars": 185445,
+            "stars_today": 185445,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 165154,
-            "stars_today": 165154,
+            "stars": 165160,
+            "stars_today": 165160,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 94770,
-            "stars_today": 94770,
+            "stars": 94769,
+            "stars_today": 94769,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 86583,
-            "stars_today": 86583,
+            "stars": 86598,
+            "stars_today": 86598,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 80219,
-            "stars_today": 80219,
+            "stars": 80233,
+            "stars_today": 80233,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54468,
-            "stars_today": 54468,
+            "stars": 54470,
+            "stars_today": 54470,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-09T19:16:45Z",
+    "updated": "2026-07-09T22:11:27Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-09T19:16:45Z",
+    "updated": "2026-07-09T22:11:27Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-09T19:16:45Z",
+    "updated": "2026-07-09T22:11:27Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "GPT-5.6",
-            "insight": "HN 热议：592 分 · 403 评论",
+            "insight": "HN 热议：870 分 · 645 评论",
             "sentiment": "positive",
-            "comments": 403,
+            "comments": 645,
             "url": "https://openai.com/index/gpt-5-6/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "ChatGPT Work",
-            "insight": "HN 热议：206 分 · 79 评论",
-            "sentiment": "positive",
-            "comments": 79,
-            "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work/",
+            "title": "Train sim created by just one person is being called the best ever made",
+            "insight": "HN 热议：126 分 · 55 评论",
+            "sentiment": "neutral",
+            "comments": 55,
+            "url": "https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Girls Just Wanna Have Fast MPMC Queues with Bounded Waiting",
-            "insight": "HN 热议：67 分 · 7 评论",
+            "title": "Girls just wanna have fast MPMC queues with bounded waiting",
+            "insight": "HN 热议：100 分 · 20 评论",
             "sentiment": "neutral",
-            "comments": 7,
+            "comments": 20,
             "url": "https://nahla.dev/blog/waitfree_queue/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "AI changes the economics of software rewrites",
-            "insight": "HN 热议：75 分 · 83 评论",
+            "title": "Show HN: I built a web tool to see and edit what an AI thinks before it answers",
+            "insight": "HN 热议：12 分 · 2 评论",
             "sentiment": "neutral",
-            "comments": 83,
-            "url": "https://thetruthasiseeitnow.com/ai-slop-starts-with-the-codebase-itself/",
+            "comments": 2,
+            "url": "https://lucid.earthpilot.ai",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "What's slowing down the AI buildout",
-            "insight": "HN 热议：48 分 · 102 评论",
-            "sentiment": "neutral",
-            "comments": 102,
-            "url": "https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid",
+            "title": "ChatGPT Work",
+            "insight": "HN 热议：297 分 · 143 评论",
+            "sentiment": "positive",
+            "comments": 143,
+            "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-09T19:16:45Z",
+    "updated": "2026-07-09T22:11:27Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

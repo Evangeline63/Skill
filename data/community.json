@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-09T19:16:45Z",
+  "updated": "2026-07-09T22:11:27Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "GPT-5.6",
-      "insight": "HN 热议：592 分 · 403 评论",
+      "insight": "HN 热议：870 分 · 645 评论",
       "sentiment": "positive",
-      "comments": 403,
+      "comments": 645,
       "url": "https://openai.com/index/gpt-5-6/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "ChatGPT Work",
-      "insight": "HN 热议：206 分 · 79 评论",
-      "sentiment": "positive",
-      "comments": 79,
-      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work/",
+      "title": "Train sim created by just one person is being called the best ever made",
+      "insight": "HN 热议：126 分 · 55 评论",
+      "sentiment": "neutral",
+      "comments": 55,
+      "url": "https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Girls Just Wanna Have Fast MPMC Queues with Bounded Waiting",
-      "insight": "HN 热议：67 分 · 7 评论",
+      "title": "Girls just wanna have fast MPMC queues with bounded waiting",
+      "insight": "HN 热议：100 分 · 20 评论",
       "sentiment": "neutral",
-      "comments": 7,
+      "comments": 20,
       "url": "https://nahla.dev/blog/waitfree_queue/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "AI changes the economics of software rewrites",
-      "insight": "HN 热议：75 分 · 83 评论",
+      "title": "Show HN: I built a web tool to see and edit what an AI thinks before it answers",
+      "insight": "HN 热议：12 分 · 2 评论",
       "sentiment": "neutral",
-      "comments": 83,
-      "url": "https://thetruthasiseeitnow.com/ai-slop-starts-with-the-codebase-itself/",
+      "comments": 2,
+      "url": "https://lucid.earthpilot.ai",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "What's slowing down the AI buildout",
-      "insight": "HN 热议：48 分 · 102 评论",
-      "sentiment": "neutral",
-      "comments": 102,
-      "url": "https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid",
+      "title": "ChatGPT Work",
+      "insight": "HN 热议：297 分 · 143 评论",
+      "sentiment": "positive",
+      "comments": 143,
+      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work/",
       "id": 5
     }
   ]
