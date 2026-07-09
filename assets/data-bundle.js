@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-09T01:30:10Z",
+    "updated": "2026-07-09T06:32:05Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-09T01:30:10Z",
+    "updated": "2026-07-09T06:32:05Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-09T01:30:10Z",
+    "updated": "2026-07-09T06:32:05Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185434,
-            "stars_today": 185434,
+            "stars": 185436,
+            "stars_today": 185436,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 165104,
-            "stars_today": 165104,
+            "stars": 165113,
+            "stars_today": 165113,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 94754,
-            "stars_today": 94754,
+            "stars": 94760,
+            "stars_today": 94760,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 86462,
-            "stars_today": 86462,
+            "stars": 86486,
+            "stars_today": 86486,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 80048,
-            "stars_today": 80048,
+            "stars": 80105,
+            "stars_today": 80105,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54447,
-            "stars_today": 54447,
+            "stars": 54453,
+            "stars_today": 54453,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-09T01:30:10Z",
+    "updated": "2026-07-09T06:32:05Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-09T01:30:10Z",
+    "updated": "2026-07-09T06:32:05Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-09T01:30:10Z",
+    "updated": "2026-07-09T06:32:05Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "John Deere owners will get the right to repair equipment under FTC settlement",
-            "insight": "HN 热议：241 分 · 56 评论",
+            "insight": "HN 热议：627 分 · 121 评论",
             "sentiment": "positive",
-            "comments": 56,
+            "comments": 121,
             "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "We made Grok 4.5, GPT-5.5, and Claude build the same apps",
-            "insight": "HN 热议：47 分 · 16 评论",
+            "title": "AI changes the economics of software rewrites",
+            "insight": "HN 热议：9 分 · 3 评论",
             "sentiment": "neutral",
-            "comments": 16,
-            "url": "https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off",
+            "comments": 3,
+            "url": "https://thetruthasiseeitnow.com/ai-slop-starts-with-the-codebase-itself/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
-            "insight": "HN 热议：408 分 · 96 评论",
-            "sentiment": "positive",
-            "comments": 96,
-            "url": "https://mistral.ai/news/robostral-navigate/",
+            "title": "Benchmarking coding agents on Databricks' multi-million line codebase",
+            "insight": "HN 热议：48 分 · 14 评论",
+            "sentiment": "neutral",
+            "comments": 14,
+            "url": "https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase",
             "id": 3
         },
         {
             "source": "HackerNews",
             "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
-            "insight": "HN 热议：195 分 · 75 评论",
-            "sentiment": "neutral",
-            "comments": 75,
+            "insight": "HN 热议：250 分 · 99 评论",
+            "sentiment": "positive",
+            "comments": 99,
             "url": "https://microsoft.github.io/flint-chart/#/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "MIRA: Multiplayer Interactive World Models Trained on Rocket League",
-            "insight": "HN 热议：9 分 · 2 评论",
+            "title": "What's slowing down the AI buildout",
+            "insight": "HN 热议：24 分 · 27 评论",
             "sentiment": "neutral",
-            "comments": 2,
-            "url": "https://mira-wm.com/",
+            "comments": 27,
+            "url": "https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-09T01:30:10Z",
+    "updated": "2026-07-09T06:32:05Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

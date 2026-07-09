@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-09T01:30:10Z",
+  "updated": "2026-07-09T06:32:05Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "John Deere owners will get the right to repair equipment under FTC settlement",
-      "insight": "HN 热议：241 分 · 56 评论",
+      "insight": "HN 热议：627 分 · 121 评论",
       "sentiment": "positive",
-      "comments": 56,
+      "comments": 121,
       "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "We made Grok 4.5, GPT-5.5, and Claude build the same apps",
-      "insight": "HN 热议：47 分 · 16 评论",
+      "title": "AI changes the economics of software rewrites",
+      "insight": "HN 热议：9 分 · 3 评论",
       "sentiment": "neutral",
-      "comments": 16,
-      "url": "https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off",
+      "comments": 3,
+      "url": "https://thetruthasiseeitnow.com/ai-slop-starts-with-the-codebase-itself/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
-      "insight": "HN 热议：408 分 · 96 评论",
-      "sentiment": "positive",
-      "comments": 96,
-      "url": "https://mistral.ai/news/robostral-navigate/",
+      "title": "Benchmarking coding agents on Databricks' multi-million line codebase",
+      "insight": "HN 热议：48 分 · 14 评论",
+      "sentiment": "neutral",
+      "comments": 14,
+      "url": "https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
-      "insight": "HN 热议：195 分 · 75 评论",
-      "sentiment": "neutral",
-      "comments": 75,
+      "insight": "HN 热议：250 分 · 99 评论",
+      "sentiment": "positive",
+      "comments": 99,
       "url": "https://microsoft.github.io/flint-chart/#/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "MIRA: Multiplayer Interactive World Models Trained on Rocket League",
-      "insight": "HN 热议：9 分 · 2 评论",
+      "title": "What's slowing down the AI buildout",
+      "insight": "HN 热议：24 分 · 27 评论",
       "sentiment": "neutral",
-      "comments": 2,
-      "url": "https://mira-wm.com/",
+      "comments": 27,
+      "url": "https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid",
       "id": 5
     }
   ]
