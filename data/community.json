@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-09T14:23:53Z",
+  "updated": "2026-07-09T17:09:30Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Show HN: FableCut – A browser video editor AI agents can drive (zero deps)",
-      "insight": "HN 热议：36 分 · 18 评论",
+      "title": "GPT-5.6",
+      "insight": "HN 热议：41 分 · 5 评论",
       "sentiment": "neutral",
-      "comments": 18,
-      "url": "https://github.com/ronak-create/FableCut",
+      "comments": 5,
+      "url": "https://openai.com/index/gpt-5-6/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "John Deere owners will get the right to repair equipment under FTC settlement",
-      "insight": "HN 热议：1149 分 · 227 评论",
-      "sentiment": "positive",
-      "comments": 227,
-      "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
+      "title": "Girls Just Wanna Have Fast MPMC Queues with Bounded Waiting",
+      "insight": "HN 热议：19 分 · 0 评论",
+      "sentiment": "neutral",
+      "comments": 0,
+      "url": "https://nahla.dev/blog/waitfree_queue/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "How Version Control Will Evolve for the Agent Boom",
-      "insight": "HN 热议：24 分 · 15 评论",
+      "title": "How to Write an Email",
+      "insight": "HN 热议：32 分 · 8 评论",
       "sentiment": "neutral",
-      "comments": 15,
-      "url": "https://entire.io/blog/how-version-control-will-evolve-for-the-agent-boom",
+      "comments": 8,
+      "url": "https://blog.dannycastonguay.com/how-to-write-an-email/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Arcaide – Explore code with multi-level call graphs",
-      "insight": "HN 热议：10 分 · 3 评论",
+      "title": "AI content is everywhere on social media, especially LinkedIn",
+      "insight": "HN 热议：87 分 · 64 评论",
       "sentiment": "neutral",
-      "comments": 3,
-      "url": "https://arcaide.foo",
+      "comments": 64,
+      "url": "https://www.pangram.com/blog/ai-in-your-feed",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Files over tools: how we built our agent with a virtual filesystem and bash",
-      "insight": "HN 热议：7 分 · 0 评论",
+      "title": "ChatGPT Work",
+      "insight": "HN 热议：5 分 · 0 评论",
       "sentiment": "neutral",
       "comments": 0,
-      "url": "https://knock.app/blog/how-we-built-the-knock-agent-virtual-filesystem-and-bash",
+      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work/",
       "id": 5
     }
   ]

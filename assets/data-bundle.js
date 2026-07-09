@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-09T14:23:53Z",
+    "updated": "2026-07-09T17:09:30Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-09T14:23:53Z",
+    "updated": "2026-07-09T17:09:30Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,7 +266,7 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-09T14:23:53Z",
+    "updated": "2026-07-09T17:09:30Z",
     "repos": [
         {
             "rank": 1,
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 165143,
-            "stars_today": 165143,
+            "stars": 165150,
+            "stars_today": 165150,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 94767,
-            "stars_today": 94767,
+            "stars": 94769,
+            "stars_today": 94769,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 86547,
-            "stars_today": 86547,
+            "stars": 86569,
+            "stars_today": 86569,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 80161,
-            "stars_today": 80161,
+            "stars": 80200,
+            "stars_today": 80200,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54462,
-            "stars_today": 54462,
+            "stars": 54467,
+            "stars_today": 54467,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-09T14:23:53Z",
+    "updated": "2026-07-09T17:09:30Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-09T14:23:53Z",
+    "updated": "2026-07-09T17:09:30Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-09T14:23:53Z",
+    "updated": "2026-07-09T17:09:30Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Show HN: FableCut – A browser video editor AI agents can drive (zero deps)",
-            "insight": "HN 热议：36 分 · 18 评论",
+            "title": "GPT-5.6",
+            "insight": "HN 热议：41 分 · 5 评论",
             "sentiment": "neutral",
-            "comments": 18,
-            "url": "https://github.com/ronak-create/FableCut",
+            "comments": 5,
+            "url": "https://openai.com/index/gpt-5-6/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "John Deere owners will get the right to repair equipment under FTC settlement",
-            "insight": "HN 热议：1149 分 · 227 评论",
-            "sentiment": "positive",
-            "comments": 227,
-            "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
+            "title": "Girls Just Wanna Have Fast MPMC Queues with Bounded Waiting",
+            "insight": "HN 热议：19 分 · 0 评论",
+            "sentiment": "neutral",
+            "comments": 0,
+            "url": "https://nahla.dev/blog/waitfree_queue/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "How Version Control Will Evolve for the Agent Boom",
-            "insight": "HN 热议：24 分 · 15 评论",
+            "title": "How to Write an Email",
+            "insight": "HN 热议：32 分 · 8 评论",
             "sentiment": "neutral",
-            "comments": 15,
-            "url": "https://entire.io/blog/how-version-control-will-evolve-for-the-agent-boom",
+            "comments": 8,
+            "url": "https://blog.dannycastonguay.com/how-to-write-an-email/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Arcaide – Explore code with multi-level call graphs",
-            "insight": "HN 热议：10 分 · 3 评论",
+            "title": "AI content is everywhere on social media, especially LinkedIn",
+            "insight": "HN 热议：87 分 · 64 评论",
             "sentiment": "neutral",
-            "comments": 3,
-            "url": "https://arcaide.foo",
+            "comments": 64,
+            "url": "https://www.pangram.com/blog/ai-in-your-feed",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Files over tools: how we built our agent with a virtual filesystem and bash",
-            "insight": "HN 热议：7 分 · 0 评论",
+            "title": "ChatGPT Work",
+            "insight": "HN 热议：5 分 · 0 评论",
             "sentiment": "neutral",
             "comments": 0,
-            "url": "https://knock.app/blog/how-we-built-the-knock-agent-virtual-filesystem-and-bash",
+            "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-09T14:23:53Z",
+    "updated": "2026-07-09T17:09:30Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
