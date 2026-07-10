@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-10T13:50:54Z",
+  "updated": "2026-07-10T16:49:03Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Write code like a human will maintain it",
-      "insight": "HN 热议：9 分 · 2 评论",
-      "sentiment": "neutral",
-      "comments": 2,
+      "insight": "HN 热议：205 分 · 170 评论",
+      "sentiment": "positive",
+      "comments": 170,
       "url": "https://unstack.io/write-code-like-a-human-will-maintain-it",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "GPT-5.6",
-      "insight": "HN 热议：1401 分 · 972 评论",
+      "insight": "HN 热议：1469 分 · 1038 评论",
       "sentiment": "positive",
-      "comments": 972,
+      "comments": 1038,
       "url": "https://openai.com/index/gpt-5-6/",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "Train sim created by just one person is being called the best ever made",
-      "insight": "HN 热议：708 分 · 269 评论",
+      "insight": "HN 热议：780 分 · 327 评论",
       "sentiment": "positive",
-      "comments": 269,
+      "comments": 327,
       "url": "https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future",
-      "insight": "HN 热议：123 分 · 170 评论",
+      "insight": "HN 热议：161 分 · 229 评论",
       "sentiment": "neutral",
-      "comments": 170,
+      "comments": 229,
       "url": "https://www.macrumors.com/2026/07/06/apple-silicon-exec-explains-mac-mini-ai-demand/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "How do you use Vim in the era of AI?",
-      "insight": "HN 热议：8 分 · 5 评论",
-      "sentiment": "neutral",
-      "comments": 5,
-      "url": "https://news.ycombinator.com/item?id=48859439",
+      "title": "AI-generated videos to maximally drive a target brain region",
+      "insight": "HN 热议：205 分 · 197 评论",
+      "sentiment": "positive",
+      "comments": 197,
+      "url": "https://nevo-project.epfl.ch/",
       "id": 5
     }
   ]

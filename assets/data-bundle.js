@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-10T13:50:54Z",
+    "updated": "2026-07-10T16:49:03Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-10T13:50:54Z",
+    "updated": "2026-07-10T16:49:03Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-10T13:50:54Z",
+    "updated": "2026-07-10T16:49:03Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185451,
-            "stars_today": 185451,
+            "stars": 185450,
+            "stars_today": 185450,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 165281,
-            "stars_today": 165281,
+            "stars": 165292,
+            "stars_today": 165292,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 86714,
-            "stars_today": 86714,
+            "stars": 86729,
+            "stars_today": 86729,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 80325,
-            "stars_today": 80325,
+            "stars": 80345,
+            "stars_today": 80345,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54494,
-            "stars_today": 54494,
+            "stars": 54500,
+            "stars_today": 54500,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-10T13:50:54Z",
+    "updated": "2026-07-10T16:49:03Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-10T13:50:54Z",
+    "updated": "2026-07-10T16:49:03Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-10T13:50:54Z",
+    "updated": "2026-07-10T16:49:03Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Write code like a human will maintain it",
-            "insight": "HN 热议：9 分 · 2 评论",
-            "sentiment": "neutral",
-            "comments": 2,
+            "insight": "HN 热议：205 分 · 170 评论",
+            "sentiment": "positive",
+            "comments": 170,
             "url": "https://unstack.io/write-code-like-a-human-will-maintain-it",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "GPT-5.6",
-            "insight": "HN 热议：1401 分 · 972 评论",
+            "insight": "HN 热议：1469 分 · 1038 评论",
             "sentiment": "positive",
-            "comments": 972,
+            "comments": 1038,
             "url": "https://openai.com/index/gpt-5-6/",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "Train sim created by just one person is being called the best ever made",
-            "insight": "HN 热议：708 分 · 269 评论",
+            "insight": "HN 热议：780 分 · 327 评论",
             "sentiment": "positive",
-            "comments": 269,
+            "comments": 327,
             "url": "https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429",
             "id": 3
         },
         {
             "source": "HackerNews",
             "title": "Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future",
-            "insight": "HN 热议：123 分 · 170 评论",
+            "insight": "HN 热议：161 分 · 229 评论",
             "sentiment": "neutral",
-            "comments": 170,
+            "comments": 229,
             "url": "https://www.macrumors.com/2026/07/06/apple-silicon-exec-explains-mac-mini-ai-demand/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "How do you use Vim in the era of AI?",
-            "insight": "HN 热议：8 分 · 5 评论",
-            "sentiment": "neutral",
-            "comments": 5,
-            "url": "https://news.ycombinator.com/item?id=48859439",
+            "title": "AI-generated videos to maximally drive a target brain region",
+            "insight": "HN 热议：205 分 · 197 评论",
+            "sentiment": "positive",
+            "comments": 197,
+            "url": "https://nevo-project.epfl.ch/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-10T13:50:54Z",
+    "updated": "2026-07-10T16:49:03Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
