@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-10T16:49:03Z",
+    "updated": "2026-07-10T19:12:15Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-10T16:49:03Z",
+    "updated": "2026-07-10T19:12:15Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,7 +266,7 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-10T16:49:03Z",
+    "updated": "2026-07-10T19:12:15Z",
     "repos": [
         {
             "rank": 1,
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 165292,
-            "stars_today": 165292,
+            "stars": 165306,
+            "stars_today": 165306,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 94784,
-            "stars_today": 94784,
+            "stars": 94786,
+            "stars_today": 94786,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 86729,
-            "stars_today": 86729,
+            "stars": 86739,
+            "stars_today": 86739,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 80345,
-            "stars_today": 80345,
+            "stars": 80358,
+            "stars_today": 80358,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54500,
-            "stars_today": 54500,
+            "stars": 54503,
+            "stars_today": 54503,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-10T16:49:03Z",
+    "updated": "2026-07-10T19:12:15Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-10T16:49:03Z",
+    "updated": "2026-07-10T19:12:15Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-10T16:49:03Z",
+    "updated": "2026-07-10T19:12:15Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Write code like a human will maintain it",
-            "insight": "HN 热议：205 分 · 170 评论",
-            "sentiment": "positive",
-            "comments": 170,
-            "url": "https://unstack.io/write-code-like-a-human-will-maintain-it",
+            "title": "Snails' Teeth Beats Spider Silk as Nature's Strongest Material (2015)",
+            "insight": "HN 热议：80 分 · 52 评论",
+            "sentiment": "neutral",
+            "comments": 52,
+            "url": "https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "GPT-5.6",
-            "insight": "HN 热议：1469 分 · 1038 评论",
-            "sentiment": "positive",
-            "comments": 1038,
-            "url": "https://openai.com/index/gpt-5-6/",
+            "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
+            "insight": "HN 热议：32 分 · 5 评论",
+            "sentiment": "neutral",
+            "comments": 5,
+            "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Train sim created by just one person is being called the best ever made",
-            "insight": "HN 热议：780 分 · 327 评论",
-            "sentiment": "positive",
-            "comments": 327,
-            "url": "https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429",
+            "title": "How the Terrorist Group Boko Haram Uses Frontier AI",
+            "insight": "HN 热议：5 分 · 0 评论",
+            "sentiment": "neutral",
+            "comments": 0,
+            "url": "https://casp.ac/reports/ai-enabled-terrorism",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future",
-            "insight": "HN 热议：161 分 · 229 评论",
-            "sentiment": "neutral",
-            "comments": 229,
-            "url": "https://www.macrumors.com/2026/07/06/apple-silicon-exec-explains-mac-mini-ai-demand/",
+            "title": "Write code like a human will maintain it",
+            "insight": "HN 热议：266 分 · 225 评论",
+            "sentiment": "positive",
+            "comments": 225,
+            "url": "https://unstack.io/write-code-like-a-human-will-maintain-it",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "AI-generated videos to maximally drive a target brain region",
-            "insight": "HN 热议：205 分 · 197 评论",
-            "sentiment": "positive",
-            "comments": 197,
-            "url": "https://nevo-project.epfl.ch/",
+            "title": "Hands-On with the AMD Ryzen AI Halo",
+            "insight": "HN 热议：23 分 · 25 评论",
+            "sentiment": "neutral",
+            "comments": 25,
+            "url": "https://www.microcenter.com/site/mc-news/article/amd-ryzen-ai-halo-review.aspx",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-10T16:49:03Z",
+    "updated": "2026-07-10T19:12:15Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
