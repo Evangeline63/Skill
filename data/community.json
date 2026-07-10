@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-10T11:40:11Z",
+  "updated": "2026-07-10T13:50:54Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "GPT-5.6",
-      "insight": "HN 热议：1337 分 · 926 评论",
-      "sentiment": "positive",
-      "comments": 926,
-      "url": "https://openai.com/index/gpt-5-6/",
+      "title": "Write code like a human will maintain it",
+      "insight": "HN 热议：9 分 · 2 评论",
+      "sentiment": "neutral",
+      "comments": 2,
+      "url": "https://unstack.io/write-code-like-a-human-will-maintain-it",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "80-year-old woman with Alzheimer's took mushrooms and started speaking again",
-      "insight": "HN 热议：4 分 · 0 评论",
-      "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://www.microdos.in/en/research/alzheimers-case-report-psilocybin-speech",
+      "title": "GPT-5.6",
+      "insight": "HN 热议：1401 分 · 972 评论",
+      "sentiment": "positive",
+      "comments": 972,
+      "url": "https://openai.com/index/gpt-5-6/",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "Train sim created by just one person is being called the best ever made",
-      "insight": "HN 热议：649 分 · 245 评论",
+      "insight": "HN 热议：708 分 · 269 评论",
       "sentiment": "positive",
-      "comments": 245,
+      "comments": 269,
       "url": "https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future",
-      "insight": "HN 热议：90 分 · 124 评论",
+      "insight": "HN 热议：123 分 · 170 评论",
       "sentiment": "neutral",
-      "comments": 124,
+      "comments": 170,
       "url": "https://www.macrumors.com/2026/07/06/apple-silicon-exec-explains-mac-mini-ai-demand/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "AI-generated videos to maximally drive a target brain region",
-      "insight": "HN 热议：92 分 · 81 评论",
+      "title": "How do you use Vim in the era of AI?",
+      "insight": "HN 热议：8 分 · 5 评论",
       "sentiment": "neutral",
-      "comments": 81,
-      "url": "https://nevo-project.epfl.ch/",
+      "comments": 5,
+      "url": "https://news.ycombinator.com/item?id=48859439",
       "id": 5
     }
   ]
