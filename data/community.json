@@ -1,48 +1,48 @@
 {
-  "updated": "2026-07-10T01:27:27Z",
+  "updated": "2026-07-10T06:30:27Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "GPT-5.6",
-      "insight": "HN 热议：1043 分 · 770 评论",
+      "title": "Train sim created by just one person is being called the best ever made",
+      "insight": "HN 热议：446 分 · 158 评论",
       "sentiment": "positive",
-      "comments": 770,
-      "url": "https://openai.com/index/gpt-5-6/",
+      "comments": 158,
+      "url": "https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Train sim created by just one person is being called the best ever made",
-      "insight": "HN 热议：272 分 · 107 评论",
-      "sentiment": "positive",
-      "comments": 107,
-      "url": "https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429",
+      "title": "Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future",
+      "insight": "HN 热议：50 分 · 29 评论",
+      "sentiment": "neutral",
+      "comments": 29,
+      "url": "https://www.macrumors.com/2026/07/06/apple-silicon-exec-explains-mac-mini-ai-demand/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Triple Dragon Fractal (2020)",
-      "insight": "HN 热议：11 分 · 2 评论",
-      "sentiment": "neutral",
-      "comments": 2,
-      "url": "https://paulbourke.net/fractals/tripledragon/",
+      "title": "GPT-5.6",
+      "insight": "HN 热议：1184 分 · 845 评论",
+      "sentiment": "positive",
+      "comments": 845,
+      "url": "https://openai.com/index/gpt-5-6/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Girls just wanna have fast MPMC queues with bounded waiting",
-      "insight": "HN 热议：134 分 · 31 评论",
+      "title": "Triple Dragon Fractal (2020)",
+      "insight": "HN 热议：38 分 · 8 评论",
       "sentiment": "neutral",
-      "comments": 31,
-      "url": "https://nahla.dev/blog/waitfree_queue/",
+      "comments": 8,
+      "url": "https://paulbourke.net/fractals/tripledragon/",
       "id": 4
     },
     {
       "source": "HackerNews",
       "title": "Building a real-time AI tutor for 5-year-olds",
-      "insight": "HN 热议：34 分 · 49 评论",
+      "insight": "HN 热议：74 分 · 107 评论",
       "sentiment": "neutral",
-      "comments": 49,
+      "comments": 107,
       "url": "https://www.ello.com/blog/teaching-a-child-in-1000-ms",
       "id": 5
     }
