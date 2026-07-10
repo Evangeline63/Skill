@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-09T22:11:27Z",
+  "updated": "2026-07-10T01:27:27Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "GPT-5.6",
-      "insight": "HN 热议：870 分 · 645 评论",
+      "insight": "HN 热议：1043 分 · 770 评论",
       "sentiment": "positive",
-      "comments": 645,
+      "comments": 770,
       "url": "https://openai.com/index/gpt-5-6/",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "Train sim created by just one person is being called the best ever made",
-      "insight": "HN 热议：126 分 · 55 评论",
-      "sentiment": "neutral",
-      "comments": 55,
+      "insight": "HN 热议：272 分 · 107 评论",
+      "sentiment": "positive",
+      "comments": 107,
       "url": "https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Girls just wanna have fast MPMC queues with bounded waiting",
-      "insight": "HN 热议：100 分 · 20 评论",
+      "title": "Triple Dragon Fractal (2020)",
+      "insight": "HN 热议：11 分 · 2 评论",
       "sentiment": "neutral",
-      "comments": 20,
-      "url": "https://nahla.dev/blog/waitfree_queue/",
+      "comments": 2,
+      "url": "https://paulbourke.net/fractals/tripledragon/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: I built a web tool to see and edit what an AI thinks before it answers",
-      "insight": "HN 热议：12 分 · 2 评论",
+      "title": "Girls just wanna have fast MPMC queues with bounded waiting",
+      "insight": "HN 热议：134 分 · 31 评论",
       "sentiment": "neutral",
-      "comments": 2,
-      "url": "https://lucid.earthpilot.ai",
+      "comments": 31,
+      "url": "https://nahla.dev/blog/waitfree_queue/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "ChatGPT Work",
-      "insight": "HN 热议：297 分 · 143 评论",
-      "sentiment": "positive",
-      "comments": 143,
-      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work/",
+      "title": "Building a real-time AI tutor for 5-year-olds",
+      "insight": "HN 热议：34 分 · 49 评论",
+      "sentiment": "neutral",
+      "comments": 49,
+      "url": "https://www.ello.com/blog/teaching-a-child-in-1000-ms",
       "id": 5
     }
   ]
