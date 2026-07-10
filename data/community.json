@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-10T19:12:15Z",
+  "updated": "2026-07-10T21:48:33Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Snails' Teeth Beats Spider Silk as Nature's Strongest Material (2015)",
-      "insight": "HN 热议：80 分 · 52 评论",
+      "title": "GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps",
+      "insight": "HN 热议：54 分 · 26 评论",
       "sentiment": "neutral",
-      "comments": 52,
-      "url": "https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/",
+      "comments": 26,
+      "url": "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
-      "insight": "HN 热议：32 分 · 5 评论",
+      "title": "Don't discontinue Gemini 2.5 Flash",
+      "insight": "HN 热议：41 分 · 23 评论",
       "sentiment": "neutral",
-      "comments": 5,
-      "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+      "comments": 23,
+      "url": "https://discuss.ai.google.dev/t/please-dont-discontinue-gemini-2-5-flash/174246",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "How the Terrorist Group Boko Haram Uses Frontier AI",
-      "insight": "HN 热议：5 分 · 0 评论",
-      "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://casp.ac/reports/ai-enabled-terrorism",
+      "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
+      "insight": "HN 热议：217 分 · 199 评论",
+      "sentiment": "positive",
+      "comments": 199,
+      "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Write code like a human will maintain it",
-      "insight": "HN 热议：266 分 · 225 评论",
-      "sentiment": "positive",
-      "comments": 225,
-      "url": "https://unstack.io/write-code-like-a-human-will-maintain-it",
+      "title": "How the terrorist group Boko Haram uses frontier AI",
+      "insight": "HN 热议：95 分 · 85 评论",
+      "sentiment": "neutral",
+      "comments": 85,
+      "url": "https://casp.ac/reports/ai-enabled-terrorism",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Hands-On with the AMD Ryzen AI Halo",
-      "insight": "HN 热议：23 分 · 25 评论",
+      "title": "Snails' teeth beats spider silk as nature's strongest material (2015)",
+      "insight": "HN 热议：130 分 · 97 评论",
       "sentiment": "neutral",
-      "comments": 25,
-      "url": "https://www.microcenter.com/site/mc-news/article/amd-ryzen-ai-halo-review.aspx",
+      "comments": 97,
+      "url": "https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/",
       "id": 5
     }
   ]
