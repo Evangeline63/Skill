@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-11T12:46:08Z",
+    "updated": "2026-07-11T15:42:01Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-11T12:46:08Z",
+    "updated": "2026-07-11T15:42:01Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-11T12:46:08Z",
+    "updated": "2026-07-11T15:42:01Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185468,
-            "stars_today": 185468,
+            "stars": 185475,
+            "stars_today": 185475,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,50 +282,50 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 165375,
-            "stars_today": 165375,
+            "stars": 165387,
+            "stars_today": 165387,
             "url": "https://github.com/f/prompts.chat"
         },
         {
             "rank": 3,
-            "name": "hacksider/Deep-Live-Cam",
-            "description": "real time face swap and one-click video deepfake with only a single image",
-            "language": "Python",
-            "stars": 94801,
-            "stars_today": 94801,
-            "url": "https://github.com/hacksider/Deep-Live-Cam"
+            "name": "rasbt/LLMs-from-scratch",
+            "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+            "language": "Jupyter Notebook",
+            "stars": 98916,
+            "stars_today": 98916,
+            "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
             "rank": 4,
-            "name": "thedotmack/claude-mem",
-            "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
-            "language": "JavaScript",
-            "stars": 86826,
-            "stars_today": 86826,
-            "url": "https://github.com/thedotmack/claude-mem"
+            "name": "hacksider/Deep-Live-Cam",
+            "description": "real time face swap and one-click video deepfake with only a single image",
+            "language": "Python",
+            "stars": 94806,
+            "stars_today": 94806,
+            "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
             "rank": 5,
-            "name": "OpenHands/OpenHands",
-            "description": "🙌 OpenHands: AI-Driven Development",
-            "language": "Python",
-            "stars": 80438,
-            "stars_today": 80438,
-            "url": "https://github.com/OpenHands/OpenHands"
+            "name": "thedotmack/claude-mem",
+            "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
+            "language": "JavaScript",
+            "stars": 86838,
+            "stars_today": 86838,
+            "url": "https://github.com/thedotmack/claude-mem"
         },
         {
             "rank": 6,
-            "name": "FlowiseAI/Flowise",
-            "description": "Build AI Agents, Visually",
-            "language": "TypeScript",
-            "stars": 54520,
-            "stars_today": 54520,
-            "url": "https://github.com/FlowiseAI/Flowise"
+            "name": "OpenHands/OpenHands",
+            "description": "🙌 OpenHands: AI-Driven Development",
+            "language": "Python",
+            "stars": 80454,
+            "stars_today": 80454,
+            "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-11T12:46:08Z",
+    "updated": "2026-07-11T15:42:01Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-11T12:46:08Z",
+    "updated": "2026-07-11T15:42:01Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-11T12:46:08Z",
+    "updated": "2026-07-11T15:42:01Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
-            "insight": "HN 热议：1195 分 · 626 评论",
-            "sentiment": "positive",
-            "comments": 626,
-            "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
+            "title": "Speculations Concerning the First Ultraintelligent Machine (1965) [pdf]",
+            "insight": "HN 热议：33 分 · 16 评论",
+            "sentiment": "neutral",
+            "comments": 16,
+            "url": "https://languagelog.ldc.upenn.edu/myl/Good1964.pdf",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "AI 2040: Plan A",
-            "insight": "HN 热议：299 分 · 309 评论",
+            "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+            "insight": "HN 热议：1339 分 · 723 评论",
             "sentiment": "positive",
-            "comments": 309,
-            "url": "https://ai-2040.com/",
+            "comments": 723,
+            "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
-            "insight": "HN 热议：475 分 · 386 评论",
-            "sentiment": "positive",
-            "comments": 386,
-            "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+            "title": "Ghost Font: A font that humans can read but AI cannot",
+            "insight": "HN 热议：82 分 · 72 评论",
+            "sentiment": "neutral",
+            "comments": 72,
+            "url": "https://www.mixfont.com/ghost-font",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Snails' teeth beats spider silk as nature's strongest material (2015)",
-            "insight": "HN 热议：202 分 · 155 评论",
+            "title": "AI 2040: Plan A",
+            "insight": "HN 热议：342 分 · 390 评论",
             "sentiment": "positive",
-            "comments": 155,
-            "url": "https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/",
+            "comments": 390,
+            "url": "https://ai-2040.com/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "GPT-5.6",
-            "insight": "HN 热议：1526 分 · 1087 评论",
+            "title": "Snails' teeth beats spider silk as nature's strongest material (2015)",
+            "insight": "HN 热议：216 分 · 161 评论",
             "sentiment": "positive",
-            "comments": 1087,
-            "url": "https://openai.com/index/gpt-5-6/",
+            "comments": 161,
+            "url": "https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-11T12:46:08Z",
+    "updated": "2026-07-11T15:42:01Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

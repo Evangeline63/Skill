@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-11T12:46:08Z",
+  "updated": "2026-07-11T15:42:01Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
-      "insight": "HN 热议：1195 分 · 626 评论",
-      "sentiment": "positive",
-      "comments": 626,
-      "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
+      "title": "Speculations Concerning the First Ultraintelligent Machine (1965) [pdf]",
+      "insight": "HN 热议：33 分 · 16 评论",
+      "sentiment": "neutral",
+      "comments": 16,
+      "url": "https://languagelog.ldc.upenn.edu/myl/Good1964.pdf",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "AI 2040: Plan A",
-      "insight": "HN 热议：299 分 · 309 评论",
+      "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+      "insight": "HN 热议：1339 分 · 723 评论",
       "sentiment": "positive",
-      "comments": 309,
-      "url": "https://ai-2040.com/",
+      "comments": 723,
+      "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
-      "insight": "HN 热议：475 分 · 386 评论",
-      "sentiment": "positive",
-      "comments": 386,
-      "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+      "title": "Ghost Font: A font that humans can read but AI cannot",
+      "insight": "HN 热议：82 分 · 72 评论",
+      "sentiment": "neutral",
+      "comments": 72,
+      "url": "https://www.mixfont.com/ghost-font",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Snails' teeth beats spider silk as nature's strongest material (2015)",
-      "insight": "HN 热议：202 分 · 155 评论",
+      "title": "AI 2040: Plan A",
+      "insight": "HN 热议：342 分 · 390 评论",
       "sentiment": "positive",
-      "comments": 155,
-      "url": "https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/",
+      "comments": 390,
+      "url": "https://ai-2040.com/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "GPT-5.6",
-      "insight": "HN 热议：1526 分 · 1087 评论",
+      "title": "Snails' teeth beats spider silk as nature's strongest material (2015)",
+      "insight": "HN 热议：216 分 · 161 评论",
       "sentiment": "positive",
-      "comments": 1087,
-      "url": "https://openai.com/index/gpt-5-6/",
+      "comments": 161,
+      "url": "https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/",
       "id": 5
     }
   ]
