@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-10T21:48:33Z",
+    "updated": "2026-07-11T01:20:56Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-10T21:48:33Z",
+    "updated": "2026-07-11T01:20:56Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-10T21:48:33Z",
+    "updated": "2026-07-11T01:20:56Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185452,
-            "stars_today": 185452,
+            "stars": 185454,
+            "stars_today": 185454,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 165322,
-            "stars_today": 165322,
+            "stars": 165332,
+            "stars_today": 165332,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 94788,
-            "stars_today": 94788,
+            "stars": 94790,
+            "stars_today": 94790,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 86761,
-            "stars_today": 86761,
+            "stars": 86776,
+            "stars_today": 86776,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 80363,
-            "stars_today": 80363,
+            "stars": 80380,
+            "stars_today": 80380,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54505,
-            "stars_today": 54505,
+            "stars": 54507,
+            "stars_today": 54507,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-10T21:48:33Z",
+    "updated": "2026-07-11T01:20:56Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-10T21:48:33Z",
+    "updated": "2026-07-11T01:20:56Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-10T21:48:33Z",
+    "updated": "2026-07-11T01:20:56Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps",
-            "insight": "HN 热议：54 分 · 26 评论",
-            "sentiment": "neutral",
-            "comments": 26,
-            "url": "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models",
+            "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+            "insight": "HN 热议：470 分 · 229 评论",
+            "sentiment": "positive",
+            "comments": 229,
+            "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Don't discontinue Gemini 2.5 Flash",
-            "insight": "HN 热议：41 分 · 23 评论",
-            "sentiment": "neutral",
-            "comments": 23,
-            "url": "https://discuss.ai.google.dev/t/please-dont-discontinue-gemini-2-5-flash/174246",
+            "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
+            "insight": "HN 热议：341 分 · 274 评论",
+            "sentiment": "positive",
+            "comments": 274,
+            "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
-            "insight": "HN 热议：217 分 · 199 评论",
-            "sentiment": "positive",
-            "comments": 199,
-            "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+            "title": "AI 2040: Plan A",
+            "insight": "HN 热议：140 分 · 131 评论",
+            "sentiment": "neutral",
+            "comments": 131,
+            "url": "https://ai-2040.com/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "How the terrorist group Boko Haram uses frontier AI",
-            "insight": "HN 热议：95 分 · 85 评论",
+            "title": "Snails' teeth beats spider silk as nature's strongest material (2015)",
+            "insight": "HN 热议：154 分 · 125 评论",
             "sentiment": "neutral",
-            "comments": 85,
-            "url": "https://casp.ac/reports/ai-enabled-terrorism",
+            "comments": 125,
+            "url": "https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Snails' teeth beats spider silk as nature's strongest material (2015)",
-            "insight": "HN 热议：130 分 · 97 评论",
+            "title": "How the terrorist group Boko Haram uses frontier AI",
+            "insight": "HN 热议：174 分 · 147 评论",
             "sentiment": "neutral",
-            "comments": 97,
-            "url": "https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/",
+            "comments": 147,
+            "url": "https://casp.ac/reports/ai-enabled-terrorism",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-10T21:48:33Z",
+    "updated": "2026-07-11T01:20:56Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
