@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-11T05:29:58Z",
+  "updated": "2026-07-11T07:28:47Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
-      "insight": "HN 热议：806 分 · 403 评论",
+      "insight": "HN 热议：944 分 · 468 评论",
       "sentiment": "positive",
-      "comments": 403,
+      "comments": 468,
       "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
-      "insight": "HN 热议：406 分 · 314 评论",
+      "insight": "HN 热议：433 分 · 340 评论",
       "sentiment": "positive",
-      "comments": 314,
+      "comments": 340,
       "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "AI 2040: Plan A",
-      "insight": "HN 热议：199 分 · 205 评论",
-      "sentiment": "neutral",
-      "comments": 205,
+      "insight": "HN 热议：228 分 · 233 评论",
+      "sentiment": "positive",
+      "comments": 233,
       "url": "https://ai-2040.com/",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "Snails' teeth beats spider silk as nature's strongest material (2015)",
-      "insight": "HN 热议：171 分 · 133 评论",
+      "insight": "HN 热议：180 分 · 140 评论",
       "sentiment": "neutral",
-      "comments": 133,
+      "comments": 140,
       "url": "https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "How the terrorist group Boko Haram uses frontier AI",
-      "insight": "HN 热议：199 分 · 163 评论",
+      "title": "Show HN: Reverse-engineering web apps into agent tools",
+      "insight": "HN 热议：81 分 · 32 评论",
       "sentiment": "neutral",
-      "comments": 163,
-      "url": "https://casp.ac/reports/ai-enabled-terrorism",
+      "comments": 32,
+      "url": "https://news.ycombinator.com/item?id=48847834",
       "id": 5
     }
   ]
