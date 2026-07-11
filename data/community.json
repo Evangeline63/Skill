@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-11T07:28:47Z",
+  "updated": "2026-07-11T10:07:26Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
-      "insight": "HN 热议：944 分 · 468 评论",
+      "insight": "HN 热议：1080 分 · 560 评论",
       "sentiment": "positive",
-      "comments": 468,
+      "comments": 560,
       "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
-      "insight": "HN 热议：433 分 · 340 评论",
+      "title": "AI 2040: Plan A",
+      "insight": "HN 热议：265 分 · 276 评论",
       "sentiment": "positive",
-      "comments": 340,
-      "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+      "comments": 276,
+      "url": "https://ai-2040.com/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "AI 2040: Plan A",
-      "insight": "HN 热议：228 分 · 233 评论",
+      "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
+      "insight": "HN 热议：453 分 · 364 评论",
       "sentiment": "positive",
-      "comments": 233,
-      "url": "https://ai-2040.com/",
+      "comments": 364,
+      "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "Snails' teeth beats spider silk as nature's strongest material (2015)",
-      "insight": "HN 热议：180 分 · 140 评论",
+      "insight": "HN 热议：190 分 · 147 评论",
       "sentiment": "neutral",
-      "comments": 140,
+      "comments": 147,
       "url": "https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Reverse-engineering web apps into agent tools",
-      "insight": "HN 热议：81 分 · 32 评论",
+      "title": "Companies are scrambling to curtail soaring AI costs",
+      "insight": "HN 热议：26 分 · 16 评论",
       "sentiment": "neutral",
-      "comments": 32,
-      "url": "https://news.ycombinator.com/item?id=48847834",
+      "comments": 16,
+      "url": "https://www.economist.com/business/2026/06/14/companies-are-scrambling-to-curtail-soaring-ai-costs",
       "id": 5
     }
   ]
