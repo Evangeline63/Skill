@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-11T15:42:01Z",
+    "updated": "2026-07-11T18:40:58Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-11T15:42:01Z",
+    "updated": "2026-07-11T18:40:58Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-11T15:42:01Z",
+    "updated": "2026-07-11T18:40:58Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185475,
-            "stars_today": 185475,
+            "stars": 185476,
+            "stars_today": 185476,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 165387,
-            "stars_today": 165387,
+            "stars": 165401,
+            "stars_today": 165401,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 98916,
-            "stars_today": 98916,
+            "stars": 98925,
+            "stars_today": 98925,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 94806,
-            "stars_today": 94806,
+            "stars": 94809,
+            "stars_today": 94809,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 86838,
-            "stars_today": 86838,
+            "stars": 86853,
+            "stars_today": 86853,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 80454,
-            "stars_today": 80454,
+            "stars": 80465,
+            "stars_today": 80465,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-11T15:42:01Z",
+    "updated": "2026-07-11T18:40:58Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-11T15:42:01Z",
+    "updated": "2026-07-11T18:40:58Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-11T15:42:01Z",
+    "updated": "2026-07-11T18:40:58Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Speculations Concerning the First Ultraintelligent Machine (1965) [pdf]",
-            "insight": "HN 热议：33 分 · 16 评论",
+            "title": "AI 2040 and the Cult of Intelligence",
+            "insight": "HN 热议：32 分 · 5 评论",
             "sentiment": "neutral",
-            "comments": 16,
-            "url": "https://languagelog.ldc.upenn.edu/myl/Good1964.pdf",
+            "comments": 5,
+            "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
-            "insight": "HN 热议：1339 分 · 723 评论",
-            "sentiment": "positive",
-            "comments": 723,
-            "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
+            "title": "Modern Decor May Be Straining People's Brains",
+            "insight": "HN 热议：92 分 · 70 评论",
+            "sentiment": "neutral",
+            "comments": 70,
+            "url": "https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Ghost Font: A font that humans can read but AI cannot",
-            "insight": "HN 热议：82 分 · 72 评论",
+            "title": "Who manages the agents?",
+            "insight": "HN 热议：13 分 · 4 评论",
             "sentiment": "neutral",
-            "comments": 72,
-            "url": "https://www.mixfont.com/ghost-font",
+            "comments": 4,
+            "url": "https://www.off-policy.com/dont-go-quietly-into-the-ai-night/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "AI 2040: Plan A",
-            "insight": "HN 热议：342 分 · 390 评论",
-            "sentiment": "positive",
-            "comments": 390,
-            "url": "https://ai-2040.com/",
+            "title": "AI Can't Recreate the Thrust Game (But It Can Help You Understand It)",
+            "insight": "HN 热议：18 分 · 6 评论",
+            "sentiment": "neutral",
+            "comments": 6,
+            "url": "https://www.jamesdrandall.com/posts/thrust_ai_powered_software_archaeology/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Snails' teeth beats spider silk as nature's strongest material (2015)",
-            "insight": "HN 热议：216 分 · 161 评论",
-            "sentiment": "positive",
-            "comments": 161,
-            "url": "https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/",
+            "title": "Female US rower completes historic solo journey from California to Hawaii",
+            "insight": "HN 热议：76 分 · 24 评论",
+            "sentiment": "neutral",
+            "comments": 24,
+            "url": "https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-11T15:42:01Z",
+    "updated": "2026-07-11T18:40:58Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
