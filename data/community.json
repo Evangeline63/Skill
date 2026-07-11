@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-11T18:40:58Z",
+  "updated": "2026-07-11T21:36:56Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "AI 2040 and the Cult of Intelligence",
-      "insight": "HN 热议：32 分 · 5 评论",
+      "title": "Female US rower completes historic solo journey from California to Hawaii",
+      "insight": "HN 热议：169 分 · 61 评论",
       "sentiment": "neutral",
-      "comments": 5,
-      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
+      "comments": 61,
+      "url": "https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Modern Decor May Be Straining People's Brains",
-      "insight": "HN 热议：92 分 · 70 评论",
+      "title": "AI Can't Recreate the Thrust Game (But It Can Help You Understand It)",
+      "insight": "HN 热议：43 分 · 23 评论",
       "sentiment": "neutral",
-      "comments": 70,
-      "url": "https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/",
+      "comments": 23,
+      "url": "https://www.jamesdrandall.com/posts/thrust_ai_powered_software_archaeology/",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "Who manages the agents?",
-      "insight": "HN 热议：13 分 · 4 评论",
+      "insight": "HN 热议：64 分 · 66 评论",
       "sentiment": "neutral",
-      "comments": 4,
+      "comments": 66,
       "url": "https://www.off-policy.com/dont-go-quietly-into-the-ai-night/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "AI Can't Recreate the Thrust Game (But It Can Help You Understand It)",
-      "insight": "HN 热议：18 分 · 6 评论",
+      "title": "Taiwan's Lost 8-Bit Computer [video]",
+      "insight": "HN 热议：15 分 · 0 评论",
       "sentiment": "neutral",
-      "comments": 6,
-      "url": "https://www.jamesdrandall.com/posts/thrust_ai_powered_software_archaeology/",
+      "comments": 0,
+      "url": "https://www.youtube.com/watch?v=IZH1rR7WogI",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Female US rower completes historic solo journey from California to Hawaii",
-      "insight": "HN 热议：76 分 · 24 评论",
+      "title": "AI 2040 and the cult of intelligence",
+      "insight": "HN 热议：141 分 · 163 评论",
       "sentiment": "neutral",
-      "comments": 24,
-      "url": "https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey",
+      "comments": 163,
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
       "id": 5
     }
   ]
