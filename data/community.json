@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-11T10:07:26Z",
+  "updated": "2026-07-11T12:46:08Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
-      "insight": "HN 热议：1080 分 · 560 评论",
+      "insight": "HN 热议：1195 分 · 626 评论",
       "sentiment": "positive",
-      "comments": 560,
+      "comments": 626,
       "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "AI 2040: Plan A",
-      "insight": "HN 热议：265 分 · 276 评论",
+      "insight": "HN 热议：299 分 · 309 评论",
       "sentiment": "positive",
-      "comments": 276,
+      "comments": 309,
       "url": "https://ai-2040.com/",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
-      "insight": "HN 热议：453 分 · 364 评论",
+      "insight": "HN 热议：475 分 · 386 评论",
       "sentiment": "positive",
-      "comments": 364,
+      "comments": 386,
       "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "Snails' teeth beats spider silk as nature's strongest material (2015)",
-      "insight": "HN 热议：190 分 · 147 评论",
-      "sentiment": "neutral",
-      "comments": 147,
+      "insight": "HN 热议：202 分 · 155 评论",
+      "sentiment": "positive",
+      "comments": 155,
       "url": "https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Companies are scrambling to curtail soaring AI costs",
-      "insight": "HN 热议：26 分 · 16 评论",
-      "sentiment": "neutral",
-      "comments": 16,
-      "url": "https://www.economist.com/business/2026/06/14/companies-are-scrambling-to-curtail-soaring-ai-costs",
+      "title": "GPT-5.6",
+      "insight": "HN 热议：1526 分 · 1087 评论",
+      "sentiment": "positive",
+      "comments": 1087,
+      "url": "https://openai.com/index/gpt-5-6/",
       "id": 5
     }
   ]
