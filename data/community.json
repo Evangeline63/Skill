@@ -1,48 +1,48 @@
 {
-  "updated": "2026-07-11T01:20:56Z",
+  "updated": "2026-07-11T05:29:58Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
-      "insight": "HN 热议：470 分 · 229 评论",
+      "insight": "HN 热议：806 分 · 403 评论",
       "sentiment": "positive",
-      "comments": 229,
+      "comments": 403,
       "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
-      "insight": "HN 热议：341 分 · 274 评论",
+      "insight": "HN 热议：406 分 · 314 评论",
       "sentiment": "positive",
-      "comments": 274,
+      "comments": 314,
       "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "AI 2040: Plan A",
-      "insight": "HN 热议：140 分 · 131 评论",
+      "insight": "HN 热议：199 分 · 205 评论",
       "sentiment": "neutral",
-      "comments": 131,
+      "comments": 205,
       "url": "https://ai-2040.com/",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "Snails' teeth beats spider silk as nature's strongest material (2015)",
-      "insight": "HN 热议：154 分 · 125 评论",
+      "insight": "HN 热议：171 分 · 133 评论",
       "sentiment": "neutral",
-      "comments": 125,
+      "comments": 133,
       "url": "https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/",
       "id": 4
     },
     {
       "source": "HackerNews",
       "title": "How the terrorist group Boko Haram uses frontier AI",
-      "insight": "HN 热议：174 分 · 147 评论",
+      "insight": "HN 热议：199 分 · 163 评论",
       "sentiment": "neutral",
-      "comments": 147,
+      "comments": 163,
       "url": "https://casp.ac/reports/ai-enabled-terrorism",
       "id": 5
     }
