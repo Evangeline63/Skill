@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-12T15:45:28Z",
+  "updated": "2026-07-12T18:44:28Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Old and new apps, via modern coding agents by Terry Tao",
-      "insight": "HN 热议：217 分 · 55 评论",
+      "title": "Old and new apps, via modern coding agents",
+      "insight": "HN 热议：332 分 · 94 评论",
       "sentiment": "positive",
-      "comments": 55,
+      "comments": 94,
       "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "AI Boosts Research Careers but Flattens Scientific Discovery",
-      "insight": "HN 热议：55 分 · 38 评论",
+      "title": "Against Usefulness",
+      "insight": "HN 热议：22 分 · 4 评论",
       "sentiment": "neutral",
-      "comments": 38,
-      "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
+      "comments": 4,
+      "url": "https://www.motivenotes.ai/p/against-usefulness",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Gina Gallery of International Naive Art",
-      "insight": "HN 热议：14 分 · 6 评论",
-      "sentiment": "neutral",
-      "comments": 6,
-      "url": "https://www.ginagallery.com/",
+      "title": "What xAI's Grok build CLI sends to xAI: A wire-level analysis",
+      "insight": "HN 热议：328 分 · 146 评论",
+      "sentiment": "positive",
+      "comments": 146,
+      "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase",
-      "insight": "HN 热议：120 分 · 50 评论",
+      "title": "Autoresearch, Claude and Constrained Optimization",
+      "insight": "HN 热议：19 分 · 4 评论",
       "sentiment": "neutral",
-      "comments": 50,
-      "url": "https://github.com/cosmtrek/mindwalk",
+      "comments": 4,
+      "url": "https://www.elliotcsmith.com/autoresearch-claude-and-constrained-optimization/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Mesh LLM: distributed AI computing on iroh",
-      "insight": "HN 热议：305 分 · 71 评论",
-      "sentiment": "positive",
-      "comments": 71,
-      "url": "https://www.iroh.computer/blog/mesh-llm",
+      "title": "AI boosts research careers but narrow the span of ideas explored: study",
+      "insight": "HN 热议：106 分 · 85 评论",
+      "sentiment": "neutral",
+      "comments": 85,
+      "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
       "id": 5
     }
   ]
