@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-11T21:36:56Z",
+    "updated": "2026-07-12T01:22:28Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-11T21:36:56Z",
+    "updated": "2026-07-12T01:22:28Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-11T21:36:56Z",
+    "updated": "2026-07-12T01:22:28Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185475,
-            "stars_today": 185475,
+            "stars": 185480,
+            "stars_today": 185480,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 165424,
-            "stars_today": 165424,
+            "stars": 165441,
+            "stars_today": 165441,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 98931,
-            "stars_today": 98931,
+            "stars": 98934,
+            "stars_today": 98934,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 94811,
-            "stars_today": 94811,
+            "stars": 94813,
+            "stars_today": 94813,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 86864,
-            "stars_today": 86864,
+            "stars": 86873,
+            "stars_today": 86873,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 80479,
-            "stars_today": 80479,
+            "stars": 80486,
+            "stars_today": 80486,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-11T21:36:56Z",
+    "updated": "2026-07-12T01:22:28Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-11T21:36:56Z",
+    "updated": "2026-07-12T01:22:28Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-11T21:36:56Z",
+    "updated": "2026-07-12T01:22:28Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Female US rower completes historic solo journey from California to Hawaii",
-            "insight": "HN 热议：169 分 · 61 评论",
+            "title": "Mesh LLM: distributed AI computing on iroh",
+            "insight": "HN 热议：70 分 · 19 评论",
             "sentiment": "neutral",
-            "comments": 61,
-            "url": "https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey",
+            "comments": 19,
+            "url": "https://www.iroh.computer/blog/mesh-llm",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "AI Can't Recreate the Thrust Game (But It Can Help You Understand It)",
-            "insight": "HN 热议：43 分 · 23 评论",
-            "sentiment": "neutral",
-            "comments": 23,
-            "url": "https://www.jamesdrandall.com/posts/thrust_ai_powered_software_archaeology/",
+            "title": "Female US rower completes historic solo journey from California to Hawaii",
+            "insight": "HN 热议：251 分 · 87 评论",
+            "sentiment": "positive",
+            "comments": 87,
+            "url": "https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Who manages the agents?",
-            "insight": "HN 热议：64 分 · 66 评论",
+            "title": "Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
+            "insight": "HN 热议：10 分 · 0 评论",
             "sentiment": "neutral",
-            "comments": 66,
-            "url": "https://www.off-policy.com/dont-go-quietly-into-the-ai-night/",
+            "comments": 0,
+            "url": "https://github.com/sqlsure/sqlsure",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Taiwan's Lost 8-Bit Computer [video]",
-            "insight": "HN 热议：15 分 · 0 评论",
+            "title": "Stop Telling Me to Ask an LLM",
+            "insight": "HN 热议：159 分 · 83 评论",
             "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://www.youtube.com/watch?v=IZH1rR7WogI",
+            "comments": 83,
+            "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "AI 2040 and the cult of intelligence",
-            "insight": "HN 热议：141 分 · 163 评论",
+            "title": "Reverse centaurs are the answer to the AI paradox (2025)",
+            "insight": "HN 热议：92 分 · 51 评论",
             "sentiment": "neutral",
-            "comments": 163,
-            "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
+            "comments": 51,
+            "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-11T21:36:56Z",
+    "updated": "2026-07-12T01:22:28Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
