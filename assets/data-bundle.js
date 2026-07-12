@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-12T07:54:14Z",
+    "updated": "2026-07-12T10:16:41Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-12T07:54:14Z",
+    "updated": "2026-07-12T10:16:41Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-12T07:54:14Z",
+    "updated": "2026-07-12T10:16:41Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185483,
-            "stars_today": 185483,
+            "stars": 185486,
+            "stars_today": 185486,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 165472,
-            "stars_today": 165472,
+            "stars": 165485,
+            "stars_today": 165485,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 98947,
-            "stars_today": 98947,
+            "stars": 98953,
+            "stars_today": 98953,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 94819,
-            "stars_today": 94819,
+            "stars": 94820,
+            "stars_today": 94820,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 86899,
-            "stars_today": 86899,
+            "stars": 86909,
+            "stars_today": 86909,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 80512,
-            "stars_today": 80512,
+            "stars": 80520,
+            "stars_today": 80520,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-12T07:54:14Z",
+    "updated": "2026-07-12T10:16:41Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-12T07:54:14Z",
+    "updated": "2026-07-12T10:16:41Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-12T07:54:14Z",
+    "updated": "2026-07-12T10:16:41Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Mesh LLM: distributed AI computing on iroh",
-            "insight": "HN 热议：211 分 · 49 评论",
-            "sentiment": "positive",
-            "comments": 49,
-            "url": "https://www.iroh.computer/blog/mesh-llm",
+            "title": "Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase",
+            "insight": "HN 热议：57 分 · 21 评论",
+            "sentiment": "neutral",
+            "comments": 21,
+            "url": "https://github.com/cosmtrek/mindwalk",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "An agent in 100 lines of Lisp",
-            "insight": "HN 热议：122 分 · 14 评论",
-            "sentiment": "neutral",
-            "comments": 14,
-            "url": "https://thebeach.dev/posts/lisp-agent/",
+            "title": "Mesh LLM: distributed AI computing on iroh",
+            "insight": "HN 热议：258 分 · 58 评论",
+            "sentiment": "positive",
+            "comments": 58,
+            "url": "https://www.iroh.computer/blog/mesh-llm",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase",
-            "insight": "HN 热议：6 分 · 1 评论",
+            "title": "An agent in 100 lines of Lisp",
+            "insight": "HN 热议：151 分 · 29 评论",
             "sentiment": "neutral",
-            "comments": 1,
-            "url": "https://github.com/cosmtrek/mindwalk",
+            "comments": 29,
+            "url": "https://thebeach.dev/posts/lisp-agent/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Under federal rule, colleges must leave grads better off or lose financial aid",
-            "insight": "HN 热议：59 分 · 87 评论",
+            "title": "Modern decor may be straining people's brains",
+            "insight": "HN 热议：191 分 · 197 评论",
             "sentiment": "neutral",
-            "comments": 87,
-            "url": "https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans",
+            "comments": 197,
+            "url": "https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Fixed three bugs that made Qwen3.5-122B a daily driver on Mac Studio",
-            "insight": "HN 热议：49 分 · 22 评论",
+            "title": "Under federal rule, colleges must leave grads better off or lose financial aid",
+            "insight": "HN 热议：93 分 · 149 评论",
             "sentiment": "neutral",
-            "comments": 22,
-            "url": "https://mrzk.io/posts/qmlx-maximising-ai-psychosis-minmaxing-mac-studio/",
+            "comments": 149,
+            "url": "https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-12T07:54:14Z",
+    "updated": "2026-07-12T10:16:41Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
