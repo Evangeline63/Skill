@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-12T18:44:28Z",
+    "updated": "2026-07-12T21:36:51Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-12T18:44:28Z",
+    "updated": "2026-07-12T21:36:51Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-12T15:45:28Z",
+    "updated": "2026-07-12T21:36:51Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185492,
-            "stars_today": 185492,
+            "stars": 185494,
+            "stars_today": 185494,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 165533,
-            "stars_today": 165533,
+            "stars": 165558,
+            "stars_today": 165558,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 98966,
-            "stars_today": 98966,
+            "stars": 98977,
+            "stars_today": 98977,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 94828,
-            "stars_today": 94828,
+            "stars": 94836,
+            "stars_today": 94836,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 86930,
-            "stars_today": 86930,
+            "stars": 86963,
+            "stars_today": 86963,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 80544,
-            "stars_today": 80544,
+            "stars": 80567,
+            "stars_today": 80567,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-12T18:44:28Z",
+    "updated": "2026-07-12T21:36:51Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-12T18:44:28Z",
+    "updated": "2026-07-12T21:36:51Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-12T18:44:28Z",
+    "updated": "2026-07-12T21:36:51Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Old and new apps, via modern coding agents",
-            "insight": "HN 热议：332 分 · 94 评论",
+            "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+            "insight": "HN 热议：301 分 · 173 评论",
             "sentiment": "positive",
-            "comments": 94,
-            "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
+            "comments": 173,
+            "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Against Usefulness",
-            "insight": "HN 热议：22 分 · 4 评论",
-            "sentiment": "neutral",
-            "comments": 4,
-            "url": "https://www.motivenotes.ai/p/against-usefulness",
+            "title": "Old and new apps, via modern coding agents",
+            "insight": "HN 热议：381 分 · 106 评论",
+            "sentiment": "positive",
+            "comments": 106,
+            "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "What xAI's Grok build CLI sends to xAI: A wire-level analysis",
-            "insight": "HN 热议：328 分 · 146 评论",
+            "title": "I love LLMs, I hate hype",
+            "insight": "HN 热议：215 分 · 117 评论",
             "sentiment": "positive",
-            "comments": 146,
-            "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+            "comments": 117,
+            "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Autoresearch, Claude and Constrained Optimization",
-            "insight": "HN 热议：19 分 · 4 评论",
+            "title": "I Learned to Read Again",
+            "insight": "HN 热议：46 分 · 15 评论",
             "sentiment": "neutral",
-            "comments": 4,
-            "url": "https://www.elliotcsmith.com/autoresearch-claude-and-constrained-optimization/",
+            "comments": 15,
+            "url": "https://substack.magazinenongrata.com/p/how-i-learned-to-read-again",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "AI boosts research careers but narrow the span of ideas explored: study",
-            "insight": "HN 热议：106 分 · 85 评论",
+            "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
+            "insight": "HN 热议：54 分 · 7 评论",
             "sentiment": "neutral",
-            "comments": 85,
-            "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
+            "comments": 7,
+            "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-12T18:44:28Z",
+    "updated": "2026-07-12T21:36:51Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

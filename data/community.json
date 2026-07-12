@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-12T18:44:28Z",
+  "updated": "2026-07-12T21:36:51Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Old and new apps, via modern coding agents",
-      "insight": "HN 热议：332 分 · 94 评论",
+      "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+      "insight": "HN 热议：301 分 · 173 评论",
       "sentiment": "positive",
-      "comments": 94,
-      "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
+      "comments": 173,
+      "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Against Usefulness",
-      "insight": "HN 热议：22 分 · 4 评论",
-      "sentiment": "neutral",
-      "comments": 4,
-      "url": "https://www.motivenotes.ai/p/against-usefulness",
+      "title": "Old and new apps, via modern coding agents",
+      "insight": "HN 热议：381 分 · 106 评论",
+      "sentiment": "positive",
+      "comments": 106,
+      "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "What xAI's Grok build CLI sends to xAI: A wire-level analysis",
-      "insight": "HN 热议：328 分 · 146 评论",
+      "title": "I love LLMs, I hate hype",
+      "insight": "HN 热议：215 分 · 117 评论",
       "sentiment": "positive",
-      "comments": 146,
-      "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+      "comments": 117,
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Autoresearch, Claude and Constrained Optimization",
-      "insight": "HN 热议：19 分 · 4 评论",
+      "title": "I Learned to Read Again",
+      "insight": "HN 热议：46 分 · 15 评论",
       "sentiment": "neutral",
-      "comments": 4,
-      "url": "https://www.elliotcsmith.com/autoresearch-claude-and-constrained-optimization/",
+      "comments": 15,
+      "url": "https://substack.magazinenongrata.com/p/how-i-learned-to-read-again",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "AI boosts research careers but narrow the span of ideas explored: study",
-      "insight": "HN 热议：106 分 · 85 评论",
+      "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
+      "insight": "HN 热议：54 分 · 7 评论",
       "sentiment": "neutral",
-      "comments": 85,
-      "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
+      "comments": 7,
+      "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
       "id": 5
     }
   ]
