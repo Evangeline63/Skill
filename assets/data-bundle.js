@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-12T10:16:41Z",
+    "updated": "2026-07-12T12:48:14Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-12T10:16:41Z",
+    "updated": "2026-07-12T12:48:14Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-12T10:16:41Z",
+    "updated": "2026-07-12T12:48:14Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185486,
-            "stars_today": 185486,
+            "stars": 185488,
+            "stars_today": 185488,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 165485,
-            "stars_today": 165485,
+            "stars": 165506,
+            "stars_today": 165506,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 98953,
-            "stars_today": 98953,
+            "stars": 98959,
+            "stars_today": 98959,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 94820,
-            "stars_today": 94820,
+            "stars": 94823,
+            "stars_today": 94823,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 86909,
-            "stars_today": 86909,
+            "stars": 86918,
+            "stars_today": 86918,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 80520,
-            "stars_today": 80520,
+            "stars": 80525,
+            "stars_today": 80525,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-12T10:16:41Z",
+    "updated": "2026-07-12T12:48:14Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-12T10:16:41Z",
+    "updated": "2026-07-12T12:48:14Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-12T10:16:41Z",
+    "updated": "2026-07-12T12:48:14Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase",
-            "insight": "HN 热议：57 分 · 21 评论",
+            "title": "Old and new apps, via modern coding agents by Terry Tao",
+            "insight": "HN 热议：65 分 · 10 评论",
             "sentiment": "neutral",
-            "comments": 21,
-            "url": "https://github.com/cosmtrek/mindwalk",
+            "comments": 10,
+            "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Mesh LLM: distributed AI computing on iroh",
-            "insight": "HN 热议：258 分 · 58 评论",
-            "sentiment": "positive",
-            "comments": 58,
-            "url": "https://www.iroh.computer/blog/mesh-llm",
+            "title": "Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase",
+            "insight": "HN 热议：96 分 · 42 评论",
+            "sentiment": "neutral",
+            "comments": 42,
+            "url": "https://github.com/cosmtrek/mindwalk",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "An agent in 100 lines of Lisp",
-            "insight": "HN 热议：151 分 · 29 评论",
-            "sentiment": "neutral",
-            "comments": 29,
-            "url": "https://thebeach.dev/posts/lisp-agent/",
+            "title": "Mesh LLM: distributed AI computing on iroh",
+            "insight": "HN 热议：277 分 · 64 评论",
+            "sentiment": "positive",
+            "comments": 64,
+            "url": "https://www.iroh.computer/blog/mesh-llm",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Modern decor may be straining people's brains",
-            "insight": "HN 热议：191 分 · 197 评论",
+            "title": "An agent in 100 lines of Lisp",
+            "insight": "HN 热议：179 分 · 49 评论",
             "sentiment": "neutral",
-            "comments": 197,
-            "url": "https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/",
+            "comments": 49,
+            "url": "https://thebeach.dev/posts/lisp-agent/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Under federal rule, colleges must leave grads better off or lose financial aid",
-            "insight": "HN 热议：93 分 · 149 评论",
-            "sentiment": "neutral",
-            "comments": 149,
-            "url": "https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans",
+            "title": "Modern decor may be straining people's brains",
+            "insight": "HN 热议：211 分 · 219 评论",
+            "sentiment": "positive",
+            "comments": 219,
+            "url": "https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-12T10:16:41Z",
+    "updated": "2026-07-12T12:48:14Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

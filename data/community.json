@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-12T10:16:41Z",
+  "updated": "2026-07-12T12:48:14Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase",
-      "insight": "HN 热议：57 分 · 21 评论",
+      "title": "Old and new apps, via modern coding agents by Terry Tao",
+      "insight": "HN 热议：65 分 · 10 评论",
       "sentiment": "neutral",
-      "comments": 21,
-      "url": "https://github.com/cosmtrek/mindwalk",
+      "comments": 10,
+      "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Mesh LLM: distributed AI computing on iroh",
-      "insight": "HN 热议：258 分 · 58 评论",
-      "sentiment": "positive",
-      "comments": 58,
-      "url": "https://www.iroh.computer/blog/mesh-llm",
+      "title": "Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase",
+      "insight": "HN 热议：96 分 · 42 评论",
+      "sentiment": "neutral",
+      "comments": 42,
+      "url": "https://github.com/cosmtrek/mindwalk",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "An agent in 100 lines of Lisp",
-      "insight": "HN 热议：151 分 · 29 评论",
-      "sentiment": "neutral",
-      "comments": 29,
-      "url": "https://thebeach.dev/posts/lisp-agent/",
+      "title": "Mesh LLM: distributed AI computing on iroh",
+      "insight": "HN 热议：277 分 · 64 评论",
+      "sentiment": "positive",
+      "comments": 64,
+      "url": "https://www.iroh.computer/blog/mesh-llm",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Modern decor may be straining people's brains",
-      "insight": "HN 热议：191 分 · 197 评论",
+      "title": "An agent in 100 lines of Lisp",
+      "insight": "HN 热议：179 分 · 49 评论",
       "sentiment": "neutral",
-      "comments": 197,
-      "url": "https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/",
+      "comments": 49,
+      "url": "https://thebeach.dev/posts/lisp-agent/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Under federal rule, colleges must leave grads better off or lose financial aid",
-      "insight": "HN 热议：93 分 · 149 评论",
-      "sentiment": "neutral",
-      "comments": 149,
-      "url": "https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans",
+      "title": "Modern decor may be straining people's brains",
+      "insight": "HN 热议：211 分 · 219 评论",
+      "sentiment": "positive",
+      "comments": 219,
+      "url": "https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/",
       "id": 5
     }
   ]
