@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-12T05:46:24Z",
+  "updated": "2026-07-12T07:54:14Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Mesh LLM: distributed AI computing on iroh",
-      "insight": "HN 热议：175 分 · 40 评论",
-      "sentiment": "neutral",
-      "comments": 40,
+      "insight": "HN 热议：211 分 · 49 评论",
+      "sentiment": "positive",
+      "comments": 49,
       "url": "https://www.iroh.computer/blog/mesh-llm",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "What xAI's Grok Build CLI Actually Sends to xAI",
-      "insight": "HN 热议：176 分 · 95 评论",
+      "title": "An agent in 100 lines of Lisp",
+      "insight": "HN 热议：122 分 · 14 评论",
       "sentiment": "neutral",
-      "comments": 95,
-      "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+      "comments": 14,
+      "url": "https://thebeach.dev/posts/lisp-agent/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "An agent in 100 lines of Lisp",
-      "insight": "HN 热议：91 分 · 5 评论",
+      "title": "Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase",
+      "insight": "HN 热议：6 分 · 1 评论",
       "sentiment": "neutral",
-      "comments": 5,
-      "url": "https://thebeach.dev/posts/lisp-agent/",
+      "comments": 1,
+      "url": "https://github.com/cosmtrek/mindwalk",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Fixed three bugs that made Qwen3.5-122B a daily driver on Mac Studio",
-      "insight": "HN 热议：23 分 · 10 评论",
+      "title": "Under federal rule, colleges must leave grads better off or lose financial aid",
+      "insight": "HN 热议：59 分 · 87 评论",
       "sentiment": "neutral",
-      "comments": 10,
-      "url": "https://mrzk.io/posts/qmlx-maximising-ai-psychosis-minmaxing-mac-studio/",
+      "comments": 87,
+      "url": "https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
-      "insight": "HN 热议：25 分 · 4 评论",
+      "title": "Fixed three bugs that made Qwen3.5-122B a daily driver on Mac Studio",
+      "insight": "HN 热议：49 分 · 22 评论",
       "sentiment": "neutral",
-      "comments": 4,
-      "url": "https://github.com/sqlsure/sqlsure",
+      "comments": 22,
+      "url": "https://mrzk.io/posts/qmlx-maximising-ai-psychosis-minmaxing-mac-studio/",
       "id": 5
     }
   ]

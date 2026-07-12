@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-12T05:46:24Z",
+    "updated": "2026-07-12T07:54:14Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-12T05:46:24Z",
+    "updated": "2026-07-12T07:54:14Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-12T05:46:24Z",
+    "updated": "2026-07-12T07:54:14Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185484,
-            "stars_today": 185484,
+            "stars": 185483,
+            "stars_today": 185483,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 165461,
-            "stars_today": 165461,
+            "stars": 165472,
+            "stars_today": 165472,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 98943,
-            "stars_today": 98943,
+            "stars": 98947,
+            "stars_today": 98947,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 86891,
-            "stars_today": 86891,
+            "stars": 86899,
+            "stars_today": 86899,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 80501,
-            "stars_today": 80501,
+            "stars": 80512,
+            "stars_today": 80512,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-12T05:46:24Z",
+    "updated": "2026-07-12T07:54:14Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-12T05:46:24Z",
+    "updated": "2026-07-12T07:54:14Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-12T05:46:24Z",
+    "updated": "2026-07-12T07:54:14Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Mesh LLM: distributed AI computing on iroh",
-            "insight": "HN 热议：175 分 · 40 评论",
-            "sentiment": "neutral",
-            "comments": 40,
+            "insight": "HN 热议：211 分 · 49 评论",
+            "sentiment": "positive",
+            "comments": 49,
             "url": "https://www.iroh.computer/blog/mesh-llm",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "What xAI's Grok Build CLI Actually Sends to xAI",
-            "insight": "HN 热议：176 分 · 95 评论",
+            "title": "An agent in 100 lines of Lisp",
+            "insight": "HN 热议：122 分 · 14 评论",
             "sentiment": "neutral",
-            "comments": 95,
-            "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+            "comments": 14,
+            "url": "https://thebeach.dev/posts/lisp-agent/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "An agent in 100 lines of Lisp",
-            "insight": "HN 热议：91 分 · 5 评论",
+            "title": "Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase",
+            "insight": "HN 热议：6 分 · 1 评论",
             "sentiment": "neutral",
-            "comments": 5,
-            "url": "https://thebeach.dev/posts/lisp-agent/",
+            "comments": 1,
+            "url": "https://github.com/cosmtrek/mindwalk",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Fixed three bugs that made Qwen3.5-122B a daily driver on Mac Studio",
-            "insight": "HN 热议：23 分 · 10 评论",
+            "title": "Under federal rule, colleges must leave grads better off or lose financial aid",
+            "insight": "HN 热议：59 分 · 87 评论",
             "sentiment": "neutral",
-            "comments": 10,
-            "url": "https://mrzk.io/posts/qmlx-maximising-ai-psychosis-minmaxing-mac-studio/",
+            "comments": 87,
+            "url": "https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
-            "insight": "HN 热议：25 分 · 4 评论",
+            "title": "Fixed three bugs that made Qwen3.5-122B a daily driver on Mac Studio",
+            "insight": "HN 热议：49 分 · 22 评论",
             "sentiment": "neutral",
-            "comments": 4,
-            "url": "https://github.com/sqlsure/sqlsure",
+            "comments": 22,
+            "url": "https://mrzk.io/posts/qmlx-maximising-ai-psychosis-minmaxing-mac-studio/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-12T05:46:24Z",
+    "updated": "2026-07-12T07:54:14Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
