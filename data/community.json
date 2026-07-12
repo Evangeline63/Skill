@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-12T01:22:28Z",
+  "updated": "2026-07-12T05:46:24Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Mesh LLM: distributed AI computing on iroh",
-      "insight": "HN 热议：70 分 · 19 评论",
+      "insight": "HN 热议：175 分 · 40 评论",
       "sentiment": "neutral",
-      "comments": 19,
+      "comments": 40,
       "url": "https://www.iroh.computer/blog/mesh-llm",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Female US rower completes historic solo journey from California to Hawaii",
-      "insight": "HN 热议：251 分 · 87 评论",
-      "sentiment": "positive",
-      "comments": 87,
-      "url": "https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey",
+      "title": "What xAI's Grok Build CLI Actually Sends to xAI",
+      "insight": "HN 热议：176 分 · 95 评论",
+      "sentiment": "neutral",
+      "comments": 95,
+      "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
-      "insight": "HN 热议：10 分 · 0 评论",
+      "title": "An agent in 100 lines of Lisp",
+      "insight": "HN 热议：91 分 · 5 评论",
       "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://github.com/sqlsure/sqlsure",
+      "comments": 5,
+      "url": "https://thebeach.dev/posts/lisp-agent/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Stop Telling Me to Ask an LLM",
-      "insight": "HN 热议：159 分 · 83 评论",
+      "title": "Fixed three bugs that made Qwen3.5-122B a daily driver on Mac Studio",
+      "insight": "HN 热议：23 分 · 10 评论",
       "sentiment": "neutral",
-      "comments": 83,
-      "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/",
+      "comments": 10,
+      "url": "https://mrzk.io/posts/qmlx-maximising-ai-psychosis-minmaxing-mac-studio/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Reverse centaurs are the answer to the AI paradox (2025)",
-      "insight": "HN 热议：92 分 · 51 评论",
+      "title": "Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
+      "insight": "HN 热议：25 分 · 4 评论",
       "sentiment": "neutral",
-      "comments": 51,
-      "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative",
+      "comments": 4,
+      "url": "https://github.com/sqlsure/sqlsure",
       "id": 5
     }
   ]

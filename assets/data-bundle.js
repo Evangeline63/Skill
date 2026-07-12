@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-12T01:22:28Z",
+    "updated": "2026-07-12T05:46:24Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-12T01:22:28Z",
+    "updated": "2026-07-12T05:46:24Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-12T01:22:28Z",
+    "updated": "2026-07-12T05:46:24Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185480,
-            "stars_today": 185480,
+            "stars": 185484,
+            "stars_today": 185484,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 165441,
-            "stars_today": 165441,
+            "stars": 165461,
+            "stars_today": 165461,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 98934,
-            "stars_today": 98934,
+            "stars": 98943,
+            "stars_today": 98943,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 94813,
-            "stars_today": 94813,
+            "stars": 94819,
+            "stars_today": 94819,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 86873,
-            "stars_today": 86873,
+            "stars": 86891,
+            "stars_today": 86891,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 80486,
-            "stars_today": 80486,
+            "stars": 80501,
+            "stars_today": 80501,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-12T01:22:28Z",
+    "updated": "2026-07-12T05:46:24Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-12T01:22:28Z",
+    "updated": "2026-07-12T05:46:24Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-12T01:22:28Z",
+    "updated": "2026-07-12T05:46:24Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Mesh LLM: distributed AI computing on iroh",
-            "insight": "HN 热议：70 分 · 19 评论",
+            "insight": "HN 热议：175 分 · 40 评论",
             "sentiment": "neutral",
-            "comments": 19,
+            "comments": 40,
             "url": "https://www.iroh.computer/blog/mesh-llm",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Female US rower completes historic solo journey from California to Hawaii",
-            "insight": "HN 热议：251 分 · 87 评论",
-            "sentiment": "positive",
-            "comments": 87,
-            "url": "https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey",
+            "title": "What xAI's Grok Build CLI Actually Sends to xAI",
+            "insight": "HN 热议：176 分 · 95 评论",
+            "sentiment": "neutral",
+            "comments": 95,
+            "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
-            "insight": "HN 热议：10 分 · 0 评论",
+            "title": "An agent in 100 lines of Lisp",
+            "insight": "HN 热议：91 分 · 5 评论",
             "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://github.com/sqlsure/sqlsure",
+            "comments": 5,
+            "url": "https://thebeach.dev/posts/lisp-agent/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Stop Telling Me to Ask an LLM",
-            "insight": "HN 热议：159 分 · 83 评论",
+            "title": "Fixed three bugs that made Qwen3.5-122B a daily driver on Mac Studio",
+            "insight": "HN 热议：23 分 · 10 评论",
             "sentiment": "neutral",
-            "comments": 83,
-            "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/",
+            "comments": 10,
+            "url": "https://mrzk.io/posts/qmlx-maximising-ai-psychosis-minmaxing-mac-studio/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Reverse centaurs are the answer to the AI paradox (2025)",
-            "insight": "HN 热议：92 分 · 51 评论",
+            "title": "Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
+            "insight": "HN 热议：25 分 · 4 评论",
             "sentiment": "neutral",
-            "comments": 51,
-            "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative",
+            "comments": 4,
+            "url": "https://github.com/sqlsure/sqlsure",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-12T01:22:28Z",
+    "updated": "2026-07-12T05:46:24Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
