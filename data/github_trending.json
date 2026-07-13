@@ -1,13 +1,13 @@
 {
-  "updated": "2026-07-12T21:36:51Z",
+  "updated": "2026-07-13T01:23:59Z",
   "repos": [
     {
       "rank": 1,
       "name": "Significant-Gravitas/AutoGPT",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
       "language": "Python",
-      "stars": 185494,
-      "stars_today": 185494,
+      "stars": 185496,
+      "stars_today": 185496,
       "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
@@ -15,8 +15,8 @@
       "name": "f/prompts.chat",
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
       "language": "HTML",
-      "stars": 165558,
-      "stars_today": 165558,
+      "stars": 165569,
+      "stars_today": 165569,
       "url": "https://github.com/f/prompts.chat"
     },
     {
@@ -24,36 +24,36 @@
       "name": "rasbt/LLMs-from-scratch",
       "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
       "language": "Jupyter Notebook",
-      "stars": 98977,
-      "stars_today": 98977,
+      "stars": 98982,
+      "stars_today": 98982,
       "url": "https://github.com/rasbt/LLMs-from-scratch"
     },
     {
       "rank": 4,
-      "name": "hacksider/Deep-Live-Cam",
-      "description": "real time face swap and one-click video deepfake with only a single image",
-      "language": "Python",
-      "stars": 94836,
-      "stars_today": 94836,
-      "url": "https://github.com/hacksider/Deep-Live-Cam"
-    },
-    {
-      "rank": 5,
       "name": "thedotmack/claude-mem",
       "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
       "language": "JavaScript",
-      "stars": 86963,
-      "stars_today": 86963,
+      "stars": 86978,
+      "stars_today": 86978,
       "url": "https://github.com/thedotmack/claude-mem"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "OpenHands/OpenHands",
       "description": "🙌 OpenHands: AI-Driven Development",
       "language": "Python",
-      "stars": 80567,
-      "stars_today": 80567,
+      "stars": 80575,
+      "stars_today": 80575,
       "url": "https://github.com/OpenHands/OpenHands"
+    },
+    {
+      "rank": 6,
+      "name": "microsoft/AI-For-Beginners",
+      "description": "12 Weeks, 24 Lessons, AI for All!",
+      "language": "Jupyter Notebook",
+      "stars": 52179,
+      "stars_today": 52179,
+      "url": "https://github.com/microsoft/AI-For-Beginners"
     }
   ]
 }

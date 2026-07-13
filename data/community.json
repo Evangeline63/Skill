@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-12T21:36:51Z",
+  "updated": "2026-07-13T01:23:59Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
-      "insight": "HN 热议：301 分 · 173 评论",
-      "sentiment": "positive",
-      "comments": 173,
-      "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+      "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
+      "insight": "HN 热议：131 分 · 44 评论",
+      "sentiment": "neutral",
+      "comments": 44,
+      "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "Old and new apps, via modern coding agents",
-      "insight": "HN 热议：381 分 · 106 评论",
+      "insight": "HN 热议：411 分 · 118 评论",
       "sentiment": "positive",
-      "comments": 106,
+      "comments": 118,
       "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "I love LLMs, I hate hype",
-      "insight": "HN 热议：215 分 · 117 评论",
+      "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+      "insight": "HN 热议：456 分 · 257 评论",
       "sentiment": "positive",
-      "comments": 117,
-      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+      "comments": 257,
+      "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "I Learned to Read Again",
-      "insight": "HN 热议：46 分 · 15 评论",
+      "insight": "HN 热议：94 分 · 42 评论",
       "sentiment": "neutral",
-      "comments": 15,
+      "comments": 42,
       "url": "https://substack.magazinenongrata.com/p/how-i-learned-to-read-again",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
-      "insight": "HN 热议：54 分 · 7 评论",
+      "title": "Mechanistic interpretability researchers applying causality theory to LLMs",
+      "insight": "HN 热议：82 分 · 62 评论",
       "sentiment": "neutral",
-      "comments": 7,
-      "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
+      "comments": 62,
+      "url": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason/",
       "id": 5
     }
   ]
