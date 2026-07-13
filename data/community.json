@@ -1,48 +1,48 @@
 {
-  "updated": "2026-07-13T01:23:59Z",
+  "updated": "2026-07-13T05:56:19Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
-      "insight": "HN 热议：131 分 · 44 评论",
-      "sentiment": "neutral",
-      "comments": 44,
-      "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
+      "title": "Ask HN: Add flag for AI-generated articles",
+      "insight": "HN 热议：364 分 · 193 评论",
+      "sentiment": "positive",
+      "comments": 193,
+      "url": "https://news.ycombinator.com/item?id=48886741",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Old and new apps, via modern coding agents",
-      "insight": "HN 热议：411 分 · 118 评论",
-      "sentiment": "positive",
-      "comments": 118,
-      "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
+      "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
+      "insight": "HN 热议：178 分 · 68 评论",
+      "sentiment": "neutral",
+      "comments": 68,
+      "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
-      "insight": "HN 热议：456 分 · 257 评论",
+      "insight": "HN 热议：533 分 · 299 评论",
       "sentiment": "positive",
-      "comments": 257,
+      "comments": 299,
       "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "I Learned to Read Again",
-      "insight": "HN 热议：94 分 · 42 评论",
+      "insight": "HN 热议：119 分 · 50 评论",
       "sentiment": "neutral",
-      "comments": 42,
+      "comments": 50,
       "url": "https://substack.magazinenongrata.com/p/how-i-learned-to-read-again",
       "id": 4
     },
     {
       "source": "HackerNews",
       "title": "Mechanistic interpretability researchers applying causality theory to LLMs",
-      "insight": "HN 热议：82 分 · 62 评论",
+      "insight": "HN 热议：94 分 · 67 评论",
       "sentiment": "neutral",
-      "comments": 62,
+      "comments": 67,
       "url": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason/",
       "id": 5
     }
