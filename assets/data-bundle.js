@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-13T05:56:19Z",
+    "updated": "2026-07-13T08:49:37Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-13T05:56:19Z",
+    "updated": "2026-07-13T08:49:37Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-13T05:56:19Z",
+    "updated": "2026-07-13T08:49:37Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185497,
-            "stars_today": 185497,
+            "stars": 185503,
+            "stars_today": 185503,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 165584,
-            "stars_today": 165584,
+            "stars": 165591,
+            "stars_today": 165591,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 98989,
-            "stars_today": 98989,
+            "stars": 99000,
+            "stars_today": 99000,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 86999,
-            "stars_today": 86999,
+            "stars": 87015,
+            "stars_today": 87015,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 80598,
-            "stars_today": 80598,
+            "stars": 80614,
+            "stars_today": 80614,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "microsoft/AI-For-Beginners",
             "description": "12 Weeks, 24 Lessons, AI for All!",
             "language": "Jupyter Notebook",
-            "stars": 52196,
-            "stars_today": 52196,
+            "stars": 52203,
+            "stars_today": 52203,
             "url": "https://github.com/microsoft/AI-For-Beginners"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-13T05:56:19Z",
+    "updated": "2026-07-13T08:49:37Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-13T05:56:19Z",
+    "updated": "2026-07-13T08:49:37Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-13T05:56:19Z",
+    "updated": "2026-07-13T08:49:37Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Ask HN: Add flag for AI-generated articles",
-            "insight": "HN 热议：364 分 · 193 评论",
-            "sentiment": "positive",
-            "comments": 193,
-            "url": "https://news.ycombinator.com/item?id=48886741",
+            "title": "Interrail: 6,379Km and 13 Countries over 7 weeks",
+            "insight": "HN 热议：5 分 · 0 评论",
+            "sentiment": "neutral",
+            "comments": 0,
+            "url": "https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
-            "insight": "HN 热议：178 分 · 68 评论",
-            "sentiment": "neutral",
-            "comments": 68,
-            "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
+            "title": "Ask HN: Add flag for AI-generated articles",
+            "insight": "HN 热议：614 分 · 287 评论",
+            "sentiment": "positive",
+            "comments": 287,
+            "url": "https://news.ycombinator.com/item?id=48886741",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
-            "insight": "HN 热议：533 分 · 299 评论",
-            "sentiment": "positive",
-            "comments": 299,
-            "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+            "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
+            "insight": "HN 热议：200 分 · 86 评论",
+            "sentiment": "neutral",
+            "comments": 86,
+            "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "I Learned to Read Again",
-            "insight": "HN 热议：119 分 · 50 评论",
-            "sentiment": "neutral",
-            "comments": 50,
-            "url": "https://substack.magazinenongrata.com/p/how-i-learned-to-read-again",
+            "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+            "insight": "HN 热议：575 分 · 319 评论",
+            "sentiment": "positive",
+            "comments": 319,
+            "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Mechanistic interpretability researchers applying causality theory to LLMs",
-            "insight": "HN 热议：94 分 · 67 评论",
+            "title": "I Learned to Read Again",
+            "insight": "HN 热议：140 分 · 55 评论",
             "sentiment": "neutral",
-            "comments": 67,
-            "url": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason/",
+            "comments": 55,
+            "url": "https://substack.magazinenongrata.com/p/how-i-learned-to-read-again",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-13T05:56:19Z",
+    "updated": "2026-07-13T08:49:37Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-13T05:56:19Z",
+  "updated": "2026-07-13T08:49:37Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Ask HN: Add flag for AI-generated articles",
-      "insight": "HN 热议：364 分 · 193 评论",
-      "sentiment": "positive",
-      "comments": 193,
-      "url": "https://news.ycombinator.com/item?id=48886741",
+      "title": "Interrail: 6,379Km and 13 Countries over 7 weeks",
+      "insight": "HN 热议：5 分 · 0 评论",
+      "sentiment": "neutral",
+      "comments": 0,
+      "url": "https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
-      "insight": "HN 热议：178 分 · 68 评论",
-      "sentiment": "neutral",
-      "comments": 68,
-      "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
+      "title": "Ask HN: Add flag for AI-generated articles",
+      "insight": "HN 热议：614 分 · 287 评论",
+      "sentiment": "positive",
+      "comments": 287,
+      "url": "https://news.ycombinator.com/item?id=48886741",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
-      "insight": "HN 热议：533 分 · 299 评论",
-      "sentiment": "positive",
-      "comments": 299,
-      "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+      "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
+      "insight": "HN 热议：200 分 · 86 评论",
+      "sentiment": "neutral",
+      "comments": 86,
+      "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "I Learned to Read Again",
-      "insight": "HN 热议：119 分 · 50 评论",
-      "sentiment": "neutral",
-      "comments": 50,
-      "url": "https://substack.magazinenongrata.com/p/how-i-learned-to-read-again",
+      "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+      "insight": "HN 热议：575 分 · 319 评论",
+      "sentiment": "positive",
+      "comments": 319,
+      "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Mechanistic interpretability researchers applying causality theory to LLMs",
-      "insight": "HN 热议：94 分 · 67 评论",
+      "title": "I Learned to Read Again",
+      "insight": "HN 热议：140 分 · 55 评论",
       "sentiment": "neutral",
-      "comments": 67,
-      "url": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason/",
+      "comments": 55,
+      "url": "https://substack.magazinenongrata.com/p/how-i-learned-to-read-again",
       "id": 5
     }
   ]
