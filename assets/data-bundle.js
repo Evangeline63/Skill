@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-13T19:07:39Z",
+    "updated": "2026-07-13T21:41:51Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-13T19:07:39Z",
+    "updated": "2026-07-13T21:41:51Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-13T19:07:39Z",
+    "updated": "2026-07-13T21:41:51Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185509,
-            "stars_today": 185509,
+            "stars": 185510,
+            "stars_today": 185510,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 165636,
-            "stars_today": 165636,
+            "stars": 165642,
+            "stars_today": 165642,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 99028,
-            "stars_today": 99028,
+            "stars": 99033,
+            "stars_today": 99033,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 87085,
-            "stars_today": 87085,
+            "stars": 87101,
+            "stars_today": 87101,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 80662,
-            "stars_today": 80662,
+            "stars": 80671,
+            "stars_today": 80671,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "microsoft/AI-For-Beginners",
             "description": "12 Weeks, 24 Lessons, AI for All!",
             "language": "Jupyter Notebook",
-            "stars": 52238,
-            "stars_today": 52238,
+            "stars": 52244,
+            "stars_today": 52244,
             "url": "https://github.com/microsoft/AI-For-Beginners"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-13T19:07:39Z",
+    "updated": "2026-07-13T21:41:51Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-13T19:07:39Z",
+    "updated": "2026-07-13T21:41:51Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-13T19:07:39Z",
+    "updated": "2026-07-13T21:41:51Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
-            "insight": "HN 热议：230 分 · 115 评论",
-            "sentiment": "positive",
-            "comments": 115,
-            "url": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
+            "title": "Samsung will delete your health data if you don't let them use it to train AI",
+            "insight": "HN 热议：109 分 · 26 评论",
+            "sentiment": "neutral",
+            "comments": 26,
+            "url": "https://neow.in/cWsyMTV3",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents",
-            "insight": "HN 热议：8 分 · 2 评论",
+            "title": "Telegram's t.me domain has been suspended",
+            "insight": "HN 热议：123 分 · 65 评论",
             "sentiment": "neutral",
-            "comments": 2,
-            "url": "https://github.com/morganwilliscloud/billai-bass",
+            "comments": 65,
+            "url": "https://www.whois.com/whois/t.me",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Clawk – Give coding agents a disposable Linux VM, not your laptop",
-            "insight": "HN 热议：138 分 · 128 评论",
-            "sentiment": "neutral",
-            "comments": 128,
-            "url": "https://github.com/clawkwork/clawk",
+            "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
+            "insight": "HN 热议：353 分 · 159 评论",
+            "sentiment": "positive",
+            "comments": 159,
+            "url": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
-            "insight": "HN 热议：1281 分 · 643 评论",
-            "sentiment": "positive",
-            "comments": 643,
-            "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
+            "title": "Show HN: I implemented a neural network in SQL",
+            "insight": "HN 热议：28 分 · 5 评论",
+            "sentiment": "neutral",
+            "comments": 5,
+            "url": "https://github.com/xqlsystems/xarray-sql/blob/claude/xarray-sql-mnist-demo/benchmarks/nn.py",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Frieve Vinyl Explained – Microscopic stylus/groove physics simulation",
-            "insight": "HN 热议：73 分 · 11 评论",
+            "title": "Show HN: Nobie – an Excel-compatible runtime for agents and humans",
+            "insight": "HN 热议：42 分 · 19 评论",
             "sentiment": "neutral",
-            "comments": 11,
-            "url": "https://frieve-a.github.io/sound_toolbox/vinyl_explained/vinyl_explained.html",
+            "comments": 19,
+            "url": "https://nobie.com",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-13T19:07:39Z",
+    "updated": "2026-07-13T21:41:51Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
