@@ -1,48 +1,48 @@
 {
-  "updated": "2026-07-13T11:47:45Z",
+  "updated": "2026-07-13T13:56:07Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
-      "insight": "HN 热议：430 分 · 196 评论",
+      "insight": "HN 热议：803 分 · 395 评论",
       "sentiment": "positive",
-      "comments": 196,
+      "comments": 395,
       "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "Interrail: 6,379Km and 13 Countries over 7 weeks",
-      "insight": "HN 热议：90 分 · 56 评论",
+      "insight": "HN 热议：143 分 · 86 评论",
       "sentiment": "neutral",
-      "comments": 56,
+      "comments": 86,
       "url": "https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Ask HN: Does anyone let AI agents play games just for fun?",
-      "insight": "HN 热议：13 分 · 20 评论",
+      "title": "Grok uploaded my user directory to xAI's servers",
+      "insight": "HN 热议：21 分 · 5 评论",
       "sentiment": "neutral",
-      "comments": 20,
-      "url": "https://news.ycombinator.com/item?id=48848741",
+      "comments": 5,
+      "url": "https://twitter.com/a_green_being/status/2076598897779020159",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "Frieve Vinyl Explained – Microscopic stylus/groove physics simulation",
-      "insight": "HN 热议：22 分 · 2 评论",
+      "insight": "HN 热议：36 分 · 6 评论",
       "sentiment": "neutral",
-      "comments": 2,
+      "comments": 6,
       "url": "https://frieve-a.github.io/sound_toolbox/vinyl_explained/vinyl_explained.html",
       "id": 4
     },
     {
       "source": "HackerNews",
       "title": "Ask HN: Add flag for AI-generated articles",
-      "insight": "HN 热议：745 分 · 331 评论",
+      "insight": "HN 热议：819 分 · 365 评论",
       "sentiment": "positive",
-      "comments": 331,
+      "comments": 365,
       "url": "https://news.ycombinator.com/item?id=48886741",
       "id": 5
     }

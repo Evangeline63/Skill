@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-13T11:47:45Z",
+    "updated": "2026-07-13T13:56:07Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-13T11:47:45Z",
+    "updated": "2026-07-13T13:56:07Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-13T08:49:37Z",
+    "updated": "2026-07-13T13:56:07Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185503,
-            "stars_today": 185503,
+            "stars": 185510,
+            "stars_today": 185510,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 165591,
-            "stars_today": 165591,
+            "stars": 165617,
+            "stars_today": 165617,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 99000,
-            "stars_today": 99000,
+            "stars": 99017,
+            "stars_today": 99017,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 87015,
-            "stars_today": 87015,
+            "stars": 87052,
+            "stars_today": 87052,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 80614,
-            "stars_today": 80614,
+            "stars": 80645,
+            "stars_today": 80645,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "microsoft/AI-For-Beginners",
             "description": "12 Weeks, 24 Lessons, AI for All!",
             "language": "Jupyter Notebook",
-            "stars": 52203,
-            "stars_today": 52203,
+            "stars": 52220,
+            "stars_today": 52220,
             "url": "https://github.com/microsoft/AI-For-Beginners"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-13T11:47:45Z",
+    "updated": "2026-07-13T13:56:07Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-13T11:47:45Z",
+    "updated": "2026-07-13T13:56:07Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-13T11:47:45Z",
+    "updated": "2026-07-13T13:56:07Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
-            "insight": "HN 热议：430 分 · 196 评论",
+            "insight": "HN 热议：803 分 · 395 评论",
             "sentiment": "positive",
-            "comments": 196,
+            "comments": 395,
             "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "Interrail: 6,379Km and 13 Countries over 7 weeks",
-            "insight": "HN 热议：90 分 · 56 评论",
+            "insight": "HN 热议：143 分 · 86 评论",
             "sentiment": "neutral",
-            "comments": 56,
+            "comments": 86,
             "url": "https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Ask HN: Does anyone let AI agents play games just for fun?",
-            "insight": "HN 热议：13 分 · 20 评论",
+            "title": "Grok uploaded my user directory to xAI's servers",
+            "insight": "HN 热议：21 分 · 5 评论",
             "sentiment": "neutral",
-            "comments": 20,
-            "url": "https://news.ycombinator.com/item?id=48848741",
+            "comments": 5,
+            "url": "https://twitter.com/a_green_being/status/2076598897779020159",
             "id": 3
         },
         {
             "source": "HackerNews",
             "title": "Frieve Vinyl Explained – Microscopic stylus/groove physics simulation",
-            "insight": "HN 热议：22 分 · 2 评论",
+            "insight": "HN 热议：36 分 · 6 评论",
             "sentiment": "neutral",
-            "comments": 2,
+            "comments": 6,
             "url": "https://frieve-a.github.io/sound_toolbox/vinyl_explained/vinyl_explained.html",
             "id": 4
         },
         {
             "source": "HackerNews",
             "title": "Ask HN: Add flag for AI-generated articles",
-            "insight": "HN 热议：745 分 · 331 评论",
+            "insight": "HN 热议：819 分 · 365 评论",
             "sentiment": "positive",
-            "comments": 331,
+            "comments": 365,
             "url": "https://news.ycombinator.com/item?id=48886741",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-13T11:47:45Z",
+    "updated": "2026-07-13T13:56:07Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
