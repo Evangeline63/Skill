@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-14T01:13:17Z",
+    "updated": "2026-07-14T05:18:33Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-14T01:13:17Z",
+    "updated": "2026-07-14T05:18:33Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-13T21:41:51Z",
+    "updated": "2026-07-14T05:18:33Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185510,
-            "stars_today": 185510,
+            "stars": 185517,
+            "stars_today": 185517,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 165642,
-            "stars_today": 165642,
+            "stars": 165667,
+            "stars_today": 165667,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 99033,
-            "stars_today": 99033,
+            "stars": 99046,
+            "stars_today": 99046,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 87101,
-            "stars_today": 87101,
+            "stars": 87131,
+            "stars_today": 87131,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,23 +309,23 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 80671,
-            "stars_today": 80671,
+            "stars": 80694,
+            "stars_today": 80694,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
             "rank": 6,
-            "name": "microsoft/AI-For-Beginners",
-            "description": "12 Weeks, 24 Lessons, AI for All!",
-            "language": "Jupyter Notebook",
-            "stars": 52244,
-            "stars_today": 52244,
-            "url": "https://github.com/microsoft/AI-For-Beginners"
+            "name": "FlowiseAI/Flowise",
+            "description": "Build AI Agents, Visually",
+            "language": "TypeScript",
+            "stars": 54588,
+            "stars_today": 54588,
+            "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-14T01:13:17Z",
+    "updated": "2026-07-14T05:18:33Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-14T01:13:17Z",
+    "updated": "2026-07-14T05:18:33Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-14T01:13:17Z",
+    "updated": "2026-07-14T05:18:33Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
-            "insight": "HN 热议：440 分 · 178 评论",
+            "insight": "HN 热议：504 分 · 197 评论",
             "sentiment": "positive",
-            "comments": 178,
+            "comments": 197,
             "url": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Jacquard, a programming language for AI-written, human-reviewed code",
-            "insight": "HN 热议：45 分 · 19 评论",
+            "title": "Building Food Metadata with LLM Juries",
+            "insight": "HN 热议：22 分 · 6 评论",
             "sentiment": "neutral",
-            "comments": 19,
-            "url": "https://github.com/jbwinters/jacquard-lang",
+            "comments": 6,
+            "url": "https://careersatdoordash.com/blog/building-food-metadata-with-llm-juries-context-optimization-multimodal-ai/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Telegram's t.me domain has been suspended",
-            "insight": "HN 热议：244 分 · 181 评论",
-            "sentiment": "positive",
-            "comments": 181,
-            "url": "https://www.whois.com/whois/t.me",
+            "title": "Show HN: Sx 2.0 – Share AI skills with your team through a Dropbox folder",
+            "insight": "HN 热议：26 分 · 27 评论",
+            "sentiment": "neutral",
+            "comments": 27,
+            "url": "https://sleuth-io.github.io/sx/2026/07/10/your-dropbox-is-now-a-skill-server.html",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Samsung Health app threatens data deletion if users opt out AI training",
-            "insight": "HN 热议：257 分 · 67 评论",
-            "sentiment": "positive",
-            "comments": 67,
-            "url": "https://neow.in/cWsyMTV3",
+            "title": "A Study of Microsoft's Early 2026 Rollout of Claude Code and GitHub Copilot CLI",
+            "insight": "HN 热议：47 分 · 28 评论",
+            "sentiment": "neutral",
+            "comments": 28,
+            "url": "https://arxiv.org/abs/2607.01418",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "The Difference Between Watercolor and Gouache Paints",
-            "insight": "HN 热议：5 分 · 0 评论",
+            "title": "Show HN: I implemented a neural network in SQL",
+            "insight": "HN 热议：71 分 · 17 评论",
             "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://www.jetpens.com/blog/The-Difference-Between-Watercolor-and-Gouache-Paints/pt/963",
+            "comments": 17,
+            "url": "https://github.com/xqlsystems/xarray-sql/blob/claude/xarray-sql-mnist-demo/benchmarks/nn.py",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-14T01:13:17Z",
+    "updated": "2026-07-14T05:18:33Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
