@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-14T16:06:52Z",
+  "updated": "2026-07-14T18:57:34Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Are we offloading too much of our thinking to AI?",
-      "insight": "HN 热议：71 分 · 61 评论",
+      "title": "Bonsai 27B (1-bit LLM): The First 27B-Class Model to Run on a Phone",
+      "insight": "HN 热议：42 分 · 8 评论",
       "sentiment": "neutral",
-      "comments": 61,
-      "url": "https://www.artfish.ai/p/offloading-thinking-to-ai",
+      "comments": 8,
+      "url": "https://prismml.com/news/bonsai-27b",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE",
-      "insight": "HN 热议：59 分 · 25 评论",
-      "sentiment": "neutral",
-      "comments": 25,
-      "url": "https://github.com/juggler-ai/juggler",
+      "title": "How to stop Claude from saying load-bearing",
+      "insight": "HN 热议：253 分 · 333 评论",
+      "sentiment": "positive",
+      "comments": 333,
+      "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "How to stop Claude from saying load-bearing",
-      "insight": "HN 热议：83 分 · 142 评论",
+      "title": "The largest available Minecraft world, totalling 15 TB",
+      "insight": "HN 热议：23 分 · 6 评论",
       "sentiment": "neutral",
-      "comments": 142,
-      "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
+      "comments": 6,
+      "url": "https://2b2t.place/1million",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: I RL-trained an agent that trains models with RL (for –$1.3k)",
-      "insight": "HN 热议：53 分 · 21 评论",
+      "title": "The zero-cost fallacy: open-source software in the agentic era",
+      "insight": "HN 热议：29 分 · 9 评论",
       "sentiment": "neutral",
-      "comments": 21,
-      "url": "https://github.com/Danau5tin/ai-trains-ai",
+      "comments": 9,
+      "url": "https://www.thoughtworks.com/insights/blog/open-source/zero-cost-fallacy-open-source-agentic-era",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Demis Hassabis has a plan to harness AI safely",
-      "insight": "HN 热议：76 分 · 75 评论",
+      "title": "Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations",
+      "insight": "HN 热议：20 分 · 7 评论",
       "sentiment": "neutral",
-      "comments": 75,
-      "url": "https://twitter.com/demishassabis/status/2076957440109625718",
+      "comments": 7,
+      "url": "https://agnost.ai",
       "id": 5
     }
   ]

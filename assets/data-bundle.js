@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-14T16:06:52Z",
+    "updated": "2026-07-14T18:57:34Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-14T16:06:52Z",
+    "updated": "2026-07-14T18:57:34Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-14T16:06:52Z",
+    "updated": "2026-07-14T18:57:34Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185532,
-            "stars_today": 185532,
+            "stars": 185533,
+            "stars_today": 185533,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 165715,
-            "stars_today": 165715,
+            "stars": 165726,
+            "stars_today": 165726,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 99083,
-            "stars_today": 99083,
+            "stars": 99085,
+            "stars_today": 99085,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 94898,
-            "stars_today": 94898,
+            "stars": 94905,
+            "stars_today": 94905,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 87222,
-            "stars_today": 87222,
+            "stars": 87243,
+            "stars_today": 87243,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 80766,
-            "stars_today": 80766,
+            "stars": 80772,
+            "stars_today": 80772,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-14T16:06:52Z",
+    "updated": "2026-07-14T18:57:34Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-14T16:06:52Z",
+    "updated": "2026-07-14T18:57:34Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-14T16:06:52Z",
+    "updated": "2026-07-14T18:57:34Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Are we offloading too much of our thinking to AI?",
-            "insight": "HN 热议：71 分 · 61 评论",
+            "title": "Bonsai 27B (1-bit LLM): The First 27B-Class Model to Run on a Phone",
+            "insight": "HN 热议：42 分 · 8 评论",
             "sentiment": "neutral",
-            "comments": 61,
-            "url": "https://www.artfish.ai/p/offloading-thinking-to-ai",
+            "comments": 8,
+            "url": "https://prismml.com/news/bonsai-27b",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE",
-            "insight": "HN 热议：59 分 · 25 评论",
-            "sentiment": "neutral",
-            "comments": 25,
-            "url": "https://github.com/juggler-ai/juggler",
+            "title": "How to stop Claude from saying load-bearing",
+            "insight": "HN 热议：253 分 · 333 评论",
+            "sentiment": "positive",
+            "comments": 333,
+            "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "How to stop Claude from saying load-bearing",
-            "insight": "HN 热议：83 分 · 142 评论",
+            "title": "The largest available Minecraft world, totalling 15 TB",
+            "insight": "HN 热议：23 分 · 6 评论",
             "sentiment": "neutral",
-            "comments": 142,
-            "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
+            "comments": 6,
+            "url": "https://2b2t.place/1million",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: I RL-trained an agent that trains models with RL (for –$1.3k)",
-            "insight": "HN 热议：53 分 · 21 评论",
+            "title": "The zero-cost fallacy: open-source software in the agentic era",
+            "insight": "HN 热议：29 分 · 9 评论",
             "sentiment": "neutral",
-            "comments": 21,
-            "url": "https://github.com/Danau5tin/ai-trains-ai",
+            "comments": 9,
+            "url": "https://www.thoughtworks.com/insights/blog/open-source/zero-cost-fallacy-open-source-agentic-era",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Demis Hassabis has a plan to harness AI safely",
-            "insight": "HN 热议：76 分 · 75 评论",
+            "title": "Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations",
+            "insight": "HN 热议：20 分 · 7 评论",
             "sentiment": "neutral",
-            "comments": 75,
-            "url": "https://twitter.com/demishassabis/status/2076957440109625718",
+            "comments": 7,
+            "url": "https://agnost.ai",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-14T16:06:52Z",
+    "updated": "2026-07-14T18:57:34Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
