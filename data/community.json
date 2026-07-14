@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-14T18:57:34Z",
+  "updated": "2026-07-14T21:43:32Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Bonsai 27B (1-bit LLM): The First 27B-Class Model to Run on a Phone",
-      "insight": "HN 热议：42 分 · 8 评论",
-      "sentiment": "neutral",
-      "comments": 8,
+      "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
+      "insight": "HN 热议：239 分 · 81 评论",
+      "sentiment": "positive",
+      "comments": 81,
       "url": "https://prismml.com/news/bonsai-27b",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "How to stop Claude from saying load-bearing",
-      "insight": "HN 热议：253 分 · 333 评论",
-      "sentiment": "positive",
-      "comments": 333,
-      "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
+      "title": "The largest available Minecraft world, totalling 15 TB",
+      "insight": "HN 热议：100 分 · 25 评论",
+      "sentiment": "neutral",
+      "comments": 25,
+      "url": "https://2b2t.place/1million",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "The largest available Minecraft world, totalling 15 TB",
-      "insight": "HN 热议：23 分 · 6 评论",
-      "sentiment": "neutral",
-      "comments": 6,
-      "url": "https://2b2t.place/1million",
+      "title": "How to stop Claude from saying load-bearing",
+      "insight": "HN 热议：362 分 · 424 评论",
+      "sentiment": "positive",
+      "comments": 424,
+      "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "The zero-cost fallacy: open-source software in the agentic era",
-      "insight": "HN 热议：29 分 · 9 评论",
+      "title": "Guardian Angels: LLM Personalization for Productivity and Security",
+      "insight": "HN 热议：27 分 · 3 评论",
       "sentiment": "neutral",
-      "comments": 9,
-      "url": "https://www.thoughtworks.com/insights/blog/open-source/zero-cost-fallacy-open-source-agentic-era",
+      "comments": 3,
+      "url": "https://gwern.net/guardian-angel",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations",
-      "insight": "HN 热议：20 分 · 7 评论",
+      "title": "The zero-cost fallacy: open-source software in the agentic era",
+      "insight": "HN 热议：81 分 · 62 评论",
       "sentiment": "neutral",
-      "comments": 7,
-      "url": "https://agnost.ai",
+      "comments": 62,
+      "url": "https://www.thoughtworks.com/insights/blog/open-source/zero-cost-fallacy-open-source-agentic-era",
       "id": 5
     }
   ]
