@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-14T07:42:44Z",
+    "updated": "2026-07-14T10:27:36Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-14T07:42:44Z",
+    "updated": "2026-07-14T10:27:36Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-14T07:42:44Z",
+    "updated": "2026-07-14T10:27:36Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185519,
-            "stars_today": 185519,
+            "stars": 185525,
+            "stars_today": 185525,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 165671,
-            "stars_today": 165671,
+            "stars": 165688,
+            "stars_today": 165688,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 99057,
-            "stars_today": 99057,
+            "stars": 99064,
+            "stars_today": 99064,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 87145,
-            "stars_today": 87145,
+            "stars": 87178,
+            "stars_today": 87178,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 80712,
-            "stars_today": 80712,
+            "stars": 80740,
+            "stars_today": 80740,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54590,
-            "stars_today": 54590,
+            "stars": 54596,
+            "stars_today": 54596,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-14T07:42:44Z",
+    "updated": "2026-07-14T10:27:36Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-14T07:42:44Z",
+    "updated": "2026-07-14T10:27:36Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-14T07:42:44Z",
+    "updated": "2026-07-14T10:27:36Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "OpenAI's Ad Business Is on Pace to Miss Its Own Forecast by 90%, Analyst Says",
-            "insight": "HN 热议：31 分 · 13 评论",
+            "title": "Australian energy retailers must provide three hours of free daytime electricity",
+            "insight": "HN 热议：108 分 · 153 评论",
             "sentiment": "neutral",
-            "comments": 13,
-            "url": "https://www.adweek.com/media/openais-ad-business-is-on-pace-to-miss-its-own-forecast-by-90-analyst-says/",
+            "comments": 153,
+            "url": "https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Building Food Metadata with LLM Juries",
-            "insight": "HN 热议：31 分 · 8 评论",
+            "title": "Indian scientists produce most detailed 3D atlas of the human brainstem",
+            "insight": "HN 热议：51 分 · 3 评论",
             "sentiment": "neutral",
-            "comments": 8,
-            "url": "https://careersatdoordash.com/blog/building-food-metadata-with-llm-juries-context-optimization-multimodal-ai/",
+            "comments": 3,
+            "url": "https://www.bbc.com/news/articles/cg53l737v1qo",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
-            "insight": "HN 热议：526 分 · 210 评论",
-            "sentiment": "positive",
-            "comments": 210,
-            "url": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
+            "title": "Show HN: Clawk – Give coding agents a disposable Linux VM, not your laptop",
+            "insight": "HN 热议：198 分 · 153 评论",
+            "sentiment": "neutral",
+            "comments": 153,
+            "url": "https://github.com/clawkwork/clawk",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Sx 2.0 – Share AI skills with your team through a Dropbox folder",
-            "insight": "HN 热议：34 分 · 29 评论",
+            "title": "Building Food Metadata with LLM Juries",
+            "insight": "HN 热议：40 分 · 10 评论",
             "sentiment": "neutral",
-            "comments": 29,
-            "url": "https://sleuth-io.github.io/sx/2026/07/10/your-dropbox-is-now-a-skill-server.html",
+            "comments": 10,
+            "url": "https://careersatdoordash.com/blog/building-food-metadata-with-llm-juries-context-optimization-multimodal-ai/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: I implemented a neural network in SQL",
-            "insight": "HN 热议：87 分 · 17 评论",
-            "sentiment": "neutral",
-            "comments": 17,
-            "url": "https://github.com/xqlsystems/xarray-sql/blob/claude/xarray-sql-mnist-demo/benchmarks/nn.py",
+            "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
+            "insight": "HN 热议：538 分 · 214 评论",
+            "sentiment": "positive",
+            "comments": 214,
+            "url": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-14T07:42:44Z",
+    "updated": "2026-07-14T10:27:36Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
