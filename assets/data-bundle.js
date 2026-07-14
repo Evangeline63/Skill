@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-14T10:27:36Z",
+    "updated": "2026-07-14T13:00:32Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-14T10:27:36Z",
+    "updated": "2026-07-14T13:00:32Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-14T10:27:36Z",
+    "updated": "2026-07-14T13:00:32Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185525,
-            "stars_today": 185525,
+            "stars": 185528,
+            "stars_today": 185528,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 165688,
-            "stars_today": 165688,
+            "stars": 165703,
+            "stars_today": 165703,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 99064,
-            "stars_today": 99064,
+            "stars": 99068,
+            "stars_today": 99068,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 87178,
-            "stars_today": 87178,
+            "stars": 87200,
+            "stars_today": 87200,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 80740,
-            "stars_today": 80740,
+            "stars": 80752,
+            "stars_today": 80752,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54596,
-            "stars_today": 54596,
+            "stars": 54599,
+            "stars_today": 54599,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-14T10:27:36Z",
+    "updated": "2026-07-14T13:00:32Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-14T10:27:36Z",
+    "updated": "2026-07-14T13:00:32Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-14T10:27:36Z",
+    "updated": "2026-07-14T13:00:32Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Australian energy retailers must provide three hours of free daytime electricity",
-            "insight": "HN 热议：108 分 · 153 评论",
+            "title": "Codex starts encrypting sub-agent prompts",
+            "insight": "HN 热议：150 分 · 101 评论",
             "sentiment": "neutral",
-            "comments": 153,
-            "url": "https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/",
+            "comments": 101,
+            "url": "https://github.com/openai/codex/issues/28058",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Indian scientists produce most detailed 3D atlas of the human brainstem",
-            "insight": "HN 热议：51 分 · 3 评论",
+            "title": "Coding agents think ahead of time",
+            "insight": "HN 热议：8 分 · 1 评论",
             "sentiment": "neutral",
-            "comments": 3,
-            "url": "https://www.bbc.com/news/articles/cg53l737v1qo",
+            "comments": 1,
+            "url": "https://arxiv.org/abs/2607.05188",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Clawk – Give coding agents a disposable Linux VM, not your laptop",
-            "insight": "HN 热议：198 分 · 153 评论",
+            "title": "Show HN: I RL-trained an agent that trains models with RL (for –$1.3k)",
+            "insight": "HN 热议：7 分 · 0 评论",
             "sentiment": "neutral",
-            "comments": 153,
-            "url": "https://github.com/clawkwork/clawk",
+            "comments": 0,
+            "url": "https://github.com/Danau5tin/ai-trains-ai",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Building Food Metadata with LLM Juries",
-            "insight": "HN 热议：40 分 · 10 评论",
+            "title": "Australian energy retailers must provide three hours of free daytime electricity",
+            "insight": "HN 热议：152 分 · 242 评论",
             "sentiment": "neutral",
-            "comments": 10,
-            "url": "https://careersatdoordash.com/blog/building-food-metadata-with-llm-juries-context-optimization-multimodal-ai/",
+            "comments": 242,
+            "url": "https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
-            "insight": "HN 热议：538 分 · 214 评论",
-            "sentiment": "positive",
-            "comments": 214,
-            "url": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
+            "title": "Indian scientists produce most detailed 3D atlas of the human brainstem",
+            "insight": "HN 热议：103 分 · 10 评论",
+            "sentiment": "neutral",
+            "comments": 10,
+            "url": "https://www.bbc.com/news/articles/cg53l737v1qo",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-14T10:27:36Z",
+    "updated": "2026-07-14T13:00:32Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
