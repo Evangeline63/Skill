@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-14T13:00:32Z",
+    "updated": "2026-07-14T16:06:52Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-14T13:00:32Z",
+    "updated": "2026-07-14T16:06:52Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-14T13:00:32Z",
+    "updated": "2026-07-14T16:06:52Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185528,
-            "stars_today": 185528,
+            "stars": 185532,
+            "stars_today": 185532,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 165703,
-            "stars_today": 165703,
+            "stars": 165715,
+            "stars_today": 165715,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,41 +291,41 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 99068,
-            "stars_today": 99068,
+            "stars": 99083,
+            "stars_today": 99083,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
             "rank": 4,
-            "name": "thedotmack/claude-mem",
-            "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
-            "language": "JavaScript",
-            "stars": 87200,
-            "stars_today": 87200,
-            "url": "https://github.com/thedotmack/claude-mem"
+            "name": "hacksider/Deep-Live-Cam",
+            "description": "real time face swap and one-click video deepfake with only a single image",
+            "language": "Python",
+            "stars": 94898,
+            "stars_today": 94898,
+            "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
             "rank": 5,
-            "name": "OpenHands/OpenHands",
-            "description": "🙌 OpenHands: AI-Driven Development",
-            "language": "Python",
-            "stars": 80752,
-            "stars_today": 80752,
-            "url": "https://github.com/OpenHands/OpenHands"
+            "name": "thedotmack/claude-mem",
+            "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
+            "language": "JavaScript",
+            "stars": 87222,
+            "stars_today": 87222,
+            "url": "https://github.com/thedotmack/claude-mem"
         },
         {
             "rank": 6,
-            "name": "FlowiseAI/Flowise",
-            "description": "Build AI Agents, Visually",
-            "language": "TypeScript",
-            "stars": 54599,
-            "stars_today": 54599,
-            "url": "https://github.com/FlowiseAI/Flowise"
+            "name": "OpenHands/OpenHands",
+            "description": "🙌 OpenHands: AI-Driven Development",
+            "language": "Python",
+            "stars": 80766,
+            "stars_today": 80766,
+            "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-14T13:00:32Z",
+    "updated": "2026-07-14T16:06:52Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-14T13:00:32Z",
+    "updated": "2026-07-14T16:06:52Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-14T13:00:32Z",
+    "updated": "2026-07-14T16:06:52Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Codex starts encrypting sub-agent prompts",
-            "insight": "HN 热议：150 分 · 101 评论",
+            "title": "Are we offloading too much of our thinking to AI?",
+            "insight": "HN 热议：71 分 · 61 评论",
             "sentiment": "neutral",
-            "comments": 101,
-            "url": "https://github.com/openai/codex/issues/28058",
+            "comments": 61,
+            "url": "https://www.artfish.ai/p/offloading-thinking-to-ai",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Coding agents think ahead of time",
-            "insight": "HN 热议：8 分 · 1 评论",
+            "title": "Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE",
+            "insight": "HN 热议：59 分 · 25 评论",
             "sentiment": "neutral",
-            "comments": 1,
-            "url": "https://arxiv.org/abs/2607.05188",
+            "comments": 25,
+            "url": "https://github.com/juggler-ai/juggler",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: I RL-trained an agent that trains models with RL (for –$1.3k)",
-            "insight": "HN 热议：7 分 · 0 评论",
+            "title": "How to stop Claude from saying load-bearing",
+            "insight": "HN 热议：83 分 · 142 评论",
             "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://github.com/Danau5tin/ai-trains-ai",
+            "comments": 142,
+            "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Australian energy retailers must provide three hours of free daytime electricity",
-            "insight": "HN 热议：152 分 · 242 评论",
+            "title": "Show HN: I RL-trained an agent that trains models with RL (for –$1.3k)",
+            "insight": "HN 热议：53 分 · 21 评论",
             "sentiment": "neutral",
-            "comments": 242,
-            "url": "https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/",
+            "comments": 21,
+            "url": "https://github.com/Danau5tin/ai-trains-ai",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Indian scientists produce most detailed 3D atlas of the human brainstem",
-            "insight": "HN 热议：103 分 · 10 评论",
+            "title": "Demis Hassabis has a plan to harness AI safely",
+            "insight": "HN 热议：76 分 · 75 评论",
             "sentiment": "neutral",
-            "comments": 10,
-            "url": "https://www.bbc.com/news/articles/cg53l737v1qo",
+            "comments": 75,
+            "url": "https://twitter.com/demishassabis/status/2076957440109625718",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-14T13:00:32Z",
+    "updated": "2026-07-14T16:06:52Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
