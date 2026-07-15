@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-15T16:11:12Z",
+    "updated": "2026-07-15T18:50:44Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-15T16:11:12Z",
+    "updated": "2026-07-15T18:50:44Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-15T16:11:12Z",
+    "updated": "2026-07-15T18:50:44Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185558,
-            "stars_today": 185558,
+            "stars": 185560,
+            "stars_today": 185560,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 165807,
-            "stars_today": 165807,
+            "stars": 165815,
+            "stars_today": 165815,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 99136,
-            "stars_today": 99136,
+            "stars": 99141,
+            "stars_today": 99141,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 94931,
-            "stars_today": 94931,
+            "stars": 94932,
+            "stars_today": 94932,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 87363,
-            "stars_today": 87363,
+            "stars": 87380,
+            "stars_today": 87380,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 80871,
-            "stars_today": 80871,
+            "stars": 80884,
+            "stars_today": 80884,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-15T16:11:12Z",
+    "updated": "2026-07-15T18:50:44Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-15T16:11:12Z",
+    "updated": "2026-07-15T18:50:44Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-15T16:11:12Z",
+    "updated": "2026-07-15T18:50:44Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Jurassic Park computers in excruciating detail",
-            "insight": "HN 热议：748 分 · 189 评论",
-            "sentiment": "positive",
-            "comments": 189,
-            "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
+            "title": "Murati's Thinking Machines Releases Open-Weights 975B Parameter LLM",
+            "insight": "HN 热议：41 分 · 5 评论",
+            "sentiment": "neutral",
+            "comments": 5,
+            "url": "https://thinkingmachines.ai/inkling/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Briar Is in Maintenance Mode",
-            "insight": "HN 热议：85 分 · 55 评论",
+            "title": "Launch HN: Coasty (YC S26) – An API for computer-use agents",
+            "insight": "HN 热议：22 分 · 0 评论",
             "sentiment": "neutral",
-            "comments": 55,
-            "url": "https://briarproject.org/news/2026-maintenance-mode/",
+            "comments": 0,
+            "url": "https://coasty.ai/docs",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
-            "insight": "HN 热议：99 分 · 108 评论",
+            "title": "Open-source memory for coding agents, synced over SSH",
+            "insight": "HN 热议：58 分 · 15 评论",
             "sentiment": "neutral",
-            "comments": 108,
-            "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
+            "comments": 15,
+            "url": "https://github.com/vshulcz/deja-vu/",
             "id": 3
         },
         {
             "source": "HackerNews",
             "title": "OpenAI loses trademark dispute at EU court",
-            "insight": "HN 热议：67 分 · 50 评论",
+            "insight": "HN 热议：146 分 · 105 评论",
             "sentiment": "neutral",
-            "comments": 50,
+            "comments": 105,
             "url": "https://dpa-international.com/economics/urn:newsml:dpa.com:20090101:260715-930-389143/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "A Trip to 90s Kansai: Exploring the XD FirstClass Network BBS",
-            "insight": "HN 热议：47 分 · 9 评论",
+            "title": "The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
+            "insight": "HN 热议：133 分 · 167 评论",
             "sentiment": "neutral",
-            "comments": 9,
-            "url": "https://cdrom.ca/games/2026/05/30/xd.html",
+            "comments": 167,
+            "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-15T16:11:12Z",
+    "updated": "2026-07-15T18:50:44Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

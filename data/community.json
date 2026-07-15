@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-15T16:11:12Z",
+  "updated": "2026-07-15T18:50:44Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Jurassic Park computers in excruciating detail",
-      "insight": "HN 热议：748 分 · 189 评论",
-      "sentiment": "positive",
-      "comments": 189,
-      "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
+      "title": "Murati's Thinking Machines Releases Open-Weights 975B Parameter LLM",
+      "insight": "HN 热议：41 分 · 5 评论",
+      "sentiment": "neutral",
+      "comments": 5,
+      "url": "https://thinkingmachines.ai/inkling/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Briar Is in Maintenance Mode",
-      "insight": "HN 热议：85 分 · 55 评论",
+      "title": "Launch HN: Coasty (YC S26) – An API for computer-use agents",
+      "insight": "HN 热议：22 分 · 0 评论",
       "sentiment": "neutral",
-      "comments": 55,
-      "url": "https://briarproject.org/news/2026-maintenance-mode/",
+      "comments": 0,
+      "url": "https://coasty.ai/docs",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
-      "insight": "HN 热议：99 分 · 108 评论",
+      "title": "Open-source memory for coding agents, synced over SSH",
+      "insight": "HN 热议：58 分 · 15 评论",
       "sentiment": "neutral",
-      "comments": 108,
-      "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
+      "comments": 15,
+      "url": "https://github.com/vshulcz/deja-vu/",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "OpenAI loses trademark dispute at EU court",
-      "insight": "HN 热议：67 分 · 50 评论",
+      "insight": "HN 热议：146 分 · 105 评论",
       "sentiment": "neutral",
-      "comments": 50,
+      "comments": 105,
       "url": "https://dpa-international.com/economics/urn:newsml:dpa.com:20090101:260715-930-389143/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "A Trip to 90s Kansai: Exploring the XD FirstClass Network BBS",
-      "insight": "HN 热议：47 分 · 9 评论",
+      "title": "The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
+      "insight": "HN 热议：133 分 · 167 评论",
       "sentiment": "neutral",
-      "comments": 9,
-      "url": "https://cdrom.ca/games/2026/05/30/xd.html",
+      "comments": 167,
+      "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
       "id": 5
     }
   ]
