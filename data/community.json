@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-14T21:43:32Z",
+  "updated": "2026-07-15T01:10:35Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
-      "insight": "HN 热议：239 分 · 81 评论",
+      "insight": "HN 热议：413 分 · 160 评论",
       "sentiment": "positive",
-      "comments": 81,
+      "comments": 160,
       "url": "https://prismml.com/news/bonsai-27b",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "The largest available Minecraft world, totalling 15 TB",
-      "insight": "HN 热议：100 分 · 25 评论",
+      "title": "Financing the AI boom: from cash flows to debt [pdf]",
+      "insight": "HN 热议：76 分 · 27 评论",
       "sentiment": "neutral",
-      "comments": 25,
-      "url": "https://2b2t.place/1million",
+      "comments": 27,
+      "url": "https://www.bis.org/publ/bisbull120.pdf",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "How to stop Claude from saying load-bearing",
-      "insight": "HN 热议：362 分 · 424 评论",
-      "sentiment": "positive",
-      "comments": 424,
-      "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
+      "title": "LeMario: Training a JEPA World Model on Super Mario Bros",
+      "insight": "HN 热议：34 分 · 3 评论",
+      "sentiment": "neutral",
+      "comments": 3,
+      "url": "https://www.benjamin-bai.com/projects/lemario",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Guardian Angels: LLM Personalization for Productivity and Security",
-      "insight": "HN 热议：27 分 · 3 评论",
-      "sentiment": "neutral",
-      "comments": 3,
-      "url": "https://gwern.net/guardian-angel",
+      "title": "How to stop Claude from saying load-bearing",
+      "insight": "HN 热议：429 分 · 492 评论",
+      "sentiment": "positive",
+      "comments": 492,
+      "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "The zero-cost fallacy: open-source software in the agentic era",
-      "insight": "HN 热议：81 分 · 62 评论",
+      "title": "The largest available Minecraft world, totalling 15 TB",
+      "insight": "HN 热议：160 分 · 55 评论",
       "sentiment": "neutral",
-      "comments": 62,
-      "url": "https://www.thoughtworks.com/insights/blog/open-source/zero-cost-fallacy-open-source-agentic-era",
+      "comments": 55,
+      "url": "https://2b2t.place/1million",
       "id": 5
     }
   ]
