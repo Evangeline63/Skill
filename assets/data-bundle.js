@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-15T05:19:41Z",
+    "updated": "2026-07-15T07:46:07Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-15T05:19:41Z",
+    "updated": "2026-07-15T07:46:07Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-15T05:19:41Z",
+    "updated": "2026-07-15T07:46:07Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185544,
-            "stars_today": 185544,
+            "stars": 185549,
+            "stars_today": 185549,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 165767,
-            "stars_today": 165767,
+            "stars": 165782,
+            "stars_today": 165782,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 99106,
-            "stars_today": 99106,
+            "stars": 99114,
+            "stars_today": 99114,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 94913,
-            "stars_today": 94913,
+            "stars": 94914,
+            "stars_today": 94914,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 87291,
-            "stars_today": 87291,
+            "stars": 87310,
+            "stars_today": 87310,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 80815,
-            "stars_today": 80815,
+            "stars": 80838,
+            "stars_today": 80838,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-15T05:19:41Z",
+    "updated": "2026-07-15T07:46:07Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-15T05:19:41Z",
+    "updated": "2026-07-15T07:46:07Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-15T05:19:41Z",
+    "updated": "2026-07-15T07:46:07Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Jurassic Park computers in excruciating detail",
-            "insight": "HN 热议：150 分 · 34 评论",
+            "title": "I tricked Claude into leaking your deepest, darkest secrets",
+            "insight": "HN 热议：94 分 · 33 评论",
             "sentiment": "neutral",
-            "comments": 34,
-            "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
+            "comments": 33,
+            "url": "https://www.ayush.digital/blog/the-memory-heist",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
-            "insight": "HN 热议：89 分 · 38 评论",
-            "sentiment": "neutral",
-            "comments": 38,
-            "url": "https://tailscale.com/security-bulletins",
+            "title": "Jurassic Park computers in excruciating detail",
+            "insight": "HN 热议：326 分 · 77 评论",
+            "sentiment": "positive",
+            "comments": 77,
+            "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
-            "insight": "HN 热议：503 分 · 186 评论",
-            "sentiment": "positive",
-            "comments": 186,
-            "url": "https://prismml.com/news/bonsai-27b",
+            "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
+            "insight": "HN 热议：129 分 · 58 评论",
+            "sentiment": "neutral",
+            "comments": 58,
+            "url": "https://tailscale.com/security-bulletins",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Financing the AI boom: from cash flows to debt [pdf]",
-            "insight": "HN 热议：123 分 · 74 评论",
-            "sentiment": "neutral",
-            "comments": 74,
-            "url": "https://www.bis.org/publ/bisbull120.pdf",
+            "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
+            "insight": "HN 热议：556 分 · 199 评论",
+            "sentiment": "positive",
+            "comments": 199,
+            "url": "https://prismml.com/news/bonsai-27b",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "LeMario: Training a JEPA World Model on Super Mario Bros",
-            "insight": "HN 热议：71 分 · 10 评论",
-            "sentiment": "neutral",
-            "comments": 10,
-            "url": "https://www.benjamin-bai.com/projects/lemario",
+            "title": "How to stop Claude from saying load-bearing",
+            "insight": "HN 热议：513 分 · 539 评论",
+            "sentiment": "positive",
+            "comments": 539,
+            "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-15T05:19:41Z",
+    "updated": "2026-07-15T07:46:07Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
