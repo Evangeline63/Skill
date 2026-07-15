@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-15T10:40:10Z",
+    "updated": "2026-07-15T13:03:56Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-15T10:40:10Z",
+    "updated": "2026-07-15T13:03:56Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-15T10:40:10Z",
+    "updated": "2026-07-15T13:03:56Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185549,
-            "stars_today": 185549,
+            "stars": 185551,
+            "stars_today": 185551,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 165789,
-            "stars_today": 165789,
+            "stars": 165800,
+            "stars_today": 165800,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 99125,
-            "stars_today": 99125,
+            "stars": 99127,
+            "stars_today": 99127,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 94920,
-            "stars_today": 94920,
+            "stars": 94929,
+            "stars_today": 94929,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 87325,
-            "stars_today": 87325,
+            "stars": 87340,
+            "stars_today": 87340,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 80849,
-            "stars_today": 80849,
+            "stars": 80858,
+            "stars_today": 80858,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-15T10:40:10Z",
+    "updated": "2026-07-15T13:03:56Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-15T10:40:10Z",
+    "updated": "2026-07-15T13:03:56Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-15T10:40:10Z",
+    "updated": "2026-07-15T13:03:56Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Jurassic Park computers in excruciating detail",
-            "insight": "HN 热议：482 分 · 114 评论",
+            "insight": "HN 热议：597 分 · 145 评论",
             "sentiment": "positive",
-            "comments": 114,
+            "comments": 145,
             "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "New era for Gibraltar with removal of border controls with Spain",
-            "insight": "HN 热议：16 分 · 22 评论",
+            "title": "DSLs Enable Reliable Use of LLMs",
+            "insight": "HN 热议：38 分 · 16 评论",
             "sentiment": "neutral",
-            "comments": 22,
-            "url": "https://www.bbc.com/news/articles/cwydz60j3eno",
+            "comments": 16,
+            "url": "https://martinfowler.com/articles/llm-and-dsls.html",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
-            "insight": "HN 热议：606 分 · 214 评论",
-            "sentiment": "positive",
-            "comments": 214,
-            "url": "https://prismml.com/news/bonsai-27b",
+            "title": "Societal Impacts: Claude's values across models and languages",
+            "insight": "HN 热议：17 分 · 5 评论",
+            "sentiment": "neutral",
+            "comments": 5,
+            "url": "https://www.anthropic.com/research/claude-values-models-languages",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
-            "insight": "HN 热议：155 分 · 80 评论",
+            "title": "A Trip to 90s Kansai: Exploring the XD FirstClass Network BBS",
+            "insight": "HN 热议：18 分 · 0 评论",
             "sentiment": "neutral",
-            "comments": 80,
-            "url": "https://tailscale.com/security-bulletins",
+            "comments": 0,
+            "url": "https://cdrom.ca/games/2026/05/30/xd.html",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "I tricked Claude into leaking your deepest, darkest secrets",
-            "insight": "HN 热议：332 分 · 152 评论",
+            "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
+            "insight": "HN 热议：642 分 · 227 评论",
             "sentiment": "positive",
-            "comments": 152,
-            "url": "https://www.ayush.digital/blog/the-memory-heist",
+            "comments": 227,
+            "url": "https://prismml.com/news/bonsai-27b",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-15T10:40:10Z",
+    "updated": "2026-07-15T13:03:56Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
