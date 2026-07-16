@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-15T21:44:38Z",
+    "updated": "2026-07-16T01:19:21Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-15T21:44:38Z",
+    "updated": "2026-07-16T01:19:21Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-15T21:44:38Z",
+    "updated": "2026-07-16T01:19:21Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185562,
-            "stars_today": 185562,
+            "stars": 185568,
+            "stars_today": 185568,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 165820,
-            "stars_today": 165820,
+            "stars": 165823,
+            "stars_today": 165823,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 99141,
-            "stars_today": 99141,
+            "stars": 99143,
+            "stars_today": 99143,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 94932,
-            "stars_today": 94932,
+            "stars": 94931,
+            "stars_today": 94931,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 87389,
-            "stars_today": 87389,
+            "stars": 87405,
+            "stars_today": 87405,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 80894,
-            "stars_today": 80894,
+            "stars": 80906,
+            "stars_today": 80906,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-15T21:44:38Z",
+    "updated": "2026-07-16T01:19:21Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-15T21:44:38Z",
+    "updated": "2026-07-16T01:19:21Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-15T21:44:38Z",
+    "updated": "2026-07-16T01:19:21Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Brainless: Shadcn components that look like Claude Code, Codex and Grok",
-            "insight": "HN 热议：43 分 · 5 评论",
+            "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
+            "insight": "HN 热议：75 分 · 28 评论",
             "sentiment": "neutral",
-            "comments": 5,
-            "url": "https://brainless.swerdlow.dev",
+            "comments": 28,
+            "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Must actively fund open source AI [pdf]",
-            "insight": "HN 热议：5 分 · 0 评论",
+            "title": "LLM Networking with MikroTik",
+            "insight": "HN 热议：42 分 · 7 评论",
             "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
+            "comments": 7,
+            "url": "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Designing APIs for Agents",
-            "insight": "HN 热议：18 分 · 4 评论",
+            "title": "Brainless: Shadcn components that look like Claude Code, Codex and Grok",
+            "insight": "HN 热议：86 分 · 17 评论",
             "sentiment": "neutral",
-            "comments": 4,
-            "url": "https://www.freestyle.sh/blog/opinion/designing-apis-for-agents",
+            "comments": 17,
+            "url": "https://brainless.swerdlow.dev",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Low-latency local LLM runner via OpenJDK Panama FFM (Java 22)",
-            "insight": "HN 热议：13 分 · 2 评论",
+            "title": "Designing APIs for Agents",
+            "insight": "HN 热议：46 分 · 21 评论",
             "sentiment": "neutral",
-            "comments": 2,
-            "url": "https://github.com/projectargus-cc/libargus.cc",
+            "comments": 21,
+            "url": "https://www.freestyle.sh/blog/opinion/designing-apis-for-agents",
             "id": 4
         },
         {
             "source": "HackerNews",
             "title": "Open-source memory for coding agents, synced over SSH",
-            "insight": "HN 热议：92 分 · 19 评论",
+            "insight": "HN 热议：107 分 · 27 评论",
             "sentiment": "neutral",
-            "comments": 19,
+            "comments": 27,
             "url": "https://github.com/vshulcz/deja-vu/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-15T21:44:38Z",
+    "updated": "2026-07-16T01:19:21Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

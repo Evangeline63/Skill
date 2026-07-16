@@ -1,48 +1,48 @@
 {
-  "updated": "2026-07-15T21:44:38Z",
+  "updated": "2026-07-16T01:19:21Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Brainless: Shadcn components that look like Claude Code, Codex and Grok",
-      "insight": "HN 热议：43 分 · 5 评论",
+      "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
+      "insight": "HN 热议：75 分 · 28 评论",
       "sentiment": "neutral",
-      "comments": 5,
-      "url": "https://brainless.swerdlow.dev",
+      "comments": 28,
+      "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Must actively fund open source AI [pdf]",
-      "insight": "HN 热议：5 分 · 0 评论",
+      "title": "LLM Networking with MikroTik",
+      "insight": "HN 热议：42 分 · 7 评论",
       "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
+      "comments": 7,
+      "url": "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Designing APIs for Agents",
-      "insight": "HN 热议：18 分 · 4 评论",
+      "title": "Brainless: Shadcn components that look like Claude Code, Codex and Grok",
+      "insight": "HN 热议：86 分 · 17 评论",
       "sentiment": "neutral",
-      "comments": 4,
-      "url": "https://www.freestyle.sh/blog/opinion/designing-apis-for-agents",
+      "comments": 17,
+      "url": "https://brainless.swerdlow.dev",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Low-latency local LLM runner via OpenJDK Panama FFM (Java 22)",
-      "insight": "HN 热议：13 分 · 2 评论",
+      "title": "Designing APIs for Agents",
+      "insight": "HN 热议：46 分 · 21 评论",
       "sentiment": "neutral",
-      "comments": 2,
-      "url": "https://github.com/projectargus-cc/libargus.cc",
+      "comments": 21,
+      "url": "https://www.freestyle.sh/blog/opinion/designing-apis-for-agents",
       "id": 4
     },
     {
       "source": "HackerNews",
       "title": "Open-source memory for coding agents, synced over SSH",
-      "insight": "HN 热议：92 分 · 19 评论",
+      "insight": "HN 热议：107 分 · 27 评论",
       "sentiment": "neutral",
-      "comments": 19,
+      "comments": 27,
       "url": "https://github.com/vshulcz/deja-vu/",
       "id": 5
     }
