@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-16T01:19:21Z",
+    "updated": "2026-07-16T05:29:09Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-16T01:19:21Z",
+    "updated": "2026-07-16T05:29:09Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -325,7 +325,7 @@ window.__DATA__ = {
     ]
 },
   "products": {
-    "updated": "2026-07-16T01:19:21Z",
+    "updated": "2026-07-16T05:29:09Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-16T01:19:21Z",
+    "updated": "2026-07-16T05:29:09Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-16T01:19:21Z",
+    "updated": "2026-07-16T05:29:09Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
-            "insight": "HN 热议：75 分 · 28 评论",
+            "title": "Guerrilla London Bus Ads Mock Kylie Jenner's Meta Glasses Campaign",
+            "insight": "HN 热议：133 分 · 74 评论",
             "sentiment": "neutral",
-            "comments": 28,
-            "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
+            "comments": 74,
+            "url": "https://hyperallergic.com/guerrilla-london-bus-ads-mock-kylie-jenners-meta-glasses-campaign/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "LLM Networking with MikroTik",
-            "insight": "HN 热议：42 分 · 7 评论",
+            "title": "Can LLMs Perform Deep Technical Comprehension of Computer Architecture Papers",
+            "insight": "HN 热议：15 分 · 0 评论",
             "sentiment": "neutral",
-            "comments": 7,
-            "url": "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html",
+            "comments": 0,
+            "url": "https://arxiv.org/abs/2607.11859",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Brainless: Shadcn components that look like Claude Code, Codex and Grok",
-            "insight": "HN 热议：86 分 · 17 评论",
+            "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
+            "insight": "HN 热议：136 分 · 51 评论",
             "sentiment": "neutral",
-            "comments": 17,
-            "url": "https://brainless.swerdlow.dev",
+            "comments": 51,
+            "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Designing APIs for Agents",
-            "insight": "HN 热议：46 分 · 21 评论",
+            "title": "High-Bandwidth Flash offers efficient storage for model weights",
+            "insight": "HN 热议：25 分 · 7 评论",
             "sentiment": "neutral",
-            "comments": 21,
-            "url": "https://www.freestyle.sh/blog/opinion/designing-apis-for-agents",
+            "comments": 7,
+            "url": "https://spectrum.ieee.org/high-bandwidth-flash",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Open-source memory for coding agents, synced over SSH",
-            "insight": "HN 热议：107 分 · 27 评论",
+            "title": "My Throw Decides My Aim",
+            "insight": "HN 热议：11 分 · 2 评论",
             "sentiment": "neutral",
-            "comments": 27,
-            "url": "https://github.com/vshulcz/deja-vu/",
+            "comments": 2,
+            "url": "https://thegustafson.com/blog/my-throw-decides-my-aim",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-16T01:19:21Z",
+    "updated": "2026-07-16T05:29:09Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
