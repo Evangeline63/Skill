@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-16T10:46:51Z",
+  "updated": "2026-07-16T13:12:34Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Where are YC founders now? OpenAI and Anthropic, mostly",
-      "insight": "HN 热议：44 分 · 10 评论",
+      "title": "The LLM Critics Are Right. I Use LLMs Anyway",
+      "insight": "HN 热议：56 分 · 53 评论",
       "sentiment": "neutral",
-      "comments": 10,
-      "url": "https://joinedanthropic.com",
+      "comments": 53,
+      "url": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
-      "insight": "HN 热议：206 分 · 75 评论",
-      "sentiment": "positive",
-      "comments": 75,
-      "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
+      "title": "SpaceX stock erases all its gains and slides below IPO price in intraday trading",
+      "insight": "HN 热议：101 分 · 33 评论",
+      "sentiment": "neutral",
+      "comments": 33,
+      "url": "https://www.latimes.com/business/story/2026-07-16/spacex-stock-erases-gains-slides-below-ipo-price-in-intraday-trading",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "High-Bandwidth Flash offers efficient storage for model weights",
-      "insight": "HN 热议：49 分 · 17 评论",
+      "title": "Where are YC founders now? OpenAI and Anthropic, mostly",
+      "insight": "HN 热议：128 分 · 46 评论",
       "sentiment": "neutral",
-      "comments": 17,
-      "url": "https://spectrum.ieee.org/high-bandwidth-flash",
+      "comments": 46,
+      "url": "https://joinedanthropic.com",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "The Tokio/Rayon Trap and Why Async/Await Fails Concurrency",
-      "insight": "HN 热议：71 分 · 43 评论",
-      "sentiment": "neutral",
-      "comments": 43,
-      "url": "https://pmbanugo.me/blog/why-async-await-complect-concurrency",
+      "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
+      "insight": "HN 热议：236 分 · 82 评论",
+      "sentiment": "positive",
+      "comments": 82,
+      "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Can LLMs Perform Deep Technical Comprehension of Computer Architecture Papers",
-      "insight": "HN 热议：58 分 · 15 评论",
+      "title": "High-Bandwidth Flash offers efficient storage for model weights",
+      "insight": "HN 热议：60 分 · 22 评论",
       "sentiment": "neutral",
-      "comments": 15,
-      "url": "https://arxiv.org/abs/2607.11859",
+      "comments": 22,
+      "url": "https://spectrum.ieee.org/high-bandwidth-flash",
       "id": 5
     }
   ]

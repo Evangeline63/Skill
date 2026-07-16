@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-16T10:46:51Z",
+    "updated": "2026-07-16T13:12:34Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-16T10:46:51Z",
+    "updated": "2026-07-16T13:12:34Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-16T10:46:51Z",
+    "updated": "2026-07-16T13:12:34Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185576,
-            "stars_today": 185576,
+            "stars": 185577,
+            "stars_today": 185577,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 165846,
-            "stars_today": 165846,
+            "stars": 165854,
+            "stars_today": 165854,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 99174,
-            "stars_today": 99174,
+            "stars": 99181,
+            "stars_today": 99181,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 94941,
-            "stars_today": 94941,
+            "stars": 94943,
+            "stars_today": 94943,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 87449,
-            "stars_today": 87449,
+            "stars": 87467,
+            "stars_today": 87467,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 80966,
-            "stars_today": 80966,
+            "stars": 80981,
+            "stars_today": 80981,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-16T10:46:51Z",
+    "updated": "2026-07-16T13:12:34Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-16T10:46:51Z",
+    "updated": "2026-07-16T13:12:34Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-16T10:46:51Z",
+    "updated": "2026-07-16T13:12:34Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Where are YC founders now? OpenAI and Anthropic, mostly",
-            "insight": "HN 热议：44 分 · 10 评论",
+            "title": "The LLM Critics Are Right. I Use LLMs Anyway",
+            "insight": "HN 热议：56 分 · 53 评论",
             "sentiment": "neutral",
-            "comments": 10,
-            "url": "https://joinedanthropic.com",
+            "comments": 53,
+            "url": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
-            "insight": "HN 热议：206 分 · 75 评论",
-            "sentiment": "positive",
-            "comments": 75,
-            "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
+            "title": "SpaceX stock erases all its gains and slides below IPO price in intraday trading",
+            "insight": "HN 热议：101 分 · 33 评论",
+            "sentiment": "neutral",
+            "comments": 33,
+            "url": "https://www.latimes.com/business/story/2026-07-16/spacex-stock-erases-gains-slides-below-ipo-price-in-intraday-trading",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "High-Bandwidth Flash offers efficient storage for model weights",
-            "insight": "HN 热议：49 分 · 17 评论",
+            "title": "Where are YC founders now? OpenAI and Anthropic, mostly",
+            "insight": "HN 热议：128 分 · 46 评论",
             "sentiment": "neutral",
-            "comments": 17,
-            "url": "https://spectrum.ieee.org/high-bandwidth-flash",
+            "comments": 46,
+            "url": "https://joinedanthropic.com",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "The Tokio/Rayon Trap and Why Async/Await Fails Concurrency",
-            "insight": "HN 热议：71 分 · 43 评论",
-            "sentiment": "neutral",
-            "comments": 43,
-            "url": "https://pmbanugo.me/blog/why-async-await-complect-concurrency",
+            "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
+            "insight": "HN 热议：236 分 · 82 评论",
+            "sentiment": "positive",
+            "comments": 82,
+            "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Can LLMs Perform Deep Technical Comprehension of Computer Architecture Papers",
-            "insight": "HN 热议：58 分 · 15 评论",
+            "title": "High-Bandwidth Flash offers efficient storage for model weights",
+            "insight": "HN 热议：60 分 · 22 评论",
             "sentiment": "neutral",
-            "comments": 15,
-            "url": "https://arxiv.org/abs/2607.11859",
+            "comments": 22,
+            "url": "https://spectrum.ieee.org/high-bandwidth-flash",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-16T10:46:51Z",
+    "updated": "2026-07-16T13:12:34Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
