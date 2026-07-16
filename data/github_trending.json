@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T18:52:09Z",
+  "updated": "2026-07-16T21:52:51Z",
   "repos": [
     {
       "rank": 1,
@@ -15,8 +15,8 @@
       "name": "f/prompts.chat",
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
       "language": "HTML",
-      "stars": 165864,
-      "stars_today": 165864,
+      "stars": 165863,
+      "stars_today": 165863,
       "url": "https://github.com/f/prompts.chat"
     },
     {
@@ -42,8 +42,8 @@
       "name": "thedotmack/claude-mem",
       "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
       "language": "JavaScript",
-      "stars": 87490,
-      "stars_today": 87490,
+      "stars": 87504,
+      "stars_today": 87504,
       "url": "https://github.com/thedotmack/claude-mem"
     },
     {
@@ -51,8 +51,8 @@
       "name": "OpenHands/OpenHands",
       "description": "🙌 OpenHands: AI-Driven Development",
       "language": "Python",
-      "stars": 81010,
-      "stars_today": 81010,
+      "stars": 81017,
+      "stars_today": 81017,
       "url": "https://github.com/OpenHands/OpenHands"
     }
   ]

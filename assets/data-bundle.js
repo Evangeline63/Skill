@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-16T18:52:09Z",
+    "updated": "2026-07-16T21:52:51Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-16T18:52:09Z",
+    "updated": "2026-07-16T21:52:51Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,7 +266,7 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-16T18:52:09Z",
+    "updated": "2026-07-16T21:52:51Z",
     "repos": [
         {
             "rank": 1,
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 165864,
-            "stars_today": 165864,
+            "stars": 165863,
+            "stars_today": 165863,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 87490,
-            "stars_today": 87490,
+            "stars": 87504,
+            "stars_today": 87504,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 81010,
-            "stars_today": 81010,
+            "stars": 81017,
+            "stars_today": 81017,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-16T18:52:09Z",
+    "updated": "2026-07-16T21:52:51Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-16T18:52:09Z",
+    "updated": "2026-07-16T21:52:51Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-16T18:52:09Z",
+    "updated": "2026-07-16T21:52:51Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning",
-            "insight": "HN 热议：65 分 · 32 评论",
+            "title": "LM Studio Bionic: the AI agent for open models",
+            "insight": "HN 热议：53 分 · 16 评论",
             "sentiment": "neutral",
-            "comments": 32,
-            "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
+            "comments": 16,
+            "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "NotebookLM is now Gemini Notebook",
-            "insight": "HN 热议：78 分 · 52 评论",
+            "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
+            "insight": "HN 热议：52 分 · 38 评论",
             "sentiment": "neutral",
-            "comments": 52,
-            "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
+            "comments": 38,
+            "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Launch HN: Traceforce (YC S26) – Company-wide security monitoring for AI apps",
-            "insight": "HN 热议：14 分 · 6 评论",
+            "title": "NotebookLM is now Gemini Notebook",
+            "insight": "HN 热议：179 分 · 102 评论",
             "sentiment": "neutral",
-            "comments": 6,
-            "url": "https://news.ycombinator.com/item?id=48937020",
+            "comments": 102,
+            "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM",
-            "insight": "HN 热议：44 分 · 31 评论",
+            "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning",
+            "insight": "HN 热议：119 分 · 86 评论",
             "sentiment": "neutral",
-            "comments": 31,
-            "url": "https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model",
+            "comments": 86,
+            "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Agent-talk: Enabling coding agents to work together",
-            "insight": "HN 热议：16 分 · 7 评论",
+            "title": "Show HN: Libretto PR agents – Automatically fix failing playwright scripts",
+            "insight": "HN 热议：6 分 · 0 评论",
             "sentiment": "neutral",
-            "comments": 7,
-            "url": "https://github.com/xhluca/agent-talk",
+            "comments": 0,
+            "url": "https://libretto.sh/debug-agents",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-16T18:52:09Z",
+    "updated": "2026-07-16T21:52:51Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
