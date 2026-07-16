@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-16T07:51:09Z",
+  "updated": "2026-07-16T10:46:51Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Can LLMs Perform Deep Technical Comprehension of Computer Architecture Papers",
-      "insight": "HN 热议：38 分 · 5 评论",
+      "title": "Where are YC founders now? OpenAI and Anthropic, mostly",
+      "insight": "HN 热议：44 分 · 10 评论",
       "sentiment": "neutral",
-      "comments": 5,
-      "url": "https://arxiv.org/abs/2607.11859",
+      "comments": 10,
+      "url": "https://joinedanthropic.com",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
-      "insight": "HN 热议：164 分 · 59 评论",
-      "sentiment": "neutral",
-      "comments": 59,
+      "insight": "HN 热议：206 分 · 75 评论",
+      "sentiment": "positive",
+      "comments": 75,
       "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "High-Bandwidth Flash offers efficient storage for model weights",
-      "insight": "HN 热议：34 分 · 12 评论",
+      "insight": "HN 热议：49 分 · 17 评论",
       "sentiment": "neutral",
-      "comments": 12,
+      "comments": 17,
       "url": "https://spectrum.ieee.org/high-bandwidth-flash",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "The Tokio/Rayon Trap and Why Async/Await Fails Concurrency",
-      "insight": "HN 热议：48 分 · 35 评论",
+      "insight": "HN 热议：71 分 · 43 评论",
       "sentiment": "neutral",
-      "comments": 35,
+      "comments": 43,
       "url": "https://pmbanugo.me/blog/why-async-await-complect-concurrency",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Launch HN: Coasty (YC S26) – An API for computer-use agents",
-      "insight": "HN 热议：33 分 · 7 评论",
+      "title": "Can LLMs Perform Deep Technical Comprehension of Computer Architecture Papers",
+      "insight": "HN 热议：58 分 · 15 评论",
       "sentiment": "neutral",
-      "comments": 7,
-      "url": "https://coasty.ai/docs",
+      "comments": 15,
+      "url": "https://arxiv.org/abs/2607.11859",
       "id": 5
     }
   ]

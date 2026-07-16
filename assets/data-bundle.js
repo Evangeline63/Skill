@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-16T07:51:09Z",
+    "updated": "2026-07-16T10:46:51Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-16T07:51:09Z",
+    "updated": "2026-07-16T10:46:51Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-16T07:51:09Z",
+    "updated": "2026-07-16T10:46:51Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185574,
-            "stars_today": 185574,
+            "stars": 185576,
+            "stars_today": 185576,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 165841,
-            "stars_today": 165841,
+            "stars": 165846,
+            "stars_today": 165846,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 99165,
-            "stars_today": 99165,
+            "stars": 99174,
+            "stars_today": 99174,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 94936,
-            "stars_today": 94936,
+            "stars": 94941,
+            "stars_today": 94941,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 87433,
-            "stars_today": 87433,
+            "stars": 87449,
+            "stars_today": 87449,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 80949,
-            "stars_today": 80949,
+            "stars": 80966,
+            "stars_today": 80966,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-16T07:51:09Z",
+    "updated": "2026-07-16T10:46:51Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-16T07:51:09Z",
+    "updated": "2026-07-16T10:46:51Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-16T07:51:09Z",
+    "updated": "2026-07-16T10:46:51Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Can LLMs Perform Deep Technical Comprehension of Computer Architecture Papers",
-            "insight": "HN 热议：38 分 · 5 评论",
+            "title": "Where are YC founders now? OpenAI and Anthropic, mostly",
+            "insight": "HN 热议：44 分 · 10 评论",
             "sentiment": "neutral",
-            "comments": 5,
-            "url": "https://arxiv.org/abs/2607.11859",
+            "comments": 10,
+            "url": "https://joinedanthropic.com",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
-            "insight": "HN 热议：164 分 · 59 评论",
-            "sentiment": "neutral",
-            "comments": 59,
+            "insight": "HN 热议：206 分 · 75 评论",
+            "sentiment": "positive",
+            "comments": 75,
             "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "High-Bandwidth Flash offers efficient storage for model weights",
-            "insight": "HN 热议：34 分 · 12 评论",
+            "insight": "HN 热议：49 分 · 17 评论",
             "sentiment": "neutral",
-            "comments": 12,
+            "comments": 17,
             "url": "https://spectrum.ieee.org/high-bandwidth-flash",
             "id": 3
         },
         {
             "source": "HackerNews",
             "title": "The Tokio/Rayon Trap and Why Async/Await Fails Concurrency",
-            "insight": "HN 热议：48 分 · 35 评论",
+            "insight": "HN 热议：71 分 · 43 评论",
             "sentiment": "neutral",
-            "comments": 35,
+            "comments": 43,
             "url": "https://pmbanugo.me/blog/why-async-await-complect-concurrency",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Launch HN: Coasty (YC S26) – An API for computer-use agents",
-            "insight": "HN 热议：33 分 · 7 评论",
+            "title": "Can LLMs Perform Deep Technical Comprehension of Computer Architecture Papers",
+            "insight": "HN 热议：58 分 · 15 评论",
             "sentiment": "neutral",
-            "comments": 7,
-            "url": "https://coasty.ai/docs",
+            "comments": 15,
+            "url": "https://arxiv.org/abs/2607.11859",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-16T07:51:09Z",
+    "updated": "2026-07-16T10:46:51Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
