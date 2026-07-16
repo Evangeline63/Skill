@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-16T16:08:13Z",
+    "updated": "2026-07-16T18:52:09Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-16T16:08:13Z",
+    "updated": "2026-07-16T18:52:09Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-16T16:08:13Z",
+    "updated": "2026-07-16T18:52:09Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185578,
-            "stars_today": 185578,
+            "stars": 185581,
+            "stars_today": 185581,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 165863,
-            "stars_today": 165863,
+            "stars": 165864,
+            "stars_today": 165864,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 99188,
-            "stars_today": 99188,
+            "stars": 99193,
+            "stars_today": 99193,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 94943,
-            "stars_today": 94943,
+            "stars": 94944,
+            "stars_today": 94944,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 87483,
-            "stars_today": 87483,
+            "stars": 87490,
+            "stars_today": 87490,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 81003,
-            "stars_today": 81003,
+            "stars": 81010,
+            "stars_today": 81010,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-16T16:08:13Z",
+    "updated": "2026-07-16T18:52:09Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-16T16:08:13Z",
+    "updated": "2026-07-16T18:52:09Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-16T16:08:13Z",
+    "updated": "2026-07-16T18:52:09Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Where are YC founders now? OpenAI and Anthropic, mostly",
-            "insight": "HN 热议：253 分 · 142 评论",
-            "sentiment": "positive",
-            "comments": 142,
-            "url": "https://joinedanthropic.com",
+            "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning",
+            "insight": "HN 热议：65 分 · 32 评论",
+            "sentiment": "neutral",
+            "comments": 32,
+            "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM",
-            "insight": "HN 热议：6 分 · 2 评论",
+            "title": "NotebookLM is now Gemini Notebook",
+            "insight": "HN 热议：78 分 · 52 评论",
             "sentiment": "neutral",
-            "comments": 2,
-            "url": "https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model",
+            "comments": 52,
+            "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
-            "insight": "HN 热议：261 分 · 94 评论",
-            "sentiment": "positive",
-            "comments": 94,
-            "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
+            "title": "Launch HN: Traceforce (YC S26) – Company-wide security monitoring for AI apps",
+            "insight": "HN 热议：14 分 · 6 评论",
+            "sentiment": "neutral",
+            "comments": 6,
+            "url": "https://news.ycombinator.com/item?id=48937020",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Generative AI Is an Engineering Disaster",
-            "insight": "HN 热议：54 分 · 17 评论",
+            "title": "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM",
+            "insight": "HN 热议：44 分 · 31 评论",
             "sentiment": "neutral",
-            "comments": 17,
-            "url": "https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901/",
+            "comments": 31,
+            "url": "https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "The LLM Critics Are Right. I Use LLMs Anyway",
-            "insight": "HN 热议：130 分 · 146 评论",
+            "title": "Agent-talk: Enabling coding agents to work together",
+            "insight": "HN 热议：16 分 · 7 评论",
             "sentiment": "neutral",
-            "comments": 146,
-            "url": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
+            "comments": 7,
+            "url": "https://github.com/xhluca/agent-talk",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-16T16:08:13Z",
+    "updated": "2026-07-16T18:52:09Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
