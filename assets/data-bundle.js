@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-16T21:52:51Z",
+    "updated": "2026-07-17T01:23:11Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-16T21:52:51Z",
+    "updated": "2026-07-17T01:23:11Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-16T21:52:51Z",
+    "updated": "2026-07-17T01:23:11Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185581,
-            "stars_today": 185581,
+            "stars": 185582,
+            "stars_today": 185582,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 165863,
-            "stars_today": 165863,
+            "stars": 165865,
+            "stars_today": 165865,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 99193,
-            "stars_today": 99193,
+            "stars": 99195,
+            "stars_today": 99195,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 94944,
-            "stars_today": 94944,
+            "stars": 94948,
+            "stars_today": 94948,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 87504,
-            "stars_today": 87504,
+            "stars": 87521,
+            "stars_today": 87521,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 81017,
-            "stars_today": 81017,
+            "stars": 81026,
+            "stars_today": 81026,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-16T21:52:51Z",
+    "updated": "2026-07-17T01:23:11Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-16T21:52:51Z",
+    "updated": "2026-07-17T01:23:11Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-16T21:52:51Z",
+    "updated": "2026-07-17T01:23:11Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "LM Studio Bionic: the AI agent for open models",
-            "insight": "HN 热议：53 分 · 16 评论",
+            "insight": "HN 热议：149 分 · 62 评论",
             "sentiment": "neutral",
-            "comments": 16,
+            "comments": 62,
             "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
-            "insight": "HN 热议：52 分 · 38 评论",
+            "insight": "HN 热议：111 分 · 121 评论",
             "sentiment": "neutral",
-            "comments": 38,
+            "comments": 121,
             "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "NotebookLM is now Gemini Notebook",
-            "insight": "HN 热议：179 分 · 102 评论",
-            "sentiment": "neutral",
-            "comments": 102,
+            "insight": "HN 热议：230 分 · 125 评论",
+            "sentiment": "positive",
+            "comments": 125,
             "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
             "id": 3
         },
         {
             "source": "HackerNews",
             "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning",
-            "insight": "HN 热议：119 分 · 86 评论",
+            "insight": "HN 热议：153 分 · 103 评论",
             "sentiment": "neutral",
-            "comments": 86,
+            "comments": 103,
             "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Libretto PR agents – Automatically fix failing playwright scripts",
-            "insight": "HN 热议：6 分 · 0 评论",
+            "title": "Timeline Scan – AI fixes the dates on your scanned photos",
+            "insight": "HN 热议：26 分 · 25 评论",
             "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://libretto.sh/debug-agents",
+            "comments": 25,
+            "url": "https://timelinescan.com/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-16T21:52:51Z",
+    "updated": "2026-07-17T01:23:11Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
