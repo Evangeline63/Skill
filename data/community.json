@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-17T18:49:21Z",
+  "updated": "2026-07-17T21:39:06Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Mozilla: The state of open source AI",
-      "insight": "HN 热议：238 分 · 169 评论",
+      "title": "The state of open source AI",
+      "insight": "HN 热议：326 分 · 229 评论",
       "sentiment": "positive",
-      "comments": 169,
+      "comments": 229,
       "url": "https://stateofopensource.ai/",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
-      "insight": "HN 热议：57 分 · 0 评论",
+      "insight": "HN 热议：74 分 · 1 评论",
       "sentiment": "neutral",
-      "comments": 0,
+      "comments": 1,
       "url": "https://blog.zksecurity.xyz/posts/openvm-bugs/",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "EEG shows brain can simultaneous encode two speech streams",
-      "insight": "HN 热议：226 分 · 147 评论",
+      "insight": "HN 热议：241 分 · 160 评论",
       "sentiment": "positive",
-      "comments": 147,
+      "comments": 160,
       "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Apple targets dozens of OpenAI employees with legal letters",
-      "insight": "HN 热议：291 分 · 233 评论",
-      "sentiment": "positive",
-      "comments": 233,
-      "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
+      "title": "FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again",
+      "insight": "HN 热议：9 分 · 1 评论",
+      "sentiment": "neutral",
+      "comments": 1,
+      "url": "https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "VulnHunter: Capital One's agentic AI code security tool",
-      "insight": "HN 热议：42 分 · 26 评论",
-      "sentiment": "neutral",
-      "comments": 26,
-      "url": "https://www.capitalone.com/tech/open-source/announcing-vulnhunter/",
+      "title": "Apple targets dozens of OpenAI employees with legal letters",
+      "insight": "HN 热议：356 分 · 298 评论",
+      "sentiment": "positive",
+      "comments": 298,
+      "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
       "id": 5
     }
   ]
