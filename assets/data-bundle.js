@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-17T16:06:07Z",
+    "updated": "2026-07-17T18:49:21Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-17T16:06:07Z",
+    "updated": "2026-07-17T18:49:21Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-17T16:06:07Z",
+    "updated": "2026-07-17T18:49:21Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185587,
-            "stars_today": 185587,
+            "stars": 185585,
+            "stars_today": 185585,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 165904,
-            "stars_today": 165904,
+            "stars": 165906,
+            "stars_today": 165906,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 99252,
-            "stars_today": 99252,
+            "stars": 99260,
+            "stars_today": 99260,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 94968,
-            "stars_today": 94968,
+            "stars": 94969,
+            "stars_today": 94969,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 87605,
-            "stars_today": 87605,
+            "stars": 87623,
+            "stars_today": 87623,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 81092,
-            "stars_today": 81092,
+            "stars": 81100,
+            "stars_today": 81100,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-17T16:06:07Z",
+    "updated": "2026-07-17T18:49:21Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-17T16:06:07Z",
+    "updated": "2026-07-17T18:49:21Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-17T16:06:07Z",
+    "updated": "2026-07-17T18:49:21Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Mozilla: The state of open source AI",
-            "insight": "HN 热议：117 分 · 51 评论",
-            "sentiment": "neutral",
-            "comments": 51,
+            "insight": "HN 热议：238 分 · 169 评论",
+            "sentiment": "positive",
+            "comments": 169,
             "url": "https://stateofopensource.ai/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Claude Code: Anatomy of a Misfeature",
-            "insight": "HN 热议：62 分 · 26 评论",
+            "title": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
+            "insight": "HN 热议：57 分 · 0 评论",
             "sentiment": "neutral",
-            "comments": 26,
-            "url": "https://www.olafalders.com/2026/07/17/claude-code-anatomy-of-a-misfeature/",
+            "comments": 0,
+            "url": "https://blog.zksecurity.xyz/posts/openvm-bugs/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
-            "insight": "HN 热议：31 分 · 0 评论",
-            "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://blog.zksecurity.xyz/posts/openvm-bugs/",
+            "title": "EEG shows brain can simultaneous encode two speech streams",
+            "insight": "HN 热议：226 分 · 147 评论",
+            "sentiment": "positive",
+            "comments": 147,
+            "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "EEG shows brain can simultaneous encode two speech streams",
-            "insight": "HN 热议：204 分 · 129 评论",
+            "title": "Apple targets dozens of OpenAI employees with legal letters",
+            "insight": "HN 热议：291 分 · 233 评论",
             "sentiment": "positive",
-            "comments": 129,
-            "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876",
+            "comments": 233,
+            "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Apple targets dozens of OpenAI employees with legal letters",
-            "insight": "HN 热议：206 分 · 153 评论",
-            "sentiment": "positive",
-            "comments": 153,
-            "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
+            "title": "VulnHunter: Capital One's agentic AI code security tool",
+            "insight": "HN 热议：42 分 · 26 评论",
+            "sentiment": "neutral",
+            "comments": 26,
+            "url": "https://www.capitalone.com/tech/open-source/announcing-vulnhunter/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-17T16:06:07Z",
+    "updated": "2026-07-17T18:49:21Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

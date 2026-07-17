@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-17T16:06:07Z",
+  "updated": "2026-07-17T18:49:21Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Mozilla: The state of open source AI",
-      "insight": "HN 热议：117 分 · 51 评论",
-      "sentiment": "neutral",
-      "comments": 51,
+      "insight": "HN 热议：238 分 · 169 评论",
+      "sentiment": "positive",
+      "comments": 169,
       "url": "https://stateofopensource.ai/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Claude Code: Anatomy of a Misfeature",
-      "insight": "HN 热议：62 分 · 26 评论",
+      "title": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
+      "insight": "HN 热议：57 分 · 0 评论",
       "sentiment": "neutral",
-      "comments": 26,
-      "url": "https://www.olafalders.com/2026/07/17/claude-code-anatomy-of-a-misfeature/",
+      "comments": 0,
+      "url": "https://blog.zksecurity.xyz/posts/openvm-bugs/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
-      "insight": "HN 热议：31 分 · 0 评论",
-      "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://blog.zksecurity.xyz/posts/openvm-bugs/",
+      "title": "EEG shows brain can simultaneous encode two speech streams",
+      "insight": "HN 热议：226 分 · 147 评论",
+      "sentiment": "positive",
+      "comments": 147,
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "EEG shows brain can simultaneous encode two speech streams",
-      "insight": "HN 热议：204 分 · 129 评论",
+      "title": "Apple targets dozens of OpenAI employees with legal letters",
+      "insight": "HN 热议：291 分 · 233 评论",
       "sentiment": "positive",
-      "comments": 129,
-      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876",
+      "comments": 233,
+      "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Apple targets dozens of OpenAI employees with legal letters",
-      "insight": "HN 热议：206 分 · 153 评论",
-      "sentiment": "positive",
-      "comments": 153,
-      "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
+      "title": "VulnHunter: Capital One's agentic AI code security tool",
+      "insight": "HN 热议：42 分 · 26 评论",
+      "sentiment": "neutral",
+      "comments": 26,
+      "url": "https://www.capitalone.com/tech/open-source/announcing-vulnhunter/",
       "id": 5
     }
   ]
