@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-17T05:30:43Z",
+    "updated": "2026-07-17T07:48:28Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-17T05:30:43Z",
+    "updated": "2026-07-17T07:48:28Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-17T05:30:43Z",
+    "updated": "2026-07-17T07:48:28Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185579,
-            "stars_today": 185579,
+            "stars": 185585,
+            "stars_today": 185585,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 165871,
-            "stars_today": 165871,
+            "stars": 165875,
+            "stars_today": 165875,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 99208,
-            "stars_today": 99208,
+            "stars": 99214,
+            "stars_today": 99214,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 94955,
-            "stars_today": 94955,
+            "stars": 94958,
+            "stars_today": 94958,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 87539,
-            "stars_today": 87539,
+            "stars": 87554,
+            "stars_today": 87554,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 81043,
-            "stars_today": 81043,
+            "stars": 81055,
+            "stars_today": 81055,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-17T05:30:43Z",
+    "updated": "2026-07-17T07:48:28Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-17T05:30:43Z",
+    "updated": "2026-07-17T07:48:28Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-17T05:30:43Z",
+    "updated": "2026-07-17T07:48:28Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "LM Studio Bionic: the AI agent for open models",
-            "insight": "HN 热议：197 分 · 71 评论",
+            "title": "EEG shows brain can simultaneous encode two speech streams",
+            "insight": "HN 热议：46 分 · 15 评论",
             "sentiment": "neutral",
-            "comments": 71,
-            "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
+            "comments": 15,
+            "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
-            "insight": "HN 热议：200 分 · 232 评论",
-            "sentiment": "neutral",
-            "comments": 232,
-            "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
+            "title": "LM Studio Bionic: the AI agent for open models",
+            "insight": "HN 热议：230 分 · 78 评论",
+            "sentiment": "positive",
+            "comments": 78,
+            "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "NotebookLM is now Gemini Notebook",
-            "insight": "HN 热议：277 分 · 142 评论",
+            "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
+            "insight": "HN 热议：234 分 · 290 评论",
             "sentiment": "positive",
-            "comments": 142,
-            "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
+            "comments": 290,
+            "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning",
-            "insight": "HN 热议：176 分 · 119 评论",
-            "sentiment": "neutral",
-            "comments": 119,
-            "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
+            "title": "NotebookLM is now Gemini Notebook",
+            "insight": "HN 热议：298 分 · 151 评论",
+            "sentiment": "positive",
+            "comments": 151,
+            "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM",
-            "insight": "HN 热议：115 分 · 56 评论",
+            "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning",
+            "insight": "HN 热议：189 分 · 129 评论",
             "sentiment": "neutral",
-            "comments": 56,
-            "url": "https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model",
+            "comments": 129,
+            "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-17T05:30:43Z",
+    "updated": "2026-07-17T07:48:28Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
