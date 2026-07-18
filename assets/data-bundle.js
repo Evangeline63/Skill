@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-18T05:13:38Z",
+    "updated": "2026-07-18T07:23:05Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-18T05:13:38Z",
+    "updated": "2026-07-18T07:23:05Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-18T05:13:38Z",
+    "updated": "2026-07-18T07:23:05Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185588,
-            "stars_today": 185588,
+            "stars": 185590,
+            "stars_today": 185590,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 165929,
-            "stars_today": 165929,
+            "stars": 165933,
+            "stars_today": 165933,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 87659,
-            "stars_today": 87659,
+            "stars": 87669,
+            "stars_today": 87669,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 81142,
-            "stars_today": 81142,
+            "stars": 81150,
+            "stars_today": 81150,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54703,
-            "stars_today": 54703,
+            "stars": 54704,
+            "stars_today": 54704,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-18T05:13:38Z",
+    "updated": "2026-07-18T07:23:05Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-18T05:13:38Z",
+    "updated": "2026-07-18T07:23:05Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-18T05:13:38Z",
+    "updated": "2026-07-18T07:23:05Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
-            "insight": "HN 热议：404 分 · 264 评论",
-            "sentiment": "positive",
-            "comments": 264,
-            "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+            "title": "In-toto: A framework to secure the integrity of software supply chains",
+            "insight": "HN 热议：6 分 · 0 评论",
+            "sentiment": "neutral",
+            "comments": 0,
+            "url": "https://in-toto.io/",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "Painting the sides of railroad rails white to reduce derailment",
-            "insight": "HN 热议：71 分 · 38 评论",
+            "insight": "HN 热议：81 分 · 44 评论",
             "sentiment": "neutral",
-            "comments": 38,
+            "comments": 44,
             "url": "https://www.up.com/news/safety/Tracking-Rail-Heat-260608",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "The state of open source AI",
-            "insight": "HN 热议：401 分 · 294 评论",
+            "title": "Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
+            "insight": "HN 热议：481 分 · 307 评论",
             "sentiment": "positive",
-            "comments": 294,
-            "url": "https://stateofopensource.ai/",
+            "comments": 307,
+            "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again",
-            "insight": "HN 热议：154 分 · 81 评论",
-            "sentiment": "neutral",
-            "comments": 81,
-            "url": "https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html",
+            "title": "The state of open source AI",
+            "insight": "HN 热议：415 分 · 302 评论",
+            "sentiment": "positive",
+            "comments": 302,
+            "url": "https://stateofopensource.ai/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
-            "insight": "HN 热议：89 分 · 6 评论",
+            "title": "FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again",
+            "insight": "HN 热议：168 分 · 95 评论",
             "sentiment": "neutral",
-            "comments": 6,
-            "url": "https://blog.zksecurity.xyz/posts/openvm-bugs/",
+            "comments": 95,
+            "url": "https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-18T05:13:38Z",
+    "updated": "2026-07-18T07:23:05Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
