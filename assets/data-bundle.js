@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-18T15:42:07Z",
+    "updated": "2026-07-18T18:42:09Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-18T15:42:07Z",
+    "updated": "2026-07-18T18:42:09Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-18T15:42:07Z",
+    "updated": "2026-07-18T18:42:09Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185596,
-            "stars_today": 185596,
+            "stars": 185598,
+            "stars_today": 185598,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 165965,
-            "stars_today": 165965,
+            "stars": 165971,
+            "stars_today": 165971,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 94982,
-            "stars_today": 94982,
+            "stars": 94985,
+            "stars_today": 94985,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 87721,
-            "stars_today": 87721,
+            "stars": 87736,
+            "stars_today": 87736,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 81194,
-            "stars_today": 81194,
+            "stars": 81204,
+            "stars_today": 81204,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54710,
-            "stars_today": 54710,
+            "stars": 54714,
+            "stars_today": 54714,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-18T15:42:07Z",
+    "updated": "2026-07-18T18:42:09Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-18T15:42:07Z",
+    "updated": "2026-07-18T18:42:09Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-18T15:42:07Z",
+    "updated": "2026-07-18T18:42:09Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-            "insight": "HN 热议：203 分 · 106 评论",
+            "insight": "HN 热议：349 分 · 203 评论",
             "sentiment": "positive",
-            "comments": 106,
+            "comments": 203,
             "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-            "insight": "HN 热议：121 分 · 43 评论",
+            "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+            "insight": "HN 热议：87 分 · 58 评论",
             "sentiment": "neutral",
-            "comments": 43,
-            "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
+            "comments": 58,
+            "url": "https://ykdojo.github.io/claude-controls-mac/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "What AI did to stackoverflow in a graph",
-            "insight": "HN 热议：184 分 · 211 评论",
+            "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+            "insight": "HN 热议：161 分 · 75 评论",
             "sentiment": "neutral",
-            "comments": 211,
-            "url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
+            "comments": 75,
+            "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "In-toto: A framework to secure the integrity of software supply chains",
-            "insight": "HN 热议：52 分 · 11 评论",
-            "sentiment": "neutral",
-            "comments": 11,
-            "url": "https://in-toto.io/",
+            "title": "What AI did to stackoverflow in a graph",
+            "insight": "HN 热议：286 分 · 334 评论",
+            "sentiment": "positive",
+            "comments": 334,
+            "url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Painting the sides of railroad rails white to reduce derailment",
-            "insight": "HN 热议：127 分 · 73 评论",
+            "title": "In-toto: A framework to secure the integrity of software supply chains",
+            "insight": "HN 热议：55 分 · 12 评论",
             "sentiment": "neutral",
-            "comments": 73,
-            "url": "https://www.up.com/news/safety/Tracking-Rail-Heat-260608",
+            "comments": 12,
+            "url": "https://in-toto.io/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-18T15:42:07Z",
+    "updated": "2026-07-18T18:42:09Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
