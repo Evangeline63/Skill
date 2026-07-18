@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-18T07:23:05Z",
+  "updated": "2026-07-18T10:06:34Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "In-toto: A framework to secure the integrity of software supply chains",
-      "insight": "HN 热议：6 分 · 0 评论",
+      "insight": "HN 热议：31 分 · 0 评论",
       "sentiment": "neutral",
       "comments": 0,
       "url": "https://in-toto.io/",
@@ -13,36 +13,36 @@
     {
       "source": "HackerNews",
       "title": "Painting the sides of railroad rails white to reduce derailment",
-      "insight": "HN 热议：81 分 · 44 评论",
+      "insight": "HN 热议：98 分 · 50 评论",
       "sentiment": "neutral",
-      "comments": 44,
+      "comments": 50,
       "url": "https://www.up.com/news/safety/Tracking-Rail-Heat-260608",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
-      "insight": "HN 热议：481 分 · 307 评论",
+      "title": "The state of open source AI",
+      "insight": "HN 热议：443 分 · 319 评论",
       "sentiment": "positive",
-      "comments": 307,
-      "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+      "comments": 319,
+      "url": "https://stateofopensource.ai/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "The state of open source AI",
-      "insight": "HN 热议：415 分 · 302 评论",
+      "title": "Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
+      "insight": "HN 热议：509 分 · 331 评论",
       "sentiment": "positive",
-      "comments": 302,
-      "url": "https://stateofopensource.ai/",
+      "comments": 331,
+      "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
       "id": 4
     },
     {
       "source": "HackerNews",
       "title": "FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again",
-      "insight": "HN 热议：168 分 · 95 评论",
+      "insight": "HN 热议：174 分 · 98 评论",
       "sentiment": "neutral",
-      "comments": 95,
+      "comments": 98,
       "url": "https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html",
       "id": 5
     }

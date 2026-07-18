@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-18T07:23:05Z",
+    "updated": "2026-07-18T10:06:34Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-18T07:23:05Z",
+    "updated": "2026-07-18T10:06:34Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-18T07:23:05Z",
+    "updated": "2026-07-18T10:06:34Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185590,
-            "stars_today": 185590,
+            "stars": 185589,
+            "stars_today": 185589,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 165933,
-            "stars_today": 165933,
+            "stars": 165944,
+            "stars_today": 165944,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 94977,
-            "stars_today": 94977,
+            "stars": 94979,
+            "stars_today": 94979,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 87669,
-            "stars_today": 87669,
+            "stars": 87691,
+            "stars_today": 87691,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 81150,
-            "stars_today": 81150,
+            "stars": 81158,
+            "stars_today": 81158,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54704,
-            "stars_today": 54704,
+            "stars": 54706,
+            "stars_today": 54706,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-18T07:23:05Z",
+    "updated": "2026-07-18T10:06:34Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-18T07:23:05Z",
+    "updated": "2026-07-18T10:06:34Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,12 +511,12 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-18T07:23:05Z",
+    "updated": "2026-07-18T10:06:34Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "In-toto: A framework to secure the integrity of software supply chains",
-            "insight": "HN 热议：6 分 · 0 评论",
+            "insight": "HN 热议：31 分 · 0 评论",
             "sentiment": "neutral",
             "comments": 0,
             "url": "https://in-toto.io/",
@@ -525,43 +525,43 @@ window.__DATA__ = {
         {
             "source": "HackerNews",
             "title": "Painting the sides of railroad rails white to reduce derailment",
-            "insight": "HN 热议：81 分 · 44 评论",
+            "insight": "HN 热议：98 分 · 50 评论",
             "sentiment": "neutral",
-            "comments": 44,
+            "comments": 50,
             "url": "https://www.up.com/news/safety/Tracking-Rail-Heat-260608",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
-            "insight": "HN 热议：481 分 · 307 评论",
+            "title": "The state of open source AI",
+            "insight": "HN 热议：443 分 · 319 评论",
             "sentiment": "positive",
-            "comments": 307,
-            "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+            "comments": 319,
+            "url": "https://stateofopensource.ai/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "The state of open source AI",
-            "insight": "HN 热议：415 分 · 302 评论",
+            "title": "Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
+            "insight": "HN 热议：509 分 · 331 评论",
             "sentiment": "positive",
-            "comments": 302,
-            "url": "https://stateofopensource.ai/",
+            "comments": 331,
+            "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
             "id": 4
         },
         {
             "source": "HackerNews",
             "title": "FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again",
-            "insight": "HN 热议：168 分 · 95 评论",
+            "insight": "HN 热议：174 分 · 98 评论",
             "sentiment": "neutral",
-            "comments": 95,
+            "comments": 98,
             "url": "https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-18T07:23:05Z",
+    "updated": "2026-07-18T10:06:34Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
