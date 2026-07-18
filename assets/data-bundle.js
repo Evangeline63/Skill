@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-18T12:43:48Z",
+    "updated": "2026-07-18T15:42:07Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-18T12:43:48Z",
+    "updated": "2026-07-18T15:42:07Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-18T12:43:48Z",
+    "updated": "2026-07-18T15:42:07Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185594,
-            "stars_today": 185594,
+            "stars": 185596,
+            "stars_today": 185596,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 165954,
-            "stars_today": 165954,
+            "stars": 165965,
+            "stars_today": 165965,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 87707,
-            "stars_today": 87707,
+            "stars": 87721,
+            "stars_today": 87721,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 81177,
-            "stars_today": 81177,
+            "stars": 81194,
+            "stars_today": 81194,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54708,
-            "stars_today": 54708,
+            "stars": 54710,
+            "stars_today": 54710,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-18T12:43:48Z",
+    "updated": "2026-07-18T15:42:07Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-18T12:43:48Z",
+    "updated": "2026-07-18T15:42:07Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-18T12:43:48Z",
+    "updated": "2026-07-18T15:42:07Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-            "insight": "HN 热议：19 分 · 8 评论",
-            "sentiment": "neutral",
-            "comments": 8,
-            "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
+            "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+            "insight": "HN 热议：203 分 · 106 评论",
+            "sentiment": "positive",
+            "comments": 106,
+            "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "What AI did to stackoverflow in a graph",
-            "insight": "HN 热议：69 分 · 80 评论",
+            "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+            "insight": "HN 热议：121 分 · 43 评论",
             "sentiment": "neutral",
-            "comments": 80,
-            "url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
+            "comments": 43,
+            "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "In-toto: A framework to secure the integrity of software supply chains",
-            "insight": "HN 热议：47 分 · 5 评论",
+            "title": "What AI did to stackoverflow in a graph",
+            "insight": "HN 热议：184 分 · 211 评论",
             "sentiment": "neutral",
-            "comments": 5,
-            "url": "https://in-toto.io/",
+            "comments": 211,
+            "url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Painting the sides of railroad rails white to reduce derailment",
-            "insight": "HN 热议：116 分 · 68 评论",
+            "title": "In-toto: A framework to secure the integrity of software supply chains",
+            "insight": "HN 热议：52 分 · 11 评论",
             "sentiment": "neutral",
-            "comments": 68,
-            "url": "https://www.up.com/news/safety/Tracking-Rail-Heat-260608",
+            "comments": 11,
+            "url": "https://in-toto.io/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Why do AI company logos look like buttholes? (2025)",
-            "insight": "HN 热议：251 分 · 76 评论",
-            "sentiment": "positive",
-            "comments": 76,
-            "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
+            "title": "Painting the sides of railroad rails white to reduce derailment",
+            "insight": "HN 热议：127 分 · 73 评论",
+            "sentiment": "neutral",
+            "comments": 73,
+            "url": "https://www.up.com/news/safety/Tracking-Rail-Heat-260608",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-18T12:43:48Z",
+    "updated": "2026-07-18T15:42:07Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
