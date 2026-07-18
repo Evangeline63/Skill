@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-17T21:39:06Z",
+    "updated": "2026-07-18T01:14:55Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-17T21:39:06Z",
+    "updated": "2026-07-18T01:14:55Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,7 +266,7 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-17T21:39:06Z",
+    "updated": "2026-07-18T01:14:55Z",
     "repos": [
         {
             "rank": 1,
@@ -282,50 +282,50 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 165908,
-            "stars_today": 165908,
+            "stars": 165920,
+            "stars_today": 165920,
             "url": "https://github.com/f/prompts.chat"
         },
         {
             "rank": 3,
-            "name": "rasbt/LLMs-from-scratch",
-            "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
-            "language": "Jupyter Notebook",
-            "stars": 99264,
-            "stars_today": 99264,
-            "url": "https://github.com/rasbt/LLMs-from-scratch"
-        },
-        {
-            "rank": 4,
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 94973,
-            "stars_today": 94973,
+            "stars": 94975,
+            "stars_today": 94975,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
-            "rank": 5,
+            "rank": 4,
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 87633,
-            "stars_today": 87633,
+            "stars": 87642,
+            "stars_today": 87642,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
-            "rank": 6,
+            "rank": 5,
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 81116,
-            "stars_today": 81116,
+            "stars": 81130,
+            "stars_today": 81130,
             "url": "https://github.com/OpenHands/OpenHands"
+        },
+        {
+            "rank": 6,
+            "name": "FlowiseAI/Flowise",
+            "description": "Build AI Agents, Visually",
+            "language": "TypeScript",
+            "stars": 54697,
+            "stars_today": 54697,
+            "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-17T21:39:06Z",
+    "updated": "2026-07-18T01:14:55Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-17T21:39:06Z",
+    "updated": "2026-07-18T01:14:55Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-17T21:39:06Z",
+    "updated": "2026-07-18T01:14:55Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "The state of open source AI",
-            "insight": "HN 热议：326 分 · 229 评论",
+            "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
+            "insight": "HN 热议：244 分 · 144 评论",
             "sentiment": "positive",
-            "comments": 229,
-            "url": "https://stateofopensource.ai/",
+            "comments": 144,
+            "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
-            "insight": "HN 热议：74 分 · 1 评论",
+            "title": "Texas wins court order to suspend domain name for violating age-verification law",
+            "insight": "HN 热议：103 分 · 109 评论",
             "sentiment": "neutral",
-            "comments": 1,
-            "url": "https://blog.zksecurity.xyz/posts/openvm-bugs/",
+            "comments": 109,
+            "url": "https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-secures-landmark-legal-victory-lock-pornographic-website-domain-and",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "EEG shows brain can simultaneous encode two speech streams",
-            "insight": "HN 热议：241 分 · 160 评论",
-            "sentiment": "positive",
-            "comments": 160,
-            "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876",
+            "title": "Painting the sides of railroad rails white to reduce derailment",
+            "insight": "HN 热议：38 分 · 10 评论",
+            "sentiment": "neutral",
+            "comments": 10,
+            "url": "https://www.up.com/news/safety/Tracking-Rail-Heat-260608",
             "id": 3
         },
         {
             "source": "HackerNews",
             "title": "FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again",
-            "insight": "HN 热议：9 分 · 1 评论",
+            "insight": "HN 热议：111 分 · 67 评论",
             "sentiment": "neutral",
-            "comments": 1,
+            "comments": 67,
             "url": "https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Apple targets dozens of OpenAI employees with legal letters",
-            "insight": "HN 热议：356 分 · 298 评论",
+            "title": "The state of open source AI",
+            "insight": "HN 热议：367 分 · 265 评论",
             "sentiment": "positive",
-            "comments": 298,
-            "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
+            "comments": 265,
+            "url": "https://stateofopensource.ai/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-17T21:39:06Z",
+    "updated": "2026-07-18T01:14:55Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
