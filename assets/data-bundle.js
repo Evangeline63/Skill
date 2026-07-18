@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-18T18:42:09Z",
+    "updated": "2026-07-18T21:37:51Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-18T18:42:09Z",
+    "updated": "2026-07-18T21:37:51Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -325,7 +325,7 @@ window.__DATA__ = {
     ]
 },
   "products": {
-    "updated": "2026-07-18T18:42:09Z",
+    "updated": "2026-07-18T21:37:51Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-18T18:42:09Z",
+    "updated": "2026-07-18T21:37:51Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-18T18:42:09Z",
+    "updated": "2026-07-18T21:37:51Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-            "insight": "HN 热议：349 分 · 203 评论",
+            "insight": "HN 热议：455 分 · 289 评论",
             "sentiment": "positive",
-            "comments": 203,
+            "comments": 289,
             "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-            "insight": "HN 热议：87 分 · 58 评论",
+            "insight": "HN 热议：140 分 · 95 评论",
             "sentiment": "neutral",
-            "comments": 58,
+            "comments": 95,
             "url": "https://ykdojo.github.io/claude-controls-mac/",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-            "insight": "HN 热议：161 分 · 75 评论",
+            "insight": "HN 热议：188 分 · 96 评论",
             "sentiment": "neutral",
-            "comments": 75,
+            "comments": 96,
             "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
             "id": 3
         },
         {
             "source": "HackerNews",
             "title": "What AI did to stackoverflow in a graph",
-            "insight": "HN 热议：286 分 · 334 评论",
+            "insight": "HN 热议：330 分 · 389 评论",
             "sentiment": "positive",
-            "comments": 334,
+            "comments": 389,
             "url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
             "id": 4
         },
         {
             "source": "HackerNews",
             "title": "In-toto: A framework to secure the integrity of software supply chains",
-            "insight": "HN 热议：55 分 · 12 评论",
+            "insight": "HN 热议：58 分 · 13 评论",
             "sentiment": "neutral",
-            "comments": 12,
+            "comments": 13,
             "url": "https://in-toto.io/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-18T18:42:09Z",
+    "updated": "2026-07-18T21:37:51Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
