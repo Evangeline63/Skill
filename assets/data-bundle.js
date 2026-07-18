@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-18T10:06:34Z",
+    "updated": "2026-07-18T12:43:48Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-18T10:06:34Z",
+    "updated": "2026-07-18T12:43:48Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-18T10:06:34Z",
+    "updated": "2026-07-18T12:43:48Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185589,
-            "stars_today": 185589,
+            "stars": 185594,
+            "stars_today": 185594,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 165944,
-            "stars_today": 165944,
+            "stars": 165954,
+            "stars_today": 165954,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 94979,
-            "stars_today": 94979,
+            "stars": 94982,
+            "stars_today": 94982,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 87691,
-            "stars_today": 87691,
+            "stars": 87707,
+            "stars_today": 87707,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 81158,
-            "stars_today": 81158,
+            "stars": 81177,
+            "stars_today": 81177,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54706,
-            "stars_today": 54706,
+            "stars": 54708,
+            "stars_today": 54708,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-18T10:06:34Z",
+    "updated": "2026-07-18T12:43:48Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-18T10:06:34Z",
+    "updated": "2026-07-18T12:43:48Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-18T10:06:34Z",
+    "updated": "2026-07-18T12:43:48Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "In-toto: A framework to secure the integrity of software supply chains",
-            "insight": "HN 热议：31 分 · 0 评论",
+            "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+            "insight": "HN 热议：19 分 · 8 评论",
             "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://in-toto.io/",
+            "comments": 8,
+            "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Painting the sides of railroad rails white to reduce derailment",
-            "insight": "HN 热议：98 分 · 50 评论",
+            "title": "What AI did to stackoverflow in a graph",
+            "insight": "HN 热议：69 分 · 80 评论",
             "sentiment": "neutral",
-            "comments": 50,
-            "url": "https://www.up.com/news/safety/Tracking-Rail-Heat-260608",
+            "comments": 80,
+            "url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "The state of open source AI",
-            "insight": "HN 热议：443 分 · 319 评论",
-            "sentiment": "positive",
-            "comments": 319,
-            "url": "https://stateofopensource.ai/",
+            "title": "In-toto: A framework to secure the integrity of software supply chains",
+            "insight": "HN 热议：47 分 · 5 评论",
+            "sentiment": "neutral",
+            "comments": 5,
+            "url": "https://in-toto.io/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
-            "insight": "HN 热议：509 分 · 331 评论",
-            "sentiment": "positive",
-            "comments": 331,
-            "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+            "title": "Painting the sides of railroad rails white to reduce derailment",
+            "insight": "HN 热议：116 分 · 68 评论",
+            "sentiment": "neutral",
+            "comments": 68,
+            "url": "https://www.up.com/news/safety/Tracking-Rail-Heat-260608",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again",
-            "insight": "HN 热议：174 分 · 98 评论",
-            "sentiment": "neutral",
-            "comments": 98,
-            "url": "https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html",
+            "title": "Why do AI company logos look like buttholes? (2025)",
+            "insight": "HN 热议：251 分 · 76 评论",
+            "sentiment": "positive",
+            "comments": 76,
+            "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-18T10:06:34Z",
+    "updated": "2026-07-18T12:43:48Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
