@@ -1,48 +1,48 @@
 {
-  "updated": "2026-07-19T05:39:40Z",
+  "updated": "2026-07-19T07:54:04Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "LLM-Integrated Multivariable Calculus Course",
-      "insight": "HN 热议：28 分 · 24 评论",
-      "sentiment": "neutral",
-      "comments": 24,
-      "url": "https://calculus.academa.ai/",
+      "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+      "insight": "HN 热议：552 分 · 352 评论",
+      "sentiment": "positive",
+      "comments": 352,
+      "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-      "insight": "HN 热议：533 分 · 343 评论",
+      "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+      "insight": "HN 热议：221 分 · 151 评论",
       "sentiment": "positive",
-      "comments": 343,
-      "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+      "comments": 151,
+      "url": "https://ykdojo.github.io/claude-controls-mac/",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
-      "insight": "HN 热议：375 分 · 165 评论",
+      "insight": "HN 热议：442 分 · 193 评论",
       "sentiment": "positive",
-      "comments": 165,
+      "comments": 193,
       "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "AI Mania Is Eviscerating Global Decision-Making",
-      "insight": "HN 热议：120 分 · 50 评论",
+      "insight": "HN 热议：174 分 · 64 评论",
       "sentiment": "neutral",
-      "comments": 50,
+      "comments": 64,
       "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3",
       "id": 4
     },
     {
       "source": "HackerNews",
       "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-      "insight": "HN 热议：230 分 · 109 评论",
+      "insight": "HN 热议：233 分 · 114 评论",
       "sentiment": "positive",
-      "comments": 109,
+      "comments": 114,
       "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
       "id": 5
     }

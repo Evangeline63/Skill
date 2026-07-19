@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-19T05:39:40Z",
+    "updated": "2026-07-19T07:54:04Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-19T05:39:40Z",
+    "updated": "2026-07-19T07:54:04Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,7 +266,7 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-19T05:39:40Z",
+    "updated": "2026-07-19T07:54:04Z",
     "repos": [
         {
             "rank": 1,
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 165988,
-            "stars_today": 165988,
+            "stars": 165991,
+            "stars_today": 165991,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 94989,
-            "stars_today": 94989,
+            "stars": 94991,
+            "stars_today": 94991,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 87767,
-            "stars_today": 87767,
+            "stars": 87780,
+            "stars_today": 87780,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 81239,
-            "stars_today": 81239,
+            "stars": 81252,
+            "stars_today": 81252,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54726,
-            "stars_today": 54726,
+            "stars": 54730,
+            "stars_today": 54730,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-19T05:39:40Z",
+    "updated": "2026-07-19T07:54:04Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-19T05:39:40Z",
+    "updated": "2026-07-19T07:54:04Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-19T05:39:40Z",
+    "updated": "2026-07-19T07:54:04Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "LLM-Integrated Multivariable Calculus Course",
-            "insight": "HN 热议：28 分 · 24 评论",
-            "sentiment": "neutral",
-            "comments": 24,
-            "url": "https://calculus.academa.ai/",
+            "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+            "insight": "HN 热议：552 分 · 352 评论",
+            "sentiment": "positive",
+            "comments": 352,
+            "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-            "insight": "HN 热议：533 分 · 343 评论",
+            "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+            "insight": "HN 热议：221 分 · 151 评论",
             "sentiment": "positive",
-            "comments": 343,
-            "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+            "comments": 151,
+            "url": "https://ykdojo.github.io/claude-controls-mac/",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
-            "insight": "HN 热议：375 分 · 165 评论",
+            "insight": "HN 热议：442 分 · 193 评论",
             "sentiment": "positive",
-            "comments": 165,
+            "comments": 193,
             "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
             "id": 3
         },
         {
             "source": "HackerNews",
             "title": "AI Mania Is Eviscerating Global Decision-Making",
-            "insight": "HN 热议：120 分 · 50 评论",
+            "insight": "HN 热议：174 分 · 64 评论",
             "sentiment": "neutral",
-            "comments": 50,
+            "comments": 64,
             "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3",
             "id": 4
         },
         {
             "source": "HackerNews",
             "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-            "insight": "HN 热议：230 分 · 109 评论",
+            "insight": "HN 热议：233 分 · 114 评论",
             "sentiment": "positive",
-            "comments": 109,
+            "comments": 114,
             "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-19T05:39:40Z",
+    "updated": "2026-07-19T07:54:04Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
