@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-19T07:54:04Z",
+    "updated": "2026-07-19T10:17:23Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-19T07:54:04Z",
+    "updated": "2026-07-19T10:17:23Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-19T07:54:04Z",
+    "updated": "2026-07-19T10:17:23Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185599,
-            "stars_today": 185599,
+            "stars": 185605,
+            "stars_today": 185605,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 165991,
-            "stars_today": 165991,
+            "stars": 165996,
+            "stars_today": 165996,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 94991,
-            "stars_today": 94991,
+            "stars": 94992,
+            "stars_today": 94992,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 87780,
-            "stars_today": 87780,
+            "stars": 87789,
+            "stars_today": 87789,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 81252,
-            "stars_today": 81252,
+            "stars": 81255,
+            "stars_today": 81255,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54730,
-            "stars_today": 54730,
+            "stars": 54734,
+            "stars_today": 54734,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-19T07:54:04Z",
+    "updated": "2026-07-19T10:17:23Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-19T07:54:04Z",
+    "updated": "2026-07-19T10:17:23Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-19T07:54:04Z",
+    "updated": "2026-07-19T10:17:23Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-            "insight": "HN 热议：552 分 · 352 评论",
-            "sentiment": "positive",
-            "comments": 352,
-            "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+            "title": "Perforce charges $500 for training training videos.. and it's AI narrated",
+            "insight": "HN 热议：22 分 · 39 评论",
+            "sentiment": "neutral",
+            "comments": 39,
+            "url": "https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-            "insight": "HN 热议：221 分 · 151 评论",
+            "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+            "insight": "HN 热议：564 分 · 362 评论",
             "sentiment": "positive",
-            "comments": 151,
-            "url": "https://ykdojo.github.io/claude-controls-mac/",
+            "comments": 362,
+            "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
-            "insight": "HN 热议：442 分 · 193 评论",
+            "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+            "insight": "HN 热议：233 分 · 159 评论",
             "sentiment": "positive",
-            "comments": 193,
-            "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
+            "comments": 159,
+            "url": "https://ykdojo.github.io/claude-controls-mac/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "AI Mania Is Eviscerating Global Decision-Making",
-            "insight": "HN 热议：174 分 · 64 评论",
-            "sentiment": "neutral",
-            "comments": 64,
-            "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3",
+            "title": "NYC may require landlords and realtors to disclose the use of AI in listings",
+            "insight": "HN 热议：474 分 · 209 评论",
+            "sentiment": "positive",
+            "comments": 209,
+            "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-            "insight": "HN 热议：233 分 · 114 评论",
+            "title": "AI Mania Is Eviscerating Global Decision-Making",
+            "insight": "HN 热议：211 分 · 79 评论",
             "sentiment": "positive",
-            "comments": 114,
-            "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
+            "comments": 79,
+            "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-19T07:54:04Z",
+    "updated": "2026-07-19T10:17:23Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
