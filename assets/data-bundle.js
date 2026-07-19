@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-19T01:20:41Z",
+    "updated": "2026-07-19T05:39:40Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-19T01:20:41Z",
+    "updated": "2026-07-19T05:39:40Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,7 +266,7 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-19T01:20:41Z",
+    "updated": "2026-07-19T05:39:40Z",
     "repos": [
         {
             "rank": 1,
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 165982,
-            "stars_today": 165982,
+            "stars": 165988,
+            "stars_today": 165988,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 94987,
-            "stars_today": 94987,
+            "stars": 94989,
+            "stars_today": 94989,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 87759,
-            "stars_today": 87759,
+            "stars": 87767,
+            "stars_today": 87767,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 81226,
-            "stars_today": 81226,
+            "stars": 81239,
+            "stars_today": 81239,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54724,
-            "stars_today": 54724,
+            "stars": 54726,
+            "stars_today": 54726,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-19T01:20:41Z",
+    "updated": "2026-07-19T05:39:40Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-19T01:20:41Z",
+    "updated": "2026-07-19T05:39:40Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-19T01:20:41Z",
+    "updated": "2026-07-19T05:39:40Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-            "insight": "HN 热议：492 分 · 322 评论",
-            "sentiment": "positive",
-            "comments": 322,
-            "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+            "title": "LLM-Integrated Multivariable Calculus Course",
+            "insight": "HN 热议：28 分 · 24 评论",
+            "sentiment": "neutral",
+            "comments": 24,
+            "url": "https://calculus.academa.ai/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
-            "insight": "HN 热议：172 分 · 79 评论",
-            "sentiment": "neutral",
-            "comments": 79,
-            "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
+            "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+            "insight": "HN 热议：533 分 · 343 评论",
+            "sentiment": "positive",
+            "comments": 343,
+            "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-            "insight": "HN 热议：210 分 · 106 评论",
+            "title": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+            "insight": "HN 热议：375 分 · 165 评论",
             "sentiment": "positive",
-            "comments": 106,
-            "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
+            "comments": 165,
+            "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-            "insight": "HN 热议：172 分 · 130 评论",
+            "title": "AI Mania Is Eviscerating Global Decision-Making",
+            "insight": "HN 热议：120 分 · 50 评论",
             "sentiment": "neutral",
-            "comments": 130,
-            "url": "https://ykdojo.github.io/claude-controls-mac/",
+            "comments": 50,
+            "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "What AI did to stackoverflow in a graph",
-            "insight": "HN 热议：358 分 · 435 评论",
+            "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+            "insight": "HN 热议：230 分 · 109 评论",
             "sentiment": "positive",
-            "comments": 435,
-            "url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
+            "comments": 109,
+            "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-19T01:20:41Z",
+    "updated": "2026-07-19T05:39:40Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
