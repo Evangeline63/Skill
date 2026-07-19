@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-19T12:45:19Z",
+  "updated": "2026-07-19T15:43:52Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
-      "insight": "HN 热议：59 分 · 20 评论",
+      "title": "Claude Code uses Bun written in Rust now",
+      "insight": "HN 热议：164 分 · 213 评论",
       "sentiment": "neutral",
-      "comments": 20,
-      "url": "https://github.com/openai/codex/pull/33972/files",
+      "comments": 213,
+      "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: LoopGain – Stop agent loops with control theory, not max_iterations",
-      "insight": "HN 热议：8 分 · 5 评论",
+      "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
+      "insight": "HN 热议：144 分 · 66 评论",
       "sentiment": "neutral",
-      "comments": 5,
-      "url": "https://github.com/loopgain-ai/loopgain",
+      "comments": 66,
+      "url": "https://github.com/openai/codex/pull/33972/files",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Claude Code uses Bun written in Rust now",
-      "insight": "HN 热议：116 分 · 134 评论",
+      "title": "DRIVE – Operational Excellence for AI-accelerated engineering",
+      "insight": "HN 热议：12 分 · 6 评论",
       "sentiment": "neutral",
-      "comments": 134,
-      "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+      "comments": 6,
+      "url": "https://www.cortex.io/drive",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "NYC may require landlords and realtors to disclose the use of AI in listings",
-      "insight": "HN 热议：496 分 · 217 评论",
-      "sentiment": "positive",
-      "comments": 217,
-      "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
+      "title": "Clever hacker fits 537,000 domains in a $5 ESP32 ad-blocking dongle",
+      "insight": "HN 热议：18 分 · 4 评论",
+      "sentiment": "neutral",
+      "comments": 4,
+      "url": "https://www.tomshardware.com/networking/clever-hacker-fits-537-000-domains-in-a-tiny-usd5-esp32-ad-blocking-dongle-firmware-uses-only-around-50kb-of-ram-and-can-answer-blocked-lookups-in-10-milliseconds",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "AI Mania Is Eviscerating Global Decision-Making",
-      "insight": "HN 热议：262 分 · 107 评论",
-      "sentiment": "positive",
-      "comments": 107,
-      "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3",
+      "title": "Ollama: All Aboard Open Models",
+      "insight": "HN 热议：31 分 · 12 评论",
+      "sentiment": "neutral",
+      "comments": 12,
+      "url": "https://ollama.com/blog/all-aboard-open-models",
       "id": 5
     }
   ]

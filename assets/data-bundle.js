@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-19T12:45:19Z",
+    "updated": "2026-07-19T15:43:52Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-19T12:45:19Z",
+    "updated": "2026-07-19T15:43:52Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-19T12:45:19Z",
+    "updated": "2026-07-19T15:43:52Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185608,
-            "stars_today": 185608,
+            "stars": 185611,
+            "stars_today": 185611,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 166002,
-            "stars_today": 166002,
+            "stars": 166013,
+            "stars_today": 166013,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 94993,
-            "stars_today": 94993,
+            "stars": 94998,
+            "stars_today": 94998,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 87801,
-            "stars_today": 87801,
+            "stars": 87839,
+            "stars_today": 87839,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 81269,
-            "stars_today": 81269,
+            "stars": 81289,
+            "stars_today": 81289,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54738,
-            "stars_today": 54738,
+            "stars": 54740,
+            "stars_today": 54740,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-19T12:45:19Z",
+    "updated": "2026-07-19T15:43:52Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-19T12:45:19Z",
+    "updated": "2026-07-19T15:43:52Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-19T12:45:19Z",
+    "updated": "2026-07-19T15:43:52Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
-            "insight": "HN 热议：59 分 · 20 评论",
+            "title": "Claude Code uses Bun written in Rust now",
+            "insight": "HN 热议：164 分 · 213 评论",
             "sentiment": "neutral",
-            "comments": 20,
-            "url": "https://github.com/openai/codex/pull/33972/files",
+            "comments": 213,
+            "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: LoopGain – Stop agent loops with control theory, not max_iterations",
-            "insight": "HN 热议：8 分 · 5 评论",
+            "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
+            "insight": "HN 热议：144 分 · 66 评论",
             "sentiment": "neutral",
-            "comments": 5,
-            "url": "https://github.com/loopgain-ai/loopgain",
+            "comments": 66,
+            "url": "https://github.com/openai/codex/pull/33972/files",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Claude Code uses Bun written in Rust now",
-            "insight": "HN 热议：116 分 · 134 评论",
+            "title": "DRIVE – Operational Excellence for AI-accelerated engineering",
+            "insight": "HN 热议：12 分 · 6 评论",
             "sentiment": "neutral",
-            "comments": 134,
-            "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+            "comments": 6,
+            "url": "https://www.cortex.io/drive",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "NYC may require landlords and realtors to disclose the use of AI in listings",
-            "insight": "HN 热议：496 分 · 217 评论",
-            "sentiment": "positive",
-            "comments": 217,
-            "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
+            "title": "Clever hacker fits 537,000 domains in a $5 ESP32 ad-blocking dongle",
+            "insight": "HN 热议：18 分 · 4 评论",
+            "sentiment": "neutral",
+            "comments": 4,
+            "url": "https://www.tomshardware.com/networking/clever-hacker-fits-537-000-domains-in-a-tiny-usd5-esp32-ad-blocking-dongle-firmware-uses-only-around-50kb-of-ram-and-can-answer-blocked-lookups-in-10-milliseconds",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "AI Mania Is Eviscerating Global Decision-Making",
-            "insight": "HN 热议：262 分 · 107 评论",
-            "sentiment": "positive",
-            "comments": 107,
-            "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3",
+            "title": "Ollama: All Aboard Open Models",
+            "insight": "HN 热议：31 分 · 12 评论",
+            "sentiment": "neutral",
+            "comments": 12,
+            "url": "https://ollama.com/blog/all-aboard-open-models",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-19T12:45:19Z",
+    "updated": "2026-07-19T15:43:52Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
