@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-19T18:44:44Z",
+    "updated": "2026-07-19T21:39:09Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-19T18:44:44Z",
+    "updated": "2026-07-19T21:39:09Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-19T18:44:44Z",
+    "updated": "2026-07-19T21:39:09Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185615,
-            "stars_today": 185615,
+            "stars": 185616,
+            "stars_today": 185616,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 166019,
-            "stars_today": 166019,
+            "stars": 166025,
+            "stars_today": 166025,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 87862,
-            "stars_today": 87862,
+            "stars": 87866,
+            "stars_today": 87866,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 81304,
-            "stars_today": 81304,
+            "stars": 81313,
+            "stars_today": 81313,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54741,
-            "stars_today": 54741,
+            "stars": 54742,
+            "stars_today": 54742,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-19T18:44:44Z",
+    "updated": "2026-07-19T21:39:09Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-19T18:44:44Z",
+    "updated": "2026-07-19T21:39:09Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-19T18:44:44Z",
+    "updated": "2026-07-19T21:39:09Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Claude Code uses Bun written in Rust now",
-            "insight": "HN 热议：274 分 · 359 评论",
+            "insight": "HN 热议：336 分 · 454 评论",
             "sentiment": "positive",
-            "comments": 359,
+            "comments": 454,
             "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
-            "insight": "HN 热议：229 分 · 104 评论",
+            "insight": "HN 热议：268 分 · 121 评论",
             "sentiment": "positive",
-            "comments": 104,
+            "comments": 121,
             "url": "https://github.com/openai/codex/pull/33972/files",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
-            "insight": "HN 热议：58 分 · 12 评论",
+            "insight": "HN 热议：152 分 · 50 评论",
             "sentiment": "neutral",
-            "comments": 12,
+            "comments": 50,
             "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Ollama: All Aboard Open Models",
-            "insight": "HN 热议：59 分 · 39 评论",
+            "title": "Heavy TV watching associated with smaller brain structures, study finds",
+            "insight": "HN 热议：59 分 · 27 评论",
             "sentiment": "neutral",
-            "comments": 39,
-            "url": "https://ollama.com/blog/all-aboard-open-models",
+            "comments": 27,
+            "url": "https://dornsife.usc.edu/news/stories/heavy-tv-watching-associated-with-smaller-brain-structures/",
             "id": 4
         },
         {
             "source": "HackerNews",
             "title": "Clever hacker fits 537,000 domains in a $5 ESP32 ad-blocking dongle",
-            "insight": "HN 热议：52 分 · 19 评论",
+            "insight": "HN 热议：65 分 · 23 评论",
             "sentiment": "neutral",
-            "comments": 19,
+            "comments": 23,
             "url": "https://www.tomshardware.com/networking/clever-hacker-fits-537-000-domains-in-a-tiny-usd5-esp32-ad-blocking-dongle-firmware-uses-only-around-50kb-of-ram-and-can-answer-blocked-lookups-in-10-milliseconds",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-19T18:44:44Z",
+    "updated": "2026-07-19T21:39:09Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
