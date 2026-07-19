@@ -1,48 +1,48 @@
 {
-  "updated": "2026-07-19T10:17:23Z",
+  "updated": "2026-07-19T12:45:19Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Perforce charges $500 for training training videos.. and it's AI narrated",
-      "insight": "HN 热议：22 分 · 39 评论",
+      "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
+      "insight": "HN 热议：59 分 · 20 评论",
       "sentiment": "neutral",
-      "comments": 39,
-      "url": "https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic",
+      "comments": 20,
+      "url": "https://github.com/openai/codex/pull/33972/files",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-      "insight": "HN 热议：564 分 · 362 评论",
-      "sentiment": "positive",
-      "comments": 362,
-      "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+      "title": "Show HN: LoopGain – Stop agent loops with control theory, not max_iterations",
+      "insight": "HN 热议：8 分 · 5 评论",
+      "sentiment": "neutral",
+      "comments": 5,
+      "url": "https://github.com/loopgain-ai/loopgain",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-      "insight": "HN 热议：233 分 · 159 评论",
-      "sentiment": "positive",
-      "comments": 159,
-      "url": "https://ykdojo.github.io/claude-controls-mac/",
+      "title": "Claude Code uses Bun written in Rust now",
+      "insight": "HN 热议：116 分 · 134 评论",
+      "sentiment": "neutral",
+      "comments": 134,
+      "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "NYC may require landlords and realtors to disclose the use of AI in listings",
-      "insight": "HN 热议：474 分 · 209 评论",
+      "insight": "HN 热议：496 分 · 217 评论",
       "sentiment": "positive",
-      "comments": 209,
+      "comments": 217,
       "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
       "id": 4
     },
     {
       "source": "HackerNews",
       "title": "AI Mania Is Eviscerating Global Decision-Making",
-      "insight": "HN 热议：211 分 · 79 评论",
+      "insight": "HN 热议：262 分 · 107 评论",
       "sentiment": "positive",
-      "comments": 79,
+      "comments": 107,
       "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3",
       "id": 5
     }

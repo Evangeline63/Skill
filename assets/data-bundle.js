@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-19T10:17:23Z",
+    "updated": "2026-07-19T12:45:19Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-19T10:17:23Z",
+    "updated": "2026-07-19T12:45:19Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-19T10:17:23Z",
+    "updated": "2026-07-19T12:45:19Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185605,
-            "stars_today": 185605,
+            "stars": 185608,
+            "stars_today": 185608,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 165996,
-            "stars_today": 165996,
+            "stars": 166002,
+            "stars_today": 166002,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 94992,
-            "stars_today": 94992,
+            "stars": 94993,
+            "stars_today": 94993,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 87789,
-            "stars_today": 87789,
+            "stars": 87801,
+            "stars_today": 87801,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 81255,
-            "stars_today": 81255,
+            "stars": 81269,
+            "stars_today": 81269,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54734,
-            "stars_today": 54734,
+            "stars": 54738,
+            "stars_today": 54738,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-19T10:17:23Z",
+    "updated": "2026-07-19T12:45:19Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-19T10:17:23Z",
+    "updated": "2026-07-19T12:45:19Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-19T10:17:23Z",
+    "updated": "2026-07-19T12:45:19Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Perforce charges $500 for training training videos.. and it's AI narrated",
-            "insight": "HN 热议：22 分 · 39 评论",
+            "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
+            "insight": "HN 热议：59 分 · 20 评论",
             "sentiment": "neutral",
-            "comments": 39,
-            "url": "https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic",
+            "comments": 20,
+            "url": "https://github.com/openai/codex/pull/33972/files",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-            "insight": "HN 热议：564 分 · 362 评论",
-            "sentiment": "positive",
-            "comments": 362,
-            "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+            "title": "Show HN: LoopGain – Stop agent loops with control theory, not max_iterations",
+            "insight": "HN 热议：8 分 · 5 评论",
+            "sentiment": "neutral",
+            "comments": 5,
+            "url": "https://github.com/loopgain-ai/loopgain",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-            "insight": "HN 热议：233 分 · 159 评论",
-            "sentiment": "positive",
-            "comments": 159,
-            "url": "https://ykdojo.github.io/claude-controls-mac/",
+            "title": "Claude Code uses Bun written in Rust now",
+            "insight": "HN 热议：116 分 · 134 评论",
+            "sentiment": "neutral",
+            "comments": 134,
+            "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
             "id": 3
         },
         {
             "source": "HackerNews",
             "title": "NYC may require landlords and realtors to disclose the use of AI in listings",
-            "insight": "HN 热议：474 分 · 209 评论",
+            "insight": "HN 热议：496 分 · 217 评论",
             "sentiment": "positive",
-            "comments": 209,
+            "comments": 217,
             "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
             "id": 4
         },
         {
             "source": "HackerNews",
             "title": "AI Mania Is Eviscerating Global Decision-Making",
-            "insight": "HN 热议：211 分 · 79 评论",
+            "insight": "HN 热议：262 分 · 107 评论",
             "sentiment": "positive",
-            "comments": 79,
+            "comments": 107,
             "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-19T10:17:23Z",
+    "updated": "2026-07-19T12:45:19Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
