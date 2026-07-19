@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-19T15:43:52Z",
+  "updated": "2026-07-19T18:44:44Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Claude Code uses Bun written in Rust now",
-      "insight": "HN 热议：164 分 · 213 评论",
-      "sentiment": "neutral",
-      "comments": 213,
+      "insight": "HN 热议：274 分 · 359 评论",
+      "sentiment": "positive",
+      "comments": 359,
       "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
-      "insight": "HN 热议：144 分 · 66 评论",
-      "sentiment": "neutral",
-      "comments": 66,
+      "insight": "HN 热议：229 分 · 104 评论",
+      "sentiment": "positive",
+      "comments": 104,
       "url": "https://github.com/openai/codex/pull/33972/files",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "DRIVE – Operational Excellence for AI-accelerated engineering",
-      "insight": "HN 热议：12 分 · 6 评论",
+      "title": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
+      "insight": "HN 热议：58 分 · 12 评论",
       "sentiment": "neutral",
-      "comments": 6,
-      "url": "https://www.cortex.io/drive",
+      "comments": 12,
+      "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Clever hacker fits 537,000 domains in a $5 ESP32 ad-blocking dongle",
-      "insight": "HN 热议：18 分 · 4 评论",
+      "title": "Ollama: All Aboard Open Models",
+      "insight": "HN 热议：59 分 · 39 评论",
       "sentiment": "neutral",
-      "comments": 4,
-      "url": "https://www.tomshardware.com/networking/clever-hacker-fits-537-000-domains-in-a-tiny-usd5-esp32-ad-blocking-dongle-firmware-uses-only-around-50kb-of-ram-and-can-answer-blocked-lookups-in-10-milliseconds",
+      "comments": 39,
+      "url": "https://ollama.com/blog/all-aboard-open-models",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Ollama: All Aboard Open Models",
-      "insight": "HN 热议：31 分 · 12 评论",
+      "title": "Clever hacker fits 537,000 domains in a $5 ESP32 ad-blocking dongle",
+      "insight": "HN 热议：52 分 · 19 评论",
       "sentiment": "neutral",
-      "comments": 12,
-      "url": "https://ollama.com/blog/all-aboard-open-models",
+      "comments": 19,
+      "url": "https://www.tomshardware.com/networking/clever-hacker-fits-537-000-domains-in-a-tiny-usd5-esp32-ad-blocking-dongle-firmware-uses-only-around-50kb-of-ram-and-can-answer-blocked-lookups-in-10-milliseconds",
       "id": 5
     }
   ]
