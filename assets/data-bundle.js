@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-20T19:20:39Z",
+    "updated": "2026-07-20T21:53:45Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-20T19:20:39Z",
+    "updated": "2026-07-20T21:53:45Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-20T19:20:39Z",
+    "updated": "2026-07-20T21:53:45Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185620,
-            "stars_today": 185620,
+            "stars": 185619,
+            "stars_today": 185619,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 166067,
-            "stars_today": 166067,
+            "stars": 166070,
+            "stars_today": 166070,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95022,
-            "stars_today": 95022,
+            "stars": 95024,
+            "stars_today": 95024,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 87982,
-            "stars_today": 87982,
+            "stars": 87988,
+            "stars_today": 87988,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 81418,
-            "stars_today": 81418,
+            "stars": 81427,
+            "stars_today": 81427,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54771,
-            "stars_today": 54771,
+            "stars": 54775,
+            "stars_today": 54775,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-20T19:20:39Z",
+    "updated": "2026-07-20T21:53:45Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-20T19:20:39Z",
+    "updated": "2026-07-20T21:53:45Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-20T19:20:39Z",
+    "updated": "2026-07-20T21:53:45Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "China's open-weights AI strategy is winning",
-            "insight": "HN 热议：524 分 · 444 评论",
+            "title": "China’s open-weights AI strategy is winning",
+            "insight": "HN 热议：788 分 · 652 评论",
             "sentiment": "positive",
-            "comments": 444,
+            "comments": 652,
             "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "How we measured AI writing across arXiv, and where the measurement breaks",
-            "insight": "HN 热议：143 分 · 97 评论",
+            "title": "Who's Afraid of Chinese Models?",
+            "insight": "HN 热议：19 分 · 2 评论",
             "sentiment": "neutral",
-            "comments": 97,
-            "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+            "comments": 2,
+            "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Airport Simulator",
-            "insight": "HN 热议：506 分 · 109 评论",
-            "sentiment": "positive",
-            "comments": 109,
-            "url": "https://airport.apunen.com/",
+            "title": "How we measured AI writing across arXiv, and where the measurement breaks",
+            "insight": "HN 热议：177 分 · 129 评论",
+            "sentiment": "neutral",
+            "comments": 129,
+            "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12",
-            "insight": "HN 热议：27 分 · 57 评论",
+            "title": "Agent swarms and the new model economics",
+            "insight": "HN 热议：65 分 · 29 评论",
             "sentiment": "neutral",
-            "comments": 57,
-            "url": "https://news.ycombinator.com/item?id=48981136",
+            "comments": 29,
+            "url": "https://cursor.com/blog/agent-swarm-model-economics",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "An Empirical Study: AI Agent Rules Need Context and Layered Enforcement",
-            "insight": "HN 热议：12 分 · 0 评论",
-            "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://eunomia.dev/blog/2026/07/15/ebpf-ai-agent-policy-enforcement/",
+            "title": "Airport Simulator",
+            "insight": "HN 热议：606 分 · 119 评论",
+            "sentiment": "positive",
+            "comments": 119,
+            "url": "https://airport.apunen.com/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-20T19:20:39Z",
+    "updated": "2026-07-20T21:53:45Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
