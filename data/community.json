@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-20T11:32:37Z",
+  "updated": "2026-07-20T13:42:37Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
-      "insight": "HN 热议：141 分 · 78 评论",
+      "title": "Airport Simulator",
+      "insight": "HN 热议：180 分 · 45 评论",
       "sentiment": "neutral",
-      "comments": 78,
-      "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
+      "comments": 45,
+      "url": "https://airport.apunen.com/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Airbus Takes Flight from AWS",
-      "insight": "HN 热议：32 分 · 11 评论",
-      "sentiment": "neutral",
-      "comments": 11,
-      "url": "https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109",
+      "title": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
+      "insight": "HN 热议：253 分 · 131 评论",
+      "sentiment": "positive",
+      "comments": 131,
+      "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Claude Code uses Bun written in Rust now",
-      "insight": "HN 热议：542 分 · 713 评论",
-      "sentiment": "positive",
-      "comments": 713,
-      "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+      "title": "Sealed tomb filled with paintings and inscriptions discovered in Egypt",
+      "insight": "HN 热议：80 分 · 57 评论",
+      "sentiment": "neutral",
+      "comments": 57,
+      "url": "https://www.labrujulaverde.com/en/2026/07/sealed-tomb-of-a-high-official-or-priest-filled-with-paintings-and-inscriptions-discovered-on-luxors-west-bank/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Self-Powered Trailers Promise Leaner Freight Runs",
-      "insight": "HN 热议：46 分 · 26 评论",
-      "sentiment": "neutral",
-      "comments": 26,
-      "url": "https://spectrum.ieee.org/self-powered-trailers-freight-decarbonization",
+      "title": "Claude Code uses Bun written in Rust now",
+      "insight": "HN 热议：571 分 · 759 评论",
+      "sentiment": "positive",
+      "comments": 759,
+      "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Sealed tomb filled with paintings and inscriptions discovered in Egypt",
-      "insight": "HN 热议：55 分 · 45 评论",
+      "title": "1-Bit LLM in the Browser",
+      "insight": "HN 热议：69 分 · 28 评论",
       "sentiment": "neutral",
-      "comments": 45,
-      "url": "https://www.labrujulaverde.com/en/2026/07/sealed-tomb-of-a-high-official-or-priest-filled-with-paintings-and-inscriptions-discovered-on-luxors-west-bank/",
+      "comments": 28,
+      "url": "https://huggingface.co/spaces/webml-community/bonsai-webgpu",
       "id": 5
     }
   ]
