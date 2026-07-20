@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-20T05:56:55Z",
+  "updated": "2026-07-20T08:44:20Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
-      "insight": "HN 热议：212 分 · 113 评论",
-      "sentiment": "positive",
-      "comments": 113,
-      "url": "https://xcancel.com/__alpoge__/status/2079028340955197566",
+      "title": "Self-Powered Trailers Promise Leaner Freight Runs",
+      "insight": "HN 热议：30 分 · 13 评论",
+      "sentiment": "neutral",
+      "comments": 13,
+      "url": "https://spectrum.ieee.org/self-powered-trailers-freight-decarbonization",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "Claude Code uses Bun written in Rust now",
-      "insight": "HN 热议：459 分 · 615 评论",
+      "insight": "HN 热议：505 分 · 669 评论",
       "sentiment": "positive",
-      "comments": 615,
+      "comments": 669,
       "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Power companies are using eminent domain to seize land for data centers",
-      "insight": "HN 热议：47 分 · 9 评论",
+      "title": "Sealed tomb filled with paintings and inscriptions discovered in Egypt",
+      "insight": "HN 热议：21 分 · 10 评论",
       "sentiment": "neutral",
-      "comments": 9,
-      "url": "https://fortune.com/2026/07/19/data-center-eminent-domain-public-use/",
+      "comments": 10,
+      "url": "https://www.labrujulaverde.com/en/2026/07/sealed-tomb-of-a-high-official-or-priest-filled-with-paintings-and-inscriptions-discovered-on-luxors-west-bank/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Talk: The Art of Braiding Algorithms",
-      "insight": "HN 热议：35 分 · 0 评论",
+      "title": "1-Bit LLM in the Browser",
+      "insight": "HN 热议：22 分 · 4 评论",
       "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://pgadey.ca/notes/talk-relatorium-2026/",
+      "comments": 4,
+      "url": "https://huggingface.co/spaces/webml-community/bonsai-webgpu",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Self-Powered Trailers Promise Leaner Freight Runs",
-      "insight": "HN 热议：3 分 · 0 评论",
+      "title": "How proprietary formats have become Microsoft’s main tool for lock-in",
+      "insight": "HN 热议：70 分 · 29 评论",
       "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://spectrum.ieee.org/self-powered-trailers-freight-decarbonization",
+      "comments": 29,
+      "url": "https://blog.documentfoundation.org/blog/2026/07/17/microsofts-main-tool-for-lock-in/",
       "id": 5
     }
   ]

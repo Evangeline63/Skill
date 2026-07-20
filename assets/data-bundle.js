@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-20T05:56:55Z",
+    "updated": "2026-07-20T08:44:20Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-20T05:56:55Z",
+    "updated": "2026-07-20T08:44:20Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-20T05:56:55Z",
+    "updated": "2026-07-20T08:44:20Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185617,
-            "stars_today": 185617,
+            "stars": 185619,
+            "stars_today": 185619,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 166038,
-            "stars_today": 166038,
+            "stars": 166041,
+            "stars_today": 166041,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 87899,
-            "stars_today": 87899,
+            "stars": 87915,
+            "stars_today": 87915,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 81346,
-            "stars_today": 81346,
+            "stars": 81366,
+            "stars_today": 81366,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54753,
-            "stars_today": 54753,
+            "stars": 54757,
+            "stars_today": 54757,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-20T05:56:55Z",
+    "updated": "2026-07-20T08:44:20Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-20T05:56:55Z",
+    "updated": "2026-07-20T08:44:20Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-20T05:56:55Z",
+    "updated": "2026-07-20T08:44:20Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
-            "insight": "HN 热议：212 分 · 113 评论",
-            "sentiment": "positive",
-            "comments": 113,
-            "url": "https://xcancel.com/__alpoge__/status/2079028340955197566",
+            "title": "Self-Powered Trailers Promise Leaner Freight Runs",
+            "insight": "HN 热议：30 分 · 13 评论",
+            "sentiment": "neutral",
+            "comments": 13,
+            "url": "https://spectrum.ieee.org/self-powered-trailers-freight-decarbonization",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "Claude Code uses Bun written in Rust now",
-            "insight": "HN 热议：459 分 · 615 评论",
+            "insight": "HN 热议：505 分 · 669 评论",
             "sentiment": "positive",
-            "comments": 615,
+            "comments": 669,
             "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Power companies are using eminent domain to seize land for data centers",
-            "insight": "HN 热议：47 分 · 9 评论",
+            "title": "Sealed tomb filled with paintings and inscriptions discovered in Egypt",
+            "insight": "HN 热议：21 分 · 10 评论",
             "sentiment": "neutral",
-            "comments": 9,
-            "url": "https://fortune.com/2026/07/19/data-center-eminent-domain-public-use/",
+            "comments": 10,
+            "url": "https://www.labrujulaverde.com/en/2026/07/sealed-tomb-of-a-high-official-or-priest-filled-with-paintings-and-inscriptions-discovered-on-luxors-west-bank/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Talk: The Art of Braiding Algorithms",
-            "insight": "HN 热议：35 分 · 0 评论",
+            "title": "1-Bit LLM in the Browser",
+            "insight": "HN 热议：22 分 · 4 评论",
             "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://pgadey.ca/notes/talk-relatorium-2026/",
+            "comments": 4,
+            "url": "https://huggingface.co/spaces/webml-community/bonsai-webgpu",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Self-Powered Trailers Promise Leaner Freight Runs",
-            "insight": "HN 热议：3 分 · 0 评论",
+            "title": "How proprietary formats have become Microsoft’s main tool for lock-in",
+            "insight": "HN 热议：70 分 · 29 评论",
             "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://spectrum.ieee.org/self-powered-trailers-freight-decarbonization",
+            "comments": 29,
+            "url": "https://blog.documentfoundation.org/blog/2026/07/17/microsofts-main-tool-for-lock-in/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-20T05:56:55Z",
+    "updated": "2026-07-20T08:44:20Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
