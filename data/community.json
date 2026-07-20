@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-20T16:18:19Z",
+  "updated": "2026-07-20T19:20:39Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling",
-      "insight": "HN 热议：69 分 · 54 评论",
-      "sentiment": "neutral",
-      "comments": 54,
-      "url": "https://www.emergingtrajectories.com/lh/frontier-lab-economics/",
+      "title": "China's open-weights AI strategy is winning",
+      "insight": "HN 热议：524 分 · 444 评论",
+      "sentiment": "positive",
+      "comments": 444,
+      "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "American AI is locked down and proprietary. It's losing",
-      "insight": "HN 热议：105 分 · 100 评论",
+      "title": "How we measured AI writing across arXiv, and where the measurement breaks",
+      "insight": "HN 热议：143 分 · 97 评论",
       "sentiment": "neutral",
-      "comments": 100,
-      "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
+      "comments": 97,
+      "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Jaron Lanier: there is no AI (2023)",
-      "insight": "HN 热议：17 分 · 9 评论",
-      "sentiment": "neutral",
-      "comments": 9,
-      "url": "https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-ai",
+      "title": "Airport Simulator",
+      "insight": "HN 热议：506 分 · 109 评论",
+      "sentiment": "positive",
+      "comments": 109,
+      "url": "https://airport.apunen.com/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Airport Simulator",
-      "insight": "HN 热议：347 分 · 91 评论",
-      "sentiment": "positive",
-      "comments": 91,
-      "url": "https://airport.apunen.com/",
+      "title": "Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12",
+      "insight": "HN 热议：27 分 · 57 评论",
+      "sentiment": "neutral",
+      "comments": 57,
+      "url": "https://news.ycombinator.com/item?id=48981136",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
-      "insight": "HN 热议：304 分 · 165 评论",
-      "sentiment": "positive",
-      "comments": 165,
-      "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
+      "title": "An Empirical Study: AI Agent Rules Need Context and Layered Enforcement",
+      "insight": "HN 热议：12 分 · 0 评论",
+      "sentiment": "neutral",
+      "comments": 0,
+      "url": "https://eunomia.dev/blog/2026/07/15/ebpf-ai-agent-policy-enforcement/",
       "id": 5
     }
   ]
