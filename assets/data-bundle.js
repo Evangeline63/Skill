@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-20T13:42:37Z",
+    "updated": "2026-07-20T16:18:19Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-20T13:42:37Z",
+    "updated": "2026-07-20T16:18:19Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-20T13:42:37Z",
+    "updated": "2026-07-20T16:18:19Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185617,
-            "stars_today": 185617,
+            "stars": 185618,
+            "stars_today": 185618,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 166055,
-            "stars_today": 166055,
+            "stars": 166061,
+            "stars_today": 166061,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95013,
-            "stars_today": 95013,
+            "stars": 95020,
+            "stars_today": 95020,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 87949,
-            "stars_today": 87949,
+            "stars": 87968,
+            "stars_today": 87968,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 81394,
-            "stars_today": 81394,
+            "stars": 81406,
+            "stars_today": 81406,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54766,
-            "stars_today": 54766,
+            "stars": 54768,
+            "stars_today": 54768,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-20T13:42:37Z",
+    "updated": "2026-07-20T16:18:19Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-20T13:42:37Z",
+    "updated": "2026-07-20T16:18:19Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-20T13:42:37Z",
+    "updated": "2026-07-20T16:18:19Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Airport Simulator",
-            "insight": "HN 热议：180 分 · 45 评论",
+            "title": "Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling",
+            "insight": "HN 热议：69 分 · 54 评论",
             "sentiment": "neutral",
-            "comments": 45,
-            "url": "https://airport.apunen.com/",
+            "comments": 54,
+            "url": "https://www.emergingtrajectories.com/lh/frontier-lab-economics/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
-            "insight": "HN 热议：253 分 · 131 评论",
-            "sentiment": "positive",
-            "comments": 131,
-            "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
+            "title": "American AI is locked down and proprietary. It's losing",
+            "insight": "HN 热议：105 分 · 100 评论",
+            "sentiment": "neutral",
+            "comments": 100,
+            "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Sealed tomb filled with paintings and inscriptions discovered in Egypt",
-            "insight": "HN 热议：80 分 · 57 评论",
+            "title": "Jaron Lanier: there is no AI (2023)",
+            "insight": "HN 热议：17 分 · 9 评论",
             "sentiment": "neutral",
-            "comments": 57,
-            "url": "https://www.labrujulaverde.com/en/2026/07/sealed-tomb-of-a-high-official-or-priest-filled-with-paintings-and-inscriptions-discovered-on-luxors-west-bank/",
+            "comments": 9,
+            "url": "https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-ai",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Claude Code uses Bun written in Rust now",
-            "insight": "HN 热议：571 分 · 759 评论",
+            "title": "Airport Simulator",
+            "insight": "HN 热议：347 分 · 91 评论",
             "sentiment": "positive",
-            "comments": 759,
-            "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+            "comments": 91,
+            "url": "https://airport.apunen.com/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "1-Bit LLM in the Browser",
-            "insight": "HN 热议：69 分 · 28 评论",
-            "sentiment": "neutral",
-            "comments": 28,
-            "url": "https://huggingface.co/spaces/webml-community/bonsai-webgpu",
+            "title": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
+            "insight": "HN 热议：304 分 · 165 评论",
+            "sentiment": "positive",
+            "comments": 165,
+            "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-20T13:42:37Z",
+    "updated": "2026-07-20T16:18:19Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

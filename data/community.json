@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-20T13:42:37Z",
+  "updated": "2026-07-20T16:18:19Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Airport Simulator",
-      "insight": "HN 热议：180 分 · 45 评论",
+      "title": "Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling",
+      "insight": "HN 热议：69 分 · 54 评论",
       "sentiment": "neutral",
-      "comments": 45,
-      "url": "https://airport.apunen.com/",
+      "comments": 54,
+      "url": "https://www.emergingtrajectories.com/lh/frontier-lab-economics/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
-      "insight": "HN 热议：253 分 · 131 评论",
-      "sentiment": "positive",
-      "comments": 131,
-      "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
+      "title": "American AI is locked down and proprietary. It's losing",
+      "insight": "HN 热议：105 分 · 100 评论",
+      "sentiment": "neutral",
+      "comments": 100,
+      "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Sealed tomb filled with paintings and inscriptions discovered in Egypt",
-      "insight": "HN 热议：80 分 · 57 评论",
+      "title": "Jaron Lanier: there is no AI (2023)",
+      "insight": "HN 热议：17 分 · 9 评论",
       "sentiment": "neutral",
-      "comments": 57,
-      "url": "https://www.labrujulaverde.com/en/2026/07/sealed-tomb-of-a-high-official-or-priest-filled-with-paintings-and-inscriptions-discovered-on-luxors-west-bank/",
+      "comments": 9,
+      "url": "https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-ai",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Claude Code uses Bun written in Rust now",
-      "insight": "HN 热议：571 分 · 759 评论",
+      "title": "Airport Simulator",
+      "insight": "HN 热议：347 分 · 91 评论",
       "sentiment": "positive",
-      "comments": 759,
-      "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+      "comments": 91,
+      "url": "https://airport.apunen.com/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "1-Bit LLM in the Browser",
-      "insight": "HN 热议：69 分 · 28 评论",
-      "sentiment": "neutral",
-      "comments": 28,
-      "url": "https://huggingface.co/spaces/webml-community/bonsai-webgpu",
+      "title": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
+      "insight": "HN 热议：304 分 · 165 评论",
+      "sentiment": "positive",
+      "comments": 165,
+      "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
       "id": 5
     }
   ]
