@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-20T01:24:09Z",
+  "updated": "2026-07-20T05:56:55Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Ask HN: What are your favorite blogs not about AI?",
-      "insight": "HN 热议：48 分 · 19 评论",
-      "sentiment": "neutral",
-      "comments": 19,
-      "url": "https://news.ycombinator.com/item?id=48972858",
+      "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
+      "insight": "HN 热议：212 分 · 113 评论",
+      "sentiment": "positive",
+      "comments": 113,
+      "url": "https://xcancel.com/__alpoge__/status/2079028340955197566",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Talk: The Art of Braiding Algorithms",
-      "insight": "HN 热议：21 分 · 0 评论",
-      "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://pgadey.ca/notes/talk-relatorium-2026/",
+      "title": "Claude Code uses Bun written in Rust now",
+      "insight": "HN 热议：459 分 · 615 评论",
+      "sentiment": "positive",
+      "comments": 615,
+      "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Claude Code uses Bun written in Rust now",
-      "insight": "HN 热议：384 分 · 542 评论",
-      "sentiment": "positive",
-      "comments": 542,
-      "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+      "title": "Power companies are using eminent domain to seize land for data centers",
+      "insight": "HN 热议：47 分 · 9 评论",
+      "sentiment": "neutral",
+      "comments": 9,
+      "url": "https://fortune.com/2026/07/19/data-center-eminent-domain-public-use/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
-      "insight": "HN 热议：311 分 · 147 评论",
-      "sentiment": "positive",
-      "comments": 147,
-      "url": "https://github.com/openai/codex/pull/33972/files",
+      "title": "Talk: The Art of Braiding Algorithms",
+      "insight": "HN 热议：35 分 · 0 评论",
+      "sentiment": "neutral",
+      "comments": 0,
+      "url": "https://pgadey.ca/notes/talk-relatorium-2026/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "AI advice made people less accurate but more confident – sudy",
-      "insight": "HN 热议：271 分 · 150 评论",
-      "sentiment": "positive",
-      "comments": 150,
-      "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
+      "title": "Self-Powered Trailers Promise Leaner Freight Runs",
+      "insight": "HN 热议：3 分 · 0 评论",
+      "sentiment": "neutral",
+      "comments": 0,
+      "url": "https://spectrum.ieee.org/self-powered-trailers-freight-decarbonization",
       "id": 5
     }
   ]

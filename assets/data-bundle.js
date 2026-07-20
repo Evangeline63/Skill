@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-20T01:24:09Z",
+    "updated": "2026-07-20T05:56:55Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-20T01:24:09Z",
+    "updated": "2026-07-20T05:56:55Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,7 +266,7 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-20T01:24:09Z",
+    "updated": "2026-07-20T05:56:55Z",
     "repos": [
         {
             "rank": 1,
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 166032,
-            "stars_today": 166032,
+            "stars": 166038,
+            "stars_today": 166038,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95003,
-            "stars_today": 95003,
+            "stars": 95006,
+            "stars_today": 95006,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 87876,
-            "stars_today": 87876,
+            "stars": 87899,
+            "stars_today": 87899,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 81326,
-            "stars_today": 81326,
+            "stars": 81346,
+            "stars_today": 81346,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54745,
-            "stars_today": 54745,
+            "stars": 54753,
+            "stars_today": 54753,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-20T01:24:09Z",
+    "updated": "2026-07-20T05:56:55Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-20T01:24:09Z",
+    "updated": "2026-07-20T05:56:55Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-20T01:24:09Z",
+    "updated": "2026-07-20T05:56:55Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Ask HN: What are your favorite blogs not about AI?",
-            "insight": "HN 热议：48 分 · 19 评论",
-            "sentiment": "neutral",
-            "comments": 19,
-            "url": "https://news.ycombinator.com/item?id=48972858",
+            "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
+            "insight": "HN 热议：212 分 · 113 评论",
+            "sentiment": "positive",
+            "comments": 113,
+            "url": "https://xcancel.com/__alpoge__/status/2079028340955197566",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Talk: The Art of Braiding Algorithms",
-            "insight": "HN 热议：21 分 · 0 评论",
-            "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://pgadey.ca/notes/talk-relatorium-2026/",
+            "title": "Claude Code uses Bun written in Rust now",
+            "insight": "HN 热议：459 分 · 615 评论",
+            "sentiment": "positive",
+            "comments": 615,
+            "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Claude Code uses Bun written in Rust now",
-            "insight": "HN 热议：384 分 · 542 评论",
-            "sentiment": "positive",
-            "comments": 542,
-            "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+            "title": "Power companies are using eminent domain to seize land for data centers",
+            "insight": "HN 热议：47 分 · 9 评论",
+            "sentiment": "neutral",
+            "comments": 9,
+            "url": "https://fortune.com/2026/07/19/data-center-eminent-domain-public-use/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
-            "insight": "HN 热议：311 分 · 147 评论",
-            "sentiment": "positive",
-            "comments": 147,
-            "url": "https://github.com/openai/codex/pull/33972/files",
+            "title": "Talk: The Art of Braiding Algorithms",
+            "insight": "HN 热议：35 分 · 0 评论",
+            "sentiment": "neutral",
+            "comments": 0,
+            "url": "https://pgadey.ca/notes/talk-relatorium-2026/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "AI advice made people less accurate but more confident – sudy",
-            "insight": "HN 热议：271 分 · 150 评论",
-            "sentiment": "positive",
-            "comments": 150,
-            "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
+            "title": "Self-Powered Trailers Promise Leaner Freight Runs",
+            "insight": "HN 热议：3 分 · 0 评论",
+            "sentiment": "neutral",
+            "comments": 0,
+            "url": "https://spectrum.ieee.org/self-powered-trailers-freight-decarbonization",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-20T01:24:09Z",
+    "updated": "2026-07-20T05:56:55Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
