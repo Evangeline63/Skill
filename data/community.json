@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-19T21:39:09Z",
+  "updated": "2026-07-20T01:24:09Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Claude Code uses Bun written in Rust now",
-      "insight": "HN 热议：336 分 · 454 评论",
-      "sentiment": "positive",
-      "comments": 454,
-      "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+      "title": "Ask HN: What are your favorite blogs not about AI?",
+      "insight": "HN 热议：48 分 · 19 评论",
+      "sentiment": "neutral",
+      "comments": 19,
+      "url": "https://news.ycombinator.com/item?id=48972858",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
-      "insight": "HN 热议：268 分 · 121 评论",
-      "sentiment": "positive",
-      "comments": 121,
-      "url": "https://github.com/openai/codex/pull/33972/files",
+      "title": "Talk: The Art of Braiding Algorithms",
+      "insight": "HN 热议：21 分 · 0 评论",
+      "sentiment": "neutral",
+      "comments": 0,
+      "url": "https://pgadey.ca/notes/talk-relatorium-2026/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
-      "insight": "HN 热议：152 分 · 50 评论",
-      "sentiment": "neutral",
-      "comments": 50,
-      "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
+      "title": "Claude Code uses Bun written in Rust now",
+      "insight": "HN 热议：384 分 · 542 评论",
+      "sentiment": "positive",
+      "comments": 542,
+      "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Heavy TV watching associated with smaller brain structures, study finds",
-      "insight": "HN 热议：59 分 · 27 评论",
-      "sentiment": "neutral",
-      "comments": 27,
-      "url": "https://dornsife.usc.edu/news/stories/heavy-tv-watching-associated-with-smaller-brain-structures/",
+      "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
+      "insight": "HN 热议：311 分 · 147 评论",
+      "sentiment": "positive",
+      "comments": 147,
+      "url": "https://github.com/openai/codex/pull/33972/files",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Clever hacker fits 537,000 domains in a $5 ESP32 ad-blocking dongle",
-      "insight": "HN 热议：65 分 · 23 评论",
-      "sentiment": "neutral",
-      "comments": 23,
-      "url": "https://www.tomshardware.com/networking/clever-hacker-fits-537-000-domains-in-a-tiny-usd5-esp32-ad-blocking-dongle-firmware-uses-only-around-50kb-of-ram-and-can-answer-blocked-lookups-in-10-milliseconds",
+      "title": "AI advice made people less accurate but more confident – sudy",
+      "insight": "HN 热议：271 分 · 150 评论",
+      "sentiment": "positive",
+      "comments": 150,
+      "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
       "id": 5
     }
   ]
