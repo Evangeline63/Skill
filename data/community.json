@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-20T08:44:20Z",
+  "updated": "2026-07-20T11:32:37Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Self-Powered Trailers Promise Leaner Freight Runs",
-      "insight": "HN 热议：30 分 · 13 评论",
+      "title": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
+      "insight": "HN 热议：141 分 · 78 评论",
       "sentiment": "neutral",
-      "comments": 13,
-      "url": "https://spectrum.ieee.org/self-powered-trailers-freight-decarbonization",
+      "comments": 78,
+      "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Claude Code uses Bun written in Rust now",
-      "insight": "HN 热议：505 分 · 669 评论",
-      "sentiment": "positive",
-      "comments": 669,
-      "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+      "title": "Airbus Takes Flight from AWS",
+      "insight": "HN 热议：32 分 · 11 评论",
+      "sentiment": "neutral",
+      "comments": 11,
+      "url": "https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Sealed tomb filled with paintings and inscriptions discovered in Egypt",
-      "insight": "HN 热议：21 分 · 10 评论",
-      "sentiment": "neutral",
-      "comments": 10,
-      "url": "https://www.labrujulaverde.com/en/2026/07/sealed-tomb-of-a-high-official-or-priest-filled-with-paintings-and-inscriptions-discovered-on-luxors-west-bank/",
+      "title": "Claude Code uses Bun written in Rust now",
+      "insight": "HN 热议：542 分 · 713 评论",
+      "sentiment": "positive",
+      "comments": 713,
+      "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "1-Bit LLM in the Browser",
-      "insight": "HN 热议：22 分 · 4 评论",
+      "title": "Self-Powered Trailers Promise Leaner Freight Runs",
+      "insight": "HN 热议：46 分 · 26 评论",
       "sentiment": "neutral",
-      "comments": 4,
-      "url": "https://huggingface.co/spaces/webml-community/bonsai-webgpu",
+      "comments": 26,
+      "url": "https://spectrum.ieee.org/self-powered-trailers-freight-decarbonization",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "How proprietary formats have become Microsoft’s main tool for lock-in",
-      "insight": "HN 热议：70 分 · 29 评论",
+      "title": "Sealed tomb filled with paintings and inscriptions discovered in Egypt",
+      "insight": "HN 热议：55 分 · 45 评论",
       "sentiment": "neutral",
-      "comments": 29,
-      "url": "https://blog.documentfoundation.org/blog/2026/07/17/microsofts-main-tool-for-lock-in/",
+      "comments": 45,
+      "url": "https://www.labrujulaverde.com/en/2026/07/sealed-tomb-of-a-high-official-or-priest-filled-with-paintings-and-inscriptions-discovered-on-luxors-west-bank/",
       "id": 5
     }
   ]
