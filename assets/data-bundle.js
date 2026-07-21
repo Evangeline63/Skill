@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-21T18:59:50Z",
+    "updated": "2026-07-21T21:51:50Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-21T18:59:50Z",
+    "updated": "2026-07-21T21:51:50Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-21T18:59:50Z",
+    "updated": "2026-07-21T21:51:50Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185641,
-            "stars_today": 185641,
+            "stars": 185642,
+            "stars_today": 185642,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 166142,
-            "stars_today": 166142,
+            "stars": 166152,
+            "stars_today": 166152,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95035,
-            "stars_today": 95035,
+            "stars": 95039,
+            "stars_today": 95039,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 88128,
-            "stars_today": 88128,
+            "stars": 88138,
+            "stars_today": 88138,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 81570,
-            "stars_today": 81570,
+            "stars": 81576,
+            "stars_today": 81576,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54799,
-            "stars_today": 54799,
+            "stars": 54801,
+            "stars_today": 54801,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-21T18:59:50Z",
+    "updated": "2026-07-21T21:51:50Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-21T18:59:50Z",
+    "updated": "2026-07-21T21:51:50Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-21T18:59:50Z",
+    "updated": "2026-07-21T21:51:50Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-            "insight": "HN 热议：411 分 · 332 评论",
+            "title": "OpenAI and Hugging Face address security incident during model evaluation",
+            "insight": "HN 热议：340 分 · 189 评论",
             "sentiment": "positive",
-            "comments": 332,
-            "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
+            "comments": 189,
+            "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Meta's AI Models Are Powering the First Wave of Genesis Mission Projects",
-            "insight": "HN 热议：50 分 · 30 评论",
-            "sentiment": "neutral",
-            "comments": 30,
-            "url": "https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/?_fb_noscript=1",
+            "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+            "insight": "HN 热议：534 分 · 431 评论",
+            "sentiment": "positive",
+            "comments": 431,
+            "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
-            "insight": "HN 热议：487 分 · 199 评论",
-            "sentiment": "positive",
-            "comments": 199,
-            "url": "https://qwen.ai/blog?id=qwen-image-3.0",
+            "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
+            "insight": "HN 热议：163 分 · 153 评论",
+            "sentiment": "neutral",
+            "comments": 153,
+            "url": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "AI Didn't Make Programming Easier. It Just Made It Differently Difficult",
-            "insight": "HN 热议：12 分 · 0 评论",
+            "title": "\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
+            "insight": "HN 热议：10 分 · 3 评论",
             "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/",
+            "comments": 3,
+            "url": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
-            "insight": "HN 热议：62 分 · 55 评论",
-            "sentiment": "neutral",
-            "comments": 55,
-            "url": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
+            "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
+            "insight": "HN 热议：521 分 · 207 评论",
+            "sentiment": "positive",
+            "comments": 207,
+            "url": "https://qwen.ai/blog?id=qwen-image-3.0",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-21T18:59:50Z",
+    "updated": "2026-07-21T21:51:50Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-21T18:59:50Z",
+  "updated": "2026-07-21T21:51:50Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-      "insight": "HN 热议：411 分 · 332 评论",
+      "title": "OpenAI and Hugging Face address security incident during model evaluation",
+      "insight": "HN 热议：340 分 · 189 评论",
       "sentiment": "positive",
-      "comments": 332,
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
+      "comments": 189,
+      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Meta's AI Models Are Powering the First Wave of Genesis Mission Projects",
-      "insight": "HN 热议：50 分 · 30 评论",
-      "sentiment": "neutral",
-      "comments": 30,
-      "url": "https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/?_fb_noscript=1",
+      "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+      "insight": "HN 热议：534 分 · 431 评论",
+      "sentiment": "positive",
+      "comments": 431,
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
-      "insight": "HN 热议：487 分 · 199 评论",
-      "sentiment": "positive",
-      "comments": 199,
-      "url": "https://qwen.ai/blog?id=qwen-image-3.0",
+      "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
+      "insight": "HN 热议：163 分 · 153 评论",
+      "sentiment": "neutral",
+      "comments": 153,
+      "url": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "AI Didn't Make Programming Easier. It Just Made It Differently Difficult",
-      "insight": "HN 热议：12 分 · 0 评论",
+      "title": "\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
+      "insight": "HN 热议：10 分 · 3 评论",
       "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/",
+      "comments": 3,
+      "url": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
-      "insight": "HN 热议：62 分 · 55 评论",
-      "sentiment": "neutral",
-      "comments": 55,
-      "url": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
+      "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
+      "insight": "HN 热议：521 分 · 207 评论",
+      "sentiment": "positive",
+      "comments": 207,
+      "url": "https://qwen.ai/blog?id=qwen-image-3.0",
       "id": 5
     }
   ]
