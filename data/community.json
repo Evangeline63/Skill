@@ -1,48 +1,48 @@
 {
-  "updated": "2026-07-21T05:38:33Z",
+  "updated": "2026-07-21T08:03:14Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Who's afraid of Chinese models?",
-      "insight": "HN 热议：477 分 · 316 评论",
+      "insight": "HN 热议：583 分 · 393 评论",
       "sentiment": "positive",
-      "comments": 316,
+      "comments": 393,
       "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste",
-      "insight": "HN 热议：19 分 · 11 评论",
-      "sentiment": "neutral",
-      "comments": 11,
-      "url": "https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/",
+      "title": "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
+      "insight": "HN 热议：239 分 · 111 评论",
+      "sentiment": "positive",
+      "comments": 111,
+      "url": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
-      "insight": "HN 热议：98 分 · 19 评论",
+      "title": "A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste",
+      "insight": "HN 热议：28 分 · 21 评论",
       "sentiment": "neutral",
-      "comments": 19,
-      "url": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
+      "comments": 21,
+      "url": "https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "Agent swarms and the new model economics",
-      "insight": "HN 热议：162 分 · 73 评论",
+      "insight": "HN 热议：182 分 · 82 评论",
       "sentiment": "neutral",
-      "comments": 73,
+      "comments": 82,
       "url": "https://cursor.com/blog/agent-swarm-model-economics",
       "id": 4
     },
     {
       "source": "HackerNews",
       "title": "Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12",
-      "insight": "HN 热议：78 分 · 81 评论",
+      "insight": "HN 热议：85 分 · 86 评论",
       "sentiment": "neutral",
-      "comments": 81,
+      "comments": 86,
       "url": "https://news.ycombinator.com/item?id=48981136",
       "id": 5
     }
