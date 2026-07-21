@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-20T21:53:45Z",
+    "updated": "2026-07-21T01:20:32Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-20T21:53:45Z",
+    "updated": "2026-07-21T01:20:32Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-20T21:53:45Z",
+    "updated": "2026-07-21T01:20:32Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185619,
-            "stars_today": 185619,
+            "stars": 185621,
+            "stars_today": 185621,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 166070,
-            "stars_today": 166070,
+            "stars": 166079,
+            "stars_today": 166079,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95024,
-            "stars_today": 95024,
+            "stars": 95026,
+            "stars_today": 95026,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 87988,
-            "stars_today": 87988,
+            "stars": 88001,
+            "stars_today": 88001,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 81427,
-            "stars_today": 81427,
+            "stars": 81435,
+            "stars_today": 81435,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54775,
-            "stars_today": 54775,
+            "stars": 54777,
+            "stars_today": 54777,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-20T21:53:45Z",
+    "updated": "2026-07-21T01:20:32Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-20T21:53:45Z",
+    "updated": "2026-07-21T01:20:32Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-20T21:53:45Z",
+    "updated": "2026-07-21T01:20:32Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "China’s open-weights AI strategy is winning",
-            "insight": "HN 热议：788 分 · 652 评论",
+            "title": "Who's afraid of Chinese models?",
+            "insight": "HN 热议：230 分 · 156 评论",
             "sentiment": "positive",
-            "comments": 652,
-            "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
+            "comments": 156,
+            "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Who's Afraid of Chinese Models?",
-            "insight": "HN 热议：19 分 · 2 评论",
-            "sentiment": "neutral",
-            "comments": 2,
-            "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
+            "title": "Airport Simulator",
+            "insight": "HN 热议：695 分 · 142 评论",
+            "sentiment": "positive",
+            "comments": 142,
+            "url": "https://airport.apunen.com/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "How we measured AI writing across arXiv, and where the measurement breaks",
-            "insight": "HN 热议：177 分 · 129 评论",
+            "title": "Agent swarms and the new model economics",
+            "insight": "HN 热议：116 分 · 48 评论",
             "sentiment": "neutral",
-            "comments": 129,
-            "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+            "comments": 48,
+            "url": "https://cursor.com/blog/agent-swarm-model-economics",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Agent swarms and the new model economics",
-            "insight": "HN 热议：65 分 · 29 评论",
-            "sentiment": "neutral",
-            "comments": 29,
-            "url": "https://cursor.com/blog/agent-swarm-model-economics",
+            "title": "China’s open-weights AI strategy is winning",
+            "insight": "HN 热议：972 分 · 776 评论",
+            "sentiment": "positive",
+            "comments": 776,
+            "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Airport Simulator",
-            "insight": "HN 热议：606 分 · 119 评论",
-            "sentiment": "positive",
-            "comments": 119,
-            "url": "https://airport.apunen.com/",
+            "title": "Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12",
+            "insight": "HN 热议：58 分 · 74 评论",
+            "sentiment": "neutral",
+            "comments": 74,
+            "url": "https://news.ycombinator.com/item?id=48981136",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-20T21:53:45Z",
+    "updated": "2026-07-21T01:20:32Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
