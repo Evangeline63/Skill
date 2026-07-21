@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-21T16:12:19Z",
+    "updated": "2026-07-21T18:59:50Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-21T16:12:19Z",
+    "updated": "2026-07-21T18:59:50Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-21T16:12:19Z",
+    "updated": "2026-07-21T18:59:50Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185637,
-            "stars_today": 185637,
+            "stars": 185641,
+            "stars_today": 185641,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 166129,
-            "stars_today": 166129,
+            "stars": 166142,
+            "stars_today": 166142,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95033,
-            "stars_today": 95033,
+            "stars": 95035,
+            "stars_today": 95035,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 88115,
-            "stars_today": 88115,
+            "stars": 88128,
+            "stars_today": 88128,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 81556,
-            "stars_today": 81556,
+            "stars": 81570,
+            "stars_today": 81570,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54798,
-            "stars_today": 54798,
+            "stars": 54799,
+            "stars_today": 54799,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-21T16:12:19Z",
+    "updated": "2026-07-21T18:59:50Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-21T16:12:19Z",
+    "updated": "2026-07-21T18:59:50Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-21T16:12:19Z",
+    "updated": "2026-07-21T18:59:50Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-            "insight": "HN 热议：160 分 · 90 评论",
-            "sentiment": "neutral",
-            "comments": 90,
+            "insight": "HN 热议：411 分 · 332 评论",
+            "sentiment": "positive",
+            "comments": 332,
             "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
-            "insight": "HN 热议：422 分 · 175 评论",
-            "sentiment": "positive",
-            "comments": 175,
-            "url": "https://qwen.ai/blog?id=qwen-image-3.0",
+            "title": "Meta's AI Models Are Powering the First Wave of Genesis Mission Projects",
+            "insight": "HN 热议：50 分 · 30 评论",
+            "sentiment": "neutral",
+            "comments": 30,
+            "url": "https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/?_fb_noscript=1",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Who's afraid of Chinese models?",
-            "insight": "HN 热议：869 分 · 700 评论",
+            "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
+            "insight": "HN 热议：487 分 · 199 评论",
             "sentiment": "positive",
-            "comments": 700,
-            "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
+            "comments": 199,
+            "url": "https://qwen.ai/blog?id=qwen-image-3.0",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Claude Is Not a Compiler",
-            "insight": "HN 热议：78 分 · 69 评论",
+            "title": "AI Didn't Make Programming Easier. It Just Made It Differently Difficult",
+            "insight": "HN 热议：12 分 · 0 评论",
             "sentiment": "neutral",
-            "comments": 69,
-            "url": "https://blog.exe.dev/claude-is-not-a-compiler",
+            "comments": 0,
+            "url": "https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste",
-            "insight": "HN 热议：65 分 · 42 评论",
+            "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
+            "insight": "HN 热议：62 分 · 55 评论",
             "sentiment": "neutral",
-            "comments": 42,
-            "url": "https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/",
+            "comments": 55,
+            "url": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-21T16:12:19Z",
+    "updated": "2026-07-21T18:59:50Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
