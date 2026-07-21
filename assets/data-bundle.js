@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-21T13:10:02Z",
+    "updated": "2026-07-21T16:12:19Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-21T13:10:02Z",
+    "updated": "2026-07-21T16:12:19Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,7 +266,7 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-21T13:10:02Z",
+    "updated": "2026-07-21T16:12:19Z",
     "repos": [
         {
             "rank": 1,
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 166121,
-            "stars_today": 166121,
+            "stars": 166129,
+            "stars_today": 166129,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95035,
-            "stars_today": 95035,
+            "stars": 95033,
+            "stars_today": 95033,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 88098,
-            "stars_today": 88098,
+            "stars": 88115,
+            "stars_today": 88115,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 81541,
-            "stars_today": 81541,
+            "stars": 81556,
+            "stars_today": 81556,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54788,
-            "stars_today": 54788,
+            "stars": 54798,
+            "stars_today": 54798,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-21T13:10:02Z",
+    "updated": "2026-07-21T16:12:19Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-21T13:10:02Z",
+    "updated": "2026-07-21T16:12:19Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-21T13:10:02Z",
+    "updated": "2026-07-21T16:12:19Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
-            "insight": "HN 热议：257 分 · 120 评论",
-            "sentiment": "positive",
-            "comments": 120,
-            "url": "https://qwen.ai/blog?id=qwen-image-3.0",
+            "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+            "insight": "HN 热议：160 分 · 90 评论",
+            "sentiment": "neutral",
+            "comments": 90,
+            "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Who's afraid of Chinese models?",
-            "insight": "HN 热议：750 分 · 564 评论",
+            "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
+            "insight": "HN 热议：422 分 · 175 评论",
             "sentiment": "positive",
-            "comments": 564,
-            "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
+            "comments": 175,
+            "url": "https://qwen.ai/blog?id=qwen-image-3.0",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste",
-            "insight": "HN 热议：48 分 · 38 评论",
-            "sentiment": "neutral",
-            "comments": 38,
-            "url": "https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/",
+            "title": "Who's afraid of Chinese models?",
+            "insight": "HN 热议：869 分 · 700 评论",
+            "sentiment": "positive",
+            "comments": 700,
+            "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Agent swarms and the new model economics",
-            "insight": "HN 热议：228 分 · 103 评论",
-            "sentiment": "positive",
-            "comments": 103,
-            "url": "https://cursor.com/blog/agent-swarm-model-economics",
+            "title": "Claude Is Not a Compiler",
+            "insight": "HN 热议：78 分 · 69 评论",
+            "sentiment": "neutral",
+            "comments": 69,
+            "url": "https://blog.exe.dev/claude-is-not-a-compiler",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "China’s open-weights AI strategy is winning",
-            "insight": "HN 热议：1152 分 · 864 评论",
-            "sentiment": "positive",
-            "comments": 864,
-            "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
+            "title": "A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste",
+            "insight": "HN 热议：65 分 · 42 评论",
+            "sentiment": "neutral",
+            "comments": 42,
+            "url": "https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-21T13:10:02Z",
+    "updated": "2026-07-21T16:12:19Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
