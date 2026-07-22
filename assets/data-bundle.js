@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-22T13:15:33Z",
+    "updated": "2026-07-22T16:11:36Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-22T13:15:33Z",
+    "updated": "2026-07-22T16:11:36Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-22T13:15:33Z",
+    "updated": "2026-07-22T16:11:36Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185650,
-            "stars_today": 185650,
+            "stars": 185653,
+            "stars_today": 185653,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 166197,
-            "stars_today": 166197,
+            "stars": 166206,
+            "stars_today": 166206,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95097,
-            "stars_today": 95097,
+            "stars": 95114,
+            "stars_today": 95114,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 88204,
-            "stars_today": 88204,
+            "stars": 88225,
+            "stars_today": 88225,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 81688,
-            "stars_today": 81688,
+            "stars": 81705,
+            "stars_today": 81705,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54832,
-            "stars_today": 54832,
+            "stars": 54833,
+            "stars_today": 54833,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-22T13:15:33Z",
+    "updated": "2026-07-22T16:11:36Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-22T13:15:33Z",
+    "updated": "2026-07-22T16:11:36Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-22T13:15:33Z",
+    "updated": "2026-07-22T16:11:36Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "OverpAId – Fire your CEO. Hire the future",
-            "insight": "HN 热议：270 分 · 120 评论",
-            "sentiment": "positive",
-            "comments": 120,
-            "url": "https://overpaid.lol",
+            "title": "OpenAI Presence",
+            "insight": "HN 热议：27 分 · 0 评论",
+            "sentiment": "neutral",
+            "comments": 0,
+            "url": "https://openai.com/index/introducing-openai-presence/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "OpenAI and Hugging Face address security incident during model evaluation",
-            "insight": "HN 热议：1342 分 · 897 评论",
-            "sentiment": "positive",
-            "comments": 897,
-            "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+            "title": "Airbus Full Scale Foldable Wing Extensions",
+            "insight": "HN 热议：15 分 · 1 评论",
+            "sentiment": "neutral",
+            "comments": 1,
+            "url": "https://www.airbus.com/en/newsroom/press-releases/2026-07-airbus-launches-new-flight-test-programme-for-wing-of-tomorrow",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "So Reddit has decided that plain HTML is unsafe",
-            "insight": "HN 热议：60 分 · 23 评论",
+            "title": "Launch HN: Unlayer (YC W22) – Add email and document builders to your app",
+            "insight": "HN 热议：5 分 · 1 评论",
             "sentiment": "neutral",
-            "comments": 23,
-            "url": "https://www.cole-k.com/2026/07/21/reddit/",
+            "comments": 1,
+            "url": "https://unlayer.com",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Advertise in ChatGPT",
-            "insight": "HN 热议：902 分 · 695 评论",
-            "sentiment": "positive",
-            "comments": 695,
-            "url": "https://ads.openai.com/",
+            "title": "Six questions before you add an LLM",
+            "insight": "HN 热议：3 分 · 1 评论",
+            "sentiment": "neutral",
+            "comments": 1,
+            "url": "https://cameronmpalmer.medium.com/should-you-even-use-an-llm-b4f3b7914f4d",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
-            "insight": "HN 热议：444 分 · 403 评论",
-            "sentiment": "positive",
-            "comments": 403,
-            "url": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
+            "title": "A Zipper Patent Sat in a Garage for 40 Years. Now It's Real",
+            "insight": "HN 热议：13 分 · 2 评论",
+            "sentiment": "neutral",
+            "comments": 2,
+            "url": "https://www.yankodesign.com/2026/05/31/a-zipper-patent-sat-in-a-garage-for-40-years-now-its-real/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-22T13:15:33Z",
+    "updated": "2026-07-22T16:11:36Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
