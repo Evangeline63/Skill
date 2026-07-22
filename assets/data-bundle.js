@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-22T10:55:45Z",
+    "updated": "2026-07-22T13:15:33Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-22T10:55:45Z",
+    "updated": "2026-07-22T13:15:33Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-22T10:55:45Z",
+    "updated": "2026-07-22T13:15:33Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185648,
-            "stars_today": 185648,
+            "stars": 185650,
+            "stars_today": 185650,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 166187,
-            "stars_today": 166187,
+            "stars": 166197,
+            "stars_today": 166197,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95086,
-            "stars_today": 95086,
+            "stars": 95097,
+            "stars_today": 95097,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 88193,
-            "stars_today": 88193,
+            "stars": 88204,
+            "stars_today": 88204,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 81682,
-            "stars_today": 81682,
+            "stars": 81688,
+            "stars_today": 81688,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54830,
-            "stars_today": 54830,
+            "stars": 54832,
+            "stars_today": 54832,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-22T10:55:45Z",
+    "updated": "2026-07-22T13:15:33Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-22T10:55:45Z",
+    "updated": "2026-07-22T13:15:33Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-22T10:55:45Z",
+    "updated": "2026-07-22T13:15:33Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "OpenAI and Hugging Face address security incident during model evaluation",
-            "insight": "HN 热议：1204 分 · 831 评论",
+            "title": "OverpAId – Fire your CEO. Hire the future",
+            "insight": "HN 热议：270 分 · 120 评论",
             "sentiment": "positive",
-            "comments": 831,
-            "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+            "comments": 120,
+            "url": "https://overpaid.lol",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Advertise in ChatGPT",
-            "insight": "HN 热议：799 分 · 606 评论",
+            "title": "OpenAI and Hugging Face address security incident during model evaluation",
+            "insight": "HN 热议：1342 分 · 897 评论",
             "sentiment": "positive",
-            "comments": 606,
-            "url": "https://ads.openai.com/",
+            "comments": 897,
+            "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
-            "insight": "HN 热议：382 分 · 327 评论",
-            "sentiment": "positive",
-            "comments": 327,
-            "url": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
+            "title": "So Reddit has decided that plain HTML is unsafe",
+            "insight": "HN 热议：60 分 · 23 评论",
+            "sentiment": "neutral",
+            "comments": 23,
+            "url": "https://www.cole-k.com/2026/07/21/reddit/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-            "insight": "HN 热议：698 分 · 532 评论",
+            "title": "Advertise in ChatGPT",
+            "insight": "HN 热议：902 分 · 695 评论",
             "sentiment": "positive",
-            "comments": 532,
-            "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
+            "comments": 695,
+            "url": "https://ads.openai.com/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Codeberg: ToU extension to prohibit LLM-extrusions",
-            "insight": "HN 热议：16 分 · 15 评论",
-            "sentiment": "neutral",
-            "comments": 15,
-            "url": "https://codeberg.org/Codeberg/org/pulls/1253",
+            "title": "Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
+            "insight": "HN 热议：444 分 · 403 评论",
+            "sentiment": "positive",
+            "comments": 403,
+            "url": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-22T10:55:45Z",
+    "updated": "2026-07-22T13:15:33Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
