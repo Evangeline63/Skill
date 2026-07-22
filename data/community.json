@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-22T16:11:36Z",
+  "updated": "2026-07-22T18:53:16Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "OpenAI Presence",
-      "insight": "HN 热议：27 分 · 0 评论",
+      "title": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
+      "insight": "HN 热议：191 分 · 86 评论",
       "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://openai.com/index/introducing-openai-presence/",
+      "comments": 86,
+      "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Airbus Full Scale Foldable Wing Extensions",
-      "insight": "HN 热议：15 分 · 1 评论",
+      "title": "Can a MUD evaluate LLMs? A $99 proof of concept",
+      "insight": "HN 热议：54 分 · 25 评论",
       "sentiment": "neutral",
-      "comments": 1,
-      "url": "https://www.airbus.com/en/newsroom/press-releases/2026-07-airbus-launches-new-flight-test-programme-for-wing-of-tomorrow",
+      "comments": 25,
+      "url": "https://cruciblebench.ai/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Launch HN: Unlayer (YC W22) – Add email and document builders to your app",
-      "insight": "HN 热议：5 分 · 1 评论",
+      "title": "Are AI Labs Pelicanmaxxing?",
+      "insight": "HN 热议：41 分 · 11 评论",
       "sentiment": "neutral",
-      "comments": 1,
-      "url": "https://unlayer.com",
+      "comments": 11,
+      "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Six questions before you add an LLM",
-      "insight": "HN 热议：3 分 · 1 评论",
+      "title": "Launch HN: Unlayer (YC W22) – Add email and document builders to your app",
+      "insight": "HN 热议：26 分 · 17 评论",
       "sentiment": "neutral",
-      "comments": 1,
-      "url": "https://cameronmpalmer.medium.com/should-you-even-use-an-llm-b4f3b7914f4d",
+      "comments": 17,
+      "url": "https://unlayer.com",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "A Zipper Patent Sat in a Garage for 40 Years. Now It's Real",
-      "insight": "HN 热议：13 分 · 2 评论",
+      "title": "Show HN: DeepSQL – A self-hostable DBA agent for Postgres and MySQL",
+      "insight": "HN 热议：18 分 · 14 评论",
       "sentiment": "neutral",
-      "comments": 2,
-      "url": "https://www.yankodesign.com/2026/05/31/a-zipper-patent-sat-in-a-garage-for-40-years-now-its-real/",
+      "comments": 14,
+      "url": "https://deepsql.ai/",
       "id": 5
     }
   ]

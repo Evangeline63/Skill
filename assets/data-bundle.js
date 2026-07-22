@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-22T16:11:36Z",
+    "updated": "2026-07-22T18:53:16Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-22T16:11:36Z",
+    "updated": "2026-07-22T18:53:16Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-22T16:11:36Z",
+    "updated": "2026-07-22T18:53:16Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185653,
-            "stars_today": 185653,
+            "stars": 185652,
+            "stars_today": 185652,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 166206,
-            "stars_today": 166206,
+            "stars": 166214,
+            "stars_today": 166214,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95114,
-            "stars_today": 95114,
+            "stars": 95122,
+            "stars_today": 95122,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 88225,
-            "stars_today": 88225,
+            "stars": 88235,
+            "stars_today": 88235,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 81705,
-            "stars_today": 81705,
+            "stars": 81715,
+            "stars_today": 81715,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54833,
-            "stars_today": 54833,
+            "stars": 54836,
+            "stars_today": 54836,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-22T16:11:36Z",
+    "updated": "2026-07-22T18:53:16Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-22T16:11:36Z",
+    "updated": "2026-07-22T18:53:16Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-22T16:11:36Z",
+    "updated": "2026-07-22T18:53:16Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "OpenAI Presence",
-            "insight": "HN 热议：27 分 · 0 评论",
+            "title": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
+            "insight": "HN 热议：191 分 · 86 评论",
             "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://openai.com/index/introducing-openai-presence/",
+            "comments": 86,
+            "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Airbus Full Scale Foldable Wing Extensions",
-            "insight": "HN 热议：15 分 · 1 评论",
+            "title": "Can a MUD evaluate LLMs? A $99 proof of concept",
+            "insight": "HN 热议：54 分 · 25 评论",
             "sentiment": "neutral",
-            "comments": 1,
-            "url": "https://www.airbus.com/en/newsroom/press-releases/2026-07-airbus-launches-new-flight-test-programme-for-wing-of-tomorrow",
+            "comments": 25,
+            "url": "https://cruciblebench.ai/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Launch HN: Unlayer (YC W22) – Add email and document builders to your app",
-            "insight": "HN 热议：5 分 · 1 评论",
+            "title": "Are AI Labs Pelicanmaxxing?",
+            "insight": "HN 热议：41 分 · 11 评论",
             "sentiment": "neutral",
-            "comments": 1,
-            "url": "https://unlayer.com",
+            "comments": 11,
+            "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Six questions before you add an LLM",
-            "insight": "HN 热议：3 分 · 1 评论",
+            "title": "Launch HN: Unlayer (YC W22) – Add email and document builders to your app",
+            "insight": "HN 热议：26 分 · 17 评论",
             "sentiment": "neutral",
-            "comments": 1,
-            "url": "https://cameronmpalmer.medium.com/should-you-even-use-an-llm-b4f3b7914f4d",
+            "comments": 17,
+            "url": "https://unlayer.com",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "A Zipper Patent Sat in a Garage for 40 Years. Now It's Real",
-            "insight": "HN 热议：13 分 · 2 评论",
+            "title": "Show HN: DeepSQL – A self-hostable DBA agent for Postgres and MySQL",
+            "insight": "HN 热议：18 分 · 14 评论",
             "sentiment": "neutral",
-            "comments": 2,
-            "url": "https://www.yankodesign.com/2026/05/31/a-zipper-patent-sat-in-a-garage-for-40-years-now-its-real/",
+            "comments": 14,
+            "url": "https://deepsql.ai/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-22T16:11:36Z",
+    "updated": "2026-07-22T18:53:16Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
