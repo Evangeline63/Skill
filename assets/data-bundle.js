@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-22T08:04:04Z",
+    "updated": "2026-07-22T10:55:45Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-22T08:04:04Z",
+    "updated": "2026-07-22T10:55:45Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-22T08:04:04Z",
+    "updated": "2026-07-22T10:55:45Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185649,
-            "stars_today": 185649,
+            "stars": 185648,
+            "stars_today": 185648,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 166180,
-            "stars_today": 166180,
+            "stars": 166187,
+            "stars_today": 166187,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95073,
-            "stars_today": 95073,
+            "stars": 95086,
+            "stars_today": 95086,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 88179,
-            "stars_today": 88179,
+            "stars": 88193,
+            "stars_today": 88193,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 81654,
-            "stars_today": 81654,
+            "stars": 81682,
+            "stars_today": 81682,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54825,
-            "stars_today": 54825,
+            "stars": 54830,
+            "stars_today": 54830,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-22T08:04:04Z",
+    "updated": "2026-07-22T10:55:45Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-22T08:04:04Z",
+    "updated": "2026-07-22T10:55:45Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-22T08:04:04Z",
+    "updated": "2026-07-22T10:55:45Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "OpenAI and Hugging Face address security incident during model evaluation",
-            "insight": "HN 热议：1061 分 · 715 评论",
+            "insight": "HN 热议：1204 分 · 831 评论",
             "sentiment": "positive",
-            "comments": 715,
+            "comments": 831,
             "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "Advertise in ChatGPT",
-            "insight": "HN 热议：687 分 · 473 评论",
+            "insight": "HN 热议：799 分 · 606 评论",
             "sentiment": "positive",
-            "comments": 473,
+            "comments": 606,
             "url": "https://ads.openai.com/",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
-            "insight": "HN 热议：321 分 · 234 评论",
+            "insight": "HN 热议：382 分 · 327 评论",
             "sentiment": "positive",
-            "comments": 234,
+            "comments": 327,
             "url": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
             "id": 3
         },
         {
             "source": "HackerNews",
             "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-            "insight": "HN 热议：675 分 · 516 评论",
+            "insight": "HN 热议：698 分 · 532 评论",
             "sentiment": "positive",
-            "comments": 516,
+            "comments": 532,
             "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: A new kind of FPS aim trainer",
-            "insight": "HN 热议：24 分 · 7 评论",
+            "title": "Codeberg: ToU extension to prohibit LLM-extrusions",
+            "insight": "HN 热议：16 分 · 15 评论",
             "sentiment": "neutral",
-            "comments": 7,
-            "url": "https://openaim.pramit.gg/",
+            "comments": 15,
+            "url": "https://codeberg.org/Codeberg/org/pulls/1253",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-22T08:04:04Z",
+    "updated": "2026-07-22T10:55:45Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
