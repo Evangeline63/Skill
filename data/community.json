@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-23T10:56:02Z",
+  "updated": "2026-07-23T13:18:36Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
-      "insight": "HN 热议：902 分 · 524 评论",
+      "insight": "HN 热议：976 分 · 557 评论",
       "sentiment": "positive",
-      "comments": 524,
+      "comments": 557,
       "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Quality non-fiction books are the antithesis of AI slop",
-      "insight": "HN 热议：378 分 · 134 评论",
-      "sentiment": "positive",
-      "comments": 134,
-      "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
+      "title": "Alphabet's cash burn raises alarm for Big Tech as AI spending climbs",
+      "insight": "HN 热议：17 分 · 2 评论",
+      "sentiment": "neutral",
+      "comments": 2,
+      "url": "https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "ANSI escape injection in MCP servers: Hidden from humans, visible to AI",
-      "insight": "HN 热议：22 分 · 7 评论",
-      "sentiment": "neutral",
-      "comments": 7,
-      "url": "https://brightsec.com/research/detecting-ansi-escape-sequence-injection-in-mcp-servers-with-dast/",
+      "title": "Quality non-fiction books are the antithesis of AI slop",
+      "insight": "HN 热议：415 分 · 187 评论",
+      "sentiment": "positive",
+      "comments": 187,
+      "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Are AI labs pelicanmaxxing?",
-      "insight": "HN 热议：558 分 · 214 评论",
-      "sentiment": "positive",
-      "comments": 214,
-      "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
+      "title": "Test-time training 3D reconstruction",
+      "insight": "HN 热议：10 分 · 0 评论",
+      "sentiment": "neutral",
+      "comments": 0,
+      "url": "https://github.com/Inception3D/TTT3R",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "So Reddit has decided that plain HTML is unsafe",
-      "insight": "HN 热议：488 分 · 486 评论",
+      "title": "Are AI labs pelicanmaxxing?",
+      "insight": "HN 热议：592 分 · 229 评论",
       "sentiment": "positive",
-      "comments": 486,
-      "url": "https://www.cole-k.com/2026/07/21/reddit/",
+      "comments": 229,
+      "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
       "id": 5
     }
   ]

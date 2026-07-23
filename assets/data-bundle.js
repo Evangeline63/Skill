@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-23T10:56:02Z",
+    "updated": "2026-07-23T13:18:36Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-23T10:56:02Z",
+    "updated": "2026-07-23T13:18:36Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-23T10:56:02Z",
+    "updated": "2026-07-23T13:18:36Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185650,
-            "stars_today": 185650,
+            "stars": 185649,
+            "stars_today": 185649,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 166242,
-            "stars_today": 166242,
+            "stars": 166245,
+            "stars_today": 166245,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95144,
-            "stars_today": 95144,
+            "stars": 95151,
+            "stars_today": 95151,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 88312,
-            "stars_today": 88312,
+            "stars": 88325,
+            "stars_today": 88325,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 81804,
-            "stars_today": 81804,
+            "stars": 81815,
+            "stars_today": 81815,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54852,
-            "stars_today": 54852,
+            "stars": 54854,
+            "stars_today": 54854,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-23T10:56:02Z",
+    "updated": "2026-07-23T13:18:36Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-23T10:56:02Z",
+    "updated": "2026-07-23T13:18:36Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-23T10:56:02Z",
+    "updated": "2026-07-23T13:18:36Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
-            "insight": "HN 热议：902 分 · 524 评论",
+            "insight": "HN 热议：976 分 · 557 评论",
             "sentiment": "positive",
-            "comments": 524,
+            "comments": 557,
             "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Quality non-fiction books are the antithesis of AI slop",
-            "insight": "HN 热议：378 分 · 134 评论",
-            "sentiment": "positive",
-            "comments": 134,
-            "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
+            "title": "Alphabet's cash burn raises alarm for Big Tech as AI spending climbs",
+            "insight": "HN 热议：17 分 · 2 评论",
+            "sentiment": "neutral",
+            "comments": 2,
+            "url": "https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "ANSI escape injection in MCP servers: Hidden from humans, visible to AI",
-            "insight": "HN 热议：22 分 · 7 评论",
-            "sentiment": "neutral",
-            "comments": 7,
-            "url": "https://brightsec.com/research/detecting-ansi-escape-sequence-injection-in-mcp-servers-with-dast/",
+            "title": "Quality non-fiction books are the antithesis of AI slop",
+            "insight": "HN 热议：415 分 · 187 评论",
+            "sentiment": "positive",
+            "comments": 187,
+            "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Are AI labs pelicanmaxxing?",
-            "insight": "HN 热议：558 分 · 214 评论",
-            "sentiment": "positive",
-            "comments": 214,
-            "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
+            "title": "Test-time training 3D reconstruction",
+            "insight": "HN 热议：10 分 · 0 评论",
+            "sentiment": "neutral",
+            "comments": 0,
+            "url": "https://github.com/Inception3D/TTT3R",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "So Reddit has decided that plain HTML is unsafe",
-            "insight": "HN 热议：488 分 · 486 评论",
+            "title": "Are AI labs pelicanmaxxing?",
+            "insight": "HN 热议：592 分 · 229 评论",
             "sentiment": "positive",
-            "comments": 486,
-            "url": "https://www.cole-k.com/2026/07/21/reddit/",
+            "comments": 229,
+            "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-23T10:56:02Z",
+    "updated": "2026-07-23T13:18:36Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
