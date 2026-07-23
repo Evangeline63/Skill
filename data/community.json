@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-23T01:26:23Z",
+  "updated": "2026-07-23T05:42:30Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
-      "insight": "HN 热议：580 分 · 359 评论",
+      "title": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
+      "insight": "HN 热议：734 分 · 441 评论",
       "sentiment": "positive",
-      "comments": 359,
+      "comments": 441,
       "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "Quality non-fiction books are the antithesis of AI slop",
-      "insight": "HN 热议：138 分 · 71 评论",
-      "sentiment": "neutral",
-      "comments": 71,
+      "insight": "HN 热议：259 分 · 97 评论",
+      "sentiment": "positive",
+      "comments": 97,
       "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Are AI Labs Pelicanmaxxing?",
-      "insight": "HN 热议：386 分 · 151 评论",
+      "title": "Are AI labs pelicanmaxxing?",
+      "insight": "HN 热议：449 分 · 175 评论",
       "sentiment": "positive",
-      "comments": 151,
+      "comments": 175,
       "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Fairphone 6 wide camera experimental Linux support",
-      "insight": "HN 热议：68 分 · 2 评论",
-      "sentiment": "neutral",
-      "comments": 2,
-      "url": "https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/",
+      "title": "So Reddit has decided that plain HTML is unsafe",
+      "insight": "HN 热议：363 分 · 362 评论",
+      "sentiment": "positive",
+      "comments": 362,
+      "url": "https://www.cole-k.com/2026/07/21/reddit/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "So Reddit has decided that plain HTML is unsafe",
-      "insight": "HN 热议：266 分 · 277 评论",
-      "sentiment": "positive",
-      "comments": 277,
-      "url": "https://www.cole-k.com/2026/07/21/reddit/",
+      "title": "Fairphone 6 wide camera experimental Linux support",
+      "insight": "HN 热议：93 分 · 13 评论",
+      "sentiment": "neutral",
+      "comments": 13,
+      "url": "https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/",
       "id": 5
     }
   ]

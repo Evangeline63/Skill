@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-23T01:26:23Z",
+    "updated": "2026-07-23T05:42:30Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-23T01:26:23Z",
+    "updated": "2026-07-23T05:42:30Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,7 +266,7 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-23T01:26:23Z",
+    "updated": "2026-07-23T05:42:30Z",
     "repos": [
         {
             "rank": 1,
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 166217,
-            "stars_today": 166217,
+            "stars": 166227,
+            "stars_today": 166227,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95128,
-            "stars_today": 95128,
+            "stars": 95133,
+            "stars_today": 95133,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 88262,
-            "stars_today": 88262,
+            "stars": 88286,
+            "stars_today": 88286,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 81733,
-            "stars_today": 81733,
+            "stars": 81763,
+            "stars_today": 81763,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54839,
-            "stars_today": 54839,
+            "stars": 54849,
+            "stars_today": 54849,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-23T01:26:23Z",
+    "updated": "2026-07-23T05:42:30Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-23T01:26:23Z",
+    "updated": "2026-07-23T05:42:30Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-23T01:26:23Z",
+    "updated": "2026-07-23T05:42:30Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
-            "insight": "HN 热议：580 分 · 359 评论",
+            "title": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
+            "insight": "HN 热议：734 分 · 441 评论",
             "sentiment": "positive",
-            "comments": 359,
+            "comments": 441,
             "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "Quality non-fiction books are the antithesis of AI slop",
-            "insight": "HN 热议：138 分 · 71 评论",
-            "sentiment": "neutral",
-            "comments": 71,
+            "insight": "HN 热议：259 分 · 97 评论",
+            "sentiment": "positive",
+            "comments": 97,
             "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Are AI Labs Pelicanmaxxing?",
-            "insight": "HN 热议：386 分 · 151 评论",
+            "title": "Are AI labs pelicanmaxxing?",
+            "insight": "HN 热议：449 分 · 175 评论",
             "sentiment": "positive",
-            "comments": 151,
+            "comments": 175,
             "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Fairphone 6 wide camera experimental Linux support",
-            "insight": "HN 热议：68 分 · 2 评论",
-            "sentiment": "neutral",
-            "comments": 2,
-            "url": "https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/",
+            "title": "So Reddit has decided that plain HTML is unsafe",
+            "insight": "HN 热议：363 分 · 362 评论",
+            "sentiment": "positive",
+            "comments": 362,
+            "url": "https://www.cole-k.com/2026/07/21/reddit/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "So Reddit has decided that plain HTML is unsafe",
-            "insight": "HN 热议：266 分 · 277 评论",
-            "sentiment": "positive",
-            "comments": 277,
-            "url": "https://www.cole-k.com/2026/07/21/reddit/",
+            "title": "Fairphone 6 wide camera experimental Linux support",
+            "insight": "HN 热议：93 分 · 13 评论",
+            "sentiment": "neutral",
+            "comments": 13,
+            "url": "https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-23T01:26:23Z",
+    "updated": "2026-07-23T05:42:30Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
