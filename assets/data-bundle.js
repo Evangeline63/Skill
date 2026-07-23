@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-23T16:17:45Z",
+    "updated": "2026-07-23T18:55:38Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-23T16:17:45Z",
+    "updated": "2026-07-23T18:55:38Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-23T16:17:45Z",
+    "updated": "2026-07-23T18:55:38Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185655,
-            "stars_today": 185655,
+            "stars": 185657,
+            "stars_today": 185657,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 166253,
-            "stars_today": 166253,
+            "stars": 166257,
+            "stars_today": 166257,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95154,
-            "stars_today": 95154,
+            "stars": 95155,
+            "stars_today": 95155,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 88344,
-            "stars_today": 88344,
+            "stars": 88356,
+            "stars_today": 88356,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 81839,
-            "stars_today": 81839,
+            "stars": 81851,
+            "stars_today": 81851,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54862,
-            "stars_today": 54862,
+            "stars": 54864,
+            "stars_today": 54864,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-23T16:17:45Z",
+    "updated": "2026-07-23T18:55:38Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-23T16:17:45Z",
+    "updated": "2026-07-23T18:55:38Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-23T16:17:45Z",
+    "updated": "2026-07-23T18:55:38Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Writing by hand is good for your brain",
-            "insight": "HN 热议：211 分 · 76 评论",
+            "insight": "HN 热议：544 分 · 272 评论",
             "sentiment": "positive",
-            "comments": 76,
+            "comments": 272,
             "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Startup founders urge Trump not to shut off Chinese open weight AI",
-            "insight": "HN 热议：166 分 · 163 评论",
+            "title": "Why Software Factories Fail (or: harness engineering is not enough)",
+            "insight": "HN 热议：62 分 · 42 评论",
             "sentiment": "neutral",
-            "comments": 163,
-            "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+            "comments": 42,
+            "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "How much energy do data centers and artificial intelligence use?",
-            "insight": "HN 热议：31 分 · 15 评论",
-            "sentiment": "neutral",
-            "comments": 15,
-            "url": "https://ourworldindata.org/how-much-energy-do-data-centers-and-artificial-intelligence-use",
+            "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
+            "insight": "HN 热议：421 分 · 435 评论",
+            "sentiment": "positive",
+            "comments": 435,
+            "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "AI Companies Are Trying to Hide a Staggering Amount of Debt",
-            "insight": "HN 热议：276 分 · 131 评论",
-            "sentiment": "positive",
-            "comments": 131,
-            "url": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet",
+            "title": "Launch HN: Screenpipe (YC S26) – Power your agents by your 24/7 screen recording",
+            "insight": "HN 热议：27 分 · 23 评论",
+            "sentiment": "neutral",
+            "comments": 23,
+            "url": "https://news.ycombinator.com/item?id=49024620",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Writing fingerprint analysis of responses reveals Kimi's similarity to Claude",
-            "insight": "HN 热议：29 分 · 39 评论",
+            "title": "The arguments against open source AI are bad",
+            "insight": "HN 热议：60 分 · 30 评论",
             "sentiment": "neutral",
-            "comments": 39,
-            "url": "https://typebulb.com/u/lab/you-re-relatively-right/full",
+            "comments": 30,
+            "url": "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-23T16:17:45Z",
+    "updated": "2026-07-23T18:55:38Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
