@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-23T08:06:15Z",
+  "updated": "2026-07-23T10:56:02Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
-      "insight": "HN 热议：824 分 · 480 评论",
+      "insight": "HN 热议：902 分 · 524 评论",
       "sentiment": "positive",
-      "comments": 480,
+      "comments": 524,
       "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "Quality non-fiction books are the antithesis of AI slop",
-      "insight": "HN 热议：325 分 · 107 评论",
+      "insight": "HN 热议：378 分 · 134 评论",
       "sentiment": "positive",
-      "comments": 107,
+      "comments": 134,
       "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Are AI labs pelicanmaxxing?",
-      "insight": "HN 热议：500 分 · 195 评论",
-      "sentiment": "positive",
-      "comments": 195,
-      "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
+      "title": "ANSI escape injection in MCP servers: Hidden from humans, visible to AI",
+      "insight": "HN 热议：22 分 · 7 评论",
+      "sentiment": "neutral",
+      "comments": 7,
+      "url": "https://brightsec.com/research/detecting-ansi-escape-sequence-injection-in-mcp-servers-with-dast/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "So Reddit has decided that plain HTML is unsafe",
-      "insight": "HN 热议：433 分 · 404 评论",
+      "title": "Are AI labs pelicanmaxxing?",
+      "insight": "HN 热议：558 分 · 214 评论",
       "sentiment": "positive",
-      "comments": 404,
-      "url": "https://www.cole-k.com/2026/07/21/reddit/",
+      "comments": 214,
+      "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "ANSI escape injection in MCP servers: Hidden from humans, visible to AI",
-      "insight": "HN 热议：3 分 · 0 评论",
-      "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://brightsec.com/research/detecting-ansi-escape-sequence-injection-in-mcp-servers-with-dast/",
+      "title": "So Reddit has decided that plain HTML is unsafe",
+      "insight": "HN 热议：488 分 · 486 评论",
+      "sentiment": "positive",
+      "comments": 486,
+      "url": "https://www.cole-k.com/2026/07/21/reddit/",
       "id": 5
     }
   ]
