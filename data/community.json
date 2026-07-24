@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-24T13:12:19Z",
+  "updated": "2026-07-24T19:07:54Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "I Tried Building a Real App with AI. It Took a Year",
-      "insight": "HN 热议：12 分 · 3 评论",
-      "sentiment": "neutral",
-      "comments": 3,
-      "url": "https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year/",
+      "title": "Claude Opus 5",
+      "insight": "HN 热议：699 分 · 394 评论",
+      "sentiment": "positive",
+      "comments": 394,
+      "url": "https://www.anthropic.com/news/claude-opus-5",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "IRGC Claims It Destroyed Amazon's Bahrain Data Center",
-      "insight": "HN 热议：30 分 · 11 评论",
+      "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
+      "insight": "HN 热议：144 分 · 107 评论",
       "sentiment": "neutral",
-      "comments": 11,
-      "url": "https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/",
+      "comments": 107,
+      "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Claude Cookbook",
-      "insight": "HN 热议：147 分 · 72 评论",
+      "title": "Half-Life 2 running natively on HaikuOS",
+      "insight": "HN 热议：191 分 · 29 评论",
       "sentiment": "neutral",
-      "comments": 72,
-      "url": "https://platform.claude.com/cookbook/",
+      "comments": 29,
+      "url": "https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Writing by hand is good for your brain",
-      "insight": "HN 热议：1362 分 · 620 评论",
+      "title": "Be skeptical of OpenAI's rogue hacker agent story",
+      "insight": "HN 热议：210 分 · 80 评论",
       "sentiment": "positive",
-      "comments": 620,
-      "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
+      "comments": 80,
+      "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Launching Health in ChatGPT to US Users",
-      "insight": "HN 热议：22 分 · 33 评论",
+      "title": "Self-host your mail server",
+      "insight": "HN 热议：24 分 · 13 评论",
       "sentiment": "neutral",
-      "comments": 33,
-      "url": "https://openai.com/index/health-in-chatgpt/",
+      "comments": 13,
+      "url": "https://blog.haschek.at/2026/you-should-selfhost-your-mail.html",
       "id": 5
     }
   ]
