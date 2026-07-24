@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-24T10:51:41Z",
+    "updated": "2026-07-24T13:12:19Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-24T10:51:41Z",
+    "updated": "2026-07-24T13:12:19Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-24T10:51:41Z",
+    "updated": "2026-07-24T13:12:19Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185669,
-            "stars_today": 185669,
+            "stars": 185674,
+            "stars_today": 185674,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 166281,
-            "stars_today": 166281,
+            "stars": 166289,
+            "stars_today": 166289,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95178,
-            "stars_today": 95178,
+            "stars": 95183,
+            "stars_today": 95183,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 88422,
-            "stars_today": 88422,
+            "stars": 88432,
+            "stars_today": 88432,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 81923,
-            "stars_today": 81923,
+            "stars": 81936,
+            "stars_today": 81936,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54886,
-            "stars_today": 54886,
+            "stars": 54887,
+            "stars_today": 54887,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-24T10:51:41Z",
+    "updated": "2026-07-24T13:12:19Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-24T10:51:41Z",
+    "updated": "2026-07-24T13:12:19Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-24T10:51:41Z",
+    "updated": "2026-07-24T13:12:19Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Writing by hand is good for your brain",
-            "insight": "HN 热议：1332 分 · 602 评论",
-            "sentiment": "positive",
-            "comments": 602,
-            "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
+            "title": "I Tried Building a Real App with AI. It Took a Year",
+            "insight": "HN 热议：12 分 · 3 评论",
+            "sentiment": "neutral",
+            "comments": 3,
+            "url": "https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
-            "insight": "HN 热议：952 分 · 783 评论",
-            "sentiment": "positive",
-            "comments": 783,
-            "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+            "title": "IRGC Claims It Destroyed Amazon's Bahrain Data Center",
+            "insight": "HN 热议：30 分 · 11 评论",
+            "sentiment": "neutral",
+            "comments": 11,
+            "url": "https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "Claude Cookbook",
-            "insight": "HN 热议：74 分 · 25 评论",
+            "insight": "HN 热议：147 分 · 72 评论",
             "sentiment": "neutral",
-            "comments": 25,
+            "comments": 72,
             "url": "https://platform.claude.com/cookbook/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Why Software Factories Fail (or: harness engineering is not enough)",
-            "insight": "HN 热议：328 分 · 234 评论",
+            "title": "Writing by hand is good for your brain",
+            "insight": "HN 热议：1362 分 · 620 评论",
             "sentiment": "positive",
-            "comments": 234,
-            "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
+            "comments": 620,
+            "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "DARPA, U.S. Air Force fly AI-controlled F-16",
-            "insight": "HN 热议：250 分 · 278 评论",
-            "sentiment": "positive",
-            "comments": 278,
-            "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
+            "title": "Launching Health in ChatGPT to US Users",
+            "insight": "HN 热议：22 分 · 33 评论",
+            "sentiment": "neutral",
+            "comments": 33,
+            "url": "https://openai.com/index/health-in-chatgpt/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-24T10:51:41Z",
+    "updated": "2026-07-24T13:12:19Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-24T10:51:41Z",
+  "updated": "2026-07-24T13:12:19Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Writing by hand is good for your brain",
-      "insight": "HN 热议：1332 分 · 602 评论",
-      "sentiment": "positive",
-      "comments": 602,
-      "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
+      "title": "I Tried Building a Real App with AI. It Took a Year",
+      "insight": "HN 热议：12 分 · 3 评论",
+      "sentiment": "neutral",
+      "comments": 3,
+      "url": "https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
-      "insight": "HN 热议：952 分 · 783 评论",
-      "sentiment": "positive",
-      "comments": 783,
-      "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+      "title": "IRGC Claims It Destroyed Amazon's Bahrain Data Center",
+      "insight": "HN 热议：30 分 · 11 评论",
+      "sentiment": "neutral",
+      "comments": 11,
+      "url": "https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "Claude Cookbook",
-      "insight": "HN 热议：74 分 · 25 评论",
+      "insight": "HN 热议：147 分 · 72 评论",
       "sentiment": "neutral",
-      "comments": 25,
+      "comments": 72,
       "url": "https://platform.claude.com/cookbook/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Why Software Factories Fail (or: harness engineering is not enough)",
-      "insight": "HN 热议：328 分 · 234 评论",
+      "title": "Writing by hand is good for your brain",
+      "insight": "HN 热议：1362 分 · 620 评论",
       "sentiment": "positive",
-      "comments": 234,
-      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
+      "comments": 620,
+      "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "DARPA, U.S. Air Force fly AI-controlled F-16",
-      "insight": "HN 热议：250 分 · 278 评论",
-      "sentiment": "positive",
-      "comments": 278,
-      "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
+      "title": "Launching Health in ChatGPT to US Users",
+      "insight": "HN 热议：22 分 · 33 评论",
+      "sentiment": "neutral",
+      "comments": 33,
+      "url": "https://openai.com/index/health-in-chatgpt/",
       "id": 5
     }
   ]
