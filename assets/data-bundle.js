@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-24T19:07:54Z",
+    "updated": "2026-07-24T21:52:31Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-24T19:07:54Z",
+    "updated": "2026-07-24T21:52:31Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-24T19:07:54Z",
+    "updated": "2026-07-24T21:52:31Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185675,
-            "stars_today": 185675,
+            "stars": 185674,
+            "stars_today": 185674,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 166303,
-            "stars_today": 166303,
+            "stars": 166304,
+            "stars_today": 166304,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95190,
-            "stars_today": 95190,
+            "stars": 95193,
+            "stars_today": 95193,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 88459,
-            "stars_today": 88459,
+            "stars": 88471,
+            "stars_today": 88471,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 81977,
-            "stars_today": 81977,
+            "stars": 81987,
+            "stars_today": 81987,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54892,
-            "stars_today": 54892,
+            "stars": 54897,
+            "stars_today": 54897,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-24T19:07:54Z",
+    "updated": "2026-07-24T21:52:31Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-24T19:07:54Z",
+    "updated": "2026-07-24T21:52:31Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-24T19:07:54Z",
+    "updated": "2026-07-24T21:52:31Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Claude Opus 5",
-            "insight": "HN 热议：699 分 · 394 评论",
+            "insight": "HN 热议：1078 分 · 574 评论",
             "sentiment": "positive",
-            "comments": 394,
+            "comments": 574,
             "url": "https://www.anthropic.com/news/claude-opus-5",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
-            "insight": "HN 热议：144 分 · 107 评论",
-            "sentiment": "neutral",
-            "comments": 107,
+            "insight": "HN 热议：393 分 · 193 评论",
+            "sentiment": "positive",
+            "comments": 193,
             "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "Half-Life 2 running natively on HaikuOS",
-            "insight": "HN 热议：191 分 · 29 评论",
-            "sentiment": "neutral",
-            "comments": 29,
+            "insight": "HN 热议：236 分 · 42 评论",
+            "sentiment": "positive",
+            "comments": 42,
             "url": "https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Be skeptical of OpenAI's rogue hacker agent story",
-            "insight": "HN 热议：210 分 · 80 评论",
-            "sentiment": "positive",
-            "comments": 80,
-            "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
+            "title": "Firefox Containers Preview",
+            "insight": "HN 热议：162 分 · 65 评论",
+            "sentiment": "neutral",
+            "comments": 65,
+            "url": "https://blog.mozilla.org/en/firefox/firefox-containers-preview/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Self-host your mail server",
-            "insight": "HN 热议：24 分 · 13 评论",
-            "sentiment": "neutral",
-            "comments": 13,
-            "url": "https://blog.haschek.at/2026/you-should-selfhost-your-mail.html",
+            "title": "Be skeptical of OpenAI's rogue hacker agent story",
+            "insight": "HN 热议：339 分 · 177 评论",
+            "sentiment": "positive",
+            "comments": 177,
+            "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-24T19:07:54Z",
+    "updated": "2026-07-24T21:52:31Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
