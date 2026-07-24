@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-23T21:53:42Z",
+  "updated": "2026-07-24T01:22:52Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Writing by hand is good for your brain",
-      "insight": "HN 热议：809 分 · 408 评论",
+      "insight": "HN 热议：961 分 · 475 评论",
       "sentiment": "positive",
-      "comments": 408,
+      "comments": 475,
       "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
-      "insight": "HN 热议：603 分 · 573 评论",
-      "sentiment": "positive",
-      "comments": 573,
-      "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+      "title": "A Taxonomy of Omnicidal Futures Involving Artificial Intelligence",
+      "insight": "HN 热议：42 分 · 31 评论",
+      "sentiment": "neutral",
+      "comments": 31,
+      "url": "https://arxiv.org/abs/2507.09369",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Palmier Pro – Open-source macOS video editor built for AI",
-      "insight": "HN 热议：93 分 · 16 评论",
-      "sentiment": "neutral",
-      "comments": 16,
-      "url": "https://github.com/palmier-io/palmier-pro",
+      "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
+      "insight": "HN 热议：711 分 · 641 评论",
+      "sentiment": "positive",
+      "comments": 641,
+      "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "DARPA, U.S. Air Force fly AI-controlled F-16",
-      "insight": "HN 热议：133 分 · 142 评论",
+      "title": "Why Software Factories Fail (or: harness engineering is not enough)",
+      "insight": "HN 热议：169 分 · 138 评论",
       "sentiment": "neutral",
-      "comments": 142,
-      "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
+      "comments": 138,
+      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Launch HN: Screenpipe (YC S26) – Record how you work and turn that into agents",
-      "insight": "HN 热议：45 分 · 47 评论",
+      "title": "Show HN: Palmier Pro – Open-source macOS video editor built for AI",
+      "insight": "HN 热议：118 分 · 18 评论",
       "sentiment": "neutral",
-      "comments": 47,
-      "url": "https://news.ycombinator.com/item?id=49024620",
+      "comments": 18,
+      "url": "https://github.com/palmier-io/palmier-pro",
       "id": 5
     }
   ]
