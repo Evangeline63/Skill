@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-24T05:38:31Z",
+    "updated": "2026-07-24T08:02:57Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-24T05:38:31Z",
+    "updated": "2026-07-24T08:02:57Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-24T05:38:31Z",
+    "updated": "2026-07-24T08:02:57Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185662,
-            "stars_today": 185662,
+            "stars": 185664,
+            "stars_today": 185664,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95168,
-            "stars_today": 95168,
+            "stars": 95176,
+            "stars_today": 95176,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 88397,
-            "stars_today": 88397,
+            "stars": 88405,
+            "stars_today": 88405,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 81898,
-            "stars_today": 81898,
+            "stars": 81908,
+            "stars_today": 81908,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54879,
-            "stars_today": 54879,
+            "stars": 54882,
+            "stars_today": 54882,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-24T05:38:31Z",
+    "updated": "2026-07-24T08:02:57Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-24T05:38:31Z",
+    "updated": "2026-07-24T08:02:57Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-24T05:38:31Z",
+    "updated": "2026-07-24T08:02:57Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Writing by hand is good for your brain",
-            "insight": "HN 热议：1139 分 · 536 评论",
+            "insight": "HN 热议：1250 分 · 561 评论",
             "sentiment": "positive",
-            "comments": 536,
+            "comments": 561,
             "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
-            "insight": "HN 热议：824 分 · 713 评论",
+            "insight": "HN 热议：889 分 · 746 评论",
             "sentiment": "positive",
-            "comments": 713,
+            "comments": 746,
             "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "Why Software Factories Fail (or: harness engineering is not enough)",
-            "insight": "HN 热议：244 分 · 182 评论",
+            "insight": "HN 热议：295 分 · 214 评论",
             "sentiment": "positive",
-            "comments": 182,
+            "comments": 214,
             "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Palmier Pro – Open-source macOS video editor built for AI",
-            "insight": "HN 热议：135 分 · 21 评论",
-            "sentiment": "neutral",
-            "comments": 21,
-            "url": "https://github.com/palmier-io/palmier-pro",
+            "title": "DARPA, U.S. Air Force fly AI-controlled F-16",
+            "insight": "HN 热议：233 分 · 252 评论",
+            "sentiment": "positive",
+            "comments": 252,
+            "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "DARPA, U.S. Air Force fly AI-controlled F-16",
-            "insight": "HN 热议：211 分 · 233 评论",
-            "sentiment": "positive",
-            "comments": 233,
-            "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
+            "title": "Show HN: Palmier Pro – Open-source macOS video editor built for AI",
+            "insight": "HN 热议：146 分 · 24 评论",
+            "sentiment": "neutral",
+            "comments": 24,
+            "url": "https://github.com/palmier-io/palmier-pro",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-24T05:38:31Z",
+    "updated": "2026-07-24T08:02:57Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

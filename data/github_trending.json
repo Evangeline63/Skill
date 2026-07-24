@@ -1,13 +1,13 @@
 {
-  "updated": "2026-07-24T05:38:31Z",
+  "updated": "2026-07-24T08:02:57Z",
   "repos": [
     {
       "rank": 1,
       "name": "Significant-Gravitas/AutoGPT",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
       "language": "Python",
-      "stars": 185662,
-      "stars_today": 185662,
+      "stars": 185664,
+      "stars_today": 185664,
       "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
@@ -24,8 +24,8 @@
       "name": "hacksider/Deep-Live-Cam",
       "description": "real time face swap and one-click video deepfake with only a single image",
       "language": "Python",
-      "stars": 95168,
-      "stars_today": 95168,
+      "stars": 95176,
+      "stars_today": 95176,
       "url": "https://github.com/hacksider/Deep-Live-Cam"
     },
     {
@@ -33,8 +33,8 @@
       "name": "thedotmack/claude-mem",
       "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
       "language": "JavaScript",
-      "stars": 88397,
-      "stars_today": 88397,
+      "stars": 88405,
+      "stars_today": 88405,
       "url": "https://github.com/thedotmack/claude-mem"
     },
     {
@@ -42,8 +42,8 @@
       "name": "OpenHands/OpenHands",
       "description": "🙌 OpenHands: AI-Driven Development",
       "language": "Python",
-      "stars": 81898,
-      "stars_today": 81898,
+      "stars": 81908,
+      "stars_today": 81908,
       "url": "https://github.com/OpenHands/OpenHands"
     },
     {
@@ -51,8 +51,8 @@
       "name": "FlowiseAI/Flowise",
       "description": "Build AI Agents, Visually",
       "language": "TypeScript",
-      "stars": 54879,
-      "stars_today": 54879,
+      "stars": 54882,
+      "stars_today": 54882,
       "url": "https://github.com/FlowiseAI/Flowise"
     }
   ]
