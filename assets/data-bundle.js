@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-25T15:53:37Z",
+    "updated": "2026-07-25T18:45:48Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-25T15:53:37Z",
+    "updated": "2026-07-25T18:45:48Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -325,7 +325,7 @@ window.__DATA__ = {
     ]
 },
   "products": {
-    "updated": "2026-07-25T15:53:37Z",
+    "updated": "2026-07-25T18:45:48Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-25T15:53:37Z",
+    "updated": "2026-07-25T18:45:48Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-25T15:53:37Z",
+    "updated": "2026-07-25T18:45:48Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Claude Opus 5",
-            "insight": "HN 热议：1708 分 · 1153 评论",
-            "sentiment": "positive",
-            "comments": 1153,
-            "url": "https://www.anthropic.com/news/claude-opus-5",
+            "title": "Open-weight AI is having its Kubernetes moment",
+            "insight": "HN 热议：138 分 · 92 评论",
+            "sentiment": "neutral",
+            "comments": 92,
+            "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities",
-            "insight": "HN 热议：102 分 · 30 评论",
+            "title": "Teardown: The BMW / Harman IDC23H Infotainment Unit (B423)",
+            "insight": "HN 热议：14 分 · 11 评论",
             "sentiment": "neutral",
-            "comments": 30,
-            "url": "https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities",
+            "comments": 11,
+            "url": "https://www.hakstuff.net/blog/teardown-the-bmw-idc23h-infotainment-unit",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Firefox Containers Preview",
-            "insight": "HN 热议：431 分 · 119 评论",
-            "sentiment": "positive",
-            "comments": 119,
-            "url": "https://blog.mozilla.org/en/firefox/firefox-containers-preview/",
+            "title": "Brazilian farmers tokenized dairy cows to get loans, bypassing bank limits",
+            "insight": "HN 热议：44 分 · 31 评论",
+            "sentiment": "neutral",
+            "comments": 31,
+            "url": "https://www.coindesk.com/markets/2026/07/24/brazilian-farmers-tokenized-dairy-cows-to-get-loans-bypassing-bank-lending-limits",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: I simulated closing the Strait of Hormuz on real oil trade data",
-            "insight": "HN 热议：232 分 · 109 评论",
-            "sentiment": "positive",
-            "comments": 109,
-            "url": "https://globaloilnetwork.staffinganalytics.io/",
+            "title": "UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities",
+            "insight": "HN 热议：116 分 · 36 评论",
+            "sentiment": "neutral",
+            "comments": 36,
+            "url": "https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Half-Life 2 running natively on HaikuOS",
-            "insight": "HN 热议：325 分 · 66 评论",
-            "sentiment": "positive",
-            "comments": 66,
-            "url": "https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18",
+            "title": "The AI Productivity Illusion",
+            "insight": "HN 热议：12 分 · 1 评论",
+            "sentiment": "neutral",
+            "comments": 1,
+            "url": "https://www.hardresetmedia.com/p/the-ai-productivity-illusion",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-25T15:53:37Z",
+    "updated": "2026-07-25T18:45:48Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
