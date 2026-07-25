@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-25T07:46:45Z",
+    "updated": "2026-07-25T10:18:40Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-25T07:46:45Z",
+    "updated": "2026-07-25T10:18:40Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-25T07:46:45Z",
+    "updated": "2026-07-25T10:18:40Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185683,
-            "stars_today": 185683,
+            "stars": 185679,
+            "stars_today": 185679,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 166327,
-            "stars_today": 166327,
+            "stars": 166337,
+            "stars_today": 166337,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95203,
-            "stars_today": 95203,
+            "stars": 95204,
+            "stars_today": 95204,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 88502,
-            "stars_today": 88502,
+            "stars": 88513,
+            "stars_today": 88513,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 82019,
-            "stars_today": 82019,
+            "stars": 82023,
+            "stars_today": 82023,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54903,
-            "stars_today": 54903,
+            "stars": 54908,
+            "stars_today": 54908,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-25T07:46:45Z",
+    "updated": "2026-07-25T10:18:40Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-25T07:46:45Z",
+    "updated": "2026-07-25T10:18:40Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-25T07:46:45Z",
+    "updated": "2026-07-25T10:18:40Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Claude Opus 5",
-            "insight": "HN 热议：1501 分 · 834 评论",
+            "insight": "HN 热议：1561 分 · 907 评论",
             "sentiment": "positive",
-            "comments": 834,
+            "comments": 907,
             "url": "https://www.anthropic.com/news/claude-opus-5",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities",
-            "insight": "HN 热议：40 分 · 14 评论",
+            "insight": "HN 热议：65 分 · 17 评论",
             "sentiment": "neutral",
-            "comments": 14,
+            "comments": 17,
             "url": "https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "PartialString – A finite-difference time-domain physical modelling synthesiser",
-            "insight": "HN 热议：8 分 · 0 评论",
+            "title": "Show HN: I simulated closing the Strait of Hormuz on real oil trade data",
+            "insight": "HN 热议：183 分 · 87 评论",
             "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://differentinstruments.com/",
+            "comments": 87,
+            "url": "https://globaloilnetwork.staffinganalytics.io/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: I simulated closing the Strait of Hormuz on real oil trade data",
-            "insight": "HN 热议：161 分 · 80 评论",
-            "sentiment": "neutral",
-            "comments": 80,
-            "url": "https://globaloilnetwork.staffinganalytics.io/",
+            "title": "Firefox Containers Preview",
+            "insight": "HN 热议：347 分 · 99 评论",
+            "sentiment": "positive",
+            "comments": 99,
+            "url": "https://blog.mozilla.org/en/firefox/firefox-containers-preview/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Firefox Containers Preview",
-            "insight": "HN 热议：297 分 · 95 评论",
-            "sentiment": "positive",
-            "comments": 95,
-            "url": "https://blog.mozilla.org/en/firefox/firefox-containers-preview/",
+            "title": "PartialString – A finite-difference time-domain physical modelling synthesiser",
+            "insight": "HN 热议：21 分 · 4 评论",
+            "sentiment": "neutral",
+            "comments": 4,
+            "url": "https://differentinstruments.com/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-25T07:46:45Z",
+    "updated": "2026-07-25T10:18:40Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

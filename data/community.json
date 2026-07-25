@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-25T07:46:45Z",
+  "updated": "2026-07-25T10:18:40Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Claude Opus 5",
-      "insight": "HN 热议：1501 分 · 834 评论",
+      "insight": "HN 热议：1561 分 · 907 评论",
       "sentiment": "positive",
-      "comments": 834,
+      "comments": 907,
       "url": "https://www.anthropic.com/news/claude-opus-5",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities",
-      "insight": "HN 热议：40 分 · 14 评论",
+      "insight": "HN 热议：65 分 · 17 评论",
       "sentiment": "neutral",
-      "comments": 14,
+      "comments": 17,
       "url": "https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "PartialString – A finite-difference time-domain physical modelling synthesiser",
-      "insight": "HN 热议：8 分 · 0 评论",
+      "title": "Show HN: I simulated closing the Strait of Hormuz on real oil trade data",
+      "insight": "HN 热议：183 分 · 87 评论",
       "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://differentinstruments.com/",
+      "comments": 87,
+      "url": "https://globaloilnetwork.staffinganalytics.io/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: I simulated closing the Strait of Hormuz on real oil trade data",
-      "insight": "HN 热议：161 分 · 80 评论",
-      "sentiment": "neutral",
-      "comments": 80,
-      "url": "https://globaloilnetwork.staffinganalytics.io/",
+      "title": "Firefox Containers Preview",
+      "insight": "HN 热议：347 分 · 99 评论",
+      "sentiment": "positive",
+      "comments": 99,
+      "url": "https://blog.mozilla.org/en/firefox/firefox-containers-preview/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Firefox Containers Preview",
-      "insight": "HN 热议：297 分 · 95 评论",
-      "sentiment": "positive",
-      "comments": 95,
-      "url": "https://blog.mozilla.org/en/firefox/firefox-containers-preview/",
+      "title": "PartialString – A finite-difference time-domain physical modelling synthesiser",
+      "insight": "HN 热议：21 分 · 4 评论",
+      "sentiment": "neutral",
+      "comments": 4,
+      "url": "https://differentinstruments.com/",
       "id": 5
     }
   ]
