@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-25T12:54:33Z",
+    "updated": "2026-07-25T15:53:37Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-25T12:54:33Z",
+    "updated": "2026-07-25T15:53:37Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-25T12:54:33Z",
+    "updated": "2026-07-25T15:53:37Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185679,
-            "stars_today": 185679,
+            "stars": 185680,
+            "stars_today": 185680,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 166342,
-            "stars_today": 166342,
+            "stars": 166348,
+            "stars_today": 166348,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95212,
-            "stars_today": 95212,
+            "stars": 95222,
+            "stars_today": 95222,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 88522,
-            "stars_today": 88522,
+            "stars": 88537,
+            "stars_today": 88537,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 82032,
-            "stars_today": 82032,
+            "stars": 82049,
+            "stars_today": 82049,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54913,
-            "stars_today": 54913,
+            "stars": 54917,
+            "stars_today": 54917,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-25T12:54:33Z",
+    "updated": "2026-07-25T15:53:37Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-25T12:54:33Z",
+    "updated": "2026-07-25T15:53:37Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-25T12:54:33Z",
+    "updated": "2026-07-25T15:53:37Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Claude Opus 5",
-            "insight": "HN 热议：1638 分 · 992 评论",
+            "insight": "HN 热议：1708 分 · 1153 评论",
             "sentiment": "positive",
-            "comments": 992,
+            "comments": 1153,
             "url": "https://www.anthropic.com/news/claude-opus-5",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities",
-            "insight": "HN 热议：84 分 · 22 评论",
+            "insight": "HN 热议：102 分 · 30 评论",
             "sentiment": "neutral",
-            "comments": 22,
+            "comments": 30,
             "url": "https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "Firefox Containers Preview",
-            "insight": "HN 热议：383 分 · 110 评论",
+            "insight": "HN 热议：431 分 · 119 评论",
             "sentiment": "positive",
-            "comments": 110,
+            "comments": 119,
             "url": "https://blog.mozilla.org/en/firefox/firefox-containers-preview/",
             "id": 3
         },
         {
             "source": "HackerNews",
             "title": "Show HN: I simulated closing the Strait of Hormuz on real oil trade data",
-            "insight": "HN 热议：206 分 · 95 评论",
+            "insight": "HN 热议：232 分 · 109 评论",
             "sentiment": "positive",
-            "comments": 95,
+            "comments": 109,
             "url": "https://globaloilnetwork.staffinganalytics.io/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "PartialString – A finite-difference time-domain physical modelling synthesiser",
-            "insight": "HN 热议：29 分 · 4 评论",
-            "sentiment": "neutral",
-            "comments": 4,
-            "url": "https://differentinstruments.com/",
+            "title": "Half-Life 2 running natively on HaikuOS",
+            "insight": "HN 热议：325 分 · 66 评论",
+            "sentiment": "positive",
+            "comments": 66,
+            "url": "https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-25T12:54:33Z",
+    "updated": "2026-07-25T15:53:37Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
