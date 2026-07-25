@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-24T21:52:31Z",
+  "updated": "2026-07-25T01:23:08Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Claude Opus 5",
-      "insight": "HN 热议：1078 分 · 574 评论",
+      "insight": "HN 热议：1277 分 · 698 评论",
       "sentiment": "positive",
-      "comments": 574,
+      "comments": 698,
       "url": "https://www.anthropic.com/news/claude-opus-5",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
-      "insight": "HN 热议：393 分 · 193 评论",
-      "sentiment": "positive",
-      "comments": 193,
-      "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
+      "title": "Show HN: I simulated closing the Strait of Hormuz on real oil trade data",
+      "insight": "HN 热议：84 分 · 36 评论",
+      "sentiment": "neutral",
+      "comments": 36,
+      "url": "https://globaloilnetwork.staffinganalytics.io/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Half-Life 2 running natively on HaikuOS",
-      "insight": "HN 热议：236 分 · 42 评论",
+      "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
+      "insight": "HN 热议：489 分 · 230 评论",
       "sentiment": "positive",
-      "comments": 42,
-      "url": "https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18",
+      "comments": 230,
+      "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Firefox Containers Preview",
-      "insight": "HN 热议：162 分 · 65 评论",
+      "title": "AIs don't do what you want. This is bad",
+      "insight": "HN 热议：51 分 · 30 评论",
       "sentiment": "neutral",
-      "comments": 65,
-      "url": "https://blog.mozilla.org/en/firefox/firefox-containers-preview/",
+      "comments": 30,
+      "url": "https://rewardhacking.org",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Be skeptical of OpenAI's rogue hacker agent story",
-      "insight": "HN 热议：339 分 · 177 评论",
+      "title": "Half-Life 2 running natively on HaikuOS",
+      "insight": "HN 热议：267 分 · 51 评论",
       "sentiment": "positive",
-      "comments": 177,
-      "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
+      "comments": 51,
+      "url": "https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18",
       "id": 5
     }
   ]
