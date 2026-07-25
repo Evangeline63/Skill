@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-25T05:32:46Z",
+  "updated": "2026-07-25T07:46:45Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Claude Opus 5",
-      "insight": "HN 热议：1413 分 · 776 评论",
+      "insight": "HN 热议：1501 分 · 834 评论",
       "sentiment": "positive",
-      "comments": 776,
+      "comments": 834,
       "url": "https://www.anthropic.com/news/claude-opus-5",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: I simulated closing the Strait of Hormuz on real oil trade data",
-      "insight": "HN 热议：140 分 · 74 评论",
+      "title": "UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities",
+      "insight": "HN 热议：40 分 · 14 评论",
       "sentiment": "neutral",
-      "comments": 74,
-      "url": "https://globaloilnetwork.staffinganalytics.io/",
+      "comments": 14,
+      "url": "https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Firefox Containers Preview",
-      "insight": "HN 热议：274 分 · 92 评论",
-      "sentiment": "positive",
-      "comments": 92,
-      "url": "https://blog.mozilla.org/en/firefox/firefox-containers-preview/",
+      "title": "PartialString – A finite-difference time-domain physical modelling synthesiser",
+      "insight": "HN 热议：8 分 · 0 评论",
+      "sentiment": "neutral",
+      "comments": 0,
+      "url": "https://differentinstruments.com/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
-      "insight": "HN 热议：568 分 · 254 评论",
-      "sentiment": "positive",
-      "comments": 254,
-      "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
+      "title": "Show HN: I simulated closing the Strait of Hormuz on real oil trade data",
+      "insight": "HN 热议：161 分 · 80 评论",
+      "sentiment": "neutral",
+      "comments": 80,
+      "url": "https://globaloilnetwork.staffinganalytics.io/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Half-Life 2 running natively on HaikuOS",
-      "insight": "HN 热议：288 分 · 54 评论",
+      "title": "Firefox Containers Preview",
+      "insight": "HN 热议：297 分 · 95 评论",
       "sentiment": "positive",
-      "comments": 54,
-      "url": "https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18",
+      "comments": 95,
+      "url": "https://blog.mozilla.org/en/firefox/firefox-containers-preview/",
       "id": 5
     }
   ]
