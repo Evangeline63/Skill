@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-25T01:23:08Z",
+    "updated": "2026-07-25T05:32:46Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-25T01:23:08Z",
+    "updated": "2026-07-25T05:32:46Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-25T01:23:08Z",
+    "updated": "2026-07-25T05:32:46Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185679,
-            "stars_today": 185679,
+            "stars": 185682,
+            "stars_today": 185682,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 166309,
-            "stars_today": 166309,
+            "stars": 166323,
+            "stars_today": 166323,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95197,
-            "stars_today": 95197,
+            "stars": 95202,
+            "stars_today": 95202,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 88481,
-            "stars_today": 88481,
+            "stars": 88494,
+            "stars_today": 88494,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 81996,
-            "stars_today": 81996,
+            "stars": 82007,
+            "stars_today": 82007,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54897,
-            "stars_today": 54897,
+            "stars": 54900,
+            "stars_today": 54900,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-25T01:23:08Z",
+    "updated": "2026-07-25T05:32:46Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-25T01:23:08Z",
+    "updated": "2026-07-25T05:32:46Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-25T01:23:08Z",
+    "updated": "2026-07-25T05:32:46Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Claude Opus 5",
-            "insight": "HN 热议：1277 分 · 698 评论",
+            "insight": "HN 热议：1413 分 · 776 评论",
             "sentiment": "positive",
-            "comments": 698,
+            "comments": 776,
             "url": "https://www.anthropic.com/news/claude-opus-5",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "Show HN: I simulated closing the Strait of Hormuz on real oil trade data",
-            "insight": "HN 热议：84 分 · 36 评论",
+            "insight": "HN 热议：140 分 · 74 评论",
             "sentiment": "neutral",
-            "comments": 36,
+            "comments": 74,
             "url": "https://globaloilnetwork.staffinganalytics.io/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
-            "insight": "HN 热议：489 分 · 230 评论",
+            "title": "Firefox Containers Preview",
+            "insight": "HN 热议：274 分 · 92 评论",
             "sentiment": "positive",
-            "comments": 230,
-            "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
+            "comments": 92,
+            "url": "https://blog.mozilla.org/en/firefox/firefox-containers-preview/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "AIs don't do what you want. This is bad",
-            "insight": "HN 热议：51 分 · 30 评论",
-            "sentiment": "neutral",
-            "comments": 30,
-            "url": "https://rewardhacking.org",
+            "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
+            "insight": "HN 热议：568 分 · 254 评论",
+            "sentiment": "positive",
+            "comments": 254,
+            "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
             "id": 4
         },
         {
             "source": "HackerNews",
             "title": "Half-Life 2 running natively on HaikuOS",
-            "insight": "HN 热议：267 分 · 51 评论",
+            "insight": "HN 热议：288 分 · 54 评论",
             "sentiment": "positive",
-            "comments": 51,
+            "comments": 54,
             "url": "https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-25T01:23:08Z",
+    "updated": "2026-07-25T05:32:46Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
