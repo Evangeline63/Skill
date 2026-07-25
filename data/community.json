@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-25T18:45:48Z",
+  "updated": "2026-07-25T21:41:18Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Open-weight AI is having its Kubernetes moment",
-      "insight": "HN 热议：138 分 · 92 评论",
+      "title": "The new rules of context engineering for Claude 5 generation models",
+      "insight": "HN 热议：14 分 · 2 评论",
       "sentiment": "neutral",
-      "comments": 92,
-      "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
+      "comments": 2,
+      "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Teardown: The BMW / Harman IDC23H Infotainment Unit (B423)",
-      "insight": "HN 热议：14 分 · 11 评论",
-      "sentiment": "neutral",
-      "comments": 11,
-      "url": "https://www.hakstuff.net/blog/teardown-the-bmw-idc23h-infotainment-unit",
+      "title": "Open-weight AI is having its Kubernetes moment",
+      "insight": "HN 热议：260 分 · 195 评论",
+      "sentiment": "positive",
+      "comments": 195,
+      "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Brazilian farmers tokenized dairy cows to get loans, bypassing bank limits",
-      "insight": "HN 热议：44 分 · 31 评论",
+      "title": "Show HN: Brolly, a plain-text weather forecast site",
+      "insight": "HN 热议：69 分 · 25 评论",
       "sentiment": "neutral",
-      "comments": 31,
-      "url": "https://www.coindesk.com/markets/2026/07/24/brazilian-farmers-tokenized-dairy-cows-to-get-loans-bypassing-bank-lending-limits",
+      "comments": 25,
+      "url": "https://brolly.sh/forecast/RWFP2qW8",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities",
-      "insight": "HN 热议：116 分 · 36 评论",
+      "title": "Show HN: Yorishiro – a macOS terminal where AI agents live",
+      "insight": "HN 热议：10 分 · 2 评论",
       "sentiment": "neutral",
-      "comments": 36,
-      "url": "https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities",
+      "comments": 2,
+      "url": "https://github.com/sktkkoo/Yorishiro",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "The AI Productivity Illusion",
-      "insight": "HN 热议：12 分 · 1 评论",
+      "title": "'AI Mania Is Eviscerating Global Decision-Making'",
+      "insight": "HN 热议：8 分 · 1 评论",
       "sentiment": "neutral",
       "comments": 1,
-      "url": "https://www.hardresetmedia.com/p/the-ai-productivity-illusion",
+      "url": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
       "id": 5
     }
   ]

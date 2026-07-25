@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-25T18:45:48Z",
+    "updated": "2026-07-25T21:41:18Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-25T18:45:48Z",
+    "updated": "2026-07-25T21:41:18Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-25T15:53:37Z",
+    "updated": "2026-07-25T21:41:18Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185680,
-            "stars_today": 185680,
+            "stars": 185683,
+            "stars_today": 185683,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 166348,
-            "stars_today": 166348,
+            "stars": 166358,
+            "stars_today": 166358,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95222,
-            "stars_today": 95222,
+            "stars": 95236,
+            "stars_today": 95236,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 88537,
-            "stars_today": 88537,
+            "stars": 88552,
+            "stars_today": 88552,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 82049,
-            "stars_today": 82049,
+            "stars": 82069,
+            "stars_today": 82069,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54917,
-            "stars_today": 54917,
+            "stars": 54923,
+            "stars_today": 54923,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-25T18:45:48Z",
+    "updated": "2026-07-25T21:41:18Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-25T18:45:48Z",
+    "updated": "2026-07-25T21:41:18Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-25T18:45:48Z",
+    "updated": "2026-07-25T21:41:18Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Open-weight AI is having its Kubernetes moment",
-            "insight": "HN 热议：138 分 · 92 评论",
+            "title": "The new rules of context engineering for Claude 5 generation models",
+            "insight": "HN 热议：14 分 · 2 评论",
             "sentiment": "neutral",
-            "comments": 92,
-            "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
+            "comments": 2,
+            "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Teardown: The BMW / Harman IDC23H Infotainment Unit (B423)",
-            "insight": "HN 热议：14 分 · 11 评论",
-            "sentiment": "neutral",
-            "comments": 11,
-            "url": "https://www.hakstuff.net/blog/teardown-the-bmw-idc23h-infotainment-unit",
+            "title": "Open-weight AI is having its Kubernetes moment",
+            "insight": "HN 热议：260 分 · 195 评论",
+            "sentiment": "positive",
+            "comments": 195,
+            "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Brazilian farmers tokenized dairy cows to get loans, bypassing bank limits",
-            "insight": "HN 热议：44 分 · 31 评论",
+            "title": "Show HN: Brolly, a plain-text weather forecast site",
+            "insight": "HN 热议：69 分 · 25 评论",
             "sentiment": "neutral",
-            "comments": 31,
-            "url": "https://www.coindesk.com/markets/2026/07/24/brazilian-farmers-tokenized-dairy-cows-to-get-loans-bypassing-bank-lending-limits",
+            "comments": 25,
+            "url": "https://brolly.sh/forecast/RWFP2qW8",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities",
-            "insight": "HN 热议：116 分 · 36 评论",
+            "title": "Show HN: Yorishiro – a macOS terminal where AI agents live",
+            "insight": "HN 热议：10 分 · 2 评论",
             "sentiment": "neutral",
-            "comments": 36,
-            "url": "https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities",
+            "comments": 2,
+            "url": "https://github.com/sktkkoo/Yorishiro",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "The AI Productivity Illusion",
-            "insight": "HN 热议：12 分 · 1 评论",
+            "title": "'AI Mania Is Eviscerating Global Decision-Making'",
+            "insight": "HN 热议：8 分 · 1 评论",
             "sentiment": "neutral",
             "comments": 1,
-            "url": "https://www.hardresetmedia.com/p/the-ai-productivity-illusion",
+            "url": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-25T18:45:48Z",
+    "updated": "2026-07-25T21:41:18Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
