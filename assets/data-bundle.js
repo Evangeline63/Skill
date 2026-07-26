@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-26T12:52:13Z",
+    "updated": "2026-07-26T15:52:00Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-26T12:52:13Z",
+    "updated": "2026-07-26T15:52:00Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-26T12:52:13Z",
+    "updated": "2026-07-26T15:52:00Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185694,
-            "stars_today": 185694,
+            "stars": 185699,
+            "stars_today": 185699,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 166381,
-            "stars_today": 166381,
+            "stars": 166387,
+            "stars_today": 166387,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95253,
-            "stars_today": 95253,
+            "stars": 95259,
+            "stars_today": 95259,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 88612,
-            "stars_today": 88612,
+            "stars": 88619,
+            "stars_today": 88619,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 82131,
-            "stars_today": 82131,
+            "stars": 82150,
+            "stars_today": 82150,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54936,
-            "stars_today": 54936,
+            "stars": 54937,
+            "stars_today": 54937,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-26T12:52:13Z",
+    "updated": "2026-07-26T15:52:00Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-26T12:52:13Z",
+    "updated": "2026-07-26T15:52:00Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-26T12:52:13Z",
+    "updated": "2026-07-26T15:52:00Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "GrapheneOS protections against data extraction from locked devices",
-            "insight": "HN 热议：147 分 · 77 评论",
+            "title": "Park by Robot at London Gatwick Airport",
+            "insight": "HN 热议：50 分 · 19 评论",
             "sentiment": "neutral",
-            "comments": 77,
-            "url": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
+            "comments": 19,
+            "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "The new rules of context engineering for Claude 5 generation models",
-            "insight": "HN 热议：367 分 · 261 评论",
+            "title": "GrapheneOS protections against data extraction from locked devices",
+            "insight": "HN 热议：253 分 · 128 评论",
             "sentiment": "positive",
-            "comments": 261,
-            "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+            "comments": 128,
+            "url": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
-            "insight": "HN 热议：186 分 · 141 评论",
+            "title": "The New AI Superpowers: Focus and Followthrough",
+            "insight": "HN 热议：17 分 · 4 评论",
             "sentiment": "neutral",
-            "comments": 141,
-            "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+            "comments": 4,
+            "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Claude Code Deletes Your Context History from Your Device After 30 Days",
-            "insight": "HN 热议：7 分 · 0 评论",
-            "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://code.claude.com/docs/en/data-usage",
+            "title": "The new rules of context engineering for Claude 5 generation models",
+            "insight": "HN 热议：414 分 · 310 评论",
+            "sentiment": "positive",
+            "comments": 310,
+            "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Cloudflare's new AI traffic options for customers",
-            "insight": "HN 热议：139 分 · 122 评论",
-            "sentiment": "neutral",
-            "comments": 122,
-            "url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
+            "title": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+            "insight": "HN 热议：212 分 · 169 评论",
+            "sentiment": "positive",
+            "comments": 169,
+            "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-26T12:52:13Z",
+    "updated": "2026-07-26T15:52:00Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
