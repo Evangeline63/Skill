@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-26T18:51:48Z",
+  "updated": "2026-07-26T21:45:02Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Park by Robot at London Gatwick Airport",
-      "insight": "HN 热议：207 分 · 140 评论",
-      "sentiment": "positive",
-      "comments": 140,
-      "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/",
+      "title": "It's not empowering to hand off the details",
+      "insight": "HN 热议：81 分 · 24 评论",
+      "sentiment": "neutral",
+      "comments": 24,
+      "url": "https://davidnicholaswilliams.com/its-not-empowering-to-hand-off-the-details/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "GrapheneOS protections against data extraction from locked devices",
-      "insight": "HN 热议：306 分 · 186 评论",
-      "sentiment": "positive",
-      "comments": 186,
-      "url": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
+      "title": "Multiway Turing Machines (2021 pre-ai)",
+      "insight": "HN 热议：6 分 · 1 评论",
+      "sentiment": "neutral",
+      "comments": 1,
+      "url": "https://bulletins.wolframphysics.org/2021/02/multiway-turing-machines/",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "The New AI Superpowers: Focus and Followthrough",
-      "insight": "HN 热议：58 分 · 20 评论",
+      "insight": "HN 热议：102 分 · 32 评论",
       "sentiment": "neutral",
-      "comments": 20,
+      "comments": 32,
       "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Boffin – Staff-engineer layer for AI coding agents",
-      "insight": "HN 热议：15 分 · 3 评论",
-      "sentiment": "neutral",
-      "comments": 3,
-      "url": "https://github.com/MicSm/boffin",
+      "title": "GrapheneOS protections against data extraction from locked devices",
+      "insight": "HN 热议：341 分 · 210 评论",
+      "sentiment": "positive",
+      "comments": 210,
+      "url": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Calling all open source maintainers working with Ruby",
-      "insight": "HN 热议：7 分 · 6 评论",
-      "sentiment": "neutral",
-      "comments": 6,
-      "url": "https://www.rubyforum.org/t/calling-all-open-source-maintainers-working-with-ruby/553",
+      "title": "London Gatwick has launched a robotic airport parking service",
+      "insight": "HN 热议：251 分 · 208 评论",
+      "sentiment": "positive",
+      "comments": 208,
+      "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/",
       "id": 5
     }
   ]
