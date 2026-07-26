@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-25T21:41:18Z",
+    "updated": "2026-07-26T01:26:12Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-25T21:41:18Z",
+    "updated": "2026-07-26T01:26:12Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,7 +266,7 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-25T21:41:18Z",
+    "updated": "2026-07-26T01:26:12Z",
     "repos": [
         {
             "rank": 1,
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 166358,
-            "stars_today": 166358,
+            "stars": 166362,
+            "stars_today": 166362,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95236,
-            "stars_today": 95236,
+            "stars": 95246,
+            "stars_today": 95246,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 88552,
-            "stars_today": 88552,
+            "stars": 88561,
+            "stars_today": 88561,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 82069,
-            "stars_today": 82069,
+            "stars": 82078,
+            "stars_today": 82078,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -325,7 +325,7 @@ window.__DATA__ = {
     ]
 },
   "products": {
-    "updated": "2026-07-25T21:41:18Z",
+    "updated": "2026-07-26T01:26:12Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-25T21:41:18Z",
+    "updated": "2026-07-26T01:26:12Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-25T21:41:18Z",
+    "updated": "2026-07-26T01:26:12Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "The new rules of context engineering for Claude 5 generation models",
-            "insight": "HN 热议：14 分 · 2 评论",
+            "title": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+            "insight": "HN 热议：42 分 · 17 评论",
             "sentiment": "neutral",
-            "comments": 2,
-            "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+            "comments": 17,
+            "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Open-weight AI is having its Kubernetes moment",
-            "insight": "HN 热议：260 分 · 195 评论",
-            "sentiment": "positive",
-            "comments": 195,
-            "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
+            "title": "Clinical Failure Rates over the Decades: Yikes",
+            "insight": "HN 热议：33 分 · 17 评论",
+            "sentiment": "neutral",
+            "comments": 17,
+            "url": "https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Brolly, a plain-text weather forecast site",
-            "insight": "HN 热议：69 分 · 25 评论",
+            "title": "The new rules of context engineering for Claude 5 generation models",
+            "insight": "HN 热议：152 分 · 101 评论",
             "sentiment": "neutral",
-            "comments": 25,
-            "url": "https://brolly.sh/forecast/RWFP2qW8",
+            "comments": 101,
+            "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Yorishiro – a macOS terminal where AI agents live",
-            "insight": "HN 热议：10 分 · 2 评论",
+            "title": "GM Backs Sodium Ion Batteries for U.S. Grid Storage",
+            "insight": "HN 热议：115 分 · 37 评论",
             "sentiment": "neutral",
-            "comments": 2,
-            "url": "https://github.com/sktkkoo/Yorishiro",
+            "comments": 37,
+            "url": "https://spectrum.ieee.org/sodium-ion-battery-peak-energy",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "'AI Mania Is Eviscerating Global Decision-Making'",
-            "insight": "HN 热议：8 分 · 1 评论",
+            "title": "Cloudflare's new AI traffic options for customers",
+            "insight": "HN 热议：19 分 · 6 评论",
             "sentiment": "neutral",
-            "comments": 1,
-            "url": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
+            "comments": 6,
+            "url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-25T21:41:18Z",
+    "updated": "2026-07-26T01:26:12Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
