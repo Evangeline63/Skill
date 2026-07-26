@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-26T10:26:13Z",
+    "updated": "2026-07-26T12:52:13Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-26T10:26:13Z",
+    "updated": "2026-07-26T12:52:13Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-26T10:26:13Z",
+    "updated": "2026-07-26T12:52:13Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185692,
-            "stars_today": 185692,
+            "stars": 185694,
+            "stars_today": 185694,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 166376,
-            "stars_today": 166376,
+            "stars": 166381,
+            "stars_today": 166381,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95254,
-            "stars_today": 95254,
+            "stars": 95253,
+            "stars_today": 95253,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 88591,
-            "stars_today": 88591,
+            "stars": 88612,
+            "stars_today": 88612,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 82107,
-            "stars_today": 82107,
+            "stars": 82131,
+            "stars_today": 82131,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54932,
-            "stars_today": 54932,
+            "stars": 54936,
+            "stars_today": 54936,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-26T10:26:13Z",
+    "updated": "2026-07-26T12:52:13Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-26T10:26:13Z",
+    "updated": "2026-07-26T12:52:13Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-26T10:26:13Z",
+    "updated": "2026-07-26T12:52:13Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "GrapheneOS protections against data extraction from locked devices",
-            "insight": "HN 热议：81 分 · 38 评论",
+            "insight": "HN 热议：147 分 · 77 评论",
             "sentiment": "neutral",
-            "comments": 38,
+            "comments": 77,
             "url": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "The new rules of context engineering for Claude 5 generation models",
-            "insight": "HN 热议：340 分 · 221 评论",
+            "insight": "HN 热议：367 分 · 261 评论",
             "sentiment": "positive",
-            "comments": 221,
+            "comments": 261,
             "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
-            "insight": "HN 热议：156 分 · 105 评论",
+            "insight": "HN 热议：186 分 · 141 评论",
             "sentiment": "neutral",
-            "comments": 105,
+            "comments": 141,
             "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Cloudflare's new AI traffic options for customers",
-            "insight": "HN 热议：124 分 · 98 评论",
+            "title": "Claude Code Deletes Your Context History from Your Device After 30 Days",
+            "insight": "HN 热议：7 分 · 0 评论",
             "sentiment": "neutral",
-            "comments": 98,
-            "url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
+            "comments": 0,
+            "url": "https://code.claude.com/docs/en/data-usage",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Rethinking Legal Education in the AI Era",
-            "insight": "HN 热议：78 分 · 41 评论",
+            "title": "Cloudflare's new AI traffic options for customers",
+            "insight": "HN 热议：139 分 · 122 评论",
             "sentiment": "neutral",
-            "comments": 41,
-            "url": "https://www.law.uchicago.edu/news/ai-strategy-statement",
+            "comments": 122,
+            "url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-26T10:26:13Z",
+    "updated": "2026-07-26T12:52:13Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
