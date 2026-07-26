@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-26T08:02:56Z",
+  "updated": "2026-07-26T10:26:13Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "The new rules of context engineering for Claude 5 generation models",
-      "insight": "HN 热议：299 分 · 185 评论",
-      "sentiment": "positive",
-      "comments": 185,
-      "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+      "title": "GrapheneOS protections against data extraction from locked devices",
+      "insight": "HN 热议：81 分 · 38 评论",
+      "sentiment": "neutral",
+      "comments": 38,
+      "url": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
-      "insight": "HN 热议：125 分 · 92 评论",
-      "sentiment": "neutral",
-      "comments": 92,
-      "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+      "title": "The new rules of context engineering for Claude 5 generation models",
+      "insight": "HN 热议：340 分 · 221 评论",
+      "sentiment": "positive",
+      "comments": 221,
+      "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Cloudflare's new AI traffic options for customers",
-      "insight": "HN 热议：103 分 · 74 评论",
+      "title": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+      "insight": "HN 热议：156 分 · 105 评论",
       "sentiment": "neutral",
-      "comments": 74,
-      "url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
+      "comments": 105,
+      "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Rethinking Legal Education in the AI Era",
-      "insight": "HN 热议：67 分 · 31 评论",
+      "title": "Cloudflare's new AI traffic options for customers",
+      "insight": "HN 热议：124 分 · 98 评论",
       "sentiment": "neutral",
-      "comments": 31,
-      "url": "https://www.law.uchicago.edu/news/ai-strategy-statement",
+      "comments": 98,
+      "url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
-      "insight": "HN 热议：165 分 · 36 评论",
+      "title": "Rethinking Legal Education in the AI Era",
+      "insight": "HN 热议：78 分 · 41 评论",
       "sentiment": "neutral",
-      "comments": 36,
-      "url": "https://github.com/slvDev/esp32-ai",
+      "comments": 41,
+      "url": "https://www.law.uchicago.edu/news/ai-strategy-statement",
       "id": 5
     }
   ]
