@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-26T05:49:08Z",
+    "updated": "2026-07-26T08:02:56Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-26T05:49:08Z",
+    "updated": "2026-07-26T08:02:56Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-26T05:49:08Z",
+    "updated": "2026-07-26T08:02:56Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185690,
-            "stars_today": 185690,
+            "stars": 185691,
+            "stars_today": 185691,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 166364,
-            "stars_today": 166364,
+            "stars": 166375,
+            "stars_today": 166375,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95250,
-            "stars_today": 95250,
+            "stars": 95251,
+            "stars_today": 95251,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 88568,
-            "stars_today": 88568,
+            "stars": 88578,
+            "stars_today": 88578,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 82090,
-            "stars_today": 82090,
+            "stars": 82096,
+            "stars_today": 82096,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 54926,
-            "stars_today": 54926,
+            "stars": 54928,
+            "stars_today": 54928,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-26T05:49:08Z",
+    "updated": "2026-07-26T08:02:56Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-26T05:49:08Z",
+    "updated": "2026-07-26T08:02:56Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-26T05:49:08Z",
+    "updated": "2026-07-26T08:02:56Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "The new rules of context engineering for Claude 5 generation models",
-            "insight": "HN 热议：248 分 · 159 评论",
+            "insight": "HN 热议：299 分 · 185 评论",
             "sentiment": "positive",
-            "comments": 159,
+            "comments": 185,
             "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Rethinking Legal Education in the AI Era",
-            "insight": "HN 热议：45 分 · 8 评论",
+            "title": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+            "insight": "HN 热议：125 分 · 92 评论",
             "sentiment": "neutral",
-            "comments": 8,
-            "url": "https://www.law.uchicago.edu/news/ai-strategy-statement",
+            "comments": 92,
+            "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Clinical failure rates over the decades: yikes",
-            "insight": "HN 热议：81 分 · 45 评论",
+            "title": "Cloudflare's new AI traffic options for customers",
+            "insight": "HN 热议：103 分 · 74 评论",
             "sentiment": "neutral",
-            "comments": 45,
-            "url": "https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes",
+            "comments": 74,
+            "url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Cloudflare's new AI traffic options for customers",
-            "insight": "HN 热议：83 分 · 54 评论",
+            "title": "Rethinking Legal Education in the AI Era",
+            "insight": "HN 热议：67 分 · 31 评论",
             "sentiment": "neutral",
-            "comments": 54,
-            "url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
+            "comments": 31,
+            "url": "https://www.law.uchicago.edu/news/ai-strategy-statement",
             "id": 4
         },
         {
             "source": "HackerNews",
             "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
-            "insight": "HN 热议：128 分 · 28 评论",
+            "insight": "HN 热议：165 分 · 36 评论",
             "sentiment": "neutral",
-            "comments": 28,
+            "comments": 36,
             "url": "https://github.com/slvDev/esp32-ai",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-26T05:49:08Z",
+    "updated": "2026-07-26T08:02:56Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
