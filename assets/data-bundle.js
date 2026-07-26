@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-26T15:52:00Z",
+    "updated": "2026-07-26T18:51:48Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-26T15:52:00Z",
+    "updated": "2026-07-26T18:51:48Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -325,7 +325,7 @@ window.__DATA__ = {
     ]
 },
   "products": {
-    "updated": "2026-07-26T15:52:00Z",
+    "updated": "2026-07-26T18:51:48Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-26T15:52:00Z",
+    "updated": "2026-07-26T18:51:48Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-26T15:52:00Z",
+    "updated": "2026-07-26T18:51:48Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Park by Robot at London Gatwick Airport",
-            "insight": "HN 热议：50 分 · 19 评论",
-            "sentiment": "neutral",
-            "comments": 19,
+            "insight": "HN 热议：207 分 · 140 评论",
+            "sentiment": "positive",
+            "comments": 140,
             "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "GrapheneOS protections against data extraction from locked devices",
-            "insight": "HN 热议：253 分 · 128 评论",
+            "insight": "HN 热议：306 分 · 186 评论",
             "sentiment": "positive",
-            "comments": 128,
+            "comments": 186,
             "url": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "The New AI Superpowers: Focus and Followthrough",
-            "insight": "HN 热议：17 分 · 4 评论",
+            "insight": "HN 热议：58 分 · 20 评论",
             "sentiment": "neutral",
-            "comments": 4,
+            "comments": 20,
             "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "The new rules of context engineering for Claude 5 generation models",
-            "insight": "HN 热议：414 分 · 310 评论",
-            "sentiment": "positive",
-            "comments": 310,
-            "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+            "title": "Show HN: Boffin – Staff-engineer layer for AI coding agents",
+            "insight": "HN 热议：15 分 · 3 评论",
+            "sentiment": "neutral",
+            "comments": 3,
+            "url": "https://github.com/MicSm/boffin",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
-            "insight": "HN 热议：212 分 · 169 评论",
-            "sentiment": "positive",
-            "comments": 169,
-            "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+            "title": "Calling all open source maintainers working with Ruby",
+            "insight": "HN 热议：7 分 · 6 评论",
+            "sentiment": "neutral",
+            "comments": 6,
+            "url": "https://www.rubyforum.org/t/calling-all-open-source-maintainers-working-with-ruby/553",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-26T15:52:00Z",
+    "updated": "2026-07-26T18:51:48Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
