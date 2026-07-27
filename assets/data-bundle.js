@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-26T21:45:02Z",
+    "updated": "2026-07-27T01:30:37Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-26T21:45:02Z",
+    "updated": "2026-07-27T01:30:37Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-26T21:45:02Z",
+    "updated": "2026-07-27T01:30:37Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185699,
-            "stars_today": 185699,
+            "stars": 185700,
+            "stars_today": 185700,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,50 +282,50 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 166391,
-            "stars_today": 166391,
+            "stars": 166397,
+            "stars_today": 166397,
             "url": "https://github.com/f/prompts.chat"
         },
         {
             "rank": 3,
-            "name": "hacksider/Deep-Live-Cam",
-            "description": "real time face swap and one-click video deepfake with only a single image",
-            "language": "Python",
-            "stars": 95271,
-            "stars_today": 95271,
-            "url": "https://github.com/hacksider/Deep-Live-Cam"
+            "name": "rasbt/LLMs-from-scratch",
+            "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+            "language": "Jupyter Notebook",
+            "stars": 99892,
+            "stars_today": 99892,
+            "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
             "rank": 4,
-            "name": "thedotmack/claude-mem",
-            "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
-            "language": "JavaScript",
-            "stars": 88638,
-            "stars_today": 88638,
-            "url": "https://github.com/thedotmack/claude-mem"
+            "name": "hacksider/Deep-Live-Cam",
+            "description": "real time face swap and one-click video deepfake with only a single image",
+            "language": "Python",
+            "stars": 95278,
+            "stars_today": 95278,
+            "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
             "rank": 5,
-            "name": "OpenHands/OpenHands",
-            "description": "🙌 OpenHands: AI-Driven Development",
-            "language": "Python",
-            "stars": 82186,
-            "stars_today": 82186,
-            "url": "https://github.com/OpenHands/OpenHands"
+            "name": "thedotmack/claude-mem",
+            "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
+            "language": "JavaScript",
+            "stars": 88648,
+            "stars_today": 88648,
+            "url": "https://github.com/thedotmack/claude-mem"
         },
         {
             "rank": 6,
-            "name": "FlowiseAI/Flowise",
-            "description": "Build AI Agents, Visually",
-            "language": "TypeScript",
-            "stars": 54944,
-            "stars_today": 54944,
-            "url": "https://github.com/FlowiseAI/Flowise"
+            "name": "OpenHands/OpenHands",
+            "description": "🙌 OpenHands: AI-Driven Development",
+            "language": "Python",
+            "stars": 82195,
+            "stars_today": 82195,
+            "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-26T21:45:02Z",
+    "updated": "2026-07-27T01:30:37Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-26T21:45:02Z",
+    "updated": "2026-07-27T01:30:37Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-26T21:45:02Z",
+    "updated": "2026-07-27T01:30:37Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "It's not empowering to hand off the details",
-            "insight": "HN 热议：81 分 · 24 评论",
+            "title": "US citizen charged after GrapheneOS phone wipes during airport search",
+            "insight": "HN 热议：116 分 · 54 评论",
             "sentiment": "neutral",
-            "comments": 24,
-            "url": "https://davidnicholaswilliams.com/its-not-empowering-to-hand-off-the-details/",
+            "comments": 54,
+            "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Multiway Turing Machines (2021 pre-ai)",
-            "insight": "HN 热议：6 分 · 1 评论",
+            "title": "The New AI Superpowers: Focus and Followthrough",
+            "insight": "HN 热议：142 分 · 44 评论",
             "sentiment": "neutral",
-            "comments": 1,
-            "url": "https://bulletins.wolframphysics.org/2021/02/multiway-turing-machines/",
+            "comments": 44,
+            "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "The New AI Superpowers: Focus and Followthrough",
-            "insight": "HN 热议：102 分 · 32 评论",
+            "title": "It's not empowering to hand off the details",
+            "insight": "HN 热议：181 分 · 102 评论",
             "sentiment": "neutral",
-            "comments": 32,
-            "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
+            "comments": 102,
+            "url": "https://davidnicholaswilliams.com/its-not-empowering-to-hand-off-the-details/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "GrapheneOS protections against data extraction from locked devices",
-            "insight": "HN 热议：341 分 · 210 评论",
-            "sentiment": "positive",
-            "comments": 210,
-            "url": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
+            "title": "Multiway Turing Machines (2021 pre-ai)",
+            "insight": "HN 热议：18 分 · 3 评论",
+            "sentiment": "neutral",
+            "comments": 3,
+            "url": "https://bulletins.wolframphysics.org/2021/02/multiway-turing-machines/",
             "id": 4
         },
         {
             "source": "HackerNews",
             "title": "London Gatwick has launched a robotic airport parking service",
-            "insight": "HN 热议：251 分 · 208 评论",
+            "insight": "HN 热议：267 分 · 233 评论",
             "sentiment": "positive",
-            "comments": 208,
+            "comments": 233,
             "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-26T21:45:02Z",
+    "updated": "2026-07-27T01:30:37Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

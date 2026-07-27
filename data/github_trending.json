@@ -1,13 +1,13 @@
 {
-  "updated": "2026-07-26T21:45:02Z",
+  "updated": "2026-07-27T01:30:37Z",
   "repos": [
     {
       "rank": 1,
       "name": "Significant-Gravitas/AutoGPT",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
       "language": "Python",
-      "stars": 185699,
-      "stars_today": 185699,
+      "stars": 185700,
+      "stars_today": 185700,
       "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
@@ -15,45 +15,45 @@
       "name": "f/prompts.chat",
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
       "language": "HTML",
-      "stars": 166391,
-      "stars_today": 166391,
+      "stars": 166397,
+      "stars_today": 166397,
       "url": "https://github.com/f/prompts.chat"
     },
     {
       "rank": 3,
-      "name": "hacksider/Deep-Live-Cam",
-      "description": "real time face swap and one-click video deepfake with only a single image",
-      "language": "Python",
-      "stars": 95271,
-      "stars_today": 95271,
-      "url": "https://github.com/hacksider/Deep-Live-Cam"
+      "name": "rasbt/LLMs-from-scratch",
+      "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+      "language": "Jupyter Notebook",
+      "stars": 99892,
+      "stars_today": 99892,
+      "url": "https://github.com/rasbt/LLMs-from-scratch"
     },
     {
       "rank": 4,
-      "name": "thedotmack/claude-mem",
-      "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
-      "language": "JavaScript",
-      "stars": 88638,
-      "stars_today": 88638,
-      "url": "https://github.com/thedotmack/claude-mem"
+      "name": "hacksider/Deep-Live-Cam",
+      "description": "real time face swap and one-click video deepfake with only a single image",
+      "language": "Python",
+      "stars": 95278,
+      "stars_today": 95278,
+      "url": "https://github.com/hacksider/Deep-Live-Cam"
     },
     {
       "rank": 5,
-      "name": "OpenHands/OpenHands",
-      "description": "🙌 OpenHands: AI-Driven Development",
-      "language": "Python",
-      "stars": 82186,
-      "stars_today": 82186,
-      "url": "https://github.com/OpenHands/OpenHands"
+      "name": "thedotmack/claude-mem",
+      "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
+      "language": "JavaScript",
+      "stars": 88648,
+      "stars_today": 88648,
+      "url": "https://github.com/thedotmack/claude-mem"
     },
     {
       "rank": 6,
-      "name": "FlowiseAI/Flowise",
-      "description": "Build AI Agents, Visually",
-      "language": "TypeScript",
-      "stars": 54944,
-      "stars_today": 54944,
-      "url": "https://github.com/FlowiseAI/Flowise"
+      "name": "OpenHands/OpenHands",
+      "description": "🙌 OpenHands: AI-Driven Development",
+      "language": "Python",
+      "stars": 82195,
+      "stars_today": 82195,
+      "url": "https://github.com/OpenHands/OpenHands"
     }
   ]
 }
