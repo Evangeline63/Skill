@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-27T12:08:05Z",
+    "updated": "2026-07-27T16:51:42Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-27T12:08:05Z",
+    "updated": "2026-07-27T16:51:42Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-27T12:08:05Z",
+    "updated": "2026-07-27T16:51:42Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185704,
-            "stars_today": 185704,
+            "stars": 185713,
+            "stars_today": 185713,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 166421,
-            "stars_today": 166421,
+            "stars": 166430,
+            "stars_today": 166430,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 99939,
-            "stars_today": 99939,
+            "stars": 99964,
+            "stars_today": 99964,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95298,
-            "stars_today": 95298,
+            "stars": 95304,
+            "stars_today": 95304,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,23 +309,23 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 88687,
-            "stars_today": 88687,
+            "stars": 88720,
+            "stars_today": 88720,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
             "rank": 6,
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
-            "language": "Python",
-            "stars": 82280,
-            "stars_today": 82280,
+            "language": "TypeScript",
+            "stars": 82302,
+            "stars_today": 82302,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-27T12:08:05Z",
+    "updated": "2026-07-27T16:51:42Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-27T12:08:05Z",
+    "updated": "2026-07-27T16:51:42Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-27T12:08:05Z",
+    "updated": "2026-07-27T16:51:42Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Elevated errors on Claude Opus 5",
-            "insight": "HN 热议：5 分 · 1 评论",
+            "title": "AI companies spend record sums on Washington lobbying",
+            "insight": "HN 热议：119 分 · 51 评论",
             "sentiment": "neutral",
-            "comments": 1,
-            "url": "https://status.claude.com/incidents/mfdtrknpxghq",
+            "comments": 51,
+            "url": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Elevated errors on Claude Opus 5",
-            "insight": "HN 热议：19 分 · 8 评论",
+            "title": "Minecraft Java raises recommended memory to 16GB ahead of Vulkan transition",
+            "insight": "HN 热议：36 分 · 33 评论",
             "sentiment": "neutral",
-            "comments": 8,
-            "url": "https://status.claude.com/incidents/lhqp09kxq7pb",
+            "comments": 33,
+            "url": "https://videocardz.com/newz/minecraft-java-edition-raises-recommended-memory-to-16gb-ahead-of-vulkan-transition",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Modern email can be built from borrowed parts",
-            "insight": "HN 热议：28 分 · 6 评论",
+            "title": "Nvidia's $750B in Deals Reignite Circular AI Fears",
+            "insight": "HN 热议：26 分 · 6 评论",
             "sentiment": "neutral",
             "comments": 6,
-            "url": "https://en.andros.dev/blog/d7ed8b07/modern-email-can-be-built-from-borrowed-parts/",
+            "url": "https://www.bloomberg.com/news/articles/2026-07-27/nvidia-s-750-billion-deals-revive-fear-of-ai-circular-financing",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "US citizen charged after GrapheneOS phone wipes during airport search",
-            "insight": "HN 热议：879 分 · 678 评论",
-            "sentiment": "positive",
-            "comments": 678,
-            "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
+            "title": "Modern email can be built from borrowed parts",
+            "insight": "HN 热议：99 分 · 40 评论",
+            "sentiment": "neutral",
+            "comments": 40,
+            "url": "https://en.andros.dev/blog/d7ed8b07/modern-email-can-be-built-from-borrowed-parts/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Watch 14-Byte AI \"brains\" attempt to solve a 2D maze (Its hard)",
-            "insight": "HN 热议：7 分 · 2 评论",
-            "sentiment": "neutral",
-            "comments": 2,
-            "url": "https://con-dog.github.io/MINIMIO-PUBLIC-FRONTEND/",
+            "title": "US citizen charged after GrapheneOS phone wipes during airport search",
+            "insight": "HN 热议：1150 分 · 860 评论",
+            "sentiment": "positive",
+            "comments": 860,
+            "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-27T12:08:05Z",
+    "updated": "2026-07-27T16:51:42Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

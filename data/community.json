@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-27T12:08:05Z",
+  "updated": "2026-07-27T16:51:42Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Elevated errors on Claude Opus 5",
-      "insight": "HN 热议：5 分 · 1 评论",
+      "title": "AI companies spend record sums on Washington lobbying",
+      "insight": "HN 热议：119 分 · 51 评论",
       "sentiment": "neutral",
-      "comments": 1,
-      "url": "https://status.claude.com/incidents/mfdtrknpxghq",
+      "comments": 51,
+      "url": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Elevated errors on Claude Opus 5",
-      "insight": "HN 热议：19 分 · 8 评论",
+      "title": "Minecraft Java raises recommended memory to 16GB ahead of Vulkan transition",
+      "insight": "HN 热议：36 分 · 33 评论",
       "sentiment": "neutral",
-      "comments": 8,
-      "url": "https://status.claude.com/incidents/lhqp09kxq7pb",
+      "comments": 33,
+      "url": "https://videocardz.com/newz/minecraft-java-edition-raises-recommended-memory-to-16gb-ahead-of-vulkan-transition",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Modern email can be built from borrowed parts",
-      "insight": "HN 热议：28 分 · 6 评论",
+      "title": "Nvidia's $750B in Deals Reignite Circular AI Fears",
+      "insight": "HN 热议：26 分 · 6 评论",
       "sentiment": "neutral",
       "comments": 6,
-      "url": "https://en.andros.dev/blog/d7ed8b07/modern-email-can-be-built-from-borrowed-parts/",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-27/nvidia-s-750-billion-deals-revive-fear-of-ai-circular-financing",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "US citizen charged after GrapheneOS phone wipes during airport search",
-      "insight": "HN 热议：879 分 · 678 评论",
-      "sentiment": "positive",
-      "comments": 678,
-      "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
+      "title": "Modern email can be built from borrowed parts",
+      "insight": "HN 热议：99 分 · 40 评论",
+      "sentiment": "neutral",
+      "comments": 40,
+      "url": "https://en.andros.dev/blog/d7ed8b07/modern-email-can-be-built-from-borrowed-parts/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Watch 14-Byte AI \"brains\" attempt to solve a 2D maze (Its hard)",
-      "insight": "HN 热议：7 分 · 2 评论",
-      "sentiment": "neutral",
-      "comments": 2,
-      "url": "https://con-dog.github.io/MINIMIO-PUBLIC-FRONTEND/",
+      "title": "US citizen charged after GrapheneOS phone wipes during airport search",
+      "insight": "HN 热议：1150 分 · 860 评论",
+      "sentiment": "positive",
+      "comments": 860,
+      "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
       "id": 5
     }
   ]
