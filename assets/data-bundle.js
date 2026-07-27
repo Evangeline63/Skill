@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-27T16:51:42Z",
+    "updated": "2026-07-27T19:06:48Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-27T16:51:42Z",
+    "updated": "2026-07-27T19:06:48Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-27T16:51:42Z",
+    "updated": "2026-07-27T19:06:48Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185713,
-            "stars_today": 185713,
+            "stars": 185719,
+            "stars_today": 185719,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 99964,
-            "stars_today": 99964,
+            "stars": 99974,
+            "stars_today": 99974,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95304,
-            "stars_today": 95304,
+            "stars": 95307,
+            "stars_today": 95307,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 88720,
-            "stars_today": 88720,
+            "stars": 88730,
+            "stars_today": 88730,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 82302,
-            "stars_today": 82302,
+            "stars": 82311,
+            "stars_today": 82311,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-27T16:51:42Z",
+    "updated": "2026-07-27T19:06:48Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-27T16:51:42Z",
+    "updated": "2026-07-27T19:06:48Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-27T16:51:42Z",
+    "updated": "2026-07-27T19:06:48Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "AI companies spend record sums on Washington lobbying",
-            "insight": "HN 热议：119 分 · 51 评论",
+            "title": "MAI-Cyber 1",
+            "insight": "HN 热议：152 分 · 62 评论",
             "sentiment": "neutral",
-            "comments": 51,
-            "url": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db",
+            "comments": 62,
+            "url": "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Minecraft Java raises recommended memory to 16GB ahead of Vulkan transition",
-            "insight": "HN 热议：36 分 · 33 评论",
+            "title": "Show HN: FeyNoBg – Automatic background removal model and training library",
+            "insight": "HN 热议：36 分 · 12 评论",
             "sentiment": "neutral",
-            "comments": 33,
-            "url": "https://videocardz.com/newz/minecraft-java-edition-raises-recommended-memory-to-16gb-ahead-of-vulkan-transition",
+            "comments": 12,
+            "url": "https://usefeyn.com/blog/feynobg/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Nvidia's $750B in Deals Reignite Circular AI Fears",
-            "insight": "HN 热议：26 分 · 6 评论",
+            "title": "Self-contained highly-portable Python distributions",
+            "insight": "HN 热议：12 分 · 0 评论",
             "sentiment": "neutral",
-            "comments": 6,
-            "url": "https://www.bloomberg.com/news/articles/2026-07-27/nvidia-s-750-billion-deals-revive-fear-of-ai-circular-financing",
+            "comments": 0,
+            "url": "https://gregoryszorc.com/docs/python-build-standalone/main/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Modern email can be built from borrowed parts",
-            "insight": "HN 热议：99 分 · 40 评论",
+            "title": "Exploiting Volvo/Eicher's fleet platform to gain control over all users/vehicles",
+            "insight": "HN 热议：48 分 · 8 评论",
             "sentiment": "neutral",
-            "comments": 40,
-            "url": "https://en.andros.dev/blog/d7ed8b07/modern-email-can-be-built-from-borrowed-parts/",
+            "comments": 8,
+            "url": "https://eaton-works.com/2026/07/27/my-eicher-hack/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "US citizen charged after GrapheneOS phone wipes during airport search",
-            "insight": "HN 热议：1150 分 · 860 评论",
-            "sentiment": "positive",
-            "comments": 860,
-            "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
+            "title": "Jensen Huang's first-ever post on X is in defense of open access to AI models",
+            "insight": "HN 热议：39 分 · 13 评论",
+            "sentiment": "neutral",
+            "comments": 13,
+            "url": "https://www.pcgamer.com/software/ai/jensen-huangs-first-ever-post-on-x-is-in-defense-of-open-access-to-ai-models-alongside-google-openai-and-meta/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-27T16:51:42Z",
+    "updated": "2026-07-27T19:06:48Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

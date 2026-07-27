@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-27T16:51:42Z",
+  "updated": "2026-07-27T19:06:48Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "AI companies spend record sums on Washington lobbying",
-      "insight": "HN 热议：119 分 · 51 评论",
+      "title": "MAI-Cyber 1",
+      "insight": "HN 热议：152 分 · 62 评论",
       "sentiment": "neutral",
-      "comments": 51,
-      "url": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db",
+      "comments": 62,
+      "url": "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Minecraft Java raises recommended memory to 16GB ahead of Vulkan transition",
-      "insight": "HN 热议：36 分 · 33 评论",
+      "title": "Show HN: FeyNoBg – Automatic background removal model and training library",
+      "insight": "HN 热议：36 分 · 12 评论",
       "sentiment": "neutral",
-      "comments": 33,
-      "url": "https://videocardz.com/newz/minecraft-java-edition-raises-recommended-memory-to-16gb-ahead-of-vulkan-transition",
+      "comments": 12,
+      "url": "https://usefeyn.com/blog/feynobg/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Nvidia's $750B in Deals Reignite Circular AI Fears",
-      "insight": "HN 热议：26 分 · 6 评论",
+      "title": "Self-contained highly-portable Python distributions",
+      "insight": "HN 热议：12 分 · 0 评论",
       "sentiment": "neutral",
-      "comments": 6,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-27/nvidia-s-750-billion-deals-revive-fear-of-ai-circular-financing",
+      "comments": 0,
+      "url": "https://gregoryszorc.com/docs/python-build-standalone/main/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Modern email can be built from borrowed parts",
-      "insight": "HN 热议：99 分 · 40 评论",
+      "title": "Exploiting Volvo/Eicher's fleet platform to gain control over all users/vehicles",
+      "insight": "HN 热议：48 分 · 8 评论",
       "sentiment": "neutral",
-      "comments": 40,
-      "url": "https://en.andros.dev/blog/d7ed8b07/modern-email-can-be-built-from-borrowed-parts/",
+      "comments": 8,
+      "url": "https://eaton-works.com/2026/07/27/my-eicher-hack/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "US citizen charged after GrapheneOS phone wipes during airport search",
-      "insight": "HN 热议：1150 分 · 860 评论",
-      "sentiment": "positive",
-      "comments": 860,
-      "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
+      "title": "Jensen Huang's first-ever post on X is in defense of open access to AI models",
+      "insight": "HN 热议：39 分 · 13 评论",
+      "sentiment": "neutral",
+      "comments": 13,
+      "url": "https://www.pcgamer.com/software/ai/jensen-huangs-first-ever-post-on-x-is-in-defense-of-open-access-to-ai-models-alongside-google-openai-and-meta/",
       "id": 5
     }
   ]
