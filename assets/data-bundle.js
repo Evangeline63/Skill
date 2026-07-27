@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-27T19:06:48Z",
+    "updated": "2026-07-27T21:54:33Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-27T19:06:48Z",
+    "updated": "2026-07-27T21:54:33Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,7 +266,7 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-27T19:06:48Z",
+    "updated": "2026-07-27T21:54:33Z",
     "repos": [
         {
             "rank": 1,
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 166430,
-            "stars_today": 166430,
+            "stars": 166431,
+            "stars_today": 166431,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 99974,
-            "stars_today": 99974,
+            "stars": 99977,
+            "stars_today": 99977,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 88730,
-            "stars_today": 88730,
+            "stars": 88746,
+            "stars_today": 88746,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 82311,
-            "stars_today": 82311,
+            "stars": 82323,
+            "stars_today": 82323,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-27T19:06:48Z",
+    "updated": "2026-07-27T21:54:33Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-27T19:06:48Z",
+    "updated": "2026-07-27T21:54:33Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-27T19:06:48Z",
+    "updated": "2026-07-27T21:54:33Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "MAI-Cyber 1",
-            "insight": "HN 热议：152 分 · 62 评论",
+            "title": "Self-contained highly-portable Python distributions",
+            "insight": "HN 热议：70 分 · 17 评论",
             "sentiment": "neutral",
-            "comments": 62,
-            "url": "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/",
+            "comments": 17,
+            "url": "https://gregoryszorc.com/docs/python-build-standalone/main/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: FeyNoBg – Automatic background removal model and training library",
-            "insight": "HN 热议：36 分 · 12 评论",
+            "title": "Securing Services with Rootless Containers",
+            "insight": "HN 热议：14 分 · 5 评论",
             "sentiment": "neutral",
-            "comments": 12,
-            "url": "https://usefeyn.com/blog/feynobg/",
+            "comments": 5,
+            "url": "https://blog.coderspirit.xyz/blog/2026/07/06/securing-services-with-rootless-containers/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Self-contained highly-portable Python distributions",
-            "insight": "HN 热议：12 分 · 0 评论",
+            "title": "Exploiting Volvo/Eicher's fleet platform to gain control over all users/vehicles",
+            "insight": "HN 热议：107 分 · 34 评论",
             "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://gregoryszorc.com/docs/python-build-standalone/main/",
+            "comments": 34,
+            "url": "https://eaton-works.com/2026/07/27/my-eicher-hack/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Exploiting Volvo/Eicher's fleet platform to gain control over all users/vehicles",
-            "insight": "HN 热议：48 分 · 8 评论",
+            "title": "Show HN: FeyNoBg – Automatic background removal model and training library",
+            "insight": "HN 热议：67 分 · 20 评论",
             "sentiment": "neutral",
-            "comments": 8,
-            "url": "https://eaton-works.com/2026/07/27/my-eicher-hack/",
+            "comments": 20,
+            "url": "https://usefeyn.com/blog/feynobg/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Jensen Huang's first-ever post on X is in defense of open access to AI models",
-            "insight": "HN 热议：39 分 · 13 评论",
+            "title": "MAI-Cyber-1-Flash inside MDASH",
+            "insight": "HN 热议：198 分 · 105 评论",
             "sentiment": "neutral",
-            "comments": 13,
-            "url": "https://www.pcgamer.com/software/ai/jensen-huangs-first-ever-post-on-x-is-in-defense-of-open-access-to-ai-models-alongside-google-openai-and-meta/",
+            "comments": 105,
+            "url": "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-27T19:06:48Z",
+    "updated": "2026-07-27T21:54:33Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
