@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-27T01:30:37Z",
+  "updated": "2026-07-27T06:14:53Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "US citizen charged after GrapheneOS phone wipes during airport search",
-      "insight": "HN 热议：116 分 · 54 评论",
-      "sentiment": "neutral",
-      "comments": 54,
+      "insight": "HN 热议：491 分 · 334 评论",
+      "sentiment": "positive",
+      "comments": 334,
       "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "The New AI Superpowers: Focus and Followthrough",
-      "insight": "HN 热议：142 分 · 44 评论",
+      "insight": "HN 热议：186 分 · 54 评论",
       "sentiment": "neutral",
-      "comments": 44,
+      "comments": 54,
       "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "It's not empowering to hand off the details",
-      "insight": "HN 热议：181 分 · 102 评论",
+      "title": "Terence Tao: Mathematics in the Age of AI [pdf]",
+      "insight": "HN 热议：116 分 · 49 评论",
       "sentiment": "neutral",
-      "comments": 102,
-      "url": "https://davidnicholaswilliams.com/its-not-empowering-to-hand-off-the-details/",
+      "comments": 49,
+      "url": "https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Multiway Turing Machines (2021 pre-ai)",
-      "insight": "HN 热议：18 分 · 3 评论",
-      "sentiment": "neutral",
-      "comments": 3,
-      "url": "https://bulletins.wolframphysics.org/2021/02/multiway-turing-machines/",
+      "title": "London Gatwick has launched a robotic airport parking service",
+      "insight": "HN 热议：275 分 · 239 评论",
+      "sentiment": "positive",
+      "comments": 239,
+      "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "London Gatwick has launched a robotic airport parking service",
-      "insight": "HN 热议：267 分 · 233 评论",
-      "sentiment": "positive",
-      "comments": 233,
-      "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/",
+      "title": "It's not empowering to hand off the details",
+      "insight": "HN 热议：192 分 · 114 评论",
+      "sentiment": "neutral",
+      "comments": 114,
+      "url": "https://davidnicholaswilliams.com/its-not-empowering-to-hand-off-the-details/",
       "id": 5
     }
   ]

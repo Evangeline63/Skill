@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-27T01:30:37Z",
+    "updated": "2026-07-27T06:14:53Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-27T01:30:37Z",
+    "updated": "2026-07-27T06:14:53Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-27T01:30:37Z",
+    "updated": "2026-07-27T06:14:53Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185700,
-            "stars_today": 185700,
+            "stars": 185704,
+            "stars_today": 185704,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 166397,
-            "stars_today": 166397,
+            "stars": 166410,
+            "stars_today": 166410,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 99892,
-            "stars_today": 99892,
+            "stars": 99914,
+            "stars_today": 99914,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95278,
-            "stars_today": 95278,
+            "stars": 95293,
+            "stars_today": 95293,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 88648,
-            "stars_today": 88648,
+            "stars": 88668,
+            "stars_today": 88668,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 82195,
-            "stars_today": 82195,
+            "stars": 82227,
+            "stars_today": 82227,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-27T01:30:37Z",
+    "updated": "2026-07-27T06:14:53Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-27T01:30:37Z",
+    "updated": "2026-07-27T06:14:53Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-27T01:30:37Z",
+    "updated": "2026-07-27T06:14:53Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "US citizen charged after GrapheneOS phone wipes during airport search",
-            "insight": "HN 热议：116 分 · 54 评论",
-            "sentiment": "neutral",
-            "comments": 54,
+            "insight": "HN 热议：491 分 · 334 评论",
+            "sentiment": "positive",
+            "comments": 334,
             "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "The New AI Superpowers: Focus and Followthrough",
-            "insight": "HN 热议：142 分 · 44 评论",
+            "insight": "HN 热议：186 分 · 54 评论",
             "sentiment": "neutral",
-            "comments": 44,
+            "comments": 54,
             "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "It's not empowering to hand off the details",
-            "insight": "HN 热议：181 分 · 102 评论",
+            "title": "Terence Tao: Mathematics in the Age of AI [pdf]",
+            "insight": "HN 热议：116 分 · 49 评论",
             "sentiment": "neutral",
-            "comments": 102,
-            "url": "https://davidnicholaswilliams.com/its-not-empowering-to-hand-off-the-details/",
+            "comments": 49,
+            "url": "https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Multiway Turing Machines (2021 pre-ai)",
-            "insight": "HN 热议：18 分 · 3 评论",
-            "sentiment": "neutral",
-            "comments": 3,
-            "url": "https://bulletins.wolframphysics.org/2021/02/multiway-turing-machines/",
+            "title": "London Gatwick has launched a robotic airport parking service",
+            "insight": "HN 热议：275 分 · 239 评论",
+            "sentiment": "positive",
+            "comments": 239,
+            "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "London Gatwick has launched a robotic airport parking service",
-            "insight": "HN 热议：267 分 · 233 评论",
-            "sentiment": "positive",
-            "comments": 233,
-            "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/",
+            "title": "It's not empowering to hand off the details",
+            "insight": "HN 热议：192 分 · 114 评论",
+            "sentiment": "neutral",
+            "comments": 114,
+            "url": "https://davidnicholaswilliams.com/its-not-empowering-to-hand-off-the-details/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-27T01:30:37Z",
+    "updated": "2026-07-27T06:14:53Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
