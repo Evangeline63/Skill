@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-27T06:14:53Z",
+    "updated": "2026-07-27T12:08:05Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-27T06:14:53Z",
+    "updated": "2026-07-27T12:08:05Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,7 +266,7 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-27T06:14:53Z",
+    "updated": "2026-07-27T12:08:05Z",
     "repos": [
         {
             "rank": 1,
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 166410,
-            "stars_today": 166410,
+            "stars": 166421,
+            "stars_today": 166421,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 99914,
-            "stars_today": 99914,
+            "stars": 99939,
+            "stars_today": 99939,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95293,
-            "stars_today": 95293,
+            "stars": 95298,
+            "stars_today": 95298,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 88668,
-            "stars_today": 88668,
+            "stars": 88687,
+            "stars_today": 88687,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "Python",
-            "stars": 82227,
-            "stars_today": 82227,
+            "stars": 82280,
+            "stars_today": 82280,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-27T06:14:53Z",
+    "updated": "2026-07-27T12:08:05Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-27T06:14:53Z",
+    "updated": "2026-07-27T12:08:05Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-27T06:14:53Z",
+    "updated": "2026-07-27T12:08:05Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "US citizen charged after GrapheneOS phone wipes during airport search",
-            "insight": "HN 热议：491 分 · 334 评论",
-            "sentiment": "positive",
-            "comments": 334,
-            "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
+            "title": "Elevated errors on Claude Opus 5",
+            "insight": "HN 热议：5 分 · 1 评论",
+            "sentiment": "neutral",
+            "comments": 1,
+            "url": "https://status.claude.com/incidents/mfdtrknpxghq",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "The New AI Superpowers: Focus and Followthrough",
-            "insight": "HN 热议：186 分 · 54 评论",
+            "title": "Elevated errors on Claude Opus 5",
+            "insight": "HN 热议：19 分 · 8 评论",
             "sentiment": "neutral",
-            "comments": 54,
-            "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
+            "comments": 8,
+            "url": "https://status.claude.com/incidents/lhqp09kxq7pb",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Terence Tao: Mathematics in the Age of AI [pdf]",
-            "insight": "HN 热议：116 分 · 49 评论",
+            "title": "Modern email can be built from borrowed parts",
+            "insight": "HN 热议：28 分 · 6 评论",
             "sentiment": "neutral",
-            "comments": 49,
-            "url": "https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf",
+            "comments": 6,
+            "url": "https://en.andros.dev/blog/d7ed8b07/modern-email-can-be-built-from-borrowed-parts/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "London Gatwick has launched a robotic airport parking service",
-            "insight": "HN 热议：275 分 · 239 评论",
+            "title": "US citizen charged after GrapheneOS phone wipes during airport search",
+            "insight": "HN 热议：879 分 · 678 评论",
             "sentiment": "positive",
-            "comments": 239,
-            "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/",
+            "comments": 678,
+            "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "It's not empowering to hand off the details",
-            "insight": "HN 热议：192 分 · 114 评论",
+            "title": "Show HN: Watch 14-Byte AI \"brains\" attempt to solve a 2D maze (Its hard)",
+            "insight": "HN 热议：7 分 · 2 评论",
             "sentiment": "neutral",
-            "comments": 114,
-            "url": "https://davidnicholaswilliams.com/its-not-empowering-to-hand-off-the-details/",
+            "comments": 2,
+            "url": "https://con-dog.github.io/MINIMIO-PUBLIC-FRONTEND/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-27T06:14:53Z",
+    "updated": "2026-07-27T12:08:05Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
