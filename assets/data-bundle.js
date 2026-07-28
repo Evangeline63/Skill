@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-28T01:17:59Z",
+    "updated": "2026-07-28T05:35:36Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-28T01:17:59Z",
+    "updated": "2026-07-28T05:35:36Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-28T01:17:59Z",
+    "updated": "2026-07-28T05:35:36Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185718,
-            "stars_today": 185718,
+            "stars": 185725,
+            "stars_today": 185725,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 166438,
-            "stars_today": 166438,
+            "stars": 166454,
+            "stars_today": 166454,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 99984,
-            "stars_today": 99984,
+            "stars": 100001,
+            "stars_today": 100001,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95306,
-            "stars_today": 95306,
+            "stars": 95313,
+            "stars_today": 95313,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 88756,
-            "stars_today": 88756,
+            "stars": 88775,
+            "stars_today": 88775,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 82328,
-            "stars_today": 82328,
+            "stars": 82353,
+            "stars_today": 82353,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-28T01:17:59Z",
+    "updated": "2026-07-28T05:35:36Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-28T01:17:59Z",
+    "updated": "2026-07-28T05:35:36Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-28T01:17:59Z",
+    "updated": "2026-07-28T05:35:36Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "The Burau representation of the braid group is faithful for n = 4",
-            "insight": "HN 热议：10 分 · 5 评论",
+            "title": "Self-contained highly-portable Python distributions",
+            "insight": "HN 热议：128 分 · 29 评论",
             "sentiment": "neutral",
-            "comments": 5,
-            "url": "https://arxiv.org/abs/2607.05283",
+            "comments": 29,
+            "url": "https://gregoryszorc.com/docs/python-build-standalone/main/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Self-contained highly-portable Python distributions",
-            "insight": "HN 热议：110 分 · 22 评论",
+            "title": "Securing Services with Rootless Containers",
+            "insight": "HN 热议：80 分 · 25 评论",
             "sentiment": "neutral",
-            "comments": 22,
-            "url": "https://gregoryszorc.com/docs/python-build-standalone/main/",
+            "comments": 25,
+            "url": "https://blog.coderspirit.xyz/blog/2026/07/06/securing-services-with-rootless-containers/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Securing Services with Rootless Containers",
-            "insight": "HN 热议：57 分 · 21 评论",
+            "title": "The Burau representation of the braid group is faithful for n = 4",
+            "insight": "HN 热议：29 分 · 10 评论",
             "sentiment": "neutral",
-            "comments": 21,
-            "url": "https://blog.coderspirit.xyz/blog/2026/07/06/securing-services-with-rootless-containers/",
+            "comments": 10,
+            "url": "https://arxiv.org/abs/2607.05283",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Netflix employee fired for sharing personal details in retreat trust exercise",
-            "insight": "HN 热议：132 分 · 67 评论",
+            "title": "Kimi K3 Now Available via Telnyx Inference API",
+            "insight": "HN 热议：39 分 · 14 评论",
             "sentiment": "neutral",
-            "comments": 67,
-            "url": "https://www.inc.com/amaya-nichole/netflix-company-retreat-sparked-lawsuit-experts-say-real-damage-may-be-just-beginning/91380349",
+            "comments": 14,
+            "url": "https://telnyx.com/release-notes/kimi-k3-telnyx-inference",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Exploiting Volvo/Eicher's fleet platform to gain control over all users/vehicles",
-            "insight": "HN 热议：134 分 · 44 评论",
-            "sentiment": "neutral",
-            "comments": 44,
-            "url": "https://eaton-works.com/2026/07/27/my-eicher-hack/",
+            "title": "Netflix employee fired for sharing personal details in retreat trust exercise",
+            "insight": "HN 热议：244 分 · 196 评论",
+            "sentiment": "positive",
+            "comments": 196,
+            "url": "https://nypost.com/2026/07/26/us-news/netflix-exec-goes-ballistic-after-being-fired-for-stunning-trust-exercise-confession-at-retreat-suit/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-28T01:17:59Z",
+    "updated": "2026-07-28T05:35:36Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
