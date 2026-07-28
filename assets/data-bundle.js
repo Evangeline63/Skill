@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-28T11:07:04Z",
+    "updated": "2026-07-28T13:25:00Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-28T11:07:04Z",
+    "updated": "2026-07-28T13:25:00Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-28T11:07:04Z",
+    "updated": "2026-07-28T13:25:00Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185730,
-            "stars_today": 185730,
+            "stars": 185734,
+            "stars_today": 185734,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 166467,
-            "stars_today": 166467,
+            "stars": 166476,
+            "stars_today": 166476,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 100028,
-            "stars_today": 100028,
+            "stars": 100033,
+            "stars_today": 100033,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95319,
-            "stars_today": 95319,
+            "stars": 95322,
+            "stars_today": 95322,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 88807,
-            "stars_today": 88807,
+            "stars": 88820,
+            "stars_today": 88820,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 82372,
-            "stars_today": 82372,
+            "stars": 82389,
+            "stars_today": 82389,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-28T11:07:04Z",
+    "updated": "2026-07-28T13:25:00Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-28T11:07:04Z",
+    "updated": "2026-07-28T13:25:00Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-28T11:07:04Z",
+    "updated": "2026-07-28T13:25:00Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Google's Beyond Zero: Enterprise Security for the AI Era",
-            "insight": "HN 热议：11 分 · 3 评论",
+            "title": "AI revenues are growing fast, but not fast enough",
+            "insight": "HN 热议：20 分 · 7 评论",
             "sentiment": "neutral",
-            "comments": 3,
-            "url": "https://spawn-queue.acm.org/doi/10.1145/3819083",
+            "comments": 7,
+            "url": "https://www.economist.com/finance-and-economics/2026/07/28/ai-revenues-are-growing-fast-but-not-fast-enough",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Kimi K3 Now Available via Telnyx Inference API",
-            "insight": "HN 热议：92 分 · 45 评论",
+            "title": "Google's Beyond Zero: Enterprise Security for the AI Era",
+            "insight": "HN 热议：44 分 · 33 评论",
             "sentiment": "neutral",
-            "comments": 45,
-            "url": "https://telnyx.com/release-notes/kimi-k3-telnyx-inference",
+            "comments": 33,
+            "url": "https://spawn-queue.acm.org/doi/10.1145/3819083",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Self-contained highly-portable Python distributions",
-            "insight": "HN 热议：150 分 · 32 评论",
+            "title": "Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code",
+            "insight": "HN 热议：4 分 · 1 评论",
             "sentiment": "neutral",
-            "comments": 32,
-            "url": "https://gregoryszorc.com/docs/python-build-standalone/main/",
+            "comments": 1,
+            "url": "https://github.com/schildep/verified-3d-mesh-intersection",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Securing Services with Rootless Containers",
-            "insight": "HN 热议：103 分 · 31 评论",
+            "title": "Show HN: Ctrlb-decompose: Strip the noise from logs before sending to LLMs",
+            "insight": "HN 热议：14 分 · 1 评论",
             "sentiment": "neutral",
-            "comments": 31,
-            "url": "https://blog.coderspirit.xyz/blog/2026/07/06/securing-services-with-rootless-containers/",
+            "comments": 1,
+            "url": "https://github.com/ctrlb-hq/ctrlb-decompose",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Netflix employee fired for sharing personal details in retreat trust exercise",
-            "insight": "HN 热议：349 分 · 345 评论",
-            "sentiment": "positive",
-            "comments": 345,
-            "url": "https://nypost.com/2026/07/26/us-news/netflix-exec-goes-ballistic-after-being-fired-for-stunning-trust-exercise-confession-at-retreat-suit/",
+            "title": "Fast Remediation Is the New Trust Model (JFrog and OpenAI Zero-Day Findings)",
+            "insight": "HN 热议：14 分 · 3 评论",
+            "sentiment": "neutral",
+            "comments": 3,
+            "url": "https://jfrog.com/blog/jfrog-and-openai-collaboration-on-zero-day-security-findings/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-28T11:07:04Z",
+    "updated": "2026-07-28T13:25:00Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
