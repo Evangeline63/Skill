@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-28T19:01:59Z",
+  "updated": "2026-07-28T21:53:23Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Discovering Cryptographic Weaknesses with Claude",
-      "insight": "HN 热议：71 分 · 26 评论",
+      "title": "OpenAI just open-sourced Codex Security",
+      "insight": "HN 热议：128 分 · 20 评论",
       "sentiment": "neutral",
-      "comments": 26,
-      "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
+      "comments": 20,
+      "url": "https://github.com/openai/codex-security",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Now Is the Time to Give LLMs Access to the ACM Digital Library",
-      "insight": "HN 热议：60 分 · 19 评论",
+      "title": "Discovering Cryptographic Weaknesses with Claude",
+      "insight": "HN 热议：124 分 · 68 评论",
       "sentiment": "neutral",
-      "comments": 19,
-      "url": "https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/",
+      "comments": 68,
+      "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Harmony Explained: Progress Towards a Scientific Theory of Music (2012)",
-      "insight": "HN 热议：63 分 · 46 评论",
+      "title": "Anthropic publishes a practical key-recovery attack on HAWK-256",
+      "insight": "HN 热议：7 分 · 0 评论",
       "sentiment": "neutral",
-      "comments": 46,
-      "url": "https://arxiv.org/abs/1202.4212",
+      "comments": 0,
+      "url": "https://github.com/anthropics/cryptography-research-demo",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "DMARC has been public since 2012 but most company domains still don't enforce it",
-      "insight": "HN 热议：148 分 · 88 评论",
+      "title": "Harmony Explained: Progress Towards a Scientific Theory of Music (2012)",
+      "insight": "HN 热议：81 分 · 63 评论",
       "sentiment": "neutral",
-      "comments": 88,
-      "url": "https://ciphercue.com/blog/dmarc-enforcement-gap-rua-fragmentation-2026",
+      "comments": 63,
+      "url": "https://arxiv.org/abs/1202.4212",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Scientific computing in the age of agentic AI",
-      "insight": "HN 热议：25 分 · 8 评论",
+      "title": "Una GPS smart watch – Repairable, USB-C charging, developer-friendly",
+      "insight": "HN 热议：103 分 · 71 评论",
       "sentiment": "neutral",
-      "comments": 8,
-      "url": "https://openai.com/index/scientific-computing-agentic-ai/",
+      "comments": 71,
+      "url": "https://unawatch.com/",
       "id": 5
     }
   ]
