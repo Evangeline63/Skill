@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-28T13:25:00Z",
+    "updated": "2026-07-28T16:26:19Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-28T13:25:00Z",
+    "updated": "2026-07-28T16:26:19Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,7 +266,7 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-28T13:25:00Z",
+    "updated": "2026-07-28T16:26:19Z",
     "repos": [
         {
             "rank": 1,
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 166476,
-            "stars_today": 166476,
+            "stars": 166477,
+            "stars_today": 166477,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 100033,
-            "stars_today": 100033,
+            "stars": 100042,
+            "stars_today": 100042,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95322,
-            "stars_today": 95322,
+            "stars": 95323,
+            "stars_today": 95323,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 88820,
-            "stars_today": 88820,
+            "stars": 88837,
+            "stars_today": 88837,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 82389,
-            "stars_today": 82389,
+            "stars": 82404,
+            "stars_today": 82404,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-28T13:25:00Z",
+    "updated": "2026-07-28T16:26:19Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-28T13:25:00Z",
+    "updated": "2026-07-28T16:26:19Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-28T13:25:00Z",
+    "updated": "2026-07-28T16:26:19Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "AI revenues are growing fast, but not fast enough",
-            "insight": "HN 热议：20 分 · 7 评论",
+            "title": "Harmony Explained: Progress Towards a Scientific Theory of Music (2012)",
+            "insight": "HN 热议：29 分 · 17 评论",
             "sentiment": "neutral",
-            "comments": 7,
-            "url": "https://www.economist.com/finance-and-economics/2026/07/28/ai-revenues-are-growing-fast-but-not-fast-enough",
+            "comments": 17,
+            "url": "https://arxiv.org/abs/1202.4212",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Google's Beyond Zero: Enterprise Security for the AI Era",
-            "insight": "HN 热议：44 分 · 33 评论",
+            "title": "Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code",
+            "insight": "HN 热议：76 分 · 33 评论",
             "sentiment": "neutral",
             "comments": 33,
-            "url": "https://spawn-queue.acm.org/doi/10.1145/3819083",
+            "url": "https://github.com/schildep/verified-3d-mesh-intersection",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code",
-            "insight": "HN 热议：4 分 · 1 评论",
+            "title": "DMARC Has Been Public Since 2012. 68.4% of Domains Still Don't Enforce It",
+            "insight": "HN 热议：92 分 · 70 评论",
             "sentiment": "neutral",
-            "comments": 1,
-            "url": "https://github.com/schildep/verified-3d-mesh-intersection",
+            "comments": 70,
+            "url": "https://ciphercue.com/blog/dmarc-enforcement-gap-rua-fragmentation-2026",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Ctrlb-decompose: Strip the noise from logs before sending to LLMs",
-            "insight": "HN 热议：14 分 · 1 评论",
+            "title": "Google's Beyond Zero: Enterprise Security for the AI Era",
+            "insight": "HN 热议：100 分 · 54 评论",
             "sentiment": "neutral",
-            "comments": 1,
-            "url": "https://github.com/ctrlb-hq/ctrlb-decompose",
+            "comments": 54,
+            "url": "https://spawn-queue.acm.org/doi/10.1145/3819083",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Fast Remediation Is the New Trust Model (JFrog and OpenAI Zero-Day Findings)",
-            "insight": "HN 热议：14 分 · 3 评论",
+            "title": "What AI developers could learn from Charles Bukowski?",
+            "insight": "HN 热议：52 分 · 37 评论",
             "sentiment": "neutral",
-            "comments": 3,
-            "url": "https://jfrog.com/blog/jfrog-and-openai-collaboration-on-zero-day-security-findings/",
+            "comments": 37,
+            "url": "https://galjot.si/what-ai-developers-could-learn-from-charles-bukowski",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-28T13:25:00Z",
+    "updated": "2026-07-28T16:26:19Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
