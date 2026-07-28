@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-27T21:54:33Z",
+  "updated": "2026-07-28T01:17:59Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Self-contained highly-portable Python distributions",
-      "insight": "HN 热议：70 分 · 17 评论",
+      "title": "The Burau representation of the braid group is faithful for n = 4",
+      "insight": "HN 热议：10 分 · 5 评论",
       "sentiment": "neutral",
-      "comments": 17,
-      "url": "https://gregoryszorc.com/docs/python-build-standalone/main/",
+      "comments": 5,
+      "url": "https://arxiv.org/abs/2607.05283",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Securing Services with Rootless Containers",
-      "insight": "HN 热议：14 分 · 5 评论",
+      "title": "Self-contained highly-portable Python distributions",
+      "insight": "HN 热议：110 分 · 22 评论",
       "sentiment": "neutral",
-      "comments": 5,
-      "url": "https://blog.coderspirit.xyz/blog/2026/07/06/securing-services-with-rootless-containers/",
+      "comments": 22,
+      "url": "https://gregoryszorc.com/docs/python-build-standalone/main/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Exploiting Volvo/Eicher's fleet platform to gain control over all users/vehicles",
-      "insight": "HN 热议：107 分 · 34 评论",
+      "title": "Securing Services with Rootless Containers",
+      "insight": "HN 热议：57 分 · 21 评论",
       "sentiment": "neutral",
-      "comments": 34,
-      "url": "https://eaton-works.com/2026/07/27/my-eicher-hack/",
+      "comments": 21,
+      "url": "https://blog.coderspirit.xyz/blog/2026/07/06/securing-services-with-rootless-containers/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: FeyNoBg – Automatic background removal model and training library",
-      "insight": "HN 热议：67 分 · 20 评论",
+      "title": "Netflix employee fired for sharing personal details in retreat trust exercise",
+      "insight": "HN 热议：132 分 · 67 评论",
       "sentiment": "neutral",
-      "comments": 20,
-      "url": "https://usefeyn.com/blog/feynobg/",
+      "comments": 67,
+      "url": "https://www.inc.com/amaya-nichole/netflix-company-retreat-sparked-lawsuit-experts-say-real-damage-may-be-just-beginning/91380349",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "MAI-Cyber-1-Flash inside MDASH",
-      "insight": "HN 热议：198 分 · 105 评论",
+      "title": "Exploiting Volvo/Eicher's fleet platform to gain control over all users/vehicles",
+      "insight": "HN 热议：134 分 · 44 评论",
       "sentiment": "neutral",
-      "comments": 105,
-      "url": "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/",
+      "comments": 44,
+      "url": "https://eaton-works.com/2026/07/27/my-eicher-hack/",
       "id": 5
     }
   ]
