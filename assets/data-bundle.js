@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-28T21:53:23Z",
+    "updated": "2026-07-29T01:20:11Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-28T21:53:23Z",
+    "updated": "2026-07-29T01:20:11Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-28T21:53:23Z",
+    "updated": "2026-07-29T01:20:11Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185741,
-            "stars_today": 185741,
+            "stars": 185740,
+            "stars_today": 185740,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 166484,
-            "stars_today": 166484,
+            "stars": 166483,
+            "stars_today": 166483,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 100055,
-            "stars_today": 100055,
+            "stars": 100059,
+            "stars_today": 100059,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95329,
-            "stars_today": 95329,
+            "stars": 95332,
+            "stars_today": 95332,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 88861,
-            "stars_today": 88861,
+            "stars": 88878,
+            "stars_today": 88878,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 82420,
-            "stars_today": 82420,
+            "stars": 82432,
+            "stars_today": 82432,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-28T21:53:23Z",
+    "updated": "2026-07-29T01:20:11Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-28T21:53:23Z",
+    "updated": "2026-07-29T01:20:11Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-28T21:53:23Z",
+    "updated": "2026-07-29T01:20:11Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "OpenAI just open-sourced Codex Security",
-            "insight": "HN 热议：128 分 · 20 评论",
+            "title": "Hubble: Open-source notetaking app for you and your agents",
+            "insight": "HN 热议：22 分 · 3 评论",
             "sentiment": "neutral",
-            "comments": 20,
-            "url": "https://github.com/openai/codex-security",
+            "comments": 3,
+            "url": "https://www.hubble.md/",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "Discovering Cryptographic Weaknesses with Claude",
-            "insight": "HN 热议：124 分 · 68 评论",
+            "insight": "HN 热议：177 分 · 119 评论",
             "sentiment": "neutral",
-            "comments": 68,
+            "comments": 119,
             "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Anthropic publishes a practical key-recovery attack on HAWK-256",
-            "insight": "HN 热议：7 分 · 0 评论",
+            "title": "Una GPS smart watch – Repairable, USB-C charging, developer-friendly",
+            "insight": "HN 热议：136 分 · 88 评论",
             "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://github.com/anthropics/cryptography-research-demo",
+            "comments": 88,
+            "url": "https://unawatch.com/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Harmony Explained: Progress Towards a Scientific Theory of Music (2012)",
-            "insight": "HN 热议：81 分 · 63 评论",
+            "title": "Now is the time to give LLMs access to the ACM digital library",
+            "insight": "HN 热议：110 分 · 95 评论",
             "sentiment": "neutral",
-            "comments": 63,
-            "url": "https://arxiv.org/abs/1202.4212",
+            "comments": 95,
+            "url": "https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Una GPS smart watch – Repairable, USB-C charging, developer-friendly",
-            "insight": "HN 热议：103 分 · 71 评论",
+            "title": "Harmony Explained: Progress Towards a Scientific Theory of Music (2012)",
+            "insight": "HN 热议：93 分 · 84 评论",
             "sentiment": "neutral",
-            "comments": 71,
-            "url": "https://unawatch.com/",
+            "comments": 84,
+            "url": "https://arxiv.org/abs/1202.4212",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-28T21:53:23Z",
+    "updated": "2026-07-29T01:20:11Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

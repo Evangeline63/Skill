@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-28T21:53:23Z",
+  "updated": "2026-07-29T01:20:11Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "OpenAI just open-sourced Codex Security",
-      "insight": "HN 热议：128 分 · 20 评论",
+      "title": "Hubble: Open-source notetaking app for you and your agents",
+      "insight": "HN 热议：22 分 · 3 评论",
       "sentiment": "neutral",
-      "comments": 20,
-      "url": "https://github.com/openai/codex-security",
+      "comments": 3,
+      "url": "https://www.hubble.md/",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "Discovering Cryptographic Weaknesses with Claude",
-      "insight": "HN 热议：124 分 · 68 评论",
+      "insight": "HN 热议：177 分 · 119 评论",
       "sentiment": "neutral",
-      "comments": 68,
+      "comments": 119,
       "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Anthropic publishes a practical key-recovery attack on HAWK-256",
-      "insight": "HN 热议：7 分 · 0 评论",
+      "title": "Una GPS smart watch – Repairable, USB-C charging, developer-friendly",
+      "insight": "HN 热议：136 分 · 88 评论",
       "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://github.com/anthropics/cryptography-research-demo",
+      "comments": 88,
+      "url": "https://unawatch.com/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Harmony Explained: Progress Towards a Scientific Theory of Music (2012)",
-      "insight": "HN 热议：81 分 · 63 评论",
+      "title": "Now is the time to give LLMs access to the ACM digital library",
+      "insight": "HN 热议：110 分 · 95 评论",
       "sentiment": "neutral",
-      "comments": 63,
-      "url": "https://arxiv.org/abs/1202.4212",
+      "comments": 95,
+      "url": "https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Una GPS smart watch – Repairable, USB-C charging, developer-friendly",
-      "insight": "HN 热议：103 分 · 71 评论",
+      "title": "Harmony Explained: Progress Towards a Scientific Theory of Music (2012)",
+      "insight": "HN 热议：93 分 · 84 评论",
       "sentiment": "neutral",
-      "comments": 71,
-      "url": "https://unawatch.com/",
+      "comments": 84,
+      "url": "https://arxiv.org/abs/1202.4212",
       "id": 5
     }
   ]
