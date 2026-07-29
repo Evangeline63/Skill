@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-29T11:12:04Z",
+    "updated": "2026-07-29T13:39:44Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-29T11:12:04Z",
+    "updated": "2026-07-29T13:39:44Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-29T11:12:04Z",
+    "updated": "2026-07-29T13:39:44Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185744,
-            "stars_today": 185744,
+            "stars": 185741,
+            "stars_today": 185741,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 166500,
-            "stars_today": 166500,
+            "stars": 166481,
+            "stars_today": 166481,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 100090,
-            "stars_today": 100090,
+            "stars": 100092,
+            "stars_today": 100092,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95354,
-            "stars_today": 95354,
+            "stars": 95353,
+            "stars_today": 95353,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 88919,
-            "stars_today": 88919,
+            "stars": 88931,
+            "stars_today": 88931,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 82479,
-            "stars_today": 82479,
+            "stars": 82491,
+            "stars_today": 82491,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-29T11:12:04Z",
+    "updated": "2026-07-29T13:39:44Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-29T11:12:04Z",
+    "updated": "2026-07-29T13:39:44Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-29T11:12:04Z",
+    "updated": "2026-07-29T13:39:44Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "More Tailscale tricks for your jailbroken Kindle",
-            "insight": "HN 热议：223 分 · 72 评论",
-            "sentiment": "positive",
-            "comments": 72,
-            "url": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
+            "title": "Handbook.md shows that long policy documents do not reliably govern agents",
+            "insight": "HN 热议：19 分 · 3 评论",
+            "sentiment": "neutral",
+            "comments": 3,
+            "url": "https://arxiv.org/abs/2607.25398",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
-            "insight": "HN 热议：200 分 · 118 评论",
+            "title": "Document-borne AI worms can self-propagate through Copilot for Word",
+            "insight": "HN 热议：116 分 · 95 评论",
             "sentiment": "neutral",
-            "comments": 118,
-            "url": "https://learnvector.ai/",
+            "comments": 95,
+            "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Vimgolf.ai – Learn Vim by playing through a map of levels",
-            "insight": "HN 热议：7 分 · 1 评论",
+            "title": "Show HN: Bullshit Detector – agent skills that fact-check videos and articles",
+            "insight": "HN 热议：17 分 · 1 评论",
             "sentiment": "neutral",
             "comments": 1,
-            "url": "https://vimgolf.ai",
+            "url": "https://github.com/SerhiiKorniienko/bullshit-detector",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Hubble: Open-source notetaking app for you and your agents",
-            "insight": "HN 热议：121 分 · 53 评论",
+            "title": "After the AI Crash",
+            "insight": "HN 热议：11 分 · 0 评论",
             "sentiment": "neutral",
-            "comments": 53,
-            "url": "https://www.hubble.md/",
+            "comments": 0,
+            "url": "https://potsandpansbyccg.com/2026/07/29/after-the-ai-crash/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "ChatGPT claims rogue AI attacked more companies",
-            "insight": "HN 热议：32 分 · 37 评论",
-            "sentiment": "neutral",
-            "comments": 37,
-            "url": "https://www.bbc.co.uk/news/articles/c2el319vzr3o",
+            "title": "More Tailscale tricks for your jailbroken Kindle",
+            "insight": "HN 热议：281 分 · 92 评论",
+            "sentiment": "positive",
+            "comments": 92,
+            "url": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-29T11:12:04Z",
+    "updated": "2026-07-29T13:39:44Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
