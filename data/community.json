@@ -1,48 +1,48 @@
 {
-  "updated": "2026-07-29T05:40:16Z",
+  "updated": "2026-07-29T08:13:55Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "More Tailscale tricks for your jailbroken Kindle",
-      "insight": "HN 热议：34 分 · 0 评论",
+      "insight": "HN 热议：137 分 · 39 评论",
       "sentiment": "neutral",
-      "comments": 0,
+      "comments": 39,
       "url": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
-      "insight": "HN 热议：112 分 · 62 评论",
+      "insight": "HN 热议：167 分 · 94 评论",
       "sentiment": "neutral",
-      "comments": 62,
+      "comments": 94,
       "url": "https://learnvector.ai/",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design",
-      "insight": "HN 热议：21 分 · 0 评论",
+      "insight": "HN 热议：45 分 · 1 评论",
       "sentiment": "neutral",
-      "comments": 0,
+      "comments": 1,
       "url": "https://transformer-transformer.github.io/",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "Truth is not a direction: a Tarski attack on LLM probes",
-      "insight": "HN 热议：62 分 · 16 评论",
+      "insight": "HN 热议：83 分 · 33 评论",
       "sentiment": "neutral",
-      "comments": 16,
+      "comments": 33,
       "url": "https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html",
       "id": 4
     },
     {
       "source": "HackerNews",
       "title": "Hubble: Open-source notetaking app for you and your agents",
-      "insight": "HN 热议：78 分 · 20 评论",
+      "insight": "HN 热议：101 分 · 32 评论",
       "sentiment": "neutral",
-      "comments": 20,
+      "comments": 32,
       "url": "https://www.hubble.md/",
       "id": 5
     }
