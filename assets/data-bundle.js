@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-29T18:49:42Z",
+    "updated": "2026-07-29T21:44:11Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-29T18:49:42Z",
+    "updated": "2026-07-29T21:44:11Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-29T18:49:42Z",
+    "updated": "2026-07-29T21:44:11Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185741,
-            "stars_today": 185741,
+            "stars": 185740,
+            "stars_today": 185740,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 166487,
-            "stars_today": 166487,
+            "stars": 166492,
+            "stars_today": 166492,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 100106,
-            "stars_today": 100106,
+            "stars": 100108,
+            "stars_today": 100108,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95368,
-            "stars_today": 95368,
+            "stars": 95372,
+            "stars_today": 95372,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 88960,
-            "stars_today": 88960,
+            "stars": 88969,
+            "stars_today": 88969,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 82517,
-            "stars_today": 82517,
+            "stars": 82528,
+            "stars_today": 82528,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-29T18:49:42Z",
+    "updated": "2026-07-29T21:44:11Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-29T18:49:42Z",
+    "updated": "2026-07-29T21:44:11Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-29T18:49:42Z",
+    "updated": "2026-07-29T21:44:11Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Handbook.md shows that long policy documents do not reliably govern agents",
-            "insight": "HN 热议：229 分 · 147 评论",
+            "title": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
+            "insight": "HN 热议：216 分 · 115 评论",
             "sentiment": "positive",
-            "comments": 147,
-            "url": "https://arxiv.org/abs/2607.25398",
+            "comments": 115,
+            "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Anatomy of a frontier-lab agent intrusion",
-            "insight": "HN 热议：118 分 · 44 评论",
+            "title": "AI's top startups are barely publishing their research",
+            "insight": "HN 热议：9 分 · 0 评论",
             "sentiment": "neutral",
-            "comments": 44,
-            "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+            "comments": 0,
+            "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Document-borne AI worms can self-propagate through Copilot for Word",
-            "insight": "HN 热议：267 分 · 200 评论",
+            "title": "Claude: Elevated errors across all models",
+            "insight": "HN 热议：211 分 · 181 评论",
             "sentiment": "positive",
-            "comments": 200,
-            "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
+            "comments": 181,
+            "url": "https://status.claude.com/incidents/q2kg8n613kr3",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Some thoughts about Anthropic's new cryptanalysis results",
-            "insight": "HN 热议：37 分 · 13 评论",
-            "sentiment": "neutral",
-            "comments": 13,
-            "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
+            "title": "Handbook.md shows that long policy documents do not reliably govern agents",
+            "insight": "HN 热议：269 分 · 170 评论",
+            "sentiment": "positive",
+            "comments": 170,
+            "url": "https://arxiv.org/abs/2607.25398",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?",
-            "insight": "HN 热议：52 分 · 10 评论",
-            "sentiment": "neutral",
-            "comments": 10,
-            "url": "https://juliahub.com/blog/frontier-models-physical-ai-evaluation",
+            "title": "Document-borne AI worms can self-propagate through Copilot for Word",
+            "insight": "HN 热议：309 分 · 231 评论",
+            "sentiment": "positive",
+            "comments": 231,
+            "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-29T18:49:42Z",
+    "updated": "2026-07-29T21:44:11Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
