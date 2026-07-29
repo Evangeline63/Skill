@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-29T16:13:35Z",
+    "updated": "2026-07-29T18:49:42Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-29T16:13:35Z",
+    "updated": "2026-07-29T18:49:42Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,7 +266,7 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-29T16:13:35Z",
+    "updated": "2026-07-29T18:49:42Z",
     "repos": [
         {
             "rank": 1,
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 166486,
-            "stars_today": 166486,
+            "stars": 166487,
+            "stars_today": 166487,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 100100,
-            "stars_today": 100100,
+            "stars": 100106,
+            "stars_today": 100106,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95361,
-            "stars_today": 95361,
+            "stars": 95368,
+            "stars_today": 95368,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 88949,
-            "stars_today": 88949,
+            "stars": 88960,
+            "stars_today": 88960,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 82509,
-            "stars_today": 82509,
+            "stars": 82517,
+            "stars_today": 82517,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-29T16:13:35Z",
+    "updated": "2026-07-29T18:49:42Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-29T16:13:35Z",
+    "updated": "2026-07-29T18:49:42Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-29T16:13:35Z",
+    "updated": "2026-07-29T18:49:42Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Handbook.md shows that long policy documents do not reliably govern agents",
-            "insight": "HN 热议：165 分 · 95 评论",
-            "sentiment": "neutral",
-            "comments": 95,
+            "insight": "HN 热议：229 分 · 147 评论",
+            "sentiment": "positive",
+            "comments": 147,
             "url": "https://arxiv.org/abs/2607.25398",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Hugging Face: Anatomy of a frontier-lab agent intrusion",
-            "insight": "HN 热议：35 分 · 2 评论",
+            "title": "Anatomy of a frontier-lab agent intrusion",
+            "insight": "HN 热议：118 分 · 44 评论",
             "sentiment": "neutral",
-            "comments": 2,
-            "url": "https://huggingface-anatomy-of-frontier-lab-model-intrusion.static.hf.space/index.html",
+            "comments": 44,
+            "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Hunter-gatherers introduced fish to a mountain lake 7000 years ago",
-            "insight": "HN 热议：71 分 · 46 评论",
-            "sentiment": "neutral",
-            "comments": 46,
-            "url": "https://www.newscientist.com/article/2580119-hunter-gatherers-introduced-fish-to-a-mountain-lake-7000-years-ago/",
+            "title": "Document-borne AI worms can self-propagate through Copilot for Word",
+            "insight": "HN 热议：267 分 · 200 评论",
+            "sentiment": "positive",
+            "comments": 200,
+            "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Document-borne AI worms can self-propagate through Copilot for Word",
-            "insight": "HN 热议：197 分 · 171 评论",
+            "title": "Some thoughts about Anthropic's new cryptanalysis results",
+            "insight": "HN 热议：37 分 · 13 评论",
             "sentiment": "neutral",
-            "comments": 171,
-            "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
+            "comments": 13,
+            "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "More Tailscale tricks for your jailbroken Kindle",
-            "insight": "HN 热议：340 分 · 100 评论",
-            "sentiment": "positive",
-            "comments": 100,
-            "url": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
+            "title": "GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?",
+            "insight": "HN 热议：52 分 · 10 评论",
+            "sentiment": "neutral",
+            "comments": 10,
+            "url": "https://juliahub.com/blog/frontier-models-physical-ai-evaluation",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-29T16:13:35Z",
+    "updated": "2026-07-29T18:49:42Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
