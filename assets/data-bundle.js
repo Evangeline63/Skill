@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-29T01:20:11Z",
+    "updated": "2026-07-29T05:40:16Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-29T01:20:11Z",
+    "updated": "2026-07-29T05:40:16Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-29T01:20:11Z",
+    "updated": "2026-07-29T05:40:16Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185740,
-            "stars_today": 185740,
+            "stars": 185738,
+            "stars_today": 185738,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 166483,
-            "stars_today": 166483,
+            "stars": 166492,
+            "stars_today": 166492,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 100059,
-            "stars_today": 100059,
+            "stars": 100069,
+            "stars_today": 100069,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95332,
-            "stars_today": 95332,
+            "stars": 95336,
+            "stars_today": 95336,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 88878,
-            "stars_today": 88878,
+            "stars": 88894,
+            "stars_today": 88894,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 82432,
-            "stars_today": 82432,
+            "stars": 82448,
+            "stars_today": 82448,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-29T01:20:11Z",
+    "updated": "2026-07-29T05:40:16Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-29T01:20:11Z",
+    "updated": "2026-07-29T05:40:16Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-29T01:20:11Z",
+    "updated": "2026-07-29T05:40:16Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Hubble: Open-source notetaking app for you and your agents",
-            "insight": "HN 热议：22 分 · 3 评论",
+            "title": "More Tailscale tricks for your jailbroken Kindle",
+            "insight": "HN 热议：34 分 · 0 评论",
             "sentiment": "neutral",
-            "comments": 3,
-            "url": "https://www.hubble.md/",
+            "comments": 0,
+            "url": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Discovering Cryptographic Weaknesses with Claude",
-            "insight": "HN 热议：177 分 · 119 评论",
+            "title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
+            "insight": "HN 热议：112 分 · 62 评论",
             "sentiment": "neutral",
-            "comments": 119,
-            "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
+            "comments": 62,
+            "url": "https://learnvector.ai/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Una GPS smart watch – Repairable, USB-C charging, developer-friendly",
-            "insight": "HN 热议：136 分 · 88 评论",
+            "title": "Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design",
+            "insight": "HN 热议：21 分 · 0 评论",
             "sentiment": "neutral",
-            "comments": 88,
-            "url": "https://unawatch.com/",
+            "comments": 0,
+            "url": "https://transformer-transformer.github.io/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Now is the time to give LLMs access to the ACM digital library",
-            "insight": "HN 热议：110 分 · 95 评论",
+            "title": "Truth is not a direction: a Tarski attack on LLM probes",
+            "insight": "HN 热议：62 分 · 16 评论",
             "sentiment": "neutral",
-            "comments": 95,
-            "url": "https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/",
+            "comments": 16,
+            "url": "https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Harmony Explained: Progress Towards a Scientific Theory of Music (2012)",
-            "insight": "HN 热议：93 分 · 84 评论",
+            "title": "Hubble: Open-source notetaking app for you and your agents",
+            "insight": "HN 热议：78 分 · 20 评论",
             "sentiment": "neutral",
-            "comments": 84,
-            "url": "https://arxiv.org/abs/1202.4212",
+            "comments": 20,
+            "url": "https://www.hubble.md/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-29T01:20:11Z",
+    "updated": "2026-07-29T05:40:16Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

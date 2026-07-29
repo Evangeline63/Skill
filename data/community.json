@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-29T01:20:11Z",
+  "updated": "2026-07-29T05:40:16Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Hubble: Open-source notetaking app for you and your agents",
-      "insight": "HN 热议：22 分 · 3 评论",
+      "title": "More Tailscale tricks for your jailbroken Kindle",
+      "insight": "HN 热议：34 分 · 0 评论",
       "sentiment": "neutral",
-      "comments": 3,
-      "url": "https://www.hubble.md/",
+      "comments": 0,
+      "url": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Discovering Cryptographic Weaknesses with Claude",
-      "insight": "HN 热议：177 分 · 119 评论",
+      "title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
+      "insight": "HN 热议：112 分 · 62 评论",
       "sentiment": "neutral",
-      "comments": 119,
-      "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
+      "comments": 62,
+      "url": "https://learnvector.ai/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Una GPS smart watch – Repairable, USB-C charging, developer-friendly",
-      "insight": "HN 热议：136 分 · 88 评论",
+      "title": "Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design",
+      "insight": "HN 热议：21 分 · 0 评论",
       "sentiment": "neutral",
-      "comments": 88,
-      "url": "https://unawatch.com/",
+      "comments": 0,
+      "url": "https://transformer-transformer.github.io/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Now is the time to give LLMs access to the ACM digital library",
-      "insight": "HN 热议：110 分 · 95 评论",
+      "title": "Truth is not a direction: a Tarski attack on LLM probes",
+      "insight": "HN 热议：62 分 · 16 评论",
       "sentiment": "neutral",
-      "comments": 95,
-      "url": "https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/",
+      "comments": 16,
+      "url": "https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Harmony Explained: Progress Towards a Scientific Theory of Music (2012)",
-      "insight": "HN 热议：93 分 · 84 评论",
+      "title": "Hubble: Open-source notetaking app for you and your agents",
+      "insight": "HN 热议：78 分 · 20 评论",
       "sentiment": "neutral",
-      "comments": 84,
-      "url": "https://arxiv.org/abs/1202.4212",
+      "comments": 20,
+      "url": "https://www.hubble.md/",
       "id": 5
     }
   ]
