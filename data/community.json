@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-30T16:18:47Z",
+  "updated": "2026-07-30T19:05:37Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
-      "insight": "HN 热议：130 分 · 91 评论",
-      "sentiment": "neutral",
-      "comments": 91,
-      "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+      "title": "Advancing the price-performance frontier with GPT‑5.6",
+      "insight": "HN 热议：280 分 · 172 评论",
+      "sentiment": "positive",
+      "comments": 172,
+      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "SDL_GPU minimal, single-header, high-performance 2D graphics painting library",
-      "insight": "HN 热议：28 分 · 6 评论",
-      "sentiment": "neutral",
-      "comments": 6,
-      "url": "https://github.com/n67094/sdl_gp",
+      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+      "insight": "HN 热议：308 分 · 293 评论",
+      "sentiment": "positive",
+      "comments": 293,
+      "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Claude-account – switch Claude Code accounts without logging in again",
-      "insight": "HN 热议：6 分 · 2 评论",
+      "title": "We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447",
+      "insight": "HN 热议：113 分 · 73 评论",
       "sentiment": "neutral",
-      "comments": 2,
-      "url": "https://github.com/hamzarehmandeveloper/claude-account",
+      "comments": 73,
+      "url": "https://www.bottlenecklabs.com/blog/autonomously-run-businesses",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib)",
-      "insight": "HN 热议：39 分 · 13 评论",
+      "title": "2x, not 10x: coding with LLMs in 2026",
+      "insight": "HN 热议：19 分 · 0 评论",
       "sentiment": "neutral",
-      "comments": 13,
-      "url": "https://github.com/grafana/ai-sdk",
+      "comments": 0,
+      "url": "https://obryant.dev/p/2x-not-10x/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "AI's top startups are barely publishing their research",
-      "insight": "HN 热议：572 分 · 303 评论",
-      "sentiment": "positive",
-      "comments": 303,
-      "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
+      "title": "Show HN: Noisegate – a differential-privacy gateway for untrusted AI agents",
+      "insight": "HN 热议：5 分 · 0 评论",
+      "sentiment": "neutral",
+      "comments": 0,
+      "url": "https://github.com/yashmahajan10/llm-differential-privacy-gateway",
       "id": 5
     }
   ]
