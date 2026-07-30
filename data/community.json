@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-30T01:13:20Z",
+  "updated": "2026-07-30T05:28:44Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "AI's top startups are barely publishing their research",
-      "insight": "HN 热议：177 分 · 98 评论",
-      "sentiment": "neutral",
-      "comments": 98,
+      "insight": "HN 热议：320 分 · 171 评论",
+      "sentiment": "positive",
+      "comments": 171,
       "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "The Cold Email",
-      "insight": "HN 热议：80 分 · 34 评论",
+      "title": "LLM Honeypot",
+      "insight": "HN 热议：137 分 · 45 评论",
       "sentiment": "neutral",
-      "comments": 34,
-      "url": "https://zachholman.com/posts/cold-email",
+      "comments": 45,
+      "url": "https://llm2human.pages.dev/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "LLM Honeypot",
-      "insight": "HN 热议：33 分 · 15 评论",
+      "title": "The Productivity Mirage",
+      "insight": "HN 热议：134 分 · 39 评论",
       "sentiment": "neutral",
-      "comments": 15,
-      "url": "https://llm2human.pages.dev/",
+      "comments": 39,
+      "url": "https://frantic.im/mirage/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
-      "insight": "HN 热议：283 分 · 170 评论",
-      "sentiment": "positive",
-      "comments": 170,
-      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+      "title": "The Cold Email",
+      "insight": "HN 热议：147 分 · 56 评论",
+      "sentiment": "neutral",
+      "comments": 56,
+      "url": "https://zachholman.com/posts/cold-email",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "The Productivity Mirage",
-      "insight": "HN 热议：32 分 · 5 评论",
-      "sentiment": "neutral",
-      "comments": 5,
-      "url": "https://frantic.im/mirage/",
+      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
+      "insight": "HN 热议：335 分 · 197 评论",
+      "sentiment": "positive",
+      "comments": 197,
+      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
       "id": 5
     }
   ]
