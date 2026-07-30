@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-30T10:56:03Z",
+    "updated": "2026-07-30T13:21:24Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-30T10:56:03Z",
+    "updated": "2026-07-30T13:21:24Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-30T10:56:03Z",
+    "updated": "2026-07-30T13:21:24Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185746,
-            "stars_today": 185746,
+            "stars": 185749,
+            "stars_today": 185749,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 166524,
-            "stars_today": 166524,
+            "stars": 166526,
+            "stars_today": 166526,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 100144,
-            "stars_today": 100144,
+            "stars": 100151,
+            "stars_today": 100151,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95383,
-            "stars_today": 95383,
+            "stars": 95390,
+            "stars_today": 95390,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 89022,
-            "stars_today": 89022,
+            "stars": 89033,
+            "stars_today": 89033,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 82583,
-            "stars_today": 82583,
+            "stars": 82593,
+            "stars_today": 82593,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-30T10:56:03Z",
+    "updated": "2026-07-30T13:21:24Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-30T10:56:03Z",
+    "updated": "2026-07-30T13:21:24Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-30T10:56:03Z",
+    "updated": "2026-07-30T13:21:24Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "AI's top startups are barely publishing their research",
-            "insight": "HN 热议：491 分 · 249 评论",
-            "sentiment": "positive",
-            "comments": 249,
-            "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
+            "title": "OpenJDK Interim Policy on Generative AI",
+            "insight": "HN 热议：18 分 · 2 评论",
+            "sentiment": "neutral",
+            "comments": 2,
+            "url": "https://openjdk.org/legal/ai",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "LLM Honeypot",
-            "insight": "HN 热议：266 分 · 77 评论",
+            "title": "AI's top startups are barely publishing their research",
+            "insight": "HN 热议：541 分 · 279 评论",
             "sentiment": "positive",
-            "comments": 77,
-            "url": "https://llm2human.pages.dev/",
+            "comments": 279,
+            "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "The Productivity Mirage",
-            "insight": "HN 热议：260 分 · 102 评论",
-            "sentiment": "positive",
-            "comments": 102,
-            "url": "https://frantic.im/mirage/",
+            "title": "Carolina Cloud pays SOFR on unused prepaid credits",
+            "insight": "HN 热议：40 分 · 27 评论",
+            "sentiment": "neutral",
+            "comments": 27,
+            "url": "https://docs.carolinacloud.io/organizations/prepaid-interest/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
-            "insight": "HN 热议：393 分 · 219 评论",
-            "sentiment": "positive",
-            "comments": 219,
-            "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+            "title": "Agent-Manager: A Tmux TUI for Running Claude Code, Codex and OpenCode",
+            "insight": "HN 热议：45 分 · 29 评论",
+            "sentiment": "neutral",
+            "comments": 29,
+            "url": "https://github.com/YoanWai/agent-manager",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "The Cold Email",
-            "insight": "HN 热议：229 分 · 86 评论",
-            "sentiment": "positive",
-            "comments": 86,
-            "url": "https://zachholman.com/posts/cold-email",
+            "title": "GCC steering committee announces AI policy",
+            "insight": "HN 热议：117 分 · 115 评论",
+            "sentiment": "neutral",
+            "comments": 115,
+            "url": "https://lwn.net/Articles/1086041/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-30T10:56:03Z",
+    "updated": "2026-07-30T13:21:24Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
