@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-29T21:44:11Z",
+  "updated": "2026-07-30T01:13:20Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
-      "insight": "HN 热议：216 分 · 115 评论",
-      "sentiment": "positive",
-      "comments": 115,
-      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+      "title": "AI's top startups are barely publishing their research",
+      "insight": "HN 热议：177 分 · 98 评论",
+      "sentiment": "neutral",
+      "comments": 98,
+      "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "AI's top startups are barely publishing their research",
-      "insight": "HN 热议：9 分 · 0 评论",
+      "title": "The Cold Email",
+      "insight": "HN 热议：80 分 · 34 评论",
       "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
+      "comments": 34,
+      "url": "https://zachholman.com/posts/cold-email",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Claude: Elevated errors across all models",
-      "insight": "HN 热议：211 分 · 181 评论",
-      "sentiment": "positive",
-      "comments": 181,
-      "url": "https://status.claude.com/incidents/q2kg8n613kr3",
+      "title": "LLM Honeypot",
+      "insight": "HN 热议：33 分 · 15 评论",
+      "sentiment": "neutral",
+      "comments": 15,
+      "url": "https://llm2human.pages.dev/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Handbook.md shows that long policy documents do not reliably govern agents",
-      "insight": "HN 热议：269 分 · 170 评论",
+      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
+      "insight": "HN 热议：283 分 · 170 评论",
       "sentiment": "positive",
       "comments": 170,
-      "url": "https://arxiv.org/abs/2607.25398",
+      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Document-borne AI worms can self-propagate through Copilot for Word",
-      "insight": "HN 热议：309 分 · 231 评论",
-      "sentiment": "positive",
-      "comments": 231,
-      "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
+      "title": "The Productivity Mirage",
+      "insight": "HN 热议：32 分 · 5 评论",
+      "sentiment": "neutral",
+      "comments": 5,
+      "url": "https://frantic.im/mirage/",
       "id": 5
     }
   ]
