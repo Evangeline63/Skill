@@ -1,48 +1,48 @@
 {
-  "updated": "2026-07-30T08:02:32Z",
+  "updated": "2026-07-30T10:56:03Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "AI's top startups are barely publishing their research",
-      "insight": "HN 热议：405 分 · 217 评论",
+      "insight": "HN 热议：491 分 · 249 评论",
       "sentiment": "positive",
-      "comments": 217,
+      "comments": 249,
       "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "LLM Honeypot",
-      "insight": "HN 热议：213 分 · 56 评论",
+      "insight": "HN 热议：266 分 · 77 评论",
       "sentiment": "positive",
-      "comments": 56,
+      "comments": 77,
       "url": "https://llm2human.pages.dev/",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "The Productivity Mirage",
-      "insight": "HN 热议：199 分 · 68 评论",
-      "sentiment": "neutral",
-      "comments": 68,
+      "insight": "HN 热议：260 分 · 102 评论",
+      "sentiment": "positive",
+      "comments": 102,
       "url": "https://frantic.im/mirage/",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
-      "insight": "HN 热议：367 分 · 206 评论",
+      "insight": "HN 热议：393 分 · 219 评论",
       "sentiment": "positive",
-      "comments": 206,
+      "comments": 219,
       "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
       "id": 4
     },
     {
       "source": "HackerNews",
       "title": "The Cold Email",
-      "insight": "HN 热议：181 分 · 73 评论",
-      "sentiment": "neutral",
-      "comments": 73,
+      "insight": "HN 热议：229 分 · 86 评论",
+      "sentiment": "positive",
+      "comments": 86,
       "url": "https://zachholman.com/posts/cold-email",
       "id": 5
     }
