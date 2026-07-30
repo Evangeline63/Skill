@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-30T19:05:37Z",
+  "updated": "2026-07-30T21:56:00Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Advancing the price-performance frontier with GPT‑5.6",
-      "insight": "HN 热议：280 分 · 172 评论",
+      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+      "insight": "HN 热议：414 分 · 367 评论",
       "sentiment": "positive",
-      "comments": 172,
-      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
+      "comments": 367,
+      "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
-      "insight": "HN 热议：308 分 · 293 评论",
-      "sentiment": "positive",
-      "comments": 293,
-      "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+      "title": "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
+      "insight": "HN 热议：63 分 · 20 评论",
+      "sentiment": "neutral",
+      "comments": 20,
+      "url": "https://github.com/AminBlg/SimpleEnglish",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447",
-      "insight": "HN 热议：113 分 · 73 评论",
+      "title": "2x, not 10x: coding with LLMs in 2026",
+      "insight": "HN 热议：152 分 · 107 评论",
       "sentiment": "neutral",
-      "comments": 73,
-      "url": "https://www.bottlenecklabs.com/blog/autonomously-run-businesses",
+      "comments": 107,
+      "url": "https://obryant.dev/p/2x-not-10x/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "2x, not 10x: coding with LLMs in 2026",
-      "insight": "HN 热议：19 分 · 0 评论",
-      "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://obryant.dev/p/2x-not-10x/",
+      "title": "Advancing the price-performance frontier with GPT‑5.6",
+      "insight": "HN 热议：417 分 · 273 评论",
+      "sentiment": "positive",
+      "comments": 273,
+      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Noisegate – a differential-privacy gateway for untrusted AI agents",
-      "insight": "HN 热议：5 分 · 0 评论",
-      "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://github.com/yashmahajan10/llm-differential-privacy-gateway",
+      "title": "We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447",
+      "insight": "HN 热议：241 分 · 141 评论",
+      "sentiment": "positive",
+      "comments": 141,
+      "url": "https://www.bottlenecklabs.com/blog/autonomously-run-businesses",
       "id": 5
     }
   ]
