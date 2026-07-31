@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-31T05:53:36Z",
+  "updated": "2026-07-31T08:28:07Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "The AI trade now runs on borrowed money, and the lenders are repricing it",
-      "insight": "HN 热议：99 分 · 51 评论",
+      "title": "Show HN: What should the GUI for AI agents look like?",
+      "insight": "HN 热议：36 分 · 19 评论",
       "sentiment": "neutral",
-      "comments": 51,
-      "url": "https://greyswansignals.com/?theme=dark",
+      "comments": 19,
+      "url": "https://marbleos.com/demo",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "The AI Aesthetic",
-      "insight": "HN 热议：249 分 · 115 评论",
+      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+      "insight": "HN 热议：549 分 · 437 评论",
       "sentiment": "positive",
-      "comments": 115,
-      "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
+      "comments": 437,
+      "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
-      "insight": "HN 热议：265 分 · 95 评论",
+      "title": "The AI Aesthetic",
+      "insight": "HN 热议：293 分 · 126 评论",
       "sentiment": "positive",
-      "comments": 95,
-      "url": "https://github.com/AminBlg/SimpleEnglish",
+      "comments": 126,
+      "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
-      "insight": "HN 热议：522 分 · 419 评论",
+      "title": "GCC steering committee announces AI policy",
+      "insight": "HN 热议：285 分 · 313 评论",
       "sentiment": "positive",
-      "comments": 419,
-      "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+      "comments": 313,
+      "url": "https://lwn.net/Articles/1086041/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "The bond market isn't buying what Fed Chair Warsh is selling",
-      "insight": "HN 热议：94 分 · 23 评论",
+      "title": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
+      "insight": "HN 热议：123 分 · 64 评论",
       "sentiment": "neutral",
-      "comments": 23,
-      "url": "https://www.reuters.com/commentary/reuters-open-interest/bond-market-isnt-buying-what-fed-chair-warsh-is-selling-2026-07-30/",
+      "comments": 64,
+      "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
       "id": 5
     }
   ]
