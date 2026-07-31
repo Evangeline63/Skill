@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-31T13:25:06Z",
+    "updated": "2026-07-31T16:28:18Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-31T13:25:06Z",
+    "updated": "2026-07-31T16:28:18Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-31T13:25:06Z",
+    "updated": "2026-07-31T16:28:18Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185749,
-            "stars_today": 185749,
+            "stars": 185746,
+            "stars_today": 185746,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 166557,
-            "stars_today": 166557,
+            "stars": 166562,
+            "stars_today": 166562,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 100209,
-            "stars_today": 100209,
+            "stars": 100222,
+            "stars_today": 100222,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 89133,
-            "stars_today": 89133,
+            "stars": 89148,
+            "stars_today": 89148,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 82675,
-            "stars_today": 82675,
+            "stars": 82696,
+            "stars_today": 82696,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-31T13:25:06Z",
+    "updated": "2026-07-31T16:28:18Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-31T13:25:06Z",
+    "updated": "2026-07-31T16:28:18Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-31T13:25:06Z",
+    "updated": "2026-07-31T16:28:18Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
-            "insight": "HN 热议：200 分 · 209 评论",
+            "title": "Is AI Reasoning Right for the Wrong Reasons?",
+            "insight": "HN 热议：53 分 · 43 评论",
             "sentiment": "neutral",
-            "comments": 209,
-            "url": "https://blog.google/security/chrome-stronger-with-every-update/",
+            "comments": 43,
+            "url": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Gemini Robotics 2 brings whole body intelligence to robots",
-            "insight": "HN 热议：585 分 · 468 评论",
-            "sentiment": "positive",
-            "comments": 468,
-            "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+            "title": "Show HN: Shared memory graph for Claude and ChatGPT, over MCP",
+            "insight": "HN 热议：9 分 · 0 评论",
+            "sentiment": "neutral",
+            "comments": 0,
+            "url": "https://uml.gpmai.workers.dev",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "GCC steering committee announces AI policy",
-            "insight": "HN 热议：316 分 · 357 评论",
-            "sentiment": "positive",
-            "comments": 357,
-            "url": "https://lwn.net/Articles/1086041/",
+            "title": "13 Models and 4 Agents on SWE Tasks: Go, Java, Python, Rust, TS",
+            "insight": "HN 热议：7 分 · 0 评论",
+            "sentiment": "neutral",
+            "comments": 0,
+            "url": "https://swe-rebench.com",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
-            "insight": "HN 热议：143 分 · 69 评论",
-            "sentiment": "neutral",
-            "comments": 69,
-            "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+            "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
+            "insight": "HN 热议：383 分 · 361 评论",
+            "sentiment": "positive",
+            "comments": 361,
+            "url": "https://blog.google/security/chrome-stronger-with-every-update/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "The AI Aesthetic",
-            "insight": "HN 热议：338 分 · 152 评论",
-            "sentiment": "positive",
-            "comments": 152,
-            "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
+            "title": "Admin: Terminally Ill Patients Aren't Exempt from Medicaid Work Requirements",
+            "insight": "HN 热议：34 分 · 17 评论",
+            "sentiment": "neutral",
+            "comments": 17,
+            "url": "https://www.commondreams.org/news/trump-medicaid-work-requirements-2677293170",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-31T13:25:06Z",
+    "updated": "2026-07-31T16:28:18Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
