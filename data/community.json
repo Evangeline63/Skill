@@ -1,48 +1,48 @@
 {
-  "updated": "2026-07-31T11:15:14Z",
+  "updated": "2026-07-31T13:25:06Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
-      "insight": "HN 热议：124 分 · 128 评论",
+      "insight": "HN 热议：200 分 · 209 评论",
       "sentiment": "neutral",
-      "comments": 128,
+      "comments": 209,
       "url": "https://blog.google/security/chrome-stronger-with-every-update/",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "Gemini Robotics 2 brings whole body intelligence to robots",
-      "insight": "HN 热议：569 分 · 453 评论",
+      "insight": "HN 热议：585 分 · 468 评论",
       "sentiment": "positive",
-      "comments": 453,
+      "comments": 468,
       "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: What should the GUI for AI agents look like?",
-      "insight": "HN 热议：69 分 · 39 评论",
-      "sentiment": "neutral",
-      "comments": 39,
-      "url": "https://marbleos.com/demo",
+      "title": "GCC steering committee announces AI policy",
+      "insight": "HN 热议：316 分 · 357 评论",
+      "sentiment": "positive",
+      "comments": 357,
+      "url": "https://lwn.net/Articles/1086041/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "GCC steering committee announces AI policy",
-      "insight": "HN 热议：306 分 · 331 评论",
-      "sentiment": "positive",
-      "comments": 331,
-      "url": "https://lwn.net/Articles/1086041/",
+      "title": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
+      "insight": "HN 热议：143 分 · 69 评论",
+      "sentiment": "neutral",
+      "comments": 69,
+      "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
       "id": 4
     },
     {
       "source": "HackerNews",
       "title": "The AI Aesthetic",
-      "insight": "HN 热议：315 分 · 140 评论",
+      "insight": "HN 热议：338 分 · 152 评论",
       "sentiment": "positive",
-      "comments": 140,
+      "comments": 152,
       "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
       "id": 5
     }
