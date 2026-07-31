@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-31T08:28:07Z",
+  "updated": "2026-07-31T11:15:14Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Show HN: What should the GUI for AI agents look like?",
-      "insight": "HN 热议：36 分 · 19 评论",
+      "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
+      "insight": "HN 热议：124 分 · 128 评论",
       "sentiment": "neutral",
-      "comments": 19,
-      "url": "https://marbleos.com/demo",
+      "comments": 128,
+      "url": "https://blog.google/security/chrome-stronger-with-every-update/",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "Gemini Robotics 2 brings whole body intelligence to robots",
-      "insight": "HN 热议：549 分 · 437 评论",
+      "insight": "HN 热议：569 分 · 453 评论",
       "sentiment": "positive",
-      "comments": 437,
+      "comments": 453,
       "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "The AI Aesthetic",
-      "insight": "HN 热议：293 分 · 126 评论",
-      "sentiment": "positive",
-      "comments": 126,
-      "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
+      "title": "Show HN: What should the GUI for AI agents look like?",
+      "insight": "HN 热议：69 分 · 39 评论",
+      "sentiment": "neutral",
+      "comments": 39,
+      "url": "https://marbleos.com/demo",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "GCC steering committee announces AI policy",
-      "insight": "HN 热议：285 分 · 313 评论",
+      "insight": "HN 热议：306 分 · 331 评论",
       "sentiment": "positive",
-      "comments": 313,
+      "comments": 331,
       "url": "https://lwn.net/Articles/1086041/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
-      "insight": "HN 热议：123 分 · 64 评论",
-      "sentiment": "neutral",
-      "comments": 64,
-      "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+      "title": "The AI Aesthetic",
+      "insight": "HN 热议：315 分 · 140 评论",
+      "sentiment": "positive",
+      "comments": 140,
+      "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
       "id": 5
     }
   ]

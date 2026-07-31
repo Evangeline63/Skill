@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-31T08:28:07Z",
+    "updated": "2026-07-31T11:15:14Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-31T08:28:07Z",
+    "updated": "2026-07-31T11:15:14Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-31T08:28:07Z",
+    "updated": "2026-07-31T11:15:14Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185747,
-            "stars_today": 185747,
+            "stars": 185748,
+            "stars_today": 185748,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 166550,
-            "stars_today": 166550,
+            "stars": 166552,
+            "stars_today": 166552,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95429,
-            "stars_today": 95429,
+            "stars": 95434,
+            "stars_today": 95434,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 89110,
-            "stars_today": 89110,
+            "stars": 89117,
+            "stars_today": 89117,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 82643,
-            "stars_today": 82643,
+            "stars": 82661,
+            "stars_today": 82661,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-31T08:28:07Z",
+    "updated": "2026-07-31T11:15:14Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-31T08:28:07Z",
+    "updated": "2026-07-31T11:15:14Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-31T08:28:07Z",
+    "updated": "2026-07-31T11:15:14Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Show HN: What should the GUI for AI agents look like?",
-            "insight": "HN 热议：36 分 · 19 评论",
+            "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
+            "insight": "HN 热议：124 分 · 128 评论",
             "sentiment": "neutral",
-            "comments": 19,
-            "url": "https://marbleos.com/demo",
+            "comments": 128,
+            "url": "https://blog.google/security/chrome-stronger-with-every-update/",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "Gemini Robotics 2 brings whole body intelligence to robots",
-            "insight": "HN 热议：549 分 · 437 评论",
+            "insight": "HN 热议：569 分 · 453 评论",
             "sentiment": "positive",
-            "comments": 437,
+            "comments": 453,
             "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "The AI Aesthetic",
-            "insight": "HN 热议：293 分 · 126 评论",
-            "sentiment": "positive",
-            "comments": 126,
-            "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
+            "title": "Show HN: What should the GUI for AI agents look like?",
+            "insight": "HN 热议：69 分 · 39 评论",
+            "sentiment": "neutral",
+            "comments": 39,
+            "url": "https://marbleos.com/demo",
             "id": 3
         },
         {
             "source": "HackerNews",
             "title": "GCC steering committee announces AI policy",
-            "insight": "HN 热议：285 分 · 313 评论",
+            "insight": "HN 热议：306 分 · 331 评论",
             "sentiment": "positive",
-            "comments": 313,
+            "comments": 331,
             "url": "https://lwn.net/Articles/1086041/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
-            "insight": "HN 热议：123 分 · 64 评论",
-            "sentiment": "neutral",
-            "comments": 64,
-            "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+            "title": "The AI Aesthetic",
+            "insight": "HN 热议：315 分 · 140 评论",
+            "sentiment": "positive",
+            "comments": 140,
+            "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-31T08:28:07Z",
+    "updated": "2026-07-31T11:15:14Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
