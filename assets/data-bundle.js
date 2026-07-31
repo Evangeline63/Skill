@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-30T21:56:00Z",
+    "updated": "2026-07-31T01:26:33Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-30T21:56:00Z",
+    "updated": "2026-07-31T01:26:33Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-07-30T21:56:00Z",
+    "updated": "2026-07-31T01:26:33Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185755,
-            "stars_today": 185755,
+            "stars": 185756,
+            "stars_today": 185756,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 166536,
-            "stars_today": 166536,
+            "stars": 166537,
+            "stars_today": 166537,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 100179,
-            "stars_today": 100179,
+            "stars": 100183,
+            "stars_today": 100183,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95414,
-            "stars_today": 95414,
+            "stars": 95418,
+            "stars_today": 95418,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 89074,
-            "stars_today": 89074,
+            "stars": 89087,
+            "stars_today": 89087,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 82614,
-            "stars_today": 82614,
+            "stars": 82622,
+            "stars_today": 82622,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-07-30T21:56:00Z",
+    "updated": "2026-07-31T01:26:33Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-30T21:56:00Z",
+    "updated": "2026-07-31T01:26:33Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-30T21:56:00Z",
+    "updated": "2026-07-31T01:26:33Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Gemini Robotics 2 brings whole body intelligence to robots",
-            "insight": "HN 热议：414 分 · 367 评论",
-            "sentiment": "positive",
-            "comments": 367,
-            "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+            "title": "The AI Aesthetic",
+            "insight": "HN 热议：80 分 · 46 评论",
+            "sentiment": "neutral",
+            "comments": 46,
+            "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
-            "insight": "HN 热议：63 分 · 20 评论",
+            "insight": "HN 热议：190 分 · 69 评论",
             "sentiment": "neutral",
-            "comments": 20,
+            "comments": 69,
             "url": "https://github.com/AminBlg/SimpleEnglish",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "2x, not 10x: coding with LLMs in 2026",
-            "insight": "HN 热议：152 分 · 107 评论",
-            "sentiment": "neutral",
-            "comments": 107,
-            "url": "https://obryant.dev/p/2x-not-10x/",
+            "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+            "insight": "HN 热议：473 分 · 394 评论",
+            "sentiment": "positive",
+            "comments": 394,
+            "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
             "id": 3
         },
         {
             "source": "HackerNews",
             "title": "Advancing the price-performance frontier with GPT‑5.6",
-            "insight": "HN 热议：417 分 · 273 评论",
+            "insight": "HN 热议：489 分 · 323 评论",
             "sentiment": "positive",
-            "comments": 273,
+            "comments": 323,
             "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447",
-            "insight": "HN 热议：241 分 · 141 评论",
-            "sentiment": "positive",
-            "comments": 141,
-            "url": "https://www.bottlenecklabs.com/blog/autonomously-run-businesses",
+            "title": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
+            "insight": "HN 热议：83 分 · 61 评论",
+            "sentiment": "neutral",
+            "comments": 61,
+            "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-30T21:56:00Z",
+    "updated": "2026-07-31T01:26:33Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
