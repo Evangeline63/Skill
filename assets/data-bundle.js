@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-07-31T16:28:18Z",
+    "updated": "2026-07-31T19:03:15Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-07-31T16:28:18Z",
+    "updated": "2026-07-31T19:03:15Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -325,7 +325,7 @@ window.__DATA__ = {
     ]
 },
   "products": {
-    "updated": "2026-07-31T16:28:18Z",
+    "updated": "2026-07-31T19:03:15Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-07-31T16:28:18Z",
+    "updated": "2026-07-31T19:03:15Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-07-31T16:28:18Z",
+    "updated": "2026-07-31T19:03:15Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Is AI Reasoning Right for the Wrong Reasons?",
-            "insight": "HN 热议：53 分 · 43 评论",
+            "title": "13 Models and 4 Agents on SWE Tasks: Go, Java, Python, Rust, TS",
+            "insight": "HN 热议：27 分 · 10 评论",
             "sentiment": "neutral",
-            "comments": 43,
-            "url": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
+            "comments": 10,
+            "url": "https://swe-rebench.com",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Shared memory graph for Claude and ChatGPT, over MCP",
-            "insight": "HN 热议：9 分 · 0 评论",
+            "title": "Everyone is building LLM routers, we deprecated ours",
+            "insight": "HN 热议：6 分 · 1 评论",
             "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://uml.gpmai.workers.dev",
+            "comments": 1,
+            "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "13 Models and 4 Agents on SWE Tasks: Go, Java, Python, Rust, TS",
-            "insight": "HN 热议：7 分 · 0 评论",
+            "title": "Orca-Bench: How Ready Are Language Model Agents for Oncall?",
+            "insight": "HN 热议：3 分 · 1 评论",
             "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://swe-rebench.com",
+            "comments": 1,
+            "url": "https://arxiv.org/abs/2607.28545",
             "id": 3
         },
         {
             "source": "HackerNews",
             "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
-            "insight": "HN 热议：383 分 · 361 评论",
+            "insight": "HN 热议：439 分 · 440 评论",
             "sentiment": "positive",
-            "comments": 361,
+            "comments": 440,
             "url": "https://blog.google/security/chrome-stronger-with-every-update/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Admin: Terminally Ill Patients Aren't Exempt from Medicaid Work Requirements",
-            "insight": "HN 热议：34 分 · 17 评论",
+            "title": "Show HN: What should the GUI for AI agents look like?",
+            "insight": "HN 热议：94 分 · 57 评论",
             "sentiment": "neutral",
-            "comments": 17,
-            "url": "https://www.commondreams.org/news/trump-medicaid-work-requirements-2677293170",
+            "comments": 57,
+            "url": "https://marbleos.com/demo",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-07-31T16:28:18Z",
+    "updated": "2026-07-31T19:03:15Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
