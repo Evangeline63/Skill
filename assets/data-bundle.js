@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-01T01:28:00Z",
+    "updated": "2026-08-01T05:43:56Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-01T01:28:00Z",
+    "updated": "2026-08-01T05:43:56Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-01T01:28:00Z",
+    "updated": "2026-08-01T05:43:56Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185744,
-            "stars_today": 185744,
+            "stars": 185748,
+            "stars_today": 185748,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 166571,
-            "stars_today": 166571,
+            "stars": 166584,
+            "stars_today": 166584,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 100240,
-            "stars_today": 100240,
+            "stars": 100255,
+            "stars_today": 100255,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95439,
-            "stars_today": 95439,
+            "stars": 95444,
+            "stars_today": 95444,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 89187,
-            "stars_today": 89187,
+            "stars": 89195,
+            "stars_today": 89195,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 82723,
-            "stars_today": 82723,
+            "stars": 82736,
+            "stars_today": 82736,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-01T01:28:00Z",
+    "updated": "2026-08-01T05:43:56Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-01T01:28:00Z",
+    "updated": "2026-08-01T05:43:56Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-01T01:28:00Z",
+    "updated": "2026-08-01T05:43:56Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Tailscale didn't stop the Hugging Face intrusion",
-            "insight": "HN 热议：436 分 · 168 评论",
-            "sentiment": "positive",
-            "comments": 168,
-            "url": "https://tailscale.com/blog/hugging-face-intrusion",
+            "title": "Flint: A Visualization Language for the AI Era",
+            "insight": "HN 热议：49 分 · 9 评论",
+            "sentiment": "neutral",
+            "comments": 9,
+            "url": "https://microsoft.github.io/flint-chart/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Golang proposal: container/: generic collection types",
-            "insight": "HN 热议：120 分 · 74 评论",
-            "sentiment": "neutral",
-            "comments": 74,
-            "url": "https://github.com/golang/go/issues/80590",
+            "title": "qm – Multiplayer agent harness for work",
+            "insight": "HN 热议：523 分 · 109 评论",
+            "sentiment": "positive",
+            "comments": 109,
+            "url": "https://github.com/yc-software/qm",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "The First Transatlantic Telegraph Cable Was a Bold, Beautiful Failure",
-            "insight": "HN 热议：16 分 · 3 评论",
-            "sentiment": "neutral",
-            "comments": 3,
-            "url": "https://spectrum.ieee.org/the-first-transatlantic-telegraph-cable-was-a-bold-beautiful-failure",
+            "title": "Tailscale didn't stop the Hugging Face intrusion",
+            "insight": "HN 热议：508 分 · 195 评论",
+            "sentiment": "positive",
+            "comments": 195,
+            "url": "https://tailscale.com/blog/hugging-face-intrusion",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Everyone is building LLM routers, we deprecated ours",
-            "insight": "HN 热议：90 分 · 45 评论",
+            "title": "The First Transatlantic Telegraph Cable Was a Bold, Beautiful Failure",
+            "insight": "HN 热议：37 分 · 11 评论",
             "sentiment": "neutral",
-            "comments": 45,
-            "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
+            "comments": 11,
+            "url": "https://spectrum.ieee.org/the-first-transatlantic-telegraph-cable-was-a-bold-beautiful-failure",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Using the railway network as a flatbed scanner [video]",
-            "insight": "HN 热议：50 分 · 25 评论",
+            "title": "Is AI reasoning right for the wrong reasons?",
+            "insight": "HN 热议：140 分 · 166 评论",
             "sentiment": "neutral",
-            "comments": 25,
-            "url": "https://media.ccc.de/v/emf2026-74-1-using-the-railway-network-as-a-flatbed-scanner",
+            "comments": 166,
+            "url": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-01T01:28:00Z",
+    "updated": "2026-08-01T05:43:56Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

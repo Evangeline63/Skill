@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-01T01:28:00Z",
+  "updated": "2026-08-01T05:43:56Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Tailscale didn't stop the Hugging Face intrusion",
-      "insight": "HN 热议：436 分 · 168 评论",
-      "sentiment": "positive",
-      "comments": 168,
-      "url": "https://tailscale.com/blog/hugging-face-intrusion",
+      "title": "Flint: A Visualization Language for the AI Era",
+      "insight": "HN 热议：49 分 · 9 评论",
+      "sentiment": "neutral",
+      "comments": 9,
+      "url": "https://microsoft.github.io/flint-chart/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Golang proposal: container/: generic collection types",
-      "insight": "HN 热议：120 分 · 74 评论",
-      "sentiment": "neutral",
-      "comments": 74,
-      "url": "https://github.com/golang/go/issues/80590",
+      "title": "qm – Multiplayer agent harness for work",
+      "insight": "HN 热议：523 分 · 109 评论",
+      "sentiment": "positive",
+      "comments": 109,
+      "url": "https://github.com/yc-software/qm",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "The First Transatlantic Telegraph Cable Was a Bold, Beautiful Failure",
-      "insight": "HN 热议：16 分 · 3 评论",
-      "sentiment": "neutral",
-      "comments": 3,
-      "url": "https://spectrum.ieee.org/the-first-transatlantic-telegraph-cable-was-a-bold-beautiful-failure",
+      "title": "Tailscale didn't stop the Hugging Face intrusion",
+      "insight": "HN 热议：508 分 · 195 评论",
+      "sentiment": "positive",
+      "comments": 195,
+      "url": "https://tailscale.com/blog/hugging-face-intrusion",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Everyone is building LLM routers, we deprecated ours",
-      "insight": "HN 热议：90 分 · 45 评论",
+      "title": "The First Transatlantic Telegraph Cable Was a Bold, Beautiful Failure",
+      "insight": "HN 热议：37 分 · 11 评论",
       "sentiment": "neutral",
-      "comments": 45,
-      "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
+      "comments": 11,
+      "url": "https://spectrum.ieee.org/the-first-transatlantic-telegraph-cable-was-a-bold-beautiful-failure",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Using the railway network as a flatbed scanner [video]",
-      "insight": "HN 热议：50 分 · 25 评论",
+      "title": "Is AI reasoning right for the wrong reasons?",
+      "insight": "HN 热议：140 分 · 166 评论",
       "sentiment": "neutral",
-      "comments": 25,
-      "url": "https://media.ccc.de/v/emf2026-74-1-using-the-railway-network-as-a-flatbed-scanner",
+      "comments": 166,
+      "url": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
       "id": 5
     }
   ]
