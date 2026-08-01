@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-01T18:48:55Z",
+  "updated": "2026-08-01T21:41:27Z",
   "repos": [
     {
       "rank": 1,
       "name": "Significant-Gravitas/AutoGPT",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
       "language": "Python",
-      "stars": 185745,
-      "stars_today": 185745,
+      "stars": 185748,
+      "stars_today": 185748,
       "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
@@ -42,8 +42,8 @@
       "name": "thedotmack/claude-mem",
       "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
       "language": "JavaScript",
-      "stars": 89245,
-      "stars_today": 89245,
+      "stars": 89256,
+      "stars_today": 89256,
       "url": "https://github.com/thedotmack/claude-mem"
     },
     {
@@ -51,8 +51,8 @@
       "name": "OpenHands/OpenHands",
       "description": "🙌 OpenHands: AI-Driven Development",
       "language": "TypeScript",
-      "stars": 82785,
-      "stars_today": 82785,
+      "stars": 82793,
+      "stars_today": 82793,
       "url": "https://github.com/OpenHands/OpenHands"
     }
   ]

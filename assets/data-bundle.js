@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-01T18:48:55Z",
+    "updated": "2026-08-01T21:41:27Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-01T18:48:55Z",
+    "updated": "2026-08-01T21:41:27Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-01T18:48:55Z",
+    "updated": "2026-08-01T21:41:27Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185745,
-            "stars_today": 185745,
+            "stars": 185748,
+            "stars_today": 185748,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 89245,
-            "stars_today": 89245,
+            "stars": 89256,
+            "stars_today": 89256,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 82785,
-            "stars_today": 82785,
+            "stars": 82793,
+            "stars_today": 82793,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-01T18:48:55Z",
+    "updated": "2026-08-01T21:41:27Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-01T18:48:55Z",
+    "updated": "2026-08-01T21:41:27Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-01T18:48:55Z",
+    "updated": "2026-08-01T21:41:27Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Kaisel – Routes as Values. Dart 3 Native Router for Flutter",
-            "insight": "HN 热议：26 分 · 1 评论",
+            "insight": "HN 热议：45 分 · 5 评论",
             "sentiment": "neutral",
-            "comments": 1,
+            "comments": 5,
             "url": "https://kaisel.dev/",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "Explorative modeling: Train on the best of K guesses",
-            "insight": "HN 热议：42 分 · 15 评论",
+            "insight": "HN 热议：61 分 · 21 评论",
             "sentiment": "neutral",
-            "comments": 15,
+            "comments": 21,
             "url": "https://alexiglad.github.io/blog/2026/explorative_modeling/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Flint: A Visualization Language for the AI Era",
-            "insight": "HN 热议：229 分 · 65 评论",
-            "sentiment": "positive",
-            "comments": 65,
-            "url": "https://microsoft.github.io/flint-chart/",
+            "title": "Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
+            "insight": "HN 热议：15 分 · 4 评论",
+            "sentiment": "neutral",
+            "comments": 4,
+            "url": "https://trufflesecurity.com/blog/scanning-7-6-petabytes-of-ai-training-data-for-secrets",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Franken.domains: Stitched-Together Domains, Because Every .com Is Taken",
-            "insight": "HN 热议：9 分 · 2 评论",
+            "title": "The Burau representation of the braid group is faithful for n = 4",
+            "insight": "HN 热议：33 分 · 14 评论",
             "sentiment": "neutral",
-            "comments": 2,
-            "url": "https://franken.domains/",
+            "comments": 14,
+            "url": "https://arxiv.org/abs/2607.05283",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "qm – Multiplayer agent harness for work",
-            "insight": "HN 热议：635 分 · 149 评论",
+            "title": "Flint: A Visualization Language for the AI Era",
+            "insight": "HN 热议：238 分 · 66 评论",
             "sentiment": "positive",
-            "comments": 149,
-            "url": "https://github.com/yc-software/qm",
+            "comments": 66,
+            "url": "https://microsoft.github.io/flint-chart/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-01T18:48:55Z",
+    "updated": "2026-08-01T21:41:27Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
