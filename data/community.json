@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-01T07:57:53Z",
+  "updated": "2026-08-01T10:24:14Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Flint: A Visualization Language for the AI Era",
-      "insight": "HN 热议：95 分 · 31 评论",
+      "title": "AI doesn't generate working products, that's still your job",
+      "insight": "HN 热议：64 分 · 41 评论",
       "sentiment": "neutral",
-      "comments": 31,
-      "url": "https://microsoft.github.io/flint-chart/",
+      "comments": 41,
+      "url": "https://weeraman.com/the-prototype-isnt-the-product/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "qm – Multiplayer agent harness for work",
-      "insight": "HN 热议：543 分 · 113 评论",
-      "sentiment": "positive",
-      "comments": 113,
-      "url": "https://github.com/yc-software/qm",
+      "title": "Flint: A Visualization Language for the AI Era",
+      "insight": "HN 热议：124 分 · 41 评论",
+      "sentiment": "neutral",
+      "comments": 41,
+      "url": "https://microsoft.github.io/flint-chart/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
-      "insight": "HN 热议：496 分 · 512 评论",
+      "title": "qm – Multiplayer agent harness for work",
+      "insight": "HN 热议：576 分 · 119 评论",
       "sentiment": "positive",
-      "comments": 512,
-      "url": "https://blog.google/security/chrome-stronger-with-every-update/",
+      "comments": 119,
+      "url": "https://github.com/yc-software/qm",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Golang proposal: container/: generic collection types",
-      "insight": "HN 热议：147 分 · 112 评论",
-      "sentiment": "neutral",
-      "comments": 112,
-      "url": "https://github.com/golang/go/issues/80590",
+      "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
+      "insight": "HN 热议：521 分 · 538 评论",
+      "sentiment": "positive",
+      "comments": 538,
+      "url": "https://blog.google/security/chrome-stronger-with-every-update/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "When Internal Memory Fails: A No-Solder Wii U Recovery",
-      "insight": "HN 热议：7 分 · 1 评论",
+      "title": "EU will mandate labels on authentic-looking AI content starting August 2",
+      "insight": "HN 热议：22 分 · 3 评论",
       "sentiment": "neutral",
-      "comments": 1,
-      "url": "https://smolnero.com/posts/when-internal-memory-fails-a-no-solder-wii-u-recovery",
+      "comments": 3,
+      "url": "https://www.engadget.com/2227966/eu-mandate-labels-on-authentic-looking-ai-content/",
       "id": 5
     }
   ]
