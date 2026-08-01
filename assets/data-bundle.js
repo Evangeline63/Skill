@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-01T05:43:56Z",
+    "updated": "2026-08-01T07:57:53Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-01T05:43:56Z",
+    "updated": "2026-08-01T07:57:53Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,7 +266,7 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-01T05:43:56Z",
+    "updated": "2026-08-01T07:57:53Z",
     "repos": [
         {
             "rank": 1,
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 166584,
-            "stars_today": 166584,
+            "stars": 166587,
+            "stars_today": 166587,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 100255,
-            "stars_today": 100255,
+            "stars": 100269,
+            "stars_today": 100269,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95444,
-            "stars_today": 95444,
+            "stars": 95445,
+            "stars_today": 95445,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 89195,
-            "stars_today": 89195,
+            "stars": 89203,
+            "stars_today": 89203,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 82736,
-            "stars_today": 82736,
+            "stars": 82741,
+            "stars_today": 82741,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-01T05:43:56Z",
+    "updated": "2026-08-01T07:57:53Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-01T05:43:56Z",
+    "updated": "2026-08-01T07:57:53Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-01T05:43:56Z",
+    "updated": "2026-08-01T07:57:53Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Flint: A Visualization Language for the AI Era",
-            "insight": "HN 热议：49 分 · 9 评论",
+            "insight": "HN 热议：95 分 · 31 评论",
             "sentiment": "neutral",
-            "comments": 9,
+            "comments": 31,
             "url": "https://microsoft.github.io/flint-chart/",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "qm – Multiplayer agent harness for work",
-            "insight": "HN 热议：523 分 · 109 评论",
+            "insight": "HN 热议：543 分 · 113 评论",
             "sentiment": "positive",
-            "comments": 109,
+            "comments": 113,
             "url": "https://github.com/yc-software/qm",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Tailscale didn't stop the Hugging Face intrusion",
-            "insight": "HN 热议：508 分 · 195 评论",
+            "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
+            "insight": "HN 热议：496 分 · 512 评论",
             "sentiment": "positive",
-            "comments": 195,
-            "url": "https://tailscale.com/blog/hugging-face-intrusion",
+            "comments": 512,
+            "url": "https://blog.google/security/chrome-stronger-with-every-update/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "The First Transatlantic Telegraph Cable Was a Bold, Beautiful Failure",
-            "insight": "HN 热议：37 分 · 11 评论",
+            "title": "Golang proposal: container/: generic collection types",
+            "insight": "HN 热议：147 分 · 112 评论",
             "sentiment": "neutral",
-            "comments": 11,
-            "url": "https://spectrum.ieee.org/the-first-transatlantic-telegraph-cable-was-a-bold-beautiful-failure",
+            "comments": 112,
+            "url": "https://github.com/golang/go/issues/80590",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Is AI reasoning right for the wrong reasons?",
-            "insight": "HN 热议：140 分 · 166 评论",
+            "title": "When Internal Memory Fails: A No-Solder Wii U Recovery",
+            "insight": "HN 热议：7 分 · 1 评论",
             "sentiment": "neutral",
-            "comments": 166,
-            "url": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
+            "comments": 1,
+            "url": "https://smolnero.com/posts/when-internal-memory-fails-a-no-solder-wii-u-recovery",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-01T05:43:56Z",
+    "updated": "2026-08-01T07:57:53Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

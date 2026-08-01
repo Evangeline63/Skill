@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-01T05:43:56Z",
+  "updated": "2026-08-01T07:57:53Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Flint: A Visualization Language for the AI Era",
-      "insight": "HN 热议：49 分 · 9 评论",
+      "insight": "HN 热议：95 分 · 31 评论",
       "sentiment": "neutral",
-      "comments": 9,
+      "comments": 31,
       "url": "https://microsoft.github.io/flint-chart/",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "qm – Multiplayer agent harness for work",
-      "insight": "HN 热议：523 分 · 109 评论",
+      "insight": "HN 热议：543 分 · 113 评论",
       "sentiment": "positive",
-      "comments": 109,
+      "comments": 113,
       "url": "https://github.com/yc-software/qm",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Tailscale didn't stop the Hugging Face intrusion",
-      "insight": "HN 热议：508 分 · 195 评论",
+      "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
+      "insight": "HN 热议：496 分 · 512 评论",
       "sentiment": "positive",
-      "comments": 195,
-      "url": "https://tailscale.com/blog/hugging-face-intrusion",
+      "comments": 512,
+      "url": "https://blog.google/security/chrome-stronger-with-every-update/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "The First Transatlantic Telegraph Cable Was a Bold, Beautiful Failure",
-      "insight": "HN 热议：37 分 · 11 评论",
+      "title": "Golang proposal: container/: generic collection types",
+      "insight": "HN 热议：147 分 · 112 评论",
       "sentiment": "neutral",
-      "comments": 11,
-      "url": "https://spectrum.ieee.org/the-first-transatlantic-telegraph-cable-was-a-bold-beautiful-failure",
+      "comments": 112,
+      "url": "https://github.com/golang/go/issues/80590",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Is AI reasoning right for the wrong reasons?",
-      "insight": "HN 热议：140 分 · 166 评论",
+      "title": "When Internal Memory Fails: A No-Solder Wii U Recovery",
+      "insight": "HN 热议：7 分 · 1 评论",
       "sentiment": "neutral",
-      "comments": 166,
-      "url": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
+      "comments": 1,
+      "url": "https://smolnero.com/posts/when-internal-memory-fails-a-no-solder-wii-u-recovery",
       "id": 5
     }
   ]
