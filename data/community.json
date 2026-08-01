@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-01T15:49:24Z",
+  "updated": "2026-08-01T18:48:55Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Charlie Stross – On the non-use of AI in my writing process",
-      "insight": "HN 热议：17 分 · 1 评论",
+      "title": "Kaisel – Routes as Values. Dart 3 Native Router for Flutter",
+      "insight": "HN 热议：26 分 · 1 评论",
       "sentiment": "neutral",
       "comments": 1,
-      "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
+      "url": "https://kaisel.dev/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Flint: A Visualization Language for the AI Era",
-      "insight": "HN 热议：212 分 · 61 评论",
-      "sentiment": "positive",
-      "comments": 61,
-      "url": "https://microsoft.github.io/flint-chart/",
+      "title": "Explorative modeling: Train on the best of K guesses",
+      "insight": "HN 热议：42 分 · 15 评论",
+      "sentiment": "neutral",
+      "comments": 15,
+      "url": "https://alexiglad.github.io/blog/2026/explorative_modeling/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "qm – Multiplayer agent harness for work",
-      "insight": "HN 热议：620 分 · 141 评论",
+      "title": "Flint: A Visualization Language for the AI Era",
+      "insight": "HN 热议：229 分 · 65 评论",
       "sentiment": "positive",
-      "comments": 141,
-      "url": "https://github.com/yc-software/qm",
+      "comments": 65,
+      "url": "https://microsoft.github.io/flint-chart/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Minimal LLM Post-Training Experiments on an 8GB GPU (SFT, DPO, GRPO)",
-      "insight": "HN 热议：4 分 · 0 评论",
+      "title": "Franken.domains: Stitched-Together Domains, Because Every .com Is Taken",
+      "insight": "HN 热议：9 分 · 2 评论",
       "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://github.com/pochenai/nano-llm-posttraining",
+      "comments": 2,
+      "url": "https://franken.domains/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Golang proposal: container/: generic collection types",
-      "insight": "HN 热议：171 分 · 156 评论",
-      "sentiment": "neutral",
-      "comments": 156,
-      "url": "https://github.com/golang/go/issues/80590",
+      "title": "qm – Multiplayer agent harness for work",
+      "insight": "HN 热议：635 分 · 149 评论",
+      "sentiment": "positive",
+      "comments": 149,
+      "url": "https://github.com/yc-software/qm",
       "id": 5
     }
   ]

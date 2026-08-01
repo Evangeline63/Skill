@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-01T15:49:24Z",
+    "updated": "2026-08-01T18:48:55Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-01T15:49:24Z",
+    "updated": "2026-08-01T18:48:55Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-01T15:49:24Z",
+    "updated": "2026-08-01T18:48:55Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185746,
-            "stars_today": 185746,
+            "stars": 185745,
+            "stars_today": 185745,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 166595,
-            "stars_today": 166595,
+            "stars": 166603,
+            "stars_today": 166603,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 100302,
-            "stars_today": 100302,
+            "stars": 100309,
+            "stars_today": 100309,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95456,
-            "stars_today": 95456,
+            "stars": 95458,
+            "stars_today": 95458,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 89231,
-            "stars_today": 89231,
+            "stars": 89245,
+            "stars_today": 89245,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 82778,
-            "stars_today": 82778,
+            "stars": 82785,
+            "stars_today": 82785,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-01T15:49:24Z",
+    "updated": "2026-08-01T18:48:55Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-01T15:49:24Z",
+    "updated": "2026-08-01T18:48:55Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-01T15:49:24Z",
+    "updated": "2026-08-01T18:48:55Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Charlie Stross – On the non-use of AI in my writing process",
-            "insight": "HN 热议：17 分 · 1 评论",
+            "title": "Kaisel – Routes as Values. Dart 3 Native Router for Flutter",
+            "insight": "HN 热议：26 分 · 1 评论",
             "sentiment": "neutral",
             "comments": 1,
-            "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
+            "url": "https://kaisel.dev/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Flint: A Visualization Language for the AI Era",
-            "insight": "HN 热议：212 分 · 61 评论",
-            "sentiment": "positive",
-            "comments": 61,
-            "url": "https://microsoft.github.io/flint-chart/",
+            "title": "Explorative modeling: Train on the best of K guesses",
+            "insight": "HN 热议：42 分 · 15 评论",
+            "sentiment": "neutral",
+            "comments": 15,
+            "url": "https://alexiglad.github.io/blog/2026/explorative_modeling/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "qm – Multiplayer agent harness for work",
-            "insight": "HN 热议：620 分 · 141 评论",
+            "title": "Flint: A Visualization Language for the AI Era",
+            "insight": "HN 热议：229 分 · 65 评论",
             "sentiment": "positive",
-            "comments": 141,
-            "url": "https://github.com/yc-software/qm",
+            "comments": 65,
+            "url": "https://microsoft.github.io/flint-chart/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Minimal LLM Post-Training Experiments on an 8GB GPU (SFT, DPO, GRPO)",
-            "insight": "HN 热议：4 分 · 0 评论",
+            "title": "Franken.domains: Stitched-Together Domains, Because Every .com Is Taken",
+            "insight": "HN 热议：9 分 · 2 评论",
             "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://github.com/pochenai/nano-llm-posttraining",
+            "comments": 2,
+            "url": "https://franken.domains/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Golang proposal: container/: generic collection types",
-            "insight": "HN 热议：171 分 · 156 评论",
-            "sentiment": "neutral",
-            "comments": 156,
-            "url": "https://github.com/golang/go/issues/80590",
+            "title": "qm – Multiplayer agent harness for work",
+            "insight": "HN 热议：635 分 · 149 评论",
+            "sentiment": "positive",
+            "comments": 149,
+            "url": "https://github.com/yc-software/qm",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-01T15:49:24Z",
+    "updated": "2026-08-01T18:48:55Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
