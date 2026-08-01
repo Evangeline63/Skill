@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-01T10:24:14Z",
+  "updated": "2026-08-01T12:49:39Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "AI doesn't generate working products, that's still your job",
-      "insight": "HN 热议：64 分 · 41 评论",
+      "title": "Show HN: Free AI Prompt Gen – A local-first, open-source prompt engineering tool",
+      "insight": "HN 热议：6 分 · 0 评论",
       "sentiment": "neutral",
-      "comments": 41,
-      "url": "https://weeraman.com/the-prototype-isnt-the-product/",
+      "comments": 0,
+      "url": "https://freeaipromptgen.com/",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "Flint: A Visualization Language for the AI Era",
-      "insight": "HN 热议：124 分 · 41 评论",
+      "insight": "HN 热议：151 分 · 55 评论",
       "sentiment": "neutral",
-      "comments": 41,
+      "comments": 55,
       "url": "https://microsoft.github.io/flint-chart/",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "qm – Multiplayer agent harness for work",
-      "insight": "HN 热议：576 分 · 119 评论",
+      "insight": "HN 热议：590 分 · 123 评论",
       "sentiment": "positive",
-      "comments": 119,
+      "comments": 123,
       "url": "https://github.com/yc-software/qm",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
-      "insight": "HN 热议：521 分 · 538 评论",
-      "sentiment": "positive",
-      "comments": 538,
-      "url": "https://blog.google/security/chrome-stronger-with-every-update/",
+      "title": "AI doesn't generate working products, that's still your job",
+      "insight": "HN 热议：198 分 · 175 评论",
+      "sentiment": "neutral",
+      "comments": 175,
+      "url": "https://weeraman.com/the-prototype-isnt-the-product/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "EU will mandate labels on authentic-looking AI content starting August 2",
-      "insight": "HN 热议：22 分 · 3 评论",
+      "title": "Golang proposal: container/: generic collection types",
+      "insight": "HN 热议：163 分 · 139 评论",
       "sentiment": "neutral",
-      "comments": 3,
-      "url": "https://www.engadget.com/2227966/eu-mandate-labels-on-authentic-looking-ai-content/",
+      "comments": 139,
+      "url": "https://github.com/golang/go/issues/80590",
       "id": 5
     }
   ]
