@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-02T05:44:43Z",
+  "updated": "2026-08-02T07:59:43Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "AI financial advice is surprisingly good, especially if you ask right questions",
-      "insight": "HN 热议：244 分 · 211 评论",
-      "sentiment": "positive",
-      "comments": 211,
-      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+      "title": "Australia's social media ban has failed",
+      "insight": "HN 热议：13 分 · 12 评论",
+      "sentiment": "neutral",
+      "comments": 12,
+      "url": "https://www.reuters.com/legal/litigation/australia-defends-teen-social-media-ban-after-study-shows-most-still-online-2026-08-01/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Don't credit the LLM",
-      "insight": "HN 热议：23 分 · 26 评论",
-      "sentiment": "neutral",
-      "comments": 26,
-      "url": "https://isaacsu.com/2026/08/dont-credit-the-llm/",
+      "title": "AI financial advice is surprisingly good, especially if you ask right questions",
+      "insight": "HN 热议：288 分 · 255 评论",
+      "sentiment": "positive",
+      "comments": 255,
+      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "P[drive failure]: how reliable is your NAS?",
-      "insight": "HN 热议：3 分 · 0 评论",
+      "insight": "HN 热议：9 分 · 7 评论",
       "sentiment": "neutral",
-      "comments": 0,
+      "comments": 7,
       "url": "https://khz.ac/low-voltage/drive-failure.html",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
-      "insight": "HN 热议：12 分 · 5 评论",
+      "title": "Explorative modeling: Train on the best of K guesses",
+      "insight": "HN 热议：98 分 · 25 评论",
       "sentiment": "neutral",
-      "comments": 5,
-      "url": "https://costperprompt.com/",
+      "comments": 25,
+      "url": "https://alexiglad.github.io/blog/2026/explorative_modeling/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Explorative modeling: Train on the best of K guesses",
-      "insight": "HN 热议：89 分 · 24 评论",
+      "title": "Drug reverses autism-like brain changes in adult mice within hours",
+      "insight": "HN 热议：19 分 · 3 评论",
       "sentiment": "neutral",
-      "comments": 24,
-      "url": "https://alexiglad.github.io/blog/2026/explorative_modeling/",
+      "comments": 3,
+      "url": "https://www.uclahealth.org/news/release/drug-reverses-autism-like-brain-changes-adult-mice-within",
       "id": 5
     }
   ]
