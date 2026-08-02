@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-01T21:41:27Z",
+    "updated": "2026-08-02T01:25:44Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-01T21:41:27Z",
+    "updated": "2026-08-02T01:25:44Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-01T21:41:27Z",
+    "updated": "2026-08-02T01:25:44Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185748,
-            "stars_today": 185748,
+            "stars": 185751,
+            "stars_today": 185751,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 166603,
-            "stars_today": 166603,
+            "stars": 166605,
+            "stars_today": 166605,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 100309,
-            "stars_today": 100309,
+            "stars": 100314,
+            "stars_today": 100314,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95458,
-            "stars_today": 95458,
+            "stars": 95464,
+            "stars_today": 95464,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 89256,
-            "stars_today": 89256,
+            "stars": 89262,
+            "stars_today": 89262,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 82793,
-            "stars_today": 82793,
+            "stars": 82807,
+            "stars_today": 82807,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-01T21:41:27Z",
+    "updated": "2026-08-02T01:25:44Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-01T21:41:27Z",
+    "updated": "2026-08-02T01:25:44Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-01T21:41:27Z",
+    "updated": "2026-08-02T01:25:44Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Kaisel – Routes as Values. Dart 3 Native Router for Flutter",
-            "insight": "HN 热议：45 分 · 5 评论",
+            "title": "AI financial advice is surprisingly good, especially if you ask right questions",
+            "insight": "HN 热议：142 分 · 88 评论",
             "sentiment": "neutral",
-            "comments": 5,
-            "url": "https://kaisel.dev/",
+            "comments": 88,
+            "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "Explorative modeling: Train on the best of K guesses",
-            "insight": "HN 热议：61 分 · 21 评论",
+            "insight": "HN 热议：75 分 · 23 评论",
             "sentiment": "neutral",
-            "comments": 21,
+            "comments": 23,
             "url": "https://alexiglad.github.io/blog/2026/explorative_modeling/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
-            "insight": "HN 热议：15 分 · 4 评论",
+            "title": "Kaisel – Routes as Values. Dart 3 Native Router for Flutter",
+            "insight": "HN 热议：52 分 · 8 评论",
             "sentiment": "neutral",
-            "comments": 4,
-            "url": "https://trufflesecurity.com/blog/scanning-7-6-petabytes-of-ai-training-data-for-secrets",
+            "comments": 8,
+            "url": "https://kaisel.dev/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "The Burau representation of the braid group is faithful for n = 4",
-            "insight": "HN 热议：33 分 · 14 评论",
-            "sentiment": "neutral",
-            "comments": 14,
-            "url": "https://arxiv.org/abs/2607.05283",
+            "title": "Flint: A Visualization Language for the AI Era",
+            "insight": "HN 热议：255 分 · 67 评论",
+            "sentiment": "positive",
+            "comments": 67,
+            "url": "https://microsoft.github.io/flint-chart/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Flint: A Visualization Language for the AI Era",
-            "insight": "HN 热议：238 分 · 66 评论",
-            "sentiment": "positive",
-            "comments": 66,
-            "url": "https://microsoft.github.io/flint-chart/",
+            "title": "The Burau representation of the braid group is faithful for n = 4",
+            "insight": "HN 热议：45 分 · 18 评论",
+            "sentiment": "neutral",
+            "comments": 18,
+            "url": "https://arxiv.org/abs/2607.05283",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-01T21:41:27Z",
+    "updated": "2026-08-02T01:25:44Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-01T21:41:27Z",
+  "updated": "2026-08-02T01:25:44Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Kaisel – Routes as Values. Dart 3 Native Router for Flutter",
-      "insight": "HN 热议：45 分 · 5 评论",
+      "title": "AI financial advice is surprisingly good, especially if you ask right questions",
+      "insight": "HN 热议：142 分 · 88 评论",
       "sentiment": "neutral",
-      "comments": 5,
-      "url": "https://kaisel.dev/",
+      "comments": 88,
+      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "Explorative modeling: Train on the best of K guesses",
-      "insight": "HN 热议：61 分 · 21 评论",
+      "insight": "HN 热议：75 分 · 23 评论",
       "sentiment": "neutral",
-      "comments": 21,
+      "comments": 23,
       "url": "https://alexiglad.github.io/blog/2026/explorative_modeling/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
-      "insight": "HN 热议：15 分 · 4 评论",
+      "title": "Kaisel – Routes as Values. Dart 3 Native Router for Flutter",
+      "insight": "HN 热议：52 分 · 8 评论",
       "sentiment": "neutral",
-      "comments": 4,
-      "url": "https://trufflesecurity.com/blog/scanning-7-6-petabytes-of-ai-training-data-for-secrets",
+      "comments": 8,
+      "url": "https://kaisel.dev/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "The Burau representation of the braid group is faithful for n = 4",
-      "insight": "HN 热议：33 分 · 14 评论",
-      "sentiment": "neutral",
-      "comments": 14,
-      "url": "https://arxiv.org/abs/2607.05283",
+      "title": "Flint: A Visualization Language for the AI Era",
+      "insight": "HN 热议：255 分 · 67 评论",
+      "sentiment": "positive",
+      "comments": 67,
+      "url": "https://microsoft.github.io/flint-chart/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Flint: A Visualization Language for the AI Era",
-      "insight": "HN 热议：238 分 · 66 评论",
-      "sentiment": "positive",
-      "comments": 66,
-      "url": "https://microsoft.github.io/flint-chart/",
+      "title": "The Burau representation of the braid group is faithful for n = 4",
+      "insight": "HN 热议：45 分 · 18 评论",
+      "sentiment": "neutral",
+      "comments": 18,
+      "url": "https://arxiv.org/abs/2607.05283",
       "id": 5
     }
   ]
