@@ -1,37 +1,37 @@
 {
-  "updated": "2026-08-02T07:59:43Z",
+  "updated": "2026-08-02T10:22:30Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Australia's social media ban has failed",
-      "insight": "HN 热议：13 分 · 12 评论",
+      "title": "I don't recommend Tailwind CSS",
+      "insight": "HN 热议：90 分 · 89 评论",
       "sentiment": "neutral",
-      "comments": 12,
-      "url": "https://www.reuters.com/legal/litigation/australia-defends-teen-social-media-ban-after-study-shows-most-still-online-2026-08-01/",
+      "comments": 89,
+      "url": "https://en.andros.dev/blog/af3ee191/why-i-dont-recommend-tailwind-css/",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "AI financial advice is surprisingly good, especially if you ask right questions",
-      "insight": "HN 热议：288 分 · 255 评论",
+      "insight": "HN 热议：305 分 · 279 评论",
       "sentiment": "positive",
-      "comments": 255,
+      "comments": 279,
       "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "P[drive failure]: how reliable is your NAS?",
-      "insight": "HN 热议：9 分 · 7 评论",
+      "title": "Agent4Lease",
+      "insight": "HN 热议：3 分 · 0 评论",
       "sentiment": "neutral",
-      "comments": 7,
-      "url": "https://khz.ac/low-voltage/drive-failure.html",
+      "comments": 0,
+      "url": "https://agent4lease.com/",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "Explorative modeling: Train on the best of K guesses",
-      "insight": "HN 热议：98 分 · 25 评论",
+      "insight": "HN 热议：104 分 · 25 评论",
       "sentiment": "neutral",
       "comments": 25,
       "url": "https://alexiglad.github.io/blog/2026/explorative_modeling/",
@@ -40,9 +40,9 @@
     {
       "source": "HackerNews",
       "title": "Drug reverses autism-like brain changes in adult mice within hours",
-      "insight": "HN 热议：19 分 · 3 评论",
+      "insight": "HN 热议：30 分 · 11 评论",
       "sentiment": "neutral",
-      "comments": 3,
+      "comments": 11,
       "url": "https://www.uclahealth.org/news/release/drug-reverses-autism-like-brain-changes-adult-mice-within",
       "id": 5
     }

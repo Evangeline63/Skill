@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-02T07:59:43Z",
+    "updated": "2026-08-02T10:22:30Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-02T07:59:43Z",
+    "updated": "2026-08-02T10:22:30Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-02T07:59:43Z",
+    "updated": "2026-08-02T10:22:30Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185758,
-            "stars_today": 185758,
+            "stars": 185764,
+            "stars_today": 185764,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 166613,
-            "stars_today": 166613,
+            "stars": 166619,
+            "stars_today": 166619,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 100334,
-            "stars_today": 100334,
+            "stars": 100340,
+            "stars_today": 100340,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95484,
-            "stars_today": 95484,
+            "stars": 95489,
+            "stars_today": 95489,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 89284,
-            "stars_today": 89284,
+            "stars": 89288,
+            "stars_today": 89288,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 82833,
-            "stars_today": 82833,
+            "stars": 82840,
+            "stars_today": 82840,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-02T07:59:43Z",
+    "updated": "2026-08-02T10:22:30Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-02T07:59:43Z",
+    "updated": "2026-08-02T10:22:30Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,39 +511,39 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-02T07:59:43Z",
+    "updated": "2026-08-02T10:22:30Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Australia's social media ban has failed",
-            "insight": "HN 热议：13 分 · 12 评论",
+            "title": "I don't recommend Tailwind CSS",
+            "insight": "HN 热议：90 分 · 89 评论",
             "sentiment": "neutral",
-            "comments": 12,
-            "url": "https://www.reuters.com/legal/litigation/australia-defends-teen-social-media-ban-after-study-shows-most-still-online-2026-08-01/",
+            "comments": 89,
+            "url": "https://en.andros.dev/blog/af3ee191/why-i-dont-recommend-tailwind-css/",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "AI financial advice is surprisingly good, especially if you ask right questions",
-            "insight": "HN 热议：288 分 · 255 评论",
+            "insight": "HN 热议：305 分 · 279 评论",
             "sentiment": "positive",
-            "comments": 255,
+            "comments": 279,
             "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "P[drive failure]: how reliable is your NAS?",
-            "insight": "HN 热议：9 分 · 7 评论",
+            "title": "Agent4Lease",
+            "insight": "HN 热议：3 分 · 0 评论",
             "sentiment": "neutral",
-            "comments": 7,
-            "url": "https://khz.ac/low-voltage/drive-failure.html",
+            "comments": 0,
+            "url": "https://agent4lease.com/",
             "id": 3
         },
         {
             "source": "HackerNews",
             "title": "Explorative modeling: Train on the best of K guesses",
-            "insight": "HN 热议：98 分 · 25 评论",
+            "insight": "HN 热议：104 分 · 25 评论",
             "sentiment": "neutral",
             "comments": 25,
             "url": "https://alexiglad.github.io/blog/2026/explorative_modeling/",
@@ -552,16 +552,16 @@ window.__DATA__ = {
         {
             "source": "HackerNews",
             "title": "Drug reverses autism-like brain changes in adult mice within hours",
-            "insight": "HN 热议：19 分 · 3 评论",
+            "insight": "HN 热议：30 分 · 11 评论",
             "sentiment": "neutral",
-            "comments": 3,
+            "comments": 11,
             "url": "https://www.uclahealth.org/news/release/drug-reverses-autism-like-brain-changes-adult-mice-within",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-02T07:59:43Z",
+    "updated": "2026-08-02T10:22:30Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
