@@ -1,48 +1,48 @@
 {
-  "updated": "2026-08-02T15:49:46Z",
+  "updated": "2026-08-02T18:49:52Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
-      "insight": "HN 热议：81 分 · 21 评论",
+      "insight": "HN 热议：99 分 · 24 评论",
       "sentiment": "neutral",
-      "comments": 21,
+      "comments": 24,
       "url": "https://publicdomainreview.org/essay/ars-notoria/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "GPUs could explode to multiple TB with new storage-inspired memory tech",
-      "insight": "HN 热议：19 分 · 3 评论",
+      "title": "Mozilla's Inaugural 'State of Open Source AI' Report Is Here",
+      "insight": "HN 热议：12 分 · 1 评论",
       "sentiment": "neutral",
-      "comments": 3,
-      "url": "https://www.theregister.com/storage/2026/07/30/gpus-could-explode-to-multiple-tb-with-new-storage-inspired-memory-tech/5281363",
+      "comments": 1,
+      "url": "https://blog.mozilla.org/en/mozilla/mozilla-state-of-open-source-ai-report/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "I don't recommend Tailwind CSS",
-      "insight": "HN 热议：135 分 · 140 评论",
+      "title": "P[drive failure]: how reliable is your NAS?",
+      "insight": "HN 热议：21 分 · 12 评论",
       "sentiment": "neutral",
-      "comments": 140,
-      "url": "https://en.andros.dev/blog/af3ee191/why-i-dont-recommend-tailwind-css/",
+      "comments": 12,
+      "url": "https://khz.ac/low-voltage/drive-failure.html",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "P[drive failure]: how reliable is your NAS?",
-      "insight": "HN 热议：20 分 · 8 评论",
+      "title": "I don't recommend Tailwind CSS",
+      "insight": "HN 热议：142 分 · 147 评论",
       "sentiment": "neutral",
-      "comments": 8,
-      "url": "https://khz.ac/low-voltage/drive-failure.html",
+      "comments": 147,
+      "url": "https://en.andros.dev/blog/af3ee191/why-i-dont-recommend-tailwind-css/",
       "id": 4
     },
     {
       "source": "HackerNews",
       "title": "AI opens new era in cognitive studies of wild primates",
-      "insight": "HN 热议：23 分 · 6 评论",
+      "insight": "HN 热议：25 分 · 7 评论",
       "sentiment": "neutral",
-      "comments": 6,
+      "comments": 7,
       "url": "https://news.emory.edu/features/2026/07/ai-opens-new-era-cognitive-studies-wild-primates",
       "id": 5
     }
