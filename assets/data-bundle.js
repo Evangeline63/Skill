@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-02T18:49:52Z",
+    "updated": "2026-08-02T21:42:00Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-02T18:49:52Z",
+    "updated": "2026-08-02T21:42:00Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,7 +266,7 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-02T18:49:52Z",
+    "updated": "2026-08-02T21:42:00Z",
     "repos": [
         {
             "rank": 1,
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 100379,
-            "stars_today": 100379,
+            "stars": 100387,
+            "stars_today": 100387,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 89327,
-            "stars_today": 89327,
+            "stars": 89333,
+            "stars_today": 89333,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 82893,
-            "stars_today": 82893,
+            "stars": 82902,
+            "stars_today": 82902,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-02T18:49:52Z",
+    "updated": "2026-08-02T21:42:00Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-02T18:49:52Z",
+    "updated": "2026-08-02T21:42:00Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-02T18:49:52Z",
+    "updated": "2026-08-02T21:42:00Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
-            "insight": "HN 热议：99 分 · 24 评论",
+            "title": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+            "insight": "HN 热议：44 分 · 23 评论",
             "sentiment": "neutral",
-            "comments": 24,
-            "url": "https://publicdomainreview.org/essay/ars-notoria/",
+            "comments": 23,
+            "url": "https://frogs.vaguespac.es/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Mozilla's Inaugural 'State of Open Source AI' Report Is Here",
-            "insight": "HN 热议：12 分 · 1 评论",
+            "title": "AI Mania: From Tulips to Tokens",
+            "insight": "HN 热议：31 分 · 19 评论",
             "sentiment": "neutral",
-            "comments": 1,
-            "url": "https://blog.mozilla.org/en/mozilla/mozilla-state-of-open-source-ai-report/",
+            "comments": 19,
+            "url": "https://seanhelvey.com/tools-and-their-tools/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "P[drive failure]: how reliable is your NAS?",
-            "insight": "HN 热议：21 分 · 12 评论",
+            "title": "'Crush this lady': how eBay harassment campaign led to $56M payout",
+            "insight": "HN 热议：77 分 · 19 评论",
             "sentiment": "neutral",
-            "comments": 12,
-            "url": "https://khz.ac/low-voltage/drive-failure.html",
+            "comments": 19,
+            "url": "https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "I don't recommend Tailwind CSS",
-            "insight": "HN 热议：142 分 · 147 评论",
+            "title": "Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
+            "insight": "HN 热议：4 分 · 0 评论",
             "sentiment": "neutral",
-            "comments": 147,
-            "url": "https://en.andros.dev/blog/af3ee191/why-i-dont-recommend-tailwind-css/",
+            "comments": 0,
+            "url": "https://github.com/paoloanzn/microcodex",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "AI opens new era in cognitive studies of wild primates",
-            "insight": "HN 热议：25 分 · 7 评论",
+            "title": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+            "insight": "HN 热议：117 分 · 28 评论",
             "sentiment": "neutral",
-            "comments": 7,
-            "url": "https://news.emory.edu/features/2026/07/ai-opens-new-era-cognitive-studies-wild-primates",
+            "comments": 28,
+            "url": "https://publicdomainreview.org/essay/ars-notoria/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-02T18:49:52Z",
+    "updated": "2026-08-02T21:42:00Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02T18:49:52Z",
+  "updated": "2026-08-02T21:42:00Z",
   "repos": [
     {
       "rank": 1,
@@ -24,8 +24,8 @@
       "name": "rasbt/LLMs-from-scratch",
       "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
       "language": "Jupyter Notebook",
-      "stars": 100379,
-      "stars_today": 100379,
+      "stars": 100387,
+      "stars_today": 100387,
       "url": "https://github.com/rasbt/LLMs-from-scratch"
     },
     {
@@ -42,8 +42,8 @@
       "name": "thedotmack/claude-mem",
       "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
       "language": "JavaScript",
-      "stars": 89327,
-      "stars_today": 89327,
+      "stars": 89333,
+      "stars_today": 89333,
       "url": "https://github.com/thedotmack/claude-mem"
     },
     {
@@ -51,8 +51,8 @@
       "name": "OpenHands/OpenHands",
       "description": "🙌 OpenHands: AI-Driven Development",
       "language": "TypeScript",
-      "stars": 82893,
-      "stars_today": 82893,
+      "stars": 82902,
+      "stars_today": 82902,
       "url": "https://github.com/OpenHands/OpenHands"
     }
   ]
