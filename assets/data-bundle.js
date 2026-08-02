@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-02T10:22:30Z",
+    "updated": "2026-08-02T12:51:33Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-02T10:22:30Z",
+    "updated": "2026-08-02T12:51:33Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,7 +266,7 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-02T10:22:30Z",
+    "updated": "2026-08-02T12:51:33Z",
     "repos": [
         {
             "rank": 1,
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 166619,
-            "stars_today": 166619,
+            "stars": 166624,
+            "stars_today": 166624,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 100340,
-            "stars_today": 100340,
+            "stars": 100347,
+            "stars_today": 100347,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 89288,
-            "stars_today": 89288,
+            "stars": 89302,
+            "stars_today": 89302,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 82840,
-            "stars_today": 82840,
+            "stars": 82856,
+            "stars_today": 82856,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-02T10:22:30Z",
+    "updated": "2026-08-02T12:51:33Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-02T10:22:30Z",
+    "updated": "2026-08-02T12:51:33Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-02T10:22:30Z",
+    "updated": "2026-08-02T12:51:33Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "I don't recommend Tailwind CSS",
-            "insight": "HN 热议：90 分 · 89 评论",
+            "title": "Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers",
+            "insight": "HN 热议：19 分 · 13 评论",
             "sentiment": "neutral",
-            "comments": 89,
-            "url": "https://en.andros.dev/blog/af3ee191/why-i-dont-recommend-tailwind-css/",
+            "comments": 13,
+            "url": "https://website-auditor.io/ai-visibility-index",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "AI financial advice is surprisingly good, especially if you ask right questions",
-            "insight": "HN 热议：305 分 · 279 评论",
-            "sentiment": "positive",
-            "comments": 279,
-            "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+            "title": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+            "insight": "HN 热议：38 分 · 4 评论",
+            "sentiment": "neutral",
+            "comments": 4,
+            "url": "https://publicdomainreview.org/essay/ars-notoria/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Agent4Lease",
-            "insight": "HN 热议：3 分 · 0 评论",
+            "title": "The Vanishing Page: AI Firms Scan Then Destroy Rare Book Editions",
+            "insight": "HN 热议：20 分 · 12 评论",
             "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://agent4lease.com/",
+            "comments": 12,
+            "url": "https://dallasexpress.com/national/the-vanishing-page-ai-firms-scan-then-destroy-rare-book-editions/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Explorative modeling: Train on the best of K guesses",
-            "insight": "HN 热议：104 分 · 25 评论",
+            "title": "An internal OpenAI Astra model solved 10 major open math and CS problems",
+            "insight": "HN 热议：21 分 · 1 评论",
             "sentiment": "neutral",
-            "comments": 25,
-            "url": "https://alexiglad.github.io/blog/2026/explorative_modeling/",
+            "comments": 1,
+            "url": "https://twitter.com/polynoamial/status/2083467194663571701",
             "id": 4
         },
         {
             "source": "HackerNews",
             "title": "Drug reverses autism-like brain changes in adult mice within hours",
-            "insight": "HN 热议：30 分 · 11 评论",
+            "insight": "HN 热议：35 分 · 39 评论",
             "sentiment": "neutral",
-            "comments": 11,
+            "comments": 39,
             "url": "https://www.uclahealth.org/news/release/drug-reverses-autism-like-brain-changes-adult-mice-within",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-02T10:22:30Z",
+    "updated": "2026-08-02T12:51:33Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

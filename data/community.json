@@ -1,48 +1,48 @@
 {
-  "updated": "2026-08-02T10:22:30Z",
+  "updated": "2026-08-02T12:51:33Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "I don't recommend Tailwind CSS",
-      "insight": "HN 热议：90 分 · 89 评论",
+      "title": "Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers",
+      "insight": "HN 热议：19 分 · 13 评论",
       "sentiment": "neutral",
-      "comments": 89,
-      "url": "https://en.andros.dev/blog/af3ee191/why-i-dont-recommend-tailwind-css/",
+      "comments": 13,
+      "url": "https://website-auditor.io/ai-visibility-index",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "AI financial advice is surprisingly good, especially if you ask right questions",
-      "insight": "HN 热议：305 分 · 279 评论",
-      "sentiment": "positive",
-      "comments": 279,
-      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+      "title": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+      "insight": "HN 热议：38 分 · 4 评论",
+      "sentiment": "neutral",
+      "comments": 4,
+      "url": "https://publicdomainreview.org/essay/ars-notoria/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Agent4Lease",
-      "insight": "HN 热议：3 分 · 0 评论",
+      "title": "The Vanishing Page: AI Firms Scan Then Destroy Rare Book Editions",
+      "insight": "HN 热议：20 分 · 12 评论",
       "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://agent4lease.com/",
+      "comments": 12,
+      "url": "https://dallasexpress.com/national/the-vanishing-page-ai-firms-scan-then-destroy-rare-book-editions/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Explorative modeling: Train on the best of K guesses",
-      "insight": "HN 热议：104 分 · 25 评论",
+      "title": "An internal OpenAI Astra model solved 10 major open math and CS problems",
+      "insight": "HN 热议：21 分 · 1 评论",
       "sentiment": "neutral",
-      "comments": 25,
-      "url": "https://alexiglad.github.io/blog/2026/explorative_modeling/",
+      "comments": 1,
+      "url": "https://twitter.com/polynoamial/status/2083467194663571701",
       "id": 4
     },
     {
       "source": "HackerNews",
       "title": "Drug reverses autism-like brain changes in adult mice within hours",
-      "insight": "HN 热议：30 分 · 11 评论",
+      "insight": "HN 热议：35 分 · 39 评论",
       "sentiment": "neutral",
-      "comments": 11,
+      "comments": 39,
       "url": "https://www.uclahealth.org/news/release/drug-reverses-autism-like-brain-changes-adult-mice-within",
       "id": 5
     }

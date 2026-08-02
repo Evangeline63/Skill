@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02T10:22:30Z",
+  "updated": "2026-08-02T12:51:33Z",
   "repos": [
     {
       "rank": 1,
@@ -15,8 +15,8 @@
       "name": "f/prompts.chat",
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
       "language": "HTML",
-      "stars": 166619,
-      "stars_today": 166619,
+      "stars": 166624,
+      "stars_today": 166624,
       "url": "https://github.com/f/prompts.chat"
     },
     {
@@ -24,8 +24,8 @@
       "name": "rasbt/LLMs-from-scratch",
       "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
       "language": "Jupyter Notebook",
-      "stars": 100340,
-      "stars_today": 100340,
+      "stars": 100347,
+      "stars_today": 100347,
       "url": "https://github.com/rasbt/LLMs-from-scratch"
     },
     {
@@ -42,8 +42,8 @@
       "name": "thedotmack/claude-mem",
       "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
       "language": "JavaScript",
-      "stars": 89288,
-      "stars_today": 89288,
+      "stars": 89302,
+      "stars_today": 89302,
       "url": "https://github.com/thedotmack/claude-mem"
     },
     {
@@ -51,8 +51,8 @@
       "name": "OpenHands/OpenHands",
       "description": "🙌 OpenHands: AI-Driven Development",
       "language": "TypeScript",
-      "stars": 82840,
-      "stars_today": 82840,
+      "stars": 82856,
+      "stars_today": 82856,
       "url": "https://github.com/OpenHands/OpenHands"
     }
   ]
