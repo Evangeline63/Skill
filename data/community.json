@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-03T17:02:48Z",
+  "updated": "2026-08-03T19:14:29Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents",
-      "insight": "HN 热议：10 分 · 2 评论",
+      "insight": "HN 热议：24 分 · 28 评论",
       "sentiment": "neutral",
-      "comments": 2,
+      "comments": 28,
       "url": "https://hoplite.sh",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "What's the largest software project AI can complete on its own?",
-      "insight": "HN 热议：19 分 · 10 评论",
+      "title": "AirLLM 70B inference with single 4GB GPU",
+      "insight": "HN 热议：147 分 · 52 评论",
       "sentiment": "neutral",
-      "comments": 10,
-      "url": "https://epoch.ai/MirrorCode",
+      "comments": 52,
+      "url": "https://github.com/lyogavin/airllm",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Product analytics (and evals) for agent sessions on your MCP",
-      "insight": "HN 热议：7 分 · 0 评论",
-      "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://armature.tech/",
+      "title": "Bonsai: Janestreet's UI Library",
+      "insight": "HN 热议：244 分 · 93 评论",
+      "sentiment": "positive",
+      "comments": 93,
+      "url": "https://github.com/janestreet/bonsai",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "AirLLM 70B inference with single 4GB GPU",
-      "insight": "HN 热议：117 分 · 41 评论",
+      "title": "Show HN: Product analytics (and evals) for agent sessions on your MCP",
+      "insight": "HN 热议：21 分 · 1 评论",
       "sentiment": "neutral",
-      "comments": 41,
-      "url": "https://github.com/lyogavin/airllm",
+      "comments": 1,
+      "url": "https://armature.tech/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Bonsai: Janestreet's UI Library",
-      "insight": "HN 热议：212 分 · 78 评论",
+      "title": "SQLite Critical CVEs or LLM Slop?",
+      "insight": "HN 热议：663 分 · 299 评论",
       "sentiment": "positive",
-      "comments": 78,
-      "url": "https://github.com/janestreet/bonsai",
+      "comments": 299,
+      "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
       "id": 5
     }
   ]
