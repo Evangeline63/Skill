@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-03T19:14:29Z",
+    "updated": "2026-08-03T21:55:42Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-03T19:14:29Z",
+    "updated": "2026-08-03T21:55:42Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-03T19:14:29Z",
+    "updated": "2026-08-03T21:55:42Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185792,
-            "stars_today": 185792,
+            "stars": 185790,
+            "stars_today": 185790,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 100466,
-            "stars_today": 100466,
+            "stars": 100469,
+            "stars_today": 100469,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 89422,
-            "stars_today": 89422,
+            "stars": 89435,
+            "stars_today": 89435,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 82996,
-            "stars_today": 82996,
+            "stars": 83005,
+            "stars_today": 83005,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-03T19:14:29Z",
+    "updated": "2026-08-03T21:55:42Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-03T19:14:29Z",
+    "updated": "2026-08-03T21:55:42Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-03T19:14:29Z",
+    "updated": "2026-08-03T21:55:42Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents",
-            "insight": "HN 热议：24 分 · 28 评论",
+            "title": "LLMs reward expertise",
+            "insight": "HN 热议：100 分 · 30 评论",
             "sentiment": "neutral",
-            "comments": 28,
-            "url": "https://hoplite.sh",
+            "comments": 30,
+            "url": "https://www.seangoedecke.com/llms-reward-expertise/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "AirLLM 70B inference with single 4GB GPU",
-            "insight": "HN 热议：147 分 · 52 评论",
+            "title": "AI's debt binge can't last, hidden borrowing reaches $1.65T",
+            "insight": "HN 热议：82 分 · 61 评论",
             "sentiment": "neutral",
-            "comments": 52,
-            "url": "https://github.com/lyogavin/airllm",
+            "comments": 61,
+            "url": "https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Bonsai: Janestreet's UI Library",
-            "insight": "HN 热议：244 分 · 93 评论",
-            "sentiment": "positive",
-            "comments": 93,
-            "url": "https://github.com/janestreet/bonsai",
+            "title": "Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents",
+            "insight": "HN 热议：40 分 · 46 评论",
+            "sentiment": "neutral",
+            "comments": 46,
+            "url": "https://hoplite.sh",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Product analytics (and evals) for agent sessions on your MCP",
-            "insight": "HN 热议：21 分 · 1 评论",
+            "title": "AirLLM 70B inference with single 4GB GPU",
+            "insight": "HN 热议：172 分 · 63 评论",
             "sentiment": "neutral",
-            "comments": 1,
-            "url": "https://armature.tech/",
+            "comments": 63,
+            "url": "https://github.com/lyogavin/airllm",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "SQLite Critical CVEs or LLM Slop?",
-            "insight": "HN 热议：663 分 · 299 评论",
-            "sentiment": "positive",
-            "comments": 299,
-            "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
+            "title": "DDoS against Norwegian government IT infrastructure – status",
+            "insight": "HN 热议：70 分 · 46 评论",
+            "sentiment": "neutral",
+            "comments": 46,
+            "url": "https://status.digdir.no/incidents/d7hvqmf2yr3l",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-03T19:14:29Z",
+    "updated": "2026-08-03T21:55:42Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
