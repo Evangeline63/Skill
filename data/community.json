@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-04T19:15:18Z",
+  "updated": "2026-08-04T22:02:38Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "The Warp Agent CLI",
-      "insight": "HN 热议：45 分 · 14 评论",
-      "sentiment": "neutral",
-      "comments": 14,
-      "url": "https://www.warp.dev/blog/introducing-the-warp-agent-cli-coding-agent",
+      "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
+      "insight": "HN 热议：216 分 · 53 评论",
+      "sentiment": "positive",
+      "comments": 53,
+      "url": "https://mistral.ai/news/shieldstral/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
-      "insight": "HN 热议：43 分 · 7 评论",
+      "title": "Oxide Computer raises $445M (SEC Form D)",
+      "insight": "HN 热议：92 分 · 26 评论",
       "sentiment": "neutral",
-      "comments": 7,
-      "url": "https://mistral.ai/news/shieldstral/",
+      "comments": 26,
+      "url": "https://www.sec.gov/Archives/edgar/data/1795071/000179507126000002/xslFormDX01/primary_doc.xml",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research",
-      "insight": "HN 热议：9 分 · 2 评论",
+      "insight": "HN 热议：24 分 · 17 评论",
       "sentiment": "neutral",
-      "comments": 2,
+      "comments": 17,
       "url": "https://edotenv.com/",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
-      "insight": "HN 热议：37 分 · 51 评论",
+      "insight": "HN 热议：62 分 · 70 评论",
       "sentiment": "neutral",
-      "comments": 51,
+      "comments": 70,
       "url": "https://arxiv.org/abs/2602.16763",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
-      "insight": "HN 热议：207 分 · 153 评论",
+      "title": "Keyv and friends compromised in active Shai-Hulud supply chain attack",
+      "insight": "HN 热议：218 分 · 109 评论",
       "sentiment": "positive",
-      "comments": 153,
-      "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+      "comments": 109,
+      "url": "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack",
       "id": 5
     }
   ]
