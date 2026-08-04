@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-04T11:12:30Z",
+  "updated": "2026-08-04T13:39:47Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "LLMs reward expertise",
-      "insight": "HN 热议：999 分 · 422 评论",
-      "sentiment": "positive",
-      "comments": 422,
-      "url": "https://www.seangoedecke.com/llms-reward-expertise/",
+      "title": "Ray Bradbury's \"There Will Come Soft Rains\" is set today (2026-08-04)",
+      "insight": "HN 热议：122 分 · 21 评论",
+      "sentiment": "neutral",
+      "comments": 21,
+      "url": "https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "That time when I failed the Microsoft interview",
-      "insight": "HN 热议：73 分 · 127 评论",
-      "sentiment": "neutral",
-      "comments": 127,
-      "url": "https://ochagavia.nl/blog/that-time-when-i-failed-the-microsoft-interview/",
+      "title": "LLMs reward expertise",
+      "insight": "HN 热议：1112 分 · 465 评论",
+      "sentiment": "positive",
+      "comments": 465,
+      "url": "https://www.seangoedecke.com/llms-reward-expertise/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Prevent cognitive debt by manually retyping LLM-generated code",
-      "insight": "HN 热议：497 分 · 405 评论",
+      "title": "AI-Generated Images Discourage Me from Reading Your Blog",
+      "insight": "HN 热议：371 分 · 220 评论",
       "sentiment": "positive",
-      "comments": 405,
-      "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
+      "comments": 220,
+      "url": "https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "There Will Come Soft Rains (1950) [pdf]",
-      "insight": "HN 热议：166 分 · 59 评论",
+      "title": "Keyv and friends compromised in active Shai-Hulud supply chain attack",
+      "insight": "HN 热议：37 分 · 2 评论",
       "sentiment": "neutral",
-      "comments": 59,
-      "url": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
+      "comments": 2,
+      "url": "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents",
-      "insight": "HN 热议：74 分 · 60 评论",
+      "title": "Why Large Language Models Fail at Tabular Prediction",
+      "insight": "HN 热议：22 分 · 3 评论",
       "sentiment": "neutral",
-      "comments": 60,
-      "url": "https://hoplite.sh",
+      "comments": 3,
+      "url": "https://arxiv.org/abs/2608.02412",
       "id": 5
     }
   ]

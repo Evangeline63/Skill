@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-04T11:12:30Z",
+    "updated": "2026-08-04T13:39:47Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-04T11:12:30Z",
+    "updated": "2026-08-04T13:39:47Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-04T11:12:30Z",
+    "updated": "2026-08-04T13:39:47Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185804,
-            "stars_today": 185804,
+            "stars": 185806,
+            "stars_today": 185806,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 100511,
-            "stars_today": 100511,
+            "stars": 100524,
+            "stars_today": 100524,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95533,
-            "stars_today": 95533,
+            "stars": 95536,
+            "stars_today": 95536,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 89497,
-            "stars_today": 89497,
+            "stars": 89509,
+            "stars_today": 89509,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 83065,
-            "stars_today": 83065,
+            "stars": 83083,
+            "stars_today": 83083,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-04T11:12:30Z",
+    "updated": "2026-08-04T13:39:47Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-04T11:12:30Z",
+    "updated": "2026-08-04T13:39:47Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-04T11:12:30Z",
+    "updated": "2026-08-04T13:39:47Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "LLMs reward expertise",
-            "insight": "HN 热议：999 分 · 422 评论",
-            "sentiment": "positive",
-            "comments": 422,
-            "url": "https://www.seangoedecke.com/llms-reward-expertise/",
+            "title": "Ray Bradbury's \"There Will Come Soft Rains\" is set today (2026-08-04)",
+            "insight": "HN 热议：122 分 · 21 评论",
+            "sentiment": "neutral",
+            "comments": 21,
+            "url": "https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "That time when I failed the Microsoft interview",
-            "insight": "HN 热议：73 分 · 127 评论",
-            "sentiment": "neutral",
-            "comments": 127,
-            "url": "https://ochagavia.nl/blog/that-time-when-i-failed-the-microsoft-interview/",
+            "title": "LLMs reward expertise",
+            "insight": "HN 热议：1112 分 · 465 评论",
+            "sentiment": "positive",
+            "comments": 465,
+            "url": "https://www.seangoedecke.com/llms-reward-expertise/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Prevent cognitive debt by manually retyping LLM-generated code",
-            "insight": "HN 热议：497 分 · 405 评论",
+            "title": "AI-Generated Images Discourage Me from Reading Your Blog",
+            "insight": "HN 热议：371 分 · 220 评论",
             "sentiment": "positive",
-            "comments": 405,
-            "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
+            "comments": 220,
+            "url": "https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "There Will Come Soft Rains (1950) [pdf]",
-            "insight": "HN 热议：166 分 · 59 评论",
+            "title": "Keyv and friends compromised in active Shai-Hulud supply chain attack",
+            "insight": "HN 热议：37 分 · 2 评论",
             "sentiment": "neutral",
-            "comments": 59,
-            "url": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
+            "comments": 2,
+            "url": "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents",
-            "insight": "HN 热议：74 分 · 60 评论",
+            "title": "Why Large Language Models Fail at Tabular Prediction",
+            "insight": "HN 热议：22 分 · 3 评论",
             "sentiment": "neutral",
-            "comments": 60,
-            "url": "https://hoplite.sh",
+            "comments": 3,
+            "url": "https://arxiv.org/abs/2608.02412",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-04T11:12:30Z",
+    "updated": "2026-08-04T13:39:47Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
