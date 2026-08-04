@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-04T13:39:47Z",
+  "updated": "2026-08-04T16:44:27Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Ray Bradbury's \"There Will Come Soft Rains\" is set today (2026-08-04)",
-      "insight": "HN 热议：122 分 · 21 评论",
-      "sentiment": "neutral",
-      "comments": 21,
+      "insight": "HN 热议：421 分 · 186 评论",
+      "sentiment": "positive",
+      "comments": 186,
       "url": "https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "LLMs reward expertise",
-      "insight": "HN 热议：1112 分 · 465 评论",
-      "sentiment": "positive",
-      "comments": 465,
-      "url": "https://www.seangoedecke.com/llms-reward-expertise/",
+      "title": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
+      "insight": "HN 热议：11 分 · 0 评论",
+      "sentiment": "neutral",
+      "comments": 0,
+      "url": "https://arxiv.org/abs/2602.16763",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "AI-Generated Images Discourage Me from Reading Your Blog",
-      "insight": "HN 热议：371 分 · 220 评论",
-      "sentiment": "positive",
-      "comments": 220,
-      "url": "https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/",
+      "title": "Keyv and friends compromised in active Shai-Hulud supply chain attack",
+      "insight": "HN 热议：124 分 · 55 评论",
+      "sentiment": "neutral",
+      "comments": 55,
+      "url": "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Keyv and friends compromised in active Shai-Hulud supply chain attack",
-      "insight": "HN 热议：37 分 · 2 评论",
-      "sentiment": "neutral",
-      "comments": 2,
-      "url": "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack",
+      "title": "LLMs reward expertise",
+      "insight": "HN 热议：1233 分 · 507 评论",
+      "sentiment": "positive",
+      "comments": 507,
+      "url": "https://www.seangoedecke.com/llms-reward-expertise/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Why Large Language Models Fail at Tabular Prediction",
-      "insight": "HN 热议：22 分 · 3 评论",
+      "title": "Online ad giant Adform was hacked, proving once again why ad blockers are needed",
+      "insight": "HN 热议：62 分 · 7 评论",
       "sentiment": "neutral",
-      "comments": 3,
-      "url": "https://arxiv.org/abs/2608.02412",
+      "comments": 7,
+      "url": "https://this.weekinsecurity.com/online-advertising-giant-adform-was-hacked-proving-once-again-why-ad-blockers-are-necessary/",
       "id": 5
     }
   ]

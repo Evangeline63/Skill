@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-04T13:39:47Z",
+    "updated": "2026-08-04T16:44:27Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-04T13:39:47Z",
+    "updated": "2026-08-04T16:44:27Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-04T13:39:47Z",
+    "updated": "2026-08-04T16:44:27Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185806,
-            "stars_today": 185806,
+            "stars": 185812,
+            "stars_today": 185812,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 166723,
-            "stars_today": 166723,
+            "stars": 166730,
+            "stars_today": 166730,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 100524,
-            "stars_today": 100524,
+            "stars": 100549,
+            "stars_today": 100549,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95536,
-            "stars_today": 95536,
+            "stars": 95539,
+            "stars_today": 95539,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 89509,
-            "stars_today": 89509,
+            "stars": 89524,
+            "stars_today": 89524,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 83083,
-            "stars_today": 83083,
+            "stars": 83104,
+            "stars_today": 83104,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-04T13:39:47Z",
+    "updated": "2026-08-04T16:44:27Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-04T13:39:47Z",
+    "updated": "2026-08-04T16:44:27Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-04T13:39:47Z",
+    "updated": "2026-08-04T16:44:27Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Ray Bradbury's \"There Will Come Soft Rains\" is set today (2026-08-04)",
-            "insight": "HN 热议：122 分 · 21 评论",
-            "sentiment": "neutral",
-            "comments": 21,
+            "insight": "HN 热议：421 分 · 186 评论",
+            "sentiment": "positive",
+            "comments": 186,
             "url": "https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "LLMs reward expertise",
-            "insight": "HN 热议：1112 分 · 465 评论",
-            "sentiment": "positive",
-            "comments": 465,
-            "url": "https://www.seangoedecke.com/llms-reward-expertise/",
+            "title": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
+            "insight": "HN 热议：11 分 · 0 评论",
+            "sentiment": "neutral",
+            "comments": 0,
+            "url": "https://arxiv.org/abs/2602.16763",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "AI-Generated Images Discourage Me from Reading Your Blog",
-            "insight": "HN 热议：371 分 · 220 评论",
-            "sentiment": "positive",
-            "comments": 220,
-            "url": "https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/",
+            "title": "Keyv and friends compromised in active Shai-Hulud supply chain attack",
+            "insight": "HN 热议：124 分 · 55 评论",
+            "sentiment": "neutral",
+            "comments": 55,
+            "url": "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Keyv and friends compromised in active Shai-Hulud supply chain attack",
-            "insight": "HN 热议：37 分 · 2 评论",
-            "sentiment": "neutral",
-            "comments": 2,
-            "url": "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack",
+            "title": "LLMs reward expertise",
+            "insight": "HN 热议：1233 分 · 507 评论",
+            "sentiment": "positive",
+            "comments": 507,
+            "url": "https://www.seangoedecke.com/llms-reward-expertise/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Why Large Language Models Fail at Tabular Prediction",
-            "insight": "HN 热议：22 分 · 3 评论",
+            "title": "Online ad giant Adform was hacked, proving once again why ad blockers are needed",
+            "insight": "HN 热议：62 分 · 7 评论",
             "sentiment": "neutral",
-            "comments": 3,
-            "url": "https://arxiv.org/abs/2608.02412",
+            "comments": 7,
+            "url": "https://this.weekinsecurity.com/online-advertising-giant-adform-was-hacked-proving-once-again-why-ad-blockers-are-necessary/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-04T13:39:47Z",
+    "updated": "2026-08-04T16:44:27Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
