@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-04T16:44:27Z",
+  "updated": "2026-08-04T19:15:18Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Ray Bradbury's \"There Will Come Soft Rains\" is set today (2026-08-04)",
-      "insight": "HN 热议：421 分 · 186 评论",
-      "sentiment": "positive",
-      "comments": 186,
-      "url": "https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj",
+      "title": "The Warp Agent CLI",
+      "insight": "HN 热议：45 分 · 14 评论",
+      "sentiment": "neutral",
+      "comments": 14,
+      "url": "https://www.warp.dev/blog/introducing-the-warp-agent-cli-coding-agent",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
-      "insight": "HN 热议：11 分 · 0 评论",
+      "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
+      "insight": "HN 热议：43 分 · 7 评论",
       "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://arxiv.org/abs/2602.16763",
+      "comments": 7,
+      "url": "https://mistral.ai/news/shieldstral/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Keyv and friends compromised in active Shai-Hulud supply chain attack",
-      "insight": "HN 热议：124 分 · 55 评论",
+      "title": "Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research",
+      "insight": "HN 热议：9 分 · 2 评论",
       "sentiment": "neutral",
-      "comments": 55,
-      "url": "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack",
+      "comments": 2,
+      "url": "https://edotenv.com/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "LLMs reward expertise",
-      "insight": "HN 热议：1233 分 · 507 评论",
-      "sentiment": "positive",
-      "comments": 507,
-      "url": "https://www.seangoedecke.com/llms-reward-expertise/",
+      "title": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
+      "insight": "HN 热议：37 分 · 51 评论",
+      "sentiment": "neutral",
+      "comments": 51,
+      "url": "https://arxiv.org/abs/2602.16763",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Online ad giant Adform was hacked, proving once again why ad blockers are needed",
-      "insight": "HN 热议：62 分 · 7 评论",
-      "sentiment": "neutral",
-      "comments": 7,
-      "url": "https://this.weekinsecurity.com/online-advertising-giant-adform-was-hacked-proving-once-again-why-ad-blockers-are-necessary/",
+      "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+      "insight": "HN 热议：207 分 · 153 评论",
+      "sentiment": "positive",
+      "comments": 153,
+      "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
       "id": 5
     }
   ]

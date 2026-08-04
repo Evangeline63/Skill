@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-04T16:44:27Z",
+    "updated": "2026-08-04T19:15:18Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-04T16:44:27Z",
+    "updated": "2026-08-04T19:15:18Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,7 +266,7 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-04T16:44:27Z",
+    "updated": "2026-08-04T19:15:18Z",
     "repos": [
         {
             "rank": 1,
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 166730,
-            "stars_today": 166730,
+            "stars": 166731,
+            "stars_today": 166731,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 100549,
-            "stars_today": 100549,
+            "stars": 100557,
+            "stars_today": 100557,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95539,
-            "stars_today": 95539,
+            "stars": 95540,
+            "stars_today": 95540,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 89524,
-            "stars_today": 89524,
+            "stars": 89541,
+            "stars_today": 89541,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 83104,
-            "stars_today": 83104,
+            "stars": 83115,
+            "stars_today": 83115,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-04T16:44:27Z",
+    "updated": "2026-08-04T19:15:18Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-04T16:44:27Z",
+    "updated": "2026-08-04T19:15:18Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-04T16:44:27Z",
+    "updated": "2026-08-04T19:15:18Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Ray Bradbury's \"There Will Come Soft Rains\" is set today (2026-08-04)",
-            "insight": "HN 热议：421 分 · 186 评论",
-            "sentiment": "positive",
-            "comments": 186,
-            "url": "https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj",
+            "title": "The Warp Agent CLI",
+            "insight": "HN 热议：45 分 · 14 评论",
+            "sentiment": "neutral",
+            "comments": 14,
+            "url": "https://www.warp.dev/blog/introducing-the-warp-agent-cli-coding-agent",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
-            "insight": "HN 热议：11 分 · 0 评论",
+            "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
+            "insight": "HN 热议：43 分 · 7 评论",
             "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://arxiv.org/abs/2602.16763",
+            "comments": 7,
+            "url": "https://mistral.ai/news/shieldstral/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Keyv and friends compromised in active Shai-Hulud supply chain attack",
-            "insight": "HN 热议：124 分 · 55 评论",
+            "title": "Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research",
+            "insight": "HN 热议：9 分 · 2 评论",
             "sentiment": "neutral",
-            "comments": 55,
-            "url": "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack",
+            "comments": 2,
+            "url": "https://edotenv.com/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "LLMs reward expertise",
-            "insight": "HN 热议：1233 分 · 507 评论",
-            "sentiment": "positive",
-            "comments": 507,
-            "url": "https://www.seangoedecke.com/llms-reward-expertise/",
+            "title": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
+            "insight": "HN 热议：37 分 · 51 评论",
+            "sentiment": "neutral",
+            "comments": 51,
+            "url": "https://arxiv.org/abs/2602.16763",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Online ad giant Adform was hacked, proving once again why ad blockers are needed",
-            "insight": "HN 热议：62 分 · 7 评论",
-            "sentiment": "neutral",
-            "comments": 7,
-            "url": "https://this.weekinsecurity.com/online-advertising-giant-adform-was-hacked-proving-once-again-why-ad-blockers-are-necessary/",
+            "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+            "insight": "HN 热议：207 分 · 153 评论",
+            "sentiment": "positive",
+            "comments": 153,
+            "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-04T16:44:27Z",
+    "updated": "2026-08-04T19:15:18Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
