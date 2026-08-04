@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-04T01:15:51Z",
+    "updated": "2026-08-04T05:35:46Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-04T01:15:51Z",
+    "updated": "2026-08-04T05:35:46Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-04T01:15:51Z",
+    "updated": "2026-08-04T05:35:46Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185793,
-            "stars_today": 185793,
+            "stars": 185796,
+            "stars_today": 185796,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 166695,
-            "stars_today": 166695,
+            "stars": 166704,
+            "stars_today": 166704,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 100474,
-            "stars_today": 100474,
+            "stars": 100496,
+            "stars_today": 100496,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95527,
-            "stars_today": 95527,
+            "stars": 95528,
+            "stars_today": 95528,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 89441,
-            "stars_today": 89441,
+            "stars": 89456,
+            "stars_today": 89456,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 83016,
-            "stars_today": 83016,
+            "stars": 83038,
+            "stars_today": 83038,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-04T01:15:51Z",
+    "updated": "2026-08-04T05:35:46Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-04T01:15:51Z",
+    "updated": "2026-08-04T05:35:46Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-04T01:15:51Z",
+    "updated": "2026-08-04T05:35:46Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "LLMs reward expertise",
-            "insight": "HN 热议：393 分 · 181 评论",
+            "insight": "HN 热议：683 分 · 277 评论",
             "sentiment": "positive",
-            "comments": 181,
+            "comments": 277,
             "url": "https://www.seangoedecke.com/llms-reward-expertise/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Windows XP 2002 for the Itanium: Unbridled rage",
-            "insight": "HN 热议：47 分 · 18 评论",
+            "title": "There Will Come Soft Rains (1950) [pdf]",
+            "insight": "HN 热议：86 分 · 35 评论",
             "sentiment": "neutral",
-            "comments": 18,
-            "url": "https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/",
+            "comments": 35,
+            "url": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "Prevent cognitive debt by manually retyping LLM-generated code",
-            "insight": "HN 热议：379 分 · 319 评论",
+            "insight": "HN 热议：433 分 · 360 评论",
             "sentiment": "positive",
-            "comments": 319,
+            "comments": 360,
             "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents",
-            "insight": "HN 热议：57 分 · 50 评论",
+            "title": "Windows XP 2002 for the Itanium: Unbridled rage",
+            "insight": "HN 热议：84 分 · 42 评论",
             "sentiment": "neutral",
-            "comments": 50,
-            "url": "https://hoplite.sh",
+            "comments": 42,
+            "url": "https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Frame selection is the whole game: notes on making LLMs watch video",
-            "insight": "HN 热议：7 分 · 0 评论",
+            "title": "Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents",
+            "insight": "HN 热议：65 分 · 51 评论",
             "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://leoaido.com/how-llms-watch-video/",
+            "comments": 51,
+            "url": "https://hoplite.sh",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-04T01:15:51Z",
+    "updated": "2026-08-04T05:35:46Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

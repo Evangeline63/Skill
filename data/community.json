@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-04T01:15:51Z",
+  "updated": "2026-08-04T05:35:46Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "LLMs reward expertise",
-      "insight": "HN 热议：393 分 · 181 评论",
+      "insight": "HN 热议：683 分 · 277 评论",
       "sentiment": "positive",
-      "comments": 181,
+      "comments": 277,
       "url": "https://www.seangoedecke.com/llms-reward-expertise/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Windows XP 2002 for the Itanium: Unbridled rage",
-      "insight": "HN 热议：47 分 · 18 评论",
+      "title": "There Will Come Soft Rains (1950) [pdf]",
+      "insight": "HN 热议：86 分 · 35 评论",
       "sentiment": "neutral",
-      "comments": 18,
-      "url": "https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/",
+      "comments": 35,
+      "url": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "Prevent cognitive debt by manually retyping LLM-generated code",
-      "insight": "HN 热议：379 分 · 319 评论",
+      "insight": "HN 热议：433 分 · 360 评论",
       "sentiment": "positive",
-      "comments": 319,
+      "comments": 360,
       "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents",
-      "insight": "HN 热议：57 分 · 50 评论",
+      "title": "Windows XP 2002 for the Itanium: Unbridled rage",
+      "insight": "HN 热议：84 分 · 42 评论",
       "sentiment": "neutral",
-      "comments": 50,
-      "url": "https://hoplite.sh",
+      "comments": 42,
+      "url": "https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Frame selection is the whole game: notes on making LLMs watch video",
-      "insight": "HN 热议：7 分 · 0 评论",
+      "title": "Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents",
+      "insight": "HN 热议：65 分 · 51 评论",
       "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://leoaido.com/how-llms-watch-video/",
+      "comments": 51,
+      "url": "https://hoplite.sh",
       "id": 5
     }
   ]
