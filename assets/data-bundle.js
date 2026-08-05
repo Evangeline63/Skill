@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-05T19:09:15Z",
+    "updated": "2026-08-05T22:02:56Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-05T19:09:15Z",
+    "updated": "2026-08-05T22:02:56Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-05T19:09:15Z",
+    "updated": "2026-08-05T22:02:56Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185830,
-            "stars_today": 185830,
+            "stars": 185834,
+            "stars_today": 185834,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 166773,
-            "stars_today": 166773,
+            "stars": 166781,
+            "stars_today": 166781,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95720,
-            "stars_today": 95720,
+            "stars": 95727,
+            "stars_today": 95727,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 89724,
-            "stars_today": 89724,
+            "stars": 89736,
+            "stars_today": 89736,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 83205,
-            "stars_today": 83205,
+            "stars": 83215,
+            "stars_today": 83215,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 55193,
-            "stars_today": 55193,
+            "stars": 55194,
+            "stars_today": 55194,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-05T19:09:15Z",
+    "updated": "2026-08-05T22:02:56Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-05T19:09:15Z",
+    "updated": "2026-08-05T22:02:56Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-05T19:09:15Z",
+    "updated": "2026-08-05T22:02:56Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Born Against, or why hobby programming communities are against LLM usage",
-            "insight": "HN 热议：24 分 · 9 评论",
-            "sentiment": "neutral",
-            "comments": 9,
-            "url": "https://blog.fogus.me/llm/born-against.html",
+            "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
+            "insight": "HN 热议：337 分 · 484 评论",
+            "sentiment": "positive",
+            "comments": 484,
+            "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
-            "insight": "HN 热议：151 分 · 308 评论",
+            "title": "OpenAI says my prepaid credits were consumed, refuses to show any record",
+            "insight": "HN 热议：31 分 · 8 评论",
             "sentiment": "neutral",
-            "comments": 308,
-            "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+            "comments": 8,
+            "url": "https://community.openai.com/t/how-openai-lost-a-paying-customer-over-160-it-refuses-to-explain/1389233",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
-            "insight": "HN 热议：24 分 · 3 评论",
+            "insight": "HN 热议：142 分 · 29 评论",
             "sentiment": "neutral",
-            "comments": 3,
+            "comments": 29,
             "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod",
-            "insight": "HN 热议：25 分 · 17 评论",
+            "title": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
+            "insight": "HN 热议：156 分 · 109 评论",
             "sentiment": "neutral",
-            "comments": 17,
-            "url": "https://www.hyperprobe.co",
+            "comments": 109,
+            "url": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Cloudflare OS: an open platform for agents, apps, and work",
-            "insight": "HN 热议：349 分 · 195 评论",
-            "sentiment": "positive",
-            "comments": 195,
-            "url": "https://blog.cloudflare.com/cloudflare-os/",
+            "title": "Prime Agent: A self-improving RLM agent",
+            "insight": "HN 热议：19 分 · 0 评论",
+            "sentiment": "neutral",
+            "comments": 0,
+            "url": "https://www.primeintellect.ai/blog/prime-agent",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-05T19:09:15Z",
+    "updated": "2026-08-05T22:02:56Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
