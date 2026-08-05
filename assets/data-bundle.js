@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-05T13:29:46Z",
+    "updated": "2026-08-05T16:24:34Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-05T13:29:46Z",
+    "updated": "2026-08-05T16:24:34Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,7 +266,7 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-05T13:29:46Z",
+    "updated": "2026-08-05T16:24:34Z",
     "repos": [
         {
             "rank": 1,
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 166766,
-            "stars_today": 166766,
+            "stars": 166769,
+            "stars_today": 166769,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95672,
-            "stars_today": 95672,
+            "stars": 95706,
+            "stars_today": 95706,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 89682,
-            "stars_today": 89682,
+            "stars": 89706,
+            "stars_today": 89706,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 83181,
-            "stars_today": 83181,
+            "stars": 83196,
+            "stars_today": 83196,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 55187,
-            "stars_today": 55187,
+            "stars": 55191,
+            "stars_today": 55191,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-05T13:29:46Z",
+    "updated": "2026-08-05T16:24:34Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-05T13:29:46Z",
+    "updated": "2026-08-05T16:24:34Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-05T13:29:46Z",
+    "updated": "2026-08-05T16:24:34Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Position: LLMs Can't Jump",
-            "insight": "HN 热议：100 分 · 53 评论",
-            "sentiment": "neutral",
-            "comments": 53,
-            "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt",
+            "title": "Cloudflare OS: an open platform for agents, apps, and work",
+            "insight": "HN 热议：253 分 · 141 评论",
+            "sentiment": "positive",
+            "comments": 141,
+            "url": "https://blog.cloudflare.com/cloudflare-os/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Why the Legendary Erdős Problems Are Falling to AI",
-            "insight": "HN 热议：19 分 · 2 评论",
+            "title": "The Entropy of a Markov Chain",
+            "insight": "HN 热议：41 分 · 1 评论",
             "sentiment": "neutral",
-            "comments": 2,
-            "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/",
+            "comments": 1,
+            "url": "https://chillphysicsenjoyer.substack.com/p/the-entropy-of-a-markov-chain",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
-            "insight": "HN 热议：453 分 · 116 评论",
-            "sentiment": "positive",
-            "comments": 116,
-            "url": "https://mistral.ai/news/shieldstral/",
+            "title": "Building an Advanced Agentic Harness",
+            "insight": "HN 热议：47 分 · 23 评论",
+            "sentiment": "neutral",
+            "comments": 23,
+            "url": "https://data4sci.com/blog/building-an-advanced-agentic-harness",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "TIME Is Serving AI Bots a Different Website, with Ads Built In",
-            "insight": "HN 热议：26 分 · 7 评论",
+            "title": "Painting with Gaussians",
+            "insight": "HN 热议：34 分 · 1 评论",
             "sentiment": "neutral",
-            "comments": 7,
-            "url": "https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/",
+            "comments": 1,
+            "url": "https://yogthos.net/posts/2026-08-03-splat-painter.html",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Iowa et al asks OpenAI to keep their bots sandboxed",
-            "insight": "HN 热议：39 分 · 57 评论",
+            "title": "Intelligence Is Not the Main Bottleneck",
+            "insight": "HN 热议：73 分 · 51 评论",
             "sentiment": "neutral",
-            "comments": 57,
-            "url": "https://www.iowaattorneygeneral.gov/newsroom/attorney-general-brenna-bird-leads-coalition-demanding-transparency-from-openai-after-ai-breach-and",
+            "comments": 51,
+            "url": "https://www.writingruxandrabio.com/p/intelligence-is-not-the-main-bottleneck",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-05T13:29:46Z",
+    "updated": "2026-08-05T16:24:34Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
