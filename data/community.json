@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-05T11:09:59Z",
+  "updated": "2026-08-05T13:29:46Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
-      "insight": "HN 热议：435 分 · 112 评论",
-      "sentiment": "positive",
-      "comments": 112,
-      "url": "https://mistral.ai/news/shieldstral/",
+      "title": "Position: LLMs Can't Jump",
+      "insight": "HN 热议：100 分 · 53 评论",
+      "sentiment": "neutral",
+      "comments": 53,
+      "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
-      "insight": "HN 热议：51 分 · 10 评论",
+      "title": "Why the Legendary Erdős Problems Are Falling to AI",
+      "insight": "HN 热议：19 分 · 2 评论",
       "sentiment": "neutral",
-      "comments": 10,
-      "url": "https://arxiv.org/abs/2607.29377",
+      "comments": 2,
+      "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Eight Myths on Software Engineering and GenAI",
-      "insight": "HN 热议：225 分 · 184 评论",
+      "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
+      "insight": "HN 热议：453 分 · 116 评论",
       "sentiment": "positive",
-      "comments": 184,
-      "url": "https://queue.acm.org/detail.cfm?id=3807963",
+      "comments": 116,
+      "url": "https://mistral.ai/news/shieldstral/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "An SLM trained on $8 ESP32-S3",
-      "insight": "HN 热议：36 分 · 13 评论",
+      "title": "TIME Is Serving AI Bots a Different Website, with Ads Built In",
+      "insight": "HN 热议：26 分 · 7 评论",
       "sentiment": "neutral",
-      "comments": 13,
-      "url": "https://github.com/Carloscodix/qapla",
+      "comments": 7,
+      "url": "https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
-      "insight": "HN 热议：254 分 · 196 评论",
-      "sentiment": "positive",
-      "comments": 196,
-      "url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
+      "title": "Iowa et al asks OpenAI to keep their bots sandboxed",
+      "insight": "HN 热议：39 分 · 57 评论",
+      "sentiment": "neutral",
+      "comments": 57,
+      "url": "https://www.iowaattorneygeneral.gov/newsroom/attorney-general-brenna-bird-leads-coalition-demanding-transparency-from-openai-after-ai-breach-and",
       "id": 5
     }
   ]
