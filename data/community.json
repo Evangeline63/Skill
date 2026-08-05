@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-05T08:11:36Z",
+  "updated": "2026-08-05T11:09:59Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
-      "insight": "HN 热议：24 分 · 5 评论",
-      "sentiment": "neutral",
-      "comments": 5,
-      "url": "https://arxiv.org/abs/2607.29377",
+      "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
+      "insight": "HN 热议：435 分 · 112 评论",
+      "sentiment": "positive",
+      "comments": 112,
+      "url": "https://mistral.ai/news/shieldstral/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
-      "insight": "HN 热议：389 分 · 95 评论",
-      "sentiment": "positive",
-      "comments": 95,
-      "url": "https://mistral.ai/news/shieldstral/",
+      "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
+      "insight": "HN 热议：51 分 · 10 评论",
+      "sentiment": "neutral",
+      "comments": 10,
+      "url": "https://arxiv.org/abs/2607.29377",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "Eight Myths on Software Engineering and GenAI",
-      "insight": "HN 热议：191 分 · 156 评论",
-      "sentiment": "neutral",
-      "comments": 156,
+      "insight": "HN 热议：225 分 · 184 评论",
+      "sentiment": "positive",
+      "comments": 184,
       "url": "https://queue.acm.org/detail.cfm?id=3807963",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
-      "insight": "HN 热议：218 分 · 165 评论",
-      "sentiment": "positive",
-      "comments": 165,
-      "url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
+      "title": "An SLM trained on $8 ESP32-S3",
+      "insight": "HN 热议：36 分 · 13 评论",
+      "sentiment": "neutral",
+      "comments": 13,
+      "url": "https://github.com/Carloscodix/qapla",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Rust-lang/rust is adopting an LLM policy",
-      "insight": "HN 热议：47 分 · 30 评论",
-      "sentiment": "neutral",
-      "comments": 30,
-      "url": "https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/",
+      "title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
+      "insight": "HN 热议：254 分 · 196 评论",
+      "sentiment": "positive",
+      "comments": 196,
+      "url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
       "id": 5
     }
   ]

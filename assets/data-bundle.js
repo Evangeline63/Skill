@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-05T08:11:36Z",
+    "updated": "2026-08-05T11:09:59Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-05T08:11:36Z",
+    "updated": "2026-08-05T11:09:59Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-05T08:11:36Z",
+    "updated": "2026-08-05T11:09:59Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185822,
-            "stars_today": 185822,
+            "stars": 185826,
+            "stars_today": 185826,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 166757,
-            "stars_today": 166757,
+            "stars": 166760,
+            "stars_today": 166760,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95614,
-            "stars_today": 95614,
+            "stars": 95652,
+            "stars_today": 95652,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 89637,
-            "stars_today": 89637,
+            "stars": 89663,
+            "stars_today": 89663,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 83151,
-            "stars_today": 83151,
+            "stars": 83168,
+            "stars_today": 83168,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 55168,
-            "stars_today": 55168,
+            "stars": 55184,
+            "stars_today": 55184,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-05T08:11:36Z",
+    "updated": "2026-08-05T11:09:59Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-05T08:11:36Z",
+    "updated": "2026-08-05T11:09:59Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-05T08:11:36Z",
+    "updated": "2026-08-05T11:09:59Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
-            "insight": "HN 热议：24 分 · 5 评论",
-            "sentiment": "neutral",
-            "comments": 5,
-            "url": "https://arxiv.org/abs/2607.29377",
+            "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
+            "insight": "HN 热议：435 分 · 112 评论",
+            "sentiment": "positive",
+            "comments": 112,
+            "url": "https://mistral.ai/news/shieldstral/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
-            "insight": "HN 热议：389 分 · 95 评论",
-            "sentiment": "positive",
-            "comments": 95,
-            "url": "https://mistral.ai/news/shieldstral/",
+            "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
+            "insight": "HN 热议：51 分 · 10 评论",
+            "sentiment": "neutral",
+            "comments": 10,
+            "url": "https://arxiv.org/abs/2607.29377",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "Eight Myths on Software Engineering and GenAI",
-            "insight": "HN 热议：191 分 · 156 评论",
-            "sentiment": "neutral",
-            "comments": 156,
+            "insight": "HN 热议：225 分 · 184 评论",
+            "sentiment": "positive",
+            "comments": 184,
             "url": "https://queue.acm.org/detail.cfm?id=3807963",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
-            "insight": "HN 热议：218 分 · 165 评论",
-            "sentiment": "positive",
-            "comments": 165,
-            "url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
+            "title": "An SLM trained on $8 ESP32-S3",
+            "insight": "HN 热议：36 分 · 13 评论",
+            "sentiment": "neutral",
+            "comments": 13,
+            "url": "https://github.com/Carloscodix/qapla",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Rust-lang/rust is adopting an LLM policy",
-            "insight": "HN 热议：47 分 · 30 评论",
-            "sentiment": "neutral",
-            "comments": 30,
-            "url": "https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/",
+            "title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
+            "insight": "HN 热议：254 分 · 196 评论",
+            "sentiment": "positive",
+            "comments": 196,
+            "url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-05T08:11:36Z",
+    "updated": "2026-08-05T11:09:59Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
