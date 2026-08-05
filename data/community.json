@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-04T22:02:38Z",
+  "updated": "2026-08-05T01:19:28Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
-      "insight": "HN 热议：216 分 · 53 评论",
-      "sentiment": "positive",
-      "comments": 53,
-      "url": "https://mistral.ai/news/shieldstral/",
+      "title": "Eight Myths on Software Engineering and GenAI",
+      "insight": "HN 热议：40 分 · 15 评论",
+      "sentiment": "neutral",
+      "comments": 15,
+      "url": "https://queue.acm.org/detail.cfm?id=3807963",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Oxide Computer raises $445M (SEC Form D)",
-      "insight": "HN 热议：92 分 · 26 评论",
-      "sentiment": "neutral",
-      "comments": 26,
-      "url": "https://www.sec.gov/Archives/edgar/data/1795071/000179507126000002/xslFormDX01/primary_doc.xml",
+      "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
+      "insight": "HN 热议：299 分 · 72 评论",
+      "sentiment": "positive",
+      "comments": 72,
+      "url": "https://mistral.ai/news/shieldstral/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research",
-      "insight": "HN 热议：24 分 · 17 评论",
+      "title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
+      "insight": "HN 热议：128 分 · 87 评论",
       "sentiment": "neutral",
-      "comments": 17,
-      "url": "https://edotenv.com/",
+      "comments": 87,
+      "url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
-      "insight": "HN 热议：62 分 · 70 评论",
+      "title": "Third-party cyber evaluations involving OpenAI models",
+      "insight": "HN 热议：38 分 · 4 评论",
       "sentiment": "neutral",
-      "comments": 70,
-      "url": "https://arxiv.org/abs/2602.16763",
+      "comments": 4,
+      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Keyv and friends compromised in active Shai-Hulud supply chain attack",
-      "insight": "HN 热议：218 分 · 109 评论",
-      "sentiment": "positive",
-      "comments": 109,
-      "url": "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack",
+      "title": "Oxide Computer raises $445M (SEC Form D)",
+      "insight": "HN 热议：182 分 · 81 评论",
+      "sentiment": "neutral",
+      "comments": 81,
+      "url": "https://www.sec.gov/Archives/edgar/data/1795071/000179507126000002/xslFormDX01/primary_doc.xml",
       "id": 5
     }
   ]

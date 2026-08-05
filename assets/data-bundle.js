@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-04T22:02:38Z",
+    "updated": "2026-08-05T01:19:28Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-04T22:02:38Z",
+    "updated": "2026-08-05T01:19:28Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-04T22:02:38Z",
+    "updated": "2026-08-05T01:19:28Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185810,
-            "stars_today": 185810,
+            "stars": 185817,
+            "stars_today": 185817,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,50 +282,50 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 166735,
-            "stars_today": 166735,
+            "stars": 166737,
+            "stars_today": 166737,
             "url": "https://github.com/f/prompts.chat"
         },
         {
             "rank": 3,
-            "name": "rasbt/LLMs-from-scratch",
-            "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
-            "language": "Jupyter Notebook",
-            "stars": 100555,
-            "stars_today": 100555,
-            "url": "https://github.com/rasbt/LLMs-from-scratch"
-        },
-        {
-            "rank": 4,
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95540,
-            "stars_today": 95540,
+            "stars": 95555,
+            "stars_today": 95555,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
-            "rank": 5,
+            "rank": 4,
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 89552,
-            "stars_today": 89552,
+            "stars": 89571,
+            "stars_today": 89571,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
-            "rank": 6,
+            "rank": 5,
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 83113,
-            "stars_today": 83113,
+            "stars": 83117,
+            "stars_today": 83117,
             "url": "https://github.com/OpenHands/OpenHands"
+        },
+        {
+            "rank": 6,
+            "name": "FlowiseAI/Flowise",
+            "description": "Build AI Agents, Visually",
+            "language": "TypeScript",
+            "stars": 55149,
+            "stars_today": 55149,
+            "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-04T22:02:38Z",
+    "updated": "2026-08-05T01:19:28Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-04T22:02:38Z",
+    "updated": "2026-08-05T01:19:28Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-04T22:02:38Z",
+    "updated": "2026-08-05T01:19:28Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
-            "insight": "HN 热议：216 分 · 53 评论",
-            "sentiment": "positive",
-            "comments": 53,
-            "url": "https://mistral.ai/news/shieldstral/",
+            "title": "Eight Myths on Software Engineering and GenAI",
+            "insight": "HN 热议：40 分 · 15 评论",
+            "sentiment": "neutral",
+            "comments": 15,
+            "url": "https://queue.acm.org/detail.cfm?id=3807963",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Oxide Computer raises $445M (SEC Form D)",
-            "insight": "HN 热议：92 分 · 26 评论",
-            "sentiment": "neutral",
-            "comments": 26,
-            "url": "https://www.sec.gov/Archives/edgar/data/1795071/000179507126000002/xslFormDX01/primary_doc.xml",
+            "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
+            "insight": "HN 热议：299 分 · 72 评论",
+            "sentiment": "positive",
+            "comments": 72,
+            "url": "https://mistral.ai/news/shieldstral/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research",
-            "insight": "HN 热议：24 分 · 17 评论",
+            "title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
+            "insight": "HN 热议：128 分 · 87 评论",
             "sentiment": "neutral",
-            "comments": 17,
-            "url": "https://edotenv.com/",
+            "comments": 87,
+            "url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
-            "insight": "HN 热议：62 分 · 70 评论",
+            "title": "Third-party cyber evaluations involving OpenAI models",
+            "insight": "HN 热议：38 分 · 4 评论",
             "sentiment": "neutral",
-            "comments": 70,
-            "url": "https://arxiv.org/abs/2602.16763",
+            "comments": 4,
+            "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Keyv and friends compromised in active Shai-Hulud supply chain attack",
-            "insight": "HN 热议：218 分 · 109 评论",
-            "sentiment": "positive",
-            "comments": 109,
-            "url": "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack",
+            "title": "Oxide Computer raises $445M (SEC Form D)",
+            "insight": "HN 热议：182 分 · 81 评论",
+            "sentiment": "neutral",
+            "comments": 81,
+            "url": "https://www.sec.gov/Archives/edgar/data/1795071/000179507126000002/xslFormDX01/primary_doc.xml",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-04T22:02:38Z",
+    "updated": "2026-08-05T01:19:28Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
