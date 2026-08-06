@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-06T05:37:07Z",
+    "updated": "2026-08-06T08:10:45Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-06T05:37:07Z",
+    "updated": "2026-08-06T08:10:45Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-06T05:37:07Z",
+    "updated": "2026-08-06T08:10:45Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 185838,
-            "stars_today": 185838,
+            "stars": 185844,
+            "stars_today": 185844,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 166793,
-            "stars_today": 166793,
+            "stars": 166801,
+            "stars_today": 166801,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95747,
-            "stars_today": 95747,
+            "stars": 95755,
+            "stars_today": 95755,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 89770,
-            "stars_today": 89770,
+            "stars": 89784,
+            "stars_today": 89784,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 83234,
-            "stars_today": 83234,
+            "stars": 83241,
+            "stars_today": 83241,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 55197,
-            "stars_today": 55197,
+            "stars": 55200,
+            "stars_today": 55200,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-06T05:37:07Z",
+    "updated": "2026-08-06T08:10:45Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-06T05:37:07Z",
+    "updated": "2026-08-06T08:10:45Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-06T05:37:07Z",
+    "updated": "2026-08-06T08:10:45Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Nashville uses eminent domain to block data center near zoo",
-            "insight": "HN 热议：163 分 · 168 评论",
-            "sentiment": "neutral",
-            "comments": 168,
-            "url": "https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project",
+            "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
+            "insight": "HN 热议：631 分 · 676 评论",
+            "sentiment": "positive",
+            "comments": 676,
+            "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
-            "insight": "HN 热议：569 分 · 641 评论",
+            "title": "Nashville uses eminent domain to block data center near zoo",
+            "insight": "HN 热议：222 分 · 253 评论",
             "sentiment": "positive",
-            "comments": 641,
-            "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+            "comments": 253,
+            "url": "https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
-            "insight": "HN 热议：268 分 · 67 评论",
+            "insight": "HN 热议：300 分 · 76 评论",
             "sentiment": "positive",
-            "comments": 67,
+            "comments": 76,
             "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
             "id": 3
         },
         {
             "source": "HackerNews",
             "title": "Born Against, or why hobby programming communities are against LLM usage",
-            "insight": "HN 热议：188 分 · 179 评论",
-            "sentiment": "neutral",
-            "comments": 179,
+            "insight": "HN 热议：244 分 · 225 评论",
+            "sentiment": "positive",
+            "comments": 225,
             "url": "https://blog.fogus.me/llm/born-against.html",
             "id": 4
         },
         {
             "source": "HackerNews",
             "title": "Prime Agent: A self-improving RLM agent",
-            "insight": "HN 热议：139 分 · 24 评论",
+            "insight": "HN 热议：174 分 · 32 评论",
             "sentiment": "neutral",
-            "comments": 24,
+            "comments": 32,
             "url": "https://www.primeintellect.ai/blog/prime-agent",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-06T05:37:07Z",
+    "updated": "2026-08-06T08:10:45Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
