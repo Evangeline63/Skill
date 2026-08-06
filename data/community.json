@@ -1,48 +1,48 @@
 {
-  "updated": "2026-08-06T08:10:45Z",
+  "updated": "2026-08-06T11:10:32Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
-      "insight": "HN 热议：631 分 · 676 评论",
+      "insight": "HN 热议：677 分 · 729 评论",
       "sentiment": "positive",
-      "comments": 676,
+      "comments": 729,
       "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Nashville uses eminent domain to block data center near zoo",
-      "insight": "HN 热议：222 分 · 253 评论",
+      "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
+      "insight": "HN 热议：327 分 · 81 评论",
       "sentiment": "positive",
-      "comments": 253,
-      "url": "https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project",
+      "comments": 81,
+      "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
-      "insight": "HN 热议：300 分 · 76 评论",
+      "title": "Born Against, or why hobby programming communities are against LLM usage",
+      "insight": "HN 热议：284 分 · 283 评论",
       "sentiment": "positive",
-      "comments": 76,
-      "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
+      "comments": 283,
+      "url": "https://blog.fogus.me/llm/born-against.html",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Born Against, or why hobby programming communities are against LLM usage",
-      "insight": "HN 热议：244 分 · 225 评论",
+      "title": "Cloudflare OS: an open platform for agents, apps, and work",
+      "insight": "HN 热议：567 分 · 274 评论",
       "sentiment": "positive",
-      "comments": 225,
-      "url": "https://blog.fogus.me/llm/born-against.html",
+      "comments": 274,
+      "url": "https://blog.cloudflare.com/cloudflare-os/",
       "id": 4
     },
     {
       "source": "HackerNews",
       "title": "Prime Agent: A self-improving RLM agent",
-      "insight": "HN 热议：174 分 · 32 评论",
+      "insight": "HN 热议：186 分 · 38 评论",
       "sentiment": "neutral",
-      "comments": 32,
+      "comments": 38,
       "url": "https://www.primeintellect.ai/blog/prime-agent",
       "id": 5
     }
