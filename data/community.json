@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-05T22:02:56Z",
+  "updated": "2026-08-06T01:16:50Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
-      "insight": "HN 热议：337 分 · 484 评论",
+      "insight": "HN 热议：458 分 · 576 评论",
       "sentiment": "positive",
-      "comments": 484,
+      "comments": 576,
       "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "OpenAI says my prepaid credits were consumed, refuses to show any record",
-      "insight": "HN 热议：31 分 · 8 评论",
-      "sentiment": "neutral",
-      "comments": 8,
-      "url": "https://community.openai.com/t/how-openai-lost-a-paying-customer-over-160-it-refuses-to-explain/1389233",
+      "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
+      "insight": "HN 热议：217 分 · 39 评论",
+      "sentiment": "positive",
+      "comments": 39,
+      "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
-      "insight": "HN 热议：142 分 · 29 评论",
+      "title": "Prime Agent: A self-improving RLM agent",
+      "insight": "HN 热议：94 分 · 17 评论",
       "sentiment": "neutral",
-      "comments": 29,
-      "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
+      "comments": 17,
+      "url": "https://www.primeintellect.ai/blog/prime-agent",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
-      "insight": "HN 热议：156 分 · 109 评论",
+      "title": "Born Against, or why hobby programming communities are against LLM usage",
+      "insight": "HN 热议：123 分 · 137 评论",
       "sentiment": "neutral",
-      "comments": 109,
-      "url": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/",
+      "comments": 137,
+      "url": "https://blog.fogus.me/llm/born-against.html",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Prime Agent: A self-improving RLM agent",
-      "insight": "HN 热议：19 分 · 0 评论",
-      "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://www.primeintellect.ai/blog/prime-agent",
+      "title": "Cloudflare OS: an open platform for agents, apps, and work",
+      "insight": "HN 热议：466 分 · 231 评论",
+      "sentiment": "positive",
+      "comments": 231,
+      "url": "https://blog.cloudflare.com/cloudflare-os/",
       "id": 5
     }
   ]
