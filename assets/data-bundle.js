@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-07T12:34:57Z",
+    "updated": "2026-08-07T15:41:07Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-07T12:34:57Z",
+    "updated": "2026-08-07T15:41:07Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-07T12:34:57Z",
+    "updated": "2026-08-07T15:41:07Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 186200,
-            "stars_today": 186200,
+            "stars": 186235,
+            "stars_today": 186235,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 166848,
-            "stars_today": 166848,
+            "stars": 166856,
+            "stars_today": 166856,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95801,
-            "stars_today": 95801,
+            "stars": 95802,
+            "stars_today": 95802,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 89953,
-            "stars_today": 89953,
+            "stars": 89974,
+            "stars_today": 89974,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 83363,
-            "stars_today": 83363,
+            "stars": 83371,
+            "stars_today": 83371,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -325,7 +325,7 @@ window.__DATA__ = {
     ]
 },
   "products": {
-    "updated": "2026-08-07T12:34:57Z",
+    "updated": "2026-08-07T15:41:07Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-07T12:34:57Z",
+    "updated": "2026-08-07T15:41:07Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-07T12:34:57Z",
+    "updated": "2026-08-07T15:41:07Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "GitHub Actions and Pages are experiencing degraded availability",
-            "insight": "HN 热议：426 分 · 348 评论",
-            "sentiment": "positive",
-            "comments": 348,
-            "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
+            "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
+            "insight": "HN 热议：47 分 · 15 评论",
+            "sentiment": "neutral",
+            "comments": 15,
+            "url": "https://blog.cloudflare.com/kitesurf/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
-            "insight": "HN 热议：259 分 · 202 评论",
-            "sentiment": "positive",
-            "comments": 202,
-            "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
+            "title": "US's largest newspaper chain partners with Palantir to analyze audience data",
+            "insight": "HN 热议：77 分 · 26 评论",
+            "sentiment": "neutral",
+            "comments": 26,
+            "url": "https://www.niemanlab.org/2026/08/americas-largest-newspaper-chain-usa-today-co-partners-with-palantir-to-analyze-audience-data/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
-            "insight": "HN 热议：316 分 · 223 评论",
+            "title": "GitHub Actions and Pages are experiencing degraded availability",
+            "insight": "HN 热议：455 分 · 380 评论",
             "sentiment": "positive",
-            "comments": 223,
-            "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
+            "comments": 380,
+            "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software",
-            "insight": "HN 热议：65 分 · 99 评论",
-            "sentiment": "neutral",
-            "comments": 99,
-            "url": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/",
+            "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
+            "insight": "HN 热议：278 分 · 229 评论",
+            "sentiment": "positive",
+            "comments": 229,
+            "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
-            "insight": "HN 热议：121 分 · 7 评论",
+            "title": "New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software",
+            "insight": "HN 热议：67 分 · 113 评论",
             "sentiment": "neutral",
-            "comments": 7,
-            "url": "https://www.aleksagordic.com/blog/vllm",
+            "comments": 113,
+            "url": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-07T12:34:57Z",
+    "updated": "2026-08-07T15:41:07Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

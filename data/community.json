@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-07T12:34:57Z",
+  "updated": "2026-08-07T15:41:07Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "GitHub Actions and Pages are experiencing degraded availability",
-      "insight": "HN 热议：426 分 · 348 评论",
-      "sentiment": "positive",
-      "comments": 348,
-      "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
+      "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
+      "insight": "HN 热议：47 分 · 15 评论",
+      "sentiment": "neutral",
+      "comments": 15,
+      "url": "https://blog.cloudflare.com/kitesurf/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
-      "insight": "HN 热议：259 分 · 202 评论",
-      "sentiment": "positive",
-      "comments": 202,
-      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
+      "title": "US's largest newspaper chain partners with Palantir to analyze audience data",
+      "insight": "HN 热议：77 分 · 26 评论",
+      "sentiment": "neutral",
+      "comments": 26,
+      "url": "https://www.niemanlab.org/2026/08/americas-largest-newspaper-chain-usa-today-co-partners-with-palantir-to-analyze-audience-data/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
-      "insight": "HN 热议：316 分 · 223 评论",
+      "title": "GitHub Actions and Pages are experiencing degraded availability",
+      "insight": "HN 热议：455 分 · 380 评论",
       "sentiment": "positive",
-      "comments": 223,
-      "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
+      "comments": 380,
+      "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software",
-      "insight": "HN 热议：65 分 · 99 评论",
-      "sentiment": "neutral",
-      "comments": 99,
-      "url": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/",
+      "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
+      "insight": "HN 热议：278 分 · 229 评论",
+      "sentiment": "positive",
+      "comments": 229,
+      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
-      "insight": "HN 热议：121 分 · 7 评论",
+      "title": "New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software",
+      "insight": "HN 热议：67 分 · 113 评论",
       "sentiment": "neutral",
-      "comments": 7,
-      "url": "https://www.aleksagordic.com/blog/vllm",
+      "comments": 113,
+      "url": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/",
       "id": 5
     }
   ]
