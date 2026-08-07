@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-07T15:41:07Z",
+    "updated": "2026-08-07T18:35:54Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-07T15:41:07Z",
+    "updated": "2026-08-07T18:35:54Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-07T15:41:07Z",
+    "updated": "2026-08-07T18:35:54Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 186235,
-            "stars_today": 186235,
+            "stars": 186261,
+            "stars_today": 186261,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 166856,
-            "stars_today": 166856,
+            "stars": 166857,
+            "stars_today": 166857,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95802,
-            "stars_today": 95802,
+            "stars": 95805,
+            "stars_today": 95805,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 89974,
-            "stars_today": 89974,
+            "stars": 89990,
+            "stars_today": 89990,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 83371,
-            "stars_today": 83371,
+            "stars": 83388,
+            "stars_today": 83388,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 55236,
-            "stars_today": 55236,
+            "stars": 55238,
+            "stars_today": 55238,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-07T15:41:07Z",
+    "updated": "2026-08-07T18:35:54Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-07T15:41:07Z",
+    "updated": "2026-08-07T18:35:54Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-07T15:41:07Z",
+    "updated": "2026-08-07T18:35:54Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
-            "insight": "HN 热议：47 分 · 15 评论",
+            "title": "Oracle bans AI-generated code from OpenJDK",
+            "insight": "HN 热议：115 分 · 74 评论",
             "sentiment": "neutral",
-            "comments": 15,
-            "url": "https://blog.cloudflare.com/kitesurf/",
+            "comments": 74,
+            "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "US's largest newspaper chain partners with Palantir to analyze audience data",
-            "insight": "HN 热议：77 分 · 26 评论",
+            "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
+            "insight": "HN 热议：99 分 · 23 评论",
             "sentiment": "neutral",
-            "comments": 26,
-            "url": "https://www.niemanlab.org/2026/08/americas-largest-newspaper-chain-usa-today-co-partners-with-palantir-to-analyze-audience-data/",
+            "comments": 23,
+            "url": "https://blog.cloudflare.com/kitesurf/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "GitHub Actions and Pages are experiencing degraded availability",
-            "insight": "HN 热议：455 分 · 380 评论",
-            "sentiment": "positive",
-            "comments": 380,
-            "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
+            "title": "This Mine Predicts Major Wars. It's Opening Again",
+            "insight": "HN 热议：40 分 · 12 评论",
+            "sentiment": "neutral",
+            "comments": 12,
+            "url": "https://www.bloomberg.com/graphics/2026-opinion-australia-tungsten-mine-us-war-defense-china/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
-            "insight": "HN 热议：278 分 · 229 评论",
+            "title": "GitHub Actions and Pages are experiencing degraded availability",
+            "insight": "HN 热议：479 分 · 399 评论",
             "sentiment": "positive",
-            "comments": 229,
-            "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
+            "comments": 399,
+            "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software",
-            "insight": "HN 热议：67 分 · 113 评论",
-            "sentiment": "neutral",
-            "comments": 113,
-            "url": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/",
+            "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
+            "insight": "HN 热议：299 分 · 241 评论",
+            "sentiment": "positive",
+            "comments": 241,
+            "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-07T15:41:07Z",
+    "updated": "2026-08-07T18:35:54Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
