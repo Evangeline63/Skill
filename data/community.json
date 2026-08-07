@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-07T04:44:56Z",
+  "updated": "2026-08-07T06:56:37Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
-      "insight": "HN 热议：183 分 · 135 评论",
-      "sentiment": "neutral",
-      "comments": 135,
-      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
+      "title": "Software development with AI is starting to feel like cooking steak",
+      "insight": "HN 热议：341 分 · 370 评论",
+      "sentiment": "positive",
+      "comments": 370,
+      "url": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "GitHub Actions and Pages are experiencing degraded availability",
-      "insight": "HN 热议：355 分 · 290 评论",
+      "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
+      "insight": "HN 热议：213 分 · 154 评论",
       "sentiment": "positive",
-      "comments": 290,
-      "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
+      "comments": 154,
+      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
-      "insight": "HN 热议：79 分 · 4 评论",
-      "sentiment": "neutral",
-      "comments": 4,
-      "url": "https://www.aleksagordic.com/blog/vllm",
+      "title": "GitHub Actions and Pages are experiencing degraded availability",
+      "insight": "HN 热议：375 分 · 304 评论",
+      "sentiment": "positive",
+      "comments": 304,
+      "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
-      "insight": "HN 热议：270 分 · 197 评论",
-      "sentiment": "positive",
-      "comments": 197,
-      "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
+      "title": "New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software",
+      "insight": "HN 热议：52 分 · 64 评论",
+      "sentiment": "neutral",
+      "comments": 64,
+      "url": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "The Sylvester–Gallai Theorem",
-      "insight": "HN 热议：26 分 · 19 评论",
-      "sentiment": "neutral",
-      "comments": 19,
-      "url": "https://www.futilitycloset.com/2026/07/26/the-sylvester-gallai-theorem/",
+      "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
+      "insight": "HN 热议：285 分 · 203 评论",
+      "sentiment": "positive",
+      "comments": 203,
+      "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
       "id": 5
     }
   ]

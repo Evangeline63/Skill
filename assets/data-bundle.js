@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-07T04:44:56Z",
+    "updated": "2026-08-07T06:56:37Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-07T04:44:56Z",
+    "updated": "2026-08-07T06:56:37Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-07T04:44:56Z",
+    "updated": "2026-08-07T06:56:37Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 186090,
-            "stars_today": 186090,
+            "stars": 186119,
+            "stars_today": 186119,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 166825,
-            "stars_today": 166825,
+            "stars": 166830,
+            "stars_today": 166830,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95788,
-            "stars_today": 95788,
+            "stars": 95790,
+            "stars_today": 95790,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 89895,
-            "stars_today": 89895,
+            "stars": 89916,
+            "stars_today": 89916,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 83321,
-            "stars_today": 83321,
+            "stars": 83332,
+            "stars_today": 83332,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 55224,
-            "stars_today": 55224,
+            "stars": 55226,
+            "stars_today": 55226,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-07T04:44:56Z",
+    "updated": "2026-08-07T06:56:37Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-07T04:44:56Z",
+    "updated": "2026-08-07T06:56:37Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-07T04:44:56Z",
+    "updated": "2026-08-07T06:56:37Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
-            "insight": "HN 热议：183 分 · 135 评论",
-            "sentiment": "neutral",
-            "comments": 135,
-            "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
+            "title": "Software development with AI is starting to feel like cooking steak",
+            "insight": "HN 热议：341 分 · 370 评论",
+            "sentiment": "positive",
+            "comments": 370,
+            "url": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "GitHub Actions and Pages are experiencing degraded availability",
-            "insight": "HN 热议：355 分 · 290 评论",
+            "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
+            "insight": "HN 热议：213 分 · 154 评论",
             "sentiment": "positive",
-            "comments": 290,
-            "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
+            "comments": 154,
+            "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
-            "insight": "HN 热议：79 分 · 4 评论",
-            "sentiment": "neutral",
-            "comments": 4,
-            "url": "https://www.aleksagordic.com/blog/vllm",
+            "title": "GitHub Actions and Pages are experiencing degraded availability",
+            "insight": "HN 热议：375 分 · 304 评论",
+            "sentiment": "positive",
+            "comments": 304,
+            "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
-            "insight": "HN 热议：270 分 · 197 评论",
-            "sentiment": "positive",
-            "comments": 197,
-            "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
+            "title": "New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software",
+            "insight": "HN 热议：52 分 · 64 评论",
+            "sentiment": "neutral",
+            "comments": 64,
+            "url": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "The Sylvester–Gallai Theorem",
-            "insight": "HN 热议：26 分 · 19 评论",
-            "sentiment": "neutral",
-            "comments": 19,
-            "url": "https://www.futilitycloset.com/2026/07/26/the-sylvester-gallai-theorem/",
+            "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
+            "insight": "HN 热议：285 分 · 203 评论",
+            "sentiment": "positive",
+            "comments": 203,
+            "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-07T04:44:56Z",
+    "updated": "2026-08-07T06:56:37Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
