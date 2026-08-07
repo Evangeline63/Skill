@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-06T23:46:00Z",
+  "updated": "2026-08-07T01:58:41Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
-      "insight": "HN 热议：30 分 · 2 评论",
+      "insight": "HN 热议：59 分 · 2 评论",
       "sentiment": "neutral",
       "comments": 2,
       "url": "https://www.aleksagordic.com/blog/vllm",
@@ -12,38 +12,38 @@
     },
     {
       "source": "HackerNews",
-      "title": "GitHub Actions and Pages are experiencing degraded availability",
-      "insight": "HN 热议：295 分 · 252 评论",
-      "sentiment": "positive",
-      "comments": 252,
-      "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
+      "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
+      "insight": "HN 热议：149 分 · 112 评论",
+      "sentiment": "neutral",
+      "comments": 112,
+      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
-      "insight": "HN 热议：127 分 · 87 评论",
-      "sentiment": "neutral",
-      "comments": 87,
-      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
+      "title": "GitHub Actions and Pages are experiencing degraded availability",
+      "insight": "HN 热议：325 分 · 272 评论",
+      "sentiment": "positive",
+      "comments": 272,
+      "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
-      "insight": "HN 热议：235 分 · 184 评论",
-      "sentiment": "positive",
-      "comments": 184,
-      "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
+      "title": "The Sylvester–Gallai Theorem",
+      "insight": "HN 热议：16 分 · 0 评论",
+      "sentiment": "neutral",
+      "comments": 0,
+      "url": "https://www.futilitycloset.com/2026/07/26/the-sylvester-gallai-theorem/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: The Channels SDK – Bring Any Agent to Any Channel (Slack, MS Teams)",
-      "insight": "HN 热议：79 分 · 20 评论",
-      "sentiment": "neutral",
-      "comments": 20,
-      "url": "https://github.com/CopilotKit/channels-sdk",
+      "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
+      "insight": "HN 热议：257 分 · 191 评论",
+      "sentiment": "positive",
+      "comments": 191,
+      "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
       "id": 5
     }
   ]
