@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-07T18:35:54Z",
+    "updated": "2026-08-07T21:26:08Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-07T18:35:54Z",
+    "updated": "2026-08-07T21:26:08Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-07T18:35:54Z",
+    "updated": "2026-08-07T21:26:08Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 186261,
-            "stars_today": 186261,
+            "stars": 186291,
+            "stars_today": 186291,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 166857,
-            "stars_today": 166857,
+            "stars": 166860,
+            "stars_today": 166860,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 89990,
-            "stars_today": 89990,
+            "stars": 90001,
+            "stars_today": 90001,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 83388,
-            "stars_today": 83388,
+            "stars": 83393,
+            "stars_today": 83393,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 55238,
-            "stars_today": 55238,
+            "stars": 55240,
+            "stars_today": 55240,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-07T18:35:54Z",
+    "updated": "2026-08-07T21:26:08Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-07T18:35:54Z",
+    "updated": "2026-08-07T21:26:08Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-07T18:35:54Z",
+    "updated": "2026-08-07T21:26:08Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Oracle bans AI-generated code from OpenJDK",
-            "insight": "HN 热议：115 分 · 74 评论",
-            "sentiment": "neutral",
-            "comments": 74,
+            "insight": "HN 热议：292 分 · 209 评论",
+            "sentiment": "positive",
+            "comments": 209,
             "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
-            "insight": "HN 热议：99 分 · 23 评论",
-            "sentiment": "neutral",
-            "comments": 23,
-            "url": "https://blog.cloudflare.com/kitesurf/",
+            "title": "What happens if an entire class of workers loses faith in their careers",
+            "insight": "HN 热议：217 分 · 354 评论",
+            "sentiment": "positive",
+            "comments": 354,
+            "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "This Mine Predicts Major Wars. It's Opening Again",
-            "insight": "HN 热议：40 分 · 12 评论",
+            "title": "Databricks drove down AI coding spend 70%",
+            "insight": "HN 热议：116 分 · 93 评论",
             "sentiment": "neutral",
-            "comments": 12,
-            "url": "https://www.bloomberg.com/graphics/2026-opinion-australia-tungsten-mine-us-war-defense-china/",
+            "comments": 93,
+            "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "GitHub Actions and Pages are experiencing degraded availability",
-            "insight": "HN 热议：479 分 · 399 评论",
-            "sentiment": "positive",
-            "comments": 399,
-            "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
+            "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
+            "insight": "HN 热议：127 分 · 31 评论",
+            "sentiment": "neutral",
+            "comments": 31,
+            "url": "https://blog.cloudflare.com/kitesurf/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
-            "insight": "HN 热议：299 分 · 241 评论",
-            "sentiment": "positive",
-            "comments": 241,
-            "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
+            "title": "Britain's New World of Tobacco (2017)",
+            "insight": "HN 热议：15 分 · 0 评论",
+            "sentiment": "neutral",
+            "comments": 0,
+            "url": "https://www.historytoday.com/archive/feature/britains-new-world-tobacco",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-07T18:35:54Z",
+    "updated": "2026-08-07T21:26:08Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

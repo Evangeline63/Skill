@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-07T18:35:54Z",
+  "updated": "2026-08-07T21:26:08Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Oracle bans AI-generated code from OpenJDK",
-      "insight": "HN 热议：115 分 · 74 评论",
-      "sentiment": "neutral",
-      "comments": 74,
+      "insight": "HN 热议：292 分 · 209 评论",
+      "sentiment": "positive",
+      "comments": 209,
       "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
-      "insight": "HN 热议：99 分 · 23 评论",
-      "sentiment": "neutral",
-      "comments": 23,
-      "url": "https://blog.cloudflare.com/kitesurf/",
+      "title": "What happens if an entire class of workers loses faith in their careers",
+      "insight": "HN 热议：217 分 · 354 评论",
+      "sentiment": "positive",
+      "comments": 354,
+      "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "This Mine Predicts Major Wars. It's Opening Again",
-      "insight": "HN 热议：40 分 · 12 评论",
+      "title": "Databricks drove down AI coding spend 70%",
+      "insight": "HN 热议：116 分 · 93 评论",
       "sentiment": "neutral",
-      "comments": 12,
-      "url": "https://www.bloomberg.com/graphics/2026-opinion-australia-tungsten-mine-us-war-defense-china/",
+      "comments": 93,
+      "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "GitHub Actions and Pages are experiencing degraded availability",
-      "insight": "HN 热议：479 分 · 399 评论",
-      "sentiment": "positive",
-      "comments": 399,
-      "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
+      "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
+      "insight": "HN 热议：127 分 · 31 评论",
+      "sentiment": "neutral",
+      "comments": 31,
+      "url": "https://blog.cloudflare.com/kitesurf/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
-      "insight": "HN 热议：299 分 · 241 评论",
-      "sentiment": "positive",
-      "comments": 241,
-      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
+      "title": "Britain's New World of Tobacco (2017)",
+      "insight": "HN 热议：15 分 · 0 评论",
+      "sentiment": "neutral",
+      "comments": 0,
+      "url": "https://www.historytoday.com/archive/feature/britains-new-world-tobacco",
       "id": 5
     }
   ]
