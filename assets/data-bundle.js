@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-08T09:25:00Z",
+    "updated": "2026-08-08T12:20:37Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-08T09:25:00Z",
+    "updated": "2026-08-08T12:20:37Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-08T09:25:00Z",
+    "updated": "2026-08-08T12:20:37Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 186408,
-            "stars_today": 186408,
+            "stars": 186430,
+            "stars_today": 186430,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 166877,
-            "stars_today": 166877,
+            "stars": 166879,
+            "stars_today": 166879,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95811,
-            "stars_today": 95811,
+            "stars": 95816,
+            "stars_today": 95816,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 90031,
-            "stars_today": 90031,
+            "stars": 90046,
+            "stars_today": 90046,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 83443,
-            "stars_today": 83443,
+            "stars": 83456,
+            "stars_today": 83456,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 55246,
-            "stars_today": 55246,
+            "stars": 55249,
+            "stars_today": 55249,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-08T09:25:00Z",
+    "updated": "2026-08-08T12:20:37Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-08T09:25:00Z",
+    "updated": "2026-08-08T12:20:37Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-08T09:25:00Z",
+    "updated": "2026-08-08T12:20:37Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "What happens if an entire class of workers loses faith in their careers",
-            "insight": "HN 热议：642 分 · 713 评论",
-            "sentiment": "positive",
-            "comments": 713,
-            "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+            "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+            "insight": "HN 热议：36 分 · 31 评论",
+            "sentiment": "neutral",
+            "comments": 31,
+            "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Managing AI Coding Costs at Scale",
-            "insight": "HN 热议：234 分 · 201 评论",
+            "title": "What happens if an entire class of workers loses faith in their careers",
+            "insight": "HN 热议：734 分 · 820 评论",
             "sentiment": "positive",
-            "comments": 201,
-            "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+            "comments": 820,
+            "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Oracle bans AI-generated code from OpenJDK",
-            "insight": "HN 热议：468 分 · 330 评论",
+            "title": "Managing AI Coding Costs at Scale",
+            "insight": "HN 热议：255 分 · 215 评论",
             "sentiment": "positive",
-            "comments": 330,
-            "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+            "comments": 215,
+            "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
-            "insight": "HN 热议：191 分 · 50 评论",
-            "sentiment": "neutral",
-            "comments": 50,
-            "url": "https://blog.cloudflare.com/kitesurf/",
+            "title": "Oracle bans AI-generated code from OpenJDK",
+            "insight": "HN 热议：486 分 · 347 评论",
+            "sentiment": "positive",
+            "comments": 347,
+            "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Mythos social engineering AISI INC-2026-07-28-01",
-            "insight": "HN 热议：61 分 · 18 评论",
+            "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
+            "insight": "HN 热议：198 分 · 53 评论",
             "sentiment": "neutral",
-            "comments": 18,
-            "url": "https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3",
+            "comments": 53,
+            "url": "https://blog.cloudflare.com/kitesurf/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-08T09:25:00Z",
+    "updated": "2026-08-08T12:20:37Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

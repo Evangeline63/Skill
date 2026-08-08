@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-08T09:25:00Z",
+  "updated": "2026-08-08T12:20:37Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "What happens if an entire class of workers loses faith in their careers",
-      "insight": "HN 热议：642 分 · 713 评论",
-      "sentiment": "positive",
-      "comments": 713,
-      "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+      "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+      "insight": "HN 热议：36 分 · 31 评论",
+      "sentiment": "neutral",
+      "comments": 31,
+      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Managing AI Coding Costs at Scale",
-      "insight": "HN 热议：234 分 · 201 评论",
+      "title": "What happens if an entire class of workers loses faith in their careers",
+      "insight": "HN 热议：734 分 · 820 评论",
       "sentiment": "positive",
-      "comments": 201,
-      "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+      "comments": 820,
+      "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Oracle bans AI-generated code from OpenJDK",
-      "insight": "HN 热议：468 分 · 330 评论",
+      "title": "Managing AI Coding Costs at Scale",
+      "insight": "HN 热议：255 分 · 215 评论",
       "sentiment": "positive",
-      "comments": 330,
-      "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+      "comments": 215,
+      "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
-      "insight": "HN 热议：191 分 · 50 评论",
-      "sentiment": "neutral",
-      "comments": 50,
-      "url": "https://blog.cloudflare.com/kitesurf/",
+      "title": "Oracle bans AI-generated code from OpenJDK",
+      "insight": "HN 热议：486 分 · 347 评论",
+      "sentiment": "positive",
+      "comments": 347,
+      "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Mythos social engineering AISI INC-2026-07-28-01",
-      "insight": "HN 热议：61 分 · 18 评论",
+      "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
+      "insight": "HN 热议：198 分 · 53 评论",
       "sentiment": "neutral",
-      "comments": 18,
-      "url": "https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3",
+      "comments": 53,
+      "url": "https://blog.cloudflare.com/kitesurf/",
       "id": 5
     }
   ]
