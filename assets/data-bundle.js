@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-08T12:20:37Z",
+    "updated": "2026-08-08T15:16:45Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-08T12:20:37Z",
+    "updated": "2026-08-08T15:16:45Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-08T12:20:37Z",
+    "updated": "2026-08-08T15:16:45Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 186430,
-            "stars_today": 186430,
+            "stars": 186435,
+            "stars_today": 186435,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,50 +282,50 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 166879,
-            "stars_today": 166879,
+            "stars": 166886,
+            "stars_today": 166886,
             "url": "https://github.com/f/prompts.chat"
         },
         {
             "rank": 3,
-            "name": "hacksider/Deep-Live-Cam",
-            "description": "real time face swap and one-click video deepfake with only a single image",
-            "language": "Python",
-            "stars": 95816,
-            "stars_today": 95816,
-            "url": "https://github.com/hacksider/Deep-Live-Cam"
+            "name": "rasbt/LLMs-from-scratch",
+            "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+            "language": "Jupyter Notebook",
+            "stars": 101254,
+            "stars_today": 101254,
+            "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
             "rank": 4,
-            "name": "thedotmack/claude-mem",
-            "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
-            "language": "JavaScript",
-            "stars": 90046,
-            "stars_today": 90046,
-            "url": "https://github.com/thedotmack/claude-mem"
+            "name": "hacksider/Deep-Live-Cam",
+            "description": "real time face swap and one-click video deepfake with only a single image",
+            "language": "Python",
+            "stars": 95820,
+            "stars_today": 95820,
+            "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
             "rank": 5,
-            "name": "OpenHands/OpenHands",
-            "description": "🙌 OpenHands: AI-Driven Development",
-            "language": "TypeScript",
-            "stars": 83456,
-            "stars_today": 83456,
-            "url": "https://github.com/OpenHands/OpenHands"
+            "name": "thedotmack/claude-mem",
+            "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
+            "language": "JavaScript",
+            "stars": 90069,
+            "stars_today": 90069,
+            "url": "https://github.com/thedotmack/claude-mem"
         },
         {
             "rank": 6,
-            "name": "FlowiseAI/Flowise",
-            "description": "Build AI Agents, Visually",
+            "name": "OpenHands/OpenHands",
+            "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 55249,
-            "stars_today": 55249,
-            "url": "https://github.com/FlowiseAI/Flowise"
+            "stars": 83466,
+            "stars_today": 83466,
+            "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-08T12:20:37Z",
+    "updated": "2026-08-08T15:16:45Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-08T12:20:37Z",
+    "updated": "2026-08-08T15:16:45Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-08T12:20:37Z",
+    "updated": "2026-08-08T15:16:45Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-            "insight": "HN 热议：36 分 · 31 评论",
+            "title": "A domain can now say it is for sale, in DNS",
+            "insight": "HN 热议：73 分 · 33 评论",
             "sentiment": "neutral",
-            "comments": 31,
-            "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
+            "comments": 33,
+            "url": "https://specification.website/spec/foundations/for-sale-dns/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "What happens if an entire class of workers loses faith in their careers",
-            "insight": "HN 热议：734 分 · 820 评论",
-            "sentiment": "positive",
-            "comments": 820,
-            "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+            "title": "Gentoo bugzilla closed due AI bot scraper overload",
+            "insight": "HN 热议：35 分 · 8 评论",
+            "sentiment": "neutral",
+            "comments": 8,
+            "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Managing AI Coding Costs at Scale",
-            "insight": "HN 热议：255 分 · 215 评论",
+            "title": "What happens if an entire class of workers loses faith in their careers",
+            "insight": "HN 热议：836 分 · 925 评论",
             "sentiment": "positive",
-            "comments": 215,
-            "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+            "comments": 925,
+            "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Oracle bans AI-generated code from OpenJDK",
-            "insight": "HN 热议：486 分 · 347 评论",
-            "sentiment": "positive",
-            "comments": 347,
-            "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+            "title": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
+            "insight": "HN 热议：60 分 · 48 评论",
+            "sentiment": "neutral",
+            "comments": 48,
+            "url": "https://twitter.com/un1c0rnioz/status/2084686552299634805",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
-            "insight": "HN 热议：198 分 · 53 评论",
+            "title": "Timeline of the OpenAI accidental attack against Hugging Face",
+            "insight": "HN 热议：124 分 · 141 评论",
             "sentiment": "neutral",
-            "comments": 53,
-            "url": "https://blog.cloudflare.com/kitesurf/",
+            "comments": 141,
+            "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-08T12:20:37Z",
+    "updated": "2026-08-08T15:16:45Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-08T12:20:37Z",
+  "updated": "2026-08-08T15:16:45Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-      "insight": "HN 热议：36 分 · 31 评论",
+      "title": "A domain can now say it is for sale, in DNS",
+      "insight": "HN 热议：73 分 · 33 评论",
       "sentiment": "neutral",
-      "comments": 31,
-      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
+      "comments": 33,
+      "url": "https://specification.website/spec/foundations/for-sale-dns/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "What happens if an entire class of workers loses faith in their careers",
-      "insight": "HN 热议：734 分 · 820 评论",
-      "sentiment": "positive",
-      "comments": 820,
-      "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+      "title": "Gentoo bugzilla closed due AI bot scraper overload",
+      "insight": "HN 热议：35 分 · 8 评论",
+      "sentiment": "neutral",
+      "comments": 8,
+      "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Managing AI Coding Costs at Scale",
-      "insight": "HN 热议：255 分 · 215 评论",
+      "title": "What happens if an entire class of workers loses faith in their careers",
+      "insight": "HN 热议：836 分 · 925 评论",
       "sentiment": "positive",
-      "comments": 215,
-      "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+      "comments": 925,
+      "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Oracle bans AI-generated code from OpenJDK",
-      "insight": "HN 热议：486 分 · 347 评论",
-      "sentiment": "positive",
-      "comments": 347,
-      "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+      "title": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
+      "insight": "HN 热议：60 分 · 48 评论",
+      "sentiment": "neutral",
+      "comments": 48,
+      "url": "https://twitter.com/un1c0rnioz/status/2084686552299634805",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
-      "insight": "HN 热议：198 分 · 53 评论",
+      "title": "Timeline of the OpenAI accidental attack against Hugging Face",
+      "insight": "HN 热议：124 分 · 141 评论",
       "sentiment": "neutral",
-      "comments": 53,
-      "url": "https://blog.cloudflare.com/kitesurf/",
+      "comments": 141,
+      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
       "id": 5
     }
   ]
