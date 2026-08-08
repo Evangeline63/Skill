@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-08T00:41:25Z",
+    "updated": "2026-08-08T04:01:12Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-08T00:41:25Z",
+    "updated": "2026-08-08T04:01:12Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-08T00:41:25Z",
+    "updated": "2026-08-08T04:01:12Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 186319,
-            "stars_today": 186319,
+            "stars": 186353,
+            "stars_today": 186353,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 166864,
-            "stars_today": 166864,
+            "stars": 166869,
+            "stars_today": 166869,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95807,
-            "stars_today": 95807,
+            "stars": 95808,
+            "stars_today": 95808,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 90010,
-            "stars_today": 90010,
+            "stars": 90011,
+            "stars_today": 90011,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 83403,
-            "stars_today": 83403,
+            "stars": 83412,
+            "stars_today": 83412,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 55241,
-            "stars_today": 55241,
+            "stars": 55246,
+            "stars_today": 55246,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-08T00:41:25Z",
+    "updated": "2026-08-08T04:01:12Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-08T00:41:25Z",
+    "updated": "2026-08-08T04:01:12Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-08T00:41:25Z",
+    "updated": "2026-08-08T04:01:12Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "What happens if an entire class of workers loses faith in their careers",
-            "insight": "HN 热议：384 分 · 515 评论",
+            "insight": "HN 热议：490 分 · 579 评论",
             "sentiment": "positive",
-            "comments": 515,
+            "comments": 579,
             "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "Managing AI Coding Costs at Scale",
-            "insight": "HN 热议：155 分 · 158 评论",
+            "insight": "HN 热议：184 分 · 181 评论",
             "sentiment": "neutral",
-            "comments": 158,
+            "comments": 181,
             "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "Oracle bans AI-generated code from OpenJDK",
-            "insight": "HN 热议：371 分 · 247 评论",
+            "insight": "HN 热议：416 分 · 284 评论",
             "sentiment": "positive",
-            "comments": 247,
+            "comments": 284,
             "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Should AI labs be treated like the owners of dangerous animals?",
-            "insight": "HN 热议：5 分 · 1 评论",
+            "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
+            "insight": "HN 热议：173 分 · 44 评论",
             "sentiment": "neutral",
-            "comments": 1,
-            "url": "https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals",
+            "comments": 44,
+            "url": "https://blog.cloudflare.com/kitesurf/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
-            "insight": "HN 热议：160 分 · 42 评论",
+            "title": "Mythos social engineering AISI INC-2026-07-28-01",
+            "insight": "HN 热议：4 分 · 0 评论",
             "sentiment": "neutral",
-            "comments": 42,
-            "url": "https://blog.cloudflare.com/kitesurf/",
+            "comments": 0,
+            "url": "https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-08T00:41:25Z",
+    "updated": "2026-08-08T04:01:12Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
