@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-07T21:26:08Z",
+  "updated": "2026-08-08T00:41:25Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Oracle bans AI-generated code from OpenJDK",
-      "insight": "HN 热议：292 分 · 209 评论",
+      "title": "What happens if an entire class of workers loses faith in their careers",
+      "insight": "HN 热议：384 分 · 515 评论",
       "sentiment": "positive",
-      "comments": 209,
-      "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+      "comments": 515,
+      "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "What happens if an entire class of workers loses faith in their careers",
-      "insight": "HN 热议：217 分 · 354 评论",
-      "sentiment": "positive",
-      "comments": 354,
-      "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+      "title": "Managing AI Coding Costs at Scale",
+      "insight": "HN 热议：155 分 · 158 评论",
+      "sentiment": "neutral",
+      "comments": 158,
+      "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Databricks drove down AI coding spend 70%",
-      "insight": "HN 热议：116 分 · 93 评论",
-      "sentiment": "neutral",
-      "comments": 93,
-      "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+      "title": "Oracle bans AI-generated code from OpenJDK",
+      "insight": "HN 热议：371 分 · 247 评论",
+      "sentiment": "positive",
+      "comments": 247,
+      "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
-      "insight": "HN 热议：127 分 · 31 评论",
+      "title": "Should AI labs be treated like the owners of dangerous animals?",
+      "insight": "HN 热议：5 分 · 1 评论",
       "sentiment": "neutral",
-      "comments": 31,
-      "url": "https://blog.cloudflare.com/kitesurf/",
+      "comments": 1,
+      "url": "https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Britain's New World of Tobacco (2017)",
-      "insight": "HN 热议：15 分 · 0 评论",
+      "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
+      "insight": "HN 热议：160 分 · 42 评论",
       "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://www.historytoday.com/archive/feature/britains-new-world-tobacco",
+      "comments": 42,
+      "url": "https://blog.cloudflare.com/kitesurf/",
       "id": 5
     }
   ]
