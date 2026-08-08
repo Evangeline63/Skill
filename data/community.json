@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-08T18:18:58Z",
+  "updated": "2026-08-08T21:17:40Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Fastmail offers EU data region",
-      "insight": "HN 热议：93 分 · 37 评论",
-      "sentiment": "neutral",
-      "comments": 37,
-      "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
+      "title": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
+      "insight": "HN 热议：324 分 · 159 评论",
+      "sentiment": "positive",
+      "comments": 159,
+      "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "A domain can now say it is for sale, in DNS",
-      "insight": "HN 热议：215 分 · 93 评论",
+      "title": "Fastmail offers EU data region",
+      "insight": "HN 热议：237 分 · 110 评论",
       "sentiment": "positive",
-      "comments": 93,
-      "url": "https://specification.website/spec/foundations/for-sale-dns/",
+      "comments": 110,
+      "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Timeline of the OpenAI accidental attack against Hugging Face",
-      "insight": "HN 热议：200 分 · 217 评论",
-      "sentiment": "neutral",
-      "comments": 217,
-      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
+      "title": "A domain can now say it is for sale, in DNS",
+      "insight": "HN 热议：278 分 · 120 评论",
+      "sentiment": "positive",
+      "comments": 120,
+      "url": "https://specification.website/spec/foundations/for-sale-dns/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Gentoo bugzilla closed due AI bot scraper overload",
-      "insight": "HN 热议：107 分 · 69 评论",
-      "sentiment": "neutral",
-      "comments": 69,
-      "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
+      "title": "Timeline of the OpenAI accidental attack against Hugging Face",
+      "insight": "HN 热议：267 分 · 280 评论",
+      "sentiment": "positive",
+      "comments": 280,
+      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "What happens if an entire class of workers loses faith in their careers",
-      "insight": "HN 热议：891 分 · 1054 评论",
-      "sentiment": "positive",
-      "comments": 1054,
-      "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+      "title": "TinySol, a tiny solitaire game for DOS",
+      "insight": "HN 热议：22 分 · 5 评论",
+      "sentiment": "neutral",
+      "comments": 5,
+      "url": "https://classicbits.net/coding-and-software/my-software/monosol/",
       "id": 5
     }
   ]
