@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-08T15:16:45Z",
+  "updated": "2026-08-08T18:18:58Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "A domain can now say it is for sale, in DNS",
-      "insight": "HN 热议：73 分 · 33 评论",
+      "title": "Fastmail offers EU data region",
+      "insight": "HN 热议：93 分 · 37 评论",
       "sentiment": "neutral",
-      "comments": 33,
-      "url": "https://specification.website/spec/foundations/for-sale-dns/",
+      "comments": 37,
+      "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Gentoo bugzilla closed due AI bot scraper overload",
-      "insight": "HN 热议：35 分 · 8 评论",
-      "sentiment": "neutral",
-      "comments": 8,
-      "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
+      "title": "A domain can now say it is for sale, in DNS",
+      "insight": "HN 热议：215 分 · 93 评论",
+      "sentiment": "positive",
+      "comments": 93,
+      "url": "https://specification.website/spec/foundations/for-sale-dns/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "What happens if an entire class of workers loses faith in their careers",
-      "insight": "HN 热议：836 分 · 925 评论",
-      "sentiment": "positive",
-      "comments": 925,
-      "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+      "title": "Timeline of the OpenAI accidental attack against Hugging Face",
+      "insight": "HN 热议：200 分 · 217 评论",
+      "sentiment": "neutral",
+      "comments": 217,
+      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
-      "insight": "HN 热议：60 分 · 48 评论",
+      "title": "Gentoo bugzilla closed due AI bot scraper overload",
+      "insight": "HN 热议：107 分 · 69 评论",
       "sentiment": "neutral",
-      "comments": 48,
-      "url": "https://twitter.com/un1c0rnioz/status/2084686552299634805",
+      "comments": 69,
+      "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Timeline of the OpenAI accidental attack against Hugging Face",
-      "insight": "HN 热议：124 分 · 141 评论",
-      "sentiment": "neutral",
-      "comments": 141,
-      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
+      "title": "What happens if an entire class of workers loses faith in their careers",
+      "insight": "HN 热议：891 分 · 1054 评论",
+      "sentiment": "positive",
+      "comments": 1054,
+      "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
       "id": 5
     }
   ]

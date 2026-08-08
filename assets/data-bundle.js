@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-08T15:16:45Z",
+    "updated": "2026-08-08T18:18:58Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-08T15:16:45Z",
+    "updated": "2026-08-08T18:18:58Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-08T15:16:45Z",
+    "updated": "2026-08-08T18:18:58Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 186435,
-            "stars_today": 186435,
+            "stars": 186440,
+            "stars_today": 186440,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 166886,
-            "stars_today": 166886,
+            "stars": 166892,
+            "stars_today": 166892,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 101254,
-            "stars_today": 101254,
+            "stars": 101329,
+            "stars_today": 101329,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95820,
-            "stars_today": 95820,
+            "stars": 95819,
+            "stars_today": 95819,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 90069,
-            "stars_today": 90069,
+            "stars": 90086,
+            "stars_today": 90086,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 83466,
-            "stars_today": 83466,
+            "stars": 83477,
+            "stars_today": 83477,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-08T15:16:45Z",
+    "updated": "2026-08-08T18:18:58Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-08T15:16:45Z",
+    "updated": "2026-08-08T18:18:58Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-08T15:16:45Z",
+    "updated": "2026-08-08T18:18:58Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "A domain can now say it is for sale, in DNS",
-            "insight": "HN 热议：73 分 · 33 评论",
+            "title": "Fastmail offers EU data region",
+            "insight": "HN 热议：93 分 · 37 评论",
             "sentiment": "neutral",
-            "comments": 33,
-            "url": "https://specification.website/spec/foundations/for-sale-dns/",
+            "comments": 37,
+            "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Gentoo bugzilla closed due AI bot scraper overload",
-            "insight": "HN 热议：35 分 · 8 评论",
-            "sentiment": "neutral",
-            "comments": 8,
-            "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
+            "title": "A domain can now say it is for sale, in DNS",
+            "insight": "HN 热议：215 分 · 93 评论",
+            "sentiment": "positive",
+            "comments": 93,
+            "url": "https://specification.website/spec/foundations/for-sale-dns/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "What happens if an entire class of workers loses faith in their careers",
-            "insight": "HN 热议：836 分 · 925 评论",
-            "sentiment": "positive",
-            "comments": 925,
-            "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+            "title": "Timeline of the OpenAI accidental attack against Hugging Face",
+            "insight": "HN 热议：200 分 · 217 评论",
+            "sentiment": "neutral",
+            "comments": 217,
+            "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
-            "insight": "HN 热议：60 分 · 48 评论",
+            "title": "Gentoo bugzilla closed due AI bot scraper overload",
+            "insight": "HN 热议：107 分 · 69 评论",
             "sentiment": "neutral",
-            "comments": 48,
-            "url": "https://twitter.com/un1c0rnioz/status/2084686552299634805",
+            "comments": 69,
+            "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Timeline of the OpenAI accidental attack against Hugging Face",
-            "insight": "HN 热议：124 分 · 141 评论",
-            "sentiment": "neutral",
-            "comments": 141,
-            "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
+            "title": "What happens if an entire class of workers loses faith in their careers",
+            "insight": "HN 热议：891 分 · 1054 评论",
+            "sentiment": "positive",
+            "comments": 1054,
+            "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-08T15:16:45Z",
+    "updated": "2026-08-08T18:18:58Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
