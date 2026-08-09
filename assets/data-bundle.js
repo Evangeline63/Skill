@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-09T06:34:06Z",
+    "updated": "2026-08-09T09:26:18Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-09T06:34:06Z",
+    "updated": "2026-08-09T09:26:18Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-09T06:34:06Z",
+    "updated": "2026-08-09T09:26:18Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 186444,
-            "stars_today": 186444,
+            "stars": 186446,
+            "stars_today": 186446,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 166906,
-            "stars_today": 166906,
+            "stars": 166909,
+            "stars_today": 166909,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 101593,
-            "stars_today": 101593,
+            "stars": 101688,
+            "stars_today": 101688,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95825,
-            "stars_today": 95825,
+            "stars": 95828,
+            "stars_today": 95828,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 90126,
-            "stars_today": 90126,
+            "stars": 90135,
+            "stars_today": 90135,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 83495,
-            "stars_today": 83495,
+            "stars": 83503,
+            "stars_today": 83503,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-09T06:34:06Z",
+    "updated": "2026-08-09T09:26:18Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-09T06:34:06Z",
+    "updated": "2026-08-09T09:26:18Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-09T06:34:06Z",
+    "updated": "2026-08-09T09:26:18Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "The original URL for this prediction will no longer be available in 11 years (2011)",
-            "insight": "HN 热议：90 分 · 15 评论",
+            "title": "Melatonin impairs morning cognition in healthy young adults (2023)",
+            "insight": "HN 热议：119 分 · 83 评论",
             "sentiment": "neutral",
-            "comments": 15,
-            "url": "http://longbets.org/601/",
+            "comments": 83,
+            "url": "https://academic.oup.com/sleep/article/46/Supplement_1/A34/7181621",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Melatonin impairs morning cognition in healthy young adults",
-            "insight": "HN 热议：59 分 · 21 评论",
-            "sentiment": "neutral",
-            "comments": 21,
-            "url": "https://academic.oup.com/sleep/article/46/Supplement_1/A34/7181621",
+            "title": "Fastmail offers EU data region",
+            "insight": "HN 热议：411 分 · 209 评论",
+            "sentiment": "positive",
+            "comments": 209,
+            "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Fastmail offers EU data region",
-            "insight": "HN 热议：368 分 · 184 评论",
-            "sentiment": "positive",
-            "comments": 184,
-            "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
+            "title": "The original URL for this prediction will no longer be available in 11 years (2011)",
+            "insight": "HN 热议：140 分 · 57 评论",
+            "sentiment": "neutral",
+            "comments": 57,
+            "url": "http://longbets.org/601/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
-            "insight": "HN 热议：7 分 · 0 评论",
+            "title": "Message your other Claude Code sessions",
+            "insight": "HN 热议：126 分 · 53 评论",
             "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://marketnow.site/",
+            "comments": 53,
+            "url": "https://code.claude.com/docs/en/cross-session-messaging",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
-            "insight": "HN 热议：266 分 · 190 评论",
-            "sentiment": "positive",
-            "comments": 190,
-            "url": "https://twitter.com/un1c0rnioz/status/2084686552299634805",
+            "title": "Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
+            "insight": "HN 热议：8 分 · 3 评论",
+            "sentiment": "neutral",
+            "comments": 3,
+            "url": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-09T06:34:06Z",
+    "updated": "2026-08-09T09:26:18Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
