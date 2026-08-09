@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-09T12:22:24Z",
+  "updated": "2026-08-09T15:18:40Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Fastmail offers EU data region",
-      "insight": "HN 热议：444 分 · 237 评论",
+      "insight": "HN 热议：468 分 · 273 评论",
       "sentiment": "positive",
-      "comments": 237,
+      "comments": 273,
       "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "The original URL for this prediction will no longer be available in 11 years (2011)",
-      "insight": "HN 热议：161 分 · 72 评论",
+      "insight": "HN 热议：179 分 · 85 评论",
       "sentiment": "neutral",
-      "comments": 72,
+      "comments": 85,
       "url": "http://longbets.org/601/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Melatonin impairs morning cognition in healthy young adults (2023)",
-      "insight": "HN 热议：146 分 · 139 评论",
+      "title": "70% of AI revenue comes from OpenAI and Anthropic",
+      "insight": "HN 热议：29 分 · 4 评论",
       "sentiment": "neutral",
-      "comments": 139,
-      "url": "https://academic.oup.com/sleep/article/46/Supplement_1/A34/7181621",
+      "comments": 4,
+      "url": "https://www.youtube.com/watch?v=68X8yEatepQ",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "Show HN: Airy – Free, fast, and simple voice content creation",
-      "insight": "HN 热议：5 分 · 3 评论",
+      "insight": "HN 热议：14 分 · 9 评论",
       "sentiment": "neutral",
-      "comments": 3,
+      "comments": 9,
       "url": "https://airy.so",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
-      "insight": "HN 热议：45 分 · 20 评论",
+      "title": "Switching to electric stoves can dramatically cut indoor air pollution",
+      "insight": "HN 热议：34 分 · 44 评论",
       "sentiment": "neutral",
-      "comments": 20,
-      "url": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/",
+      "comments": 44,
+      "url": "https://news.stanford.edu/stories/2025/12/gas-propane-stoves-nitrogen-dioxide-exposure-health-risks-switching-electric",
       "id": 5
     }
   ]

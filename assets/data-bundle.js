@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-09T12:22:24Z",
+    "updated": "2026-08-09T15:18:40Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-09T12:22:24Z",
+    "updated": "2026-08-09T15:18:40Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-09T12:22:24Z",
+    "updated": "2026-08-09T15:18:40Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 186450,
-            "stars_today": 186450,
+            "stars": 186454,
+            "stars_today": 186454,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 166914,
-            "stars_today": 166914,
+            "stars": 166917,
+            "stars_today": 166917,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 101770,
-            "stars_today": 101770,
+            "stars": 101882,
+            "stars_today": 101882,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95830,
-            "stars_today": 95830,
+            "stars": 95831,
+            "stars_today": 95831,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 90146,
-            "stars_today": 90146,
+            "stars": 90166,
+            "stars_today": 90166,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 83512,
-            "stars_today": 83512,
+            "stars": 83525,
+            "stars_today": 83525,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-09T12:22:24Z",
+    "updated": "2026-08-09T15:18:40Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-09T12:22:24Z",
+    "updated": "2026-08-09T15:18:40Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-09T12:22:24Z",
+    "updated": "2026-08-09T15:18:40Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Fastmail offers EU data region",
-            "insight": "HN 热议：444 分 · 237 评论",
+            "insight": "HN 热议：468 分 · 273 评论",
             "sentiment": "positive",
-            "comments": 237,
+            "comments": 273,
             "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "The original URL for this prediction will no longer be available in 11 years (2011)",
-            "insight": "HN 热议：161 分 · 72 评论",
+            "insight": "HN 热议：179 分 · 85 评论",
             "sentiment": "neutral",
-            "comments": 72,
+            "comments": 85,
             "url": "http://longbets.org/601/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Melatonin impairs morning cognition in healthy young adults (2023)",
-            "insight": "HN 热议：146 分 · 139 评论",
+            "title": "70% of AI revenue comes from OpenAI and Anthropic",
+            "insight": "HN 热议：29 分 · 4 评论",
             "sentiment": "neutral",
-            "comments": 139,
-            "url": "https://academic.oup.com/sleep/article/46/Supplement_1/A34/7181621",
+            "comments": 4,
+            "url": "https://www.youtube.com/watch?v=68X8yEatepQ",
             "id": 3
         },
         {
             "source": "HackerNews",
             "title": "Show HN: Airy – Free, fast, and simple voice content creation",
-            "insight": "HN 热议：5 分 · 3 评论",
+            "insight": "HN 热议：14 分 · 9 评论",
             "sentiment": "neutral",
-            "comments": 3,
+            "comments": 9,
             "url": "https://airy.so",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
-            "insight": "HN 热议：45 分 · 20 评论",
+            "title": "Switching to electric stoves can dramatically cut indoor air pollution",
+            "insight": "HN 热议：34 分 · 44 评论",
             "sentiment": "neutral",
-            "comments": 20,
-            "url": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/",
+            "comments": 44,
+            "url": "https://news.stanford.edu/stories/2025/12/gas-propane-stoves-nitrogen-dioxide-exposure-health-risks-switching-electric",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-09T12:22:24Z",
+    "updated": "2026-08-09T15:18:40Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
