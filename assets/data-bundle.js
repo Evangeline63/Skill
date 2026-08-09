@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-08T21:17:40Z",
+    "updated": "2026-08-09T00:44:10Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-08T21:17:40Z",
+    "updated": "2026-08-09T00:44:10Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-08T21:17:40Z",
+    "updated": "2026-08-09T00:44:10Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 186441,
-            "stars_today": 186441,
+            "stars": 186438,
+            "stars_today": 186438,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 166894,
-            "stars_today": 166894,
+            "stars": 166897,
+            "stars_today": 166897,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 101396,
-            "stars_today": 101396,
+            "stars": 101456,
+            "stars_today": 101456,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95822,
-            "stars_today": 95822,
+            "stars": 95823,
+            "stars_today": 95823,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 90099,
-            "stars_today": 90099,
+            "stars": 90104,
+            "stars_today": 90104,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 83484,
-            "stars_today": 83484,
+            "stars": 83488,
+            "stars_today": 83488,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-08T21:17:40Z",
+    "updated": "2026-08-09T00:44:10Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-08T21:17:40Z",
+    "updated": "2026-08-09T00:44:10Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-08T21:17:40Z",
+    "updated": "2026-08-09T00:44:10Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
-            "insight": "HN 热议：324 分 · 159 评论",
+            "title": "Fastmail offers EU data region",
+            "insight": "HN 热议：310 分 · 140 评论",
             "sentiment": "positive",
-            "comments": 159,
-            "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/",
+            "comments": 140,
+            "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Fastmail offers EU data region",
-            "insight": "HN 热议：237 分 · 110 评论",
+            "title": "Timeline of the OpenAI accidental attack against Hugging Face",
+            "insight": "HN 热议：320 分 · 332 评论",
             "sentiment": "positive",
-            "comments": 110,
-            "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
+            "comments": 332,
+            "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "A domain can now say it is for sale, in DNS",
-            "insight": "HN 热议：278 分 · 120 评论",
-            "sentiment": "positive",
-            "comments": 120,
-            "url": "https://specification.website/spec/foundations/for-sale-dns/",
+            "title": "TinySol, a tiny solitaire game for DOS",
+            "insight": "HN 热议：43 分 · 11 评论",
+            "sentiment": "neutral",
+            "comments": 11,
+            "url": "https://classicbits.net/coding-and-software/my-software/monosol/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Timeline of the OpenAI accidental attack against Hugging Face",
-            "insight": "HN 热议：267 分 · 280 评论",
+            "title": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
+            "insight": "HN 热议：211 分 · 155 评论",
             "sentiment": "positive",
-            "comments": 280,
-            "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
+            "comments": 155,
+            "url": "https://twitter.com/un1c0rnioz/status/2084686552299634805",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "TinySol, a tiny solitaire game for DOS",
-            "insight": "HN 热议：22 分 · 5 评论",
+            "title": "Message your other Claude Code sessions",
+            "insight": "HN 热议：52 分 · 26 评论",
             "sentiment": "neutral",
-            "comments": 5,
-            "url": "https://classicbits.net/coding-and-software/my-software/monosol/",
+            "comments": 26,
+            "url": "https://code.claude.com/docs/en/cross-session-messaging",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-08T21:17:40Z",
+    "updated": "2026-08-09T00:44:10Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
