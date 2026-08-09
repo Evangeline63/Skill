@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-09T00:44:10Z",
+    "updated": "2026-08-09T04:07:35Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-09T00:44:10Z",
+    "updated": "2026-08-09T04:07:35Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-09T00:44:10Z",
+    "updated": "2026-08-09T04:07:35Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 186438,
-            "stars_today": 186438,
+            "stars": 186442,
+            "stars_today": 186442,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 166897,
-            "stars_today": 166897,
+            "stars": 166903,
+            "stars_today": 166903,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 101456,
-            "stars_today": 101456,
+            "stars": 101520,
+            "stars_today": 101520,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95823,
-            "stars_today": 95823,
+            "stars": 95822,
+            "stars_today": 95822,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 90104,
-            "stars_today": 90104,
+            "stars": 90115,
+            "stars_today": 90115,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 83488,
-            "stars_today": 83488,
+            "stars": 83494,
+            "stars_today": 83494,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-09T00:44:10Z",
+    "updated": "2026-08-09T04:07:35Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-09T00:44:10Z",
+    "updated": "2026-08-09T04:07:35Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-09T00:44:10Z",
+    "updated": "2026-08-09T04:07:35Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Fastmail offers EU data region",
-            "insight": "HN 热议：310 分 · 140 评论",
+            "insight": "HN 热议：340 分 · 169 评论",
             "sentiment": "positive",
-            "comments": 140,
+            "comments": 169,
             "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "Timeline of the OpenAI accidental attack against Hugging Face",
-            "insight": "HN 热议：320 分 · 332 评论",
+            "insight": "HN 热议：365 分 · 360 评论",
             "sentiment": "positive",
-            "comments": 332,
+            "comments": 360,
             "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "TinySol, a tiny solitaire game for DOS",
-            "insight": "HN 热议：43 分 · 11 评论",
+            "title": "ChatGPT starts blocking direct requests to copy an author's style",
+            "insight": "HN 热议：19 分 · 5 评论",
             "sentiment": "neutral",
-            "comments": 11,
-            "url": "https://classicbits.net/coding-and-software/my-software/monosol/",
+            "comments": 5,
+            "url": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
             "id": 3
         },
         {
             "source": "HackerNews",
             "title": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
-            "insight": "HN 热议：211 分 · 155 评论",
+            "insight": "HN 热议：240 分 · 177 评论",
             "sentiment": "positive",
-            "comments": 155,
+            "comments": 177,
             "url": "https://twitter.com/un1c0rnioz/status/2084686552299634805",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Message your other Claude Code sessions",
-            "insight": "HN 热议：52 分 · 26 评论",
+            "title": "TinySol, a tiny solitaire game for DOS",
+            "insight": "HN 热议：51 分 · 14 评论",
             "sentiment": "neutral",
-            "comments": 26,
-            "url": "https://code.claude.com/docs/en/cross-session-messaging",
+            "comments": 14,
+            "url": "https://classicbits.net/coding-and-software/my-software/monosol/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-09T00:44:10Z",
+    "updated": "2026-08-09T04:07:35Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
