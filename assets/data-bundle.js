@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-09T18:20:49Z",
+    "updated": "2026-08-09T21:19:23Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-09T18:20:49Z",
+    "updated": "2026-08-09T21:19:23Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-09T18:20:49Z",
+    "updated": "2026-08-09T21:19:23Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 186456,
-            "stars_today": 186456,
+            "stars": 186458,
+            "stars_today": 186458,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 166921,
-            "stars_today": 166921,
+            "stars": 166924,
+            "stars_today": 166924,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 101956,
-            "stars_today": 101956,
+            "stars": 102004,
+            "stars_today": 102004,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95834,
-            "stars_today": 95834,
+            "stars": 95835,
+            "stars_today": 95835,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 90188,
-            "stars_today": 90188,
+            "stars": 90198,
+            "stars_today": 90198,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 83539,
-            "stars_today": 83539,
+            "stars": 83545,
+            "stars_today": 83545,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-09T18:20:49Z",
+    "updated": "2026-08-09T21:19:23Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-09T18:20:49Z",
+    "updated": "2026-08-09T21:19:23Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-09T18:20:49Z",
+    "updated": "2026-08-09T21:19:23Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "OpenChamber: An Agentic Development Environment",
-            "insight": "HN 热议：13 分 · 4 评论",
+            "title": "How I use LLMs to learn complex topics",
+            "insight": "HN 热议：166 分 · 90 评论",
             "sentiment": "neutral",
-            "comments": 4,
-            "url": "https://openchamber.dev/",
+            "comments": 90,
+            "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Human vs. AI – Diff-based line-level provenance for text under agentic editing",
-            "insight": "HN 热议：18 分 · 1 评论",
+            "title": "The tragedy of the commons, AI edition",
+            "insight": "HN 热议：19 分 · 2 评论",
             "sentiment": "neutral",
-            "comments": 1,
-            "url": "https://github.com/eighttrigrams/us-vs-them",
+            "comments": 2,
+            "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: A replayable A2A jury for tracing how agents influence decisions",
-            "insight": "HN 热议：4 分 · 0 评论",
+            "title": "The Hacker's Renaissance",
+            "insight": "HN 热议：6 分 · 0 评论",
             "sentiment": "neutral",
             "comments": 0,
-            "url": "https://github.com/nMaroulis/protolink/tree/main/examples/ai_courtroom",
+            "url": "https://phrack.org/issues/72/19#article",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "An OpenAI Strategist Says AI Labs Should Rival Government Power",
-            "insight": "HN 热议：9 分 · 5 评论",
+            "title": "I've yet to see any\"My AI went rogue and caused us to recognise a workers union",
+            "insight": "HN 热议：4 分 · 0 评论",
             "sentiment": "neutral",
-            "comments": 5,
-            "url": "https://ai-updates.net/an-openai-strategist-says-ai-labs-should-rival-government-power/",
+            "comments": 0,
+            "url": "https://mastodon.neilzone.co.uk/@neil/117061512483182546",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "UnYOLO: Agent credential broker and policy engine for your GitHub account",
-            "insight": "HN 热议：3 分 · 0 评论",
+            "title": "OpenChamber: An Agentic Development Environment",
+            "insight": "HN 热议：70 分 · 42 评论",
             "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://unyolo.io/",
+            "comments": 42,
+            "url": "https://openchamber.dev/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-09T18:20:49Z",
+    "updated": "2026-08-09T21:19:23Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
