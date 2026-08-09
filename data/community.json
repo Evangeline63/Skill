@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-09T04:07:35Z",
+  "updated": "2026-08-09T06:34:06Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Fastmail offers EU data region",
-      "insight": "HN 热议：340 分 · 169 评论",
-      "sentiment": "positive",
-      "comments": 169,
-      "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
+      "title": "The original URL for this prediction will no longer be available in 11 years (2011)",
+      "insight": "HN 热议：90 分 · 15 评论",
+      "sentiment": "neutral",
+      "comments": 15,
+      "url": "http://longbets.org/601/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Timeline of the OpenAI accidental attack against Hugging Face",
-      "insight": "HN 热议：365 分 · 360 评论",
-      "sentiment": "positive",
-      "comments": 360,
-      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
+      "title": "Melatonin impairs morning cognition in healthy young adults",
+      "insight": "HN 热议：59 分 · 21 评论",
+      "sentiment": "neutral",
+      "comments": 21,
+      "url": "https://academic.oup.com/sleep/article/46/Supplement_1/A34/7181621",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "ChatGPT starts blocking direct requests to copy an author's style",
-      "insight": "HN 热议：19 分 · 5 评论",
-      "sentiment": "neutral",
-      "comments": 5,
-      "url": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
+      "title": "Fastmail offers EU data region",
+      "insight": "HN 热议：368 分 · 184 评论",
+      "sentiment": "positive",
+      "comments": 184,
+      "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
-      "insight": "HN 热议：240 分 · 177 评论",
-      "sentiment": "positive",
-      "comments": 177,
-      "url": "https://twitter.com/un1c0rnioz/status/2084686552299634805",
+      "title": "Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
+      "insight": "HN 热议：7 分 · 0 评论",
+      "sentiment": "neutral",
+      "comments": 0,
+      "url": "https://marketnow.site/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "TinySol, a tiny solitaire game for DOS",
-      "insight": "HN 热议：51 分 · 14 评论",
-      "sentiment": "neutral",
-      "comments": 14,
-      "url": "https://classicbits.net/coding-and-software/my-software/monosol/",
+      "title": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
+      "insight": "HN 热议：266 分 · 190 评论",
+      "sentiment": "positive",
+      "comments": 190,
+      "url": "https://twitter.com/un1c0rnioz/status/2084686552299634805",
       "id": 5
     }
   ]
