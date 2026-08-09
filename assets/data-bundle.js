@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-09T15:18:40Z",
+    "updated": "2026-08-09T18:20:49Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-09T15:18:40Z",
+    "updated": "2026-08-09T18:20:49Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-09T15:18:40Z",
+    "updated": "2026-08-09T18:20:49Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 186454,
-            "stars_today": 186454,
+            "stars": 186456,
+            "stars_today": 186456,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 166917,
-            "stars_today": 166917,
+            "stars": 166921,
+            "stars_today": 166921,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 101882,
-            "stars_today": 101882,
+            "stars": 101956,
+            "stars_today": 101956,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95831,
-            "stars_today": 95831,
+            "stars": 95834,
+            "stars_today": 95834,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 90166,
-            "stars_today": 90166,
+            "stars": 90188,
+            "stars_today": 90188,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 83525,
-            "stars_today": 83525,
+            "stars": 83539,
+            "stars_today": 83539,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-09T15:18:40Z",
+    "updated": "2026-08-09T18:20:49Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-09T15:18:40Z",
+    "updated": "2026-08-09T18:20:49Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-09T15:18:40Z",
+    "updated": "2026-08-09T18:20:49Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Fastmail offers EU data region",
-            "insight": "HN 热议：468 分 · 273 评论",
-            "sentiment": "positive",
-            "comments": 273,
-            "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
+            "title": "OpenChamber: An Agentic Development Environment",
+            "insight": "HN 热议：13 分 · 4 评论",
+            "sentiment": "neutral",
+            "comments": 4,
+            "url": "https://openchamber.dev/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "The original URL for this prediction will no longer be available in 11 years (2011)",
-            "insight": "HN 热议：179 分 · 85 评论",
+            "title": "Human vs. AI – Diff-based line-level provenance for text under agentic editing",
+            "insight": "HN 热议：18 分 · 1 评论",
             "sentiment": "neutral",
-            "comments": 85,
-            "url": "http://longbets.org/601/",
+            "comments": 1,
+            "url": "https://github.com/eighttrigrams/us-vs-them",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "70% of AI revenue comes from OpenAI and Anthropic",
-            "insight": "HN 热议：29 分 · 4 评论",
+            "title": "Show HN: A replayable A2A jury for tracing how agents influence decisions",
+            "insight": "HN 热议：4 分 · 0 评论",
             "sentiment": "neutral",
-            "comments": 4,
-            "url": "https://www.youtube.com/watch?v=68X8yEatepQ",
+            "comments": 0,
+            "url": "https://github.com/nMaroulis/protolink/tree/main/examples/ai_courtroom",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Airy – Free, fast, and simple voice content creation",
-            "insight": "HN 热议：14 分 · 9 评论",
+            "title": "An OpenAI Strategist Says AI Labs Should Rival Government Power",
+            "insight": "HN 热议：9 分 · 5 评论",
             "sentiment": "neutral",
-            "comments": 9,
-            "url": "https://airy.so",
+            "comments": 5,
+            "url": "https://ai-updates.net/an-openai-strategist-says-ai-labs-should-rival-government-power/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Switching to electric stoves can dramatically cut indoor air pollution",
-            "insight": "HN 热议：34 分 · 44 评论",
+            "title": "UnYOLO: Agent credential broker and policy engine for your GitHub account",
+            "insight": "HN 热议：3 分 · 0 评论",
             "sentiment": "neutral",
-            "comments": 44,
-            "url": "https://news.stanford.edu/stories/2025/12/gas-propane-stoves-nitrogen-dioxide-exposure-health-risks-switching-electric",
+            "comments": 0,
+            "url": "https://unyolo.io/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-09T15:18:40Z",
+    "updated": "2026-08-09T18:20:49Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
