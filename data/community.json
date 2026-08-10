@@ -1,48 +1,48 @@
 {
-  "updated": "2026-08-10T00:45:28Z",
+  "updated": "2026-08-10T04:19:57Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "How I use LLMs to learn complex topics",
-      "insight": "HN 热议：362 分 · 202 评论",
+      "insight": "HN 热议：497 分 · 283 评论",
       "sentiment": "positive",
-      "comments": 202,
+      "comments": 283,
       "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "The tragedy of the commons, AI edition",
-      "insight": "HN 热议：68 分 · 32 评论",
+      "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
+      "insight": "HN 热议：4 分 · 0 评论",
       "sentiment": "neutral",
-      "comments": 32,
-      "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
+      "comments": 0,
+      "url": "https://www.whodunnitai.com/",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "Tuxedo No. 2 – Cocktail recipes",
-      "insight": "HN 热议：32 分 · 9 评论",
+      "insight": "HN 热议：66 分 · 16 评论",
       "sentiment": "neutral",
-      "comments": 9,
+      "comments": 16,
       "url": "https://tuxedono2.com",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "The Hacker's Renaissance",
-      "insight": "HN 热议：89 分 · 57 评论",
+      "title": "The tragedy of the commons, AI edition",
+      "insight": "HN 热议：88 分 · 53 评论",
       "sentiment": "neutral",
-      "comments": 57,
-      "url": "https://phrack.org/issues/72/19#article",
+      "comments": 53,
+      "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
       "id": 4
     },
     {
       "source": "HackerNews",
       "title": "OpenChamber: An Agentic Development Environment",
-      "insight": "HN 热议：100 分 · 53 评论",
+      "insight": "HN 热议：121 分 · 67 评论",
       "sentiment": "neutral",
-      "comments": 53,
+      "comments": 67,
       "url": "https://openchamber.dev/",
       "id": 5
     }
