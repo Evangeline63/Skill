@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-10T07:03:48Z",
+    "updated": "2026-08-10T10:06:28Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-10T07:03:48Z",
+    "updated": "2026-08-10T10:06:28Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-10T07:03:48Z",
+    "updated": "2026-08-10T10:06:28Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 186474,
-            "stars_today": 186474,
+            "stars": 186483,
+            "stars_today": 186483,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 166941,
-            "stars_today": 166941,
+            "stars": 166948,
+            "stars_today": 166948,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 102130,
-            "stars_today": 102130,
+            "stars": 102179,
+            "stars_today": 102179,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95838,
-            "stars_today": 95838,
+            "stars": 95839,
+            "stars_today": 95839,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 90251,
-            "stars_today": 90251,
+            "stars": 90274,
+            "stars_today": 90274,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 83581,
-            "stars_today": 83581,
+            "stars": 83601,
+            "stars_today": 83601,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-10T07:03:48Z",
+    "updated": "2026-08-10T10:06:28Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-10T07:03:48Z",
+    "updated": "2026-08-10T10:06:28Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-10T07:03:48Z",
+    "updated": "2026-08-10T10:06:28Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
-            "insight": "HN 热议：58 分 · 28 评论",
-            "sentiment": "neutral",
-            "comments": 28,
+            "insight": "HN 热议：206 分 · 135 评论",
+            "sentiment": "positive",
+            "comments": 135,
             "url": "https://www.docker.com/products/docker-sandboxes/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Auto mode is now the default in Claude Code",
-            "insight": "HN 热议：147 分 · 124 评论",
+            "title": "Tail-Call Interpreters in Rust – Jimmy Ostler",
+            "insight": "HN 热议：15 分 · 1 评论",
             "sentiment": "neutral",
-            "comments": 124,
-            "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
+            "comments": 1,
+            "url": "https://lordgoati.us/blog/tail-call/",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
-            "insight": "HN 热议：53 分 · 16 评论",
+            "insight": "HN 热议：88 分 · 29 评论",
             "sentiment": "neutral",
-            "comments": 16,
+            "comments": 29,
             "url": "https://www.whodunnitai.com/",
             "id": 3
         },
         {
             "source": "HackerNews",
             "title": "How I use LLMs to learn complex topics",
-            "insight": "HN 热议：585 分 · 334 评论",
+            "insight": "HN 热议：639 分 · 391 评论",
             "sentiment": "positive",
-            "comments": 334,
+            "comments": 391,
             "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "The Philippines' big offshoring industry is growing despite AI",
-            "insight": "HN 热议：17 分 · 12 评论",
-            "sentiment": "neutral",
-            "comments": 12,
-            "url": "https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai",
+            "title": "Auto mode is now the default in Claude Code",
+            "insight": "HN 热议：212 分 · 215 评论",
+            "sentiment": "positive",
+            "comments": 215,
+            "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-10T07:03:48Z",
+    "updated": "2026-08-10T10:06:28Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
