@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-10T12:38:46Z",
+  "updated": "2026-08-10T15:46:08Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Because It's Not Fun Enough: why languages fail",
-      "insight": "HN 热议：29 分 · 9 评论",
+      "title": "OpenAI's letter to Governor Abbott on responsible AI infrastructure in Texas",
+      "insight": "HN 热议：45 分 · 35 评论",
       "sentiment": "neutral",
-      "comments": 9,
-      "url": "https://bytecode.news/posts/2026/08/because-it-s-not-fun-enough",
+      "comments": 35,
+      "url": "https://openai.com/index/responsible-ai-infrastructure-texas/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Tail-call optimization in C is relatively recent",
-      "insight": "HN 热议：24 分 · 6 评论",
-      "sentiment": "neutral",
-      "comments": 6,
-      "url": "https://lwn.net/Articles/1034703/",
+      "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+      "insight": "HN 热议：434 分 · 270 评论",
+      "sentiment": "positive",
+      "comments": 270,
+      "url": "https://www.docker.com/products/docker-sandboxes/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
-      "insight": "HN 热议：315 分 · 180 评论",
-      "sentiment": "positive",
-      "comments": 180,
-      "url": "https://www.docker.com/products/docker-sandboxes/",
+      "title": "Mistral Patent for \"Code implemented tool calls\"",
+      "insight": "HN 热议：97 分 · 89 评论",
+      "sentiment": "neutral",
+      "comments": 89,
+      "url": "https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Tail-Call Interpreters in Rust – Jimmy Ostler",
-      "insight": "HN 热议：44 分 · 14 评论",
+      "title": "Tail-call optimization in C is relatively recent",
+      "insight": "HN 热议：71 分 · 37 评论",
       "sentiment": "neutral",
-      "comments": 14,
-      "url": "https://lordgoati.us/blog/tail-call/",
+      "comments": 37,
+      "url": "https://lwn.net/Articles/1034703/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
-      "insight": "HN 热议：120 分 · 52 评论",
-      "sentiment": "neutral",
-      "comments": 52,
-      "url": "https://www.whodunnitai.com/",
+      "title": "Over 181,000 AI meeting recordings left wide open in note taking app",
+      "insight": "HN 热议：255 分 · 91 评论",
+      "sentiment": "positive",
+      "comments": 91,
+      "url": "https://bobdahacker.com/blog/tldv-hack",
       "id": 5
     }
   ]
