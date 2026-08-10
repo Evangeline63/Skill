@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-10T15:46:08Z",
+    "updated": "2026-08-10T18:38:55Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-10T15:46:08Z",
+    "updated": "2026-08-10T18:38:55Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-10T15:46:08Z",
+    "updated": "2026-08-10T18:38:55Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 186493,
-            "stars_today": 186493,
+            "stars": 186497,
+            "stars_today": 186497,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 166963,
-            "stars_today": 166963,
+            "stars": 166964,
+            "stars_today": 166964,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 102250,
-            "stars_today": 102250,
+            "stars": 102265,
+            "stars_today": 102265,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95842,
-            "stars_today": 95842,
+            "stars": 95848,
+            "stars_today": 95848,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 90302,
-            "stars_today": 90302,
+            "stars": 90315,
+            "stars_today": 90315,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 83615,
-            "stars_today": 83615,
+            "stars": 83630,
+            "stars_today": 83630,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-10T15:46:08Z",
+    "updated": "2026-08-10T18:38:55Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-10T15:46:08Z",
+    "updated": "2026-08-10T18:38:55Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-10T15:46:08Z",
+    "updated": "2026-08-10T18:38:55Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "OpenAI's letter to Governor Abbott on responsible AI infrastructure in Texas",
-            "insight": "HN 热议：45 分 · 35 评论",
-            "sentiment": "neutral",
-            "comments": 35,
-            "url": "https://openai.com/index/responsible-ai-infrastructure-texas/",
+            "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
+            "insight": "HN 热议：798 分 · 450 评论",
+            "sentiment": "positive",
+            "comments": 450,
+            "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
-            "insight": "HN 热议：434 分 · 270 评论",
-            "sentiment": "positive",
-            "comments": 270,
-            "url": "https://www.docker.com/products/docker-sandboxes/",
+            "title": "Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers",
+            "insight": "HN 热议：35 分 · 13 评论",
+            "sentiment": "neutral",
+            "comments": 13,
+            "url": "https://www.stoaexchange.com",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Mistral Patent for \"Code implemented tool calls\"",
-            "insight": "HN 热议：97 分 · 89 评论",
+            "title": "Show HN: Ante, a coding agent in a single binary that runs offline",
+            "insight": "HN 热议：75 分 · 50 评论",
             "sentiment": "neutral",
-            "comments": 89,
-            "url": "https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html",
+            "comments": 50,
+            "url": "https://github.com/AntigmaLabs/ante",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Tail-call optimization in C is relatively recent",
-            "insight": "HN 热议：71 分 · 37 评论",
+            "title": "Learning more about Claude's mathematical capabilities",
+            "insight": "HN 热议：51 分 · 15 评论",
             "sentiment": "neutral",
-            "comments": 37,
-            "url": "https://lwn.net/Articles/1034703/",
+            "comments": 15,
+            "url": "https://www.anthropic.com/research/riemann-zeta",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Over 181,000 AI meeting recordings left wide open in note taking app",
-            "insight": "HN 热议：255 分 · 91 评论",
-            "sentiment": "positive",
-            "comments": 91,
-            "url": "https://bobdahacker.com/blog/tldv-hack",
+            "title": "The Tragedy of the Cognitive Commons",
+            "insight": "HN 热议：39 分 · 17 评论",
+            "sentiment": "neutral",
+            "comments": 17,
+            "url": "https://arxiv.org/abs/2607.29380",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-10T15:46:08Z",
+    "updated": "2026-08-10T18:38:55Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
