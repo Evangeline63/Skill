@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-10T10:06:28Z",
+    "updated": "2026-08-10T12:38:46Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-10T10:06:28Z",
+    "updated": "2026-08-10T12:38:46Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-10T10:06:28Z",
+    "updated": "2026-08-10T12:38:46Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 186483,
-            "stars_today": 186483,
+            "stars": 186486,
+            "stars_today": 186486,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 166948,
-            "stars_today": 166948,
+            "stars": 166955,
+            "stars_today": 166955,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 102179,
-            "stars_today": 102179,
+            "stars": 102215,
+            "stars_today": 102215,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95839,
-            "stars_today": 95839,
+            "stars": 95840,
+            "stars_today": 95840,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 90274,
-            "stars_today": 90274,
+            "stars": 90284,
+            "stars_today": 90284,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 83601,
-            "stars_today": 83601,
+            "stars": 83614,
+            "stars_today": 83614,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-10T10:06:28Z",
+    "updated": "2026-08-10T12:38:46Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-10T10:06:28Z",
+    "updated": "2026-08-10T12:38:46Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-10T10:06:28Z",
+    "updated": "2026-08-10T12:38:46Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
-            "insight": "HN 热议：206 分 · 135 评论",
-            "sentiment": "positive",
-            "comments": 135,
-            "url": "https://www.docker.com/products/docker-sandboxes/",
+            "title": "Because It's Not Fun Enough: why languages fail",
+            "insight": "HN 热议：29 分 · 9 评论",
+            "sentiment": "neutral",
+            "comments": 9,
+            "url": "https://bytecode.news/posts/2026/08/because-it-s-not-fun-enough",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Tail-Call Interpreters in Rust – Jimmy Ostler",
-            "insight": "HN 热议：15 分 · 1 评论",
+            "title": "Tail-call optimization in C is relatively recent",
+            "insight": "HN 热议：24 分 · 6 评论",
             "sentiment": "neutral",
-            "comments": 1,
-            "url": "https://lordgoati.us/blog/tail-call/",
+            "comments": 6,
+            "url": "https://lwn.net/Articles/1034703/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
-            "insight": "HN 热议：88 分 · 29 评论",
-            "sentiment": "neutral",
-            "comments": 29,
-            "url": "https://www.whodunnitai.com/",
+            "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+            "insight": "HN 热议：315 分 · 180 评论",
+            "sentiment": "positive",
+            "comments": 180,
+            "url": "https://www.docker.com/products/docker-sandboxes/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "How I use LLMs to learn complex topics",
-            "insight": "HN 热议：639 分 · 391 评论",
-            "sentiment": "positive",
-            "comments": 391,
-            "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
+            "title": "Tail-Call Interpreters in Rust – Jimmy Ostler",
+            "insight": "HN 热议：44 分 · 14 评论",
+            "sentiment": "neutral",
+            "comments": 14,
+            "url": "https://lordgoati.us/blog/tail-call/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Auto mode is now the default in Claude Code",
-            "insight": "HN 热议：212 分 · 215 评论",
-            "sentiment": "positive",
-            "comments": 215,
-            "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
+            "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
+            "insight": "HN 热议：120 分 · 52 评论",
+            "sentiment": "neutral",
+            "comments": 52,
+            "url": "https://www.whodunnitai.com/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-10T10:06:28Z",
+    "updated": "2026-08-10T12:38:46Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
