@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-10T04:19:57Z",
+  "updated": "2026-08-10T07:03:48Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "How I use LLMs to learn complex topics",
-      "insight": "HN 热议：497 分 · 283 评论",
-      "sentiment": "positive",
-      "comments": 283,
-      "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
+      "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+      "insight": "HN 热议：58 分 · 28 评论",
+      "sentiment": "neutral",
+      "comments": 28,
+      "url": "https://www.docker.com/products/docker-sandboxes/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
-      "insight": "HN 热议：4 分 · 0 评论",
+      "title": "Auto mode is now the default in Claude Code",
+      "insight": "HN 热议：147 分 · 124 评论",
       "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://www.whodunnitai.com/",
+      "comments": 124,
+      "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Tuxedo No. 2 – Cocktail recipes",
-      "insight": "HN 热议：66 分 · 16 评论",
+      "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
+      "insight": "HN 热议：53 分 · 16 评论",
       "sentiment": "neutral",
       "comments": 16,
-      "url": "https://tuxedono2.com",
+      "url": "https://www.whodunnitai.com/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "The tragedy of the commons, AI edition",
-      "insight": "HN 热议：88 分 · 53 评论",
-      "sentiment": "neutral",
-      "comments": 53,
-      "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
+      "title": "How I use LLMs to learn complex topics",
+      "insight": "HN 热议：585 分 · 334 评论",
+      "sentiment": "positive",
+      "comments": 334,
+      "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "OpenChamber: An Agentic Development Environment",
-      "insight": "HN 热议：121 分 · 67 评论",
+      "title": "The Philippines' big offshoring industry is growing despite AI",
+      "insight": "HN 热议：17 分 · 12 评论",
       "sentiment": "neutral",
-      "comments": 67,
-      "url": "https://openchamber.dev/",
+      "comments": 12,
+      "url": "https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai",
       "id": 5
     }
   ]
