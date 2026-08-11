@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-11T12:36:03Z",
+    "updated": "2026-08-11T15:46:06Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-11T12:36:03Z",
+    "updated": "2026-08-11T15:46:06Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-11T12:36:03Z",
+    "updated": "2026-08-11T15:46:06Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 186518,
-            "stars_today": 186518,
+            "stars": 186521,
+            "stars_today": 186521,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 166995,
-            "stars_today": 166995,
+            "stars": 166999,
+            "stars_today": 166999,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 102388,
-            "stars_today": 102388,
+            "stars": 102400,
+            "stars_today": 102400,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95862,
-            "stars_today": 95862,
+            "stars": 95868,
+            "stars_today": 95868,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 90384,
-            "stars_today": 90384,
+            "stars": 90411,
+            "stars_today": 90411,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 83695,
-            "stars_today": 83695,
+            "stars": 83718,
+            "stars_today": 83718,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-11T12:36:03Z",
+    "updated": "2026-08-11T15:46:06Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-11T12:36:03Z",
+    "updated": "2026-08-11T15:46:06Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-11T12:36:03Z",
+    "updated": "2026-08-11T15:46:06Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "As AI eats the web, the internet’s collective memory is disappearing",
-            "insight": "HN 热议：419 分 · 496 评论",
-            "sentiment": "positive",
-            "comments": 496,
-            "url": "https://thewalrus.ca/google-search-is-dying/",
+            "title": "Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
+            "insight": "HN 热议：49 分 · 17 评论",
+            "sentiment": "neutral",
+            "comments": 17,
+            "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
-            "insight": "HN 热议：378 分 · 139 评论",
-            "sentiment": "positive",
-            "comments": 139,
-            "url": "https://cactuscompute.com/needle",
+            "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+            "insight": "HN 热议：82 分 · 27 评论",
+            "sentiment": "neutral",
+            "comments": 27,
+            "url": "https://stolen-thoughts.com/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
-            "insight": "HN 热议：547 分 · 496 评论",
+            "title": "As AI eats the web, the internet’s collective memory is disappearing",
+            "insight": "HN 热议：625 分 · 694 评论",
             "sentiment": "positive",
-            "comments": 496,
-            "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
+            "comments": 694,
+            "url": "https://thewalrus.ca/google-search-is-dying/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "The “mechanical miracle” that ruined Mark Twain’s life",
-            "insight": "HN 热议：156 分 · 79 评论",
+            "title": "Why Did OpenAI's Head of Ethics Chloé Bakalar Leave?",
+            "insight": "HN 热议：42 分 · 37 评论",
             "sentiment": "neutral",
-            "comments": 79,
-            "url": "https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined",
+            "comments": 37,
+            "url": "https://aimagazine.com/news/why-did-openai-head-of-ethics-chloe-bakalar-leave",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "How Claude marks AI-generated content",
-            "insight": "HN 热议：225 分 · 191 评论",
+            "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+            "insight": "HN 热议：455 分 · 159 评论",
             "sentiment": "positive",
-            "comments": 191,
-            "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
+            "comments": 159,
+            "url": "https://cactuscompute.com/needle",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-11T12:36:03Z",
+    "updated": "2026-08-11T15:46:06Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
