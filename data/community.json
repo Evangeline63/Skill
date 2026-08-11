@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-11T18:42:28Z",
+  "updated": "2026-08-11T21:32:41Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
-      "insight": "HN 热议：200 分 · 32 评论",
-      "sentiment": "neutral",
-      "comments": 32,
-      "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+      "insight": "HN 热议：392 分 · 159 评论",
+      "sentiment": "positive",
+      "comments": 159,
+      "url": "https://stolen-thoughts.com/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "OpenSSH 10.5 released, AI assistance now welcome",
-      "insight": "HN 热议：19 分 · 8 评论",
+      "title": "OpenAI’s head of ethics leaves less than a year after joining",
+      "insight": "HN 热议：168 分 · 258 评论",
       "sentiment": "neutral",
-      "comments": 8,
-      "url": "https://www.openssh.org/releasenotes.html#10.5",
+      "comments": 258,
+      "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
-      "insight": "HN 热议：275 分 · 99 评论",
-      "sentiment": "positive",
-      "comments": 99,
-      "url": "https://stolen-thoughts.com/",
+      "title": "AI Is Solving CTF Challenges in Minutes",
+      "insight": "HN 热议：14 分 · 3 评论",
+      "sentiment": "neutral",
+      "comments": 3,
+      "url": "https://www.simulationslabs.com/blogs/AI_Is_Solving_CTF_Challenges_in_Minutes",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Why Go Is an Ideal Language for AI-Assisted Software Engineering",
-      "insight": "HN 热议：94 分 · 86 评论",
-      "sentiment": "neutral",
-      "comments": 86,
-      "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
+      "title": "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
+      "insight": "HN 热议：269 分 · 42 评论",
+      "sentiment": "positive",
+      "comments": 42,
+      "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "As AI eats the web, the internet’s collective memory is disappearing",
-      "insight": "HN 热议：770 分 · 787 评论",
-      "sentiment": "positive",
-      "comments": 787,
-      "url": "https://thewalrus.ca/google-search-is-dying/",
+      "title": "The brain may be about to have its Ozempic moment",
+      "insight": "HN 热议：67 分 · 97 评论",
+      "sentiment": "neutral",
+      "comments": 97,
+      "url": "https://economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment",
       "id": 5
     }
   ]
