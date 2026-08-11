@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-10T21:29:24Z",
+  "updated": "2026-08-11T00:45:02Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
-      "insight": "HN 热议：930 分 · 521 评论",
-      "sentiment": "positive",
-      "comments": 521,
-      "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+      "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+      "insight": "HN 热议：140 分 · 67 评论",
+      "sentiment": "neutral",
+      "comments": 67,
+      "url": "https://cactuscompute.com/needle",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
-      "insight": "HN 热议：32 分 · 7 评论",
-      "sentiment": "neutral",
-      "comments": 7,
-      "url": "https://cactuscompute.com/needle",
+      "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
+      "insight": "HN 热议：1018 分 · 570 评论",
+      "sentiment": "positive",
+      "comments": 570,
+      "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
-      "insight": "HN 热议：245 分 · 302 评论",
+      "insight": "HN 热议：349 分 · 364 评论",
       "sentiment": "positive",
-      "comments": 302,
+      "comments": 364,
       "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers",
-      "insight": "HN 热议：58 分 · 30 评论",
+      "title": "The \"mechanical miracle\" that ruined Mark Twain's life",
+      "insight": "HN 热议：18 分 · 4 评论",
       "sentiment": "neutral",
-      "comments": 30,
-      "url": "https://www.stoaexchange.com",
+      "comments": 4,
+      "url": "https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
-      "insight": "HN 热议：599 分 · 339 评论",
-      "sentiment": "positive",
-      "comments": 339,
-      "url": "https://www.docker.com/products/docker-sandboxes/",
+      "title": "Confessions of a Long-Distance Sailor",
+      "insight": "HN 热议：52 分 · 10 评论",
+      "sentiment": "neutral",
+      "comments": 10,
+      "url": "https://arachnoid.com/lutusp/sailbook.html",
       "id": 5
     }
   ]

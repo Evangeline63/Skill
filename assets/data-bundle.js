@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-10T21:29:24Z",
+    "updated": "2026-08-11T00:45:02Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-10T21:29:24Z",
+    "updated": "2026-08-11T00:45:02Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-10T21:29:24Z",
+    "updated": "2026-08-11T00:45:02Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 186498,
-            "stars_today": 186498,
+            "stars": 186501,
+            "stars_today": 186501,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 166964,
-            "stars_today": 166964,
+            "stars": 166965,
+            "stars_today": 166965,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 102282,
-            "stars_today": 102282,
+            "stars": 102304,
+            "stars_today": 102304,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95851,
-            "stars_today": 95851,
+            "stars": 95853,
+            "stars_today": 95853,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 90328,
-            "stars_today": 90328,
+            "stars": 90335,
+            "stars_today": 90335,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 83638,
-            "stars_today": 83638,
+            "stars": 83641,
+            "stars_today": 83641,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-10T21:29:24Z",
+    "updated": "2026-08-11T00:45:02Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-10T21:29:24Z",
+    "updated": "2026-08-11T00:45:02Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-10T21:29:24Z",
+    "updated": "2026-08-11T00:45:02Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
-            "insight": "HN 热议：930 分 · 521 评论",
-            "sentiment": "positive",
-            "comments": 521,
-            "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+            "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+            "insight": "HN 热议：140 分 · 67 评论",
+            "sentiment": "neutral",
+            "comments": 67,
+            "url": "https://cactuscompute.com/needle",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
-            "insight": "HN 热议：32 分 · 7 评论",
-            "sentiment": "neutral",
-            "comments": 7,
-            "url": "https://cactuscompute.com/needle",
+            "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
+            "insight": "HN 热议：1018 分 · 570 评论",
+            "sentiment": "positive",
+            "comments": 570,
+            "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
-            "insight": "HN 热议：245 分 · 302 评论",
+            "insight": "HN 热议：349 分 · 364 评论",
             "sentiment": "positive",
-            "comments": 302,
+            "comments": 364,
             "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers",
-            "insight": "HN 热议：58 分 · 30 评论",
+            "title": "The \"mechanical miracle\" that ruined Mark Twain's life",
+            "insight": "HN 热议：18 分 · 4 评论",
             "sentiment": "neutral",
-            "comments": 30,
-            "url": "https://www.stoaexchange.com",
+            "comments": 4,
+            "url": "https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
-            "insight": "HN 热议：599 分 · 339 评论",
-            "sentiment": "positive",
-            "comments": 339,
-            "url": "https://www.docker.com/products/docker-sandboxes/",
+            "title": "Confessions of a Long-Distance Sailor",
+            "insight": "HN 热议：52 分 · 10 评论",
+            "sentiment": "neutral",
+            "comments": 10,
+            "url": "https://arachnoid.com/lutusp/sailbook.html",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-10T21:29:24Z",
+    "updated": "2026-08-11T00:45:02Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
