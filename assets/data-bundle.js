@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-11T00:45:02Z",
+    "updated": "2026-08-11T04:09:05Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-11T00:45:02Z",
+    "updated": "2026-08-11T04:09:05Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-11T00:45:02Z",
+    "updated": "2026-08-11T04:09:05Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 186501,
-            "stars_today": 186501,
+            "stars": 186507,
+            "stars_today": 186507,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 166965,
-            "stars_today": 166965,
+            "stars": 166978,
+            "stars_today": 166978,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 102304,
-            "stars_today": 102304,
+            "stars": 102324,
+            "stars_today": 102324,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95853,
-            "stars_today": 95853,
+            "stars": 95860,
+            "stars_today": 95860,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 90335,
-            "stars_today": 90335,
+            "stars": 90343,
+            "stars_today": 90343,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 83641,
-            "stars_today": 83641,
+            "stars": 83653,
+            "stars_today": 83653,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-11T00:45:02Z",
+    "updated": "2026-08-11T04:09:05Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-11T00:45:02Z",
+    "updated": "2026-08-11T04:09:05Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-11T00:45:02Z",
+    "updated": "2026-08-11T04:09:05Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
-            "insight": "HN 热议：140 分 · 67 评论",
+            "title": "The “mechanical miracle” that ruined Mark Twain’s life",
+            "insight": "HN 热议：81 分 · 23 评论",
             "sentiment": "neutral",
-            "comments": 67,
-            "url": "https://cactuscompute.com/needle",
+            "comments": 23,
+            "url": "https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
-            "insight": "HN 热议：1018 分 · 570 评论",
+            "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+            "insight": "HN 热议：225 分 · 91 评论",
             "sentiment": "positive",
-            "comments": 570,
-            "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+            "comments": 91,
+            "url": "https://cactuscompute.com/needle",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
-            "insight": "HN 热议：349 分 · 364 评论",
+            "insight": "HN 热议：420 分 · 407 评论",
             "sentiment": "positive",
-            "comments": 364,
+            "comments": 407,
             "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "The \"mechanical miracle\" that ruined Mark Twain's life",
-            "insight": "HN 热议：18 分 · 4 评论",
+            "title": "World Train Map – 1247 train routes around the world",
+            "insight": "HN 热议：69 分 · 25 评论",
             "sentiment": "neutral",
-            "comments": 4,
-            "url": "https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined",
+            "comments": 25,
+            "url": "https://worldtrainmap.com/",
             "id": 4
         },
         {
             "source": "HackerNews",
             "title": "Confessions of a Long-Distance Sailor",
-            "insight": "HN 热议：52 分 · 10 评论",
+            "insight": "HN 热议：78 分 · 20 评论",
             "sentiment": "neutral",
-            "comments": 10,
+            "comments": 20,
             "url": "https://arachnoid.com/lutusp/sailbook.html",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-11T00:45:02Z",
+    "updated": "2026-08-11T04:09:05Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
