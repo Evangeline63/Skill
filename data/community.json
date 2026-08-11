@@ -1,48 +1,48 @@
 {
-  "updated": "2026-08-11T09:47:30Z",
+  "updated": "2026-08-11T12:36:03Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "As AI eats the web, the internet’s collective memory is disappearing",
-      "insight": "HN 热议：286 分 · 281 评论",
+      "insight": "HN 热议：419 分 · 496 评论",
       "sentiment": "positive",
-      "comments": 281,
+      "comments": 496,
       "url": "https://thewalrus.ca/google-search-is-dying/",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
-      "insight": "HN 热议：329 分 · 130 评论",
+      "insight": "HN 热议：378 分 · 139 评论",
       "sentiment": "positive",
-      "comments": 130,
+      "comments": 139,
       "url": "https://cactuscompute.com/needle",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
-      "insight": "HN 热议：504 分 · 465 评论",
+      "insight": "HN 热议：547 分 · 496 评论",
       "sentiment": "positive",
-      "comments": 465,
+      "comments": 496,
       "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "The “mechanical miracle” that ruined Mark Twain’s life",
-      "insight": "HN 热议：138 分 · 72 评论",
+      "insight": "HN 热议：156 分 · 79 评论",
       "sentiment": "neutral",
-      "comments": 72,
+      "comments": 79,
       "url": "https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined",
       "id": 4
     },
     {
       "source": "HackerNews",
       "title": "How Claude marks AI-generated content",
-      "insight": "HN 热议：176 分 · 134 评论",
-      "sentiment": "neutral",
-      "comments": 134,
+      "insight": "HN 热议：225 分 · 191 评论",
+      "sentiment": "positive",
+      "comments": 191,
       "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
       "id": 5
     }
