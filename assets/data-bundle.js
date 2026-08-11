@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-11T04:09:05Z",
+    "updated": "2026-08-11T06:42:35Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-11T04:09:05Z",
+    "updated": "2026-08-11T06:42:35Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-11T04:09:05Z",
+    "updated": "2026-08-11T06:42:35Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 186507,
-            "stars_today": 186507,
+            "stars": 186508,
+            "stars_today": 186508,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 166978,
-            "stars_today": 166978,
+            "stars": 166983,
+            "stars_today": 166983,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 102324,
-            "stars_today": 102324,
+            "stars": 102345,
+            "stars_today": 102345,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95860,
-            "stars_today": 95860,
+            "stars": 95861,
+            "stars_today": 95861,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 90343,
-            "stars_today": 90343,
+            "stars": 90356,
+            "stars_today": 90356,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 83653,
-            "stars_today": 83653,
+            "stars": 83667,
+            "stars_today": 83667,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-11T04:09:05Z",
+    "updated": "2026-08-11T06:42:35Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-11T04:09:05Z",
+    "updated": "2026-08-11T06:42:35Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-11T04:09:05Z",
+    "updated": "2026-08-11T06:42:35Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "The “mechanical miracle” that ruined Mark Twain’s life",
-            "insight": "HN 热议：81 分 · 23 评论",
-            "sentiment": "neutral",
-            "comments": 23,
-            "url": "https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined",
+            "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+            "insight": "HN 热议：279 分 · 104 评论",
+            "sentiment": "positive",
+            "comments": 104,
+            "url": "https://cactuscompute.com/needle",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
-            "insight": "HN 热议：225 分 · 91 评论",
-            "sentiment": "positive",
-            "comments": 91,
-            "url": "https://cactuscompute.com/needle",
+            "title": "The “mechanical miracle” that ruined Mark Twain’s life",
+            "insight": "HN 热议：110 分 · 52 评论",
+            "sentiment": "neutral",
+            "comments": 52,
+            "url": "https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
-            "insight": "HN 热议：420 分 · 407 评论",
+            "insight": "HN 热议：467 分 · 433 评论",
             "sentiment": "positive",
-            "comments": 407,
+            "comments": 433,
             "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
             "id": 3
         },
         {
             "source": "HackerNews",
             "title": "World Train Map – 1247 train routes around the world",
-            "insight": "HN 热议：69 分 · 25 评论",
+            "insight": "HN 热议：104 分 · 34 评论",
             "sentiment": "neutral",
-            "comments": 25,
+            "comments": 34,
             "url": "https://worldtrainmap.com/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Confessions of a Long-Distance Sailor",
-            "insight": "HN 热议：78 分 · 20 评论",
+            "title": "DeepSeek: Reverse Engineering an AI Assistant by Interviewing Itself",
+            "insight": "HN 热议：19 分 · 2 评论",
             "sentiment": "neutral",
-            "comments": 20,
-            "url": "https://arachnoid.com/lutusp/sailbook.html",
+            "comments": 2,
+            "url": "https://manish.sh/writings/models/inside-deepseek-reverse-engineering-an-ai-assistant-by-interviewing-itself",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-11T04:09:05Z",
+    "updated": "2026-08-11T06:42:35Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
