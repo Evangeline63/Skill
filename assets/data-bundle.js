@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-12T04:30:27Z",
+    "updated": "2026-08-12T07:03:00Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-12T04:30:27Z",
+    "updated": "2026-08-12T07:03:00Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-12T04:30:27Z",
+    "updated": "2026-08-12T07:03:00Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 186537,
-            "stars_today": 186537,
+            "stars": 186543,
+            "stars_today": 186543,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 167019,
-            "stars_today": 167019,
+            "stars": 167026,
+            "stars_today": 167026,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 102449,
-            "stars_today": 102449,
+            "stars": 102464,
+            "stars_today": 102464,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95879,
-            "stars_today": 95879,
+            "stars": 95882,
+            "stars_today": 95882,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 90465,
-            "stars_today": 90465,
+            "stars": 90477,
+            "stars_today": 90477,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 83749,
-            "stars_today": 83749,
+            "stars": 83763,
+            "stars_today": 83763,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-12T04:30:27Z",
+    "updated": "2026-08-12T07:03:00Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-12T04:30:27Z",
+    "updated": "2026-08-12T07:03:00Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-12T04:30:27Z",
+    "updated": "2026-08-12T07:03:00Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "WorldClaw Agentic 3D open-world generation at scale",
-            "insight": "HN 热议：164 分 · 51 评论",
+            "title": "llama.cpp",
+            "insight": "HN 热议：112 分 · 49 评论",
             "sentiment": "neutral",
-            "comments": 51,
-            "url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
+            "comments": 49,
+            "url": "https://llama.app",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
-            "insight": "HN 热议：551 分 · 232 评论",
-            "sentiment": "positive",
-            "comments": 232,
-            "url": "https://stolen-thoughts.com/",
+            "title": "WorldClaw Agentic 3D open-world generation at scale",
+            "insight": "HN 热议：195 分 · 58 评论",
+            "sentiment": "neutral",
+            "comments": 58,
+            "url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "OpenAI’s head of ethics leaves less than a year after joining",
-            "insight": "HN 热议：339 分 · 359 评论",
+            "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+            "insight": "HN 热议：590 分 · 267 评论",
             "sentiment": "positive",
-            "comments": 359,
-            "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
+            "comments": 267,
+            "url": "https://stolen-thoughts.com/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
-            "insight": "HN 热议：69 分 · 15 评论",
-            "sentiment": "neutral",
-            "comments": 15,
-            "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/",
+            "title": "OpenAI’s head of ethics leaves less than a year after joining",
+            "insight": "HN 热议：385 分 · 392 评论",
+            "sentiment": "positive",
+            "comments": 392,
+            "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Line9 – A Mermaid rendering engine with its own layout",
-            "insight": "HN 热议：43 分 · 10 评论",
+            "title": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
+            "insight": "HN 热议：161 分 · 35 评论",
             "sentiment": "neutral",
-            "comments": 10,
-            "url": "https://line9.ai/diagram",
+            "comments": 35,
+            "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-12T04:30:27Z",
+    "updated": "2026-08-12T07:03:00Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

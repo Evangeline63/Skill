@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-12T04:30:27Z",
+  "updated": "2026-08-12T07:03:00Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "WorldClaw Agentic 3D open-world generation at scale",
-      "insight": "HN 热议：164 分 · 51 评论",
+      "title": "llama.cpp",
+      "insight": "HN 热议：112 分 · 49 评论",
       "sentiment": "neutral",
-      "comments": 51,
-      "url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
+      "comments": 49,
+      "url": "https://llama.app",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
-      "insight": "HN 热议：551 分 · 232 评论",
-      "sentiment": "positive",
-      "comments": 232,
-      "url": "https://stolen-thoughts.com/",
+      "title": "WorldClaw Agentic 3D open-world generation at scale",
+      "insight": "HN 热议：195 分 · 58 评论",
+      "sentiment": "neutral",
+      "comments": 58,
+      "url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "OpenAI’s head of ethics leaves less than a year after joining",
-      "insight": "HN 热议：339 分 · 359 评论",
+      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+      "insight": "HN 热议：590 分 · 267 评论",
       "sentiment": "positive",
-      "comments": 359,
-      "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
+      "comments": 267,
+      "url": "https://stolen-thoughts.com/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
-      "insight": "HN 热议：69 分 · 15 评论",
-      "sentiment": "neutral",
-      "comments": 15,
-      "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/",
+      "title": "OpenAI’s head of ethics leaves less than a year after joining",
+      "insight": "HN 热议：385 分 · 392 评论",
+      "sentiment": "positive",
+      "comments": 392,
+      "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Line9 – A Mermaid rendering engine with its own layout",
-      "insight": "HN 热议：43 分 · 10 评论",
+      "title": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
+      "insight": "HN 热议：161 分 · 35 评论",
       "sentiment": "neutral",
-      "comments": 10,
-      "url": "https://line9.ai/diagram",
+      "comments": 35,
+      "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/",
       "id": 5
     }
   ]
