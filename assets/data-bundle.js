@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-12T15:46:32Z",
+    "updated": "2026-08-12T18:43:19Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-12T15:46:32Z",
+    "updated": "2026-08-12T18:43:19Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-12T15:46:32Z",
+    "updated": "2026-08-12T18:43:19Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 186555,
-            "stars_today": 186555,
+            "stars": 186557,
+            "stars_today": 186557,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 167049,
-            "stars_today": 167049,
+            "stars": 167055,
+            "stars_today": 167055,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 102501,
-            "stars_today": 102501,
+            "stars": 102517,
+            "stars_today": 102517,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95890,
-            "stars_today": 95890,
+            "stars": 95892,
+            "stars_today": 95892,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 90526,
-            "stars_today": 90526,
+            "stars": 90537,
+            "stars_today": 90537,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 83800,
-            "stars_today": 83800,
+            "stars": 83813,
+            "stars_today": 83813,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-12T15:46:32Z",
+    "updated": "2026-08-12T18:43:19Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-12T15:46:32Z",
+    "updated": "2026-08-12T18:43:19Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-12T15:46:32Z",
+    "updated": "2026-08-12T18:43:19Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
-            "insight": "HN 热议：111 分 · 10 评论",
-            "sentiment": "neutral",
-            "comments": 10,
+            "insight": "HN 热议：477 分 · 79 评论",
+            "sentiment": "positive",
+            "comments": 79,
             "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
-            "insight": "HN 热议：62 分 · 16 评论",
+            "insight": "HN 热议：138 分 · 84 评论",
             "sentiment": "neutral",
-            "comments": 16,
+            "comments": 84,
             "url": "https://knownagents.com/insights",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "My Agent Setup",
-            "insight": "HN 热议：47 分 · 22 评论",
+            "title": "SpaceXAI's Grok 4.6 Scores 61 on the Artificial Analysis Intelligence Index",
+            "insight": "HN 热议：157 分 · 120 评论",
             "sentiment": "neutral",
-            "comments": 22,
-            "url": "https://chad.cm/posts/2026-8-11-my-agent-setup",
+            "comments": 120,
+            "url": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "What sort of maths are LLMs good at?",
-            "insight": "HN 热议：180 分 · 79 评论",
-            "sentiment": "neutral",
-            "comments": 79,
-            "url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
+            "title": "AI is removing the middle class of software engineering",
+            "insight": "HN 热议：464 分 · 387 评论",
+            "sentiment": "positive",
+            "comments": 387,
+            "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "AI is removing the middle class of software engineering",
-            "insight": "HN 热议：211 分 · 185 评论",
+            "title": "What sort of maths are LLMs good at?",
+            "insight": "HN 热议：203 分 · 100 评论",
             "sentiment": "positive",
-            "comments": 185,
-            "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+            "comments": 100,
+            "url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-12T15:46:32Z",
+    "updated": "2026-08-12T18:43:19Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

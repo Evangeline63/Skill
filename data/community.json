@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-12T15:46:32Z",
+  "updated": "2026-08-12T18:43:19Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
-      "insight": "HN 热议：111 分 · 10 评论",
-      "sentiment": "neutral",
-      "comments": 10,
+      "insight": "HN 热议：477 分 · 79 评论",
+      "sentiment": "positive",
+      "comments": 79,
       "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
-      "insight": "HN 热议：62 分 · 16 评论",
+      "insight": "HN 热议：138 分 · 84 评论",
       "sentiment": "neutral",
-      "comments": 16,
+      "comments": 84,
       "url": "https://knownagents.com/insights",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "My Agent Setup",
-      "insight": "HN 热议：47 分 · 22 评论",
+      "title": "SpaceXAI's Grok 4.6 Scores 61 on the Artificial Analysis Intelligence Index",
+      "insight": "HN 热议：157 分 · 120 评论",
       "sentiment": "neutral",
-      "comments": 22,
-      "url": "https://chad.cm/posts/2026-8-11-my-agent-setup",
+      "comments": 120,
+      "url": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "What sort of maths are LLMs good at?",
-      "insight": "HN 热议：180 分 · 79 评论",
-      "sentiment": "neutral",
-      "comments": 79,
-      "url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
+      "title": "AI is removing the middle class of software engineering",
+      "insight": "HN 热议：464 分 · 387 评论",
+      "sentiment": "positive",
+      "comments": 387,
+      "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "AI is removing the middle class of software engineering",
-      "insight": "HN 热议：211 分 · 185 评论",
+      "title": "What sort of maths are LLMs good at?",
+      "insight": "HN 热议：203 分 · 100 评论",
       "sentiment": "positive",
-      "comments": 185,
-      "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+      "comments": 100,
+      "url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
       "id": 5
     }
   ]
