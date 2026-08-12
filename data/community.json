@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-11T21:32:41Z",
+  "updated": "2026-08-12T00:53:05Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
-      "insight": "HN 热议：392 分 · 159 评论",
-      "sentiment": "positive",
-      "comments": 159,
-      "url": "https://stolen-thoughts.com/",
+      "title": "WorldClaw Agentic 3D open-world generation at scale",
+      "insight": "HN 热议：100 分 · 34 评论",
+      "sentiment": "neutral",
+      "comments": 34,
+      "url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "OpenAI’s head of ethics leaves less than a year after joining",
-      "insight": "HN 热议：168 分 · 258 评论",
-      "sentiment": "neutral",
-      "comments": 258,
-      "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
+      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+      "insight": "HN 热议：477 分 · 201 评论",
+      "sentiment": "positive",
+      "comments": 201,
+      "url": "https://stolen-thoughts.com/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "AI Is Solving CTF Challenges in Minutes",
-      "insight": "HN 热议：14 分 · 3 评论",
-      "sentiment": "neutral",
-      "comments": 3,
-      "url": "https://www.simulationslabs.com/blogs/AI_Is_Solving_CTF_Challenges_in_Minutes",
+      "title": "OpenAI’s head of ethics leaves less than a year after joining",
+      "insight": "HN 热议：266 分 · 336 评论",
+      "sentiment": "positive",
+      "comments": 336,
+      "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
-      "insight": "HN 热议：269 分 · 42 评论",
+      "title": "Go is an ideal language for AI-assisted software engineering",
+      "insight": "HN 热议：249 分 · 293 评论",
       "sentiment": "positive",
-      "comments": 42,
-      "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+      "comments": 293,
+      "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "The brain may be about to have its Ozempic moment",
-      "insight": "HN 热议：67 分 · 97 评论",
+      "title": "US hires over 2k video gamers as air traffic controllers",
+      "insight": "HN 热议：42 分 · 28 评论",
       "sentiment": "neutral",
-      "comments": 97,
-      "url": "https://economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment",
+      "comments": 28,
+      "url": "https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/",
       "id": 5
     }
   ]
