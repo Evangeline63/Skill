@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-12T07:03:00Z",
+  "updated": "2026-08-12T09:51:34Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "llama.cpp",
-      "insight": "HN 热议：112 分 · 49 评论",
+      "title": "Dutch Train Map Simulator",
+      "insight": "HN 热议：11 分 · 2 评论",
       "sentiment": "neutral",
-      "comments": 49,
-      "url": "https://llama.app",
+      "comments": 2,
+      "url": "https://spoorkaart.zaza.dev",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "WorldClaw Agentic 3D open-world generation at scale",
-      "insight": "HN 热议：195 分 · 58 评论",
+      "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
+      "insight": "HN 热议：14 分 · 4 评论",
       "sentiment": "neutral",
-      "comments": 58,
-      "url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
+      "comments": 4,
+      "url": "https://discoveredmaterials.com/research/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
-      "insight": "HN 热议：590 分 · 267 评论",
+      "title": "llama.cpp",
+      "insight": "HN 热议：217 分 · 86 评论",
       "sentiment": "positive",
-      "comments": 267,
-      "url": "https://stolen-thoughts.com/",
+      "comments": 86,
+      "url": "https://llama.app",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "OpenAI’s head of ethics leaves less than a year after joining",
-      "insight": "HN 热议：385 分 · 392 评论",
+      "title": "WorldClaw Agentic 3D open-world generation at scale",
+      "insight": "HN 热议：225 分 · 69 评论",
       "sentiment": "positive",
-      "comments": 392,
-      "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
+      "comments": 69,
+      "url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
-      "insight": "HN 热议：161 分 · 35 评论",
-      "sentiment": "neutral",
-      "comments": 35,
-      "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/",
+      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+      "insight": "HN 热议：622 分 · 280 评论",
+      "sentiment": "positive",
+      "comments": 280,
+      "url": "https://stolen-thoughts.com/",
       "id": 5
     }
   ]
