@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-12T09:51:34Z",
+  "updated": "2026-08-12T12:38:49Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Dutch Train Map Simulator",
-      "insight": "HN 热议：11 分 · 2 评论",
+      "title": "What sort of maths are LLMs good at?",
+      "insight": "HN 热议：109 分 · 39 评论",
       "sentiment": "neutral",
-      "comments": 2,
-      "url": "https://spoorkaart.zaza.dev",
+      "comments": 39,
+      "url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
-      "insight": "HN 热议：14 分 · 4 评论",
+      "title": "Delphi 13 Community Edition Is Now Available",
+      "insight": "HN 热议：17 分 · 8 评论",
       "sentiment": "neutral",
-      "comments": 4,
-      "url": "https://discoveredmaterials.com/research/",
+      "comments": 8,
+      "url": "https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "llama.cpp",
-      "insight": "HN 热议：217 分 · 86 评论",
-      "sentiment": "positive",
-      "comments": 86,
-      "url": "https://llama.app",
+      "title": "High-Res Photo Shows Sand-Capped Butte Rising from Mars Plain of Polygons",
+      "insight": "HN 热议：43 分 · 4 评论",
+      "sentiment": "neutral",
+      "comments": 4,
+      "url": "https://petapixel.com/2026/08/04/amazing-high-res-photo-shows-a-butte-rising-from-mars/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "WorldClaw Agentic 3D open-world generation at scale",
-      "insight": "HN 热议：225 分 · 69 评论",
+      "title": "Facebook is paying controversial creators to produce rage-bait content",
+      "insight": "HN 热议：215 分 · 115 评论",
       "sentiment": "positive",
-      "comments": 69,
-      "url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
+      "comments": 115,
+      "url": "https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
-      "insight": "HN 热议：622 分 · 280 评论",
-      "sentiment": "positive",
-      "comments": 280,
-      "url": "https://stolen-thoughts.com/",
+      "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
+      "insight": "HN 热议：30 分 · 8 评论",
+      "sentiment": "neutral",
+      "comments": 8,
+      "url": "https://discoveredmaterials.com/research/",
       "id": 5
     }
   ]

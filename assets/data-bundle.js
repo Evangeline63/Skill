@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-12T09:51:34Z",
+    "updated": "2026-08-12T12:38:49Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-12T09:51:34Z",
+    "updated": "2026-08-12T12:38:49Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-12T09:51:34Z",
+    "updated": "2026-08-12T12:38:49Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 186545,
-            "stars_today": 186545,
+            "stars": 186550,
+            "stars_today": 186550,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 167035,
-            "stars_today": 167035,
+            "stars": 167042,
+            "stars_today": 167042,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 102480,
-            "stars_today": 102480,
+            "stars": 102489,
+            "stars_today": 102489,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95885,
-            "stars_today": 95885,
+            "stars": 95888,
+            "stars_today": 95888,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 90493,
-            "stars_today": 90493,
+            "stars": 90505,
+            "stars_today": 90505,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 83776,
-            "stars_today": 83776,
+            "stars": 83781,
+            "stars_today": 83781,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-12T09:51:34Z",
+    "updated": "2026-08-12T12:38:49Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-12T09:51:34Z",
+    "updated": "2026-08-12T12:38:49Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-12T09:51:34Z",
+    "updated": "2026-08-12T12:38:49Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Dutch Train Map Simulator",
-            "insight": "HN 热议：11 分 · 2 评论",
+            "title": "What sort of maths are LLMs good at?",
+            "insight": "HN 热议：109 分 · 39 评论",
             "sentiment": "neutral",
-            "comments": 2,
-            "url": "https://spoorkaart.zaza.dev",
+            "comments": 39,
+            "url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
-            "insight": "HN 热议：14 分 · 4 评论",
+            "title": "Delphi 13 Community Edition Is Now Available",
+            "insight": "HN 热议：17 分 · 8 评论",
             "sentiment": "neutral",
-            "comments": 4,
-            "url": "https://discoveredmaterials.com/research/",
+            "comments": 8,
+            "url": "https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "llama.cpp",
-            "insight": "HN 热议：217 分 · 86 评论",
-            "sentiment": "positive",
-            "comments": 86,
-            "url": "https://llama.app",
+            "title": "High-Res Photo Shows Sand-Capped Butte Rising from Mars Plain of Polygons",
+            "insight": "HN 热议：43 分 · 4 评论",
+            "sentiment": "neutral",
+            "comments": 4,
+            "url": "https://petapixel.com/2026/08/04/amazing-high-res-photo-shows-a-butte-rising-from-mars/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "WorldClaw Agentic 3D open-world generation at scale",
-            "insight": "HN 热议：225 分 · 69 评论",
+            "title": "Facebook is paying controversial creators to produce rage-bait content",
+            "insight": "HN 热议：215 分 · 115 评论",
             "sentiment": "positive",
-            "comments": 69,
-            "url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
+            "comments": 115,
+            "url": "https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
-            "insight": "HN 热议：622 分 · 280 评论",
-            "sentiment": "positive",
-            "comments": 280,
-            "url": "https://stolen-thoughts.com/",
+            "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
+            "insight": "HN 热议：30 分 · 8 评论",
+            "sentiment": "neutral",
+            "comments": 8,
+            "url": "https://discoveredmaterials.com/research/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-12T09:51:34Z",
+    "updated": "2026-08-12T12:38:49Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
