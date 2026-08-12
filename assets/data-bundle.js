@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-12T00:53:05Z",
+    "updated": "2026-08-12T04:30:27Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-12T00:53:05Z",
+    "updated": "2026-08-12T04:30:27Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-12T00:53:05Z",
+    "updated": "2026-08-12T04:30:27Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 186530,
-            "stars_today": 186530,
+            "stars": 186537,
+            "stars_today": 186537,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 167008,
-            "stars_today": 167008,
+            "stars": 167019,
+            "stars_today": 167019,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 102436,
-            "stars_today": 102436,
+            "stars": 102449,
+            "stars_today": 102449,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95873,
-            "stars_today": 95873,
+            "stars": 95879,
+            "stars_today": 95879,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 90447,
-            "stars_today": 90447,
+            "stars": 90465,
+            "stars_today": 90465,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 83738,
-            "stars_today": 83738,
+            "stars": 83749,
+            "stars_today": 83749,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-12T00:53:05Z",
+    "updated": "2026-08-12T04:30:27Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-12T00:53:05Z",
+    "updated": "2026-08-12T04:30:27Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-12T00:53:05Z",
+    "updated": "2026-08-12T04:30:27Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "WorldClaw Agentic 3D open-world generation at scale",
-            "insight": "HN 热议：100 分 · 34 评论",
+            "insight": "HN 热议：164 分 · 51 评论",
             "sentiment": "neutral",
-            "comments": 34,
+            "comments": 51,
             "url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
-            "insight": "HN 热议：477 分 · 201 评论",
+            "insight": "HN 热议：551 分 · 232 评论",
             "sentiment": "positive",
-            "comments": 201,
+            "comments": 232,
             "url": "https://stolen-thoughts.com/",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "OpenAI’s head of ethics leaves less than a year after joining",
-            "insight": "HN 热议：266 分 · 336 评论",
+            "insight": "HN 热议：339 分 · 359 评论",
             "sentiment": "positive",
-            "comments": 336,
+            "comments": 359,
             "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Go is an ideal language for AI-assisted software engineering",
-            "insight": "HN 热议：249 分 · 293 评论",
-            "sentiment": "positive",
-            "comments": 293,
-            "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
+            "title": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
+            "insight": "HN 热议：69 分 · 15 评论",
+            "sentiment": "neutral",
+            "comments": 15,
+            "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "US hires over 2k video gamers as air traffic controllers",
-            "insight": "HN 热议：42 分 · 28 评论",
+            "title": "Show HN: Line9 – A Mermaid rendering engine with its own layout",
+            "insight": "HN 热议：43 分 · 10 评论",
             "sentiment": "neutral",
-            "comments": 28,
-            "url": "https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/",
+            "comments": 10,
+            "url": "https://line9.ai/diagram",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-12T00:53:05Z",
+    "updated": "2026-08-12T04:30:27Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

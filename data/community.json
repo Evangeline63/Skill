@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-12T00:53:05Z",
+  "updated": "2026-08-12T04:30:27Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "WorldClaw Agentic 3D open-world generation at scale",
-      "insight": "HN 热议：100 分 · 34 评论",
+      "insight": "HN 热议：164 分 · 51 评论",
       "sentiment": "neutral",
-      "comments": 34,
+      "comments": 51,
       "url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
-      "insight": "HN 热议：477 分 · 201 评论",
+      "insight": "HN 热议：551 分 · 232 评论",
       "sentiment": "positive",
-      "comments": 201,
+      "comments": 232,
       "url": "https://stolen-thoughts.com/",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "OpenAI’s head of ethics leaves less than a year after joining",
-      "insight": "HN 热议：266 分 · 336 评论",
+      "insight": "HN 热议：339 分 · 359 评论",
       "sentiment": "positive",
-      "comments": 336,
+      "comments": 359,
       "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Go is an ideal language for AI-assisted software engineering",
-      "insight": "HN 热议：249 分 · 293 评论",
-      "sentiment": "positive",
-      "comments": 293,
-      "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
+      "title": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
+      "insight": "HN 热议：69 分 · 15 评论",
+      "sentiment": "neutral",
+      "comments": 15,
+      "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "US hires over 2k video gamers as air traffic controllers",
-      "insight": "HN 热议：42 分 · 28 评论",
+      "title": "Show HN: Line9 – A Mermaid rendering engine with its own layout",
+      "insight": "HN 热议：43 分 · 10 评论",
       "sentiment": "neutral",
-      "comments": 28,
-      "url": "https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/",
+      "comments": 10,
+      "url": "https://line9.ai/diagram",
       "id": 5
     }
   ]
