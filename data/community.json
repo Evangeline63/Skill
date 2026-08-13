@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-13T12:39:34Z",
+  "updated": "2026-08-13T15:45:16Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "ChatGPT Desktop (Codex Desktop) for Linux",
-      "insight": "HN 热议：244 分 · 158 评论",
-      "sentiment": "positive",
-      "comments": 158,
-      "url": "https://openai.com/codex/",
+      "title": "Heart Aerospace Completes First Flight of Largest Electric Aircraft",
+      "insight": "HN 热议：59 分 · 40 评论",
+      "sentiment": "neutral",
+      "comments": 40,
+      "url": "https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
-      "insight": "HN 热议：147 分 · 32 评论",
+      "title": "AI agents lie, cheat and steal. That is putting off users",
+      "insight": "HN 热议：109 分 · 110 评论",
       "sentiment": "neutral",
-      "comments": 32,
-      "url": "https://discoveredmaterials.com/research/",
+      "comments": 110,
+      "url": "https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
-      "insight": "HN 热议：286 分 · 216 评论",
-      "sentiment": "positive",
-      "comments": 216,
-      "url": "https://knownagents.com/insights",
+      "title": "Show HN: MCP Memory – Fast Agent Memory Using Google's OKF and SQLite FTS5",
+      "insight": "HN 热议：27 分 · 11 评论",
+      "sentiment": "neutral",
+      "comments": 11,
+      "url": "https://github.com/fellowgeek/mcp-memory",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Lovable raises $400M Series C",
-      "insight": "HN 热议：151 分 · 167 评论",
+      "title": "I Built a 500k-Domain Search Engine for Makers in a Weekend for $10",
+      "insight": "HN 热议：33 分 · 23 评论",
       "sentiment": "neutral",
-      "comments": 167,
-      "url": "https://lovable.dev/blog/series-c",
+      "comments": 23,
+      "url": "https://alexmorleyfinch.github.io/marlin/history/v1/article/the_birth.html",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "AI is removing the middle class of software engineering?",
-      "insight": "HN 热议：916 分 · 817 评论",
-      "sentiment": "positive",
-      "comments": 817,
-      "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+      "title": "We eliminated 1,400 CVEs in NanoClaw's container images",
+      "insight": "HN 热议：18 分 · 5 评论",
+      "sentiment": "neutral",
+      "comments": 5,
+      "url": "https://www.echo.ai/blog/echo-xnanoclaw-under-the-hood",
       "id": 5
     }
   ]

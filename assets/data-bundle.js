@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-13T12:39:34Z",
+    "updated": "2026-08-13T15:45:16Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-13T12:39:34Z",
+    "updated": "2026-08-13T15:45:16Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-13T12:39:34Z",
+    "updated": "2026-08-13T15:45:16Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 186583,
-            "stars_today": 186583,
+            "stars": 186586,
+            "stars_today": 186586,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 167079,
-            "stars_today": 167079,
+            "stars": 167082,
+            "stars_today": 167082,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 102571,
-            "stars_today": 102571,
+            "stars": 102585,
+            "stars_today": 102585,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95910,
-            "stars_today": 95910,
+            "stars": 95916,
+            "stars_today": 95916,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 90612,
-            "stars_today": 90612,
+            "stars": 90629,
+            "stars_today": 90629,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 83904,
-            "stars_today": 83904,
+            "stars": 83919,
+            "stars_today": 83919,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-13T12:39:34Z",
+    "updated": "2026-08-13T15:45:16Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-13T12:39:34Z",
+    "updated": "2026-08-13T15:45:16Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-13T12:39:34Z",
+    "updated": "2026-08-13T15:45:16Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "ChatGPT Desktop (Codex Desktop) for Linux",
-            "insight": "HN 热议：244 分 · 158 评论",
-            "sentiment": "positive",
-            "comments": 158,
-            "url": "https://openai.com/codex/",
+            "title": "Heart Aerospace Completes First Flight of Largest Electric Aircraft",
+            "insight": "HN 热议：59 分 · 40 评论",
+            "sentiment": "neutral",
+            "comments": 40,
+            "url": "https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
-            "insight": "HN 热议：147 分 · 32 评论",
+            "title": "AI agents lie, cheat and steal. That is putting off users",
+            "insight": "HN 热议：109 分 · 110 评论",
             "sentiment": "neutral",
-            "comments": 32,
-            "url": "https://discoveredmaterials.com/research/",
+            "comments": 110,
+            "url": "https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
-            "insight": "HN 热议：286 分 · 216 评论",
-            "sentiment": "positive",
-            "comments": 216,
-            "url": "https://knownagents.com/insights",
+            "title": "Show HN: MCP Memory – Fast Agent Memory Using Google's OKF and SQLite FTS5",
+            "insight": "HN 热议：27 分 · 11 评论",
+            "sentiment": "neutral",
+            "comments": 11,
+            "url": "https://github.com/fellowgeek/mcp-memory",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Lovable raises $400M Series C",
-            "insight": "HN 热议：151 分 · 167 评论",
+            "title": "I Built a 500k-Domain Search Engine for Makers in a Weekend for $10",
+            "insight": "HN 热议：33 分 · 23 评论",
             "sentiment": "neutral",
-            "comments": 167,
-            "url": "https://lovable.dev/blog/series-c",
+            "comments": 23,
+            "url": "https://alexmorleyfinch.github.io/marlin/history/v1/article/the_birth.html",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "AI is removing the middle class of software engineering?",
-            "insight": "HN 热议：916 分 · 817 评论",
-            "sentiment": "positive",
-            "comments": 817,
-            "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+            "title": "We eliminated 1,400 CVEs in NanoClaw's container images",
+            "insight": "HN 热议：18 分 · 5 评论",
+            "sentiment": "neutral",
+            "comments": 5,
+            "url": "https://www.echo.ai/blog/echo-xnanoclaw-under-the-hood",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-13T12:39:34Z",
+    "updated": "2026-08-13T15:45:16Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
