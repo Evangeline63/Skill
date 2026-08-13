@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-13T18:43:55Z",
+  "updated": "2026-08-13T21:32:33Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Gemini 3.7 Flash",
-      "insight": "HN 热议：233 分 · 159 评论",
+      "insight": "HN 热议：463 分 · 278 评论",
       "sentiment": "positive",
-      "comments": 159,
+      "comments": 278,
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Mistral OCR 4.1",
-      "insight": "HN 热议：93 分 · 23 评论",
-      "sentiment": "neutral",
-      "comments": 23,
-      "url": "https://docs.mistral.ai/models/ocr-4-1",
+      "title": "Accelerating GPT-5.6 Sol Ultrafast",
+      "insight": "HN 热议：283 分 · 111 评论",
+      "sentiment": "positive",
+      "comments": 111,
+      "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Accelerating GPT-5.6 Sol Ultrafast",
-      "insight": "HN 热议：49 分 · 6 评论",
+      "title": "Mistral OCR 4.1",
+      "insight": "HN 热议：198 分 · 71 评论",
       "sentiment": "neutral",
-      "comments": 6,
-      "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
+      "comments": 71,
+      "url": "https://docs.mistral.ai/models/ocr-4-1",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "AI At Home Part 1: A Box Of Scraps",
-      "insight": "HN 热议：30 分 · 10 评论",
+      "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
+      "insight": "HN 热议：30 分 · 12 评论",
       "sentiment": "neutral",
-      "comments": 10,
-      "url": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
+      "comments": 12,
+      "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Choosing an AI model: one prompt, 11 models, different results",
-      "insight": "HN 热议：127 分 · 57 评论",
+      "title": "Launch HN: Bullet (YC S26) – A Faster Coding Agent",
+      "insight": "HN 热议：62 分 · 38 评论",
       "sentiment": "neutral",
-      "comments": 57,
-      "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
+      "comments": 38,
+      "url": "https://www.codewithbullet.com",
       "id": 5
     }
   ]
