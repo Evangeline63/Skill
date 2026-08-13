@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-12T21:32:12Z",
+    "updated": "2026-08-13T00:54:32Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-12T21:32:12Z",
+    "updated": "2026-08-13T00:54:32Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-12T21:32:12Z",
+    "updated": "2026-08-13T00:54:32Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 186560,
-            "stars_today": 186560,
+            "stars": 186563,
+            "stars_today": 186563,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 167059,
-            "stars_today": 167059,
+            "stars": 167062,
+            "stars_today": 167062,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 102525,
-            "stars_today": 102525,
+            "stars": 102532,
+            "stars_today": 102532,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95891,
-            "stars_today": 95891,
+            "stars": 95894,
+            "stars_today": 95894,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 90542,
-            "stars_today": 90542,
+            "stars": 90552,
+            "stars_today": 90552,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 83825,
-            "stars_today": 83825,
+            "stars": 83837,
+            "stars_today": 83837,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-12T21:32:12Z",
+    "updated": "2026-08-13T00:54:32Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-12T21:32:12Z",
+    "updated": "2026-08-13T00:54:32Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-12T21:32:12Z",
+    "updated": "2026-08-13T00:54:32Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
-            "insight": "HN 热议：656 分 · 104 评论",
+            "insight": "HN 热议：775 分 · 137 评论",
             "sentiment": "positive",
-            "comments": 104,
+            "comments": 137,
             "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
-            "insight": "HN 热议：195 分 · 124 评论",
+            "title": "Show HN: Ballet – Workflow automation that writes integrations against any API",
+            "insight": "HN 热议：11 分 · 1 评论",
             "sentiment": "neutral",
-            "comments": 124,
-            "url": "https://knownagents.com/insights",
+            "comments": 1,
+            "url": "https://www.ballet.dev/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "AI is removing the middle class of software engineering?",
-            "insight": "HN 热议：624 分 · 511 评论",
-            "sentiment": "positive",
-            "comments": 511,
-            "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+            "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
+            "insight": "HN 热议：113 分 · 21 评论",
+            "sentiment": "neutral",
+            "comments": 21,
+            "url": "https://discoveredmaterials.com/research/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Lovable raises $400M Series C",
-            "insight": "HN 热议：69 分 · 48 评论",
-            "sentiment": "neutral",
-            "comments": 48,
-            "url": "https://lovable.dev/blog/series-c",
+            "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
+            "insight": "HN 热议：226 分 · 164 评论",
+            "sentiment": "positive",
+            "comments": 164,
+            "url": "https://knownagents.com/insights",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "What sort of maths are LLMs good at?",
-            "insight": "HN 热议：220 分 · 121 评论",
-            "sentiment": "positive",
-            "comments": 121,
-            "url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
+            "title": "Lovable raises $400M Series C",
+            "insight": "HN 热议：89 分 · 83 评论",
+            "sentiment": "neutral",
+            "comments": 83,
+            "url": "https://lovable.dev/blog/series-c",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-12T21:32:12Z",
+    "updated": "2026-08-13T00:54:32Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
