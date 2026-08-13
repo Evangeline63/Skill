@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-13T15:45:16Z",
+    "updated": "2026-08-13T18:43:55Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-13T15:45:16Z",
+    "updated": "2026-08-13T18:43:55Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-13T15:45:16Z",
+    "updated": "2026-08-13T18:43:55Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 186586,
-            "stars_today": 186586,
+            "stars": 186590,
+            "stars_today": 186590,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 167082,
-            "stars_today": 167082,
+            "stars": 167088,
+            "stars_today": 167088,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 102585,
-            "stars_today": 102585,
+            "stars": 102597,
+            "stars_today": 102597,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95916,
-            "stars_today": 95916,
+            "stars": 95919,
+            "stars_today": 95919,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 90629,
-            "stars_today": 90629,
+            "stars": 90641,
+            "stars_today": 90641,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 83919,
-            "stars_today": 83919,
+            "stars": 83933,
+            "stars_today": 83933,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-13T15:45:16Z",
+    "updated": "2026-08-13T18:43:55Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-13T15:45:16Z",
+    "updated": "2026-08-13T18:43:55Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-13T15:45:16Z",
+    "updated": "2026-08-13T18:43:55Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Heart Aerospace Completes First Flight of Largest Electric Aircraft",
-            "insight": "HN 热议：59 分 · 40 评论",
-            "sentiment": "neutral",
-            "comments": 40,
-            "url": "https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft",
+            "title": "Gemini 3.7 Flash",
+            "insight": "HN 热议：233 分 · 159 评论",
+            "sentiment": "positive",
+            "comments": 159,
+            "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "AI agents lie, cheat and steal. That is putting off users",
-            "insight": "HN 热议：109 分 · 110 评论",
+            "title": "Mistral OCR 4.1",
+            "insight": "HN 热议：93 分 · 23 评论",
             "sentiment": "neutral",
-            "comments": 110,
-            "url": "https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users",
+            "comments": 23,
+            "url": "https://docs.mistral.ai/models/ocr-4-1",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: MCP Memory – Fast Agent Memory Using Google's OKF and SQLite FTS5",
-            "insight": "HN 热议：27 分 · 11 评论",
+            "title": "Accelerating GPT-5.6 Sol Ultrafast",
+            "insight": "HN 热议：49 分 · 6 评论",
             "sentiment": "neutral",
-            "comments": 11,
-            "url": "https://github.com/fellowgeek/mcp-memory",
+            "comments": 6,
+            "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "I Built a 500k-Domain Search Engine for Makers in a Weekend for $10",
-            "insight": "HN 热议：33 分 · 23 评论",
+            "title": "AI At Home Part 1: A Box Of Scraps",
+            "insight": "HN 热议：30 分 · 10 评论",
             "sentiment": "neutral",
-            "comments": 23,
-            "url": "https://alexmorleyfinch.github.io/marlin/history/v1/article/the_birth.html",
+            "comments": 10,
+            "url": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "We eliminated 1,400 CVEs in NanoClaw's container images",
-            "insight": "HN 热议：18 分 · 5 评论",
+            "title": "Choosing an AI model: one prompt, 11 models, different results",
+            "insight": "HN 热议：127 分 · 57 评论",
             "sentiment": "neutral",
-            "comments": 5,
-            "url": "https://www.echo.ai/blog/echo-xnanoclaw-under-the-hood",
+            "comments": 57,
+            "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-13T15:45:16Z",
+    "updated": "2026-08-13T18:43:55Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

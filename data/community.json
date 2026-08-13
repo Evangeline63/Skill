@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-13T15:45:16Z",
+  "updated": "2026-08-13T18:43:55Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Heart Aerospace Completes First Flight of Largest Electric Aircraft",
-      "insight": "HN 热议：59 分 · 40 评论",
-      "sentiment": "neutral",
-      "comments": 40,
-      "url": "https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft",
+      "title": "Gemini 3.7 Flash",
+      "insight": "HN 热议：233 分 · 159 评论",
+      "sentiment": "positive",
+      "comments": 159,
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "AI agents lie, cheat and steal. That is putting off users",
-      "insight": "HN 热议：109 分 · 110 评论",
+      "title": "Mistral OCR 4.1",
+      "insight": "HN 热议：93 分 · 23 评论",
       "sentiment": "neutral",
-      "comments": 110,
-      "url": "https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users",
+      "comments": 23,
+      "url": "https://docs.mistral.ai/models/ocr-4-1",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: MCP Memory – Fast Agent Memory Using Google's OKF and SQLite FTS5",
-      "insight": "HN 热议：27 分 · 11 评论",
+      "title": "Accelerating GPT-5.6 Sol Ultrafast",
+      "insight": "HN 热议：49 分 · 6 评论",
       "sentiment": "neutral",
-      "comments": 11,
-      "url": "https://github.com/fellowgeek/mcp-memory",
+      "comments": 6,
+      "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "I Built a 500k-Domain Search Engine for Makers in a Weekend for $10",
-      "insight": "HN 热议：33 分 · 23 评论",
+      "title": "AI At Home Part 1: A Box Of Scraps",
+      "insight": "HN 热议：30 分 · 10 评论",
       "sentiment": "neutral",
-      "comments": 23,
-      "url": "https://alexmorleyfinch.github.io/marlin/history/v1/article/the_birth.html",
+      "comments": 10,
+      "url": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "We eliminated 1,400 CVEs in NanoClaw's container images",
-      "insight": "HN 热议：18 分 · 5 评论",
+      "title": "Choosing an AI model: one prompt, 11 models, different results",
+      "insight": "HN 热议：127 分 · 57 评论",
       "sentiment": "neutral",
-      "comments": 5,
-      "url": "https://www.echo.ai/blog/echo-xnanoclaw-under-the-hood",
+      "comments": 57,
+      "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
       "id": 5
     }
   ]
