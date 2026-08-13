@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-13T00:54:32Z",
+    "updated": "2026-08-13T04:42:31Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-13T00:54:32Z",
+    "updated": "2026-08-13T04:42:31Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-13T00:54:32Z",
+    "updated": "2026-08-13T04:42:31Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 186563,
-            "stars_today": 186563,
+            "stars": 186573,
+            "stars_today": 186573,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 167062,
-            "stars_today": 167062,
+            "stars": 167071,
+            "stars_today": 167071,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 102532,
-            "stars_today": 102532,
+            "stars": 102541,
+            "stars_today": 102541,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95894,
-            "stars_today": 95894,
+            "stars": 95895,
+            "stars_today": 95895,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 90552,
-            "stars_today": 90552,
+            "stars": 90573,
+            "stars_today": 90573,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 83837,
-            "stars_today": 83837,
+            "stars": 83858,
+            "stars_today": 83858,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-13T00:54:32Z",
+    "updated": "2026-08-13T04:42:31Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-13T00:54:32Z",
+    "updated": "2026-08-13T04:42:31Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-13T00:54:32Z",
+    "updated": "2026-08-13T04:42:31Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
-            "insight": "HN 热议：775 分 · 137 评论",
+            "insight": "HN 热议：880 分 · 173 评论",
             "sentiment": "positive",
-            "comments": 137,
+            "comments": 173,
             "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Ballet – Workflow automation that writes integrations against any API",
-            "insight": "HN 热议：11 分 · 1 评论",
+            "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
+            "insight": "HN 热议：127 分 · 28 评论",
             "sentiment": "neutral",
-            "comments": 1,
-            "url": "https://www.ballet.dev/",
+            "comments": 28,
+            "url": "https://discoveredmaterials.com/research/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
-            "insight": "HN 热议：113 分 · 21 评论",
+            "title": "Show HN: Ballet – Workflow automation that writes integrations against any API",
+            "insight": "HN 热议：24 分 · 3 评论",
             "sentiment": "neutral",
-            "comments": 21,
-            "url": "https://discoveredmaterials.com/research/",
+            "comments": 3,
+            "url": "https://www.ballet.dev/",
             "id": 3
         },
         {
             "source": "HackerNews",
             "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
-            "insight": "HN 热议：226 分 · 164 评论",
+            "insight": "HN 热议：251 分 · 188 评论",
             "sentiment": "positive",
-            "comments": 164,
+            "comments": 188,
             "url": "https://knownagents.com/insights",
             "id": 4
         },
         {
             "source": "HackerNews",
             "title": "Lovable raises $400M Series C",
-            "insight": "HN 热议：89 分 · 83 评论",
+            "insight": "HN 热议：106 分 · 108 评论",
             "sentiment": "neutral",
-            "comments": 83,
+            "comments": 108,
             "url": "https://lovable.dev/blog/series-c",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-13T00:54:32Z",
+    "updated": "2026-08-13T04:42:31Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

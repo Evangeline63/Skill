@@ -1,48 +1,48 @@
 {
-  "updated": "2026-08-13T00:54:32Z",
+  "updated": "2026-08-13T04:42:31Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
-      "insight": "HN 热议：775 分 · 137 评论",
+      "insight": "HN 热议：880 分 · 173 评论",
       "sentiment": "positive",
-      "comments": 137,
+      "comments": 173,
       "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Ballet – Workflow automation that writes integrations against any API",
-      "insight": "HN 热议：11 分 · 1 评论",
+      "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
+      "insight": "HN 热议：127 分 · 28 评论",
       "sentiment": "neutral",
-      "comments": 1,
-      "url": "https://www.ballet.dev/",
+      "comments": 28,
+      "url": "https://discoveredmaterials.com/research/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
-      "insight": "HN 热议：113 分 · 21 评论",
+      "title": "Show HN: Ballet – Workflow automation that writes integrations against any API",
+      "insight": "HN 热议：24 分 · 3 评论",
       "sentiment": "neutral",
-      "comments": 21,
-      "url": "https://discoveredmaterials.com/research/",
+      "comments": 3,
+      "url": "https://www.ballet.dev/",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
-      "insight": "HN 热议：226 分 · 164 评论",
+      "insight": "HN 热议：251 分 · 188 评论",
       "sentiment": "positive",
-      "comments": 164,
+      "comments": 188,
       "url": "https://knownagents.com/insights",
       "id": 4
     },
     {
       "source": "HackerNews",
       "title": "Lovable raises $400M Series C",
-      "insight": "HN 热议：89 分 · 83 评论",
+      "insight": "HN 热议：106 分 · 108 评论",
       "sentiment": "neutral",
-      "comments": 83,
+      "comments": 108,
       "url": "https://lovable.dev/blog/series-c",
       "id": 5
     }
