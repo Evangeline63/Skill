@@ -1,48 +1,48 @@
 {
-  "updated": "2026-08-13T09:51:23Z",
+  "updated": "2026-08-13T12:39:34Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "ChatGPT Desktop (Codex Desktop) for Linux",
-      "insight": "HN 热议：128 分 · 59 评论",
-      "sentiment": "neutral",
-      "comments": 59,
+      "insight": "HN 热议：244 分 · 158 评论",
+      "sentiment": "positive",
+      "comments": 158,
       "url": "https://openai.com/codex/",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
-      "insight": "HN 热议：137 分 · 29 评论",
+      "insight": "HN 热议：147 分 · 32 评论",
       "sentiment": "neutral",
-      "comments": 29,
+      "comments": 32,
       "url": "https://discoveredmaterials.com/research/",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
-      "insight": "HN 热议：277 分 · 203 评论",
+      "insight": "HN 热议：286 分 · 216 评论",
       "sentiment": "positive",
-      "comments": 203,
+      "comments": 216,
       "url": "https://knownagents.com/insights",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "Lovable raises $400M Series C",
-      "insight": "HN 热议：144 分 · 152 评论",
+      "insight": "HN 热议：151 分 · 167 评论",
       "sentiment": "neutral",
-      "comments": 152,
+      "comments": 167,
       "url": "https://lovable.dev/blog/series-c",
       "id": 4
     },
     {
       "source": "HackerNews",
       "title": "AI is removing the middle class of software engineering?",
-      "insight": "HN 热议：880 分 · 789 评论",
+      "insight": "HN 热议：916 分 · 817 评论",
       "sentiment": "positive",
-      "comments": 789,
+      "comments": 817,
       "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
       "id": 5
     }
