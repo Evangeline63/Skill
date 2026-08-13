@@ -1,19 +1,19 @@
 {
-  "updated": "2026-08-13T04:42:31Z",
+  "updated": "2026-08-13T07:06:50Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
-      "insight": "HN 热议：880 分 · 173 评论",
-      "sentiment": "positive",
-      "comments": 173,
-      "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+      "title": "ChatGPT Desktop (Codex Desktop) for Linux",
+      "insight": "HN 热议：17 分 · 4 评论",
+      "sentiment": "neutral",
+      "comments": 4,
+      "url": "https://openai.com/codex/",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
-      "insight": "HN 热议：127 分 · 28 评论",
+      "insight": "HN 热议：132 分 · 28 评论",
       "sentiment": "neutral",
       "comments": 28,
       "url": "https://discoveredmaterials.com/research/",
@@ -21,29 +21,29 @@
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Ballet – Workflow automation that writes integrations against any API",
-      "insight": "HN 热议：24 分 · 3 评论",
-      "sentiment": "neutral",
-      "comments": 3,
-      "url": "https://www.ballet.dev/",
+      "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
+      "insight": "HN 热议：265 分 · 199 评论",
+      "sentiment": "positive",
+      "comments": 199,
+      "url": "https://knownagents.com/insights",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
-      "insight": "HN 热议：251 分 · 188 评论",
-      "sentiment": "positive",
-      "comments": 188,
-      "url": "https://knownagents.com/insights",
+      "title": "Lovable raises $400M Series C",
+      "insight": "HN 热议：128 分 · 121 评论",
+      "sentiment": "neutral",
+      "comments": 121,
+      "url": "https://lovable.dev/blog/series-c",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Lovable raises $400M Series C",
-      "insight": "HN 热议：106 分 · 108 评论",
+      "title": "Show HN: Ballet – Workflow automation that writes integrations against any API",
+      "insight": "HN 热议：29 分 · 7 评论",
       "sentiment": "neutral",
-      "comments": 108,
-      "url": "https://lovable.dev/blog/series-c",
+      "comments": 7,
+      "url": "https://www.ballet.dev/",
       "id": 5
     }
   ]
