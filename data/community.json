@@ -1,48 +1,48 @@
 {
-  "updated": "2026-08-14T04:40:21Z",
+  "updated": "2026-08-14T07:03:19Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Gemini 3.7 Flash",
-      "insight": "HN 热议：690 分 · 383 评论",
+      "insight": "HN 热议：773 分 · 405 评论",
       "sentiment": "positive",
-      "comments": 383,
+      "comments": 405,
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "Accelerating GPT-5.6 Sol Ultrafast",
-      "insight": "HN 热议：491 分 · 204 评论",
+      "insight": "HN 热议：543 分 · 226 评论",
       "sentiment": "positive",
-      "comments": 204,
+      "comments": 226,
       "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "Mistral OCR 4.1",
-      "insight": "HN 热议：272 分 · 110 评论",
+      "insight": "HN 热议：311 分 · 118 评论",
       "sentiment": "positive",
-      "comments": 110,
+      "comments": 118,
       "url": "https://docs.mistral.ai/models/ocr-4-1",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "Nine PBS sues Iron Mountain over blocked access to archival data",
-      "insight": "HN 热议：273 分 · 156 评论",
+      "insight": "HN 热议：294 分 · 166 评论",
       "sentiment": "positive",
-      "comments": 156,
+      "comments": 166,
       "url": "https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data/",
       "id": 4
     },
     {
       "source": "HackerNews",
       "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
-      "insight": "HN 热议：84 分 · 48 评论",
+      "insight": "HN 热议：96 分 · 52 评论",
       "sentiment": "neutral",
-      "comments": 48,
+      "comments": 52,
       "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
       "id": 5
     }

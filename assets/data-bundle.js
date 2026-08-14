@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-14T04:40:21Z",
+    "updated": "2026-08-14T07:03:19Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-14T04:40:21Z",
+    "updated": "2026-08-14T07:03:19Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-14T04:40:21Z",
+    "updated": "2026-08-14T07:03:19Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 186614,
-            "stars_today": 186614,
+            "stars": 186615,
+            "stars_today": 186615,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 167106,
-            "stars_today": 167106,
+            "stars": 167110,
+            "stars_today": 167110,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 102617,
-            "stars_today": 102617,
+            "stars": 102624,
+            "stars_today": 102624,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95926,
-            "stars_today": 95926,
+            "stars": 95928,
+            "stars_today": 95928,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 90677,
-            "stars_today": 90677,
+            "stars": 90693,
+            "stars_today": 90693,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 83973,
-            "stars_today": 83973,
+            "stars": 83982,
+            "stars_today": 83982,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-14T04:40:21Z",
+    "updated": "2026-08-14T07:03:19Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-14T04:40:21Z",
+    "updated": "2026-08-14T07:03:19Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-14T04:40:21Z",
+    "updated": "2026-08-14T07:03:19Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Gemini 3.7 Flash",
-            "insight": "HN 热议：690 分 · 383 评论",
+            "insight": "HN 热议：773 分 · 405 评论",
             "sentiment": "positive",
-            "comments": 383,
+            "comments": 405,
             "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "Accelerating GPT-5.6 Sol Ultrafast",
-            "insight": "HN 热议：491 分 · 204 评论",
+            "insight": "HN 热议：543 分 · 226 评论",
             "sentiment": "positive",
-            "comments": 204,
+            "comments": 226,
             "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "Mistral OCR 4.1",
-            "insight": "HN 热议：272 分 · 110 评论",
+            "insight": "HN 热议：311 分 · 118 评论",
             "sentiment": "positive",
-            "comments": 110,
+            "comments": 118,
             "url": "https://docs.mistral.ai/models/ocr-4-1",
             "id": 3
         },
         {
             "source": "HackerNews",
             "title": "Nine PBS sues Iron Mountain over blocked access to archival data",
-            "insight": "HN 热议：273 分 · 156 评论",
+            "insight": "HN 热议：294 分 · 166 评论",
             "sentiment": "positive",
-            "comments": 156,
+            "comments": 166,
             "url": "https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data/",
             "id": 4
         },
         {
             "source": "HackerNews",
             "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
-            "insight": "HN 热议：84 分 · 48 评论",
+            "insight": "HN 热议：96 分 · 52 评论",
             "sentiment": "neutral",
-            "comments": 48,
+            "comments": 52,
             "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-14T04:40:21Z",
+    "updated": "2026-08-14T07:03:19Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
