@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-14T18:37:15Z",
+  "updated": "2026-08-14T21:13:14Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Maximizing the value of your Claude Code sessions",
-      "insight": "HN 热议：43 分 · 23 评论",
+      "title": "Anthropic Risk August 2026 [pdf]",
+      "insight": "HN 热议：35 分 · 22 评论",
       "sentiment": "neutral",
-      "comments": 23,
-      "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
+      "comments": 22,
+      "url": "https://www-cdn.anthropic.com/f61d49fa5596956a5dec75fea0e973bf6a6a8378/Redacted%20Risk%20Report%20August%202026%20.pdf",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "AI by Hand",
-      "insight": "HN 热议：61 分 · 4 评论",
+      "title": "Google is making private AI practical with homomorphic encryption",
+      "insight": "HN 热议：185 分 · 121 评论",
       "sentiment": "neutral",
-      "comments": 4,
-      "url": "https://www.byhand.ai/",
+      "comments": 121,
+      "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Google is making private AI practical with homomorphic encryption",
-      "insight": "HN 热议：84 分 · 63 评论",
+      "title": "AI by Hand",
+      "insight": "HN 热议：116 分 · 11 评论",
       "sentiment": "neutral",
-      "comments": 63,
-      "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+      "comments": 11,
+      "url": "https://www.byhand.ai/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "AI Model Atlas – visualizing populations of ML models as interconnected 3D graph",
-      "insight": "HN 热议：30 分 · 4 评论",
+      "title": "What You Gain by Building Your Own Game Engine",
+      "insight": "HN 热议：11 分 · 7 评论",
       "sentiment": "neutral",
-      "comments": 4,
-      "url": "https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0",
+      "comments": 7,
+      "url": "https://eliasfarhan.ch/gamedev/cpp/2026/08/14/srnative-01-why-a-custom-engine.html",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
-      "insight": "HN 热议：5 分 · 0 评论",
+      "title": "Show HN: Mole – Deep research agent for your terminal",
+      "insight": "HN 热议：23 分 · 5 评论",
       "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://arxiv.org/abs/2608.12700",
+      "comments": 5,
+      "url": "https://github.com/lajosdeme/mole",
       "id": 5
     }
   ]
