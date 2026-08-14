@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-14T12:35:21Z",
+  "updated": "2026-08-14T15:38:59Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Gemini 3.7 Flash",
-      "insight": "HN 热议：887 分 · 451 评论",
-      "sentiment": "positive",
-      "comments": 451,
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+      "title": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
+      "insight": "HN 热议：44 分 · 28 评论",
+      "sentiment": "neutral",
+      "comments": 28,
+      "url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Accelerating GPT-5.6 Sol Ultrafast",
-      "insight": "HN 热议：639 分 · 252 评论",
-      "sentiment": "positive",
-      "comments": 252,
-      "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
+      "title": "HashAgent – Share an AI agent as a URL, runs locally via WebGPU",
+      "insight": "HN 热议：19 分 · 3 评论",
+      "sentiment": "neutral",
+      "comments": 3,
+      "url": "https://hashagent.pages.dev/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Ruby 4.0 Universal RCE Deserialization Gadget Chain",
-      "insight": "HN 热议：48 分 · 11 评论",
-      "sentiment": "neutral",
-      "comments": 11,
-      "url": "https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain",
+      "title": "Gemini 3.7 Flash",
+      "insight": "HN 热议：930 分 · 470 评论",
+      "sentiment": "positive",
+      "comments": 470,
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Mistral OCR 4.1",
-      "insight": "HN 热议：375 分 · 152 评论",
-      "sentiment": "positive",
-      "comments": 152,
-      "url": "https://docs.mistral.ai/models/ocr-4-1",
+      "title": "Show HN: APIMart: Discounted AI API Aggregator for GPT-5, Sora 2",
+      "insight": "HN 热议：5 分 · 1 评论",
+      "sentiment": "neutral",
+      "comments": 1,
+      "url": "https://apimart.ai/register?aff=yScTCM",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Nine PBS sues Iron Mountain over blocked access to archival data",
-      "insight": "HN 热议：332 分 · 194 评论",
-      "sentiment": "positive",
-      "comments": 194,
-      "url": "https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data/",
+      "title": "AI Model Atlas – visualizing populations of ML models as interconnected 3D graph",
+      "insight": "HN 热议：7 分 · 0 评论",
+      "sentiment": "neutral",
+      "comments": 0,
+      "url": "https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0",
       "id": 5
     }
   ]

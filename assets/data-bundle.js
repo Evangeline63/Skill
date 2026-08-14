@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-14T12:35:21Z",
+    "updated": "2026-08-14T15:38:59Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-14T12:35:21Z",
+    "updated": "2026-08-14T15:38:59Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,7 +266,7 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-14T12:35:21Z",
+    "updated": "2026-08-14T15:38:59Z",
     "repos": [
         {
             "rank": 1,
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 167120,
-            "stars_today": 167120,
+            "stars": 167118,
+            "stars_today": 167118,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 102642,
-            "stars_today": 102642,
+            "stars": 102646,
+            "stars_today": 102646,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95937,
-            "stars_today": 95937,
+            "stars": 95934,
+            "stars_today": 95934,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 90721,
-            "stars_today": 90721,
+            "stars": 90734,
+            "stars_today": 90734,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 84009,
-            "stars_today": 84009,
+            "stars": 84023,
+            "stars_today": 84023,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-14T12:35:21Z",
+    "updated": "2026-08-14T15:38:59Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-14T12:35:21Z",
+    "updated": "2026-08-14T15:38:59Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-14T12:35:21Z",
+    "updated": "2026-08-14T15:38:59Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Gemini 3.7 Flash",
-            "insight": "HN 热议：887 分 · 451 评论",
-            "sentiment": "positive",
-            "comments": 451,
-            "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+            "title": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
+            "insight": "HN 热议：44 分 · 28 评论",
+            "sentiment": "neutral",
+            "comments": 28,
+            "url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Accelerating GPT-5.6 Sol Ultrafast",
-            "insight": "HN 热议：639 分 · 252 评论",
-            "sentiment": "positive",
-            "comments": 252,
-            "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
+            "title": "HashAgent – Share an AI agent as a URL, runs locally via WebGPU",
+            "insight": "HN 热议：19 分 · 3 评论",
+            "sentiment": "neutral",
+            "comments": 3,
+            "url": "https://hashagent.pages.dev/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Ruby 4.0 Universal RCE Deserialization Gadget Chain",
-            "insight": "HN 热议：48 分 · 11 评论",
-            "sentiment": "neutral",
-            "comments": 11,
-            "url": "https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain",
+            "title": "Gemini 3.7 Flash",
+            "insight": "HN 热议：930 分 · 470 评论",
+            "sentiment": "positive",
+            "comments": 470,
+            "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Mistral OCR 4.1",
-            "insight": "HN 热议：375 分 · 152 评论",
-            "sentiment": "positive",
-            "comments": 152,
-            "url": "https://docs.mistral.ai/models/ocr-4-1",
+            "title": "Show HN: APIMart: Discounted AI API Aggregator for GPT-5, Sora 2",
+            "insight": "HN 热议：5 分 · 1 评论",
+            "sentiment": "neutral",
+            "comments": 1,
+            "url": "https://apimart.ai/register?aff=yScTCM",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Nine PBS sues Iron Mountain over blocked access to archival data",
-            "insight": "HN 热议：332 分 · 194 评论",
-            "sentiment": "positive",
-            "comments": 194,
-            "url": "https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data/",
+            "title": "AI Model Atlas – visualizing populations of ML models as interconnected 3D graph",
+            "insight": "HN 热议：7 分 · 0 评论",
+            "sentiment": "neutral",
+            "comments": 0,
+            "url": "https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-14T12:35:21Z",
+    "updated": "2026-08-14T15:38:59Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
