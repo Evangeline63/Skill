@@ -1,48 +1,48 @@
 {
-  "updated": "2026-08-14T09:48:53Z",
+  "updated": "2026-08-14T12:35:21Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Gemini 3.7 Flash",
-      "insight": "HN 热议：836 分 · 433 评论",
+      "insight": "HN 热议：887 分 · 451 评论",
       "sentiment": "positive",
-      "comments": 433,
+      "comments": 451,
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "Accelerating GPT-5.6 Sol Ultrafast",
-      "insight": "HN 热议：600 分 · 239 评论",
+      "insight": "HN 热议：639 分 · 252 评论",
       "sentiment": "positive",
-      "comments": 239,
+      "comments": 252,
       "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Mistral OCR 4.1",
-      "insight": "HN 热议：351 分 · 138 评论",
-      "sentiment": "positive",
-      "comments": 138,
-      "url": "https://docs.mistral.ai/models/ocr-4-1",
+      "title": "Ruby 4.0 Universal RCE Deserialization Gadget Chain",
+      "insight": "HN 热议：48 分 · 11 评论",
+      "sentiment": "neutral",
+      "comments": 11,
+      "url": "https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Ruby 4.0 Universal RCE Deserialization Gadget Chain",
-      "insight": "HN 热议：25 分 · 4 评论",
-      "sentiment": "neutral",
-      "comments": 4,
-      "url": "https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain",
+      "title": "Mistral OCR 4.1",
+      "insight": "HN 热议：375 分 · 152 评论",
+      "sentiment": "positive",
+      "comments": 152,
+      "url": "https://docs.mistral.ai/models/ocr-4-1",
       "id": 4
     },
     {
       "source": "HackerNews",
       "title": "Nine PBS sues Iron Mountain over blocked access to archival data",
-      "insight": "HN 热议：310 分 · 182 评论",
+      "insight": "HN 热议：332 分 · 194 评论",
       "sentiment": "positive",
-      "comments": 182,
+      "comments": 194,
       "url": "https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data/",
       "id": 5
     }
