@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-14T15:38:59Z",
+    "updated": "2026-08-14T18:37:15Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-14T15:38:59Z",
+    "updated": "2026-08-14T18:37:15Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-14T15:38:59Z",
+    "updated": "2026-08-14T18:37:15Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 186617,
-            "stars_today": 186617,
+            "stars": 186620,
+            "stars_today": 186620,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 167118,
-            "stars_today": 167118,
+            "stars": 167123,
+            "stars_today": 167123,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 102646,
-            "stars_today": 102646,
+            "stars": 102662,
+            "stars_today": 102662,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95934,
-            "stars_today": 95934,
+            "stars": 95935,
+            "stars_today": 95935,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 90734,
-            "stars_today": 90734,
+            "stars": 90747,
+            "stars_today": 90747,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 84023,
-            "stars_today": 84023,
+            "stars": 84036,
+            "stars_today": 84036,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-14T15:38:59Z",
+    "updated": "2026-08-14T18:37:15Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-14T15:38:59Z",
+    "updated": "2026-08-14T18:37:15Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-14T15:38:59Z",
+    "updated": "2026-08-14T18:37:15Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
-            "insight": "HN 热议：44 分 · 28 评论",
+            "title": "Maximizing the value of your Claude Code sessions",
+            "insight": "HN 热议：43 分 · 23 评论",
             "sentiment": "neutral",
-            "comments": 28,
-            "url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
+            "comments": 23,
+            "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "HashAgent – Share an AI agent as a URL, runs locally via WebGPU",
-            "insight": "HN 热议：19 分 · 3 评论",
+            "title": "AI by Hand",
+            "insight": "HN 热议：61 分 · 4 评论",
             "sentiment": "neutral",
-            "comments": 3,
-            "url": "https://hashagent.pages.dev/",
+            "comments": 4,
+            "url": "https://www.byhand.ai/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Gemini 3.7 Flash",
-            "insight": "HN 热议：930 分 · 470 评论",
-            "sentiment": "positive",
-            "comments": 470,
-            "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+            "title": "Google is making private AI practical with homomorphic encryption",
+            "insight": "HN 热议：84 分 · 63 评论",
+            "sentiment": "neutral",
+            "comments": 63,
+            "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: APIMart: Discounted AI API Aggregator for GPT-5, Sora 2",
-            "insight": "HN 热议：5 分 · 1 评论",
+            "title": "AI Model Atlas – visualizing populations of ML models as interconnected 3D graph",
+            "insight": "HN 热议：30 分 · 4 评论",
             "sentiment": "neutral",
-            "comments": 1,
-            "url": "https://apimart.ai/register?aff=yScTCM",
+            "comments": 4,
+            "url": "https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "AI Model Atlas – visualizing populations of ML models as interconnected 3D graph",
-            "insight": "HN 热议：7 分 · 0 评论",
+            "title": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
+            "insight": "HN 热议：5 分 · 0 评论",
             "sentiment": "neutral",
             "comments": 0,
-            "url": "https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0",
+            "url": "https://arxiv.org/abs/2608.12700",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-14T15:38:59Z",
+    "updated": "2026-08-14T18:37:15Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
