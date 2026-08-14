@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-14T07:03:19Z",
+  "updated": "2026-08-14T09:48:53Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Gemini 3.7 Flash",
-      "insight": "HN 热议：773 分 · 405 评论",
+      "insight": "HN 热议：836 分 · 433 评论",
       "sentiment": "positive",
-      "comments": 405,
+      "comments": 433,
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "Accelerating GPT-5.6 Sol Ultrafast",
-      "insight": "HN 热议：543 分 · 226 评论",
+      "insight": "HN 热议：600 分 · 239 评论",
       "sentiment": "positive",
-      "comments": 226,
+      "comments": 239,
       "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "Mistral OCR 4.1",
-      "insight": "HN 热议：311 分 · 118 评论",
+      "insight": "HN 热议：351 分 · 138 评论",
       "sentiment": "positive",
-      "comments": 118,
+      "comments": 138,
       "url": "https://docs.mistral.ai/models/ocr-4-1",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Nine PBS sues Iron Mountain over blocked access to archival data",
-      "insight": "HN 热议：294 分 · 166 评论",
-      "sentiment": "positive",
-      "comments": 166,
-      "url": "https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data/",
+      "title": "Ruby 4.0 Universal RCE Deserialization Gadget Chain",
+      "insight": "HN 热议：25 分 · 4 评论",
+      "sentiment": "neutral",
+      "comments": 4,
+      "url": "https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
-      "insight": "HN 热议：96 分 · 52 评论",
-      "sentiment": "neutral",
-      "comments": 52,
-      "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
+      "title": "Nine PBS sues Iron Mountain over blocked access to archival data",
+      "insight": "HN 热议：310 分 · 182 评论",
+      "sentiment": "positive",
+      "comments": 182,
+      "url": "https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data/",
       "id": 5
     }
   ]

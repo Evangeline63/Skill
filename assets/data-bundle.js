@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-14T07:03:19Z",
+    "updated": "2026-08-14T09:48:53Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-14T07:03:19Z",
+    "updated": "2026-08-14T09:48:53Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-14T07:03:19Z",
+    "updated": "2026-08-14T09:48:53Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 186615,
-            "stars_today": 186615,
+            "stars": 186618,
+            "stars_today": 186618,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 167110,
-            "stars_today": 167110,
+            "stars": 167117,
+            "stars_today": 167117,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 102624,
-            "stars_today": 102624,
+            "stars": 102636,
+            "stars_today": 102636,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95928,
-            "stars_today": 95928,
+            "stars": 95932,
+            "stars_today": 95932,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 90693,
-            "stars_today": 90693,
+            "stars": 90703,
+            "stars_today": 90703,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 83982,
-            "stars_today": 83982,
+            "stars": 84001,
+            "stars_today": 84001,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-14T07:03:19Z",
+    "updated": "2026-08-14T09:48:53Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-14T07:03:19Z",
+    "updated": "2026-08-14T09:48:53Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-14T07:03:19Z",
+    "updated": "2026-08-14T09:48:53Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Gemini 3.7 Flash",
-            "insight": "HN 热议：773 分 · 405 评论",
+            "insight": "HN 热议：836 分 · 433 评论",
             "sentiment": "positive",
-            "comments": 405,
+            "comments": 433,
             "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "Accelerating GPT-5.6 Sol Ultrafast",
-            "insight": "HN 热议：543 分 · 226 评论",
+            "insight": "HN 热议：600 分 · 239 评论",
             "sentiment": "positive",
-            "comments": 226,
+            "comments": 239,
             "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "Mistral OCR 4.1",
-            "insight": "HN 热议：311 分 · 118 评论",
+            "insight": "HN 热议：351 分 · 138 评论",
             "sentiment": "positive",
-            "comments": 118,
+            "comments": 138,
             "url": "https://docs.mistral.ai/models/ocr-4-1",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Nine PBS sues Iron Mountain over blocked access to archival data",
-            "insight": "HN 热议：294 分 · 166 评论",
-            "sentiment": "positive",
-            "comments": 166,
-            "url": "https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data/",
+            "title": "Ruby 4.0 Universal RCE Deserialization Gadget Chain",
+            "insight": "HN 热议：25 分 · 4 评论",
+            "sentiment": "neutral",
+            "comments": 4,
+            "url": "https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
-            "insight": "HN 热议：96 分 · 52 评论",
-            "sentiment": "neutral",
-            "comments": 52,
-            "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
+            "title": "Nine PBS sues Iron Mountain over blocked access to archival data",
+            "insight": "HN 热议：310 分 · 182 评论",
+            "sentiment": "positive",
+            "comments": 182,
+            "url": "https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-14T07:03:19Z",
+    "updated": "2026-08-14T09:48:53Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
