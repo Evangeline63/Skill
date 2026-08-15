@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-14T21:13:14Z",
+    "updated": "2026-08-15T00:31:07Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-14T21:13:14Z",
+    "updated": "2026-08-15T00:31:07Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -325,7 +325,7 @@ window.__DATA__ = {
     ]
 },
   "products": {
-    "updated": "2026-08-14T21:13:14Z",
+    "updated": "2026-08-15T00:31:07Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-14T21:13:14Z",
+    "updated": "2026-08-15T00:31:07Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-14T21:13:14Z",
+    "updated": "2026-08-15T00:31:07Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Anthropic Risk August 2026 [pdf]",
-            "insight": "HN 热议：35 分 · 22 评论",
-            "sentiment": "neutral",
-            "comments": 22,
-            "url": "https://www-cdn.anthropic.com/f61d49fa5596956a5dec75fea0e973bf6a6a8378/Redacted%20Risk%20Report%20August%202026%20.pdf",
+            "title": "Google is making private AI practical with homomorphic encryption",
+            "insight": "HN 热议：264 分 · 160 评论",
+            "sentiment": "positive",
+            "comments": 160,
+            "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Google is making private AI practical with homomorphic encryption",
-            "insight": "HN 热议：185 分 · 121 评论",
+            "title": "AI by Hand",
+            "insight": "HN 热议：186 分 · 15 评论",
             "sentiment": "neutral",
-            "comments": 121,
-            "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+            "comments": 15,
+            "url": "https://www.byhand.ai/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "AI by Hand",
-            "insight": "HN 热议：116 分 · 11 评论",
+            "title": "Show HN: Mole – Deep research agent for your terminal",
+            "insight": "HN 热议：45 分 · 6 评论",
             "sentiment": "neutral",
-            "comments": 11,
-            "url": "https://www.byhand.ai/",
+            "comments": 6,
+            "url": "https://github.com/lajosdeme/mole",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "What You Gain by Building Your Own Game Engine",
-            "insight": "HN 热议：11 分 · 7 评论",
+            "title": "Maximizing the value of your Claude Code sessions",
+            "insight": "HN 热议：124 分 · 83 评论",
             "sentiment": "neutral",
-            "comments": 7,
-            "url": "https://eliasfarhan.ch/gamedev/cpp/2026/08/14/srnative-01-why-a-custom-engine.html",
+            "comments": 83,
+            "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Mole – Deep research agent for your terminal",
-            "insight": "HN 热议：23 分 · 5 评论",
+            "title": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
+            "insight": "HN 热议：32 分 · 0 评论",
             "sentiment": "neutral",
-            "comments": 5,
-            "url": "https://github.com/lajosdeme/mole",
+            "comments": 0,
+            "url": "https://arxiv.org/abs/2608.12700",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-14T21:13:14Z",
+    "updated": "2026-08-15T00:31:07Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
