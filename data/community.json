@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-15T12:12:47Z",
+  "updated": "2026-08-15T15:08:20Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
-      "insight": "HN 热议：50 分 · 14 评论",
+      "title": "Working with AI Feels More Like Leadership Than Coding",
+      "insight": "HN 热议：63 分 · 49 评论",
       "sentiment": "neutral",
-      "comments": 14,
-      "url": "https://chenxiachan.github.io/thoughtdag/",
+      "comments": 49,
+      "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Google is making private AI practical with homomorphic encryption",
-      "insight": "HN 热议：419 分 · 255 评论",
-      "sentiment": "positive",
-      "comments": 255,
-      "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+      "title": "GenRec: Towards LLM-Native Recommendation at Netflix",
+      "insight": "HN 热议：26 分 · 31 评论",
+      "sentiment": "neutral",
+      "comments": 31,
+      "url": "https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "AI by Hand",
-      "insight": "HN 热议：323 分 · 23 评论",
-      "sentiment": "positive",
-      "comments": 23,
-      "url": "https://www.byhand.ai/",
+      "title": "Yadda 3.0.0: BDD in the Age of AI Agents",
+      "insight": "HN 热议：13 分 · 3 评论",
+      "sentiment": "neutral",
+      "comments": 3,
+      "url": "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Maximizing the value of your Claude Code sessions",
-      "insight": "HN 热议：250 分 · 134 评论",
-      "sentiment": "positive",
-      "comments": 134,
-      "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
+      "title": "Secondhand book sales are booming. Is it because of AI?",
+      "insight": "HN 热议：21 分 · 21 评论",
+      "sentiment": "neutral",
+      "comments": 21,
+      "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Debian has begun voting on the future of AI/LLM contributions",
-      "insight": "HN 热议：32 分 · 20 评论",
+      "title": "Cloudflare's AI Psychosis",
+      "insight": "HN 热议：70 分 · 30 评论",
       "sentiment": "neutral",
-      "comments": 20,
-      "url": "https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html",
+      "comments": 30,
+      "url": "https://opensauce.it/cloudflare-ai-psychosis/",
       "id": 5
     }
   ]
