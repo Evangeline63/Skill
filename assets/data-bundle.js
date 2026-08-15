@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-15T00:31:07Z",
+    "updated": "2026-08-15T03:27:45Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-15T00:31:07Z",
+    "updated": "2026-08-15T03:27:45Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-14T21:13:14Z",
+    "updated": "2026-08-15T03:27:45Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 186625,
-            "stars_today": 186625,
+            "stars": 186606,
+            "stars_today": 186606,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 167124,
-            "stars_today": 167124,
+            "stars": 167137,
+            "stars_today": 167137,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 102666,
-            "stars_today": 102666,
+            "stars": 102672,
+            "stars_today": 102672,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95934,
-            "stars_today": 95934,
+            "stars": 95937,
+            "stars_today": 95937,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 90757,
-            "stars_today": 90757,
+            "stars": 90781,
+            "stars_today": 90781,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 84050,
-            "stars_today": 84050,
+            "stars": 84072,
+            "stars_today": 84072,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-15T00:31:07Z",
+    "updated": "2026-08-15T03:27:45Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-15T00:31:07Z",
+    "updated": "2026-08-15T03:27:45Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-15T00:31:07Z",
+    "updated": "2026-08-15T03:27:45Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Google is making private AI practical with homomorphic encryption",
-            "insight": "HN 热议：264 分 · 160 评论",
+            "insight": "HN 热议：301 分 · 178 评论",
             "sentiment": "positive",
-            "comments": 160,
+            "comments": 178,
             "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "AI by Hand",
-            "insight": "HN 热议：186 分 · 15 评论",
+            "title": "AI Driven Testing",
+            "insight": "HN 热议：3 分 · 0 评论",
             "sentiment": "neutral",
-            "comments": 15,
-            "url": "https://www.byhand.ai/",
+            "comments": 0,
+            "url": "https://app.deltix.ai",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Mole – Deep research agent for your terminal",
-            "insight": "HN 热议：45 分 · 6 评论",
-            "sentiment": "neutral",
-            "comments": 6,
-            "url": "https://github.com/lajosdeme/mole",
+            "title": "AI by Hand",
+            "insight": "HN 热议：224 分 · 19 评论",
+            "sentiment": "positive",
+            "comments": 19,
+            "url": "https://www.byhand.ai/",
             "id": 3
         },
         {
             "source": "HackerNews",
             "title": "Maximizing the value of your Claude Code sessions",
-            "insight": "HN 热议：124 分 · 83 评论",
+            "insight": "HN 热议：144 分 · 98 评论",
             "sentiment": "neutral",
-            "comments": 83,
+            "comments": 98,
             "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
-            "insight": "HN 热议：32 分 · 0 评论",
+            "title": "Show HN: Mole – Deep research agent for your terminal",
+            "insight": "HN 热议：54 分 · 8 评论",
             "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://arxiv.org/abs/2608.12700",
+            "comments": 8,
+            "url": "https://github.com/lajosdeme/mole",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-15T00:31:07Z",
+    "updated": "2026-08-15T03:27:45Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

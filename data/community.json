@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-15T00:31:07Z",
+  "updated": "2026-08-15T03:27:45Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Google is making private AI practical with homomorphic encryption",
-      "insight": "HN 热议：264 分 · 160 评论",
+      "insight": "HN 热议：301 分 · 178 评论",
       "sentiment": "positive",
-      "comments": 160,
+      "comments": 178,
       "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "AI by Hand",
-      "insight": "HN 热议：186 分 · 15 评论",
+      "title": "AI Driven Testing",
+      "insight": "HN 热议：3 分 · 0 评论",
       "sentiment": "neutral",
-      "comments": 15,
-      "url": "https://www.byhand.ai/",
+      "comments": 0,
+      "url": "https://app.deltix.ai",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Mole – Deep research agent for your terminal",
-      "insight": "HN 热议：45 分 · 6 评论",
-      "sentiment": "neutral",
-      "comments": 6,
-      "url": "https://github.com/lajosdeme/mole",
+      "title": "AI by Hand",
+      "insight": "HN 热议：224 分 · 19 评论",
+      "sentiment": "positive",
+      "comments": 19,
+      "url": "https://www.byhand.ai/",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "Maximizing the value of your Claude Code sessions",
-      "insight": "HN 热议：124 分 · 83 评论",
+      "insight": "HN 热议：144 分 · 98 评论",
       "sentiment": "neutral",
-      "comments": 83,
+      "comments": 98,
       "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
-      "insight": "HN 热议：32 分 · 0 评论",
+      "title": "Show HN: Mole – Deep research agent for your terminal",
+      "insight": "HN 热议：54 分 · 8 评论",
       "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://arxiv.org/abs/2608.12700",
+      "comments": 8,
+      "url": "https://github.com/lajosdeme/mole",
       "id": 5
     }
   ]
