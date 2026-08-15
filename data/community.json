@@ -1,28 +1,28 @@
 {
-  "updated": "2026-08-15T09:13:45Z",
+  "updated": "2026-08-15T12:12:47Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Google is making private AI practical with homomorphic encryption",
-      "insight": "HN 热议：381 分 · 221 评论",
-      "sentiment": "positive",
-      "comments": 221,
-      "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+      "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+      "insight": "HN 热议：50 分 · 14 评论",
+      "sentiment": "neutral",
+      "comments": 14,
+      "url": "https://chenxiachan.github.io/thoughtdag/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
-      "insight": "HN 热议：24 分 · 3 评论",
-      "sentiment": "neutral",
-      "comments": 3,
-      "url": "https://chenxiachan.github.io/thoughtdag/",
+      "title": "Google is making private AI practical with homomorphic encryption",
+      "insight": "HN 热议：419 分 · 255 评论",
+      "sentiment": "positive",
+      "comments": 255,
+      "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "AI by Hand",
-      "insight": "HN 热议：298 分 · 23 评论",
+      "insight": "HN 热议：323 分 · 23 评论",
       "sentiment": "positive",
       "comments": 23,
       "url": "https://www.byhand.ai/",
@@ -31,19 +31,19 @@
     {
       "source": "HackerNews",
       "title": "Maximizing the value of your Claude Code sessions",
-      "insight": "HN 热议：215 分 · 123 评论",
+      "insight": "HN 热议：250 分 · 134 评论",
       "sentiment": "positive",
-      "comments": 123,
+      "comments": 134,
       "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Deltix – AI Driven Testing",
-      "insight": "HN 热议：29 分 · 9 评论",
+      "title": "Debian has begun voting on the future of AI/LLM contributions",
+      "insight": "HN 热议：32 分 · 20 评论",
       "sentiment": "neutral",
-      "comments": 9,
-      "url": "https://app.deltix.ai",
+      "comments": 20,
+      "url": "https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html",
       "id": 5
     }
   ]
