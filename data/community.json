@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-15T18:10:28Z",
+  "updated": "2026-08-15T21:09:04Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "A controversial Alzheimer's surgery is said to reverse symptoms",
-      "insight": "HN 热议：68 分 · 19 评论",
-      "sentiment": "neutral",
-      "comments": 19,
-      "url": "https://www.nature.com/articles/d41586-026-02448-x",
+      "title": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+      "insight": "HN 热议：268 分 · 230 评论",
+      "sentiment": "positive",
+      "comments": 230,
+      "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "Working with AI Feels More Like Leadership Than Coding",
-      "insight": "HN 热议：161 分 · 116 评论",
-      "sentiment": "neutral",
-      "comments": 116,
+      "insight": "HN 热议：215 分 · 154 评论",
+      "sentiment": "positive",
+      "comments": 154,
       "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "Could a computer scientist build a brain?",
-      "insight": "HN 热议：35 分 · 22 评论",
+      "insight": "HN 热议：71 分 · 47 评论",
       "sentiment": "neutral",
-      "comments": 22,
+      "comments": 47,
       "url": "https://stankerstjens.github.io/could-a-computer-scientist-build-a-brain/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Yadda 3.0.0: BDD in the Age of AI Agents",
-      "insight": "HN 热议：38 分 · 16 评论",
+      "title": "AI in drug discovery — what it is, where we stand and the path forward",
+      "insight": "HN 热议：38 分 · 22 评论",
       "sentiment": "neutral",
-      "comments": 16,
-      "url": "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html",
+      "comments": 22,
+      "url": "https://www.nature.com/articles/s41573-026-01496-2",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Google is making private AI practical with homomorphic encryption",
-      "insight": "HN 热议：465 分 · 273 评论",
-      "sentiment": "positive",
-      "comments": 273,
-      "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+      "title": "A controversial Alzheimer's surgery is said to reverse symptoms",
+      "insight": "HN 热议：120 分 · 47 评论",
+      "sentiment": "neutral",
+      "comments": 47,
+      "url": "https://www.nature.com/articles/d41586-026-02448-x",
       "id": 5
     }
   ]

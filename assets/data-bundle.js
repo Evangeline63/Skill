@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-15T18:10:28Z",
+    "updated": "2026-08-15T21:09:04Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-15T18:10:28Z",
+    "updated": "2026-08-15T21:09:04Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-15T18:10:28Z",
+    "updated": "2026-08-15T21:09:04Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 186611,
-            "stars_today": 186611,
+            "stars": 186620,
+            "stars_today": 186620,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 167181,
-            "stars_today": 167181,
+            "stars": 167200,
+            "stars_today": 167200,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 102720,
-            "stars_today": 102720,
+            "stars": 102726,
+            "stars_today": 102726,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95948,
-            "stars_today": 95948,
+            "stars": 95947,
+            "stars_today": 95947,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 90817,
-            "stars_today": 90817,
+            "stars": 90827,
+            "stars_today": 90827,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 84126,
-            "stars_today": 84126,
+            "stars": 84133,
+            "stars_today": 84133,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-15T18:10:28Z",
+    "updated": "2026-08-15T21:09:04Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-15T18:10:28Z",
+    "updated": "2026-08-15T21:09:04Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-15T18:10:28Z",
+    "updated": "2026-08-15T21:09:04Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "A controversial Alzheimer's surgery is said to reverse symptoms",
-            "insight": "HN 热议：68 分 · 19 评论",
-            "sentiment": "neutral",
-            "comments": 19,
-            "url": "https://www.nature.com/articles/d41586-026-02448-x",
+            "title": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+            "insight": "HN 热议：268 分 · 230 评论",
+            "sentiment": "positive",
+            "comments": 230,
+            "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "Working with AI Feels More Like Leadership Than Coding",
-            "insight": "HN 热议：161 分 · 116 评论",
-            "sentiment": "neutral",
-            "comments": 116,
+            "insight": "HN 热议：215 分 · 154 评论",
+            "sentiment": "positive",
+            "comments": 154,
             "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "Could a computer scientist build a brain?",
-            "insight": "HN 热议：35 分 · 22 评论",
+            "insight": "HN 热议：71 分 · 47 评论",
             "sentiment": "neutral",
-            "comments": 22,
+            "comments": 47,
             "url": "https://stankerstjens.github.io/could-a-computer-scientist-build-a-brain/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Yadda 3.0.0: BDD in the Age of AI Agents",
-            "insight": "HN 热议：38 分 · 16 评论",
+            "title": "AI in drug discovery — what it is, where we stand and the path forward",
+            "insight": "HN 热议：38 分 · 22 评论",
             "sentiment": "neutral",
-            "comments": 16,
-            "url": "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html",
+            "comments": 22,
+            "url": "https://www.nature.com/articles/s41573-026-01496-2",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Google is making private AI practical with homomorphic encryption",
-            "insight": "HN 热议：465 分 · 273 评论",
-            "sentiment": "positive",
-            "comments": 273,
-            "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+            "title": "A controversial Alzheimer's surgery is said to reverse symptoms",
+            "insight": "HN 热议：120 分 · 47 评论",
+            "sentiment": "neutral",
+            "comments": 47,
+            "url": "https://www.nature.com/articles/d41586-026-02448-x",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-15T18:10:28Z",
+    "updated": "2026-08-15T21:09:04Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
