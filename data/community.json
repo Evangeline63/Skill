@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-15T06:16:21Z",
+  "updated": "2026-08-15T09:13:45Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Google is making private AI practical with homomorphic encryption",
-      "insight": "HN 热议：343 分 · 204 评论",
+      "insight": "HN 热议：381 分 · 221 评论",
       "sentiment": "positive",
-      "comments": 204,
+      "comments": 221,
       "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Deltix – AI Driven Testing",
-      "insight": "HN 热议：20 分 · 7 评论",
+      "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+      "insight": "HN 热议：24 分 · 3 评论",
       "sentiment": "neutral",
-      "comments": 7,
-      "url": "https://app.deltix.ai",
+      "comments": 3,
+      "url": "https://chenxiachan.github.io/thoughtdag/",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "AI by Hand",
-      "insight": "HN 热议：261 分 · 20 评论",
+      "insight": "HN 热议：298 分 · 23 评论",
       "sentiment": "positive",
-      "comments": 20,
+      "comments": 23,
       "url": "https://www.byhand.ai/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
-      "insight": "HN 热议：4 分 · 0 评论",
-      "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://chenxiachan.github.io/thoughtdag/",
+      "title": "Maximizing the value of your Claude Code sessions",
+      "insight": "HN 热议：215 分 · 123 评论",
+      "sentiment": "positive",
+      "comments": 123,
+      "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Maximizing the value of your Claude Code sessions",
-      "insight": "HN 热议：172 分 · 110 评论",
+      "title": "Show HN: Deltix – AI Driven Testing",
+      "insight": "HN 热议：29 分 · 9 评论",
       "sentiment": "neutral",
-      "comments": 110,
-      "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
+      "comments": 9,
+      "url": "https://app.deltix.ai",
       "id": 5
     }
   ]
