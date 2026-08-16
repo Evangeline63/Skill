@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-16T12:13:39Z",
+    "updated": "2026-08-16T15:08:59Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-16T12:13:39Z",
+    "updated": "2026-08-16T15:08:59Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-16T12:13:39Z",
+    "updated": "2026-08-16T15:08:59Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 186632,
-            "stars_today": 186632,
+            "stars": 186634,
+            "stars_today": 186634,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 167243,
-            "stars_today": 167243,
+            "stars": 167258,
+            "stars_today": 167258,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 102770,
-            "stars_today": 102770,
+            "stars": 102783,
+            "stars_today": 102783,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95959,
-            "stars_today": 95959,
+            "stars": 95963,
+            "stars_today": 95963,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 90871,
-            "stars_today": 90871,
+            "stars": 90881,
+            "stars_today": 90881,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 84173,
-            "stars_today": 84173,
+            "stars": 84191,
+            "stars_today": 84191,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-16T12:13:39Z",
+    "updated": "2026-08-16T15:08:59Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-16T12:13:39Z",
+    "updated": "2026-08-16T15:08:59Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-16T12:13:39Z",
+    "updated": "2026-08-16T15:08:59Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Patterns and problems in emerging multi-agent systems",
-            "insight": "HN 热议：120 分 · 66 评论",
+            "title": "Claude: System Prompts",
+            "insight": "HN 热议：159 分 · 68 评论",
             "sentiment": "neutral",
-            "comments": 66,
-            "url": "https://www.anthropic.com/research/multiagent-systems",
+            "comments": 68,
+            "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "What happens when an LLM never sees material beyond fifth grade?",
-            "insight": "HN 热议：151 分 · 115 评论",
+            "title": "The AI Credit Resale Economy",
+            "insight": "HN 热议：4 分 · 0 评论",
             "sentiment": "neutral",
-            "comments": 115,
-            "url": "https://littlelearner-ll.github.io/",
+            "comments": 0,
+            "url": "https://vectoral.com/blog/who-are-the-token-brokers",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "AI in drug discovery – what it is, where we stand and the path forward",
-            "insight": "HN 热议：148 分 · 81 评论",
+            "title": "Research papers using \"kidney disappointment\" instead of \"kidney failure\"",
+            "insight": "HN 热议：126 分 · 55 评论",
             "sentiment": "neutral",
-            "comments": 81,
-            "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+            "comments": 55,
+            "url": "https://scholar.google.com/scholar?q=%22kidney+disappointment%22",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "AI has access to a vastly larger working memory than the human brain",
-            "insight": "HN 热议：517 分 · 446 评论",
-            "sentiment": "positive",
-            "comments": 446,
-            "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+            "title": "Anthropic revenue reportedly jumps to more than $11.5B in second quarter",
+            "insight": "HN 热议：15 分 · 29 评论",
+            "sentiment": "neutral",
+            "comments": 29,
+            "url": "https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
-            "insight": "HN 热议：39 分 · 4 评论",
+            "title": "Show HN: A public AI whose memory is shared across all users",
+            "insight": "HN 热议：4 分 · 0 评论",
             "sentiment": "neutral",
-            "comments": 4,
-            "url": "https://arxiv.org/abs/2608.13122",
+            "comments": 0,
+            "url": "https://wildstatic.com/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-16T12:13:39Z",
+    "updated": "2026-08-16T15:08:59Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
