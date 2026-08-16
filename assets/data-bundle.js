@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-16T00:31:33Z",
+    "updated": "2026-08-16T03:36:56Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-16T00:31:33Z",
+    "updated": "2026-08-16T03:36:56Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-16T00:31:33Z",
+    "updated": "2026-08-16T03:36:56Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 186623,
-            "stars_today": 186623,
+            "stars": 186626,
+            "stars_today": 186626,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 167213,
-            "stars_today": 167213,
+            "stars": 167231,
+            "stars_today": 167231,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 102733,
-            "stars_today": 102733,
+            "stars": 102739,
+            "stars_today": 102739,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95949,
-            "stars_today": 95949,
+            "stars": 95950,
+            "stars_today": 95950,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 90837,
-            "stars_today": 90837,
+            "stars": 90843,
+            "stars_today": 90843,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 84144,
-            "stars_today": 84144,
+            "stars": 84146,
+            "stars_today": 84146,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-16T00:31:33Z",
+    "updated": "2026-08-16T03:36:56Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-16T00:31:33Z",
+    "updated": "2026-08-16T03:36:56Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-16T00:31:33Z",
+    "updated": "2026-08-16T03:36:56Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "AI in drug discovery – what it is, where we stand and the path forward",
-            "insight": "HN 热议：75 分 · 39 评论",
+            "insight": "HN 热议：108 分 · 56 评论",
             "sentiment": "neutral",
-            "comments": 39,
+            "comments": 56,
             "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "AI has access to a vastly larger working memory than the human brain",
-            "insight": "HN 热议：388 分 · 346 评论",
-            "sentiment": "positive",
-            "comments": 346,
-            "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+            "title": "Show HN: I built a native app for coding agents with Rust and GPUI",
+            "insight": "HN 热议：16 分 · 4 评论",
+            "sentiment": "neutral",
+            "comments": 4,
+            "url": "https://waku.sh",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Working with AI feels more like leadership than coding",
-            "insight": "HN 热议：258 分 · 169 评论",
+            "title": "AI has access to a vastly larger working memory than the human brain",
+            "insight": "HN 热议：433 分 · 382 评论",
             "sentiment": "positive",
-            "comments": 169,
-            "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
+            "comments": 382,
+            "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Jaithon 3, a fast programming language with the perfect syntax",
-            "insight": "HN 热议：16 分 · 10 评论",
+            "title": "Patterns and problems in emerging multi-agent systems",
+            "insight": "HN 热议：3 分 · 1 评论",
             "sentiment": "neutral",
-            "comments": 10,
-            "url": "https://github.com/abhiramasonny/jaithon",
+            "comments": 1,
+            "url": "https://www.anthropic.com/research/multiagent-systems",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "I Remain a Skeptic",
-            "insight": "HN 热议：40 分 · 17 评论",
-            "sentiment": "neutral",
-            "comments": 17,
-            "url": "https://blog.jsbarretto.com/post/i-remain-a-skeptic",
+            "title": "Working with AI feels more like leadership than coding",
+            "insight": "HN 热议：279 分 · 177 评论",
+            "sentiment": "positive",
+            "comments": 177,
+            "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-16T00:31:33Z",
+    "updated": "2026-08-16T03:36:56Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
