@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-16T06:18:11Z",
+    "updated": "2026-08-16T09:15:13Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-16T06:18:11Z",
+    "updated": "2026-08-16T09:15:13Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,7 +266,7 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-16T06:18:11Z",
+    "updated": "2026-08-16T09:15:13Z",
     "repos": [
         {
             "rank": 1,
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 167239,
-            "stars_today": 167239,
+            "stars": 167242,
+            "stars_today": 167242,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 102753,
-            "stars_today": 102753,
+            "stars": 102761,
+            "stars_today": 102761,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95950,
-            "stars_today": 95950,
+            "stars": 95956,
+            "stars_today": 95956,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 90851,
-            "stars_today": 90851,
+            "stars": 90859,
+            "stars_today": 90859,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 84154,
-            "stars_today": 84154,
+            "stars": 84160,
+            "stars_today": 84160,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-16T06:18:11Z",
+    "updated": "2026-08-16T09:15:13Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-16T06:18:11Z",
+    "updated": "2026-08-16T09:15:13Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-16T06:18:11Z",
+    "updated": "2026-08-16T09:15:13Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Patterns and problems in emerging multi-agent systems",
-            "insight": "HN 热议：36 分 · 10 评论",
+            "title": "What happens when an LLM never sees material beyond fifth grade?",
+            "insight": "HN 热议：87 分 · 55 评论",
             "sentiment": "neutral",
-            "comments": 10,
-            "url": "https://www.anthropic.com/research/multiagent-systems",
+            "comments": 55,
+            "url": "https://littlelearner-ll.github.io/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "AI in drug discovery – what it is, where we stand and the path forward",
-            "insight": "HN 热议：124 分 · 62 评论",
+            "title": "Patterns and problems in emerging multi-agent systems",
+            "insight": "HN 热议：78 分 · 28 评论",
             "sentiment": "neutral",
-            "comments": 62,
-            "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+            "comments": 28,
+            "url": "https://www.anthropic.com/research/multiagent-systems",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "AI has access to a vastly larger working memory than the human brain",
-            "insight": "HN 热议：462 分 · 401 评论",
-            "sentiment": "positive",
-            "comments": 401,
-            "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+            "title": "AI in drug discovery – what it is, where we stand and the path forward",
+            "insight": "HN 热议：137 分 · 73 评论",
+            "sentiment": "neutral",
+            "comments": 73,
+            "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Program with Paint Brushes, Not Pencils",
-            "insight": "HN 热议：6 分 · 1 评论",
-            "sentiment": "neutral",
-            "comments": 1,
-            "url": "https://blog.pickcode.io/program-with-paint-brushes-not-pencils/",
+            "title": "AI has access to a vastly larger working memory than the human brain",
+            "insight": "HN 热议：490 分 · 415 评论",
+            "sentiment": "positive",
+            "comments": 415,
+            "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
             "id": 4
         },
         {
             "source": "HackerNews",
             "title": "AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
-            "insight": "HN 热议：19 分 · 2 评论",
+            "insight": "HN 热议：32 分 · 4 评论",
             "sentiment": "neutral",
-            "comments": 2,
+            "comments": 4,
             "url": "https://arxiv.org/abs/2608.13122",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-16T06:18:11Z",
+    "updated": "2026-08-16T09:15:13Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
