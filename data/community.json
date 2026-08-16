@@ -1,46 +1,46 @@
 {
-  "updated": "2026-08-16T09:15:13Z",
+  "updated": "2026-08-16T12:13:39Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "What happens when an LLM never sees material beyond fifth grade?",
-      "insight": "HN 热议：87 分 · 55 评论",
+      "title": "Patterns and problems in emerging multi-agent systems",
+      "insight": "HN 热议：120 分 · 66 评论",
       "sentiment": "neutral",
-      "comments": 55,
-      "url": "https://littlelearner-ll.github.io/",
+      "comments": 66,
+      "url": "https://www.anthropic.com/research/multiagent-systems",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Patterns and problems in emerging multi-agent systems",
-      "insight": "HN 热议：78 分 · 28 评论",
+      "title": "What happens when an LLM never sees material beyond fifth grade?",
+      "insight": "HN 热议：151 分 · 115 评论",
       "sentiment": "neutral",
-      "comments": 28,
-      "url": "https://www.anthropic.com/research/multiagent-systems",
+      "comments": 115,
+      "url": "https://littlelearner-ll.github.io/",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "AI in drug discovery – what it is, where we stand and the path forward",
-      "insight": "HN 热议：137 分 · 73 评论",
+      "insight": "HN 热议：148 分 · 81 评论",
       "sentiment": "neutral",
-      "comments": 73,
+      "comments": 81,
       "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "AI has access to a vastly larger working memory than the human brain",
-      "insight": "HN 热议：490 分 · 415 评论",
+      "insight": "HN 热议：517 分 · 446 评论",
       "sentiment": "positive",
-      "comments": 415,
+      "comments": 446,
       "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
       "id": 4
     },
     {
       "source": "HackerNews",
       "title": "AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
-      "insight": "HN 热议：32 分 · 4 评论",
+      "insight": "HN 热议：39 分 · 4 评论",
       "sentiment": "neutral",
       "comments": 4,
       "url": "https://arxiv.org/abs/2608.13122",
