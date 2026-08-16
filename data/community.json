@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-16T18:10:26Z",
+  "updated": "2026-08-16T21:08:20Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Claude: System Prompts",
-      "insight": "HN 热议：341 分 · 145 评论",
-      "sentiment": "positive",
-      "comments": 145,
-      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+      "title": "The Case Against Formal Verification, 50 Years Later",
+      "insight": "HN 热议：15 分 · 4 评论",
+      "sentiment": "neutral",
+      "comments": 4,
+      "url": "https://ivan-gavran.github.io/0-social-processes-paper",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "The AI Credit Resale Economy",
-      "insight": "HN 热议：133 分 · 52 评论",
-      "sentiment": "neutral",
-      "comments": 52,
-      "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+      "title": "Claude: System Prompts",
+      "insight": "HN 热议：435 分 · 190 评论",
+      "sentiment": "positive",
+      "comments": 190,
+      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Archie G. Norcross' Maine Forest Fire Maps (1918–22)",
-      "insight": "HN 热议：13 分 · 2 评论",
+      "title": "The AI Credit Resale Economy",
+      "insight": "HN 热议：187 分 · 69 评论",
       "sentiment": "neutral",
-      "comments": 2,
-      "url": "https://publicdomainreview.org/collection/maine-forest-fire-maps/",
+      "comments": 69,
+      "url": "https://vectoral.com/blog/who-are-the-token-brokers",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Research papers using \"kidney disappointment\" instead of \"kidney failure\"",
-      "insight": "HN 热议：253 分 · 97 评论",
-      "sentiment": "positive",
-      "comments": 97,
-      "url": "https://scholar.google.com/scholar?q=%22kidney+disappointment%22",
+      "title": "MathCode, Mathematical Coding Agent",
+      "insight": "HN 热议：30 分 · 9 评论",
+      "sentiment": "neutral",
+      "comments": 9,
+      "url": "https://math-ai-org.github.io/mathcode/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: A public AI whose memory is shared across all users",
-      "insight": "HN 热议：42 分 · 28 评论",
+      "title": "Archie G. Norcross' Maine Forest Fire Maps (1918–22)",
+      "insight": "HN 热议：20 分 · 3 评论",
       "sentiment": "neutral",
-      "comments": 28,
-      "url": "https://wildstatic.com/",
+      "comments": 3,
+      "url": "https://publicdomainreview.org/collection/maine-forest-fire-maps/",
       "id": 5
     }
   ]
