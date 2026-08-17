@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-16T21:08:20Z",
+    "updated": "2026-08-17T00:29:56Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-16T21:08:20Z",
+    "updated": "2026-08-17T00:29:56Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-16T21:08:20Z",
+    "updated": "2026-08-17T00:29:56Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 186645,
-            "stars_today": 186645,
+            "stars": 186646,
+            "stars_today": 186646,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,21 +282,12 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 167281,
-            "stars_today": 167281,
+            "stars": 167285,
+            "stars_today": 167285,
             "url": "https://github.com/f/prompts.chat"
         },
         {
             "rank": 3,
-            "name": "rasbt/LLMs-from-scratch",
-            "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
-            "language": "Jupyter Notebook",
-            "stars": 102792,
-            "stars_today": 102792,
-            "url": "https://github.com/rasbt/LLMs-from-scratch"
-        },
-        {
-            "rank": 4,
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
@@ -305,27 +296,36 @@ window.__DATA__ = {
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
-            "rank": 5,
+            "rank": 4,
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 90902,
-            "stars_today": 90902,
+            "stars": 90915,
+            "stars_today": 90915,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
-            "rank": 6,
+            "rank": 5,
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 84218,
-            "stars_today": 84218,
+            "stars": 84229,
+            "stars_today": 84229,
             "url": "https://github.com/OpenHands/OpenHands"
+        },
+        {
+            "rank": 6,
+            "name": "FlowiseAI/Flowise",
+            "description": "Build AI Agents, Visually",
+            "language": "TypeScript",
+            "stars": 55377,
+            "stars_today": 55377,
+            "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-16T21:08:20Z",
+    "updated": "2026-08-17T00:29:56Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-16T21:08:20Z",
+    "updated": "2026-08-17T00:29:56Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-16T21:08:20Z",
+    "updated": "2026-08-17T00:29:56Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "The Case Against Formal Verification, 50 Years Later",
-            "insight": "HN 热议：15 分 · 4 评论",
-            "sentiment": "neutral",
-            "comments": 4,
-            "url": "https://ivan-gavran.github.io/0-social-processes-paper",
+            "title": "Claude: System Prompts",
+            "insight": "HN 热议：517 分 · 216 评论",
+            "sentiment": "positive",
+            "comments": 216,
+            "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Claude: System Prompts",
-            "insight": "HN 热议：435 分 · 190 评论",
+            "title": "The AI Credit Resale Economy",
+            "insight": "HN 热议：219 分 · 86 评论",
             "sentiment": "positive",
-            "comments": 190,
-            "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+            "comments": 86,
+            "url": "https://vectoral.com/blog/who-are-the-token-brokers",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "The AI Credit Resale Economy",
-            "insight": "HN 热议：187 分 · 69 评论",
+            "title": "MathCode, Mathematical Coding Agent",
+            "insight": "HN 热议：53 分 · 17 评论",
             "sentiment": "neutral",
-            "comments": 69,
-            "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+            "comments": 17,
+            "url": "https://math-ai-org.github.io/mathcode/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "MathCode, Mathematical Coding Agent",
-            "insight": "HN 热议：30 分 · 9 评论",
+            "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
+            "insight": "HN 热议：80 分 · 19 评论",
             "sentiment": "neutral",
-            "comments": 9,
-            "url": "https://math-ai-org.github.io/mathcode/",
+            "comments": 19,
+            "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Archie G. Norcross' Maine Forest Fire Maps (1918–22)",
-            "insight": "HN 热议：20 分 · 3 评论",
+            "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+            "insight": "HN 热议：161 分 · 111 评论",
             "sentiment": "neutral",
-            "comments": 3,
-            "url": "https://publicdomainreview.org/collection/maine-forest-fire-maps/",
+            "comments": 111,
+            "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-16T21:08:20Z",
+    "updated": "2026-08-17T00:29:56Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
