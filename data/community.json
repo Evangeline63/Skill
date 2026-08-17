@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-17T00:29:56Z",
+  "updated": "2026-08-17T03:38:04Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Claude: System Prompts",
-      "insight": "HN 热议：517 分 · 216 评论",
-      "sentiment": "positive",
-      "comments": 216,
-      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+      "title": "Rhombus 1.1 is now available",
+      "insight": "HN 热议：27 分 · 11 评论",
+      "sentiment": "neutral",
+      "comments": 11,
+      "url": "https://blog.racket-lang.org/2026/08/rhombus-v1.1.html",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "The AI Credit Resale Economy",
-      "insight": "HN 热议：219 分 · 86 评论",
+      "title": "Claude: System Prompts",
+      "insight": "HN 热议：572 分 · 236 评论",
       "sentiment": "positive",
-      "comments": 86,
-      "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+      "comments": 236,
+      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "MathCode, Mathematical Coding Agent",
-      "insight": "HN 热议：53 分 · 17 评论",
-      "sentiment": "neutral",
-      "comments": 17,
-      "url": "https://math-ai-org.github.io/mathcode/",
+      "title": "The AI Credit Resale Economy",
+      "insight": "HN 热议：242 分 · 93 评论",
+      "sentiment": "positive",
+      "comments": 93,
+      "url": "https://vectoral.com/blog/who-are-the-token-brokers",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
-      "insight": "HN 热议：80 分 · 19 评论",
+      "title": "MathCode, Mathematical Coding Agent",
+      "insight": "HN 热议：73 分 · 24 评论",
       "sentiment": "neutral",
-      "comments": 19,
-      "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/",
+      "comments": 24,
+      "url": "https://math-ai-org.github.io/mathcode/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
-      "insight": "HN 热议：161 分 · 111 评论",
+      "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
+      "insight": "HN 热议：137 分 · 50 评论",
       "sentiment": "neutral",
-      "comments": 111,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+      "comments": 50,
+      "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/",
       "id": 5
     }
   ]

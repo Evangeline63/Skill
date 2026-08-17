@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-17T00:29:56Z",
+    "updated": "2026-08-17T03:38:04Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-17T00:29:56Z",
+    "updated": "2026-08-17T03:38:04Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-17T00:29:56Z",
+    "updated": "2026-08-17T03:38:04Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 186646,
-            "stars_today": 186646,
+            "stars": 186647,
+            "stars_today": 186647,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 167285,
-            "stars_today": 167285,
+            "stars": 167284,
+            "stars_today": 167284,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95973,
-            "stars_today": 95973,
+            "stars": 95976,
+            "stars_today": 95976,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 90915,
-            "stars_today": 90915,
+            "stars": 90920,
+            "stars_today": 90920,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 84229,
-            "stars_today": 84229,
+            "stars": 84247,
+            "stars_today": 84247,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 55377,
-            "stars_today": 55377,
+            "stars": 55378,
+            "stars_today": 55378,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-17T00:29:56Z",
+    "updated": "2026-08-17T03:38:04Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-17T00:29:56Z",
+    "updated": "2026-08-17T03:38:04Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-17T00:29:56Z",
+    "updated": "2026-08-17T03:38:04Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Claude: System Prompts",
-            "insight": "HN 热议：517 分 · 216 评论",
-            "sentiment": "positive",
-            "comments": 216,
-            "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+            "title": "Rhombus 1.1 is now available",
+            "insight": "HN 热议：27 分 · 11 评论",
+            "sentiment": "neutral",
+            "comments": 11,
+            "url": "https://blog.racket-lang.org/2026/08/rhombus-v1.1.html",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "The AI Credit Resale Economy",
-            "insight": "HN 热议：219 分 · 86 评论",
+            "title": "Claude: System Prompts",
+            "insight": "HN 热议：572 分 · 236 评论",
             "sentiment": "positive",
-            "comments": 86,
-            "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+            "comments": 236,
+            "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "MathCode, Mathematical Coding Agent",
-            "insight": "HN 热议：53 分 · 17 评论",
-            "sentiment": "neutral",
-            "comments": 17,
-            "url": "https://math-ai-org.github.io/mathcode/",
+            "title": "The AI Credit Resale Economy",
+            "insight": "HN 热议：242 分 · 93 评论",
+            "sentiment": "positive",
+            "comments": 93,
+            "url": "https://vectoral.com/blog/who-are-the-token-brokers",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
-            "insight": "HN 热议：80 分 · 19 评论",
+            "title": "MathCode, Mathematical Coding Agent",
+            "insight": "HN 热议：73 分 · 24 评论",
             "sentiment": "neutral",
-            "comments": 19,
-            "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/",
+            "comments": 24,
+            "url": "https://math-ai-org.github.io/mathcode/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
-            "insight": "HN 热议：161 分 · 111 评论",
+            "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
+            "insight": "HN 热议：137 分 · 50 评论",
             "sentiment": "neutral",
-            "comments": 111,
-            "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+            "comments": 50,
+            "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-17T00:29:56Z",
+    "updated": "2026-08-17T03:38:04Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
