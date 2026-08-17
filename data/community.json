@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-17T12:17:17Z",
+  "updated": "2026-08-17T15:13:21Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
-      "insight": "HN 热议：378 分 · 360 评论",
-      "sentiment": "positive",
-      "comments": 360,
-      "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+      "title": "AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
+      "insight": "HN 热议：34 分 · 13 评论",
+      "sentiment": "neutral",
+      "comments": 13,
+      "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Claude: System Prompts",
-      "insight": "HN 热议：688 分 · 265 评论",
-      "sentiment": "positive",
-      "comments": 265,
-      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+      "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+      "insight": "HN 热议：138 分 · 71 评论",
+      "sentiment": "neutral",
+      "comments": 71,
+      "url": "https://blog.roboflow.com/openai-gpt-5-6/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Rhombus 1.1 is now available",
-      "insight": "HN 热议：96 分 · 29 评论",
+      "title": "How to disable or avoid intrusive AI",
+      "insight": "HN 热议：25 分 · 8 评论",
       "sentiment": "neutral",
-      "comments": 29,
-      "url": "https://blog.racket-lang.org/2026/08/rhombus-v1.1.html",
+      "comments": 8,
+      "url": "https://www.librarian.net/notoai/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Self hosted email continues to steeply decline",
-      "insight": "HN 热议：48 分 · 53 评论",
+      "title": "GitHub down again? no PR access",
+      "insight": "HN 热议：154 分 · 45 评论",
       "sentiment": "neutral",
-      "comments": 53,
-      "url": "https://labs.ripe.net/author/artem-berezin/two-providers-a-stubborn-plateau-and-a-very-long-tail-email-in-the-tranco-top-1m/",
+      "comments": 45,
+      "url": "https://news.ycombinator.com/item?id=49330632",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "The AI Credit Resale Economy",
-      "insight": "HN 热议：301 分 · 121 评论",
-      "sentiment": "positive",
-      "comments": 121,
-      "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+      "title": "Show HN: Sokoban AI Solver",
+      "insight": "HN 热议：31 分 · 18 评论",
+      "sentiment": "neutral",
+      "comments": 18,
+      "url": "https://mkornreich.me/projects/sokoban/",
       "id": 5
     }
   ]
