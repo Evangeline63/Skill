@@ -1,48 +1,48 @@
 {
-  "updated": "2026-08-17T15:13:21Z",
+  "updated": "2026-08-17T18:19:19Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
-      "insight": "HN 热议：34 分 · 13 评论",
+      "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
+      "insight": "HN 热议：186 分 · 87 评论",
       "sentiment": "neutral",
-      "comments": 13,
+      "comments": 87,
       "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-      "insight": "HN 热议：138 分 · 71 评论",
+      "title": "How to disable or avoid intrusive AI",
+      "insight": "HN 热议：139 分 · 56 评论",
       "sentiment": "neutral",
-      "comments": 71,
-      "url": "https://blog.roboflow.com/openai-gpt-5-6/",
+      "comments": 56,
+      "url": "https://www.librarian.net/notoai/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "How to disable or avoid intrusive AI",
-      "insight": "HN 热议：25 分 · 8 评论",
+      "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
+      "insight": "HN 热议：55 分 · 27 评论",
       "sentiment": "neutral",
-      "comments": 8,
-      "url": "https://www.librarian.net/notoai/",
+      "comments": 27,
+      "url": "https://speko.ai/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "GitHub down again? no PR access",
-      "insight": "HN 热议：154 分 · 45 评论",
-      "sentiment": "neutral",
-      "comments": 45,
-      "url": "https://news.ycombinator.com/item?id=49330632",
+      "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+      "insight": "HN 热议：220 分 · 116 评论",
+      "sentiment": "positive",
+      "comments": 116,
+      "url": "https://blog.roboflow.com/openai-gpt-5-6/",
       "id": 4
     },
     {
       "source": "HackerNews",
       "title": "Show HN: Sokoban AI Solver",
-      "insight": "HN 热议：31 分 · 18 评论",
+      "insight": "HN 热议：51 分 · 32 评论",
       "sentiment": "neutral",
-      "comments": 18,
+      "comments": 32,
       "url": "https://mkornreich.me/projects/sokoban/",
       "id": 5
     }

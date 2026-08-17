@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-17T15:13:21Z",
+    "updated": "2026-08-17T18:19:19Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-17T15:13:21Z",
+    "updated": "2026-08-17T18:19:19Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-17T12:17:17Z",
+    "updated": "2026-08-17T18:19:19Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 186636,
-            "stars_today": 186636,
+            "stars": 186646,
+            "stars_today": 186646,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 167293,
-            "stars_today": 167293,
+            "stars": 167305,
+            "stars_today": 167305,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95979,
-            "stars_today": 95979,
+            "stars": 95984,
+            "stars_today": 95984,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 90956,
-            "stars_today": 90956,
+            "stars": 90996,
+            "stars_today": 90996,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 84278,
-            "stars_today": 84278,
+            "stars": 84309,
+            "stars_today": 84309,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -325,7 +325,7 @@ window.__DATA__ = {
     ]
 },
   "products": {
-    "updated": "2026-08-17T15:13:21Z",
+    "updated": "2026-08-17T18:19:19Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-17T15:13:21Z",
+    "updated": "2026-08-17T18:19:19Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-17T15:13:21Z",
+    "updated": "2026-08-17T18:19:19Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
-            "insight": "HN 热议：34 分 · 13 评论",
+            "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
+            "insight": "HN 热议：186 分 · 87 评论",
             "sentiment": "neutral",
-            "comments": 13,
+            "comments": 87,
             "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-            "insight": "HN 热议：138 分 · 71 评论",
+            "title": "How to disable or avoid intrusive AI",
+            "insight": "HN 热议：139 分 · 56 评论",
             "sentiment": "neutral",
-            "comments": 71,
-            "url": "https://blog.roboflow.com/openai-gpt-5-6/",
+            "comments": 56,
+            "url": "https://www.librarian.net/notoai/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "How to disable or avoid intrusive AI",
-            "insight": "HN 热议：25 分 · 8 评论",
+            "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
+            "insight": "HN 热议：55 分 · 27 评论",
             "sentiment": "neutral",
-            "comments": 8,
-            "url": "https://www.librarian.net/notoai/",
+            "comments": 27,
+            "url": "https://speko.ai/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "GitHub down again? no PR access",
-            "insight": "HN 热议：154 分 · 45 评论",
-            "sentiment": "neutral",
-            "comments": 45,
-            "url": "https://news.ycombinator.com/item?id=49330632",
+            "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+            "insight": "HN 热议：220 分 · 116 评论",
+            "sentiment": "positive",
+            "comments": 116,
+            "url": "https://blog.roboflow.com/openai-gpt-5-6/",
             "id": 4
         },
         {
             "source": "HackerNews",
             "title": "Show HN: Sokoban AI Solver",
-            "insight": "HN 热议：31 分 · 18 评论",
+            "insight": "HN 热议：51 分 · 32 评论",
             "sentiment": "neutral",
-            "comments": 18,
+            "comments": 32,
             "url": "https://mkornreich.me/projects/sokoban/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-17T15:13:21Z",
+    "updated": "2026-08-17T18:19:19Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
