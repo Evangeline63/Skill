@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-17T06:27:02Z",
+    "updated": "2026-08-17T09:27:26Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-17T06:27:02Z",
+    "updated": "2026-08-17T09:27:26Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-17T06:27:02Z",
+    "updated": "2026-08-17T09:27:26Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 186640,
-            "stars_today": 186640,
+            "stars": 186638,
+            "stars_today": 186638,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 167283,
-            "stars_today": 167283,
+            "stars": 167284,
+            "stars_today": 167284,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 90928,
-            "stars_today": 90928,
+            "stars": 90939,
+            "stars_today": 90939,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 84251,
-            "stars_today": 84251,
+            "stars": 84261,
+            "stars_today": 84261,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 55379,
-            "stars_today": 55379,
+            "stars": 55376,
+            "stars_today": 55376,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-17T06:27:02Z",
+    "updated": "2026-08-17T09:27:26Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-17T06:27:02Z",
+    "updated": "2026-08-17T09:27:26Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-17T06:27:02Z",
+    "updated": "2026-08-17T09:27:26Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Claude: System Prompts",
-            "insight": "HN 热议：613 分 · 246 评论",
+            "title": "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
+            "insight": "HN 热议：254 分 · 233 评论",
             "sentiment": "positive",
-            "comments": 246,
-            "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+            "comments": 233,
+            "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Rhombus 1.1 is now available",
-            "insight": "HN 热议：51 分 · 18 评论",
-            "sentiment": "neutral",
-            "comments": 18,
-            "url": "https://blog.racket-lang.org/2026/08/rhombus-v1.1.html",
+            "title": "Claude: System Prompts",
+            "insight": "HN 热议：658 分 · 255 评论",
+            "sentiment": "positive",
+            "comments": 255,
+            "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Gmail might partially be to blame for receiving emails from other Sean Conners",
-            "insight": "HN 热议：26 分 · 32 评论",
+            "title": "Rhombus 1.1 is now available",
+            "insight": "HN 热议：79 分 · 24 评论",
             "sentiment": "neutral",
-            "comments": 32,
-            "url": "https://boston.conman.org/2026/08/11.1",
+            "comments": 24,
+            "url": "https://blog.racket-lang.org/2026/08/rhombus-v1.1.html",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "The AI Credit Resale Economy",
-            "insight": "HN 热议：263 分 · 107 评论",
-            "sentiment": "positive",
-            "comments": 107,
-            "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+            "title": "HackEurope 2026: A short rant on AI and hackathons",
+            "insight": "HN 热议：26 分 · 14 评论",
+            "sentiment": "neutral",
+            "comments": 14,
+            "url": "https://duti.dev/blog/2026/spr/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "MathCode, Mathematical Coding Agent",
-            "insight": "HN 热议：83 分 · 26 评论",
-            "sentiment": "neutral",
-            "comments": 26,
-            "url": "https://math-ai-org.github.io/mathcode/",
+            "title": "The AI Credit Resale Economy",
+            "insight": "HN 热议：285 分 · 117 评论",
+            "sentiment": "positive",
+            "comments": 117,
+            "url": "https://vectoral.com/blog/who-are-the-token-brokers",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-17T06:27:02Z",
+    "updated": "2026-08-17T09:27:26Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
