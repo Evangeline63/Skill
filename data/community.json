@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-18T18:18:14Z",
+  "updated": "2026-08-18T21:11:36Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Claude Code weekly limits reduce by a third tomorrow",
-      "insight": "HN 热议：137 分 · 77 评论",
-      "sentiment": "neutral",
-      "comments": 77,
-      "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
+      "title": "Using the railway network as a flatbed scanner",
+      "insight": "HN 热议：351 分 · 55 评论",
+      "sentiment": "positive",
+      "comments": 55,
+      "url": "https://philo.gay/linecam/",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "Data centers raise nearby temperatures by up to 4 degrees in Phoenix",
-      "insight": "HN 热议：69 分 · 42 评论",
-      "sentiment": "neutral",
-      "comments": 42,
+      "insight": "HN 热议：248 分 · 327 评论",
+      "sentiment": "positive",
+      "comments": 327,
       "url": "https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Using the railway network as a flatbed scanner",
-      "insight": "HN 热议：289 分 · 50 评论",
+      "title": "Universal health coverage could save $1T and 114k lives a year: study",
+      "insight": "HN 热议：591 分 · 682 评论",
       "sentiment": "positive",
-      "comments": 50,
-      "url": "https://philo.gay/linecam/",
+      "comments": 682,
+      "url": "https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Fairphone is now officially available in the United States",
-      "insight": "HN 热议：273 分 · 134 评论",
-      "sentiment": "positive",
-      "comments": 134,
-      "url": "https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more",
+      "title": "Norway Should Buy OpenAI",
+      "insight": "HN 热议：145 分 · 160 评论",
+      "sentiment": "neutral",
+      "comments": 160,
+      "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Universal health coverage could save $1T and 114k lives a year: study",
-      "insight": "HN 热议：466 分 · 581 评论",
-      "sentiment": "positive",
-      "comments": 581,
-      "url": "https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/",
+      "title": "Show HN: macOS data protection keychain for Electron apps",
+      "insight": "HN 热议：19 分 · 1 评论",
+      "sentiment": "neutral",
+      "comments": 1,
+      "url": "https://github.com/biw/keychain-store",
       "id": 5
     }
   ]

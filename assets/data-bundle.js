@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-18T18:18:14Z",
+    "updated": "2026-08-18T21:11:36Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-18T18:18:14Z",
+    "updated": "2026-08-18T21:11:36Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-18T18:18:14Z",
+    "updated": "2026-08-18T21:11:36Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 186667,
-            "stars_today": 186667,
+            "stars": 186671,
+            "stars_today": 186671,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 167444,
-            "stars_today": 167444,
+            "stars": 167452,
+            "stars_today": 167452,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96000,
-            "stars_today": 96000,
+            "stars": 95997,
+            "stars_today": 95997,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 91134,
-            "stars_today": 91134,
+            "stars": 91145,
+            "stars_today": 91145,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 84409,
-            "stars_today": 84409,
+            "stars": 84418,
+            "stars_today": 84418,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 55377,
-            "stars_today": 55377,
+            "stars": 55378,
+            "stars_today": 55378,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-18T18:18:14Z",
+    "updated": "2026-08-18T21:11:36Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-18T18:18:14Z",
+    "updated": "2026-08-18T21:11:36Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-18T18:18:14Z",
+    "updated": "2026-08-18T21:11:36Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Claude Code weekly limits reduce by a third tomorrow",
-            "insight": "HN 热议：137 分 · 77 评论",
-            "sentiment": "neutral",
-            "comments": 77,
-            "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
+            "title": "Using the railway network as a flatbed scanner",
+            "insight": "HN 热议：351 分 · 55 评论",
+            "sentiment": "positive",
+            "comments": 55,
+            "url": "https://philo.gay/linecam/",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "Data centers raise nearby temperatures by up to 4 degrees in Phoenix",
-            "insight": "HN 热议：69 分 · 42 评论",
-            "sentiment": "neutral",
-            "comments": 42,
+            "insight": "HN 热议：248 分 · 327 评论",
+            "sentiment": "positive",
+            "comments": 327,
             "url": "https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Using the railway network as a flatbed scanner",
-            "insight": "HN 热议：289 分 · 50 评论",
+            "title": "Universal health coverage could save $1T and 114k lives a year: study",
+            "insight": "HN 热议：591 分 · 682 评论",
             "sentiment": "positive",
-            "comments": 50,
-            "url": "https://philo.gay/linecam/",
+            "comments": 682,
+            "url": "https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Fairphone is now officially available in the United States",
-            "insight": "HN 热议：273 分 · 134 评论",
-            "sentiment": "positive",
-            "comments": 134,
-            "url": "https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more",
+            "title": "Norway Should Buy OpenAI",
+            "insight": "HN 热议：145 分 · 160 评论",
+            "sentiment": "neutral",
+            "comments": 160,
+            "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Universal health coverage could save $1T and 114k lives a year: study",
-            "insight": "HN 热议：466 分 · 581 评论",
-            "sentiment": "positive",
-            "comments": 581,
-            "url": "https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/",
+            "title": "Show HN: macOS data protection keychain for Electron apps",
+            "insight": "HN 热议：19 分 · 1 评论",
+            "sentiment": "neutral",
+            "comments": 1,
+            "url": "https://github.com/biw/keychain-store",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-18T18:18:14Z",
+    "updated": "2026-08-18T21:11:36Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
