@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-18T15:18:40Z",
+    "updated": "2026-08-18T18:18:14Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-18T15:18:40Z",
+    "updated": "2026-08-18T18:18:14Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-18T15:18:40Z",
+    "updated": "2026-08-18T18:18:14Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 186664,
-            "stars_today": 186664,
+            "stars": 186667,
+            "stars_today": 186667,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 167426,
-            "stars_today": 167426,
+            "stars": 167444,
+            "stars_today": 167444,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95997,
-            "stars_today": 95997,
+            "stars": 96000,
+            "stars_today": 96000,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 91112,
-            "stars_today": 91112,
+            "stars": 91134,
+            "stars_today": 91134,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 84400,
-            "stars_today": 84400,
+            "stars": 84409,
+            "stars_today": 84409,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 55380,
-            "stars_today": 55380,
+            "stars": 55377,
+            "stars_today": 55377,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-18T15:18:40Z",
+    "updated": "2026-08-18T18:18:14Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-18T15:18:40Z",
+    "updated": "2026-08-18T18:18:14Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-18T15:18:40Z",
+    "updated": "2026-08-18T18:18:14Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Using the railway network as a flatbed scanner",
-            "insight": "HN 热议：161 分 · 28 评论",
+            "title": "Claude Code weekly limits reduce by a third tomorrow",
+            "insight": "HN 热议：137 分 · 77 评论",
             "sentiment": "neutral",
-            "comments": 28,
-            "url": "https://philo.gay/linecam/",
+            "comments": 77,
+            "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Fairphone is now officially available in the United States",
-            "insight": "HN 热议：149 分 · 58 评论",
+            "title": "Data centers raise nearby temperatures by up to 4 degrees in Phoenix",
+            "insight": "HN 热议：69 分 · 42 评论",
             "sentiment": "neutral",
-            "comments": 58,
-            "url": "https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more",
+            "comments": 42,
+            "url": "https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Google buys crashed airline Spirit's data at auction",
-            "insight": "HN 热议：369 分 · 250 评论",
+            "title": "Using the railway network as a flatbed scanner",
+            "insight": "HN 热议：289 分 · 50 评论",
             "sentiment": "positive",
-            "comments": 250,
-            "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
+            "comments": 50,
+            "url": "https://philo.gay/linecam/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Baking a Model: A Metaphor for LLM Training",
-            "insight": "HN 热议：19 分 · 1 评论",
-            "sentiment": "neutral",
-            "comments": 1,
-            "url": "https://newsletter.kentbeck.com/p/baking-a-model",
+            "title": "Fairphone is now officially available in the United States",
+            "insight": "HN 热议：273 分 · 134 评论",
+            "sentiment": "positive",
+            "comments": 134,
+            "url": "https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "GPT-5.6 Sol Pricing Cut by 50%",
-            "insight": "HN 热议：569 分 · 373 评论",
+            "title": "Universal health coverage could save $1T and 114k lives a year: study",
+            "insight": "HN 热议：466 分 · 581 评论",
             "sentiment": "positive",
-            "comments": 373,
-            "url": "https://openrouter.ai/openai/gpt-5.6-sol",
+            "comments": 581,
+            "url": "https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-18T15:18:40Z",
+    "updated": "2026-08-18T18:18:14Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-18T15:18:40Z",
+  "updated": "2026-08-18T18:18:14Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Using the railway network as a flatbed scanner",
-      "insight": "HN 热议：161 分 · 28 评论",
+      "title": "Claude Code weekly limits reduce by a third tomorrow",
+      "insight": "HN 热议：137 分 · 77 评论",
       "sentiment": "neutral",
-      "comments": 28,
-      "url": "https://philo.gay/linecam/",
+      "comments": 77,
+      "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Fairphone is now officially available in the United States",
-      "insight": "HN 热议：149 分 · 58 评论",
+      "title": "Data centers raise nearby temperatures by up to 4 degrees in Phoenix",
+      "insight": "HN 热议：69 分 · 42 评论",
       "sentiment": "neutral",
-      "comments": 58,
-      "url": "https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more",
+      "comments": 42,
+      "url": "https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Google buys crashed airline Spirit's data at auction",
-      "insight": "HN 热议：369 分 · 250 评论",
+      "title": "Using the railway network as a flatbed scanner",
+      "insight": "HN 热议：289 分 · 50 评论",
       "sentiment": "positive",
-      "comments": 250,
-      "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
+      "comments": 50,
+      "url": "https://philo.gay/linecam/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Baking a Model: A Metaphor for LLM Training",
-      "insight": "HN 热议：19 分 · 1 评论",
-      "sentiment": "neutral",
-      "comments": 1,
-      "url": "https://newsletter.kentbeck.com/p/baking-a-model",
+      "title": "Fairphone is now officially available in the United States",
+      "insight": "HN 热议：273 分 · 134 评论",
+      "sentiment": "positive",
+      "comments": 134,
+      "url": "https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "GPT-5.6 Sol Pricing Cut by 50%",
-      "insight": "HN 热议：569 分 · 373 评论",
+      "title": "Universal health coverage could save $1T and 114k lives a year: study",
+      "insight": "HN 热议：466 分 · 581 评论",
       "sentiment": "positive",
-      "comments": 373,
-      "url": "https://openrouter.ai/openai/gpt-5.6-sol",
+      "comments": 581,
+      "url": "https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/",
       "id": 5
     }
   ]
