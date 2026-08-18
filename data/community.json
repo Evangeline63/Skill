@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-18T00:29:37Z",
+  "updated": "2026-08-18T03:33:30Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Fairphone 6 and PostmarketOS working main camera",
-      "insight": "HN 热议：56 分 · 14 评论",
+      "title": "GPT-5.6 Sol Pricing Cut by 50%",
+      "insight": "HN 热议：199 分 · 115 评论",
       "sentiment": "neutral",
-      "comments": 14,
-      "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
+      "comments": 115,
+      "url": "https://openrouter.ai/openai/gpt-5.6-sol",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
-      "insight": "HN 热议：305 分 · 123 评论",
-      "sentiment": "positive",
-      "comments": 123,
-      "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+      "title": "Fairphone 6 and PostmarketOS working main camera",
+      "insight": "HN 热议：94 分 · 25 评论",
+      "sentiment": "neutral",
+      "comments": 25,
+      "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "GPT-5.6 Sol Pricing Cut by 50%",
-      "insight": "HN 热议：49 分 · 9 评论",
-      "sentiment": "neutral",
-      "comments": 9,
-      "url": "https://openrouter.ai/openai/gpt-5.6-sol",
+      "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
+      "insight": "HN 热议：325 分 · 127 评论",
+      "sentiment": "positive",
+      "comments": 127,
+      "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Un-AI Your Internet",
-      "insight": "HN 热议：5 分 · 0 评论",
-      "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://un-ai.digitalprophet.online/",
+      "title": "AI;DR (AI; Didn't Read)",
+      "insight": "HN 热议：662 分 · 408 评论",
+      "sentiment": "positive",
+      "comments": 408,
+      "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "AI;DR (AI; Didn't Read)",
-      "insight": "HN 热议：551 分 · 339 评论",
-      "sentiment": "positive",
-      "comments": 339,
-      "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+      "title": "Repair Cafe – Fix Your Broken Items",
+      "insight": "HN 热议：35 分 · 9 评论",
+      "sentiment": "neutral",
+      "comments": 9,
+      "url": "https://www.repaircafe.org/",
       "id": 5
     }
   ]
