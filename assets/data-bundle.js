@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-18T09:19:29Z",
+    "updated": "2026-08-18T12:18:51Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-18T09:19:29Z",
+    "updated": "2026-08-18T12:18:51Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-18T09:19:29Z",
+    "updated": "2026-08-18T12:18:51Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 186658,
-            "stars_today": 186658,
+            "stars": 186663,
+            "stars_today": 186663,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 167375,
-            "stars_today": 167375,
+            "stars": 167393,
+            "stars_today": 167393,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 91048,
-            "stars_today": 91048,
+            "stars": 91080,
+            "stars_today": 91080,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 84376,
-            "stars_today": 84376,
+            "stars": 84388,
+            "stars_today": 84388,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 55379,
-            "stars_today": 55379,
+            "stars": 55380,
+            "stars_today": 55380,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-18T09:19:29Z",
+    "updated": "2026-08-18T12:18:51Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-18T09:19:29Z",
+    "updated": "2026-08-18T12:18:51Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-18T09:19:29Z",
+    "updated": "2026-08-18T12:18:51Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "GPT-5.6 Sol Pricing Cut by 50%",
-            "insight": "HN 热议：420 分 · 253 评论",
-            "sentiment": "positive",
-            "comments": 253,
-            "url": "https://openrouter.ai/openai/gpt-5.6-sol",
+            "title": "Google buys crashed airline Spirit's data at auction, because AI",
+            "insight": "HN 热议：128 分 · 67 评论",
+            "sentiment": "neutral",
+            "comments": 67,
+            "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Fairphone 6 and PostmarketOS working main camera",
-            "insight": "HN 热议：190 分 · 43 评论",
-            "sentiment": "neutral",
-            "comments": 43,
-            "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
+            "title": "GPT-5.6 Sol Pricing Cut by 50%",
+            "insight": "HN 热议：507 分 · 326 评论",
+            "sentiment": "positive",
+            "comments": 326,
+            "url": "https://openrouter.ai/openai/gpt-5.6-sol",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
-            "insight": "HN 热议：369 分 · 142 评论",
+            "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
+            "insight": "HN 热议：651 分 · 386 评论",
             "sentiment": "positive",
-            "comments": 142,
-            "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+            "comments": 386,
+            "url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
-            "insight": "HN 热议：475 分 · 307 评论",
+            "title": "Fairphone 6 and PostmarketOS working main camera",
+            "insight": "HN 热议：236 分 · 53 评论",
             "sentiment": "positive",
-            "comments": 307,
-            "url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
+            "comments": 53,
+            "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-            "insight": "HN 热议：338 分 · 163 评论",
-            "sentiment": "positive",
-            "comments": 163,
-            "url": "https://blog.roboflow.com/openai-gpt-5-6/",
+            "title": "IBM Simon (1994): the original smartphone, explained in its own ad [video]",
+            "insight": "HN 热议：48 分 · 15 评论",
+            "sentiment": "neutral",
+            "comments": 15,
+            "url": "https://www.youtube.com/watch?v=xoTFywZpPcc",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-18T09:19:29Z",
+    "updated": "2026-08-18T12:18:51Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
