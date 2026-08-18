@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-18T12:18:51Z",
+    "updated": "2026-08-18T15:18:40Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-18T12:18:51Z",
+    "updated": "2026-08-18T15:18:40Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-18T12:18:51Z",
+    "updated": "2026-08-18T15:18:40Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 186663,
-            "stars_today": 186663,
+            "stars": 186664,
+            "stars_today": 186664,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 167393,
-            "stars_today": 167393,
+            "stars": 167426,
+            "stars_today": 167426,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95990,
-            "stars_today": 95990,
+            "stars": 95997,
+            "stars_today": 95997,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 91080,
-            "stars_today": 91080,
+            "stars": 91112,
+            "stars_today": 91112,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 84388,
-            "stars_today": 84388,
+            "stars": 84400,
+            "stars_today": 84400,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -325,7 +325,7 @@ window.__DATA__ = {
     ]
 },
   "products": {
-    "updated": "2026-08-18T12:18:51Z",
+    "updated": "2026-08-18T15:18:40Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-18T12:18:51Z",
+    "updated": "2026-08-18T15:18:40Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-18T12:18:51Z",
+    "updated": "2026-08-18T15:18:40Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Google buys crashed airline Spirit's data at auction, because AI",
-            "insight": "HN 热议：128 分 · 67 评论",
+            "title": "Using the railway network as a flatbed scanner",
+            "insight": "HN 热议：161 分 · 28 评论",
             "sentiment": "neutral",
-            "comments": 67,
-            "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
+            "comments": 28,
+            "url": "https://philo.gay/linecam/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "GPT-5.6 Sol Pricing Cut by 50%",
-            "insight": "HN 热议：507 分 · 326 评论",
-            "sentiment": "positive",
-            "comments": 326,
-            "url": "https://openrouter.ai/openai/gpt-5.6-sol",
+            "title": "Fairphone is now officially available in the United States",
+            "insight": "HN 热议：149 分 · 58 评论",
+            "sentiment": "neutral",
+            "comments": 58,
+            "url": "https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
-            "insight": "HN 热议：651 分 · 386 评论",
+            "title": "Google buys crashed airline Spirit's data at auction",
+            "insight": "HN 热议：369 分 · 250 评论",
             "sentiment": "positive",
-            "comments": 386,
-            "url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
+            "comments": 250,
+            "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Fairphone 6 and PostmarketOS working main camera",
-            "insight": "HN 热议：236 分 · 53 评论",
-            "sentiment": "positive",
-            "comments": 53,
-            "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
+            "title": "Baking a Model: A Metaphor for LLM Training",
+            "insight": "HN 热议：19 分 · 1 评论",
+            "sentiment": "neutral",
+            "comments": 1,
+            "url": "https://newsletter.kentbeck.com/p/baking-a-model",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "IBM Simon (1994): the original smartphone, explained in its own ad [video]",
-            "insight": "HN 热议：48 分 · 15 评论",
-            "sentiment": "neutral",
-            "comments": 15,
-            "url": "https://www.youtube.com/watch?v=xoTFywZpPcc",
+            "title": "GPT-5.6 Sol Pricing Cut by 50%",
+            "insight": "HN 热议：569 分 · 373 评论",
+            "sentiment": "positive",
+            "comments": 373,
+            "url": "https://openrouter.ai/openai/gpt-5.6-sol",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-18T12:18:51Z",
+    "updated": "2026-08-18T15:18:40Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
