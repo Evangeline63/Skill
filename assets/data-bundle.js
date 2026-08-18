@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-18T03:33:30Z",
+    "updated": "2026-08-18T06:20:28Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-18T03:33:30Z",
+    "updated": "2026-08-18T06:20:28Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,7 +266,7 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-18T03:33:30Z",
+    "updated": "2026-08-18T06:20:28Z",
     "repos": [
         {
             "rank": 1,
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 167341,
-            "stars_today": 167341,
+            "stars": 167358,
+            "stars_today": 167358,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 91028,
-            "stars_today": 91028,
+            "stars": 91034,
+            "stars_today": 91034,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 84345,
-            "stars_today": 84345,
+            "stars": 84353,
+            "stars_today": 84353,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -325,7 +325,7 @@ window.__DATA__ = {
     ]
 },
   "products": {
-    "updated": "2026-08-18T03:33:30Z",
+    "updated": "2026-08-18T06:20:28Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-18T03:33:30Z",
+    "updated": "2026-08-18T06:20:28Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-18T03:33:30Z",
+    "updated": "2026-08-18T06:20:28Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "GPT-5.6 Sol Pricing Cut by 50%",
-            "insight": "HN 热议：199 分 · 115 评论",
-            "sentiment": "neutral",
-            "comments": 115,
+            "insight": "HN 热议：318 分 · 165 评论",
+            "sentiment": "positive",
+            "comments": 165,
             "url": "https://openrouter.ai/openai/gpt-5.6-sol",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "Fairphone 6 and PostmarketOS working main camera",
-            "insight": "HN 热议：94 分 · 25 评论",
+            "insight": "HN 热议：135 分 · 30 评论",
             "sentiment": "neutral",
-            "comments": 25,
+            "comments": 30,
             "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
-            "insight": "HN 热议：325 分 · 127 评论",
+            "insight": "HN 热议：350 分 · 137 评论",
             "sentiment": "positive",
-            "comments": 127,
+            "comments": 137,
             "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "AI;DR (AI; Didn't Read)",
-            "insight": "HN 热议：662 分 · 408 评论",
+            "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+            "insight": "HN 热议：323 分 · 156 评论",
             "sentiment": "positive",
-            "comments": 408,
-            "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+            "comments": 156,
+            "url": "https://blog.roboflow.com/openai-gpt-5-6/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Repair Cafe – Fix Your Broken Items",
-            "insight": "HN 热议：35 分 · 9 评论",
+            "title": "An update on leaving Gmail for Fastmail",
+            "insight": "HN 热议：173 分 · 118 评论",
             "sentiment": "neutral",
-            "comments": 9,
-            "url": "https://www.repaircafe.org/",
+            "comments": 118,
+            "url": "https://moddedbear.com/an-update-on-leaving-gmail-for-fastmail/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-18T03:33:30Z",
+    "updated": "2026-08-18T06:20:28Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
