@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-18T06:20:28Z",
+  "updated": "2026-08-18T09:19:29Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "GPT-5.6 Sol Pricing Cut by 50%",
-      "insight": "HN 热议：318 分 · 165 评论",
+      "insight": "HN 热议：420 分 · 253 评论",
       "sentiment": "positive",
-      "comments": 165,
+      "comments": 253,
       "url": "https://openrouter.ai/openai/gpt-5.6-sol",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "Fairphone 6 and PostmarketOS working main camera",
-      "insight": "HN 热议：135 分 · 30 评论",
+      "insight": "HN 热议：190 分 · 43 评论",
       "sentiment": "neutral",
-      "comments": 30,
+      "comments": 43,
       "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
-      "insight": "HN 热议：350 分 · 137 评论",
+      "insight": "HN 热议：369 分 · 142 评论",
       "sentiment": "positive",
-      "comments": 137,
+      "comments": 142,
       "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-      "insight": "HN 热议：323 分 · 156 评论",
+      "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
+      "insight": "HN 热议：475 分 · 307 评论",
       "sentiment": "positive",
-      "comments": 156,
-      "url": "https://blog.roboflow.com/openai-gpt-5-6/",
+      "comments": 307,
+      "url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "An update on leaving Gmail for Fastmail",
-      "insight": "HN 热议：173 分 · 118 评论",
-      "sentiment": "neutral",
-      "comments": 118,
-      "url": "https://moddedbear.com/an-update-on-leaving-gmail-for-fastmail/",
+      "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+      "insight": "HN 热议：338 分 · 163 评论",
+      "sentiment": "positive",
+      "comments": 163,
+      "url": "https://blog.roboflow.com/openai-gpt-5-6/",
       "id": 5
     }
   ]
