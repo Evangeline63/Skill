@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-17T21:13:58Z",
+  "updated": "2026-08-18T00:29:37Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
-      "insight": "HN 热议：268 分 · 112 评论",
-      "sentiment": "positive",
-      "comments": 112,
-      "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+      "title": "Fairphone 6 and PostmarketOS working main camera",
+      "insight": "HN 热议：56 分 · 14 评论",
+      "sentiment": "neutral",
+      "comments": 14,
+      "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "AI;DR (AI; Didn't Read)",
-      "insight": "HN 热议：274 分 · 164 评论",
+      "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
+      "insight": "HN 热议：305 分 · 123 评论",
       "sentiment": "positive",
-      "comments": 164,
-      "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+      "comments": 123,
+      "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "How to disable or avoid intrusive AI",
-      "insight": "HN 热议：204 分 · 111 评论",
-      "sentiment": "positive",
-      "comments": 111,
-      "url": "https://www.librarian.net/notoai/",
+      "title": "GPT-5.6 Sol Pricing Cut by 50%",
+      "insight": "HN 热议：49 分 · 9 评论",
+      "sentiment": "neutral",
+      "comments": 9,
+      "url": "https://openrouter.ai/openai/gpt-5.6-sol",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-      "insight": "HN 热议：273 分 · 140 评论",
-      "sentiment": "positive",
-      "comments": 140,
-      "url": "https://blog.roboflow.com/openai-gpt-5-6/",
+      "title": "Un-AI Your Internet",
+      "insight": "HN 热议：5 分 · 0 评论",
+      "sentiment": "neutral",
+      "comments": 0,
+      "url": "https://un-ai.digitalprophet.online/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
-      "insight": "HN 热议：78 分 · 49 评论",
-      "sentiment": "neutral",
-      "comments": 49,
-      "url": "https://speko.ai/",
+      "title": "AI;DR (AI; Didn't Read)",
+      "insight": "HN 热议：551 分 · 339 评论",
+      "sentiment": "positive",
+      "comments": 339,
+      "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
       "id": 5
     }
   ]

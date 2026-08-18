@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-17T21:13:58Z",
+    "updated": "2026-08-18T00:29:37Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-17T21:13:58Z",
+    "updated": "2026-08-18T00:29:37Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-17T21:13:58Z",
+    "updated": "2026-08-18T00:29:37Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 186655,
-            "stars_today": 186655,
+            "stars": 186656,
+            "stars_today": 186656,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 167316,
-            "stars_today": 167316,
+            "stars": 167331,
+            "stars_today": 167331,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 91004,
-            "stars_today": 91004,
+            "stars": 91019,
+            "stars_today": 91019,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 84323,
-            "stars_today": 84323,
+            "stars": 84336,
+            "stars_today": 84336,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -325,7 +325,7 @@ window.__DATA__ = {
     ]
 },
   "products": {
-    "updated": "2026-08-17T21:13:58Z",
+    "updated": "2026-08-18T00:29:37Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-17T21:13:58Z",
+    "updated": "2026-08-18T00:29:37Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-17T21:13:58Z",
+    "updated": "2026-08-18T00:29:37Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
-            "insight": "HN 热议：268 分 · 112 评论",
-            "sentiment": "positive",
-            "comments": 112,
-            "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+            "title": "Fairphone 6 and PostmarketOS working main camera",
+            "insight": "HN 热议：56 分 · 14 评论",
+            "sentiment": "neutral",
+            "comments": 14,
+            "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "AI;DR (AI; Didn't Read)",
-            "insight": "HN 热议：274 分 · 164 评论",
+            "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
+            "insight": "HN 热议：305 分 · 123 评论",
             "sentiment": "positive",
-            "comments": 164,
-            "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+            "comments": 123,
+            "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "How to disable or avoid intrusive AI",
-            "insight": "HN 热议：204 分 · 111 评论",
-            "sentiment": "positive",
-            "comments": 111,
-            "url": "https://www.librarian.net/notoai/",
+            "title": "GPT-5.6 Sol Pricing Cut by 50%",
+            "insight": "HN 热议：49 分 · 9 评论",
+            "sentiment": "neutral",
+            "comments": 9,
+            "url": "https://openrouter.ai/openai/gpt-5.6-sol",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-            "insight": "HN 热议：273 分 · 140 评论",
-            "sentiment": "positive",
-            "comments": 140,
-            "url": "https://blog.roboflow.com/openai-gpt-5-6/",
+            "title": "Un-AI Your Internet",
+            "insight": "HN 热议：5 分 · 0 评论",
+            "sentiment": "neutral",
+            "comments": 0,
+            "url": "https://un-ai.digitalprophet.online/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
-            "insight": "HN 热议：78 分 · 49 评论",
-            "sentiment": "neutral",
-            "comments": 49,
-            "url": "https://speko.ai/",
+            "title": "AI;DR (AI; Didn't Read)",
+            "insight": "HN 热议：551 分 · 339 评论",
+            "sentiment": "positive",
+            "comments": 339,
+            "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-17T21:13:58Z",
+    "updated": "2026-08-18T00:29:37Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
