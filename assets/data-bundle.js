@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-19T18:15:01Z",
+    "updated": "2026-08-19T21:14:11Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-19T18:15:01Z",
+    "updated": "2026-08-19T21:14:11Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-19T18:15:01Z",
+    "updated": "2026-08-19T21:14:11Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 186687,
-            "stars_today": 186687,
+            "stars": 186689,
+            "stars_today": 186689,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 167578,
-            "stars_today": 167578,
+            "stars": 167589,
+            "stars_today": 167589,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96008,
-            "stars_today": 96008,
+            "stars": 96009,
+            "stars_today": 96009,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 91250,
-            "stars_today": 91250,
+            "stars": 91262,
+            "stars_today": 91262,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 84490,
-            "stars_today": 84490,
+            "stars": 84499,
+            "stars_today": 84499,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 55575,
-            "stars_today": 55575,
+            "stars": 55644,
+            "stars_today": 55644,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-19T18:15:01Z",
+    "updated": "2026-08-19T21:14:11Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-19T18:15:01Z",
+    "updated": "2026-08-19T21:14:11Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-19T18:15:01Z",
+    "updated": "2026-08-19T21:14:11Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "A joke domain purchase turned in geopolitical warfare",
-            "insight": "HN 热议：434 分 · 57 评论",
+            "insight": "HN 热议：625 分 · 83 评论",
             "sentiment": "positive",
-            "comments": 57,
+            "comments": 83,
             "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams",
-            "insight": "HN 热议：24 分 · 6 评论",
+            "title": "Google replaced Git tags for certain source code with obtaining via Google Drive",
+            "insight": "HN 热议：103 分 · 23 评论",
             "sentiment": "neutral",
-            "comments": 6,
-            "url": "https://github.com/onecli/onecli",
+            "comments": 23,
+            "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Extensible Software in the Age of LLMs",
-            "insight": "HN 热议：29 分 · 15 评论",
+            "title": "Mathematics in the age of AI",
+            "insight": "HN 热议：78 分 · 59 评论",
             "sentiment": "neutral",
-            "comments": 15,
-            "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/",
+            "comments": 59,
+            "url": "https://arxiv.org/abs/2608.16753",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Chain-of-Thought Reasoning in the Wild Is Not Always Faithful",
-            "insight": "HN 热议：26 分 · 11 评论",
+            "title": "Extensible Software in the age of LLMs",
+            "insight": "HN 热议：81 分 · 36 评论",
             "sentiment": "neutral",
-            "comments": 11,
-            "url": "https://arxiv.org/abs/2503.08679",
+            "comments": 36,
+            "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Devices with GrapheneOS support should be available in 2027",
-            "insight": "HN 热议：493 分 · 300 评论",
-            "sentiment": "positive",
-            "comments": 300,
-            "url": "https://grapheneos.social/@GrapheneOS/117078064184215730",
+            "title": "fx :Tiny, open, native coding agent.",
+            "insight": "HN 热议：128 分 · 61 评论",
+            "sentiment": "neutral",
+            "comments": 61,
+            "url": "https://fx.sh",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-19T18:15:01Z",
+    "updated": "2026-08-19T21:14:11Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

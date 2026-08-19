@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-19T18:15:01Z",
+  "updated": "2026-08-19T21:14:11Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "A joke domain purchase turned in geopolitical warfare",
-      "insight": "HN 热议：434 分 · 57 评论",
+      "insight": "HN 热议：625 分 · 83 评论",
       "sentiment": "positive",
-      "comments": 57,
+      "comments": 83,
       "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams",
-      "insight": "HN 热议：24 分 · 6 评论",
+      "title": "Google replaced Git tags for certain source code with obtaining via Google Drive",
+      "insight": "HN 热议：103 分 · 23 评论",
       "sentiment": "neutral",
-      "comments": 6,
-      "url": "https://github.com/onecli/onecli",
+      "comments": 23,
+      "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Extensible Software in the Age of LLMs",
-      "insight": "HN 热议：29 分 · 15 评论",
+      "title": "Mathematics in the age of AI",
+      "insight": "HN 热议：78 分 · 59 评论",
       "sentiment": "neutral",
-      "comments": 15,
-      "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/",
+      "comments": 59,
+      "url": "https://arxiv.org/abs/2608.16753",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Chain-of-Thought Reasoning in the Wild Is Not Always Faithful",
-      "insight": "HN 热议：26 分 · 11 评论",
+      "title": "Extensible Software in the age of LLMs",
+      "insight": "HN 热议：81 分 · 36 评论",
       "sentiment": "neutral",
-      "comments": 11,
-      "url": "https://arxiv.org/abs/2503.08679",
+      "comments": 36,
+      "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Devices with GrapheneOS support should be available in 2027",
-      "insight": "HN 热议：493 分 · 300 评论",
-      "sentiment": "positive",
-      "comments": 300,
-      "url": "https://grapheneos.social/@GrapheneOS/117078064184215730",
+      "title": "fx :Tiny, open, native coding agent.",
+      "insight": "HN 热议：128 分 · 61 评论",
+      "sentiment": "neutral",
+      "comments": 61,
+      "url": "https://fx.sh",
       "id": 5
     }
   ]
