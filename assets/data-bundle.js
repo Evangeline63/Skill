@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-18T21:11:36Z",
+    "updated": "2026-08-19T00:30:04Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-18T21:11:36Z",
+    "updated": "2026-08-19T00:30:04Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-18T21:11:36Z",
+    "updated": "2026-08-19T00:30:04Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 186671,
-            "stars_today": 186671,
+            "stars": 186674,
+            "stars_today": 186674,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 167452,
-            "stars_today": 167452,
+            "stars": 167458,
+            "stars_today": 167458,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95997,
-            "stars_today": 95997,
+            "stars": 95996,
+            "stars_today": 95996,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 91145,
-            "stars_today": 91145,
+            "stars": 91158,
+            "stars_today": 91158,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 84418,
-            "stars_today": 84418,
+            "stars": 84421,
+            "stars_today": 84421,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -325,7 +325,7 @@ window.__DATA__ = {
     ]
 },
   "products": {
-    "updated": "2026-08-18T21:11:36Z",
+    "updated": "2026-08-19T00:30:04Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-18T21:11:36Z",
+    "updated": "2026-08-19T00:30:04Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-18T21:11:36Z",
+    "updated": "2026-08-19T00:30:04Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Using the railway network as a flatbed scanner",
-            "insight": "HN 热议：351 分 · 55 评论",
-            "sentiment": "positive",
-            "comments": 55,
-            "url": "https://philo.gay/linecam/",
+            "title": "Claude Code Teaching macOS to Natively Print to the HP Laser 1008a",
+            "insight": "HN 热议：105 分 · 65 评论",
+            "sentiment": "neutral",
+            "comments": 65,
+            "url": "https://cdn.kuber.studio/chat/hp-laser-1008a-driver",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Data centers raise nearby temperatures by up to 4 degrees in Phoenix",
-            "insight": "HN 热议：248 分 · 327 评论",
+            "title": "Using the railway network as a flatbed scanner",
+            "insight": "HN 热议：387 分 · 61 评论",
             "sentiment": "positive",
-            "comments": 327,
-            "url": "https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban",
+            "comments": 61,
+            "url": "https://philo.gay/linecam/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Universal health coverage could save $1T and 114k lives a year: study",
-            "insight": "HN 热议：591 分 · 682 评论",
-            "sentiment": "positive",
-            "comments": 682,
-            "url": "https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/",
+            "title": "AI usage patterns in software teams",
+            "insight": "HN 热议：19 分 · 10 评论",
+            "sentiment": "neutral",
+            "comments": 10,
+            "url": "https://linear.app/data",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Norway Should Buy OpenAI",
-            "insight": "HN 热议：145 分 · 160 评论",
+            "title": "Norway should buy OpenAI",
+            "insight": "HN 热议：198 分 · 221 评论",
             "sentiment": "neutral",
-            "comments": 160,
+            "comments": 221,
             "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: macOS data protection keychain for Electron apps",
-            "insight": "HN 热议：19 分 · 1 评论",
-            "sentiment": "neutral",
-            "comments": 1,
-            "url": "https://github.com/biw/keychain-store",
+            "title": "Claude Code May–August 2026 weekly limits promotion",
+            "insight": "HN 热议：254 分 · 223 评论",
+            "sentiment": "positive",
+            "comments": 223,
+            "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-18T21:11:36Z",
+    "updated": "2026-08-19T00:30:04Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
