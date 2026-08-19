@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-19T00:30:04Z",
+    "updated": "2026-08-19T03:35:39Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-19T00:30:04Z",
+    "updated": "2026-08-19T03:35:39Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-19T00:30:04Z",
+    "updated": "2026-08-19T03:35:39Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 186674,
-            "stars_today": 186674,
+            "stars": 186680,
+            "stars_today": 186680,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 167458,
-            "stars_today": 167458,
+            "stars": 167467,
+            "stars_today": 167467,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 95996,
-            "stars_today": 95996,
+            "stars": 95997,
+            "stars_today": 95997,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 91158,
-            "stars_today": 91158,
+            "stars": 91178,
+            "stars_today": 91178,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 84421,
-            "stars_today": 84421,
+            "stars": 84437,
+            "stars_today": 84437,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 55378,
-            "stars_today": 55378,
+            "stars": 55380,
+            "stars_today": 55380,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-19T00:30:04Z",
+    "updated": "2026-08-19T03:35:39Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-19T00:30:04Z",
+    "updated": "2026-08-19T03:35:39Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-19T00:30:04Z",
+    "updated": "2026-08-19T03:35:39Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Claude Code Teaching macOS to Natively Print to the HP Laser 1008a",
-            "insight": "HN 热议：105 分 · 65 评论",
+            "title": "AI usage patterns in software teams",
+            "insight": "HN 热议：63 分 · 30 评论",
             "sentiment": "neutral",
-            "comments": 65,
-            "url": "https://cdn.kuber.studio/chat/hp-laser-1008a-driver",
+            "comments": 30,
+            "url": "https://linear.app/data",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "Using the railway network as a flatbed scanner",
-            "insight": "HN 热议：387 分 · 61 评论",
+            "insight": "HN 热议：412 分 · 68 评论",
             "sentiment": "positive",
-            "comments": 61,
+            "comments": 68,
             "url": "https://philo.gay/linecam/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "AI usage patterns in software teams",
-            "insight": "HN 热议：19 分 · 10 评论",
-            "sentiment": "neutral",
-            "comments": 10,
-            "url": "https://linear.app/data",
+            "title": "Universal health coverage could save $1T and 114k lives a year: study",
+            "insight": "HN 热议：755 分 · 823 评论",
+            "sentiment": "positive",
+            "comments": 823,
+            "url": "https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/",
             "id": 3
         },
         {
             "source": "HackerNews",
             "title": "Norway should buy OpenAI",
-            "insight": "HN 热议：198 分 · 221 评论",
-            "sentiment": "neutral",
-            "comments": 221,
+            "insight": "HN 热议：222 分 · 235 评论",
+            "sentiment": "positive",
+            "comments": 235,
             "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Claude Code May–August 2026 weekly limits promotion",
-            "insight": "HN 热议：254 分 · 223 评论",
-            "sentiment": "positive",
-            "comments": 223,
-            "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
+            "title": "Claude Code Teaching macOS to Natively Print to the HP Laser 1008a",
+            "insight": "HN 热议：120 分 · 76 评论",
+            "sentiment": "neutral",
+            "comments": 76,
+            "url": "https://cdn.kuber.studio/chat/hp-laser-1008a-driver",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-19T00:30:04Z",
+    "updated": "2026-08-19T03:35:39Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

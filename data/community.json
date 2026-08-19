@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-19T00:30:04Z",
+  "updated": "2026-08-19T03:35:39Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Claude Code Teaching macOS to Natively Print to the HP Laser 1008a",
-      "insight": "HN 热议：105 分 · 65 评论",
+      "title": "AI usage patterns in software teams",
+      "insight": "HN 热议：63 分 · 30 评论",
       "sentiment": "neutral",
-      "comments": 65,
-      "url": "https://cdn.kuber.studio/chat/hp-laser-1008a-driver",
+      "comments": 30,
+      "url": "https://linear.app/data",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "Using the railway network as a flatbed scanner",
-      "insight": "HN 热议：387 分 · 61 评论",
+      "insight": "HN 热议：412 分 · 68 评论",
       "sentiment": "positive",
-      "comments": 61,
+      "comments": 68,
       "url": "https://philo.gay/linecam/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "AI usage patterns in software teams",
-      "insight": "HN 热议：19 分 · 10 评论",
-      "sentiment": "neutral",
-      "comments": 10,
-      "url": "https://linear.app/data",
+      "title": "Universal health coverage could save $1T and 114k lives a year: study",
+      "insight": "HN 热议：755 分 · 823 评论",
+      "sentiment": "positive",
+      "comments": 823,
+      "url": "https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "Norway should buy OpenAI",
-      "insight": "HN 热议：198 分 · 221 评论",
-      "sentiment": "neutral",
-      "comments": 221,
+      "insight": "HN 热议：222 分 · 235 评论",
+      "sentiment": "positive",
+      "comments": 235,
       "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Claude Code May–August 2026 weekly limits promotion",
-      "insight": "HN 热议：254 分 · 223 评论",
-      "sentiment": "positive",
-      "comments": 223,
-      "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
+      "title": "Claude Code Teaching macOS to Natively Print to the HP Laser 1008a",
+      "insight": "HN 热议：120 分 · 76 评论",
+      "sentiment": "neutral",
+      "comments": 76,
+      "url": "https://cdn.kuber.studio/chat/hp-laser-1008a-driver",
       "id": 5
     }
   ]
