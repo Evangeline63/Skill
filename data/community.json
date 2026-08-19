@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-19T06:21:33Z",
+  "updated": "2026-08-19T09:20:10Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "AI usage patterns in software teams",
-      "insight": "HN 热议：99 分 · 55 评论",
+      "insight": "HN 热议：134 分 · 69 评论",
       "sentiment": "neutral",
-      "comments": 55,
+      "comments": 69,
       "url": "https://linear.app/data",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "Claude writing a macOS driver for my obscure HP printer built only for Windows",
-      "insight": "HN 热议：169 分 · 142 评论",
+      "insight": "HN 热议：195 分 · 158 评论",
       "sentiment": "neutral",
-      "comments": 142,
+      "comments": 158,
       "url": "https://twitter.com/kuberwastaken/status/2089377982536388964",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Universal health coverage could save $1T and 114k lives a year: study",
-      "insight": "HN 热议：808 分 · 862 评论",
+      "title": "Claude Code May–August 2026 weekly limits promotion",
+      "insight": "HN 热议：274 分 · 247 评论",
       "sentiment": "positive",
-      "comments": 862,
-      "url": "https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/",
+      "comments": 247,
+      "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Claude Code May–August 2026 weekly limits promotion",
-      "insight": "HN 热议：267 分 · 244 评论",
+      "title": "Using the railway network as a flatbed scanner",
+      "insight": "HN 热议：429 分 · 69 评论",
       "sentiment": "positive",
-      "comments": 244,
-      "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
+      "comments": 69,
+      "url": "https://philo.gay/linecam/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Using the railway network as a flatbed scanner",
-      "insight": "HN 热议：423 分 · 69 评论",
+      "title": "Norway should buy OpenAI",
+      "insight": "HN 热议：240 分 · 250 评论",
       "sentiment": "positive",
-      "comments": 69,
-      "url": "https://philo.gay/linecam/",
+      "comments": 250,
+      "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
       "id": 5
     }
   ]
