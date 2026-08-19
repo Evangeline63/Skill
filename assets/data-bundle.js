@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-19T09:20:10Z",
+    "updated": "2026-08-19T12:18:26Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-19T09:20:10Z",
+    "updated": "2026-08-19T12:18:26Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-19T09:20:10Z",
+    "updated": "2026-08-19T12:18:26Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 186681,
-            "stars_today": 186681,
+            "stars": 186683,
+            "stars_today": 186683,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 167511,
-            "stars_today": 167511,
+            "stars": 167527,
+            "stars_today": 167527,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96000,
-            "stars_today": 96000,
+            "stars": 96001,
+            "stars_today": 96001,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 91201,
-            "stars_today": 91201,
+            "stars": 91222,
+            "stars_today": 91222,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 84457,
-            "stars_today": 84457,
+            "stars": 84466,
+            "stars_today": 84466,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "FlowiseAI/Flowise",
             "description": "Build AI Agents, Visually",
             "language": "TypeScript",
-            "stars": 55379,
-            "stars_today": 55379,
+            "stars": 55380,
+            "stars_today": 55380,
             "url": "https://github.com/FlowiseAI/Flowise"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-19T09:20:10Z",
+    "updated": "2026-08-19T12:18:26Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-19T09:20:10Z",
+    "updated": "2026-08-19T12:18:26Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-19T09:20:10Z",
+    "updated": "2026-08-19T12:18:26Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "AI usage patterns in software teams",
-            "insight": "HN 热议：134 分 · 69 评论",
+            "title": "GrapheneOS in 2027 available on high-end Motorola phones",
+            "insight": "HN 热议：27 分 · 4 评论",
             "sentiment": "neutral",
-            "comments": 69,
-            "url": "https://linear.app/data",
+            "comments": 4,
+            "url": "https://grapheneos.social/@GrapheneOS/117078064184215730",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Claude writing a macOS driver for my obscure HP printer built only for Windows",
-            "insight": "HN 热议：195 分 · 158 评论",
+            "title": "Air Theremin – a browser theremin you play by waving at your webcam",
+            "insight": "HN 热议：61 分 · 29 评论",
             "sentiment": "neutral",
-            "comments": 158,
-            "url": "https://twitter.com/kuberwastaken/status/2089377982536388964",
+            "comments": 29,
+            "url": "https://theremin.bizibah.com/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Claude Code May–August 2026 weekly limits promotion",
-            "insight": "HN 热议：274 分 · 247 评论",
+            "title": "Claude writing a macOS driver for my obscure HP printer built only for Windows",
+            "insight": "HN 热议：229 分 · 174 评论",
             "sentiment": "positive",
-            "comments": 247,
-            "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
+            "comments": 174,
+            "url": "https://twitter.com/kuberwastaken/status/2089377982536388964",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Using the railway network as a flatbed scanner",
-            "insight": "HN 热议：429 分 · 69 评论",
-            "sentiment": "positive",
-            "comments": 69,
-            "url": "https://philo.gay/linecam/",
+            "title": "AI usage patterns in software teams",
+            "insight": "HN 热议：155 分 · 116 评论",
+            "sentiment": "neutral",
+            "comments": 116,
+            "url": "https://linear.app/data",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Norway should buy OpenAI",
-            "insight": "HN 热议：240 分 · 250 评论",
+            "title": "Claude Code May–August 2026 weekly limits promotion",
+            "insight": "HN 热议：279 分 · 251 评论",
             "sentiment": "positive",
-            "comments": 250,
-            "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
+            "comments": 251,
+            "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-19T09:20:10Z",
+    "updated": "2026-08-19T12:18:26Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
