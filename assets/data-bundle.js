@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-19T12:18:26Z",
+    "updated": "2026-08-19T15:18:09Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-19T12:18:26Z",
+    "updated": "2026-08-19T15:18:09Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-19T12:18:26Z",
+    "updated": "2026-08-19T15:18:09Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 186683,
-            "stars_today": 186683,
+            "stars": 186685,
+            "stars_today": 186685,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 167527,
-            "stars_today": 167527,
+            "stars": 167555,
+            "stars_today": 167555,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96001,
-            "stars_today": 96001,
+            "stars": 96004,
+            "stars_today": 96004,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 91222,
-            "stars_today": 91222,
+            "stars": 91237,
+            "stars_today": 91237,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,23 +309,23 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 84466,
-            "stars_today": 84466,
+            "stars": 84480,
+            "stars_today": 84480,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
             "rank": 6,
-            "name": "FlowiseAI/Flowise",
-            "description": "Build AI Agents, Visually",
-            "language": "TypeScript",
-            "stars": 55380,
-            "stars_today": 55380,
-            "url": "https://github.com/FlowiseAI/Flowise"
+            "name": "usestrix/strix",
+            "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+            "language": "Python",
+            "stars": 55475,
+            "stars_today": 55475,
+            "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-19T12:18:26Z",
+    "updated": "2026-08-19T15:18:09Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-19T12:18:26Z",
+    "updated": "2026-08-19T15:18:09Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-19T12:18:26Z",
+    "updated": "2026-08-19T15:18:09Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "GrapheneOS in 2027 available on high-end Motorola phones",
-            "insight": "HN 热议：27 分 · 4 评论",
-            "sentiment": "neutral",
-            "comments": 4,
+            "insight": "HN 热议：356 分 · 202 评论",
+            "sentiment": "positive",
+            "comments": 202,
             "url": "https://grapheneos.social/@GrapheneOS/117078064184215730",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Air Theremin – a browser theremin you play by waving at your webcam",
-            "insight": "HN 热议：61 分 · 29 评论",
+            "title": "A joke domain purchase turned in geopolitical warfare",
+            "insight": "HN 热议：189 分 · 21 评论",
             "sentiment": "neutral",
-            "comments": 29,
-            "url": "https://theremin.bizibah.com/",
+            "comments": 21,
+            "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Claude writing a macOS driver for my obscure HP printer built only for Windows",
-            "insight": "HN 热议：229 分 · 174 评论",
-            "sentiment": "positive",
-            "comments": 174,
-            "url": "https://twitter.com/kuberwastaken/status/2089377982536388964",
+            "title": "Air Theremin – a browser theremin you play by waving at your webcam",
+            "insight": "HN 热议：135 分 · 60 评论",
+            "sentiment": "neutral",
+            "comments": 60,
+            "url": "https://theremin.bizibah.com/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "AI usage patterns in software teams",
-            "insight": "HN 热议：155 分 · 116 评论",
+            "title": "Microgpt in pure C hits 10M tps on Apple m5",
+            "insight": "HN 热议：3 分 · 0 评论",
             "sentiment": "neutral",
-            "comments": 116,
-            "url": "https://linear.app/data",
+            "comments": 0,
+            "url": "https://github.com/vixhal-baraiya/microgpt-c",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Claude Code May–August 2026 weekly limits promotion",
-            "insight": "HN 热议：279 分 · 251 评论",
+            "title": "Claude writing a macOS driver for my obscure HP printer built only for Windows",
+            "insight": "HN 热议：270 分 · 195 评论",
             "sentiment": "positive",
-            "comments": 251,
-            "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
+            "comments": 195,
+            "url": "https://twitter.com/kuberwastaken/status/2089377982536388964",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-19T12:18:26Z",
+    "updated": "2026-08-19T15:18:09Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

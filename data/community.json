@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-19T12:18:26Z",
+  "updated": "2026-08-19T15:18:09Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "GrapheneOS in 2027 available on high-end Motorola phones",
-      "insight": "HN 热议：27 分 · 4 评论",
-      "sentiment": "neutral",
-      "comments": 4,
+      "insight": "HN 热议：356 分 · 202 评论",
+      "sentiment": "positive",
+      "comments": 202,
       "url": "https://grapheneos.social/@GrapheneOS/117078064184215730",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Air Theremin – a browser theremin you play by waving at your webcam",
-      "insight": "HN 热议：61 分 · 29 评论",
+      "title": "A joke domain purchase turned in geopolitical warfare",
+      "insight": "HN 热议：189 分 · 21 评论",
       "sentiment": "neutral",
-      "comments": 29,
-      "url": "https://theremin.bizibah.com/",
+      "comments": 21,
+      "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Claude writing a macOS driver for my obscure HP printer built only for Windows",
-      "insight": "HN 热议：229 分 · 174 评论",
-      "sentiment": "positive",
-      "comments": 174,
-      "url": "https://twitter.com/kuberwastaken/status/2089377982536388964",
+      "title": "Air Theremin – a browser theremin you play by waving at your webcam",
+      "insight": "HN 热议：135 分 · 60 评论",
+      "sentiment": "neutral",
+      "comments": 60,
+      "url": "https://theremin.bizibah.com/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "AI usage patterns in software teams",
-      "insight": "HN 热议：155 分 · 116 评论",
+      "title": "Microgpt in pure C hits 10M tps on Apple m5",
+      "insight": "HN 热议：3 分 · 0 评论",
       "sentiment": "neutral",
-      "comments": 116,
-      "url": "https://linear.app/data",
+      "comments": 0,
+      "url": "https://github.com/vixhal-baraiya/microgpt-c",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Claude Code May–August 2026 weekly limits promotion",
-      "insight": "HN 热议：279 分 · 251 评论",
+      "title": "Claude writing a macOS driver for my obscure HP printer built only for Windows",
+      "insight": "HN 热议：270 分 · 195 评论",
       "sentiment": "positive",
-      "comments": 251,
-      "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
+      "comments": 195,
+      "url": "https://twitter.com/kuberwastaken/status/2089377982536388964",
       "id": 5
     }
   ]
