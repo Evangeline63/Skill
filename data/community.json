@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-19T15:18:09Z",
+  "updated": "2026-08-19T18:15:01Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "GrapheneOS in 2027 available on high-end Motorola phones",
-      "insight": "HN 热议：356 分 · 202 评论",
+      "title": "A joke domain purchase turned in geopolitical warfare",
+      "insight": "HN 热议：434 分 · 57 评论",
       "sentiment": "positive",
-      "comments": 202,
-      "url": "https://grapheneos.social/@GrapheneOS/117078064184215730",
+      "comments": 57,
+      "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "A joke domain purchase turned in geopolitical warfare",
-      "insight": "HN 热议：189 分 · 21 评论",
+      "title": "Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams",
+      "insight": "HN 热议：24 分 · 6 评论",
       "sentiment": "neutral",
-      "comments": 21,
-      "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+      "comments": 6,
+      "url": "https://github.com/onecli/onecli",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Air Theremin – a browser theremin you play by waving at your webcam",
-      "insight": "HN 热议：135 分 · 60 评论",
+      "title": "Extensible Software in the Age of LLMs",
+      "insight": "HN 热议：29 分 · 15 评论",
       "sentiment": "neutral",
-      "comments": 60,
-      "url": "https://theremin.bizibah.com/",
+      "comments": 15,
+      "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Microgpt in pure C hits 10M tps on Apple m5",
-      "insight": "HN 热议：3 分 · 0 评论",
+      "title": "Chain-of-Thought Reasoning in the Wild Is Not Always Faithful",
+      "insight": "HN 热议：26 分 · 11 评论",
       "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://github.com/vixhal-baraiya/microgpt-c",
+      "comments": 11,
+      "url": "https://arxiv.org/abs/2503.08679",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Claude writing a macOS driver for my obscure HP printer built only for Windows",
-      "insight": "HN 热议：270 分 · 195 评论",
+      "title": "Devices with GrapheneOS support should be available in 2027",
+      "insight": "HN 热议：493 分 · 300 评论",
       "sentiment": "positive",
-      "comments": 195,
-      "url": "https://twitter.com/kuberwastaken/status/2089377982536388964",
+      "comments": 300,
+      "url": "https://grapheneos.social/@GrapheneOS/117078064184215730",
       "id": 5
     }
   ]
