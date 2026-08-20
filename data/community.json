@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-20T18:19:24Z",
+  "updated": "2026-08-20T21:16:01Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
-      "insight": "HN 热议：367 分 · 88 评论",
-      "sentiment": "positive",
-      "comments": 88,
-      "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
+      "title": "Show HN: Huzzah – a novel approach to coding with AI",
+      "insight": "HN 热议：102 分 · 50 评论",
+      "sentiment": "neutral",
+      "comments": 50,
+      "url": "https://www.danielvaughn.dev/posts/huzzah/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "DiffusionGemma Technical Report",
-      "insight": "HN 热议：104 分 · 19 评论",
-      "sentiment": "neutral",
-      "comments": 19,
-      "url": "https://arxiv.org/abs/2608.00146",
+      "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
+      "insight": "HN 热议：437 分 · 99 评论",
+      "sentiment": "positive",
+      "comments": 99,
+      "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Hacking with Claude on a $27 Smart Watch",
-      "insight": "HN 热议：57 分 · 32 评论",
+      "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
+      "insight": "HN 热议：130 分 · 143 评论",
       "sentiment": "neutral",
-      "comments": 32,
-      "url": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
+      "comments": 143,
+      "url": "https://github.com/zachahn/vomit",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Clean up Claude 5's token vomit with a separate LLM",
-      "insight": "HN 热议：104 分 · 99 评论",
+      "title": "Hacking with Claude on a $27 smart watch",
+      "insight": "HN 热议：66 分 · 41 评论",
       "sentiment": "neutral",
-      "comments": 99,
-      "url": "https://github.com/zachahn/vomit",
+      "comments": 41,
+      "url": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Check if any of the $656M in unclaimed royalties at The MLC is yours",
-      "insight": "HN 热议：45 分 · 23 评论",
+      "title": "Anti-AI fonts are useless and harmful",
+      "insight": "HN 热议：73 分 · 60 评论",
       "sentiment": "neutral",
-      "comments": 23,
-      "url": "https://pub.doub.ly/",
+      "comments": 60,
+      "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
       "id": 5
     }
   ]
