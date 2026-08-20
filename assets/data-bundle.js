@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-19T21:14:11Z",
+    "updated": "2026-08-20T00:30:24Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-19T21:14:11Z",
+    "updated": "2026-08-20T00:30:24Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,7 +266,7 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-19T21:14:11Z",
+    "updated": "2026-08-20T00:30:24Z",
     "repos": [
         {
             "rank": 1,
@@ -282,50 +282,50 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 167589,
-            "stars_today": 167589,
+            "stars": 167591,
+            "stars_today": 167591,
             "url": "https://github.com/f/prompts.chat"
         },
         {
             "rank": 3,
-            "name": "hacksider/Deep-Live-Cam",
-            "description": "real time face swap and one-click video deepfake with only a single image",
-            "language": "Python",
-            "stars": 96009,
-            "stars_today": 96009,
-            "url": "https://github.com/hacksider/Deep-Live-Cam"
-        },
-        {
-            "rank": 4,
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 91262,
-            "stars_today": 91262,
+            "stars": 91273,
+            "stars_today": 91273,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
-            "rank": 5,
+            "rank": 4,
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 84499,
-            "stars_today": 84499,
+            "stars": 84509,
+            "stars_today": 84509,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
-            "rank": 6,
+            "rank": 5,
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 55644,
-            "stars_today": 55644,
+            "stars": 55709,
+            "stars_today": 55709,
             "url": "https://github.com/usestrix/strix"
+        },
+        {
+            "rank": 6,
+            "name": "Kong/kong",
+            "description": "🦍 The API and AI Gateway",
+            "language": "Lua",
+            "stars": 44003,
+            "stars_today": 44003,
+            "url": "https://github.com/Kong/kong"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-19T21:14:11Z",
+    "updated": "2026-08-20T00:30:24Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-19T21:14:11Z",
+    "updated": "2026-08-20T00:30:24Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-19T21:14:11Z",
+    "updated": "2026-08-20T00:30:24Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "A joke domain purchase turned in geopolitical warfare",
-            "insight": "HN 热议：625 分 · 83 评论",
+            "title": "Google replaced Git tags for certain source code with obtaining via Google Drive",
+            "insight": "HN 热议：268 分 · 104 评论",
             "sentiment": "positive",
-            "comments": 83,
-            "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+            "comments": 104,
+            "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Google replaced Git tags for certain source code with obtaining via Google Drive",
-            "insight": "HN 热议：103 分 · 23 评论",
-            "sentiment": "neutral",
-            "comments": 23,
-            "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
+            "title": "A joke domain purchase turned in geopolitical warfare",
+            "insight": "HN 热议：723 分 · 110 评论",
+            "sentiment": "positive",
+            "comments": 110,
+            "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Mathematics in the age of AI",
-            "insight": "HN 热议：78 分 · 59 评论",
+            "title": "Feature Request: Support AGENTS.md",
+            "insight": "HN 热议：115 分 · 60 评论",
             "sentiment": "neutral",
-            "comments": 59,
-            "url": "https://arxiv.org/abs/2608.16753",
+            "comments": 60,
+            "url": "https://github.com/anthropics/claude-code/issues/6235",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Extensible Software in the age of LLMs",
-            "insight": "HN 热议：81 分 · 36 评论",
+            "title": "Technical leaders should have the largest AI exhaust",
+            "insight": "HN 热议：8 分 · 6 评论",
             "sentiment": "neutral",
-            "comments": 36,
-            "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/",
+            "comments": 6,
+            "url": "https://schipper.ai/posts/technical-leaders-should-have-the-largest-ai-exhaust/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "fx :Tiny, open, native coding agent.",
-            "insight": "HN 热议：128 分 · 61 评论",
+            "title": "Mathematics in the age of AI",
+            "insight": "HN 热议：115 分 · 107 评论",
             "sentiment": "neutral",
-            "comments": 61,
-            "url": "https://fx.sh",
+            "comments": 107,
+            "url": "https://arxiv.org/abs/2608.16753",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-19T21:14:11Z",
+    "updated": "2026-08-20T00:30:24Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
