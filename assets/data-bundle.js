@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-20T03:35:49Z",
+    "updated": "2026-08-20T06:22:26Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-20T03:35:49Z",
+    "updated": "2026-08-20T06:22:26Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-20T03:35:49Z",
+    "updated": "2026-08-20T06:22:26Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 186691,
-            "stars_today": 186691,
+            "stars": 186692,
+            "stars_today": 186692,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 167599,
-            "stars_today": 167599,
+            "stars": 167604,
+            "stars_today": 167604,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 91279,
-            "stars_today": 91279,
+            "stars": 91283,
+            "stars_today": 91283,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 84517,
-            "stars_today": 84517,
+            "stars": 84530,
+            "stars_today": 84530,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 55762,
-            "stars_today": 55762,
+            "stars": 55805,
+            "stars_today": 55805,
             "url": "https://github.com/usestrix/strix"
         },
         {
@@ -325,7 +325,7 @@ window.__DATA__ = {
     ]
 },
   "products": {
-    "updated": "2026-08-20T03:35:49Z",
+    "updated": "2026-08-20T06:22:26Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-20T03:35:49Z",
+    "updated": "2026-08-20T06:22:26Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-20T03:35:49Z",
+    "updated": "2026-08-20T06:22:26Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Google replaced Git tags for certain source code with obtaining via Google Drive",
-            "insight": "HN 热议：343 分 · 147 评论",
-            "sentiment": "positive",
-            "comments": 147,
-            "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
+            "title": "Why Microsoft Entertainment Pack had a sticker announcing that it had Tetris?",
+            "insight": "HN 热议：23 分 · 4 评论",
+            "sentiment": "neutral",
+            "comments": 4,
+            "url": "https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "A joke domain purchase turned in geopolitical warfare",
-            "insight": "HN 热议：789 分 · 122 评论",
+            "insight": "HN 热议：830 分 · 132 评论",
             "sentiment": "positive",
-            "comments": 122,
+            "comments": 132,
             "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "Feature Request: Support AGENTS.md",
-            "insight": "HN 热议：154 分 · 86 评论",
+            "insight": "HN 热议：199 分 · 110 评论",
             "sentiment": "neutral",
-            "comments": 86,
+            "comments": 110,
             "url": "https://github.com/anthropics/claude-code/issues/6235",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams",
-            "insight": "HN 热议：60 分 · 17 评论",
-            "sentiment": "neutral",
-            "comments": 17,
-            "url": "https://github.com/onecli/onecli",
+            "title": "fx :Tiny, open, native coding agent.",
+            "insight": "HN 热议：230 分 · 96 评论",
+            "sentiment": "positive",
+            "comments": 96,
+            "url": "https://fx.sh",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "fx :Tiny, open, native coding agent.",
-            "insight": "HN 热议：197 分 · 93 评论",
+            "title": "Zuckerberg encouraged growth over child safety, ex-Meta executive testifies",
+            "insight": "HN 热议：45 分 · 0 评论",
             "sentiment": "neutral",
-            "comments": 93,
-            "url": "https://fx.sh",
+            "comments": 0,
+            "url": "https://www.reuters.com/legal/litigation/former-meta-engineer-resumes-testimony-landmark-trial-over-social-medias-harm-2026-08-19/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-20T03:35:49Z",
+    "updated": "2026-08-20T06:22:26Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
