@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-20T12:20:20Z",
+  "updated": "2026-08-20T15:21:33Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Don't Paste the AI, please",
-      "insight": "HN 热议：538 分 · 263 评论",
+      "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
+      "insight": "HN 热议：212 分 · 52 评论",
       "sentiment": "positive",
-      "comments": 263,
-      "url": "https://dontpastetheai.com/",
+      "comments": 52,
+      "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "AI didn't erase the junior engineer's value, it increased it it",
-      "insight": "HN 热议：23 分 · 23 评论",
+      "title": "DiffusionGemma Technical Report",
+      "insight": "HN 热议：47 分 · 8 评论",
       "sentiment": "neutral",
-      "comments": 23,
-      "url": "https://franciscotrindade.me/blog/the-kids-are-really-alright/",
+      "comments": 8,
+      "url": "https://arxiv.org/abs/2608.00146",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
-      "insight": "HN 热议：5 分 · 0 评论",
+      "title": "Hacking with Claude on a $27 Smart Watch",
+      "insight": "HN 热议：26 分 · 10 评论",
       "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
+      "comments": 10,
+      "url": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "A joke domain purchase turned in geopolitical warfare",
-      "insight": "HN 热议：938 分 · 149 评论",
-      "sentiment": "positive",
-      "comments": 149,
-      "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+      "title": "An American Mosaic (interactive map of ancestry census data)",
+      "insight": "HN 热议：20 分 · 3 评论",
+      "sentiment": "neutral",
+      "comments": 3,
+      "url": "https://www.nytimes.com/interactive/2026/07/01/us/america-ancestry-census-data-map.html",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "fx :Tiny, open, native coding agent.",
-      "insight": "HN 热议：291 分 · 121 评论",
-      "sentiment": "positive",
-      "comments": 121,
-      "url": "https://fx.sh",
+      "title": "Show HN: Check if any of the $656M in unclaimed royalties at The MLC is yours",
+      "insight": "HN 热议：5 分 · 0 评论",
+      "sentiment": "neutral",
+      "comments": 0,
+      "url": "https://pub.doub.ly/",
       "id": 5
     }
   ]
