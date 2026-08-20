@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-20T15:21:33Z",
+    "updated": "2026-08-20T18:19:24Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-20T15:21:33Z",
+    "updated": "2026-08-20T18:19:24Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-20T15:21:33Z",
+    "updated": "2026-08-20T18:19:24Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 186686,
-            "stars_today": 186686,
+            "stars": 186687,
+            "stars_today": 186687,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 167636,
-            "stars_today": 167636,
+            "stars": 167639,
+            "stars_today": 167639,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 91334,
-            "stars_today": 91334,
+            "stars": 91343,
+            "stars_today": 91343,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 84597,
-            "stars_today": 84597,
+            "stars": 84608,
+            "stars_today": 84608,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 56006,
-            "stars_today": 56006,
+            "stars": 56076,
+            "stars_today": 56076,
             "url": "https://github.com/usestrix/strix"
         },
         {
@@ -325,7 +325,7 @@ window.__DATA__ = {
     ]
 },
   "products": {
-    "updated": "2026-08-20T15:21:33Z",
+    "updated": "2026-08-20T18:19:24Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-20T15:21:33Z",
+    "updated": "2026-08-20T18:19:24Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-20T15:21:33Z",
+    "updated": "2026-08-20T18:19:24Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
-            "insight": "HN 热议：212 分 · 52 评论",
+            "insight": "HN 热议：367 分 · 88 评论",
             "sentiment": "positive",
-            "comments": 52,
+            "comments": 88,
             "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "DiffusionGemma Technical Report",
-            "insight": "HN 热议：47 分 · 8 评论",
+            "insight": "HN 热议：104 分 · 19 评论",
             "sentiment": "neutral",
-            "comments": 8,
+            "comments": 19,
             "url": "https://arxiv.org/abs/2608.00146",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "Hacking with Claude on a $27 Smart Watch",
-            "insight": "HN 热议：26 分 · 10 评论",
+            "insight": "HN 热议：57 分 · 32 评论",
             "sentiment": "neutral",
-            "comments": 10,
+            "comments": 32,
             "url": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "An American Mosaic (interactive map of ancestry census data)",
-            "insight": "HN 热议：20 分 · 3 评论",
+            "title": "Clean up Claude 5's token vomit with a separate LLM",
+            "insight": "HN 热议：104 分 · 99 评论",
             "sentiment": "neutral",
-            "comments": 3,
-            "url": "https://www.nytimes.com/interactive/2026/07/01/us/america-ancestry-census-data-map.html",
+            "comments": 99,
+            "url": "https://github.com/zachahn/vomit",
             "id": 4
         },
         {
             "source": "HackerNews",
             "title": "Show HN: Check if any of the $656M in unclaimed royalties at The MLC is yours",
-            "insight": "HN 热议：5 分 · 0 评论",
+            "insight": "HN 热议：45 分 · 23 评论",
             "sentiment": "neutral",
-            "comments": 0,
+            "comments": 23,
             "url": "https://pub.doub.ly/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-20T15:21:33Z",
+    "updated": "2026-08-20T18:19:24Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

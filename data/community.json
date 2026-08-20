@@ -1,48 +1,48 @@
 {
-  "updated": "2026-08-20T15:21:33Z",
+  "updated": "2026-08-20T18:19:24Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
-      "insight": "HN 热议：212 分 · 52 评论",
+      "insight": "HN 热议：367 分 · 88 评论",
       "sentiment": "positive",
-      "comments": 52,
+      "comments": 88,
       "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "DiffusionGemma Technical Report",
-      "insight": "HN 热议：47 分 · 8 评论",
+      "insight": "HN 热议：104 分 · 19 评论",
       "sentiment": "neutral",
-      "comments": 8,
+      "comments": 19,
       "url": "https://arxiv.org/abs/2608.00146",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "Hacking with Claude on a $27 Smart Watch",
-      "insight": "HN 热议：26 分 · 10 评论",
+      "insight": "HN 热议：57 分 · 32 评论",
       "sentiment": "neutral",
-      "comments": 10,
+      "comments": 32,
       "url": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "An American Mosaic (interactive map of ancestry census data)",
-      "insight": "HN 热议：20 分 · 3 评论",
+      "title": "Clean up Claude 5's token vomit with a separate LLM",
+      "insight": "HN 热议：104 分 · 99 评论",
       "sentiment": "neutral",
-      "comments": 3,
-      "url": "https://www.nytimes.com/interactive/2026/07/01/us/america-ancestry-census-data-map.html",
+      "comments": 99,
+      "url": "https://github.com/zachahn/vomit",
       "id": 4
     },
     {
       "source": "HackerNews",
       "title": "Show HN: Check if any of the $656M in unclaimed royalties at The MLC is yours",
-      "insight": "HN 热议：5 分 · 0 评论",
+      "insight": "HN 热议：45 分 · 23 评论",
       "sentiment": "neutral",
-      "comments": 0,
+      "comments": 23,
       "url": "https://pub.doub.ly/",
       "id": 5
     }
