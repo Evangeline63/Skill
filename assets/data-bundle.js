@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-20T09:20:55Z",
+    "updated": "2026-08-20T12:20:20Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-20T09:20:55Z",
+    "updated": "2026-08-20T12:20:20Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-20T09:20:55Z",
+    "updated": "2026-08-20T12:20:20Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 186693,
-            "stars_today": 186693,
+            "stars": 186695,
+            "stars_today": 186695,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 167619,
-            "stars_today": 167619,
+            "stars": 167629,
+            "stars_today": 167629,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 91304,
-            "stars_today": 91304,
+            "stars": 91319,
+            "stars_today": 91319,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 84550,
-            "stars_today": 84550,
+            "stars": 84579,
+            "stars_today": 84579,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 55880,
-            "stars_today": 55880,
+            "stars": 55938,
+            "stars_today": 55938,
             "url": "https://github.com/usestrix/strix"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "Kong/kong",
             "description": "🦍 The API and AI Gateway",
             "language": "Lua",
-            "stars": 44006,
-            "stars_today": 44006,
+            "stars": 44008,
+            "stars_today": 44008,
             "url": "https://github.com/Kong/kong"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-20T09:20:55Z",
+    "updated": "2026-08-20T12:20:20Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-20T09:20:55Z",
+    "updated": "2026-08-20T12:20:20Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-20T09:20:55Z",
+    "updated": "2026-08-20T12:20:20Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Don't Paste the AI, please",
-            "insight": "HN 热议：104 分 · 53 评论",
-            "sentiment": "neutral",
-            "comments": 53,
+            "insight": "HN 热议：538 分 · 263 评论",
+            "sentiment": "positive",
+            "comments": 263,
             "url": "https://dontpastetheai.com/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "A joke domain purchase turned in geopolitical warfare",
-            "insight": "HN 热议：897 分 · 144 评论",
-            "sentiment": "positive",
-            "comments": 144,
-            "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+            "title": "AI didn't erase the junior engineer's value, it increased it it",
+            "insight": "HN 热议：23 分 · 23 评论",
+            "sentiment": "neutral",
+            "comments": 23,
+            "url": "https://franciscotrindade.me/blog/the-kids-are-really-alright/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Feature Request: Support AGENTS.md",
-            "insight": "HN 热议：250 分 · 145 评论",
-            "sentiment": "positive",
-            "comments": 145,
-            "url": "https://github.com/anthropics/claude-code/issues/6235",
+            "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
+            "insight": "HN 热议：5 分 · 0 评论",
+            "sentiment": "neutral",
+            "comments": 0,
+            "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "fx :Tiny, open, native coding agent.",
-            "insight": "HN 热议：263 分 · 112 评论",
+            "title": "A joke domain purchase turned in geopolitical warfare",
+            "insight": "HN 热议：938 分 · 149 评论",
             "sentiment": "positive",
-            "comments": 112,
-            "url": "https://fx.sh",
+            "comments": 149,
+            "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Mathematics in the age of AI",
-            "insight": "HN 热议：167 分 · 195 评论",
-            "sentiment": "neutral",
-            "comments": 195,
-            "url": "https://arxiv.org/abs/2608.16753",
+            "title": "fx :Tiny, open, native coding agent.",
+            "insight": "HN 热议：291 分 · 121 评论",
+            "sentiment": "positive",
+            "comments": 121,
+            "url": "https://fx.sh",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-20T09:20:55Z",
+    "updated": "2026-08-20T12:20:20Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
