@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-20T00:30:24Z",
+  "updated": "2026-08-20T03:35:49Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Google replaced Git tags for certain source code with obtaining via Google Drive",
-      "insight": "HN 热议：268 分 · 104 评论",
+      "insight": "HN 热议：343 分 · 147 评论",
       "sentiment": "positive",
-      "comments": 104,
+      "comments": 147,
       "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "A joke domain purchase turned in geopolitical warfare",
-      "insight": "HN 热议：723 分 · 110 评论",
+      "insight": "HN 热议：789 分 · 122 评论",
       "sentiment": "positive",
-      "comments": 110,
+      "comments": 122,
       "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "Feature Request: Support AGENTS.md",
-      "insight": "HN 热议：115 分 · 60 评论",
+      "insight": "HN 热议：154 分 · 86 评论",
       "sentiment": "neutral",
-      "comments": 60,
+      "comments": 86,
       "url": "https://github.com/anthropics/claude-code/issues/6235",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Technical leaders should have the largest AI exhaust",
-      "insight": "HN 热议：8 分 · 6 评论",
+      "title": "Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams",
+      "insight": "HN 热议：60 分 · 17 评论",
       "sentiment": "neutral",
-      "comments": 6,
-      "url": "https://schipper.ai/posts/technical-leaders-should-have-the-largest-ai-exhaust/",
+      "comments": 17,
+      "url": "https://github.com/onecli/onecli",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Mathematics in the age of AI",
-      "insight": "HN 热议：115 分 · 107 评论",
+      "title": "fx :Tiny, open, native coding agent.",
+      "insight": "HN 热议：197 分 · 93 评论",
       "sentiment": "neutral",
-      "comments": 107,
-      "url": "https://arxiv.org/abs/2608.16753",
+      "comments": 93,
+      "url": "https://fx.sh",
       "id": 5
     }
   ]

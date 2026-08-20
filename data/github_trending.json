@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-20T00:30:24Z",
+  "updated": "2026-08-20T03:35:49Z",
   "repos": [
     {
       "rank": 1,
       "name": "Significant-Gravitas/AutoGPT",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
       "language": "Python",
-      "stars": 186689,
-      "stars_today": 186689,
+      "stars": 186691,
+      "stars_today": 186691,
       "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
@@ -15,8 +15,8 @@
       "name": "f/prompts.chat",
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
       "language": "HTML",
-      "stars": 167591,
-      "stars_today": 167591,
+      "stars": 167599,
+      "stars_today": 167599,
       "url": "https://github.com/f/prompts.chat"
     },
     {
@@ -24,8 +24,8 @@
       "name": "thedotmack/claude-mem",
       "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
       "language": "JavaScript",
-      "stars": 91273,
-      "stars_today": 91273,
+      "stars": 91279,
+      "stars_today": 91279,
       "url": "https://github.com/thedotmack/claude-mem"
     },
     {
@@ -33,8 +33,8 @@
       "name": "OpenHands/OpenHands",
       "description": "🙌 OpenHands: AI-Driven Development",
       "language": "TypeScript",
-      "stars": 84509,
-      "stars_today": 84509,
+      "stars": 84517,
+      "stars_today": 84517,
       "url": "https://github.com/OpenHands/OpenHands"
     },
     {
@@ -42,8 +42,8 @@
       "name": "usestrix/strix",
       "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "language": "Python",
-      "stars": 55709,
-      "stars_today": 55709,
+      "stars": 55762,
+      "stars_today": 55762,
       "url": "https://github.com/usestrix/strix"
     },
     {
@@ -51,8 +51,8 @@
       "name": "Kong/kong",
       "description": "🦍 The API and AI Gateway",
       "language": "Lua",
-      "stars": 44003,
-      "stars_today": 44003,
+      "stars": 44005,
+      "stars_today": 44005,
       "url": "https://github.com/Kong/kong"
     }
   ]
