@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-21T15:20:41Z",
+    "updated": "2026-08-21T18:18:41Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-21T15:20:41Z",
+    "updated": "2026-08-21T18:18:41Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-21T15:20:41Z",
+    "updated": "2026-08-21T18:18:41Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 186711,
-            "stars_today": 186711,
+            "stars": 186719,
+            "stars_today": 186719,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 167693,
-            "stars_today": 167693,
+            "stars": 167704,
+            "stars_today": 167704,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 91420,
-            "stars_today": 91420,
+            "stars": 91430,
+            "stars_today": 91430,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 84703,
-            "stars_today": 84703,
+            "stars": 84720,
+            "stars_today": 84720,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 56555,
-            "stars_today": 56555,
+            "stars": 56623,
+            "stars_today": 56623,
             "url": "https://github.com/usestrix/strix"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "jingyaogong/minimind",
             "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
             "language": "Python",
-            "stars": 54906,
-            "stars_today": 54906,
+            "stars": 54909,
+            "stars_today": 54909,
             "url": "https://github.com/jingyaogong/minimind"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-21T15:20:41Z",
+    "updated": "2026-08-21T18:18:41Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-21T15:20:41Z",
+    "updated": "2026-08-21T18:18:41Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-21T15:20:41Z",
+    "updated": "2026-08-21T18:18:41Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "AI companies destroy physical books – let's scan rare books before it's too late",
-            "insight": "HN 热议：452 分 · 315 评论",
-            "sentiment": "positive",
-            "comments": 315,
-            "url": "https://annas-archive.pk/blog/physical-destruction.html",
+            "title": "AI boosted homework scores, then exam scores dropped: study",
+            "insight": "HN 热议：45 分 · 131 评论",
+            "sentiment": "neutral",
+            "comments": 131,
+            "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Claudette: Make Claude Stop Talking Like a BuzzFeed Article",
-            "insight": "HN 热议：17 分 · 10 评论",
+            "title": "Does whispering to agents in docs help?",
+            "insight": "HN 热议：18 分 · 4 评论",
             "sentiment": "neutral",
-            "comments": 10,
-            "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
+            "comments": 4,
+            "url": "https://passo.uno/if-you-are-an-agent-read-this/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Flat Chair by Sara Paculdo",
-            "insight": "HN 热议：89 分 · 28 评论",
+            "title": "Building an (almost) fully self-hosted, sandboxed, agentic software factory",
+            "insight": "HN 热议：22 分 · 16 评论",
             "sentiment": "neutral",
-            "comments": 28,
-            "url": "https://www.toxel.com/tech/2026/08/07/flat-chair-by-sara-paculdo/",
+            "comments": 16,
+            "url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "I'm Becoming AI-Blind",
-            "insight": "HN 热议：76 分 · 68 评论",
+            "title": "Show HN: Proliferate- open-source, self-hostable Codex for any coding agent",
+            "insight": "HN 热议：15 分 · 5 评论",
             "sentiment": "neutral",
-            "comments": 68,
-            "url": "https://cymerys.com/w/im-becoming-ai-blind",
+            "comments": 5,
+            "url": "https://github.com/proliferate-ai/proliferate",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "We burned 11.7B tokens to find the best cyber AI model",
-            "insight": "HN 热议：8 分 · 5 评论",
+            "title": "LLMs are proof that Unix won",
+            "insight": "HN 热议：9 分 · 1 评论",
             "sentiment": "neutral",
-            "comments": 5,
-            "url": "https://www.aikido.dev/blog/ai-model-benchmarks-aug-21-2026",
+            "comments": 1,
+            "url": "https://bastian.rieck.me/blog/2026/unix/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-21T15:20:41Z",
+    "updated": "2026-08-21T18:18:41Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

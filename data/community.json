@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-21T15:20:41Z",
+  "updated": "2026-08-21T18:18:41Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
-      "insight": "HN 热议：452 分 · 315 评论",
-      "sentiment": "positive",
-      "comments": 315,
-      "url": "https://annas-archive.pk/blog/physical-destruction.html",
+      "title": "AI boosted homework scores, then exam scores dropped: study",
+      "insight": "HN 热议：45 分 · 131 评论",
+      "sentiment": "neutral",
+      "comments": 131,
+      "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Claudette: Make Claude Stop Talking Like a BuzzFeed Article",
-      "insight": "HN 热议：17 分 · 10 评论",
+      "title": "Does whispering to agents in docs help?",
+      "insight": "HN 热议：18 分 · 4 评论",
       "sentiment": "neutral",
-      "comments": 10,
-      "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
+      "comments": 4,
+      "url": "https://passo.uno/if-you-are-an-agent-read-this/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Flat Chair by Sara Paculdo",
-      "insight": "HN 热议：89 分 · 28 评论",
+      "title": "Building an (almost) fully self-hosted, sandboxed, agentic software factory",
+      "insight": "HN 热议：22 分 · 16 评论",
       "sentiment": "neutral",
-      "comments": 28,
-      "url": "https://www.toxel.com/tech/2026/08/07/flat-chair-by-sara-paculdo/",
+      "comments": 16,
+      "url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "I'm Becoming AI-Blind",
-      "insight": "HN 热议：76 分 · 68 评论",
+      "title": "Show HN: Proliferate- open-source, self-hostable Codex for any coding agent",
+      "insight": "HN 热议：15 分 · 5 评论",
       "sentiment": "neutral",
-      "comments": 68,
-      "url": "https://cymerys.com/w/im-becoming-ai-blind",
+      "comments": 5,
+      "url": "https://github.com/proliferate-ai/proliferate",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "We burned 11.7B tokens to find the best cyber AI model",
-      "insight": "HN 热议：8 分 · 5 评论",
+      "title": "LLMs are proof that Unix won",
+      "insight": "HN 热议：9 分 · 1 评论",
       "sentiment": "neutral",
-      "comments": 5,
-      "url": "https://www.aikido.dev/blog/ai-model-benchmarks-aug-21-2026",
+      "comments": 1,
+      "url": "https://bastian.rieck.me/blog/2026/unix/",
       "id": 5
     }
   ]
