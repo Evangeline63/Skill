@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-21T06:22:27Z",
+    "updated": "2026-08-21T09:22:52Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-21T06:22:27Z",
+    "updated": "2026-08-21T09:22:52Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-21T06:22:27Z",
+    "updated": "2026-08-21T09:22:52Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 186692,
-            "stars_today": 186692,
+            "stars": 186699,
+            "stars_today": 186699,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 167669,
-            "stars_today": 167669,
+            "stars": 167676,
+            "stars_today": 167676,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 91381,
-            "stars_today": 91381,
+            "stars": 91393,
+            "stars_today": 91393,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 84655,
-            "stars_today": 84655,
+            "stars": 84674,
+            "stars_today": 84674,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,23 +309,23 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 56326,
-            "stars_today": 56326,
+            "stars": 56408,
+            "stars_today": 56408,
             "url": "https://github.com/usestrix/strix"
         },
         {
             "rank": 6,
-            "name": "Kong/kong",
-            "description": "🦍 The API and AI Gateway",
-            "language": "Lua",
-            "stars": 44015,
-            "stars_today": 44015,
-            "url": "https://github.com/Kong/kong"
+            "name": "jingyaogong/minimind",
+            "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+            "language": "Python",
+            "stars": 54898,
+            "stars_today": 54898,
+            "url": "https://github.com/jingyaogong/minimind"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-21T06:22:27Z",
+    "updated": "2026-08-21T09:22:52Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-21T06:22:27Z",
+    "updated": "2026-08-21T09:22:52Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-21T06:22:27Z",
+    "updated": "2026-08-21T09:22:52Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Captain Zilog",
-            "insight": "HN 热议：37 分 · 3 评论",
+            "title": "The case against a C alternative (2022)",
+            "insight": "HN 热议：17 分 · 3 评论",
             "sentiment": "neutral",
             "comments": 3,
-            "url": "https://www.zilog.com/captain_zilog/",
+            "url": "https://c3.handmade.network/blog/p/8486-the_case_against_a_c_alternative",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "AI companies destroy physical books – let's scan rare books before it's too late",
-            "insight": "HN 热议：243 分 · 168 评论",
+            "title": "Show HN: Huzzah – a novel approach to coding with AI",
+            "insight": "HN 热议：305 分 · 159 评论",
             "sentiment": "positive",
-            "comments": 168,
-            "url": "https://annas-archive.gl/blog/physical-destruction.html",
+            "comments": 159,
+            "url": "https://www.danielvaughn.dev/posts/huzzah/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Huzzah – a novel approach to coding with AI",
-            "insight": "HN 热议：272 分 · 146 评论",
+            "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
+            "insight": "HN 热议：253 分 · 249 评论",
             "sentiment": "positive",
-            "comments": 146,
-            "url": "https://www.danielvaughn.dev/posts/huzzah/",
+            "comments": 249,
+            "url": "https://github.com/zachahn/vomit",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
-            "insight": "HN 热议：228 分 · 232 评论",
-            "sentiment": "positive",
-            "comments": 232,
-            "url": "https://github.com/zachahn/vomit",
+            "title": "Seed: Minimal, self-modifying agent harness",
+            "insight": "HN 热议：20 分 · 8 评论",
+            "sentiment": "neutral",
+            "comments": 8,
+            "url": "https://github.com/vivekhaldar/seed",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Anti-AI fonts are useless and harmful",
-            "insight": "HN 热议：142 分 · 98 评论",
+            "title": "Captain Zilog",
+            "insight": "HN 热议：51 分 · 6 评论",
             "sentiment": "neutral",
-            "comments": 98,
-            "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
+            "comments": 6,
+            "url": "https://www.zilog.com/captain_zilog/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-21T06:22:27Z",
+    "updated": "2026-08-21T09:22:52Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
