@@ -1,48 +1,48 @@
 {
-  "updated": "2026-08-21T03:39:28Z",
+  "updated": "2026-08-21T06:22:27Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
-      "insight": "HN 热议：57 分 · 21 评论",
+      "title": "Captain Zilog",
+      "insight": "HN 热议：37 分 · 3 评论",
       "sentiment": "neutral",
-      "comments": 21,
-      "url": "https://annas-archive.gl/blog/physical-destruction.html",
+      "comments": 3,
+      "url": "https://www.zilog.com/captain_zilog/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
-      "insight": "HN 热议：531 分 · 110 评论",
+      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+      "insight": "HN 热议：243 分 · 168 评论",
       "sentiment": "positive",
-      "comments": 110,
-      "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
+      "comments": 168,
+      "url": "https://annas-archive.gl/blog/physical-destruction.html",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
-      "insight": "HN 热议：199 分 · 215 评论",
-      "sentiment": "neutral",
-      "comments": 215,
-      "url": "https://github.com/zachahn/vomit",
+      "title": "Show HN: Huzzah – a novel approach to coding with AI",
+      "insight": "HN 热议：272 分 · 146 评论",
+      "sentiment": "positive",
+      "comments": 146,
+      "url": "https://www.danielvaughn.dev/posts/huzzah/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Huzzah – a novel approach to coding with AI",
-      "insight": "HN 热议：236 分 · 138 评论",
+      "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
+      "insight": "HN 热议：228 分 · 232 评论",
       "sentiment": "positive",
-      "comments": 138,
-      "url": "https://www.danielvaughn.dev/posts/huzzah/",
+      "comments": 232,
+      "url": "https://github.com/zachahn/vomit",
       "id": 4
     },
     {
       "source": "HackerNews",
       "title": "Anti-AI fonts are useless and harmful",
-      "insight": "HN 热议：126 分 · 86 评论",
+      "insight": "HN 热议：142 分 · 98 评论",
       "sentiment": "neutral",
-      "comments": 86,
+      "comments": 98,
       "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
       "id": 5
     }

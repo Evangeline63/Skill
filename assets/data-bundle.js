@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-21T03:39:28Z",
+    "updated": "2026-08-21T06:22:27Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-21T03:39:28Z",
+    "updated": "2026-08-21T06:22:27Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-21T03:39:28Z",
+    "updated": "2026-08-21T06:22:27Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 186691,
-            "stars_today": 186691,
+            "stars": 186692,
+            "stars_today": 186692,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 167663,
-            "stars_today": 167663,
+            "stars": 167669,
+            "stars_today": 167669,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 91376,
-            "stars_today": 91376,
+            "stars": 91381,
+            "stars_today": 91381,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 84646,
-            "stars_today": 84646,
+            "stars": 84655,
+            "stars_today": 84655,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 56273,
-            "stars_today": 56273,
+            "stars": 56326,
+            "stars_today": 56326,
             "url": "https://github.com/usestrix/strix"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "Kong/kong",
             "description": "🦍 The API and AI Gateway",
             "language": "Lua",
-            "stars": 44013,
-            "stars_today": 44013,
+            "stars": 44015,
+            "stars_today": 44015,
             "url": "https://github.com/Kong/kong"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-21T03:39:28Z",
+    "updated": "2026-08-21T06:22:27Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-21T03:39:28Z",
+    "updated": "2026-08-21T06:22:27Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-21T03:39:28Z",
+    "updated": "2026-08-21T06:22:27Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "AI companies destroy physical books – let's scan rare books before it's too late",
-            "insight": "HN 热议：57 分 · 21 评论",
+            "title": "Captain Zilog",
+            "insight": "HN 热议：37 分 · 3 评论",
             "sentiment": "neutral",
-            "comments": 21,
-            "url": "https://annas-archive.gl/blog/physical-destruction.html",
+            "comments": 3,
+            "url": "https://www.zilog.com/captain_zilog/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
-            "insight": "HN 热议：531 分 · 110 评论",
+            "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+            "insight": "HN 热议：243 分 · 168 评论",
             "sentiment": "positive",
-            "comments": 110,
-            "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
+            "comments": 168,
+            "url": "https://annas-archive.gl/blog/physical-destruction.html",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
-            "insight": "HN 热议：199 分 · 215 评论",
-            "sentiment": "neutral",
-            "comments": 215,
-            "url": "https://github.com/zachahn/vomit",
+            "title": "Show HN: Huzzah – a novel approach to coding with AI",
+            "insight": "HN 热议：272 分 · 146 评论",
+            "sentiment": "positive",
+            "comments": 146,
+            "url": "https://www.danielvaughn.dev/posts/huzzah/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Huzzah – a novel approach to coding with AI",
-            "insight": "HN 热议：236 分 · 138 评论",
+            "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
+            "insight": "HN 热议：228 分 · 232 评论",
             "sentiment": "positive",
-            "comments": 138,
-            "url": "https://www.danielvaughn.dev/posts/huzzah/",
+            "comments": 232,
+            "url": "https://github.com/zachahn/vomit",
             "id": 4
         },
         {
             "source": "HackerNews",
             "title": "Anti-AI fonts are useless and harmful",
-            "insight": "HN 热议：126 分 · 86 评论",
+            "insight": "HN 热议：142 分 · 98 评论",
             "sentiment": "neutral",
-            "comments": 86,
+            "comments": 98,
             "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-21T03:39:28Z",
+    "updated": "2026-08-21T06:22:27Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
