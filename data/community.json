@@ -1,48 +1,48 @@
 {
-  "updated": "2026-08-20T21:16:01Z",
+  "updated": "2026-08-21T00:33:09Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Show HN: Huzzah – a novel approach to coding with AI",
-      "insight": "HN 热议：102 分 · 50 评论",
+      "title": "Copyright does not protect AI-generated content in EU",
+      "insight": "HN 热议：8 分 · 2 评论",
       "sentiment": "neutral",
-      "comments": 50,
-      "url": "https://www.danielvaughn.dev/posts/huzzah/",
+      "comments": 2,
+      "url": "https://mathstodon.xyz/@maxpool/117128107757895678",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
-      "insight": "HN 热议：437 分 · 99 评论",
-      "sentiment": "positive",
-      "comments": 99,
-      "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
+      "title": "Show HN: Huzzah – a novel approach to coding with AI",
+      "insight": "HN 热议：200 分 · 111 评论",
+      "sentiment": "neutral",
+      "comments": 111,
+      "url": "https://www.danielvaughn.dev/posts/huzzah/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
-      "insight": "HN 热议：130 分 · 143 评论",
-      "sentiment": "neutral",
-      "comments": 143,
-      "url": "https://github.com/zachahn/vomit",
+      "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
+      "insight": "HN 热议：483 分 · 105 评论",
+      "sentiment": "positive",
+      "comments": 105,
+      "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Hacking with Claude on a $27 smart watch",
-      "insight": "HN 热议：66 分 · 41 评论",
+      "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
+      "insight": "HN 热议：173 分 · 193 评论",
       "sentiment": "neutral",
-      "comments": 41,
-      "url": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
+      "comments": 193,
+      "url": "https://github.com/zachahn/vomit",
       "id": 4
     },
     {
       "source": "HackerNews",
       "title": "Anti-AI fonts are useless and harmful",
-      "insight": "HN 热议：73 分 · 60 评论",
+      "insight": "HN 热议：106 分 · 73 评论",
       "sentiment": "neutral",
-      "comments": 60,
+      "comments": 73,
       "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
       "id": 5
     }
