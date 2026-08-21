@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-21T09:22:52Z",
+  "updated": "2026-08-21T12:20:05Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "The case against a C alternative (2022)",
-      "insight": "HN 热议：17 分 · 3 评论",
+      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+      "insight": "HN 热议：78 分 · 23 评论",
       "sentiment": "neutral",
-      "comments": 3,
-      "url": "https://c3.handmade.network/blog/p/8486-the_case_against_a_c_alternative",
+      "comments": 23,
+      "url": "https://annas-archive.pk/blog/physical-destruction.html",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Huzzah – a novel approach to coding with AI",
-      "insight": "HN 热议：305 分 · 159 评论",
-      "sentiment": "positive",
-      "comments": 159,
-      "url": "https://www.danielvaughn.dev/posts/huzzah/",
+      "title": "Flat Chair by Sara Paculdo",
+      "insight": "HN 热议：42 分 · 15 评论",
+      "sentiment": "neutral",
+      "comments": 15,
+      "url": "https://www.toxel.com/tech/2026/08/07/flat-chair-by-sara-paculdo/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
-      "insight": "HN 热议：253 分 · 249 评论",
-      "sentiment": "positive",
-      "comments": 249,
-      "url": "https://github.com/zachahn/vomit",
+      "title": "Seed: Minimal, self-modifying agent harness",
+      "insight": "HN 热议：38 分 · 12 评论",
+      "sentiment": "neutral",
+      "comments": 12,
+      "url": "https://github.com/vivekhaldar/seed",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Seed: Minimal, self-modifying agent harness",
-      "insight": "HN 热议：20 分 · 8 评论",
-      "sentiment": "neutral",
-      "comments": 8,
-      "url": "https://github.com/vivekhaldar/seed",
+      "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
+      "insight": "HN 热议：266 分 · 260 评论",
+      "sentiment": "positive",
+      "comments": 260,
+      "url": "https://github.com/zachahn/vomit",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Captain Zilog",
-      "insight": "HN 热议：51 分 · 6 评论",
-      "sentiment": "neutral",
-      "comments": 6,
-      "url": "https://www.zilog.com/captain_zilog/",
+      "title": "Show HN: Huzzah – a novel approach to coding with AI",
+      "insight": "HN 热议：332 分 · 178 评论",
+      "sentiment": "positive",
+      "comments": 178,
+      "url": "https://www.danielvaughn.dev/posts/huzzah/",
       "id": 5
     }
   ]
