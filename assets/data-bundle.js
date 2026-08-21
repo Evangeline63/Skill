@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-21T12:20:05Z",
+    "updated": "2026-08-21T15:20:41Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-21T12:20:05Z",
+    "updated": "2026-08-21T15:20:41Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-21T12:20:05Z",
+    "updated": "2026-08-21T15:20:41Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 186706,
-            "stars_today": 186706,
+            "stars": 186711,
+            "stars_today": 186711,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 167684,
-            "stars_today": 167684,
+            "stars": 167693,
+            "stars_today": 167693,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 91408,
-            "stars_today": 91408,
+            "stars": 91420,
+            "stars_today": 91420,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 84682,
-            "stars_today": 84682,
+            "stars": 84703,
+            "stars_today": 84703,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 56477,
-            "stars_today": 56477,
+            "stars": 56555,
+            "stars_today": 56555,
             "url": "https://github.com/usestrix/strix"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "jingyaogong/minimind",
             "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
             "language": "Python",
-            "stars": 54900,
-            "stars_today": 54900,
+            "stars": 54906,
+            "stars_today": 54906,
             "url": "https://github.com/jingyaogong/minimind"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-21T12:20:05Z",
+    "updated": "2026-08-21T15:20:41Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-21T12:20:05Z",
+    "updated": "2026-08-21T15:20:41Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-21T12:20:05Z",
+    "updated": "2026-08-21T15:20:41Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "AI companies destroy physical books – let's scan rare books before it's too late",
-            "insight": "HN 热议：78 分 · 23 评论",
-            "sentiment": "neutral",
-            "comments": 23,
+            "insight": "HN 热议：452 分 · 315 评论",
+            "sentiment": "positive",
+            "comments": 315,
             "url": "https://annas-archive.pk/blog/physical-destruction.html",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Flat Chair by Sara Paculdo",
-            "insight": "HN 热议：42 分 · 15 评论",
+            "title": "Claudette: Make Claude Stop Talking Like a BuzzFeed Article",
+            "insight": "HN 热议：17 分 · 10 评论",
             "sentiment": "neutral",
-            "comments": 15,
-            "url": "https://www.toxel.com/tech/2026/08/07/flat-chair-by-sara-paculdo/",
+            "comments": 10,
+            "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Seed: Minimal, self-modifying agent harness",
-            "insight": "HN 热议：38 分 · 12 评论",
+            "title": "Flat Chair by Sara Paculdo",
+            "insight": "HN 热议：89 分 · 28 评论",
             "sentiment": "neutral",
-            "comments": 12,
-            "url": "https://github.com/vivekhaldar/seed",
+            "comments": 28,
+            "url": "https://www.toxel.com/tech/2026/08/07/flat-chair-by-sara-paculdo/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
-            "insight": "HN 热议：266 分 · 260 评论",
-            "sentiment": "positive",
-            "comments": 260,
-            "url": "https://github.com/zachahn/vomit",
+            "title": "I'm Becoming AI-Blind",
+            "insight": "HN 热议：76 分 · 68 评论",
+            "sentiment": "neutral",
+            "comments": 68,
+            "url": "https://cymerys.com/w/im-becoming-ai-blind",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Huzzah – a novel approach to coding with AI",
-            "insight": "HN 热议：332 分 · 178 评论",
-            "sentiment": "positive",
-            "comments": 178,
-            "url": "https://www.danielvaughn.dev/posts/huzzah/",
+            "title": "We burned 11.7B tokens to find the best cyber AI model",
+            "insight": "HN 热议：8 分 · 5 评论",
+            "sentiment": "neutral",
+            "comments": 5,
+            "url": "https://www.aikido.dev/blog/ai-model-benchmarks-aug-21-2026",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-21T12:20:05Z",
+    "updated": "2026-08-21T15:20:41Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
