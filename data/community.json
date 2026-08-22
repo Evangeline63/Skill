@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-22T03:31:53Z",
+  "updated": "2026-08-22T06:17:43Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
-      "insight": "HN 热议：49 分 · 20 评论",
+      "title": "GPT 5.6 Sol 20% price reduction",
+      "insight": "HN 热议：14 分 · 6 评论",
       "sentiment": "neutral",
-      "comments": 20,
-      "url": "https://ozbrain.com",
+      "comments": 6,
+      "url": "https://developers.openai.com/api/docs/models/gpt-5.6-sol",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "AI boosted homework scores, then exam scores dropped: study",
-      "insight": "HN 热议：250 分 · 296 评论",
+      "insight": "HN 热议：280 分 · 309 评论",
       "sentiment": "positive",
-      "comments": 296,
+      "comments": 309,
       "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Early-life stress leaves a 'scar' inside brain cells in mice",
-      "insight": "HN 热议：57 分 · 18 评论",
+      "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
+      "insight": "HN 热议：61 分 · 28 评论",
       "sentiment": "neutral",
-      "comments": 18,
-      "url": "https://medicine.washu.edu/news/how-early-life-stress-leaves-a-scar-inside-brain-cells/",
+      "comments": 28,
+      "url": "https://ozbrain.com",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
-      "insight": "HN 热议：215 分 · 154 评论",
-      "sentiment": "positive",
-      "comments": 154,
-      "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
+      "title": "Early-life stress leaves a 'scar' inside brain cells in mice",
+      "insight": "HN 热议：73 分 · 24 评论",
+      "sentiment": "neutral",
+      "comments": 24,
+      "url": "https://medicine.washu.edu/news/how-early-life-stress-leaves-a-scar-inside-brain-cells/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Autolith: A programming agent with a live runtime",
-      "insight": "HN 热议：31 分 · 9 评论",
-      "sentiment": "neutral",
-      "comments": 9,
-      "url": "https://www.lambda-symbolics.com/autolith",
+      "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
+      "insight": "HN 热议：240 分 · 169 评论",
+      "sentiment": "positive",
+      "comments": 169,
+      "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
       "id": 5
     }
   ]
