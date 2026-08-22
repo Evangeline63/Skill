@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-22T00:29:49Z",
+  "updated": "2026-08-22T03:31:53Z",
   "repos": [
     {
       "rank": 1,
       "name": "Significant-Gravitas/AutoGPT",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
       "language": "Python",
-      "stars": 186727,
-      "stars_today": 186727,
+      "stars": 186733,
+      "stars_today": 186733,
       "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
@@ -15,8 +15,8 @@
       "name": "f/prompts.chat",
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
       "language": "HTML",
-      "stars": 167713,
-      "stars_today": 167713,
+      "stars": 167715,
+      "stars_today": 167715,
       "url": "https://github.com/f/prompts.chat"
     },
     {
@@ -24,8 +24,8 @@
       "name": "thedotmack/claude-mem",
       "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
       "language": "JavaScript",
-      "stars": 91455,
-      "stars_today": 91455,
+      "stars": 91465,
+      "stars_today": 91465,
       "url": "https://github.com/thedotmack/claude-mem"
     },
     {
@@ -33,8 +33,8 @@
       "name": "OpenHands/OpenHands",
       "description": "🙌 OpenHands: AI-Driven Development",
       "language": "TypeScript",
-      "stars": 84736,
-      "stars_today": 84736,
+      "stars": 84744,
+      "stars_today": 84744,
       "url": "https://github.com/OpenHands/OpenHands"
     },
     {
@@ -42,8 +42,8 @@
       "name": "usestrix/strix",
       "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "language": "Python",
-      "stars": 56729,
-      "stars_today": 56729,
+      "stars": 56769,
+      "stars_today": 56769,
       "url": "https://github.com/usestrix/strix"
     },
     {
@@ -51,8 +51,8 @@
       "name": "jingyaogong/minimind",
       "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
       "language": "Python",
-      "stars": 54913,
-      "stars_today": 54913,
+      "stars": 54912,
+      "stars_today": 54912,
       "url": "https://github.com/jingyaogong/minimind"
     }
   ]
