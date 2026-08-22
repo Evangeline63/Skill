@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-22T15:08:31Z",
+  "updated": "2026-08-22T18:11:12Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Munder Difflin – Agent harness to run an office of your clones",
-      "insight": "HN 热议：145 分 · 58 评论",
+      "insight": "HN 热议：195 分 · 81 评论",
       "sentiment": "neutral",
-      "comments": 58,
+      "comments": 81,
       "url": "https://munderdiffl.in/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week",
-      "insight": "HN 热议：115 分 · 47 评论",
+      "title": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
+      "insight": "HN 热议：42 分 · 28 评论",
       "sentiment": "neutral",
-      "comments": 47,
-      "url": "https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy",
+      "comments": 28,
+      "url": "https://twitter.com/argofowl/status/2091150597374537729",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Digging the grave of my skills: Hollywood creatives training AI to do their jobs",
-      "insight": "HN 热议：13 分 · 8 评论",
+      "title": "Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week",
+      "insight": "HN 热议：174 分 · 139 评论",
       "sentiment": "neutral",
-      "comments": 8,
-      "url": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
+      "comments": 139,
+      "url": "https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "How Thailand Resisted Colonization",
-      "insight": "HN 热议：72 分 · 21 评论",
+      "insight": "HN 热议：106 分 · 38 评论",
       "sentiment": "neutral",
-      "comments": 21,
+      "comments": 38,
       "url": "https://worksinprogress.co/issue/how-thailand-resisted-colonization/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "AI boosted homework scores, then exam scores dropped: study",
-      "insight": "HN 热议：343 分 · 345 评论",
-      "sentiment": "positive",
-      "comments": 345,
-      "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
+      "title": "Embedded AI",
+      "insight": "HN 热议：30 分 · 9 评论",
+      "sentiment": "neutral",
+      "comments": 9,
+      "url": "https://nostarch.com/embedded-ai",
       "id": 5
     }
   ]
