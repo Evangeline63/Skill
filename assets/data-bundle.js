@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-22T09:15:13Z",
+    "updated": "2026-08-22T12:13:46Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-22T09:15:13Z",
+    "updated": "2026-08-22T12:13:46Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-22T09:15:13Z",
+    "updated": "2026-08-22T12:13:46Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 186745,
-            "stars_today": 186745,
+            "stars": 186751,
+            "stars_today": 186751,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 167721,
-            "stars_today": 167721,
+            "stars": 167732,
+            "stars_today": 167732,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 91490,
-            "stars_today": 91490,
+            "stars": 91494,
+            "stars_today": 91494,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 84762,
-            "stars_today": 84762,
+            "stars": 84772,
+            "stars_today": 84772,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 56855,
-            "stars_today": 56855,
+            "stars": 56912,
+            "stars_today": 56912,
             "url": "https://github.com/usestrix/strix"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "jingyaogong/minimind",
             "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
             "language": "Python",
-            "stars": 54920,
-            "stars_today": 54920,
+            "stars": 54921,
+            "stars_today": 54921,
             "url": "https://github.com/jingyaogong/minimind"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-22T09:15:13Z",
+    "updated": "2026-08-22T12:13:46Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-22T09:15:13Z",
+    "updated": "2026-08-22T12:13:46Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-22T09:15:13Z",
+    "updated": "2026-08-22T12:13:46Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "AI boosted homework scores, then exam scores dropped: study",
-            "insight": "HN 热议：303 分 · 317 评论",
-            "sentiment": "positive",
-            "comments": 317,
-            "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
+            "title": "Munder Difflin – Agent harness to run an office of your clones",
+            "insight": "HN 热议：37 分 · 15 评论",
+            "sentiment": "neutral",
+            "comments": 15,
+            "url": "https://munderdiffl.in/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
-            "insight": "HN 热议：264 分 · 178 评论",
-            "sentiment": "positive",
-            "comments": 178,
-            "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
+            "title": "How Thailand Resisted Colonization",
+            "insight": "HN 热议：36 分 · 10 评论",
+            "sentiment": "neutral",
+            "comments": 10,
+            "url": "https://worksinprogress.co/issue/how-thailand-resisted-colonization/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Early-life stress leaves a 'scar' inside brain cells in mice",
-            "insight": "HN 热议：86 分 · 40 评论",
-            "sentiment": "neutral",
-            "comments": 40,
-            "url": "https://medicine.washu.edu/news/how-early-life-stress-leaves-a-scar-inside-brain-cells/",
+            "title": "AI boosted homework scores, then exam scores dropped: study",
+            "insight": "HN 热议：321 分 · 327 评论",
+            "sentiment": "positive",
+            "comments": 327,
+            "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "I'm becoming AI-blind",
-            "insight": "HN 热议：358 分 · 358 评论",
+            "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
+            "insight": "HN 热议：297 分 · 190 评论",
             "sentiment": "positive",
-            "comments": 358,
-            "url": "https://cymerys.com/w/im-becoming-ai-blind",
+            "comments": 190,
+            "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Autolith: A programming agent with a live runtime",
-            "insight": "HN 热议：62 分 · 21 评论",
-            "sentiment": "neutral",
-            "comments": 21,
-            "url": "https://www.lambda-symbolics.com/autolith",
+            "title": "I'm becoming AI-blind",
+            "insight": "HN 热议：398 分 · 399 评论",
+            "sentiment": "positive",
+            "comments": 399,
+            "url": "https://cymerys.com/w/im-becoming-ai-blind",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-22T09:15:13Z",
+    "updated": "2026-08-22T12:13:46Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
