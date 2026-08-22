@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-22T18:11:12Z",
+    "updated": "2026-08-22T21:09:31Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-22T18:11:12Z",
+    "updated": "2026-08-22T21:09:31Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-22T18:11:12Z",
+    "updated": "2026-08-22T21:09:31Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 186764,
-            "stars_today": 186764,
+            "stars": 186771,
+            "stars_today": 186771,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,50 +282,50 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 167751,
-            "stars_today": 167751,
+            "stars": 167763,
+            "stars_today": 167763,
             "url": "https://github.com/f/prompts.chat"
         },
         {
             "rank": 3,
-            "name": "thedotmack/claude-mem",
-            "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
-            "language": "JavaScript",
-            "stars": 91518,
-            "stars_today": 91518,
-            "url": "https://github.com/thedotmack/claude-mem"
+            "name": "hacksider/Deep-Live-Cam",
+            "description": "real time face swap and one-click video deepfake with only a single image",
+            "language": "Python",
+            "stars": 96066,
+            "stars_today": 96066,
+            "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
             "rank": 4,
-            "name": "OpenHands/OpenHands",
-            "description": "🙌 OpenHands: AI-Driven Development",
-            "language": "TypeScript",
-            "stars": 84789,
-            "stars_today": 84789,
-            "url": "https://github.com/OpenHands/OpenHands"
+            "name": "thedotmack/claude-mem",
+            "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
+            "language": "JavaScript",
+            "stars": 91526,
+            "stars_today": 91526,
+            "url": "https://github.com/thedotmack/claude-mem"
         },
         {
             "rank": 5,
-            "name": "usestrix/strix",
-            "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-            "language": "Python",
-            "stars": 57006,
-            "stars_today": 57006,
-            "url": "https://github.com/usestrix/strix"
+            "name": "OpenHands/OpenHands",
+            "description": "🙌 OpenHands: AI-Driven Development",
+            "language": "TypeScript",
+            "stars": 84792,
+            "stars_today": 84792,
+            "url": "https://github.com/OpenHands/OpenHands"
         },
         {
             "rank": 6,
-            "name": "jingyaogong/minimind",
-            "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+            "name": "usestrix/strix",
+            "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 54927,
-            "stars_today": 54927,
-            "url": "https://github.com/jingyaogong/minimind"
+            "stars": 57039,
+            "stars_today": 57039,
+            "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-22T18:11:12Z",
+    "updated": "2026-08-22T21:09:31Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-22T18:11:12Z",
+    "updated": "2026-08-22T21:09:31Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-22T18:11:12Z",
+    "updated": "2026-08-22T21:09:31Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Munder Difflin – Agent harness to run an office of your clones",
-            "insight": "HN 热议：195 分 · 81 评论",
+            "title": "Why your local LLM feels dumber than it is",
+            "insight": "HN 热议：34 分 · 12 评论",
             "sentiment": "neutral",
-            "comments": 81,
-            "url": "https://munderdiffl.in/",
+            "comments": 12,
+            "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
-            "insight": "HN 热议：42 分 · 28 评论",
+            "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
+            "insight": "HN 热议：57 分 · 6 评论",
             "sentiment": "neutral",
-            "comments": 28,
-            "url": "https://twitter.com/argofowl/status/2091150597374537729",
+            "comments": 6,
+            "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week",
-            "insight": "HN 热议：174 分 · 139 评论",
-            "sentiment": "neutral",
-            "comments": 139,
-            "url": "https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy",
+            "title": "Munder Difflin – Agent harness to run an office of your clones",
+            "insight": "HN 热议：230 分 · 105 评论",
+            "sentiment": "positive",
+            "comments": 105,
+            "url": "https://munderdiffl.in/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "How Thailand Resisted Colonization",
-            "insight": "HN 热议：106 分 · 38 评论",
+            "title": "Guess which of these LLM outputs is watermarked",
+            "insight": "HN 热议：33 分 · 40 评论",
             "sentiment": "neutral",
-            "comments": 38,
-            "url": "https://worksinprogress.co/issue/how-thailand-resisted-colonization/",
+            "comments": 40,
+            "url": "https://sgoedecke.github.io/watermark-quiz/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Embedded AI",
-            "insight": "HN 热议：30 分 · 9 评论",
+            "title": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
+            "insight": "HN 热议：106 分 · 113 评论",
             "sentiment": "neutral",
-            "comments": 9,
-            "url": "https://nostarch.com/embedded-ai",
+            "comments": 113,
+            "url": "https://twitter.com/argofowl/status/2091150597374537729",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-22T18:11:12Z",
+    "updated": "2026-08-22T21:09:31Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

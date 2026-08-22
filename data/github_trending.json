@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-22T18:11:12Z",
+  "updated": "2026-08-22T21:09:31Z",
   "repos": [
     {
       "rank": 1,
       "name": "Significant-Gravitas/AutoGPT",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
       "language": "Python",
-      "stars": 186764,
-      "stars_today": 186764,
+      "stars": 186771,
+      "stars_today": 186771,
       "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
@@ -15,45 +15,45 @@
       "name": "f/prompts.chat",
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
       "language": "HTML",
-      "stars": 167751,
-      "stars_today": 167751,
+      "stars": 167763,
+      "stars_today": 167763,
       "url": "https://github.com/f/prompts.chat"
     },
     {
       "rank": 3,
-      "name": "thedotmack/claude-mem",
-      "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
-      "language": "JavaScript",
-      "stars": 91518,
-      "stars_today": 91518,
-      "url": "https://github.com/thedotmack/claude-mem"
+      "name": "hacksider/Deep-Live-Cam",
+      "description": "real time face swap and one-click video deepfake with only a single image",
+      "language": "Python",
+      "stars": 96066,
+      "stars_today": 96066,
+      "url": "https://github.com/hacksider/Deep-Live-Cam"
     },
     {
       "rank": 4,
-      "name": "OpenHands/OpenHands",
-      "description": "🙌 OpenHands: AI-Driven Development",
-      "language": "TypeScript",
-      "stars": 84789,
-      "stars_today": 84789,
-      "url": "https://github.com/OpenHands/OpenHands"
+      "name": "thedotmack/claude-mem",
+      "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
+      "language": "JavaScript",
+      "stars": 91526,
+      "stars_today": 91526,
+      "url": "https://github.com/thedotmack/claude-mem"
     },
     {
       "rank": 5,
-      "name": "usestrix/strix",
-      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-      "language": "Python",
-      "stars": 57006,
-      "stars_today": 57006,
-      "url": "https://github.com/usestrix/strix"
+      "name": "OpenHands/OpenHands",
+      "description": "🙌 OpenHands: AI-Driven Development",
+      "language": "TypeScript",
+      "stars": 84792,
+      "stars_today": 84792,
+      "url": "https://github.com/OpenHands/OpenHands"
     },
     {
       "rank": 6,
-      "name": "jingyaogong/minimind",
-      "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+      "name": "usestrix/strix",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "language": "Python",
-      "stars": 54927,
-      "stars_today": 54927,
-      "url": "https://github.com/jingyaogong/minimind"
+      "stars": 57039,
+      "stars_today": 57039,
+      "url": "https://github.com/usestrix/strix"
     }
   ]
 }

@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-22T18:11:12Z",
+  "updated": "2026-08-22T21:09:31Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Munder Difflin – Agent harness to run an office of your clones",
-      "insight": "HN 热议：195 分 · 81 评论",
+      "title": "Why your local LLM feels dumber than it is",
+      "insight": "HN 热议：34 分 · 12 评论",
       "sentiment": "neutral",
-      "comments": 81,
-      "url": "https://munderdiffl.in/",
+      "comments": 12,
+      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
-      "insight": "HN 热议：42 分 · 28 评论",
+      "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
+      "insight": "HN 热议：57 分 · 6 评论",
       "sentiment": "neutral",
-      "comments": 28,
-      "url": "https://twitter.com/argofowl/status/2091150597374537729",
+      "comments": 6,
+      "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week",
-      "insight": "HN 热议：174 分 · 139 评论",
-      "sentiment": "neutral",
-      "comments": 139,
-      "url": "https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy",
+      "title": "Munder Difflin – Agent harness to run an office of your clones",
+      "insight": "HN 热议：230 分 · 105 评论",
+      "sentiment": "positive",
+      "comments": 105,
+      "url": "https://munderdiffl.in/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "How Thailand Resisted Colonization",
-      "insight": "HN 热议：106 分 · 38 评论",
+      "title": "Guess which of these LLM outputs is watermarked",
+      "insight": "HN 热议：33 分 · 40 评论",
       "sentiment": "neutral",
-      "comments": 38,
-      "url": "https://worksinprogress.co/issue/how-thailand-resisted-colonization/",
+      "comments": 40,
+      "url": "https://sgoedecke.github.io/watermark-quiz/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Embedded AI",
-      "insight": "HN 热议：30 分 · 9 评论",
+      "title": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
+      "insight": "HN 热议：106 分 · 113 评论",
       "sentiment": "neutral",
-      "comments": 9,
-      "url": "https://nostarch.com/embedded-ai",
+      "comments": 113,
+      "url": "https://twitter.com/argofowl/status/2091150597374537729",
       "id": 5
     }
   ]
