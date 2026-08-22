@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-21T21:11:40Z",
+    "updated": "2026-08-22T00:29:49Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-21T21:11:40Z",
+    "updated": "2026-08-22T00:29:49Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-21T21:11:40Z",
+    "updated": "2026-08-22T00:29:49Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 186722,
-            "stars_today": 186722,
+            "stars": 186727,
+            "stars_today": 186727,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 167710,
-            "stars_today": 167710,
+            "stars": 167713,
+            "stars_today": 167713,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 91449,
-            "stars_today": 91449,
+            "stars": 91455,
+            "stars_today": 91455,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 84729,
-            "stars_today": 84729,
+            "stars": 84736,
+            "stars_today": 84736,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 56675,
-            "stars_today": 56675,
+            "stars": 56729,
+            "stars_today": 56729,
             "url": "https://github.com/usestrix/strix"
         },
         {
@@ -325,7 +325,7 @@ window.__DATA__ = {
     ]
 },
   "products": {
-    "updated": "2026-08-21T21:11:40Z",
+    "updated": "2026-08-22T00:29:49Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-21T21:11:40Z",
+    "updated": "2026-08-22T00:29:49Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-21T21:11:40Z",
+    "updated": "2026-08-22T00:29:49Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Quick impressions: A week of using Codex more than Claude",
-            "insight": "HN 热议：41 分 · 32 评论",
-            "sentiment": "neutral",
-            "comments": 32,
-            "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
+            "title": "AI boosted homework scores, then exam scores dropped: study",
+            "insight": "HN 热议：222 分 · 281 评论",
+            "sentiment": "positive",
+            "comments": 281,
+            "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "AI boosted homework scores, then exam scores dropped: study",
-            "insight": "HN 热议：152 分 · 213 评论",
+            "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
+            "insight": "HN 热议：19 分 · 8 评论",
             "sentiment": "neutral",
-            "comments": 213,
-            "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
+            "comments": 8,
+            "url": "https://ozbrain.com",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
-            "insight": "HN 热议：24 分 · 18 评论",
+            "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
+            "insight": "HN 热议：185 分 · 131 评论",
             "sentiment": "neutral",
-            "comments": 18,
-            "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
+            "comments": 131,
+            "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Building an (almost) fully self-hosted, sandboxed, agentic software factory",
-            "insight": "HN 热议：57 分 · 36 评论",
-            "sentiment": "neutral",
-            "comments": 36,
-            "url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/",
+            "title": "I'm becoming AI-blind",
+            "insight": "HN 热议：252 分 · 260 评论",
+            "sentiment": "positive",
+            "comments": 260,
+            "url": "https://cymerys.com/w/im-becoming-ai-blind",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
-            "insight": "HN 热议：135 分 · 97 评论",
-            "sentiment": "neutral",
-            "comments": 97,
-            "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
+            "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+            "insight": "HN 热议：516 分 · 833 评论",
+            "sentiment": "positive",
+            "comments": 833,
+            "url": "https://annas-archive.gl/blog/physical-destruction.html",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-21T21:11:40Z",
+    "updated": "2026-08-22T00:29:49Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

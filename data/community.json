@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-21T21:11:40Z",
+  "updated": "2026-08-22T00:29:49Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Quick impressions: A week of using Codex more than Claude",
-      "insight": "HN 热议：41 分 · 32 评论",
-      "sentiment": "neutral",
-      "comments": 32,
-      "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
+      "title": "AI boosted homework scores, then exam scores dropped: study",
+      "insight": "HN 热议：222 分 · 281 评论",
+      "sentiment": "positive",
+      "comments": 281,
+      "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "AI boosted homework scores, then exam scores dropped: study",
-      "insight": "HN 热议：152 分 · 213 评论",
+      "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
+      "insight": "HN 热议：19 分 · 8 评论",
       "sentiment": "neutral",
-      "comments": 213,
-      "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
+      "comments": 8,
+      "url": "https://ozbrain.com",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
-      "insight": "HN 热议：24 分 · 18 评论",
+      "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
+      "insight": "HN 热议：185 分 · 131 评论",
       "sentiment": "neutral",
-      "comments": 18,
-      "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
+      "comments": 131,
+      "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Building an (almost) fully self-hosted, sandboxed, agentic software factory",
-      "insight": "HN 热议：57 分 · 36 评论",
-      "sentiment": "neutral",
-      "comments": 36,
-      "url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/",
+      "title": "I'm becoming AI-blind",
+      "insight": "HN 热议：252 分 · 260 评论",
+      "sentiment": "positive",
+      "comments": 260,
+      "url": "https://cymerys.com/w/im-becoming-ai-blind",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
-      "insight": "HN 热议：135 分 · 97 评论",
-      "sentiment": "neutral",
-      "comments": 97,
-      "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
+      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+      "insight": "HN 热议：516 分 · 833 评论",
+      "sentiment": "positive",
+      "comments": 833,
+      "url": "https://annas-archive.gl/blog/physical-destruction.html",
       "id": 5
     }
   ]
