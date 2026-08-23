@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-22T21:09:31Z",
+    "updated": "2026-08-23T00:32:45Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-22T21:09:31Z",
+    "updated": "2026-08-23T00:32:45Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-22T21:09:31Z",
+    "updated": "2026-08-23T00:32:45Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 186771,
-            "stars_today": 186771,
+            "stars": 186776,
+            "stars_today": 186776,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 167763,
-            "stars_today": 167763,
+            "stars": 167765,
+            "stars_today": 167765,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96066,
-            "stars_today": 96066,
+            "stars": 96069,
+            "stars_today": 96069,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 91526,
-            "stars_today": 91526,
+            "stars": 91531,
+            "stars_today": 91531,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 84792,
-            "stars_today": 84792,
+            "stars": 84800,
+            "stars_today": 84800,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 57039,
-            "stars_today": 57039,
+            "stars": 57085,
+            "stars_today": 57085,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-22T21:09:31Z",
+    "updated": "2026-08-23T00:32:45Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-22T21:09:31Z",
+    "updated": "2026-08-23T00:32:45Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-22T21:09:31Z",
+    "updated": "2026-08-23T00:32:45Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Why your local LLM feels dumber than it is",
-            "insight": "HN 热议：34 分 · 12 评论",
+            "title": "NanoGPT Speedrun Frontier",
+            "insight": "HN 热议：34 分 · 6 评论",
             "sentiment": "neutral",
-            "comments": 12,
-            "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+            "comments": 6,
+            "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
-            "insight": "HN 热议：57 分 · 6 评论",
+            "title": "Why your local LLM feels dumber than it is",
+            "insight": "HN 热议：159 分 · 46 评论",
             "sentiment": "neutral",
-            "comments": 6,
-            "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
+            "comments": 46,
+            "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Munder Difflin – Agent harness to run an office of your clones",
-            "insight": "HN 热议：230 分 · 105 评论",
-            "sentiment": "positive",
-            "comments": 105,
-            "url": "https://munderdiffl.in/",
+            "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
+            "insight": "HN 热议：97 分 · 36 评论",
+            "sentiment": "neutral",
+            "comments": 36,
+            "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Guess which of these LLM outputs is watermarked",
-            "insight": "HN 热议：33 分 · 40 评论",
-            "sentiment": "neutral",
-            "comments": 40,
-            "url": "https://sgoedecke.github.io/watermark-quiz/",
+            "title": "Munder Difflin – Agent harness to run an office of your clones",
+            "insight": "HN 热议：244 分 · 114 评论",
+            "sentiment": "positive",
+            "comments": 114,
+            "url": "https://munderdiffl.in/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
-            "insight": "HN 热议：106 分 · 113 评论",
+            "title": "A week of using Codex more than Claude",
+            "insight": "HN 热议：116 分 · 116 评论",
             "sentiment": "neutral",
-            "comments": 113,
-            "url": "https://twitter.com/argofowl/status/2091150597374537729",
+            "comments": 116,
+            "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-22T21:09:31Z",
+    "updated": "2026-08-23T00:32:45Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
