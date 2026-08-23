@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-23T03:39:13Z",
+  "updated": "2026-08-23T06:19:06Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "NanoGPT Speedrun Frontier",
-      "insight": "HN 热议：61 分 · 18 评论",
-      "sentiment": "neutral",
-      "comments": 18,
-      "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
+      "title": "Why your local LLM feels dumber than it is",
+      "insight": "HN 热议：271 分 · 88 评论",
+      "sentiment": "positive",
+      "comments": 88,
+      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Why your local LLM feels dumber than it is",
-      "insight": "HN 热议：210 分 · 69 评论",
-      "sentiment": "positive",
-      "comments": 69,
-      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+      "title": "NanoGPT Speedrun Frontier",
+      "insight": "HN 热议：84 分 · 22 评论",
+      "sentiment": "neutral",
+      "comments": 22,
+      "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
-      "insight": "HN 热议：123 分 · 44 评论",
+      "insight": "HN 热议：146 分 · 46 评论",
       "sentiment": "neutral",
-      "comments": 44,
+      "comments": 46,
       "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Munder Difflin – Agent harness to run an office of your clones",
-      "insight": "HN 热议：260 分 · 115 评论",
-      "sentiment": "positive",
-      "comments": 115,
-      "url": "https://munderdiffl.in/",
+      "title": "A week of using Codex more than Claude",
+      "insight": "HN 热议：176 分 · 189 评论",
+      "sentiment": "neutral",
+      "comments": 189,
+      "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "A week of using Codex more than Claude",
-      "insight": "HN 热议：143 分 · 163 评论",
-      "sentiment": "neutral",
-      "comments": 163,
-      "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
+      "title": "Munder Difflin – Agent harness to run an office of your clones",
+      "insight": "HN 热议：271 分 · 117 评论",
+      "sentiment": "positive",
+      "comments": 117,
+      "url": "https://munderdiffl.in/",
       "id": 5
     }
   ]
