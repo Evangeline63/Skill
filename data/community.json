@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-23T15:09:40Z",
+  "updated": "2026-08-23T18:11:06Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Why your local LLM feels dumber than it is",
-      "insight": "HN 热议：413 分 · 170 评论",
+      "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
+      "insight": "HN 热议：289 分 · 114 评论",
       "sentiment": "positive",
-      "comments": 170,
-      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+      "comments": 114,
+      "url": "https://ericpardee.github.io/fire-hd-ownership/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "NanoGPT Speedrun Frontier",
-      "insight": "HN 热议：127 分 · 31 评论",
+      "title": "GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost",
+      "insight": "HN 热议：159 分 · 61 评论",
       "sentiment": "neutral",
-      "comments": 31,
-      "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
+      "comments": 61,
+      "url": "https://reinvently.co.uk/tools/ed-o-meter/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
-      "insight": "HN 热议：185 分 · 97 评论",
+      "title": "How Complex Systems Fail (1998)",
+      "insight": "HN 热议：106 分 · 23 评论",
       "sentiment": "neutral",
-      "comments": 97,
-      "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
+      "comments": 23,
+      "url": "https://how.complexsystems.fail/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Munder Difflin – Agent harness to run an office of your clones",
-      "insight": "HN 热议：294 分 · 132 评论",
+      "title": "Why your local LLM feels dumber than it is",
+      "insight": "HN 热议：451 分 · 183 评论",
       "sentiment": "positive",
-      "comments": 132,
-      "url": "https://munderdiffl.in/",
+      "comments": 183,
+      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Andrew Ng: \"AI Engineering Skills Map: Building and Deploying AI Applications\"",
-      "insight": "HN 热议：15 分 · 0 评论",
+      "title": "We must not grant AI agents legal personhood",
+      "insight": "HN 热议：12 分 · 11 评论",
       "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://twitter.com/AndrewYNg/status/2090840747738374568",
+      "comments": 11,
+      "url": "https://www.ft.com/content/b8cc4bf4-6d3c-4974-8428-9a091983c473",
       "id": 5
     }
   ]
