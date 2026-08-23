@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-23T18:11:06Z",
+  "updated": "2026-08-23T21:09:36Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
-      "insight": "HN 热议：289 分 · 114 评论",
-      "sentiment": "positive",
-      "comments": 114,
-      "url": "https://ericpardee.github.io/fire-hd-ownership/",
+      "title": "How Complex Systems Fail (1998)",
+      "insight": "HN 热议：170 分 · 49 评论",
+      "sentiment": "neutral",
+      "comments": 49,
+      "url": "https://how.complexsystems.fail/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost",
-      "insight": "HN 热议：159 分 · 61 评论",
+      "title": "My agent.md to improve LLM-assisted code quality",
+      "insight": "HN 热议：42 分 · 20 评论",
       "sentiment": "neutral",
-      "comments": 61,
-      "url": "https://reinvently.co.uk/tools/ed-o-meter/",
+      "comments": 20,
+      "url": "https://fabiensanglard.net/agent.md/index.html",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "How Complex Systems Fail (1998)",
-      "insight": "HN 热议：106 分 · 23 评论",
+      "title": "Explain it to me like I'm ten",
+      "insight": "HN 热议：35 分 · 18 评论",
       "sentiment": "neutral",
-      "comments": 23,
-      "url": "https://how.complexsystems.fail/",
+      "comments": 18,
+      "url": "https://timharford.com/2026/08/explain-it-to-me-like-im-ten/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Why your local LLM feels dumber than it is",
-      "insight": "HN 热议：451 分 · 183 评论",
+      "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
+      "insight": "HN 热议：547 分 · 237 评论",
       "sentiment": "positive",
-      "comments": 183,
-      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+      "comments": 237,
+      "url": "https://ericpardee.github.io/fire-hd-ownership/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "We must not grant AI agents legal personhood",
-      "insight": "HN 热议：12 分 · 11 评论",
+      "title": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026)",
+      "insight": "HN 热议：11 分 · 0 评论",
       "sentiment": "neutral",
-      "comments": 11,
-      "url": "https://www.ft.com/content/b8cc4bf4-6d3c-4974-8428-9a091983c473",
+      "comments": 0,
+      "url": "https://www.spheron.network/blog/etched-ai-sohu-vs-nvidia-transformer-asic-inference/",
       "id": 5
     }
   ]
