@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-23T06:19:06Z",
+  "updated": "2026-08-23T09:15:21Z",
   "repos": [
     {
       "rank": 1,
       "name": "Significant-Gravitas/AutoGPT",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
       "language": "Python",
-      "stars": 186786,
-      "stars_today": 186786,
+      "stars": 186795,
+      "stars_today": 186795,
       "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
@@ -15,8 +15,8 @@
       "name": "f/prompts.chat",
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
       "language": "HTML",
-      "stars": 167779,
-      "stars_today": 167779,
+      "stars": 167786,
+      "stars_today": 167786,
       "url": "https://github.com/f/prompts.chat"
     },
     {
@@ -24,8 +24,8 @@
       "name": "hacksider/Deep-Live-Cam",
       "description": "real time face swap and one-click video deepfake with only a single image",
       "language": "Python",
-      "stars": 96069,
-      "stars_today": 96069,
+      "stars": 96076,
+      "stars_today": 96076,
       "url": "https://github.com/hacksider/Deep-Live-Cam"
     },
     {
@@ -33,8 +33,8 @@
       "name": "thedotmack/claude-mem",
       "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
       "language": "JavaScript",
-      "stars": 91543,
-      "stars_today": 91543,
+      "stars": 91557,
+      "stars_today": 91557,
       "url": "https://github.com/thedotmack/claude-mem"
     },
     {
@@ -42,8 +42,8 @@
       "name": "OpenHands/OpenHands",
       "description": "🙌 OpenHands: AI-Driven Development",
       "language": "TypeScript",
-      "stars": 84822,
-      "stars_today": 84822,
+      "stars": 84830,
+      "stars_today": 84830,
       "url": "https://github.com/OpenHands/OpenHands"
     },
     {
@@ -51,8 +51,8 @@
       "name": "usestrix/strix",
       "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "language": "Python",
-      "stars": 57163,
-      "stars_today": 57163,
+      "stars": 57212,
+      "stars_today": 57212,
       "url": "https://github.com/usestrix/strix"
     }
   ]

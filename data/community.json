@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-23T06:19:06Z",
+  "updated": "2026-08-23T09:15:21Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Why your local LLM feels dumber than it is",
-      "insight": "HN 热议：271 分 · 88 评论",
-      "sentiment": "positive",
-      "comments": 88,
-      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+      "title": "Tragically, as many as 9625 out of every 10k individuals may be neurotypical",
+      "insight": "HN 热议：16 分 · 5 评论",
+      "sentiment": "neutral",
+      "comments": 5,
+      "url": "https://erikengdahl.se/autism/isnt/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "NanoGPT Speedrun Frontier",
-      "insight": "HN 热议：84 分 · 22 评论",
-      "sentiment": "neutral",
-      "comments": 22,
-      "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
+      "title": "Why your local LLM feels dumber than it is",
+      "insight": "HN 热议：339 分 · 118 评论",
+      "sentiment": "positive",
+      "comments": 118,
+      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
-      "insight": "HN 热议：146 分 · 46 评论",
+      "title": "NanoGPT Speedrun Frontier",
+      "insight": "HN 热议：96 分 · 26 评论",
       "sentiment": "neutral",
-      "comments": 46,
-      "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
+      "comments": 26,
+      "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "A week of using Codex more than Claude",
-      "insight": "HN 热议：176 分 · 189 评论",
+      "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
+      "insight": "HN 热议：155 分 · 58 评论",
       "sentiment": "neutral",
-      "comments": 189,
-      "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
+      "comments": 58,
+      "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Munder Difflin – Agent harness to run an office of your clones",
-      "insight": "HN 热议：271 分 · 117 评论",
-      "sentiment": "positive",
-      "comments": 117,
-      "url": "https://munderdiffl.in/",
+      "title": "A week of using Codex more than Claude",
+      "insight": "HN 热议：192 分 · 218 评论",
+      "sentiment": "neutral",
+      "comments": 218,
+      "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
       "id": 5
     }
   ]
