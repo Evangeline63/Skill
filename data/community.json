@@ -1,48 +1,48 @@
 {
-  "updated": "2026-08-23T00:32:45Z",
+  "updated": "2026-08-23T03:39:13Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "NanoGPT Speedrun Frontier",
-      "insight": "HN 热议：34 分 · 6 评论",
+      "insight": "HN 热议：61 分 · 18 评论",
       "sentiment": "neutral",
-      "comments": 6,
+      "comments": 18,
       "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "Why your local LLM feels dumber than it is",
-      "insight": "HN 热议：159 分 · 46 评论",
-      "sentiment": "neutral",
-      "comments": 46,
+      "insight": "HN 热议：210 分 · 69 评论",
+      "sentiment": "positive",
+      "comments": 69,
       "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
-      "insight": "HN 热议：97 分 · 36 评论",
+      "insight": "HN 热议：123 分 · 44 评论",
       "sentiment": "neutral",
-      "comments": 36,
+      "comments": 44,
       "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "Munder Difflin – Agent harness to run an office of your clones",
-      "insight": "HN 热议：244 分 · 114 评论",
+      "insight": "HN 热议：260 分 · 115 评论",
       "sentiment": "positive",
-      "comments": 114,
+      "comments": 115,
       "url": "https://munderdiffl.in/",
       "id": 4
     },
     {
       "source": "HackerNews",
       "title": "A week of using Codex more than Claude",
-      "insight": "HN 热议：116 分 · 116 评论",
+      "insight": "HN 热议：143 分 · 163 评论",
       "sentiment": "neutral",
-      "comments": 116,
+      "comments": 163,
       "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
       "id": 5
     }

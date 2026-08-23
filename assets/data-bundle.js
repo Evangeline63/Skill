@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-23T00:32:45Z",
+    "updated": "2026-08-23T03:39:13Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-23T00:32:45Z",
+    "updated": "2026-08-23T03:39:13Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-23T00:32:45Z",
+    "updated": "2026-08-23T03:39:13Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 186776,
-            "stars_today": 186776,
+            "stars": 186781,
+            "stars_today": 186781,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 167765,
-            "stars_today": 167765,
+            "stars": 167772,
+            "stars_today": 167772,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96069,
-            "stars_today": 96069,
+            "stars": 96068,
+            "stars_today": 96068,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 91531,
-            "stars_today": 91531,
+            "stars": 91538,
+            "stars_today": 91538,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 84800,
-            "stars_today": 84800,
+            "stars": 84807,
+            "stars_today": 84807,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 57085,
-            "stars_today": 57085,
+            "stars": 57123,
+            "stars_today": 57123,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-23T00:32:45Z",
+    "updated": "2026-08-23T03:39:13Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-23T00:32:45Z",
+    "updated": "2026-08-23T03:39:13Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-23T00:32:45Z",
+    "updated": "2026-08-23T03:39:13Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "NanoGPT Speedrun Frontier",
-            "insight": "HN 热议：34 分 · 6 评论",
+            "insight": "HN 热议：61 分 · 18 评论",
             "sentiment": "neutral",
-            "comments": 6,
+            "comments": 18,
             "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "Why your local LLM feels dumber than it is",
-            "insight": "HN 热议：159 分 · 46 评论",
-            "sentiment": "neutral",
-            "comments": 46,
+            "insight": "HN 热议：210 分 · 69 评论",
+            "sentiment": "positive",
+            "comments": 69,
             "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
-            "insight": "HN 热议：97 分 · 36 评论",
+            "insight": "HN 热议：123 分 · 44 评论",
             "sentiment": "neutral",
-            "comments": 36,
+            "comments": 44,
             "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
             "id": 3
         },
         {
             "source": "HackerNews",
             "title": "Munder Difflin – Agent harness to run an office of your clones",
-            "insight": "HN 热议：244 分 · 114 评论",
+            "insight": "HN 热议：260 分 · 115 评论",
             "sentiment": "positive",
-            "comments": 114,
+            "comments": 115,
             "url": "https://munderdiffl.in/",
             "id": 4
         },
         {
             "source": "HackerNews",
             "title": "A week of using Codex more than Claude",
-            "insight": "HN 热议：116 分 · 116 评论",
+            "insight": "HN 热议：143 分 · 163 评论",
             "sentiment": "neutral",
-            "comments": 116,
+            "comments": 163,
             "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-23T00:32:45Z",
+    "updated": "2026-08-23T03:39:13Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
