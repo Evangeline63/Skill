@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-23T12:14:27Z",
+  "updated": "2026-08-23T15:09:40Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Why your local LLM feels dumber than it is",
-      "insight": "HN 热议：384 分 · 145 评论",
+      "insight": "HN 热议：413 分 · 170 评论",
       "sentiment": "positive",
-      "comments": 145,
+      "comments": 170,
       "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "NanoGPT Speedrun Frontier",
-      "insight": "HN 热议：114 分 · 28 评论",
+      "insight": "HN 热议：127 分 · 31 评论",
       "sentiment": "neutral",
-      "comments": 28,
+      "comments": 31,
       "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
-      "insight": "HN 热议：171 分 · 80 评论",
+      "insight": "HN 热议：185 分 · 97 评论",
       "sentiment": "neutral",
-      "comments": 80,
+      "comments": 97,
       "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "A week of using Codex more than Claude",
-      "insight": "HN 热议：212 分 · 234 评论",
+      "title": "Munder Difflin – Agent harness to run an office of your clones",
+      "insight": "HN 热议：294 分 · 132 评论",
       "sentiment": "positive",
-      "comments": 234,
-      "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
+      "comments": 132,
+      "url": "https://munderdiffl.in/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Munder Difflin – Agent harness to run an office of your clones",
-      "insight": "HN 热议：289 分 · 124 评论",
-      "sentiment": "positive",
-      "comments": 124,
-      "url": "https://munderdiffl.in/",
+      "title": "Andrew Ng: \"AI Engineering Skills Map: Building and Deploying AI Applications\"",
+      "insight": "HN 热议：15 分 · 0 评论",
+      "sentiment": "neutral",
+      "comments": 0,
+      "url": "https://twitter.com/AndrewYNg/status/2090840747738374568",
       "id": 5
     }
   ]

@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-23T12:14:27Z",
+    "updated": "2026-08-23T15:09:40Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-23T12:14:27Z",
+    "updated": "2026-08-23T15:09:40Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-23T12:14:27Z",
+    "updated": "2026-08-23T15:09:40Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 186803,
-            "stars_today": 186803,
+            "stars": 186810,
+            "stars_today": 186810,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 167796,
-            "stars_today": 167796,
+            "stars": 167802,
+            "stars_today": 167802,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96080,
-            "stars_today": 96080,
+            "stars": 96083,
+            "stars_today": 96083,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 91567,
-            "stars_today": 91567,
+            "stars": 91580,
+            "stars_today": 91580,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 84836,
-            "stars_today": 84836,
+            "stars": 84845,
+            "stars_today": 84845,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 57251,
-            "stars_today": 57251,
+            "stars": 57297,
+            "stars_today": 57297,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-23T12:14:27Z",
+    "updated": "2026-08-23T15:09:40Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-23T12:14:27Z",
+    "updated": "2026-08-23T15:09:40Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-23T12:14:27Z",
+    "updated": "2026-08-23T15:09:40Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Why your local LLM feels dumber than it is",
-            "insight": "HN 热议：384 分 · 145 评论",
+            "insight": "HN 热议：413 分 · 170 评论",
             "sentiment": "positive",
-            "comments": 145,
+            "comments": 170,
             "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "NanoGPT Speedrun Frontier",
-            "insight": "HN 热议：114 分 · 28 评论",
+            "insight": "HN 热议：127 分 · 31 评论",
             "sentiment": "neutral",
-            "comments": 28,
+            "comments": 31,
             "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
-            "insight": "HN 热议：171 分 · 80 评论",
+            "insight": "HN 热议：185 分 · 97 评论",
             "sentiment": "neutral",
-            "comments": 80,
+            "comments": 97,
             "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "A week of using Codex more than Claude",
-            "insight": "HN 热议：212 分 · 234 评论",
+            "title": "Munder Difflin – Agent harness to run an office of your clones",
+            "insight": "HN 热议：294 分 · 132 评论",
             "sentiment": "positive",
-            "comments": 234,
-            "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
+            "comments": 132,
+            "url": "https://munderdiffl.in/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Munder Difflin – Agent harness to run an office of your clones",
-            "insight": "HN 热议：289 分 · 124 评论",
-            "sentiment": "positive",
-            "comments": 124,
-            "url": "https://munderdiffl.in/",
+            "title": "Andrew Ng: \"AI Engineering Skills Map: Building and Deploying AI Applications\"",
+            "insight": "HN 热议：15 分 · 0 评论",
+            "sentiment": "neutral",
+            "comments": 0,
+            "url": "https://twitter.com/AndrewYNg/status/2090840747738374568",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-23T12:14:27Z",
+    "updated": "2026-08-23T15:09:40Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
