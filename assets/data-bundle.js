@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-24T09:33:14Z",
+    "updated": "2026-08-24T12:20:43Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-24T09:33:14Z",
+    "updated": "2026-08-24T12:20:43Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-24T09:33:14Z",
+    "updated": "2026-08-24T12:20:43Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 186847,
-            "stars_today": 186847,
+            "stars": 186848,
+            "stars_today": 186848,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 167846,
-            "stars_today": 167846,
+            "stars": 167849,
+            "stars_today": 167849,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 91648,
-            "stars_today": 91648,
+            "stars": 91669,
+            "stars_today": 91669,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 84922,
-            "stars_today": 84922,
+            "stars": 84939,
+            "stars_today": 84939,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 57560,
-            "stars_today": 57560,
+            "stars": 57603,
+            "stars_today": 57603,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-24T09:33:14Z",
+    "updated": "2026-08-24T12:20:43Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-24T09:33:14Z",
+    "updated": "2026-08-24T12:20:43Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-24T09:33:14Z",
+    "updated": "2026-08-24T12:20:43Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "I were 17, I'd learn how to build LLMs from scratch",
-            "insight": "HN 热议：95 分 · 183 评论",
-            "sentiment": "neutral",
-            "comments": 183,
+            "insight": "HN 热议：228 分 · 316 评论",
+            "sentiment": "positive",
+            "comments": 316,
             "url": "https://twitter.com/paulg/status/2091544343589060625",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "FDA clears blood test to aid evaluation for Alzheimer's disease",
-            "insight": "HN 热议：38 分 · 10 评论",
+            "insight": "HN 热议：72 分 · 24 评论",
             "sentiment": "neutral",
-            "comments": 10,
+            "comments": 24,
             "url": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
-            "insight": "HN 热议：499 分 · 450 评论",
+            "insight": "HN 热议：585 分 · 523 评论",
             "sentiment": "positive",
-            "comments": 450,
+            "comments": 523,
             "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
             "id": 3
         },
         {
             "source": "HackerNews",
             "title": "OCR It – pull text out of un-copyable documents for your LLM",
-            "insight": "HN 热议：25 分 · 7 评论",
+            "insight": "HN 热议：68 分 · 11 评论",
             "sentiment": "neutral",
-            "comments": 7,
+            "comments": 11,
             "url": "https://github.com/thiagotigaz/ocr-it",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "I built a low-latency AI companion that plays Skyrim with me",
-            "insight": "HN 热议：153 分 · 28 评论",
+            "title": "Agent Is Not the Model",
+            "insight": "HN 热议：4 分 · 0 评论",
             "sentiment": "neutral",
-            "comments": 28,
-            "url": "https://pantel.is/projects/ai-gaming-companion/",
+            "comments": 0,
+            "url": "https://code.joejag.com/2026/your-agent-is-not-the-model.html",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-24T09:33:14Z",
+    "updated": "2026-08-24T12:20:43Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
