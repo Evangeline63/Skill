@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-24T12:20:43Z",
+  "updated": "2026-08-24T15:26:23Z",
   "repos": [
     {
       "rank": 1,
       "name": "Significant-Gravitas/AutoGPT",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
       "language": "Python",
-      "stars": 186848,
-      "stars_today": 186848,
+      "stars": 186850,
+      "stars_today": 186850,
       "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
@@ -21,39 +21,39 @@
     },
     {
       "rank": 3,
-      "name": "hacksider/Deep-Live-Cam",
-      "description": "real time face swap and one-click video deepfake with only a single image",
-      "language": "Python",
-      "stars": 96095,
-      "stars_today": 96095,
-      "url": "https://github.com/hacksider/Deep-Live-Cam"
+      "name": "rasbt/LLMs-from-scratch",
+      "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+      "language": "Jupyter Notebook",
+      "stars": 103649,
+      "stars_today": 103649,
+      "url": "https://github.com/rasbt/LLMs-from-scratch"
     },
     {
       "rank": 4,
-      "name": "thedotmack/claude-mem",
-      "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
-      "language": "JavaScript",
-      "stars": 91669,
-      "stars_today": 91669,
-      "url": "https://github.com/thedotmack/claude-mem"
+      "name": "hacksider/Deep-Live-Cam",
+      "description": "real time face swap and one-click video deepfake with only a single image",
+      "language": "Python",
+      "stars": 96092,
+      "stars_today": 96092,
+      "url": "https://github.com/hacksider/Deep-Live-Cam"
     },
     {
       "rank": 5,
-      "name": "OpenHands/OpenHands",
-      "description": "🙌 OpenHands: AI-Driven Development",
-      "language": "TypeScript",
-      "stars": 84939,
-      "stars_today": 84939,
-      "url": "https://github.com/OpenHands/OpenHands"
+      "name": "thedotmack/claude-mem",
+      "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
+      "language": "JavaScript",
+      "stars": 91688,
+      "stars_today": 91688,
+      "url": "https://github.com/thedotmack/claude-mem"
     },
     {
       "rank": 6,
-      "name": "usestrix/strix",
-      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-      "language": "Python",
-      "stars": 57603,
-      "stars_today": 57603,
-      "url": "https://github.com/usestrix/strix"
+      "name": "OpenHands/OpenHands",
+      "description": "🙌 OpenHands: AI-Driven Development",
+      "language": "TypeScript",
+      "stars": 84951,
+      "stars_today": 84951,
+      "url": "https://github.com/OpenHands/OpenHands"
     }
   ]
 }

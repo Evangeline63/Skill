@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-24T12:20:43Z",
+    "updated": "2026-08-24T15:26:23Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-24T12:20:43Z",
+    "updated": "2026-08-24T15:26:23Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-24T12:20:43Z",
+    "updated": "2026-08-24T15:26:23Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 186848,
-            "stars_today": 186848,
+            "stars": 186850,
+            "stars_today": 186850,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -288,44 +288,44 @@ window.__DATA__ = {
         },
         {
             "rank": 3,
-            "name": "hacksider/Deep-Live-Cam",
-            "description": "real time face swap and one-click video deepfake with only a single image",
-            "language": "Python",
-            "stars": 96095,
-            "stars_today": 96095,
-            "url": "https://github.com/hacksider/Deep-Live-Cam"
+            "name": "rasbt/LLMs-from-scratch",
+            "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+            "language": "Jupyter Notebook",
+            "stars": 103649,
+            "stars_today": 103649,
+            "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
             "rank": 4,
-            "name": "thedotmack/claude-mem",
-            "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
-            "language": "JavaScript",
-            "stars": 91669,
-            "stars_today": 91669,
-            "url": "https://github.com/thedotmack/claude-mem"
+            "name": "hacksider/Deep-Live-Cam",
+            "description": "real time face swap and one-click video deepfake with only a single image",
+            "language": "Python",
+            "stars": 96092,
+            "stars_today": 96092,
+            "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
             "rank": 5,
-            "name": "OpenHands/OpenHands",
-            "description": "🙌 OpenHands: AI-Driven Development",
-            "language": "TypeScript",
-            "stars": 84939,
-            "stars_today": 84939,
-            "url": "https://github.com/OpenHands/OpenHands"
+            "name": "thedotmack/claude-mem",
+            "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
+            "language": "JavaScript",
+            "stars": 91688,
+            "stars_today": 91688,
+            "url": "https://github.com/thedotmack/claude-mem"
         },
         {
             "rank": 6,
-            "name": "usestrix/strix",
-            "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-            "language": "Python",
-            "stars": 57603,
-            "stars_today": 57603,
-            "url": "https://github.com/usestrix/strix"
+            "name": "OpenHands/OpenHands",
+            "description": "🙌 OpenHands: AI-Driven Development",
+            "language": "TypeScript",
+            "stars": 84951,
+            "stars_today": 84951,
+            "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-24T12:20:43Z",
+    "updated": "2026-08-24T15:26:23Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-24T12:20:43Z",
+    "updated": "2026-08-24T15:26:23Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-24T12:20:43Z",
+    "updated": "2026-08-24T15:26:23Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "I were 17, I'd learn how to build LLMs from scratch",
-            "insight": "HN 热议：228 分 · 316 评论",
+            "insight": "HN 热议：348 分 · 465 评论",
             "sentiment": "positive",
-            "comments": 316,
+            "comments": 465,
             "url": "https://twitter.com/paulg/status/2091544343589060625",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "FDA clears blood test to aid evaluation for Alzheimer's disease",
-            "insight": "HN 热议：72 分 · 24 评论",
+            "title": "Anna's Archive Owes $340 Million, Lost Several Domains, but It's Still Online",
+            "insight": "HN 热议：18 分 · 2 评论",
             "sentiment": "neutral",
-            "comments": 24,
-            "url": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
+            "comments": 2,
+            "url": "https://torrentfreak.com/annas-archive-owes-340-million-lost-several-domains-but-its-still-online/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
-            "insight": "HN 热议：585 分 · 523 评论",
-            "sentiment": "positive",
-            "comments": 523,
-            "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+            "title": "FDA clears blood test to aid evaluation for Alzheimer's disease",
+            "insight": "HN 热议：121 分 · 49 评论",
+            "sentiment": "neutral",
+            "comments": 49,
+            "url": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "OCR It – pull text out of un-copyable documents for your LLM",
-            "insight": "HN 热议：68 分 · 11 评论",
-            "sentiment": "neutral",
-            "comments": 11,
-            "url": "https://github.com/thiagotigaz/ocr-it",
+            "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+            "insight": "HN 热议：687 分 · 603 评论",
+            "sentiment": "positive",
+            "comments": 603,
+            "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
             "id": 4
         },
         {
             "source": "HackerNews",
             "title": "Agent Is Not the Model",
-            "insight": "HN 热议：4 分 · 0 评论",
+            "insight": "HN 热议：48 分 · 19 评论",
             "sentiment": "neutral",
-            "comments": 0,
+            "comments": 19,
             "url": "https://code.joejag.com/2026/your-agent-is-not-the-model.html",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-24T12:20:43Z",
+    "updated": "2026-08-24T15:26:23Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
