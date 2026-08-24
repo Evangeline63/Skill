@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-24T03:42:14Z",
+  "updated": "2026-08-24T06:31:38Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
-      "insight": "HN 热议：286 分 · 248 评论",
+      "insight": "HN 热议：412 分 · 361 评论",
       "sentiment": "positive",
-      "comments": 248,
+      "comments": 361,
       "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "My agent.md to improve LLM-assisted code quality",
-      "insight": "HN 热议：201 分 · 86 评论",
+      "insight": "HN 热议：272 分 · 106 评论",
       "sentiment": "positive",
-      "comments": 86,
+      "comments": 106,
       "url": "https://fabiensanglard.net/agent.md/index.html",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "Google Workspace thinks my domain is an email provider (2025)",
-      "insight": "HN 热议：203 分 · 52 评论",
+      "insight": "HN 热议：256 分 · 76 评论",
       "sentiment": "positive",
-      "comments": 52,
+      "comments": 76,
       "url": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "How Complex Systems Fail (1998)",
-      "insight": "HN 热议：259 分 · 63 评论",
-      "sentiment": "positive",
-      "comments": 63,
-      "url": "https://how.complexsystems.fail/",
+      "title": "I built a low-latency AI companion that plays Skyrim with me",
+      "insight": "HN 热议：85 分 · 14 评论",
+      "sentiment": "neutral",
+      "comments": 14,
+      "url": "https://pantel.is/projects/ai-gaming-companion/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Implementation of GPT-2 in pure CMake",
-      "insight": "HN 热议：46 分 · 11 评论",
-      "sentiment": "neutral",
-      "comments": 11,
-      "url": "https://github.com/AlpinDale/gpt2.cmake",
+      "title": "How Complex Systems Fail (1998)",
+      "insight": "HN 热议：292 分 · 66 评论",
+      "sentiment": "positive",
+      "comments": 66,
+      "url": "https://how.complexsystems.fail/",
       "id": 5
     }
   ]
