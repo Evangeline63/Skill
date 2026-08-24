@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-24T00:31:46Z",
+    "updated": "2026-08-24T03:42:14Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-24T00:31:46Z",
+    "updated": "2026-08-24T03:42:14Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-24T00:31:46Z",
+    "updated": "2026-08-24T03:42:14Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 186830,
-            "stars_today": 186830,
+            "stars": 186833,
+            "stars_today": 186833,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 167820,
-            "stars_today": 167820,
+            "stars": 167825,
+            "stars_today": 167825,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 91614,
-            "stars_today": 91614,
+            "stars": 91627,
+            "stars_today": 91627,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 84877,
-            "stars_today": 84877,
+            "stars": 84892,
+            "stars_today": 84892,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 57430,
-            "stars_today": 57430,
+            "stars": 57470,
+            "stars_today": 57470,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-24T00:31:46Z",
+    "updated": "2026-08-24T03:42:14Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-24T00:31:46Z",
+    "updated": "2026-08-24T03:42:14Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-24T00:31:46Z",
+    "updated": "2026-08-24T03:42:14Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
-            "insight": "HN 热议：158 分 · 134 评论",
-            "sentiment": "neutral",
-            "comments": 134,
+            "insight": "HN 热议：286 分 · 248 评论",
+            "sentiment": "positive",
+            "comments": 248,
             "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "AI Chip Architectures",
-            "insight": "HN 热议：26 分 · 1 评论",
-            "sentiment": "neutral",
-            "comments": 1,
-            "url": "https://www.jepeake.com/ai-chip-architectures",
+            "title": "My agent.md to improve LLM-assisted code quality",
+            "insight": "HN 热议：201 分 · 86 评论",
+            "sentiment": "positive",
+            "comments": 86,
+            "url": "https://fabiensanglard.net/agent.md/index.html",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "Google Workspace thinks my domain is an email provider (2025)",
-            "insight": "HN 热议：152 分 · 34 评论",
-            "sentiment": "neutral",
-            "comments": 34,
+            "insight": "HN 热议：203 分 · 52 评论",
+            "sentiment": "positive",
+            "comments": 52,
             "url": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "My agent.md to improve LLM-assisted code quality",
-            "insight": "HN 热议：134 分 · 68 评论",
-            "sentiment": "neutral",
-            "comments": 68,
-            "url": "https://fabiensanglard.net/agent.md/index.html",
+            "title": "How Complex Systems Fail (1998)",
+            "insight": "HN 热议：259 分 · 63 评论",
+            "sentiment": "positive",
+            "comments": 63,
+            "url": "https://how.complexsystems.fail/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "How Complex Systems Fail (1998)",
-            "insight": "HN 热议：225 分 · 61 评论",
-            "sentiment": "positive",
-            "comments": 61,
-            "url": "https://how.complexsystems.fail/",
+            "title": "Implementation of GPT-2 in pure CMake",
+            "insight": "HN 热议：46 分 · 11 评论",
+            "sentiment": "neutral",
+            "comments": 11,
+            "url": "https://github.com/AlpinDale/gpt2.cmake",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-24T00:31:46Z",
+    "updated": "2026-08-24T03:42:14Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
