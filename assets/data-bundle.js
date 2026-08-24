@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-24T06:31:38Z",
+    "updated": "2026-08-24T09:33:14Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-24T06:31:38Z",
+    "updated": "2026-08-24T09:33:14Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-24T06:31:38Z",
+    "updated": "2026-08-24T09:33:14Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 186838,
-            "stars_today": 186838,
+            "stars": 186847,
+            "stars_today": 186847,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 167830,
-            "stars_today": 167830,
+            "stars": 167846,
+            "stars_today": 167846,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96093,
-            "stars_today": 96093,
+            "stars": 96095,
+            "stars_today": 96095,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 91637,
-            "stars_today": 91637,
+            "stars": 91648,
+            "stars_today": 91648,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 84901,
-            "stars_today": 84901,
+            "stars": 84922,
+            "stars_today": 84922,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 57508,
-            "stars_today": 57508,
+            "stars": 57560,
+            "stars_today": 57560,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-24T06:31:38Z",
+    "updated": "2026-08-24T09:33:14Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-24T06:31:38Z",
+    "updated": "2026-08-24T09:33:14Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-24T06:31:38Z",
+    "updated": "2026-08-24T09:33:14Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
-            "insight": "HN 热议：412 分 · 361 评论",
-            "sentiment": "positive",
-            "comments": 361,
-            "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+            "title": "I were 17, I'd learn how to build LLMs from scratch",
+            "insight": "HN 热议：95 分 · 183 评论",
+            "sentiment": "neutral",
+            "comments": 183,
+            "url": "https://twitter.com/paulg/status/2091544343589060625",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "My agent.md to improve LLM-assisted code quality",
-            "insight": "HN 热议：272 分 · 106 评论",
-            "sentiment": "positive",
-            "comments": 106,
-            "url": "https://fabiensanglard.net/agent.md/index.html",
+            "title": "FDA clears blood test to aid evaluation for Alzheimer's disease",
+            "insight": "HN 热议：38 分 · 10 评论",
+            "sentiment": "neutral",
+            "comments": 10,
+            "url": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Google Workspace thinks my domain is an email provider (2025)",
-            "insight": "HN 热议：256 分 · 76 评论",
+            "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+            "insight": "HN 热议：499 分 · 450 评论",
             "sentiment": "positive",
-            "comments": 76,
-            "url": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
+            "comments": 450,
+            "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "I built a low-latency AI companion that plays Skyrim with me",
-            "insight": "HN 热议：85 分 · 14 评论",
+            "title": "OCR It – pull text out of un-copyable documents for your LLM",
+            "insight": "HN 热议：25 分 · 7 评论",
             "sentiment": "neutral",
-            "comments": 14,
-            "url": "https://pantel.is/projects/ai-gaming-companion/",
+            "comments": 7,
+            "url": "https://github.com/thiagotigaz/ocr-it",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "How Complex Systems Fail (1998)",
-            "insight": "HN 热议：292 分 · 66 评论",
-            "sentiment": "positive",
-            "comments": 66,
-            "url": "https://how.complexsystems.fail/",
+            "title": "I built a low-latency AI companion that plays Skyrim with me",
+            "insight": "HN 热议：153 分 · 28 评论",
+            "sentiment": "neutral",
+            "comments": 28,
+            "url": "https://pantel.is/projects/ai-gaming-companion/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-24T06:31:38Z",
+    "updated": "2026-08-24T09:33:14Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

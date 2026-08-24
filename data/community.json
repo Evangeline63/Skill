@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-24T06:31:38Z",
+  "updated": "2026-08-24T09:33:14Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
-      "insight": "HN 热议：412 分 · 361 评论",
-      "sentiment": "positive",
-      "comments": 361,
-      "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+      "title": "I were 17, I'd learn how to build LLMs from scratch",
+      "insight": "HN 热议：95 分 · 183 评论",
+      "sentiment": "neutral",
+      "comments": 183,
+      "url": "https://twitter.com/paulg/status/2091544343589060625",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "My agent.md to improve LLM-assisted code quality",
-      "insight": "HN 热议：272 分 · 106 评论",
-      "sentiment": "positive",
-      "comments": 106,
-      "url": "https://fabiensanglard.net/agent.md/index.html",
+      "title": "FDA clears blood test to aid evaluation for Alzheimer's disease",
+      "insight": "HN 热议：38 分 · 10 评论",
+      "sentiment": "neutral",
+      "comments": 10,
+      "url": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Google Workspace thinks my domain is an email provider (2025)",
-      "insight": "HN 热议：256 分 · 76 评论",
+      "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+      "insight": "HN 热议：499 分 · 450 评论",
       "sentiment": "positive",
-      "comments": 76,
-      "url": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
+      "comments": 450,
+      "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "I built a low-latency AI companion that plays Skyrim with me",
-      "insight": "HN 热议：85 分 · 14 评论",
+      "title": "OCR It – pull text out of un-copyable documents for your LLM",
+      "insight": "HN 热议：25 分 · 7 评论",
       "sentiment": "neutral",
-      "comments": 14,
-      "url": "https://pantel.is/projects/ai-gaming-companion/",
+      "comments": 7,
+      "url": "https://github.com/thiagotigaz/ocr-it",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "How Complex Systems Fail (1998)",
-      "insight": "HN 热议：292 分 · 66 评论",
-      "sentiment": "positive",
-      "comments": 66,
-      "url": "https://how.complexsystems.fail/",
+      "title": "I built a low-latency AI companion that plays Skyrim with me",
+      "insight": "HN 热议：153 分 · 28 评论",
+      "sentiment": "neutral",
+      "comments": 28,
+      "url": "https://pantel.is/projects/ai-gaming-companion/",
       "id": 5
     }
   ]
