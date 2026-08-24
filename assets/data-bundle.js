@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-24T18:21:02Z",
+    "updated": "2026-08-24T21:16:39Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-24T18:21:02Z",
+    "updated": "2026-08-24T21:16:39Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,7 +266,7 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-24T18:21:02Z",
+    "updated": "2026-08-24T21:16:39Z",
     "repos": [
         {
             "rank": 1,
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 167858,
-            "stars_today": 167858,
+            "stars": 167857,
+            "stars_today": 167857,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 103668,
-            "stars_today": 103668,
+            "stars": 103678,
+            "stars_today": 103678,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96094,
-            "stars_today": 96094,
+            "stars": 96093,
+            "stars_today": 96093,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 91699,
-            "stars_today": 91699,
+            "stars": 91708,
+            "stars_today": 91708,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 84965,
-            "stars_today": 84965,
+            "stars": 84977,
+            "stars_today": 84977,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-24T18:21:02Z",
+    "updated": "2026-08-24T21:16:39Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-24T18:21:02Z",
+    "updated": "2026-08-24T21:16:39Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-24T18:21:02Z",
+    "updated": "2026-08-24T21:16:39Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
-            "insight": "HN 热议：242 分 · 104 评论",
+            "insight": "HN 热议：431 分 · 164 评论",
             "sentiment": "positive",
-            "comments": 104,
+            "comments": 164,
             "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "IPFS Maintainers Winding Down",
-            "insight": "HN 热议：157 分 · 65 评论",
-            "sentiment": "neutral",
-            "comments": 65,
+            "insight": "HN 热议：275 分 · 140 评论",
+            "sentiment": "positive",
+            "comments": 140,
             "url": "https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Coding expertise is going to collapse from AI reliance",
-            "insight": "HN 热议：230 分 · 252 评论",
-            "sentiment": "positive",
-            "comments": 252,
-            "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
+            "title": "A Claude Code skill that recovers export-blocked Kindle highlights",
+            "insight": "HN 热议：37 分 · 6 评论",
+            "sentiment": "neutral",
+            "comments": 6,
+            "url": "https://github.com/l3a0/claude-plugins",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: PicoMQ – Durable Streams over HTTP, on object storage",
-            "insight": "HN 热议：30 分 · 0 评论",
+            "title": "LLMs could control their host machines by exploiting inference engines",
+            "insight": "HN 热议：44 分 · 23 评论",
             "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://picomq.com/",
+            "comments": 23,
+            "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
-            "insight": "HN 热议：165 分 · 161 评论",
+            "title": "Show HN: PicoMQ – Durable Streams over HTTP, on object storage",
+            "insight": "HN 热议：62 分 · 9 评论",
             "sentiment": "neutral",
-            "comments": 161,
-            "url": "https://developers.openai.com/api/docs/pricing",
+            "comments": 9,
+            "url": "https://picomq.com/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-24T18:21:02Z",
+    "updated": "2026-08-24T21:16:39Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
