@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-23T21:09:36Z",
+  "updated": "2026-08-24T00:31:46Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "How Complex Systems Fail (1998)",
-      "insight": "HN 热议：170 分 · 49 评论",
+      "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+      "insight": "HN 热议：158 分 · 134 评论",
       "sentiment": "neutral",
-      "comments": 49,
-      "url": "https://how.complexsystems.fail/",
+      "comments": 134,
+      "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "My agent.md to improve LLM-assisted code quality",
-      "insight": "HN 热议：42 分 · 20 评论",
+      "title": "AI Chip Architectures",
+      "insight": "HN 热议：26 分 · 1 评论",
       "sentiment": "neutral",
-      "comments": 20,
-      "url": "https://fabiensanglard.net/agent.md/index.html",
+      "comments": 1,
+      "url": "https://www.jepeake.com/ai-chip-architectures",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Explain it to me like I'm ten",
-      "insight": "HN 热议：35 分 · 18 评论",
+      "title": "Google Workspace thinks my domain is an email provider (2025)",
+      "insight": "HN 热议：152 分 · 34 评论",
       "sentiment": "neutral",
-      "comments": 18,
-      "url": "https://timharford.com/2026/08/explain-it-to-me-like-im-ten/",
+      "comments": 34,
+      "url": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
-      "insight": "HN 热议：547 分 · 237 评论",
-      "sentiment": "positive",
-      "comments": 237,
-      "url": "https://ericpardee.github.io/fire-hd-ownership/",
+      "title": "My agent.md to improve LLM-assisted code quality",
+      "insight": "HN 热议：134 分 · 68 评论",
+      "sentiment": "neutral",
+      "comments": 68,
+      "url": "https://fabiensanglard.net/agent.md/index.html",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026)",
-      "insight": "HN 热议：11 分 · 0 评论",
-      "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://www.spheron.network/blog/etched-ai-sohu-vs-nvidia-transformer-asic-inference/",
+      "title": "How Complex Systems Fail (1998)",
+      "insight": "HN 热议：225 分 · 61 评论",
+      "sentiment": "positive",
+      "comments": 61,
+      "url": "https://how.complexsystems.fail/",
       "id": 5
     }
   ]
