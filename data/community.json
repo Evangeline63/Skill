@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-25T18:20:15Z",
+  "updated": "2026-08-25T21:15:05Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Run Minecraft in a Windows sandbox for computer use agents",
-      "insight": "HN 热议：11 分 · 1 评论",
+      "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
+      "insight": "HN 热议：177 分 · 121 评论",
       "sentiment": "neutral",
-      "comments": 1,
-      "url": "https://cua.ai/docs/how-to-guides/sandbox/minecraft",
+      "comments": 121,
+      "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
-      "insight": "HN 热议：586 分 · 185 评论",
-      "sentiment": "positive",
-      "comments": 185,
-      "url": "https://developer.apple.com/news/?id=1ptvdtcm",
+      "title": "Show HN: I made a Raspberry with Qwen my local car AI",
+      "insight": "HN 热议：55 分 · 12 评论",
+      "sentiment": "neutral",
+      "comments": 12,
+      "url": "https://github.com/ThinkOffApp/CarWatch",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Anthropic tells staff to work from home due to possible security team strike",
-      "insight": "HN 热议：97 分 · 96 评论",
+      "title": "OpenAI's Head of Data Centers Has Left the Company",
+      "insight": "HN 热议：19 分 · 3 评论",
       "sentiment": "neutral",
-      "comments": 96,
-      "url": "https://www.businessinsider.com/anthropic-san-francisco-staff-work-remote-office-security-strike-2026-8",
+      "comments": 3,
+      "url": "https://www.wsj.com/tech/ai/openais-head-of-data-centers-has-left-company-6d24fd83",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Bookshelf – Self-hosted eBook library that runs on object storage",
-      "insight": "HN 热议：159 分 · 56 评论",
+      "title": "Training AI to Paint with Code",
+      "insight": "HN 热议：190 分 · 23 评论",
       "sentiment": "neutral",
-      "comments": 56,
-      "url": "https://github.com/murerkinn/bookshelf",
+      "comments": 23,
+      "url": "https://surya.website/rling-qwen-to-paint-with-code",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
-      "insight": "HN 热议：115 分 · 111 评论",
-      "sentiment": "neutral",
-      "comments": 111,
-      "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
+      "title": "How much of HN is AI?",
+      "insight": "HN 热议：229 分 · 246 评论",
+      "sentiment": "positive",
+      "comments": 246,
+      "url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
       "id": 5
     }
   ]
