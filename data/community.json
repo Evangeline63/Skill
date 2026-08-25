@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-24T21:16:39Z",
+  "updated": "2026-08-25T00:31:16Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
-      "insight": "HN 热议：431 分 · 164 评论",
-      "sentiment": "positive",
-      "comments": 164,
-      "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
+      "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
+      "insight": "HN 热议：163 分 · 34 评论",
+      "sentiment": "neutral",
+      "comments": 34,
+      "url": "https://developer.apple.com/news/?id=1ptvdtcm",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "IPFS Maintainers Winding Down",
-      "insight": "HN 热议：275 分 · 140 评论",
+      "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
+      "insight": "HN 热议：532 分 · 214 评论",
       "sentiment": "positive",
-      "comments": 140,
-      "url": "https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/",
+      "comments": 214,
+      "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "A Claude Code skill that recovers export-blocked Kindle highlights",
-      "insight": "HN 热议：37 分 · 6 评论",
+      "title": "Vintage Artificial Intelligence: Before It Got Awkward",
+      "insight": "HN 热议：48 分 · 6 评论",
       "sentiment": "neutral",
       "comments": 6,
-      "url": "https://github.com/l3a0/claude-plugins",
+      "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "LLMs could control their host machines by exploiting inference engines",
-      "insight": "HN 热议：44 分 · 23 评论",
-      "sentiment": "neutral",
-      "comments": 23,
-      "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
+      "title": "IPFS Maintainers Winding Down",
+      "insight": "HN 热议：315 分 · 159 评论",
+      "sentiment": "positive",
+      "comments": 159,
+      "url": "https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: PicoMQ – Durable Streams over HTTP, on object storage",
-      "insight": "HN 热议：62 分 · 9 评论",
+      "title": "LLMs could control their host machines by exploiting inference engines",
+      "insight": "HN 热议：83 分 · 44 评论",
       "sentiment": "neutral",
-      "comments": 9,
-      "url": "https://picomq.com/",
+      "comments": 44,
+      "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
       "id": 5
     }
   ]
