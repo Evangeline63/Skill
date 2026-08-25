@@ -1,46 +1,46 @@
 {
-  "updated": "2026-08-25T06:22:47Z",
+  "updated": "2026-08-25T09:22:07Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
-      "insight": "HN 热议：371 分 · 95 评论",
+      "insight": "HN 热议：455 分 · 125 评论",
       "sentiment": "positive",
-      "comments": 95,
+      "comments": 125,
       "url": "https://developer.apple.com/news/?id=1ptvdtcm",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
-      "insight": "HN 热议：649 分 · 261 评论",
+      "insight": "HN 热议：705 分 · 304 评论",
       "sentiment": "positive",
-      "comments": 261,
+      "comments": 304,
       "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "Headlong: A Microharness for Persistent Agents",
-      "insight": "HN 热议：29 分 · 10 评论",
+      "insight": "HN 热议：54 分 · 20 评论",
       "sentiment": "neutral",
-      "comments": 10,
+      "comments": 20,
       "url": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "Bookshelf – Self-hosted eBook library that runs on object storage",
-      "insight": "HN 热议：73 分 · 32 评论",
+      "insight": "HN 热议：95 分 · 35 评论",
       "sentiment": "neutral",
-      "comments": 32,
+      "comments": 35,
       "url": "https://github.com/murerkinn/bookshelf",
       "id": 4
     },
     {
       "source": "HackerNews",
       "title": "Vintage Artificial Intelligence: Before It Got Awkward",
-      "insight": "HN 热议：77 分 · 18 评论",
+      "insight": "HN 热议：96 分 · 18 评论",
       "sentiment": "neutral",
       "comments": 18,
       "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
