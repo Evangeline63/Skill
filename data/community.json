@@ -1,48 +1,48 @@
 {
-  "updated": "2026-08-25T09:22:07Z",
+  "updated": "2026-08-25T12:21:26Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
-      "insight": "HN 热议：455 分 · 125 评论",
+      "insight": "HN 热议：505 分 · 152 评论",
       "sentiment": "positive",
-      "comments": 125,
+      "comments": 152,
       "url": "https://developer.apple.com/news/?id=1ptvdtcm",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
-      "insight": "HN 热议：705 分 · 304 评论",
+      "insight": "HN 热议：749 分 · 357 评论",
       "sentiment": "positive",
-      "comments": 304,
+      "comments": 357,
       "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Headlong: A Microharness for Persistent Agents",
-      "insight": "HN 热议：54 分 · 20 评论",
+      "title": "Bookshelf – Self-hosted eBook library that runs on object storage",
+      "insight": "HN 热议：117 分 · 45 评论",
       "sentiment": "neutral",
-      "comments": 20,
-      "url": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
+      "comments": 45,
+      "url": "https://github.com/murerkinn/bookshelf",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Bookshelf – Self-hosted eBook library that runs on object storage",
-      "insight": "HN 热议：95 分 · 35 评论",
+      "title": "Headlong: A Microharness for Persistent Agents",
+      "insight": "HN 热议：84 分 · 33 评论",
       "sentiment": "neutral",
-      "comments": 35,
-      "url": "https://github.com/murerkinn/bookshelf",
+      "comments": 33,
+      "url": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
       "id": 4
     },
     {
       "source": "HackerNews",
       "title": "Vintage Artificial Intelligence: Before It Got Awkward",
-      "insight": "HN 热议：96 分 · 18 评论",
+      "insight": "HN 热议：117 分 · 22 评论",
       "sentiment": "neutral",
-      "comments": 18,
+      "comments": 22,
       "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
       "id": 5
     }
