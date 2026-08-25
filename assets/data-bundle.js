@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-25T12:21:26Z",
+    "updated": "2026-08-25T15:30:48Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-25T12:21:26Z",
+    "updated": "2026-08-25T15:30:48Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-25T12:21:26Z",
+    "updated": "2026-08-25T15:30:48Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 186854,
-            "stars_today": 186854,
+            "stars": 186856,
+            "stars_today": 186856,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 167886,
-            "stars_today": 167886,
+            "stars": 167888,
+            "stars_today": 167888,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 103741,
-            "stars_today": 103741,
+            "stars": 103750,
+            "stars_today": 103750,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96107,
-            "stars_today": 96107,
+            "stars": 96109,
+            "stars_today": 96109,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 91780,
-            "stars_today": 91780,
+            "stars": 91798,
+            "stars_today": 91798,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 85053,
-            "stars_today": 85053,
+            "stars": 85074,
+            "stars_today": 85074,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-25T12:21:26Z",
+    "updated": "2026-08-25T15:30:48Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-25T12:21:26Z",
+    "updated": "2026-08-25T15:30:48Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-25T12:21:26Z",
+    "updated": "2026-08-25T15:30:48Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
-            "insight": "HN 热议：505 分 · 152 评论",
-            "sentiment": "positive",
-            "comments": 152,
-            "url": "https://developer.apple.com/news/?id=1ptvdtcm",
+            "title": "How much of HN is AI?",
+            "insight": "HN 热议：17 分 · 0 评论",
+            "sentiment": "neutral",
+            "comments": 0,
+            "url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
-            "insight": "HN 热议：749 分 · 357 评论",
+            "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+            "insight": "HN 热议：360 分 · 326 评论",
             "sentiment": "positive",
-            "comments": 357,
-            "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
+            "comments": 326,
+            "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Bookshelf – Self-hosted eBook library that runs on object storage",
-            "insight": "HN 热议：117 分 · 45 评论",
-            "sentiment": "neutral",
-            "comments": 45,
-            "url": "https://github.com/murerkinn/bookshelf",
+            "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
+            "insight": "HN 热议：557 分 · 175 评论",
+            "sentiment": "positive",
+            "comments": 175,
+            "url": "https://developer.apple.com/news/?id=1ptvdtcm",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Headlong: A Microharness for Persistent Agents",
-            "insight": "HN 热议：84 分 · 33 评论",
-            "sentiment": "neutral",
-            "comments": 33,
-            "url": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
+            "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
+            "insight": "HN 热议：801 分 · 400 评论",
+            "sentiment": "positive",
+            "comments": 400,
+            "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Vintage Artificial Intelligence: Before It Got Awkward",
-            "insight": "HN 热议：117 分 · 22 评论",
+            "title": "Bookshelf – Self-hosted eBook library that runs on object storage",
+            "insight": "HN 热议：145 分 · 53 评论",
             "sentiment": "neutral",
-            "comments": 22,
-            "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
+            "comments": 53,
+            "url": "https://github.com/murerkinn/bookshelf",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-25T12:21:26Z",
+    "updated": "2026-08-25T15:30:48Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

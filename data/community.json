@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-25T12:21:26Z",
+  "updated": "2026-08-25T15:30:48Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
-      "insight": "HN 热议：505 分 · 152 评论",
-      "sentiment": "positive",
-      "comments": 152,
-      "url": "https://developer.apple.com/news/?id=1ptvdtcm",
+      "title": "How much of HN is AI?",
+      "insight": "HN 热议：17 分 · 0 评论",
+      "sentiment": "neutral",
+      "comments": 0,
+      "url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
-      "insight": "HN 热议：749 分 · 357 评论",
+      "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+      "insight": "HN 热议：360 分 · 326 评论",
       "sentiment": "positive",
-      "comments": 357,
-      "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
+      "comments": 326,
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Bookshelf – Self-hosted eBook library that runs on object storage",
-      "insight": "HN 热议：117 分 · 45 评论",
-      "sentiment": "neutral",
-      "comments": 45,
-      "url": "https://github.com/murerkinn/bookshelf",
+      "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
+      "insight": "HN 热议：557 分 · 175 评论",
+      "sentiment": "positive",
+      "comments": 175,
+      "url": "https://developer.apple.com/news/?id=1ptvdtcm",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Headlong: A Microharness for Persistent Agents",
-      "insight": "HN 热议：84 分 · 33 评论",
-      "sentiment": "neutral",
-      "comments": 33,
-      "url": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
+      "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
+      "insight": "HN 热议：801 分 · 400 评论",
+      "sentiment": "positive",
+      "comments": 400,
+      "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Vintage Artificial Intelligence: Before It Got Awkward",
-      "insight": "HN 热议：117 分 · 22 评论",
+      "title": "Bookshelf – Self-hosted eBook library that runs on object storage",
+      "insight": "HN 热议：145 分 · 53 评论",
       "sentiment": "neutral",
-      "comments": 22,
-      "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
+      "comments": 53,
+      "url": "https://github.com/murerkinn/bookshelf",
       "id": 5
     }
   ]
