@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-25T03:37:21Z",
+  "updated": "2026-08-25T06:22:47Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
-      "insight": "HN 热议：281 分 · 71 评论",
+      "insight": "HN 热议：371 分 · 95 评论",
       "sentiment": "positive",
-      "comments": 71,
+      "comments": 95,
       "url": "https://developer.apple.com/news/?id=1ptvdtcm",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
-      "insight": "HN 热议：595 分 · 236 评论",
+      "insight": "HN 热议：649 分 · 261 评论",
       "sentiment": "positive",
-      "comments": 236,
+      "comments": 261,
       "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Bookshelf – Self-hosted eBook library that runs on object storage",
-      "insight": "HN 热议：54 分 · 16 评论",
+      "title": "Headlong: A Microharness for Persistent Agents",
+      "insight": "HN 热议：29 分 · 10 评论",
       "sentiment": "neutral",
-      "comments": 16,
-      "url": "https://github.com/murerkinn/bookshelf",
+      "comments": 10,
+      "url": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Vintage Artificial Intelligence: Before It Got Awkward",
-      "insight": "HN 热议：63 分 · 13 评论",
+      "title": "Bookshelf – Self-hosted eBook library that runs on object storage",
+      "insight": "HN 热议：73 分 · 32 评论",
       "sentiment": "neutral",
-      "comments": 13,
-      "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
+      "comments": 32,
+      "url": "https://github.com/murerkinn/bookshelf",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "LLMs could control their host machines by exploiting inference engines",
-      "insight": "HN 热议：107 分 · 55 评论",
+      "title": "Vintage Artificial Intelligence: Before It Got Awkward",
+      "insight": "HN 热议：77 分 · 18 评论",
       "sentiment": "neutral",
-      "comments": 55,
-      "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
+      "comments": 18,
+      "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
       "id": 5
     }
   ]

@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-25T03:37:21Z",
+  "updated": "2026-08-25T06:22:47Z",
   "repos": [
     {
       "rank": 1,
       "name": "Significant-Gravitas/AutoGPT",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
       "language": "Python",
-      "stars": 186853,
-      "stars_today": 186853,
+      "stars": 186852,
+      "stars_today": 186852,
       "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
@@ -15,8 +15,8 @@
       "name": "f/prompts.chat",
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
       "language": "HTML",
-      "stars": 167867,
-      "stars_today": 167867,
+      "stars": 167871,
+      "stars_today": 167871,
       "url": "https://github.com/f/prompts.chat"
     },
     {
@@ -24,8 +24,8 @@
       "name": "rasbt/LLMs-from-scratch",
       "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
       "language": "Jupyter Notebook",
-      "stars": 103697,
-      "stars_today": 103697,
+      "stars": 103711,
+      "stars_today": 103711,
       "url": "https://github.com/rasbt/LLMs-from-scratch"
     },
     {
@@ -33,8 +33,8 @@
       "name": "hacksider/Deep-Live-Cam",
       "description": "real time face swap and one-click video deepfake with only a single image",
       "language": "Python",
-      "stars": 96094,
-      "stars_today": 96094,
+      "stars": 96096,
+      "stars_today": 96096,
       "url": "https://github.com/hacksider/Deep-Live-Cam"
     },
     {
@@ -42,8 +42,8 @@
       "name": "thedotmack/claude-mem",
       "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
       "language": "JavaScript",
-      "stars": 91739,
-      "stars_today": 91739,
+      "stars": 91749,
+      "stars_today": 91749,
       "url": "https://github.com/thedotmack/claude-mem"
     },
     {
@@ -51,8 +51,8 @@
       "name": "OpenHands/OpenHands",
       "description": "🙌 OpenHands: AI-Driven Development",
       "language": "TypeScript",
-      "stars": 84999,
-      "stars_today": 84999,
+      "stars": 85008,
+      "stars_today": 85008,
       "url": "https://github.com/OpenHands/OpenHands"
     }
   ]
