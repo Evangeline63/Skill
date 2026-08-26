@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-25T21:15:05Z",
+  "updated": "2026-08-26T00:32:28Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
-      "insight": "HN 热议：177 分 · 121 评论",
-      "sentiment": "neutral",
-      "comments": 121,
+      "insight": "HN 热议：293 分 · 199 评论",
+      "sentiment": "positive",
+      "comments": 199,
       "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: I made a Raspberry with Qwen my local car AI",
-      "insight": "HN 热议：55 分 · 12 评论",
+      "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
+      "insight": "HN 热议：16 分 · 0 评论",
       "sentiment": "neutral",
-      "comments": 12,
-      "url": "https://github.com/ThinkOffApp/CarWatch",
+      "comments": 0,
+      "url": "https://github.com/runetes/maiao",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "OpenAI's Head of Data Centers Has Left the Company",
-      "insight": "HN 热议：19 分 · 3 评论",
+      "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
+      "insight": "HN 热议：34 分 · 7 评论",
       "sentiment": "neutral",
-      "comments": 3,
-      "url": "https://www.wsj.com/tech/ai/openais-head-of-data-centers-has-left-company-6d24fd83",
+      "comments": 7,
+      "url": "https://github.com/swimmingbrain/texbrain",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Training AI to Paint with Code",
-      "insight": "HN 热议：190 分 · 23 评论",
+      "title": "Show HN: I made a Raspberry with Qwen my local car AI",
+      "insight": "HN 热议：87 分 · 18 评论",
       "sentiment": "neutral",
-      "comments": 23,
-      "url": "https://surya.website/rling-qwen-to-paint-with-code",
+      "comments": 18,
+      "url": "https://github.com/ThinkOffApp/CarWatch",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "How much of HN is AI?",
-      "insight": "HN 热议：229 分 · 246 评论",
-      "sentiment": "positive",
-      "comments": 246,
-      "url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
+      "title": "Training AI to Paint with Code",
+      "insight": "HN 热议：194 分 · 22 评论",
+      "sentiment": "neutral",
+      "comments": 22,
+      "url": "https://surya.website/rling-qwen-to-paint-with-code",
       "id": 5
     }
   ]
