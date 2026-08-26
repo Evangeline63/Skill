@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-26T03:41:53Z",
+    "updated": "2026-08-26T06:25:00Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-26T03:41:53Z",
+    "updated": "2026-08-26T06:25:00Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-26T03:41:53Z",
+    "updated": "2026-08-26T06:25:00Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 186871,
-            "stars_today": 186871,
+            "stars": 186874,
+            "stars_today": 186874,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 167908,
-            "stars_today": 167908,
+            "stars": 167911,
+            "stars_today": 167911,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 103794,
-            "stars_today": 103794,
+            "stars": 103800,
+            "stars_today": 103800,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96119,
-            "stars_today": 96119,
+            "stars": 96120,
+            "stars_today": 96120,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 91849,
-            "stars_today": 91849,
+            "stars": 91854,
+            "stars_today": 91854,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 85109,
-            "stars_today": 85109,
+            "stars": 85122,
+            "stars_today": 85122,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-26T03:41:53Z",
+    "updated": "2026-08-26T06:25:00Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-26T03:41:53Z",
+    "updated": "2026-08-26T06:25:00Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-26T03:41:53Z",
+    "updated": "2026-08-26T06:25:00Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
-            "insight": "HN 热议：369 分 · 256 评论",
+            "insight": "HN 热议：414 分 · 274 评论",
             "sentiment": "positive",
-            "comments": 256,
+            "comments": 274,
             "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
-            "insight": "HN 热议：43 分 · 18 评论",
+            "insight": "HN 热议：59 分 · 30 评论",
             "sentiment": "neutral",
-            "comments": 18,
+            "comments": 30,
             "url": "https://github.com/runetes/maiao",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
-            "insight": "HN 热议：61 分 · 11 评论",
+            "title": "Agentic Context Management: Memory and Cost as Architecture Problems",
+            "insight": "HN 热议：21 分 · 7 评论",
             "sentiment": "neutral",
-            "comments": 11,
-            "url": "https://github.com/swimmingbrain/texbrain",
+            "comments": 7,
+            "url": "https://arxiv.org/abs/2607.21503",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "The brain may be about to have its Ozempic moment",
-            "insight": "HN 热议：59 分 · 42 评论",
+            "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
+            "insight": "HN 热议：74 分 · 16 评论",
             "sentiment": "neutral",
-            "comments": 42,
-            "url": "https://www.economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment",
+            "comments": 16,
+            "url": "https://github.com/swimmingbrain/texbrain",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Ask HN: What is one simple thing LLMs are insanely bad at?",
-            "insight": "HN 热议：7 分 · 10 评论",
+            "title": "Show HN: I made a Raspberry with Qwen my local car AI",
+            "insight": "HN 热议：122 分 · 34 评论",
             "sentiment": "neutral",
-            "comments": 10,
-            "url": "https://news.ycombinator.com/item?id=49443820",
+            "comments": 34,
+            "url": "https://github.com/ThinkOffApp/CarWatch",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-26T03:41:53Z",
+    "updated": "2026-08-26T06:25:00Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
