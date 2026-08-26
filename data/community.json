@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-26T12:23:10Z",
+  "updated": "2026-08-26T16:07:21Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "RAG Is Simpler Than You Think",
-      "insight": "HN 热议：147 分 · 68 评论",
+      "title": "Launch HN: Risklytics (YC S26) – Insurance brokerage for frontier tech companies",
+      "insight": "HN 热议：2 分 · 0 评论",
       "sentiment": "neutral",
-      "comments": 68,
-      "url": "https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think",
+      "comments": 0,
+      "url": "https://www.risklytics.ai/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
-      "insight": "HN 热议：165 分 · 67 评论",
+      "title": "France reaches 94.9% fiber coverage in 2026",
+      "insight": "HN 热议：71 分 · 19 评论",
       "sentiment": "neutral",
-      "comments": 67,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
+      "comments": 19,
+      "url": "https://cartefibre.arcep.fr",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
-      "insight": "HN 热议：519 分 · 329 评论",
-      "sentiment": "positive",
-      "comments": 329,
-      "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
+      "title": "WebMCP: Teaching Your Website to Talk to AI Agents",
+      "insight": "HN 热议：32 分 · 27 评论",
+      "sentiment": "neutral",
+      "comments": 27,
+      "url": "https://sreenathmenon.com/blog/2026-08-04-webmcp-teaching-websites-to-talk-to-ai-agents/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
-      "insight": "HN 热议：95 分 · 56 评论",
+      "title": "It's so hard to finish an idea that is not yours (and suggested by AI)",
+      "insight": "HN 热议：8 分 · 1 评论",
       "sentiment": "neutral",
-      "comments": 56,
-      "url": "https://github.com/runetes/maiao",
+      "comments": 1,
+      "url": "https://www.ssp.sh/brain/using-obsidian-with-ai/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Debian polls its developers on AI: permit or ban?",
-      "insight": "HN 热议：22 分 · 17 评论",
+      "title": "Show HN: How much of Hacker News is AI?",
+      "insight": "HN 热议：33 分 · 21 评论",
       "sentiment": "neutral",
-      "comments": 17,
-      "url": "https://www.theregister.com/ai-and-ml/2026/08/26/debian-polls-its-developers-on-whether-to-burn-the-bots-tame-the-bots-or-let-em-loose/5292270",
+      "comments": 21,
+      "url": "https://hnstats.com",
       "id": 5
     }
   ]
