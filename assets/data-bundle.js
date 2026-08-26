@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-26T09:27:58Z",
+    "updated": "2026-08-26T12:23:10Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-26T09:27:58Z",
+    "updated": "2026-08-26T12:23:10Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-26T09:27:58Z",
+    "updated": "2026-08-26T12:23:10Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 186876,
-            "stars_today": 186876,
+            "stars": 186880,
+            "stars_today": 186880,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 167924,
-            "stars_today": 167924,
+            "stars": 167932,
+            "stars_today": 167932,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 103817,
-            "stars_today": 103817,
+            "stars": 103820,
+            "stars_today": 103820,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 91875,
-            "stars_today": 91875,
+            "stars": 91891,
+            "stars_today": 91891,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 85132,
-            "stars_today": 85132,
+            "stars": 85144,
+            "stars_today": 85144,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-26T09:27:58Z",
+    "updated": "2026-08-26T12:23:10Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-26T09:27:58Z",
+    "updated": "2026-08-26T12:23:10Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-26T09:27:58Z",
+    "updated": "2026-08-26T12:23:10Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
-            "insight": "HN 热议：477 分 · 308 评论",
-            "sentiment": "positive",
-            "comments": 308,
-            "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
+            "title": "RAG Is Simpler Than You Think",
+            "insight": "HN 热议：147 分 · 68 评论",
+            "sentiment": "neutral",
+            "comments": 68,
+            "url": "https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
-            "insight": "HN 热议：80 分 · 44 评论",
+            "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
+            "insight": "HN 热议：165 分 · 67 评论",
             "sentiment": "neutral",
-            "comments": 44,
-            "url": "https://github.com/runetes/maiao",
+            "comments": 67,
+            "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Agentic Context Management: Memory and Cost as Architecture Problems",
-            "insight": "HN 热议：53 分 · 17 评论",
-            "sentiment": "neutral",
-            "comments": 17,
-            "url": "https://arxiv.org/abs/2607.21503",
+            "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
+            "insight": "HN 热议：519 分 · 329 评论",
+            "sentiment": "positive",
+            "comments": 329,
+            "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Disrupting a new covert influence campaign from Russia",
-            "insight": "HN 热议：45 分 · 26 评论",
+            "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
+            "insight": "HN 热议：95 分 · 56 评论",
             "sentiment": "neutral",
-            "comments": 26,
-            "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/",
+            "comments": 56,
+            "url": "https://github.com/runetes/maiao",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: I made a Raspberry with Qwen my local car AI",
-            "insight": "HN 热议：138 分 · 40 评论",
+            "title": "Debian polls its developers on AI: permit or ban?",
+            "insight": "HN 热议：22 分 · 17 评论",
             "sentiment": "neutral",
-            "comments": 40,
-            "url": "https://github.com/ThinkOffApp/CarWatch",
+            "comments": 17,
+            "url": "https://www.theregister.com/ai-and-ml/2026/08/26/debian-polls-its-developers-on-whether-to-burn-the-bots-tame-the-bots-or-let-em-loose/5292270",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-26T09:27:58Z",
+    "updated": "2026-08-26T12:23:10Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
