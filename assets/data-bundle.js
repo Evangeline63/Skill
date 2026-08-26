@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-26T16:07:21Z",
+    "updated": "2026-08-26T19:28:41Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-26T16:07:21Z",
+    "updated": "2026-08-26T19:28:41Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-26T16:07:21Z",
+    "updated": "2026-08-26T19:28:41Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 186883,
-            "stars_today": 186883,
+            "stars": 186889,
+            "stars_today": 186889,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 167940,
-            "stars_today": 167940,
+            "stars": 167958,
+            "stars_today": 167958,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 103832,
-            "stars_today": 103832,
+            "stars": 103843,
+            "stars_today": 103843,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96130,
-            "stars_today": 96130,
+            "stars": 96132,
+            "stars_today": 96132,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 91914,
-            "stars_today": 91914,
+            "stars": 91925,
+            "stars_today": 91925,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 85168,
-            "stars_today": 85168,
+            "stars": 85183,
+            "stars_today": 85183,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-26T16:07:21Z",
+    "updated": "2026-08-26T19:28:41Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-26T16:07:21Z",
+    "updated": "2026-08-26T19:28:41Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-26T16:07:21Z",
+    "updated": "2026-08-26T19:28:41Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Launch HN: Risklytics (YC S26) – Insurance brokerage for frontier tech companies",
-            "insight": "HN 热议：2 分 · 0 评论",
+            "title": "Tailcat",
+            "insight": "HN 热议：162 分 · 27 评论",
             "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://www.risklytics.ai/",
+            "comments": 27,
+            "url": "https://github.com/tailscale/tailcat",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "France reaches 94.9% fiber coverage in 2026",
-            "insight": "HN 热议：71 分 · 19 评论",
+            "title": "Study Reveals UnitedHealth's Profit Margins Four Times What It Claimed [pdf]",
+            "insight": "HN 热议：91 分 · 31 评论",
             "sentiment": "neutral",
-            "comments": 19,
-            "url": "https://cartefibre.arcep.fr",
+            "comments": 31,
+            "url": "https://insurancewatchdogcoalition.com/wp-content/uploads/2026/08/UHG-Profits-Study_August-2026.pdf",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "WebMCP: Teaching Your Website to Talk to AI Agents",
-            "insight": "HN 热议：32 分 · 27 评论",
+            "title": "It’s so hard to finish an idea that is not yours and is just suggested by AI",
+            "insight": "HN 热议：97 分 · 56 评论",
             "sentiment": "neutral",
-            "comments": 27,
-            "url": "https://sreenathmenon.com/blog/2026-08-04-webmcp-teaching-websites-to-talk-to-ai-agents/",
+            "comments": 56,
+            "url": "https://www.ssp.sh/brain/using-obsidian-with-ai/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "It's so hard to finish an idea that is not yours (and suggested by AI)",
-            "insight": "HN 热议：8 分 · 1 评论",
+            "title": "PageRank explained",
+            "insight": "HN 热议：84 分 · 62 评论",
             "sentiment": "neutral",
-            "comments": 1,
-            "url": "https://www.ssp.sh/brain/using-obsidian-with-ai/",
+            "comments": 62,
+            "url": "https://praveshkoirala.com/2026/08/26/you-could-have-invented-pagerank/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: How much of Hacker News is AI?",
-            "insight": "HN 热议：33 分 · 21 评论",
-            "sentiment": "neutral",
-            "comments": 21,
-            "url": "https://hnstats.com",
+            "title": "RAG Is Simpler Than You Think",
+            "insight": "HN 热议：372 分 · 165 评论",
+            "sentiment": "positive",
+            "comments": 165,
+            "url": "https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-26T16:07:21Z",
+    "updated": "2026-08-26T19:28:41Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

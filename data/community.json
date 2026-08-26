@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-26T16:07:21Z",
+  "updated": "2026-08-26T19:28:41Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Launch HN: Risklytics (YC S26) – Insurance brokerage for frontier tech companies",
-      "insight": "HN 热议：2 分 · 0 评论",
+      "title": "Tailcat",
+      "insight": "HN 热议：162 分 · 27 评论",
       "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://www.risklytics.ai/",
+      "comments": 27,
+      "url": "https://github.com/tailscale/tailcat",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "France reaches 94.9% fiber coverage in 2026",
-      "insight": "HN 热议：71 分 · 19 评论",
+      "title": "Study Reveals UnitedHealth's Profit Margins Four Times What It Claimed [pdf]",
+      "insight": "HN 热议：91 分 · 31 评论",
       "sentiment": "neutral",
-      "comments": 19,
-      "url": "https://cartefibre.arcep.fr",
+      "comments": 31,
+      "url": "https://insurancewatchdogcoalition.com/wp-content/uploads/2026/08/UHG-Profits-Study_August-2026.pdf",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "WebMCP: Teaching Your Website to Talk to AI Agents",
-      "insight": "HN 热议：32 分 · 27 评论",
+      "title": "It’s so hard to finish an idea that is not yours and is just suggested by AI",
+      "insight": "HN 热议：97 分 · 56 评论",
       "sentiment": "neutral",
-      "comments": 27,
-      "url": "https://sreenathmenon.com/blog/2026-08-04-webmcp-teaching-websites-to-talk-to-ai-agents/",
+      "comments": 56,
+      "url": "https://www.ssp.sh/brain/using-obsidian-with-ai/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "It's so hard to finish an idea that is not yours (and suggested by AI)",
-      "insight": "HN 热议：8 分 · 1 评论",
+      "title": "PageRank explained",
+      "insight": "HN 热议：84 分 · 62 评论",
       "sentiment": "neutral",
-      "comments": 1,
-      "url": "https://www.ssp.sh/brain/using-obsidian-with-ai/",
+      "comments": 62,
+      "url": "https://praveshkoirala.com/2026/08/26/you-could-have-invented-pagerank/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: How much of Hacker News is AI?",
-      "insight": "HN 热议：33 分 · 21 评论",
-      "sentiment": "neutral",
-      "comments": 21,
-      "url": "https://hnstats.com",
+      "title": "RAG Is Simpler Than You Think",
+      "insight": "HN 热议：372 分 · 165 评论",
+      "sentiment": "positive",
+      "comments": 165,
+      "url": "https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think",
       "id": 5
     }
   ]
