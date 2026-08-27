@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-27T00:18:47Z",
+  "updated": "2026-08-27T13:13:11Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Tailcat – Like netcat, but over Tailscale’s data plane",
-      "insight": "HN 热议：443 分 · 89 评论",
+      "insight": "HN 热议：609 分 · 109 评论",
       "sentiment": "positive",
-      "comments": 89,
+      "comments": 109,
       "url": "https://github.com/tailscale/tailcat",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Serve Markdown to AI Agents with Accept Headers",
-      "insight": "HN 热议：73 分 · 41 评论",
-      "sentiment": "neutral",
-      "comments": 41,
-      "url": "https://acceptmarkdown.com/",
+      "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
+      "insight": "HN 热议：740 分 · 501 评论",
+      "sentiment": "positive",
+      "comments": 501,
+      "url": "https://github.com/SenteLabsAI/OpenExecutive",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "The turbulent AI era is here",
-      "insight": "HN 热议：150 分 · 132 评论",
+      "title": "Laion Big Video Dataset",
+      "insight": "HN 热议：72 分 · 22 评论",
       "sentiment": "neutral",
-      "comments": 132,
-      "url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
+      "comments": 22,
+      "url": "https://projects.laion.ai/bvd/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Launch HN: Risklytics (YC S26) – Insurance brokerage for frontier tech companies",
-      "insight": "HN 热议：43 分 · 17 评论",
-      "sentiment": "neutral",
-      "comments": 17,
-      "url": "https://www.risklytics.ai/",
+      "title": "The turbulent AI era is here",
+      "insight": "HN 热议：297 分 · 292 评论",
+      "sentiment": "positive",
+      "comments": 292,
+      "url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "It’s so hard to finish an idea that is not yours and is just suggested by AI",
-      "insight": "HN 热议：162 分 · 90 评论",
+      "title": "Serve Markdown to AI Agents with Accept Headers",
+      "insight": "HN 热议：159 分 · 92 评论",
       "sentiment": "neutral",
-      "comments": 90,
-      "url": "https://www.ssp.sh/brain/using-obsidian-with-ai/",
+      "comments": 92,
+      "url": "https://acceptmarkdown.com/",
       "id": 5
     }
   ]
