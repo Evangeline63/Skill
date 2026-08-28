@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-28T00:07:38Z",
+    "updated": "2026-08-28T14:38:41Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-28T00:07:38Z",
+    "updated": "2026-08-28T14:38:41Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-28T00:07:38Z",
+    "updated": "2026-08-28T14:38:41Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 186937,
-            "stars_today": 186937,
+            "stars": 186964,
+            "stars_today": 186964,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 168085,
-            "stars_today": 168085,
+            "stars": 168112,
+            "stars_today": 168112,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 103916,
-            "stars_today": 103916,
+            "stars": 103939,
+            "stars_today": 103939,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96169,
-            "stars_today": 96169,
+            "stars": 96186,
+            "stars_today": 96186,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 92269,
-            "stars_today": 92269,
+            "stars": 92465,
+            "stars_today": 92465,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 85307,
-            "stars_today": 85307,
+            "stars": 85416,
+            "stars_today": 85416,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-28T00:07:38Z",
+    "updated": "2026-08-28T14:38:41Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-28T00:07:38Z",
+    "updated": "2026-08-28T14:38:41Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-28T00:07:38Z",
+    "updated": "2026-08-28T14:38:41Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Gemini-3.5-Transcribe",
-            "insight": "HN 热议：126 分 · 33 评论",
+            "title": "OpenAI: Migrating to HTTPX2",
+            "insight": "HN 热议：95 分 · 41 评论",
             "sentiment": "neutral",
-            "comments": 33,
-            "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
+            "comments": 41,
+            "url": "https://github.com/openai/openai-python/blob/main/httpx2.md",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab",
-            "insight": "HN 热议：26 分 · 0 评论",
+            "title": "I Used AWS Cognito for a Startup. I Wouldn't Do It Again",
+            "insight": "HN 热议：51 分 · 33 评论",
             "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://github.com/calmrocks/ai-engineer-notebooks",
+            "comments": 33,
+            "url": "https://joshkaramuth.com/blog/aws-cognito-authentication-startup-nightmare/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "The turbulent AI era is here",
-            "insight": "HN 热议：194 分 · 446 评论",
+            "title": "U.S. Sanctions Against the a/I Collective",
+            "insight": "HN 热议：100 分 · 66 评论",
             "sentiment": "neutral",
-            "comments": 446,
-            "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make?WT.mc_id=20260826_ai-overture-2026-med-med",
+            "comments": 66,
+            "url": "https://www.inventati.org/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Meta Paid $17B – Gets to Write Safety Rules for Other SocMedia Platform",
-            "insight": "HN 热议：108 分 · 12 评论",
-            "sentiment": "neutral",
-            "comments": 12,
-            "url": "https://www.techdirt.com/2026/08/26/meta-just-paid-nearly-17-billion-to-make-sure-it-gets-to-write-the-kid-safety-rules-for-every-other-social-media-platform/",
+            "title": "Pentagon's blacklisting of Anthropic was unlawful, US judge rules",
+            "insight": "HN 热议：203 分 · 73 评论",
+            "sentiment": "positive",
+            "comments": 73,
+            "url": "https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: The load-bearing vocabulary of Claude",
-            "insight": "HN 热议：313 分 · 151 评论",
-            "sentiment": "positive",
-            "comments": 151,
-            "url": "https://louisabraham.github.io/load-bearing/",
+            "title": "Luanti removed from Google Play due to baseless AI copyright notice",
+            "insight": "HN 热议：172 分 · 58 评论",
+            "sentiment": "neutral",
+            "comments": 58,
+            "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-28T00:07:38Z",
+    "updated": "2026-08-28T14:38:41Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
