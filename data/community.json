@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-27T13:13:11Z",
+  "updated": "2026-08-28T00:07:38Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Tailcat – Like netcat, but over Tailscale’s data plane",
-      "insight": "HN 热议：609 分 · 109 评论",
-      "sentiment": "positive",
-      "comments": 109,
-      "url": "https://github.com/tailscale/tailcat",
+      "title": "Gemini-3.5-Transcribe",
+      "insight": "HN 热议：126 分 · 33 评论",
+      "sentiment": "neutral",
+      "comments": 33,
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
-      "insight": "HN 热议：740 分 · 501 评论",
-      "sentiment": "positive",
-      "comments": 501,
-      "url": "https://github.com/SenteLabsAI/OpenExecutive",
+      "title": "AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab",
+      "insight": "HN 热议：26 分 · 0 评论",
+      "sentiment": "neutral",
+      "comments": 0,
+      "url": "https://github.com/calmrocks/ai-engineer-notebooks",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Laion Big Video Dataset",
-      "insight": "HN 热议：72 分 · 22 评论",
+      "title": "The turbulent AI era is here",
+      "insight": "HN 热议：194 分 · 446 评论",
       "sentiment": "neutral",
-      "comments": 22,
-      "url": "https://projects.laion.ai/bvd/",
+      "comments": 446,
+      "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make?WT.mc_id=20260826_ai-overture-2026-med-med",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "The turbulent AI era is here",
-      "insight": "HN 热议：297 分 · 292 评论",
-      "sentiment": "positive",
-      "comments": 292,
-      "url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
+      "title": "Meta Paid $17B – Gets to Write Safety Rules for Other SocMedia Platform",
+      "insight": "HN 热议：108 分 · 12 评论",
+      "sentiment": "neutral",
+      "comments": 12,
+      "url": "https://www.techdirt.com/2026/08/26/meta-just-paid-nearly-17-billion-to-make-sure-it-gets-to-write-the-kid-safety-rules-for-every-other-social-media-platform/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Serve Markdown to AI Agents with Accept Headers",
-      "insight": "HN 热议：159 分 · 92 评论",
-      "sentiment": "neutral",
-      "comments": 92,
-      "url": "https://acceptmarkdown.com/",
+      "title": "Show HN: The load-bearing vocabulary of Claude",
+      "insight": "HN 热议：313 分 · 151 评论",
+      "sentiment": "positive",
+      "comments": 151,
+      "url": "https://louisabraham.github.io/load-bearing/",
       "id": 5
     }
   ]
