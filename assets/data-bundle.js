@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-28T23:44:12Z",
+    "updated": "2026-08-29T04:30:38Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-28T23:44:12Z",
+    "updated": "2026-08-29T04:30:38Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-28T23:44:12Z",
+    "updated": "2026-08-29T04:30:38Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 186963,
-            "stars_today": 186963,
+            "stars": 186966,
+            "stars_today": 186966,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 168122,
-            "stars_today": 168122,
+            "stars": 168128,
+            "stars_today": 168128,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 103957,
-            "stars_today": 103957,
+            "stars": 103963,
+            "stars_today": 103963,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96187,
-            "stars_today": 96187,
+            "stars": 96186,
+            "stars_today": 96186,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 92511,
-            "stars_today": 92511,
+            "stars": 92527,
+            "stars_today": 92527,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 85471,
-            "stars_today": 85471,
+            "stars": 85482,
+            "stars_today": 85482,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-28T23:44:12Z",
+    "updated": "2026-08-29T04:30:38Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-28T23:44:12Z",
+    "updated": "2026-08-29T04:30:38Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-28T23:44:12Z",
+    "updated": "2026-08-29T04:30:38Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "U.S. sanctions against the A/I Collective",
-            "insight": "HN 热议：446 分 · 411 评论",
-            "sentiment": "positive",
-            "comments": 411,
-            "url": "https://www.inventati.org/",
+            "title": "I accidentally turned LLM memory into program analysis",
+            "insight": "HN 热议：68 分 · 10 评论",
+            "sentiment": "neutral",
+            "comments": 10,
+            "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Judge rules Trump administration’s blacklisting of Anthropic was illegal",
-            "insight": "HN 热议：485 分 · 353 评论",
+            "title": "U.S. sanctions against the A/I Collective",
+            "insight": "HN 热议：521 分 · 491 评论",
             "sentiment": "positive",
-            "comments": 353,
-            "url": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
+            "comments": 491,
+            "url": "https://www.inventati.org/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
-            "insight": "HN 热议：72 分 · 16 评论",
+            "title": "StemDeck, a free, open-source and local AI stem separator",
+            "insight": "HN 热议：44 分 · 11 评论",
             "sentiment": "neutral",
-            "comments": 16,
-            "url": "https://arxiv.org/abs/2608.23691",
+            "comments": 11,
+            "url": "https://github.com/stemdeckapp/stemdeck",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Stopping the smart TV from being used against you",
-            "insight": "HN 热议：130 分 · 102 评论",
+            "title": "Identifying fake cosmetics using AI",
+            "insight": "HN 热议：42 分 · 14 评论",
             "sentiment": "neutral",
-            "comments": 102,
-            "url": "https://www.s-config.com/stopping-a-smart-tv-from-being-used-against-you/",
+            "comments": 14,
+            "url": "https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Luanti removed from Google Play due to baseless AI copyright notice",
-            "insight": "HN 热议：423 分 · 130 评论",
-            "sentiment": "positive",
-            "comments": 130,
-            "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/",
+            "title": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
+            "insight": "HN 热议：89 分 · 23 评论",
+            "sentiment": "neutral",
+            "comments": 23,
+            "url": "https://arxiv.org/abs/2608.23691",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-28T23:44:12Z",
+    "updated": "2026-08-29T04:30:38Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
