@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-29T11:51:36Z",
+  "updated": "2026-08-29T15:49:56Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "U.S. sanctions against the A/I Collective",
-      "insight": "HN 热议：626 分 · 608 评论",
-      "sentiment": "positive",
-      "comments": 608,
-      "url": "https://www.inventati.org/",
+      "title": "Debian votes to allow \"responsible use of generative AI\"",
+      "insight": "HN 热议：199 分 · 139 评论",
+      "sentiment": "neutral",
+      "comments": 139,
+      "url": "https://lwn.net/Articles/1091231/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "StemDeck, a free, open-source and local AI stem separator",
-      "insight": "HN 热议：115 分 · 25 评论",
-      "sentiment": "neutral",
-      "comments": 25,
-      "url": "https://github.com/stemdeckapp/stemdeck",
+      "title": "U.S. sanctions against the A/I Collective",
+      "insight": "HN 热议：664 分 · 666 评论",
+      "sentiment": "positive",
+      "comments": 666,
+      "url": "https://www.inventati.org/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "I accidentally turned LLM memory into program analysis",
-      "insight": "HN 热议：171 分 · 40 评论",
+      "title": "StemDeck, a free, open-source and local AI stem separator",
+      "insight": "HN 热议：163 分 · 45 评论",
       "sentiment": "neutral",
-      "comments": 40,
-      "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
+      "comments": 45,
+      "url": "https://github.com/stemdeckapp/stemdeck",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
-      "insight": "HN 热议：108 分 · 31 评论",
-      "sentiment": "neutral",
-      "comments": 31,
-      "url": "https://arxiv.org/abs/2608.23691",
+      "title": "I accidentally turned LLM memory into program analysis",
+      "insight": "HN 热议：216 分 · 64 评论",
+      "sentiment": "positive",
+      "comments": 64,
+      "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Judge rules Trump administration’s blacklisting of Anthropic was illegal",
-      "insight": "HN 热议：577 分 · 415 评论",
-      "sentiment": "positive",
-      "comments": 415,
-      "url": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
+      "title": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
+      "insight": "HN 热议：113 分 · 37 评论",
+      "sentiment": "neutral",
+      "comments": 37,
+      "url": "https://arxiv.org/abs/2608.23691",
       "id": 5
     }
   ]
