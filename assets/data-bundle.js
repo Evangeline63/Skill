@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-29T20:04:16Z",
+    "updated": "2026-08-29T22:51:53Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-29T20:04:16Z",
+    "updated": "2026-08-29T22:51:53Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-29T20:04:16Z",
+    "updated": "2026-08-29T22:51:53Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 186987,
-            "stars_today": 186987,
+            "stars": 186990,
+            "stars_today": 186990,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 168172,
-            "stars_today": 168172,
+            "stars": 168175,
+            "stars_today": 168175,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 104007,
-            "stars_today": 104007,
+            "stars": 104011,
+            "stars_today": 104011,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 92573,
-            "stars_today": 92573,
+            "stars": 92582,
+            "stars_today": 92582,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 85564,
-            "stars_today": 85564,
+            "stars": 85569,
+            "stars_today": 85569,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-29T20:04:16Z",
+    "updated": "2026-08-29T22:51:53Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-29T20:04:16Z",
+    "updated": "2026-08-29T22:51:53Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,39 +511,39 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-29T20:04:16Z",
+    "updated": "2026-08-29T22:51:53Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Warp builds self-improving agents on Claude",
-            "insight": "HN 热议：29 分 · 18 评论",
+            "title": "vLLM v0.28.0",
+            "insight": "HN 热议：72 分 · 24 评论",
             "sentiment": "neutral",
-            "comments": 18,
-            "url": "https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude",
+            "comments": 24,
+            "url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "vLLM v0.28.0",
-            "insight": "HN 热议：8 分 · 0 评论",
+            "title": "Domain-Driven Agents",
+            "insight": "HN 热议：25 分 · 1 评论",
             "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
+            "comments": 1,
+            "url": "https://coldtake.dev/blog/domain-driven-agents",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
-            "insight": "HN 热议：100 分 · 19 评论",
+            "insight": "HN 热议：195 分 · 36 评论",
             "sentiment": "neutral",
-            "comments": 19,
+            "comments": 36,
             "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
             "id": 3
         },
         {
             "source": "HackerNews",
             "title": "StemDeck, a free, open-source and local AI stem separator",
-            "insight": "HN 热议：186 分 · 57 评论",
+            "insight": "HN 热议：191 分 · 57 评论",
             "sentiment": "neutral",
             "comments": 57,
             "url": "https://github.com/stemdeckapp/stemdeck",
@@ -552,7 +552,7 @@ window.__DATA__ = {
         {
             "source": "HackerNews",
             "title": "I accidentally turned LLM memory into program analysis",
-            "insight": "HN 热议：260 分 · 71 评论",
+            "insight": "HN 热议：266 分 · 71 评论",
             "sentiment": "positive",
             "comments": 71,
             "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
@@ -561,7 +561,7 @@ window.__DATA__ = {
     ]
 },
   "daily": {
-    "updated": "2026-08-29T20:04:16Z",
+    "updated": "2026-08-29T22:51:53Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
