@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-29T15:49:56Z",
+    "updated": "2026-08-29T20:04:16Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-29T15:49:56Z",
+    "updated": "2026-08-29T20:04:16Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-29T15:49:56Z",
+    "updated": "2026-08-29T20:04:16Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 186978,
-            "stars_today": 186978,
+            "stars": 186987,
+            "stars_today": 186987,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 168158,
-            "stars_today": 168158,
+            "stars": 168172,
+            "stars_today": 168172,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 103996,
-            "stars_today": 103996,
+            "stars": 104007,
+            "stars_today": 104007,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96192,
-            "stars_today": 96192,
+            "stars": 96190,
+            "stars_today": 96190,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 92556,
-            "stars_today": 92556,
+            "stars": 92573,
+            "stars_today": 92573,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 85546,
-            "stars_today": 85546,
+            "stars": 85564,
+            "stars_today": 85564,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-29T15:49:56Z",
+    "updated": "2026-08-29T20:04:16Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-29T15:49:56Z",
+    "updated": "2026-08-29T20:04:16Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-29T15:49:56Z",
+    "updated": "2026-08-29T20:04:16Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Debian votes to allow \"responsible use of generative AI\"",
-            "insight": "HN 热议：199 分 · 139 评论",
+            "title": "Warp builds self-improving agents on Claude",
+            "insight": "HN 热议：29 分 · 18 评论",
             "sentiment": "neutral",
-            "comments": 139,
-            "url": "https://lwn.net/Articles/1091231/",
+            "comments": 18,
+            "url": "https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "U.S. sanctions against the A/I Collective",
-            "insight": "HN 热议：664 分 · 666 评论",
-            "sentiment": "positive",
-            "comments": 666,
-            "url": "https://www.inventati.org/",
+            "title": "vLLM v0.28.0",
+            "insight": "HN 热议：8 分 · 0 评论",
+            "sentiment": "neutral",
+            "comments": 0,
+            "url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "StemDeck, a free, open-source and local AI stem separator",
-            "insight": "HN 热议：163 分 · 45 评论",
+            "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+            "insight": "HN 热议：100 分 · 19 评论",
             "sentiment": "neutral",
-            "comments": 45,
-            "url": "https://github.com/stemdeckapp/stemdeck",
+            "comments": 19,
+            "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "I accidentally turned LLM memory into program analysis",
-            "insight": "HN 热议：216 分 · 64 评论",
-            "sentiment": "positive",
-            "comments": 64,
-            "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
+            "title": "StemDeck, a free, open-source and local AI stem separator",
+            "insight": "HN 热议：186 分 · 57 评论",
+            "sentiment": "neutral",
+            "comments": 57,
+            "url": "https://github.com/stemdeckapp/stemdeck",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
-            "insight": "HN 热议：113 分 · 37 评论",
-            "sentiment": "neutral",
-            "comments": 37,
-            "url": "https://arxiv.org/abs/2608.23691",
+            "title": "I accidentally turned LLM memory into program analysis",
+            "insight": "HN 热议：260 分 · 71 评论",
+            "sentiment": "positive",
+            "comments": 71,
+            "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-29T15:49:56Z",
+    "updated": "2026-08-29T20:04:16Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

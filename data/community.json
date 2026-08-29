@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-29T15:49:56Z",
+  "updated": "2026-08-29T20:04:16Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Debian votes to allow \"responsible use of generative AI\"",
-      "insight": "HN 热议：199 分 · 139 评论",
+      "title": "Warp builds self-improving agents on Claude",
+      "insight": "HN 热议：29 分 · 18 评论",
       "sentiment": "neutral",
-      "comments": 139,
-      "url": "https://lwn.net/Articles/1091231/",
+      "comments": 18,
+      "url": "https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "U.S. sanctions against the A/I Collective",
-      "insight": "HN 热议：664 分 · 666 评论",
-      "sentiment": "positive",
-      "comments": 666,
-      "url": "https://www.inventati.org/",
+      "title": "vLLM v0.28.0",
+      "insight": "HN 热议：8 分 · 0 评论",
+      "sentiment": "neutral",
+      "comments": 0,
+      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "StemDeck, a free, open-source and local AI stem separator",
-      "insight": "HN 热议：163 分 · 45 评论",
+      "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+      "insight": "HN 热议：100 分 · 19 评论",
       "sentiment": "neutral",
-      "comments": 45,
-      "url": "https://github.com/stemdeckapp/stemdeck",
+      "comments": 19,
+      "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "I accidentally turned LLM memory into program analysis",
-      "insight": "HN 热议：216 分 · 64 评论",
-      "sentiment": "positive",
-      "comments": 64,
-      "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
+      "title": "StemDeck, a free, open-source and local AI stem separator",
+      "insight": "HN 热议：186 分 · 57 评论",
+      "sentiment": "neutral",
+      "comments": 57,
+      "url": "https://github.com/stemdeckapp/stemdeck",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
-      "insight": "HN 热议：113 分 · 37 评论",
-      "sentiment": "neutral",
-      "comments": 37,
-      "url": "https://arxiv.org/abs/2608.23691",
+      "title": "I accidentally turned LLM memory into program analysis",
+      "insight": "HN 热议：260 分 · 71 评论",
+      "sentiment": "positive",
+      "comments": 71,
+      "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
       "id": 5
     }
   ]
