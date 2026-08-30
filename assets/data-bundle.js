@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-30T14:02:05Z",
+    "updated": "2026-08-30T18:13:04Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-30T14:02:05Z",
+    "updated": "2026-08-30T18:13:04Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-30T14:02:05Z",
+    "updated": "2026-08-30T18:13:04Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187003,
-            "stars_today": 187003,
+            "stars": 187013,
+            "stars_today": 187013,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 168199,
-            "stars_today": 168199,
+            "stars": 168210,
+            "stars_today": 168210,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 104046,
-            "stars_today": 104046,
+            "stars": 104062,
+            "stars_today": 104062,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96201,
-            "stars_today": 96201,
+            "stars": 96202,
+            "stars_today": 96202,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 92629,
-            "stars_today": 92629,
+            "stars": 92651,
+            "stars_today": 92651,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 85621,
-            "stars_today": 85621,
+            "stars": 85649,
+            "stars_today": 85649,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-30T14:02:05Z",
+    "updated": "2026-08-30T18:13:04Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-30T14:02:05Z",
+    "updated": "2026-08-30T18:13:04Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-30T14:02:05Z",
+    "updated": "2026-08-30T18:13:04Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "What my dad taught me about AI coding in the 90s",
-            "insight": "HN 热议：30 分 · 1 评论",
+            "title": "Haiku R1/beta6 has been released",
+            "insight": "HN 热议：103 分 · 23 评论",
             "sentiment": "neutral",
-            "comments": 1,
-            "url": "https://askmike.org/articles/ai-coding-lessons-in-the-90s-from-my-dad/",
+            "comments": 23,
+            "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
-            "insight": "HN 热议：134 分 · 37 评论",
+            "title": "Electric rain can eat through metal",
+            "insight": "HN 热议：38 分 · 6 评论",
             "sentiment": "neutral",
-            "comments": 37,
-            "url": "https://arxiv.org/abs/1804.07389",
+            "comments": 6,
+            "url": "https://www.scientificamerican.com/article/electric-rain-can-eat-through-metal/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Claude Session URL appended to commit messages and PR descriptions by default",
-            "insight": "HN 热议：73 分 · 75 评论",
+            "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
+            "insight": "HN 热议：170 分 · 49 评论",
             "sentiment": "neutral",
-            "comments": 75,
-            "url": "https://github.com/anthropics/claude-code/issues/66504",
+            "comments": 49,
+            "url": "https://arxiv.org/abs/1804.07389",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
-            "insight": "HN 热议：39 分 · 12 评论",
+            "title": "Dad's Custom Atari Peripherals – By Jim Trageser",
+            "insight": "HN 热议：36 分 · 8 评论",
             "sentiment": "neutral",
-            "comments": 12,
-            "url": "https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766",
+            "comments": 8,
+            "url": "https://www.goto10retro.com/p/dads-custom-atari-peripherals",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
-            "insight": "HN 热议：346 分 · 218 评论",
-            "sentiment": "positive",
-            "comments": 218,
-            "url": "https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/",
+            "title": "What my dad taught me about AI coding in the 90s",
+            "insight": "HN 热议：89 分 · 44 评论",
+            "sentiment": "neutral",
+            "comments": 44,
+            "url": "https://askmike.org/articles/ai-coding-lessons-in-the-90s-from-my-dad/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-30T14:02:05Z",
+    "updated": "2026-08-30T18:13:04Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
