@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-30T01:59:43Z",
+  "updated": "2026-08-30T08:35:43Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
-      "insight": "HN 热议：99 分 · 31 评论",
-      "sentiment": "neutral",
-      "comments": 31,
+      "insight": "HN 热议：280 分 · 150 评论",
+      "sentiment": "positive",
+      "comments": 150,
       "url": "https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Domain-Driven Agents",
-      "insight": "HN 热议：55 分 · 6 评论",
+      "title": "Open Oscar Server: open-source server compatible with AIM and ICQ clients",
+      "insight": "HN 热议：32 分 · 11 评论",
       "sentiment": "neutral",
-      "comments": 6,
-      "url": "https://coldtake.dev/blog/domain-driven-agents",
+      "comments": 11,
+      "url": "https://github.com/mk6i/open-oscar-server",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
-      "insight": "HN 热议：251 分 · 56 评论",
-      "sentiment": "positive",
-      "comments": 56,
-      "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+      "title": "The Rise and Fall of Agent Civilizations",
+      "insight": "HN 热议：86 分 · 43 评论",
+      "sentiment": "neutral",
+      "comments": 43,
+      "url": "https://www.dwarkesh.com/p/openai-huggingface",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Defrag98: Windows 98 Disk Defragmenter Simulator Online",
-      "insight": "HN 热议：90 分 · 45 评论",
-      "sentiment": "neutral",
-      "comments": 45,
-      "url": "https://defrag98.com",
+      "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+      "insight": "HN 热议：376 分 · 86 评论",
+      "sentiment": "positive",
+      "comments": 86,
+      "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "StemDeck, a free, open-source and local AI stem separator",
-      "insight": "HN 热议：208 分 · 58 评论",
-      "sentiment": "positive",
-      "comments": 58,
-      "url": "https://github.com/stemdeckapp/stemdeck",
+      "title": "Show HN: I missed the moving blocks, so I built a real Linux disk defragmenter",
+      "insight": "HN 热议：58 分 · 41 评论",
+      "sentiment": "neutral",
+      "comments": 41,
+      "url": "https://github.com/gbin/defragger",
       "id": 5
     }
   ]
