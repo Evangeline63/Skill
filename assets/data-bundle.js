@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-30T08:35:43Z",
+    "updated": "2026-08-30T14:02:05Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-30T08:35:43Z",
+    "updated": "2026-08-30T14:02:05Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-30T08:35:43Z",
+    "updated": "2026-08-30T14:02:05Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187000,
-            "stars_today": 187000,
+            "stars": 187003,
+            "stars_today": 187003,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 168193,
-            "stars_today": 168193,
+            "stars": 168199,
+            "stars_today": 168199,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 104034,
-            "stars_today": 104034,
+            "stars": 104046,
+            "stars_today": 104046,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96200,
-            "stars_today": 96200,
+            "stars": 96201,
+            "stars_today": 96201,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 92607,
-            "stars_today": 92607,
+            "stars": 92629,
+            "stars_today": 92629,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 85601,
-            "stars_today": 85601,
+            "stars": 85621,
+            "stars_today": 85621,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-30T08:35:43Z",
+    "updated": "2026-08-30T14:02:05Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-30T08:35:43Z",
+    "updated": "2026-08-30T14:02:05Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-30T08:35:43Z",
+    "updated": "2026-08-30T14:02:05Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
-            "insight": "HN 热议：280 分 · 150 评论",
-            "sentiment": "positive",
-            "comments": 150,
-            "url": "https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/",
+            "title": "What my dad taught me about AI coding in the 90s",
+            "insight": "HN 热议：30 分 · 1 评论",
+            "sentiment": "neutral",
+            "comments": 1,
+            "url": "https://askmike.org/articles/ai-coding-lessons-in-the-90s-from-my-dad/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Open Oscar Server: open-source server compatible with AIM and ICQ clients",
-            "insight": "HN 热议：32 分 · 11 评论",
+            "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
+            "insight": "HN 热议：134 分 · 37 评论",
             "sentiment": "neutral",
-            "comments": 11,
-            "url": "https://github.com/mk6i/open-oscar-server",
+            "comments": 37,
+            "url": "https://arxiv.org/abs/1804.07389",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "The Rise and Fall of Agent Civilizations",
-            "insight": "HN 热议：86 分 · 43 评论",
+            "title": "Claude Session URL appended to commit messages and PR descriptions by default",
+            "insight": "HN 热议：73 分 · 75 评论",
             "sentiment": "neutral",
-            "comments": 43,
-            "url": "https://www.dwarkesh.com/p/openai-huggingface",
+            "comments": 75,
+            "url": "https://github.com/anthropics/claude-code/issues/66504",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
-            "insight": "HN 热议：376 分 · 86 评论",
-            "sentiment": "positive",
-            "comments": 86,
-            "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+            "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
+            "insight": "HN 热议：39 分 · 12 评论",
+            "sentiment": "neutral",
+            "comments": 12,
+            "url": "https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: I missed the moving blocks, so I built a real Linux disk defragmenter",
-            "insight": "HN 热议：58 分 · 41 评论",
-            "sentiment": "neutral",
-            "comments": 41,
-            "url": "https://github.com/gbin/defragger",
+            "title": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
+            "insight": "HN 热议：346 分 · 218 评论",
+            "sentiment": "positive",
+            "comments": 218,
+            "url": "https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-30T08:35:43Z",
+    "updated": "2026-08-30T14:02:05Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
