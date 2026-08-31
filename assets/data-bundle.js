@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-31T01:55:36Z",
+    "updated": "2026-08-31T08:58:36Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-31T01:55:36Z",
+    "updated": "2026-08-31T08:58:36Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-31T01:55:36Z",
+    "updated": "2026-08-31T08:58:36Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187019,
-            "stars_today": 187019,
+            "stars": 187023,
+            "stars_today": 187023,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 168246,
-            "stars_today": 168246,
+            "stars": 168278,
+            "stars_today": 168278,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 104067,
-            "stars_today": 104067,
+            "stars": 104102,
+            "stars_today": 104102,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96205,
-            "stars_today": 96205,
+            "stars": 96212,
+            "stars_today": 96212,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 92668,
-            "stars_today": 92668,
+            "stars": 92698,
+            "stars_today": 92698,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 85683,
-            "stars_today": 85683,
+            "stars": 85721,
+            "stars_today": 85721,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-31T01:55:36Z",
+    "updated": "2026-08-31T08:58:36Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-31T01:55:36Z",
+    "updated": "2026-08-31T08:58:36Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-31T01:55:36Z",
+    "updated": "2026-08-31T08:58:36Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Haiku R1/beta6 has been released",
-            "insight": "HN 热议：258 分 · 76 评论",
-            "sentiment": "positive",
-            "comments": 76,
-            "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
+            "title": "P99 0 ms* autocomplete for 240M domain names",
+            "insight": "HN 热议：104 分 · 47 评论",
+            "sentiment": "neutral",
+            "comments": 47,
+            "url": "https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Continuous Diffusion Language Models (CDLM's)",
-            "insight": "HN 热议：57 分 · 19 评论",
+            "title": "Understanding ChatGPT Work",
+            "insight": "HN 热议：175 分 · 70 评论",
             "sentiment": "neutral",
-            "comments": 19,
-            "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
+            "comments": 70,
+            "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Commercially Available Bike Generators Are Not Sustainable (2011)",
-            "insight": "HN 热议：28 分 · 19 评论",
-            "sentiment": "neutral",
-            "comments": 19,
-            "url": "https://solar.lowtechmagazine.com/2011/05/bike-powered-electricity-generators-are-not-sustainable/",
+            "title": "Haiku R1/beta6 has been released",
+            "insight": "HN 热议：313 分 · 88 评论",
+            "sentiment": "positive",
+            "comments": 88,
+            "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Yen weakens past ¥160 per dollar, eroding intervention gains",
-            "insight": "HN 热议：36 分 · 32 评论",
+            "title": "How to build a diffusion language model",
+            "insight": "HN 热议：84 分 · 8 评论",
             "sentiment": "neutral",
-            "comments": 32,
-            "url": "https://www.japantimes.co.jp/business/2026/08/29/markets/yen-160-dollar-intervention/",
+            "comments": 8,
+            "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Electric rain can eat through metal",
-            "insight": "HN 热议：96 分 · 19 评论",
+            "title": "Continuous Diffusion Language Models (CDLM's)",
+            "insight": "HN 热议：101 分 · 35 评论",
             "sentiment": "neutral",
-            "comments": 19,
-            "url": "https://www.scientificamerican.com/article/electric-rain-can-eat-through-metal/",
+            "comments": 35,
+            "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-31T01:55:36Z",
+    "updated": "2026-08-31T08:58:36Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
