@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-31T16:41:05Z",
+    "updated": "2026-08-31T22:06:24Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-31T16:41:05Z",
+    "updated": "2026-08-31T22:06:24Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-31T16:41:05Z",
+    "updated": "2026-08-31T22:06:24Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187033,
-            "stars_today": 187033,
+            "stars": 187040,
+            "stars_today": 187040,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 168327,
-            "stars_today": 168327,
+            "stars": 168345,
+            "stars_today": 168345,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 104116,
-            "stars_today": 104116,
+            "stars": 104126,
+            "stars_today": 104126,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96218,
-            "stars_today": 96218,
+            "stars": 96223,
+            "stars_today": 96223,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 92747,
-            "stars_today": 92747,
+            "stars": 92770,
+            "stars_today": 92770,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 85752,
-            "stars_today": 85752,
+            "stars": 85771,
+            "stars_today": 85771,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-31T16:41:05Z",
+    "updated": "2026-08-31T22:06:24Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-31T16:41:05Z",
+    "updated": "2026-08-31T22:06:24Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-31T16:41:05Z",
+    "updated": "2026-08-31T22:06:24Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "ChatGPT Work Tool and Skill Reference",
-            "insight": "HN 热议：89 分 · 41 评论",
+            "title": "Smartphone LED detects hidden cameras with AI",
+            "insight": "HN 热议：100 分 · 31 评论",
             "sentiment": "neutral",
-            "comments": 41,
-            "url": "https://codex-tool-reference.simonw.chatgpt.site/",
+            "comments": 31,
+            "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Launch HN: Almanac (YC S26) – AI that knows your company",
-            "insight": "HN 热议：11 分 · 11 评论",
+            "title": "Terence Tao explains 6 essential mathematical concepts [video]",
+            "insight": "HN 热议：103 分 · 13 评论",
             "sentiment": "neutral",
-            "comments": 11,
-            "url": "https://usealmanac.com/",
+            "comments": 13,
+            "url": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Agentic Trust Controls",
-            "insight": "HN 热议：15 分 · 2 评论",
-            "sentiment": "neutral",
-            "comments": 2,
-            "url": "https://trustcontrols.ai/",
+            "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+            "insight": "HN 热议：232 分 · 259 评论",
+            "sentiment": "positive",
+            "comments": 259,
+            "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Breaking Claude Code Opus 5 Auto Mode",
-            "insight": "HN 热议：278 分 · 88 评论",
-            "sentiment": "positive",
-            "comments": 88,
-            "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
+            "title": "ChatGPT Work Tool and Skill Reference",
+            "insight": "HN 热议：160 分 · 49 评论",
+            "sentiment": "neutral",
+            "comments": 49,
+            "url": "https://codex-tool-reference.simonw.chatgpt.site/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Study: Blue light impairs the eye's ability to distinguish fine detail most",
-            "insight": "HN 热议：67 分 · 41 评论",
+            "title": "Launch HN: Almanac (YC S26) – AI that knows your company",
+            "insight": "HN 热议：35 分 · 37 评论",
             "sentiment": "neutral",
-            "comments": 41,
-            "url": "https://research.uga.edu/news/blue-light-has-a-surprising-effect-on-your-eyes-study-finds/",
+            "comments": 37,
+            "url": "https://usealmanac.com/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-31T16:41:05Z",
+    "updated": "2026-08-31T22:06:24Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

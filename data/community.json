@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-31T16:41:05Z",
+  "updated": "2026-08-31T22:06:24Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "ChatGPT Work Tool and Skill Reference",
-      "insight": "HN 热议：89 分 · 41 评论",
+      "title": "Smartphone LED detects hidden cameras with AI",
+      "insight": "HN 热议：100 分 · 31 评论",
       "sentiment": "neutral",
-      "comments": 41,
-      "url": "https://codex-tool-reference.simonw.chatgpt.site/",
+      "comments": 31,
+      "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Launch HN: Almanac (YC S26) – AI that knows your company",
-      "insight": "HN 热议：11 分 · 11 评论",
+      "title": "Terence Tao explains 6 essential mathematical concepts [video]",
+      "insight": "HN 热议：103 分 · 13 评论",
       "sentiment": "neutral",
-      "comments": 11,
-      "url": "https://usealmanac.com/",
+      "comments": 13,
+      "url": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Agentic Trust Controls",
-      "insight": "HN 热议：15 分 · 2 评论",
-      "sentiment": "neutral",
-      "comments": 2,
-      "url": "https://trustcontrols.ai/",
+      "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+      "insight": "HN 热议：232 分 · 259 评论",
+      "sentiment": "positive",
+      "comments": 259,
+      "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Breaking Claude Code Opus 5 Auto Mode",
-      "insight": "HN 热议：278 分 · 88 评论",
-      "sentiment": "positive",
-      "comments": 88,
-      "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
+      "title": "ChatGPT Work Tool and Skill Reference",
+      "insight": "HN 热议：160 分 · 49 评论",
+      "sentiment": "neutral",
+      "comments": 49,
+      "url": "https://codex-tool-reference.simonw.chatgpt.site/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Study: Blue light impairs the eye's ability to distinguish fine detail most",
-      "insight": "HN 热议：67 分 · 41 评论",
+      "title": "Launch HN: Almanac (YC S26) – AI that knows your company",
+      "insight": "HN 热议：35 分 · 37 评论",
       "sentiment": "neutral",
-      "comments": 41,
-      "url": "https://research.uga.edu/news/blue-light-has-a-surprising-effect-on-your-eyes-study-finds/",
+      "comments": 37,
+      "url": "https://usealmanac.com/",
       "id": 5
     }
   ]
