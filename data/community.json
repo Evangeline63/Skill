@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-31T08:58:36Z",
+  "updated": "2026-08-31T16:41:05Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "P99 0 ms* autocomplete for 240M domain names",
-      "insight": "HN 热议：104 分 · 47 评论",
+      "title": "ChatGPT Work Tool and Skill Reference",
+      "insight": "HN 热议：89 分 · 41 评论",
       "sentiment": "neutral",
-      "comments": 47,
-      "url": "https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names",
+      "comments": 41,
+      "url": "https://codex-tool-reference.simonw.chatgpt.site/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Understanding ChatGPT Work",
-      "insight": "HN 热议：175 分 · 70 评论",
+      "title": "Launch HN: Almanac (YC S26) – AI that knows your company",
+      "insight": "HN 热议：11 分 · 11 评论",
       "sentiment": "neutral",
-      "comments": 70,
-      "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
+      "comments": 11,
+      "url": "https://usealmanac.com/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Haiku R1/beta6 has been released",
-      "insight": "HN 热议：313 分 · 88 评论",
-      "sentiment": "positive",
-      "comments": 88,
-      "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
+      "title": "Agentic Trust Controls",
+      "insight": "HN 热议：15 分 · 2 评论",
+      "sentiment": "neutral",
+      "comments": 2,
+      "url": "https://trustcontrols.ai/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "How to build a diffusion language model",
-      "insight": "HN 热议：84 分 · 8 评论",
-      "sentiment": "neutral",
-      "comments": 8,
-      "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/",
+      "title": "Breaking Claude Code Opus 5 Auto Mode",
+      "insight": "HN 热议：278 分 · 88 评论",
+      "sentiment": "positive",
+      "comments": 88,
+      "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Continuous Diffusion Language Models (CDLM's)",
-      "insight": "HN 热议：101 分 · 35 评论",
+      "title": "Study: Blue light impairs the eye's ability to distinguish fine detail most",
+      "insight": "HN 热议：67 分 · 41 评论",
       "sentiment": "neutral",
-      "comments": 35,
-      "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
+      "comments": 41,
+      "url": "https://research.uga.edu/news/blue-light-has-a-surprising-effect-on-your-eyes-study-finds/",
       "id": 5
     }
   ]
