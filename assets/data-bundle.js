@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-01T08:01:47Z",
+    "updated": "2026-09-01T13:44:37Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-01T08:01:47Z",
+    "updated": "2026-09-01T13:44:37Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-01T08:01:47Z",
+    "updated": "2026-09-01T13:44:37Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187044,
-            "stars_today": 187044,
+            "stars": 187051,
+            "stars_today": 187051,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 168373,
-            "stars_today": 168373,
+            "stars": 168394,
+            "stars_today": 168394,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 104140,
-            "stars_today": 104140,
+            "stars": 104150,
+            "stars_today": 104150,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96225,
-            "stars_today": 96225,
+            "stars": 96242,
+            "stars_today": 96242,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 92799,
-            "stars_today": 92799,
+            "stars": 92823,
+            "stars_today": 92823,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 85810,
-            "stars_today": 85810,
+            "stars": 85841,
+            "stars_today": 85841,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-01T08:01:47Z",
+    "updated": "2026-09-01T13:44:37Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-01T08:01:47Z",
+    "updated": "2026-09-01T13:44:37Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-01T08:01:47Z",
+    "updated": "2026-09-01T13:44:37Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Terence Tao explains 6 essential mathematical concepts [video]",
-            "insight": "HN 热议：390 分 · 50 评论",
-            "sentiment": "positive",
-            "comments": 50,
-            "url": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
+            "title": "American Airlines' Legendary Mechanic Passes Away at 100 After 80-Year Career",
+            "insight": "HN 热议：151 分 · 59 评论",
+            "sentiment": "neutral",
+            "comments": 59,
+            "url": "https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
-            "insight": "HN 热议：390 分 · 437 评论",
-            "sentiment": "positive",
-            "comments": 437,
-            "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+            "title": "EFF to Courts: Don't Rewrite Copyright over AI Hype",
+            "insight": "HN 热议：51 分 · 29 评论",
+            "sentiment": "neutral",
+            "comments": 29,
+            "url": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Smartphone LED detects hidden cameras with AI",
-            "insight": "HN 热议：203 分 · 57 评论",
+            "title": "Terence Tao explains 6 essential mathematical concepts [video]",
+            "insight": "HN 热议：492 分 · 68 评论",
             "sentiment": "positive",
-            "comments": 57,
-            "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
+            "comments": 68,
+            "url": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "DoltLite: A SQLite fork with Git-style version control, built with 2k agent PRs",
-            "insight": "HN 热议：30 分 · 19 评论",
-            "sentiment": "neutral",
-            "comments": 19,
-            "url": "https://www.dolthub.com/blog/2026-08-31-doltlite-beta/",
+            "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+            "insight": "HN 热议：442 分 · 502 评论",
+            "sentiment": "positive",
+            "comments": 502,
+            "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "AI Can Make You Suck Faster Too",
-            "insight": "HN 热议：74 分 · 81 评论",
-            "sentiment": "neutral",
-            "comments": 81,
-            "url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
+            "title": "Smartphone LED detects hidden cameras with AI",
+            "insight": "HN 热议：242 分 · 70 评论",
+            "sentiment": "positive",
+            "comments": 70,
+            "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-01T08:01:47Z",
+    "updated": "2026-09-01T13:44:37Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
