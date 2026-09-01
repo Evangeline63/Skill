@@ -1,49 +1,49 @@
 {
-  "updated": "2026-09-01T18:01:10Z",
+  "updated": "2026-09-01T22:52:35Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "I trained a small transformer in 1.5hrs and it beats many LLMs",
-      "insight": "HN 热议：353 分 · 92 评论",
+      "title": "Claude Fable 5.1 and Claude Mythos 5.1",
+      "insight": "HN 热议：794 分 · 759 评论",
       "sentiment": "positive",
-      "comments": 92,
-      "url": "https://mvakde.github.io/blog/44-on-arc-1/",
+      "comments": 759,
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "American Airlines mechanic Azriel “Al” Blackman has died, aged 100",
-      "insight": "HN 热议：310 分 · 118 评论",
+      "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
+      "insight": "HN 热议：266 分 · 315 评论",
       "sentiment": "positive",
-      "comments": 118,
-      "url": "https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/",
+      "comments": 315,
+      "url": "https://danluu.com/zitron/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Thanks to Lake Ontario, MapQuest is popular all over again",
-      "insight": "HN 热议：58 分 · 34 评论",
+      "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
+      "insight": "HN 热议：20 分 · 3 评论",
       "sentiment": "neutral",
-      "comments": 34,
-      "url": "https://www.washingtonpost.com/politics/2026/09/01/thanks-lake-ontario-mapquest-is-popular-all-over-again/",
+      "comments": 3,
+      "url": "https://masteranza.github.io/weedout/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Keenable SELECT: an agent that searches the web in SQL",
-      "insight": "HN 热议：32 分 · 6 评论",
+      "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
+      "insight": "HN 热议：179 分 · 94 评论",
       "sentiment": "neutral",
-      "comments": 6,
-      "url": "https://keenableai.github.io/select-showcase/",
+      "comments": 94,
+      "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Dwarf Fortress' creator says the industry's in shambles over AI",
-      "insight": "HN 热议：74 分 · 47 评论",
-      "sentiment": "neutral",
-      "comments": 47,
-      "url": "https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/",
+      "title": "I trained a small transformer in 1.5hrs and it beats many LLMs",
+      "insight": "HN 热议：534 分 · 146 评论",
+      "sentiment": "positive",
+      "comments": 146,
+      "url": "https://mvakde.github.io/blog/44-on-arc-1/",
       "id": 5
     }
   ]

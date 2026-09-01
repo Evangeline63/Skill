@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-01T18:01:10Z",
+    "updated": "2026-09-01T22:52:35Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-01T18:01:10Z",
+    "updated": "2026-09-01T22:52:35Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-01T18:01:10Z",
+    "updated": "2026-09-01T22:52:35Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187057,
-            "stars_today": 187057,
+            "stars": 187064,
+            "stars_today": 187064,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 168412,
-            "stars_today": 168412,
+            "stars": 168429,
+            "stars_today": 168429,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 104163,
-            "stars_today": 104163,
+            "stars": 104171,
+            "stars_today": 104171,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96289,
-            "stars_today": 96289,
+            "stars": 96318,
+            "stars_today": 96318,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 92861,
-            "stars_today": 92861,
+            "stars": 92900,
+            "stars_today": 92900,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 85865,
-            "stars_today": 85865,
+            "stars": 85882,
+            "stars_today": 85882,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-01T18:01:10Z",
+    "updated": "2026-09-01T22:52:35Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-01T18:01:10Z",
+    "updated": "2026-09-01T22:52:35Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-01T18:01:10Z",
+    "updated": "2026-09-01T22:52:35Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "I trained a small transformer in 1.5hrs and it beats many LLMs",
-            "insight": "HN 热议：353 分 · 92 评论",
+            "title": "Claude Fable 5.1 and Claude Mythos 5.1",
+            "insight": "HN 热议：794 分 · 759 评论",
             "sentiment": "positive",
-            "comments": 92,
-            "url": "https://mvakde.github.io/blog/44-on-arc-1/",
+            "comments": 759,
+            "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "American Airlines mechanic Azriel “Al” Blackman has died, aged 100",
-            "insight": "HN 热议：310 分 · 118 评论",
+            "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
+            "insight": "HN 热议：266 分 · 315 评论",
             "sentiment": "positive",
-            "comments": 118,
-            "url": "https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/",
+            "comments": 315,
+            "url": "https://danluu.com/zitron/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Thanks to Lake Ontario, MapQuest is popular all over again",
-            "insight": "HN 热议：58 分 · 34 评论",
+            "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
+            "insight": "HN 热议：20 分 · 3 评论",
             "sentiment": "neutral",
-            "comments": 34,
-            "url": "https://www.washingtonpost.com/politics/2026/09/01/thanks-lake-ontario-mapquest-is-popular-all-over-again/",
+            "comments": 3,
+            "url": "https://masteranza.github.io/weedout/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Keenable SELECT: an agent that searches the web in SQL",
-            "insight": "HN 热议：32 分 · 6 评论",
+            "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
+            "insight": "HN 热议：179 分 · 94 评论",
             "sentiment": "neutral",
-            "comments": 6,
-            "url": "https://keenableai.github.io/select-showcase/",
+            "comments": 94,
+            "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Dwarf Fortress' creator says the industry's in shambles over AI",
-            "insight": "HN 热议：74 分 · 47 评论",
-            "sentiment": "neutral",
-            "comments": 47,
-            "url": "https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/",
+            "title": "I trained a small transformer in 1.5hrs and it beats many LLMs",
+            "insight": "HN 热议：534 分 · 146 评论",
+            "sentiment": "positive",
+            "comments": 146,
+            "url": "https://mvakde.github.io/blog/44-on-arc-1/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-01T18:01:10Z",
+    "updated": "2026-09-01T22:52:35Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
