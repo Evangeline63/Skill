@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-08-31T22:06:24Z",
+    "updated": "2026-09-01T02:17:51Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-08-31T22:06:24Z",
+    "updated": "2026-09-01T02:17:51Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-08-31T22:06:24Z",
+    "updated": "2026-09-01T02:17:51Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187040,
-            "stars_today": 187040,
+            "stars": 187041,
+            "stars_today": 187041,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 168345,
-            "stars_today": 168345,
+            "stars": 168355,
+            "stars_today": 168355,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 104126,
-            "stars_today": 104126,
+            "stars": 104128,
+            "stars_today": 104128,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96223,
-            "stars_today": 96223,
+            "stars": 96219,
+            "stars_today": 96219,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 92770,
-            "stars_today": 92770,
+            "stars": 92784,
+            "stars_today": 92784,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 85771,
-            "stars_today": 85771,
+            "stars": 85784,
+            "stars_today": 85784,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-08-31T22:06:24Z",
+    "updated": "2026-09-01T02:17:51Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-08-31T22:06:24Z",
+    "updated": "2026-09-01T02:17:51Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-08-31T22:06:24Z",
+    "updated": "2026-09-01T02:17:51Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Smartphone LED detects hidden cameras with AI",
-            "insight": "HN 热议：100 分 · 31 评论",
-            "sentiment": "neutral",
-            "comments": 31,
-            "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
+            "title": "Terence Tao explains 6 essential mathematical concepts [video]",
+            "insight": "HN 热议：217 分 · 26 评论",
+            "sentiment": "positive",
+            "comments": 26,
+            "url": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Terence Tao explains 6 essential mathematical concepts [video]",
-            "insight": "HN 热议：103 分 · 13 评论",
-            "sentiment": "neutral",
-            "comments": 13,
-            "url": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
+            "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+            "insight": "HN 热议：300 分 · 349 评论",
+            "sentiment": "positive",
+            "comments": 349,
+            "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
-            "insight": "HN 热议：232 分 · 259 评论",
-            "sentiment": "positive",
-            "comments": 259,
-            "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+            "title": "Smartphone LED detects hidden cameras with AI",
+            "insight": "HN 热议：146 分 · 39 评论",
+            "sentiment": "neutral",
+            "comments": 39,
+            "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
             "id": 3
         },
         {
             "source": "HackerNews",
             "title": "ChatGPT Work Tool and Skill Reference",
-            "insight": "HN 热议：160 分 · 49 评论",
+            "insight": "HN 热议：184 分 · 51 评论",
             "sentiment": "neutral",
-            "comments": 49,
+            "comments": 51,
             "url": "https://codex-tool-reference.simonw.chatgpt.site/",
             "id": 4
         },
         {
             "source": "HackerNews",
             "title": "Launch HN: Almanac (YC S26) – AI that knows your company",
-            "insight": "HN 热议：35 分 · 37 评论",
+            "insight": "HN 热议：49 分 · 43 评论",
             "sentiment": "neutral",
-            "comments": 37,
+            "comments": 43,
             "url": "https://usealmanac.com/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-08-31T22:06:24Z",
+    "updated": "2026-09-01T02:17:51Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

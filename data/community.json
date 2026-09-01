@@ -1,48 +1,48 @@
 {
-  "updated": "2026-08-31T22:06:24Z",
+  "updated": "2026-09-01T02:17:51Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Smartphone LED detects hidden cameras with AI",
-      "insight": "HN 热议：100 分 · 31 评论",
-      "sentiment": "neutral",
-      "comments": 31,
-      "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
+      "title": "Terence Tao explains 6 essential mathematical concepts [video]",
+      "insight": "HN 热议：217 分 · 26 评论",
+      "sentiment": "positive",
+      "comments": 26,
+      "url": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Terence Tao explains 6 essential mathematical concepts [video]",
-      "insight": "HN 热议：103 分 · 13 评论",
-      "sentiment": "neutral",
-      "comments": 13,
-      "url": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
+      "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+      "insight": "HN 热议：300 分 · 349 评论",
+      "sentiment": "positive",
+      "comments": 349,
+      "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
-      "insight": "HN 热议：232 分 · 259 评论",
-      "sentiment": "positive",
-      "comments": 259,
-      "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+      "title": "Smartphone LED detects hidden cameras with AI",
+      "insight": "HN 热议：146 分 · 39 评论",
+      "sentiment": "neutral",
+      "comments": 39,
+      "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "ChatGPT Work Tool and Skill Reference",
-      "insight": "HN 热议：160 分 · 49 评论",
+      "insight": "HN 热议：184 分 · 51 评论",
       "sentiment": "neutral",
-      "comments": 49,
+      "comments": 51,
       "url": "https://codex-tool-reference.simonw.chatgpt.site/",
       "id": 4
     },
     {
       "source": "HackerNews",
       "title": "Launch HN: Almanac (YC S26) – AI that knows your company",
-      "insight": "HN 热议：35 分 · 37 评论",
+      "insight": "HN 热议：49 分 · 43 评论",
       "sentiment": "neutral",
-      "comments": 37,
+      "comments": 43,
       "url": "https://usealmanac.com/",
       "id": 5
     }
