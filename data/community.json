@@ -1,49 +1,49 @@
 {
-  "updated": "2026-09-01T02:17:51Z",
+  "updated": "2026-09-01T08:01:47Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Terence Tao explains 6 essential mathematical concepts [video]",
-      "insight": "HN 热议：217 分 · 26 评论",
+      "insight": "HN 热议：390 分 · 50 评论",
       "sentiment": "positive",
-      "comments": 26,
+      "comments": 50,
       "url": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
-      "insight": "HN 热议：300 分 · 349 评论",
+      "insight": "HN 热议：390 分 · 437 评论",
       "sentiment": "positive",
-      "comments": 349,
+      "comments": 437,
       "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "Smartphone LED detects hidden cameras with AI",
-      "insight": "HN 热议：146 分 · 39 评论",
-      "sentiment": "neutral",
-      "comments": 39,
+      "insight": "HN 热议：203 分 · 57 评论",
+      "sentiment": "positive",
+      "comments": 57,
       "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "ChatGPT Work Tool and Skill Reference",
-      "insight": "HN 热议：184 分 · 51 评论",
+      "title": "DoltLite: A SQLite fork with Git-style version control, built with 2k agent PRs",
+      "insight": "HN 热议：30 分 · 19 评论",
       "sentiment": "neutral",
-      "comments": 51,
-      "url": "https://codex-tool-reference.simonw.chatgpt.site/",
+      "comments": 19,
+      "url": "https://www.dolthub.com/blog/2026-08-31-doltlite-beta/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Launch HN: Almanac (YC S26) – AI that knows your company",
-      "insight": "HN 热议：49 分 · 43 评论",
+      "title": "AI Can Make You Suck Faster Too",
+      "insight": "HN 热议：74 分 · 81 评论",
       "sentiment": "neutral",
-      "comments": 43,
-      "url": "https://usealmanac.com/",
+      "comments": 81,
+      "url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
       "id": 5
     }
   ]
