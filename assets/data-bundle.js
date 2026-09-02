@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-02T07:22:38Z",
+    "updated": "2026-09-02T13:01:21Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-02T07:22:38Z",
+    "updated": "2026-09-02T13:01:21Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-02T07:22:38Z",
+    "updated": "2026-09-02T13:01:21Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187067,
-            "stars_today": 187067,
+            "stars": 187076,
+            "stars_today": 187076,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 168502,
-            "stars_today": 168502,
+            "stars": 168562,
+            "stars_today": 168562,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 104187,
-            "stars_today": 104187,
+            "stars": 104200,
+            "stars_today": 104200,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96427,
-            "stars_today": 96427,
+            "stars": 96447,
+            "stars_today": 96447,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 92956,
-            "stars_today": 92956,
+            "stars": 92999,
+            "stars_today": 92999,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 85920,
-            "stars_today": 85920,
+            "stars": 85946,
+            "stars_today": 85946,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-02T07:22:38Z",
+    "updated": "2026-09-02T13:01:21Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-02T07:22:38Z",
+    "updated": "2026-09-02T13:01:21Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-02T07:22:38Z",
+    "updated": "2026-09-02T13:01:21Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Claude Fable 5.1 and Claude Mythos 5.1",
-            "insight": "HN 热议：1157 分 · 1065 评论",
+            "insight": "HN 热议：1313 分 · 1236 评论",
             "sentiment": "positive",
-            "comments": 1065,
+            "comments": 1236,
             "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "The Emergent Symbolic Structure of Artificial Neural Networks",
-            "insight": "HN 热议：74 分 · 14 评论",
+            "insight": "HN 热议：199 分 · 64 评论",
             "sentiment": "neutral",
-            "comments": 14,
+            "comments": 64,
             "url": "https://arxiv.org/abs/2608.29530",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
-            "insight": "HN 热议：638 分 · 692 评论",
-            "sentiment": "positive",
-            "comments": 692,
-            "url": "https://danluu.com/zitron/",
+            "title": "Quasar 438B: Europe's Leading AI Model",
+            "insight": "HN 热议：44 分 · 28 评论",
+            "sentiment": "neutral",
+            "comments": 28,
+            "url": "https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
-            "insight": "HN 热议：116 分 · 46 评论",
+            "title": "You Know Who Hates AI? Insurance Claims Adjusters",
+            "insight": "HN 热议：67 分 · 32 评论",
             "sentiment": "neutral",
-            "comments": 46,
-            "url": "https://masteranza.github.io/weedout/",
+            "comments": 32,
+            "url": "https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "The efficient frontier of LLM inference",
-            "insight": "HN 热议：104 分 · 25 评论",
-            "sentiment": "neutral",
-            "comments": 25,
-            "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
+            "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
+            "insight": "HN 热议：776 分 · 853 评论",
+            "sentiment": "positive",
+            "comments": 853,
+            "url": "https://danluu.com/zitron/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-02T07:22:38Z",
+    "updated": "2026-09-02T13:01:21Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

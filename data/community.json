@@ -1,49 +1,49 @@
 {
-  "updated": "2026-09-02T07:22:38Z",
+  "updated": "2026-09-02T13:01:21Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Claude Fable 5.1 and Claude Mythos 5.1",
-      "insight": "HN 热议：1157 分 · 1065 评论",
+      "insight": "HN 热议：1313 分 · 1236 评论",
       "sentiment": "positive",
-      "comments": 1065,
+      "comments": 1236,
       "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "The Emergent Symbolic Structure of Artificial Neural Networks",
-      "insight": "HN 热议：74 分 · 14 评论",
+      "insight": "HN 热议：199 分 · 64 评论",
       "sentiment": "neutral",
-      "comments": 14,
+      "comments": 64,
       "url": "https://arxiv.org/abs/2608.29530",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
-      "insight": "HN 热议：638 分 · 692 评论",
-      "sentiment": "positive",
-      "comments": 692,
-      "url": "https://danluu.com/zitron/",
+      "title": "Quasar 438B: Europe's Leading AI Model",
+      "insight": "HN 热议：44 分 · 28 评论",
+      "sentiment": "neutral",
+      "comments": 28,
+      "url": "https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
-      "insight": "HN 热议：116 分 · 46 评论",
+      "title": "You Know Who Hates AI? Insurance Claims Adjusters",
+      "insight": "HN 热议：67 分 · 32 评论",
       "sentiment": "neutral",
-      "comments": 46,
-      "url": "https://masteranza.github.io/weedout/",
+      "comments": 32,
+      "url": "https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "The efficient frontier of LLM inference",
-      "insight": "HN 热议：104 分 · 25 评论",
-      "sentiment": "neutral",
-      "comments": 25,
-      "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
+      "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
+      "insight": "HN 热议：776 分 · 853 评论",
+      "sentiment": "positive",
+      "comments": 853,
+      "url": "https://danluu.com/zitron/",
       "id": 5
     }
   ]
