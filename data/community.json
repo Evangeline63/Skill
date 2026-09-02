@@ -1,49 +1,49 @@
 {
-  "updated": "2026-09-02T01:39:31Z",
+  "updated": "2026-09-02T07:22:38Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Claude Fable 5.1 and Claude Mythos 5.1",
-      "insight": "HN 热议：928 分 · 876 评论",
+      "insight": "HN 热议：1157 分 · 1065 评论",
       "sentiment": "positive",
-      "comments": 876,
+      "comments": 1065,
       "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
-      "insight": "HN 热议：409 分 · 497 评论",
-      "sentiment": "positive",
-      "comments": 497,
-      "url": "https://danluu.com/zitron/",
+      "title": "The Emergent Symbolic Structure of Artificial Neural Networks",
+      "insight": "HN 热议：74 分 · 14 评论",
+      "sentiment": "neutral",
+      "comments": 14,
+      "url": "https://arxiv.org/abs/2608.29530",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "The efficient frontier of LLM inference",
-      "insight": "HN 热议：34 分 · 6 评论",
-      "sentiment": "neutral",
-      "comments": 6,
-      "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
+      "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
+      "insight": "HN 热议：638 分 · 692 评论",
+      "sentiment": "positive",
+      "comments": 692,
+      "url": "https://danluu.com/zitron/",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
-      "insight": "HN 热议：52 分 · 18 评论",
+      "insight": "HN 热议：116 分 · 46 评论",
       "sentiment": "neutral",
-      "comments": 18,
+      "comments": 46,
       "url": "https://masteranza.github.io/weedout/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Claude Fable 5.1 made me a nice animated pelican",
-      "insight": "HN 热议：6 分 · 0 评论",
+      "title": "The efficient frontier of LLM inference",
+      "insight": "HN 热议：104 分 · 25 评论",
       "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://simonwillison.net/2026/Sep/1/claude-fable-5-1/",
+      "comments": 25,
+      "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
       "id": 5
     }
   ]
