@@ -1,49 +1,49 @@
 {
-  "updated": "2026-09-02T13:01:21Z",
+  "updated": "2026-09-02T18:11:21Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Claude Fable 5.1 and Claude Mythos 5.1",
-      "insight": "HN 热议：1313 分 · 1236 评论",
+      "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "insight": "HN 热议：476 分 · 277 评论",
       "sentiment": "positive",
-      "comments": 1236,
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+      "comments": 277,
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "The Emergent Symbolic Structure of Artificial Neural Networks",
-      "insight": "HN 热议：199 分 · 64 评论",
-      "sentiment": "neutral",
-      "comments": 64,
-      "url": "https://arxiv.org/abs/2608.29530",
+      "title": "Mistral now trains on user input by default, except on enterprise tier",
+      "insight": "HN 热议：263 分 · 119 评论",
+      "sentiment": "positive",
+      "comments": 119,
+      "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Quasar 438B: Europe's Leading AI Model",
-      "insight": "HN 热议：44 分 · 28 评论",
+      "title": "ChatGPT ad targeting is garbage",
+      "insight": "HN 热议：26 分 · 28 评论",
       "sentiment": "neutral",
       "comments": 28,
-      "url": "https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model",
+      "url": "https://successfulsoftware.net/2026/09/02/chatgpt-ad-targeting-is-garbage/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "You Know Who Hates AI? Insurance Claims Adjusters",
-      "insight": "HN 热议：67 分 · 32 评论",
+      "title": "Paint.net 5.2 alpha now runs on Linux",
+      "insight": "HN 热议：30 分 · 14 评论",
       "sentiment": "neutral",
-      "comments": 32,
-      "url": "https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/",
+      "comments": 14,
+      "url": "https://forums.paint.net/topic/134562-paintnet-52-alpha-build-9739/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
-      "insight": "HN 热议：776 分 · 853 评论",
-      "sentiment": "positive",
-      "comments": 853,
-      "url": "https://danluu.com/zitron/",
+      "title": "A third of Perplexity's citations don't contain the number they're cited for",
+      "insight": "HN 热议：93 分 · 34 评论",
+      "sentiment": "neutral",
+      "comments": 34,
+      "url": "https://hausresearch.com/reports/perplexity-citation-audit/",
       "id": 5
     }
   ]
