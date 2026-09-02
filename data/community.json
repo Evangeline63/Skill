@@ -1,49 +1,49 @@
 {
-  "updated": "2026-09-02T18:11:21Z",
+  "updated": "2026-09-02T22:53:14Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
-      "insight": "HN 热议：476 分 · 277 评论",
+      "insight": "HN 热议：756 分 · 452 评论",
       "sentiment": "positive",
-      "comments": 277,
+      "comments": 452,
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Mistral now trains on user input by default, except on enterprise tier",
-      "insight": "HN 热议：263 分 · 119 评论",
+      "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
+      "insight": "HN 热议：269 分 · 121 评论",
       "sentiment": "positive",
-      "comments": 119,
-      "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
+      "comments": 121,
+      "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "ChatGPT ad targeting is garbage",
-      "insight": "HN 热议：26 分 · 28 评论",
+      "title": "Altair Basic Interpreter Source Code (1975) [pdf]",
+      "insight": "HN 热议：33 分 · 11 评论",
       "sentiment": "neutral",
-      "comments": 28,
-      "url": "https://successfulsoftware.net/2026/09/02/chatgpt-ad-targeting-is-garbage/",
+      "comments": 11,
+      "url": "https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Paint.net 5.2 alpha now runs on Linux",
-      "insight": "HN 热议：30 分 · 14 评论",
-      "sentiment": "neutral",
-      "comments": 14,
-      "url": "https://forums.paint.net/topic/134562-paintnet-52-alpha-build-9739/",
+      "title": "Can I opt out of my input or output data being used for training?",
+      "insight": "HN 热议：350 分 · 152 评论",
+      "sentiment": "positive",
+      "comments": 152,
+      "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "A third of Perplexity's citations don't contain the number they're cited for",
-      "insight": "HN 热议：93 分 · 34 评论",
+      "title": "Qantas Airbus A380 engine failure in 2010 (2023)",
+      "insight": "HN 热议：61 分 · 33 评论",
       "sentiment": "neutral",
-      "comments": 34,
-      "url": "https://hausresearch.com/reports/perplexity-citation-audit/",
+      "comments": 33,
+      "url": "https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7",
       "id": 5
     }
   ]
