@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-02T22:53:14Z",
+    "updated": "2026-09-03T01:44:37Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-02T22:53:14Z",
+    "updated": "2026-09-03T01:44:37Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-02T22:53:14Z",
+    "updated": "2026-09-03T01:44:37Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187083,
-            "stars_today": 187083,
+            "stars": 187088,
+            "stars_today": 187088,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 168627,
-            "stars_today": 168627,
+            "stars": 168633,
+            "stars_today": 168633,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 104224,
-            "stars_today": 104224,
+            "stars": 104227,
+            "stars_today": 104227,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 93027,
-            "stars_today": 93027,
+            "stars": 93035,
+            "stars_today": 93035,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 85983,
-            "stars_today": 85983,
+            "stars": 85997,
+            "stars_today": 85997,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-02T22:53:14Z",
+    "updated": "2026-09-03T01:44:37Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-02T22:53:14Z",
+    "updated": "2026-09-03T01:44:37Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-02T22:53:14Z",
+    "updated": "2026-09-03T01:44:37Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
-            "insight": "HN 热议：756 分 · 452 评论",
+            "insight": "HN 热议：826 分 · 484 评论",
             "sentiment": "positive",
-            "comments": 452,
+            "comments": 484,
             "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
-            "insight": "HN 热议：269 分 · 121 评论",
+            "insight": "HN 热议：310 分 · 143 评论",
             "sentiment": "positive",
-            "comments": 121,
+            "comments": 143,
             "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Altair Basic Interpreter Source Code (1975) [pdf]",
-            "insight": "HN 热议：33 分 · 11 评论",
-            "sentiment": "neutral",
-            "comments": 11,
-            "url": "https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf",
+            "title": "Can I opt out of my input or output data being used for training?",
+            "insight": "HN 热议：370 分 · 164 评论",
+            "sentiment": "positive",
+            "comments": 164,
+            "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Can I opt out of my input or output data being used for training?",
-            "insight": "HN 热议：350 分 · 152 评论",
-            "sentiment": "positive",
-            "comments": 152,
-            "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
+            "title": "The shrinking landscape of linguistic diversity in the age of LLMs",
+            "insight": "HN 热议：30 分 · 6 评论",
+            "sentiment": "neutral",
+            "comments": 6,
+            "url": "https://www.nature.com/articles/s41562-026-02550-0",
             "id": 4
         },
         {
             "source": "HackerNews",
             "title": "Qantas Airbus A380 engine failure in 2010 (2023)",
-            "insight": "HN 热议：61 分 · 33 评论",
+            "insight": "HN 热议：81 分 · 48 评论",
             "sentiment": "neutral",
-            "comments": 33,
+            "comments": 48,
             "url": "https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-02T22:53:14Z",
+    "updated": "2026-09-03T01:44:37Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
