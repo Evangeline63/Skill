@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-03T18:09:48Z",
+    "updated": "2026-09-03T22:51:49Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-03T18:09:48Z",
+    "updated": "2026-09-03T22:51:49Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-03T18:09:48Z",
+    "updated": "2026-09-03T22:51:49Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187105,
-            "stars_today": 187105,
+            "stars": 187106,
+            "stars_today": 187106,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 168866,
-            "stars_today": 168866,
+            "stars": 168952,
+            "stars_today": 168952,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 104276,
-            "stars_today": 104276,
+            "stars": 104290,
+            "stars_today": 104290,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96477,
-            "stars_today": 96477,
+            "stars": 96480,
+            "stars_today": 96480,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 93093,
-            "stars_today": 93093,
+            "stars": 93103,
+            "stars_today": 93103,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 86078,
-            "stars_today": 86078,
+            "stars": 86095,
+            "stars_today": 86095,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-03T18:09:48Z",
+    "updated": "2026-09-03T22:51:49Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-03T18:09:48Z",
+    "updated": "2026-09-03T22:51:49Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-03T18:09:48Z",
+    "updated": "2026-09-03T22:51:49Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
-            "insight": "HN 热议：23 分 · 2 评论",
-            "sentiment": "neutral",
-            "comments": 2,
-            "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
+            "title": "GPT-6 Astra",
+            "insight": "HN 热议：1061 分 · 786 评论",
+            "sentiment": "positive",
+            "comments": 786,
+            "url": "https://openai.com/index/gpt-6-astra/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Ask HN: Why are OpenAI, Claude, and Grok simultaneously down? Coincidence?",
-            "insight": "HN 热议：177 分 · 144 评论",
-            "sentiment": "neutral",
-            "comments": 144,
-            "url": "https://news.ycombinator.com/item?id=49551096",
+            "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+            "insight": "HN 热议：386 分 · 120 评论",
+            "sentiment": "positive",
+            "comments": 120,
+            "url": "https://inference-docs.cerebras.ai/models/overview",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Sony makes bold claim about game ownership",
-            "insight": "HN 热议：141 分 · 173 评论",
+            "title": "The largest electric aircraft just flew [video]",
+            "insight": "HN 热议：126 分 · 79 评论",
             "sentiment": "neutral",
-            "comments": 173,
-            "url": "https://aginggamer.net/game-industry/sony-makes-bold-claim-about-game-ownership/",
+            "comments": 79,
+            "url": "https://www.youtube.com/watch?v=nM86DBOqgPM",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Launch HN: Mireye (YC S26) – Infrastructure for Physical World AI Agents",
-            "insight": "HN 热议：12 分 · 0 评论",
+            "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
+            "insight": "HN 热议：150 分 · 53 评论",
             "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://www.mireye.com",
+            "comments": 53,
+            "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "The browser's main thread is expensive",
-            "insight": "HN 热议：319 分 · 103 评论",
-            "sentiment": "positive",
-            "comments": 103,
-            "url": "https://kciter.so/posts/the-expensive-main-thread/en/",
+            "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
+            "insight": "HN 热议：37 分 · 9 评论",
+            "sentiment": "neutral",
+            "comments": 9,
+            "url": "https://armature.tech/blog/which-tools-coding-agents-install",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-03T18:09:48Z",
+    "updated": "2026-09-03T22:51:49Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
