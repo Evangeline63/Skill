@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-03T13:03:39Z",
+    "updated": "2026-09-03T18:09:48Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-03T13:03:39Z",
+    "updated": "2026-09-03T18:09:48Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-03T13:03:39Z",
+    "updated": "2026-09-03T18:09:48Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187097,
-            "stars_today": 187097,
+            "stars": 187105,
+            "stars_today": 187105,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 168726,
-            "stars_today": 168726,
+            "stars": 168866,
+            "stars_today": 168866,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 104264,
-            "stars_today": 104264,
+            "stars": 104276,
+            "stars_today": 104276,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96474,
-            "stars_today": 96474,
+            "stars": 96477,
+            "stars_today": 96477,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 93075,
-            "stars_today": 93075,
+            "stars": 93093,
+            "stars_today": 93093,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 86063,
-            "stars_today": 86063,
+            "stars": 86078,
+            "stars_today": 86078,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-03T13:03:39Z",
+    "updated": "2026-09-03T18:09:48Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-03T13:03:39Z",
+    "updated": "2026-09-03T18:09:48Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-03T13:03:39Z",
+    "updated": "2026-09-03T18:09:48Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "The Browser's Main Thread Is Expensive",
-            "insight": "HN 热议：191 分 · 55 评论",
+            "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
+            "insight": "HN 热议：23 分 · 2 评论",
             "sentiment": "neutral",
-            "comments": 55,
-            "url": "https://kciter.so/posts/the-expensive-main-thread/en/",
+            "comments": 2,
+            "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
-            "insight": "HN 热议：1068 分 · 604 评论",
-            "sentiment": "positive",
-            "comments": 604,
-            "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+            "title": "Ask HN: Why are OpenAI, Claude, and Grok simultaneously down? Coincidence?",
+            "insight": "HN 热议：177 分 · 144 评论",
+            "sentiment": "neutral",
+            "comments": 144,
+            "url": "https://news.ycombinator.com/item?id=49551096",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
-            "insight": "HN 热议：458 分 · 220 评论",
-            "sentiment": "positive",
-            "comments": 220,
-            "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+            "title": "Sony makes bold claim about game ownership",
+            "insight": "HN 热议：141 分 · 173 评论",
+            "sentiment": "neutral",
+            "comments": 173,
+            "url": "https://aginggamer.net/game-industry/sony-makes-bold-claim-about-game-ownership/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Can I opt out of my input or output data being used for training?",
-            "insight": "HN 热议：469 分 · 215 评论",
-            "sentiment": "positive",
-            "comments": 215,
-            "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
+            "title": "Launch HN: Mireye (YC S26) – Infrastructure for Physical World AI Agents",
+            "insight": "HN 热议：12 分 · 0 评论",
+            "sentiment": "neutral",
+            "comments": 0,
+            "url": "https://www.mireye.com",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "A dark horse enters China's AI race: StartLux",
-            "insight": "HN 热议：22 分 · 8 评论",
-            "sentiment": "neutral",
-            "comments": 8,
-            "url": "https://chinaonchina.com/article/chen-dawei-returns-enters-the-large-model-sector",
+            "title": "The browser's main thread is expensive",
+            "insight": "HN 热议：319 分 · 103 评论",
+            "sentiment": "positive",
+            "comments": 103,
+            "url": "https://kciter.so/posts/the-expensive-main-thread/en/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-03T13:03:39Z",
+    "updated": "2026-09-03T18:09:48Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
