@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-03T07:25:33Z",
+    "updated": "2026-09-03T13:03:39Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-03T07:25:33Z",
+    "updated": "2026-09-03T13:03:39Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-03T07:25:33Z",
+    "updated": "2026-09-03T13:03:39Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187091,
-            "stars_today": 187091,
+            "stars": 187097,
+            "stars_today": 187097,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 168665,
-            "stars_today": 168665,
+            "stars": 168726,
+            "stars_today": 168726,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 104250,
-            "stars_today": 104250,
+            "stars": 104264,
+            "stars_today": 104264,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96469,
-            "stars_today": 96469,
+            "stars": 96474,
+            "stars_today": 96474,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 93056,
-            "stars_today": 93056,
+            "stars": 93075,
+            "stars_today": 93075,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 86028,
-            "stars_today": 86028,
+            "stars": 86063,
+            "stars_today": 86063,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-03T07:25:33Z",
+    "updated": "2026-09-03T13:03:39Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-03T07:25:33Z",
+    "updated": "2026-09-03T13:03:39Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-03T07:25:33Z",
+    "updated": "2026-09-03T13:03:39Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
-            "insight": "HN 热议：972 分 · 550 评论",
-            "sentiment": "positive",
-            "comments": 550,
-            "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+            "title": "The Browser's Main Thread Is Expensive",
+            "insight": "HN 热议：191 分 · 55 评论",
+            "sentiment": "neutral",
+            "comments": 55,
+            "url": "https://kciter.so/posts/the-expensive-main-thread/en/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
-            "insight": "HN 热议：379 分 · 180 评论",
+            "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
+            "insight": "HN 热议：1068 分 · 604 评论",
             "sentiment": "positive",
-            "comments": 180,
-            "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+            "comments": 604,
+            "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Creating Backup Storage Sucks",
-            "insight": "HN 热议：33 分 · 26 评论",
-            "sentiment": "neutral",
-            "comments": 26,
-            "url": "https://smarmelling.com/posts/creating-backup-storage-sucks.html",
+            "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
+            "insight": "HN 热议：458 分 · 220 评论",
+            "sentiment": "positive",
+            "comments": 220,
+            "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
             "id": 3
         },
         {
             "source": "HackerNews",
             "title": "Can I opt out of my input or output data being used for training?",
-            "insight": "HN 热议：424 分 · 182 评论",
+            "insight": "HN 热议：469 分 · 215 评论",
             "sentiment": "positive",
-            "comments": 182,
+            "comments": 215,
             "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "LLMs and Self-Referentiality",
-            "insight": "HN 热议：16 分 · 7 评论",
+            "title": "A dark horse enters China's AI race: StartLux",
+            "insight": "HN 热议：22 分 · 8 评论",
             "sentiment": "neutral",
-            "comments": 7,
-            "url": "https://scottaaronson.blog/?p=10046",
+            "comments": 8,
+            "url": "https://chinaonchina.com/article/chen-dawei-returns-enters-the-large-model-sector",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-03T07:25:33Z",
+    "updated": "2026-09-03T13:03:39Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

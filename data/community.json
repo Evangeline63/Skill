@@ -1,49 +1,49 @@
 {
-  "updated": "2026-09-03T07:25:33Z",
+  "updated": "2026-09-03T13:03:39Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
-      "insight": "HN 热议：972 分 · 550 评论",
-      "sentiment": "positive",
-      "comments": 550,
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+      "title": "The Browser's Main Thread Is Expensive",
+      "insight": "HN 热议：191 分 · 55 评论",
+      "sentiment": "neutral",
+      "comments": 55,
+      "url": "https://kciter.so/posts/the-expensive-main-thread/en/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
-      "insight": "HN 热议：379 分 · 180 评论",
+      "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "insight": "HN 热议：1068 分 · 604 评论",
       "sentiment": "positive",
-      "comments": 180,
-      "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+      "comments": 604,
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Creating Backup Storage Sucks",
-      "insight": "HN 热议：33 分 · 26 评论",
-      "sentiment": "neutral",
-      "comments": 26,
-      "url": "https://smarmelling.com/posts/creating-backup-storage-sucks.html",
+      "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
+      "insight": "HN 热议：458 分 · 220 评论",
+      "sentiment": "positive",
+      "comments": 220,
+      "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "Can I opt out of my input or output data being used for training?",
-      "insight": "HN 热议：424 分 · 182 评论",
+      "insight": "HN 热议：469 分 · 215 评论",
       "sentiment": "positive",
-      "comments": 182,
+      "comments": 215,
       "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "LLMs and Self-Referentiality",
-      "insight": "HN 热议：16 分 · 7 评论",
+      "title": "A dark horse enters China's AI race: StartLux",
+      "insight": "HN 热议：22 分 · 8 评论",
       "sentiment": "neutral",
-      "comments": 7,
-      "url": "https://scottaaronson.blog/?p=10046",
+      "comments": 8,
+      "url": "https://chinaonchina.com/article/chen-dawei-returns-enters-the-large-model-sector",
       "id": 5
     }
   ]
