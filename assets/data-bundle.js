@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-04T17:52:00Z",
+    "updated": "2026-09-04T19:57:44Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-04T17:52:00Z",
+    "updated": "2026-09-04T19:57:44Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-04T17:52:00Z",
+    "updated": "2026-09-04T19:57:44Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187115,
-            "stars_today": 187115,
+            "stars": 187123,
+            "stars_today": 187123,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 169299,
-            "stars_today": 169299,
+            "stars": 169310,
+            "stars_today": 169310,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 104336,
-            "stars_today": 104336,
+            "stars": 104343,
+            "stars_today": 104343,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96483,
-            "stars_today": 96483,
+            "stars": 96485,
+            "stars_today": 96485,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 93173,
-            "stars_today": 93173,
+            "stars": 93183,
+            "stars_today": 93183,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 86170,
-            "stars_today": 86170,
+            "stars": 86175,
+            "stars_today": 86175,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-04T17:52:00Z",
+    "updated": "2026-09-04T19:57:44Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-04T17:52:00Z",
+    "updated": "2026-09-04T19:57:44Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-04T17:52:00Z",
+    "updated": "2026-09-04T19:57:44Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Discovery of a new OpenAI agent message board",
-            "insight": "HN 热议：965 分 · 765 评论",
+            "insight": "HN 热议：1208 分 · 981 评论",
             "sentiment": "positive",
-            "comments": 765,
+            "comments": 981,
             "url": "https://collusion.wiki/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "GPT-6 Astra",
-            "insight": "HN 热议：2078 分 · 1892 评论",
-            "sentiment": "positive",
-            "comments": 1892,
-            "url": "https://openai.com/index/gpt-6-astra/",
+            "title": "Government Rails Site Hit Hours After CVE Patch",
+            "insight": "HN 热议：19 分 · 6 评论",
+            "sentiment": "neutral",
+            "comments": 6,
+            "url": "https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Corporate America is getting hooked on open-source AI",
-            "insight": "HN 热议：133 分 · 101 评论",
+            "title": "Can AI design circuit boards yet?",
+            "insight": "HN 热议：5 分 · 0 评论",
             "sentiment": "neutral",
-            "comments": 101,
-            "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
+            "comments": 0,
+            "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
-            "insight": "HN 热议：310 分 · 56 评论",
-            "sentiment": "positive",
-            "comments": 56,
-            "url": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
+            "title": "Show HN: TERMy – A fast terminal assistant that does not use LLMs",
+            "insight": "HN 热议：45 分 · 15 评论",
+            "sentiment": "neutral",
+            "comments": 15,
+            "url": "https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
-            "insight": "HN 热议：660 分 · 218 评论",
-            "sentiment": "positive",
-            "comments": 218,
-            "url": "https://inference-docs.cerebras.ai/models/overview",
+            "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages",
+            "insight": "HN 热议：157 分 · 110 评论",
+            "sentiment": "neutral",
+            "comments": 110,
+            "url": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-04T17:52:00Z",
+    "updated": "2026-09-04T19:57:44Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
