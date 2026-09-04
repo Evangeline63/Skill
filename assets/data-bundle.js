@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-04T01:38:41Z",
+    "updated": "2026-09-04T07:27:45Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-04T01:38:41Z",
+    "updated": "2026-09-04T07:27:45Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-04T01:38:41Z",
+    "updated": "2026-09-04T07:27:45Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187107,
-            "stars_today": 187107,
+            "stars": 187108,
+            "stars_today": 187108,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 169016,
-            "stars_today": 169016,
+            "stars": 169172,
+            "stars_today": 169172,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 104299,
-            "stars_today": 104299,
+            "stars": 104312,
+            "stars_today": 104312,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96480,
-            "stars_today": 96480,
+            "stars": 96479,
+            "stars_today": 96479,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 93108,
-            "stars_today": 93108,
+            "stars": 93130,
+            "stars_today": 93130,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 86108,
-            "stars_today": 86108,
+            "stars": 86134,
+            "stars_today": 86134,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-04T01:38:41Z",
+    "updated": "2026-09-04T07:27:45Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-04T01:38:41Z",
+    "updated": "2026-09-04T07:27:45Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-04T01:38:41Z",
+    "updated": "2026-09-04T07:27:45Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "GPT-6 Astra",
-            "insight": "HN 热议：1315 分 · 1037 评论",
+            "insight": "HN 热议：1670 分 · 1454 评论",
             "sentiment": "positive",
-            "comments": 1037,
+            "comments": 1454,
             "url": "https://openai.com/index/gpt-6-astra/",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
-            "insight": "HN 热议：450 分 · 131 评论",
+            "insight": "HN 热议：526 分 · 167 评论",
             "sentiment": "positive",
-            "comments": 131,
+            "comments": 167,
             "url": "https://inference-docs.cerebras.ai/models/overview",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "The largest electric aircraft just flew [video]",
-            "insight": "HN 热议：196 分 · 127 评论",
-            "sentiment": "neutral",
-            "comments": 127,
+            "insight": "HN 热议：283 分 · 199 评论",
+            "sentiment": "positive",
+            "comments": 199,
             "url": "https://www.youtube.com/watch?v=nM86DBOqgPM",
             "id": 3
         },
         {
             "source": "HackerNews",
             "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
-            "insight": "HN 热议：197 分 · 62 评论",
-            "sentiment": "neutral",
-            "comments": 62,
+            "insight": "HN 热议：263 分 · 79 评论",
+            "sentiment": "positive",
+            "comments": 79,
             "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
             "id": 4
         },
         {
             "source": "HackerNews",
             "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
-            "insight": "HN 热议：96 分 · 30 评论",
+            "insight": "HN 热议：188 分 · 74 评论",
             "sentiment": "neutral",
-            "comments": 30,
+            "comments": 74,
             "url": "https://armature.tech/blog/which-tools-coding-agents-install",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-04T01:38:41Z",
+    "updated": "2026-09-04T07:27:45Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

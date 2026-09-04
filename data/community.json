@@ -1,48 +1,48 @@
 {
-  "updated": "2026-09-04T01:38:41Z",
+  "updated": "2026-09-04T07:27:45Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "GPT-6 Astra",
-      "insight": "HN 热议：1315 分 · 1037 评论",
+      "insight": "HN 热议：1670 分 · 1454 评论",
       "sentiment": "positive",
-      "comments": 1037,
+      "comments": 1454,
       "url": "https://openai.com/index/gpt-6-astra/",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
-      "insight": "HN 热议：450 分 · 131 评论",
+      "insight": "HN 热议：526 分 · 167 评论",
       "sentiment": "positive",
-      "comments": 131,
+      "comments": 167,
       "url": "https://inference-docs.cerebras.ai/models/overview",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "The largest electric aircraft just flew [video]",
-      "insight": "HN 热议：196 分 · 127 评论",
-      "sentiment": "neutral",
-      "comments": 127,
+      "insight": "HN 热议：283 分 · 199 评论",
+      "sentiment": "positive",
+      "comments": 199,
       "url": "https://www.youtube.com/watch?v=nM86DBOqgPM",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
-      "insight": "HN 热议：197 分 · 62 评论",
-      "sentiment": "neutral",
-      "comments": 62,
+      "insight": "HN 热议：263 分 · 79 评论",
+      "sentiment": "positive",
+      "comments": 79,
       "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
       "id": 4
     },
     {
       "source": "HackerNews",
       "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
-      "insight": "HN 热议：96 分 · 30 评论",
+      "insight": "HN 热议：188 分 · 74 评论",
       "sentiment": "neutral",
-      "comments": 30,
+      "comments": 74,
       "url": "https://armature.tech/blog/which-tools-coding-agents-install",
       "id": 5
     }
