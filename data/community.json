@@ -1,49 +1,49 @@
 {
-  "updated": "2026-09-04T12:58:26Z",
+  "updated": "2026-09-04T17:52:00Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Discovery of a new OpenAI agent message board",
-      "insight": "HN 热议：116 分 · 51 评论",
-      "sentiment": "neutral",
-      "comments": 51,
+      "insight": "HN 热议：965 分 · 765 评论",
+      "sentiment": "positive",
+      "comments": 765,
       "url": "https://collusion.wiki/",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "GPT-6 Astra",
-      "insight": "HN 热议：1912 分 · 1726 评论",
+      "insight": "HN 热议：2078 分 · 1892 评论",
       "sentiment": "positive",
-      "comments": 1726,
+      "comments": 1892,
       "url": "https://openai.com/index/gpt-6-astra/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
-      "insight": "HN 热议：601 分 · 201 评论",
-      "sentiment": "positive",
-      "comments": 201,
-      "url": "https://inference-docs.cerebras.ai/models/overview",
+      "title": "Corporate America is getting hooked on open-source AI",
+      "insight": "HN 热议：133 分 · 101 评论",
+      "sentiment": "neutral",
+      "comments": 101,
+      "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "The largest electric aircraft just flew [video]",
-      "insight": "HN 热议：380 分 · 266 评论",
+      "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
+      "insight": "HN 热议：310 分 · 56 评论",
       "sentiment": "positive",
-      "comments": 266,
-      "url": "https://www.youtube.com/watch?v=nM86DBOqgPM",
+      "comments": 56,
+      "url": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Carbon-aware electricity pricing, measured daily on 38 grids",
-      "insight": "HN 热议：63 分 · 40 评论",
-      "sentiment": "neutral",
-      "comments": 40,
-      "url": "https://carbonawarepricing.com/",
+      "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+      "insight": "HN 热议：660 分 · 218 评论",
+      "sentiment": "positive",
+      "comments": 218,
+      "url": "https://inference-docs.cerebras.ai/models/overview",
       "id": 5
     }
   ]
