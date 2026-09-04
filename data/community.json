@@ -1,49 +1,49 @@
 {
-  "updated": "2026-09-04T19:57:44Z",
+  "updated": "2026-09-04T22:35:48Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Discovery of a new OpenAI agent message board",
-      "insight": "HN 热议：1208 分 · 981 评论",
+      "insight": "HN 热议：1385 分 · 1113 评论",
       "sentiment": "positive",
-      "comments": 981,
+      "comments": 1113,
       "url": "https://collusion.wiki/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Government Rails Site Hit Hours After CVE Patch",
-      "insight": "HN 热议：19 分 · 6 评论",
+      "title": "Can AI design circuit boards yet?",
+      "insight": "HN 热议：103 分 · 67 评论",
       "sentiment": "neutral",
-      "comments": 6,
-      "url": "https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/",
+      "comments": 67,
+      "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Can AI design circuit boards yet?",
-      "insight": "HN 热议：5 分 · 0 评论",
+      "title": "Government Rails Site Hit Hours After CVE Patch",
+      "insight": "HN 热议：58 分 · 12 评论",
       "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+      "comments": 12,
+      "url": "https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "Show HN: TERMy – A fast terminal assistant that does not use LLMs",
-      "insight": "HN 热议：45 分 · 15 评论",
+      "insight": "HN 热议：79 分 · 25 评论",
       "sentiment": "neutral",
-      "comments": 15,
+      "comments": 25,
       "url": "https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages",
-      "insight": "HN 热议：157 分 · 110 评论",
+      "title": "\"Next-token predictor\" is the wrong mental model for LLMs",
+      "insight": "HN 热议：47 分 · 105 评论",
       "sentiment": "neutral",
-      "comments": 110,
-      "url": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
+      "comments": 105,
+      "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
       "id": 5
     }
   ]

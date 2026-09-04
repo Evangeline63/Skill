@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-04T19:57:44Z",
+    "updated": "2026-09-04T22:35:48Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-04T19:57:44Z",
+    "updated": "2026-09-04T22:35:48Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-04T19:57:44Z",
+    "updated": "2026-09-04T22:35:48Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187123,
-            "stars_today": 187123,
+            "stars": 187131,
+            "stars_today": 187131,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 169310,
-            "stars_today": 169310,
+            "stars": 169320,
+            "stars_today": 169320,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 104343,
-            "stars_today": 104343,
+            "stars": 104345,
+            "stars_today": 104345,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96485,
-            "stars_today": 96485,
+            "stars": 96487,
+            "stars_today": 96487,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 93183,
-            "stars_today": 93183,
+            "stars": 93196,
+            "stars_today": 93196,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 86175,
-            "stars_today": 86175,
+            "stars": 86180,
+            "stars_today": 86180,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-04T19:57:44Z",
+    "updated": "2026-09-04T22:35:48Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-04T19:57:44Z",
+    "updated": "2026-09-04T22:35:48Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-04T19:57:44Z",
+    "updated": "2026-09-04T22:35:48Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Discovery of a new OpenAI agent message board",
-            "insight": "HN 热议：1208 分 · 981 评论",
+            "insight": "HN 热议：1385 分 · 1113 评论",
             "sentiment": "positive",
-            "comments": 981,
+            "comments": 1113,
             "url": "https://collusion.wiki/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Government Rails Site Hit Hours After CVE Patch",
-            "insight": "HN 热议：19 分 · 6 评论",
+            "title": "Can AI design circuit boards yet?",
+            "insight": "HN 热议：103 分 · 67 评论",
             "sentiment": "neutral",
-            "comments": 6,
-            "url": "https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/",
+            "comments": 67,
+            "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Can AI design circuit boards yet?",
-            "insight": "HN 热议：5 分 · 0 评论",
+            "title": "Government Rails Site Hit Hours After CVE Patch",
+            "insight": "HN 热议：58 分 · 12 评论",
             "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+            "comments": 12,
+            "url": "https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/",
             "id": 3
         },
         {
             "source": "HackerNews",
             "title": "Show HN: TERMy – A fast terminal assistant that does not use LLMs",
-            "insight": "HN 热议：45 分 · 15 评论",
+            "insight": "HN 热议：79 分 · 25 评论",
             "sentiment": "neutral",
-            "comments": 15,
+            "comments": 25,
             "url": "https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages",
-            "insight": "HN 热议：157 分 · 110 评论",
+            "title": "\"Next-token predictor\" is the wrong mental model for LLMs",
+            "insight": "HN 热议：47 分 · 105 评论",
             "sentiment": "neutral",
-            "comments": 110,
-            "url": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
+            "comments": 105,
+            "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-04T19:57:44Z",
+    "updated": "2026-09-04T22:35:48Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
