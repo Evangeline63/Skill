@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-05T01:39:41Z",
+    "updated": "2026-09-05T07:08:58Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-05T01:39:41Z",
+    "updated": "2026-09-05T07:08:58Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-05T01:39:41Z",
+    "updated": "2026-09-05T07:08:58Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187132,
-            "stars_today": 187132,
+            "stars": 187139,
+            "stars_today": 187139,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 169336,
-            "stars_today": 169336,
+            "stars": 169354,
+            "stars_today": 169354,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 104345,
-            "stars_today": 104345,
+            "stars": 104351,
+            "stars_today": 104351,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 93204,
-            "stars_today": 93204,
+            "stars": 93233,
+            "stars_today": 93233,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 86187,
-            "stars_today": 86187,
+            "stars": 86209,
+            "stars_today": 86209,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "microsoft/AI-For-Beginners",
             "description": "12 Weeks, 24 Lessons, AI for All!",
             "language": "Jupyter Notebook",
-            "stars": 68070,
-            "stars_today": 68070,
+            "stars": 68083,
+            "stars_today": 68083,
             "url": "https://github.com/microsoft/AI-For-Beginners"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-05T01:39:41Z",
+    "updated": "2026-09-05T07:08:58Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-05T01:39:41Z",
+    "updated": "2026-09-05T07:08:58Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-05T01:39:41Z",
+    "updated": "2026-09-05T07:08:58Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Discovery of a new OpenAI agent message board",
-            "insight": "HN 热议：1475 分 · 1188 评论",
+            "insight": "HN 热议：1634 分 · 1282 评论",
             "sentiment": "positive",
-            "comments": 1188,
+            "comments": 1282,
             "url": "https://collusion.wiki/",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "GPT-6 Astra on OpenRouter",
-            "insight": "HN 热议：119 分 · 59 评论",
+            "insight": "HN 热议：194 分 · 107 评论",
             "sentiment": "neutral",
-            "comments": 59,
+            "comments": 107,
             "url": "https://openrouter.ai/openai/gpt-6-astra",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "Can AI design circuit boards yet?",
-            "insight": "HN 热议：158 分 · 99 评论",
-            "sentiment": "neutral",
-            "comments": 99,
+            "insight": "HN 热议：232 分 · 142 评论",
+            "sentiment": "positive",
+            "comments": 142,
             "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Reversing MikroTik's Silent Patch: The RouterOS 7.23.4 Fix They Wouldn't Explain",
-            "insight": "HN 热议：13 分 · 1 评论",
+            "title": "GPT-6 Astra in code review: Gains, privacy, and cost",
+            "insight": "HN 热议：17 分 · 4 评论",
             "sentiment": "neutral",
-            "comments": 1,
-            "url": "https://npratley.net/reversing-mikrotiks-silent-patch-the-routeros-7-23-4-fix-they-wouldnt-explain/",
+            "comments": 4,
+            "url": "https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation",
             "id": 4
         },
         {
             "source": "HackerNews",
             "title": "Portal by Spotify cut my Claude Code token usage by 90%",
-            "insight": "HN 热议：28 分 · 6 评论",
+            "insight": "HN 热议：97 分 · 47 评论",
             "sentiment": "neutral",
-            "comments": 6,
+            "comments": 47,
             "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-05T01:39:41Z",
+    "updated": "2026-09-05T07:08:58Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
