@@ -1,48 +1,48 @@
 {
-  "updated": "2026-09-05T12:10:46Z",
+  "updated": "2026-09-05T16:58:32Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Discovery of a new OpenAI agent message board",
-      "insight": "HN 热议：1781 分 · 1359 评论",
+      "insight": "HN 热议：1910 分 · 1451 评论",
       "sentiment": "positive",
-      "comments": 1359,
+      "comments": 1451,
       "url": "https://collusion.wiki/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "AI handles incidents, engineers lose touch with their systems",
-      "insight": "HN 热议：187 分 · 169 评论",
-      "sentiment": "neutral",
-      "comments": 169,
-      "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+      "title": "Can AI design circuit boards yet?",
+      "insight": "HN 热议：311 分 · 185 评论",
+      "sentiment": "positive",
+      "comments": 185,
+      "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "GPT-6 Astra on OpenRouter",
-      "insight": "HN 热议：240 分 · 151 评论",
+      "title": "AI handles incidents, engineers lose touch with their systems",
+      "insight": "HN 热议：283 分 · 255 评论",
       "sentiment": "positive",
-      "comments": 151,
-      "url": "https://openrouter.ai/openai/gpt-6-astra",
+      "comments": 255,
+      "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Can AI design circuit boards yet?",
-      "insight": "HN 热议：280 分 · 167 评论",
+      "title": "GPT-6 Astra on OpenRouter",
+      "insight": "HN 热议：275 分 · 189 评论",
       "sentiment": "positive",
-      "comments": 167,
-      "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+      "comments": 189,
+      "url": "https://openrouter.ai/openai/gpt-6-astra",
       "id": 4
     },
     {
       "source": "HackerNews",
       "title": "Portal by Spotify cut my Claude Code token usage by 90%",
-      "insight": "HN 热议：157 分 · 70 评论",
-      "sentiment": "neutral",
-      "comments": 70,
+      "insight": "HN 热议：207 分 · 113 评论",
+      "sentiment": "positive",
+      "comments": 113,
       "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
       "id": 5
     }
