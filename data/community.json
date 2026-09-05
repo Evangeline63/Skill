@@ -1,49 +1,49 @@
 {
-  "updated": "2026-09-05T16:58:32Z",
+  "updated": "2026-09-05T19:38:02Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Discovery of a new OpenAI agent message board",
-      "insight": "HN 热议：1910 分 · 1451 评论",
+      "insight": "HN 热议：1988 分 · 1477 评论",
       "sentiment": "positive",
-      "comments": 1451,
+      "comments": 1477,
       "url": "https://collusion.wiki/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Can AI design circuit boards yet?",
-      "insight": "HN 热议：311 分 · 185 评论",
-      "sentiment": "positive",
-      "comments": 185,
-      "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+      "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
+      "insight": "HN 热议：39 分 · 0 评论",
+      "sentiment": "neutral",
+      "comments": 0,
+      "url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "AI handles incidents, engineers lose touch with their systems",
-      "insight": "HN 热议：283 分 · 255 评论",
+      "title": "Can AI design circuit boards yet?",
+      "insight": "HN 热议：336 分 · 198 评论",
       "sentiment": "positive",
-      "comments": 255,
-      "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+      "comments": 198,
+      "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "GPT-6 Astra on OpenRouter",
-      "insight": "HN 热议：275 分 · 189 评论",
+      "title": "AI handles incidents, engineers lose touch with their systems",
+      "insight": "HN 热议：320 分 · 285 评论",
       "sentiment": "positive",
-      "comments": 189,
-      "url": "https://openrouter.ai/openai/gpt-6-astra",
+      "comments": 285,
+      "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Portal by Spotify cut my Claude Code token usage by 90%",
-      "insight": "HN 热议：207 分 · 113 评论",
+      "title": "GPT-6 Astra on OpenRouter",
+      "insight": "HN 热议：289 分 · 211 评论",
       "sentiment": "positive",
-      "comments": 113,
-      "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
+      "comments": 211,
+      "url": "https://openrouter.ai/openai/gpt-6-astra",
       "id": 5
     }
   ]
