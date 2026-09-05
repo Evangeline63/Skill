@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-04T22:35:48Z",
+    "updated": "2026-09-05T01:39:41Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-04T22:35:48Z",
+    "updated": "2026-09-05T01:39:41Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-04T22:35:48Z",
+    "updated": "2026-09-05T01:39:41Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187131,
-            "stars_today": 187131,
+            "stars": 187132,
+            "stars_today": 187132,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 169320,
-            "stars_today": 169320,
+            "stars": 169336,
+            "stars_today": 169336,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -297,35 +297,35 @@ window.__DATA__ = {
         },
         {
             "rank": 4,
-            "name": "hacksider/Deep-Live-Cam",
-            "description": "real time face swap and one-click video deepfake with only a single image",
-            "language": "Python",
-            "stars": 96487,
-            "stars_today": 96487,
-            "url": "https://github.com/hacksider/Deep-Live-Cam"
-        },
-        {
-            "rank": 5,
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 93196,
-            "stars_today": 93196,
+            "stars": 93204,
+            "stars_today": 93204,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
-            "rank": 6,
+            "rank": 5,
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 86180,
-            "stars_today": 86180,
+            "stars": 86187,
+            "stars_today": 86187,
             "url": "https://github.com/OpenHands/OpenHands"
+        },
+        {
+            "rank": 6,
+            "name": "microsoft/AI-For-Beginners",
+            "description": "12 Weeks, 24 Lessons, AI for All!",
+            "language": "Jupyter Notebook",
+            "stars": 68070,
+            "stars_today": 68070,
+            "url": "https://github.com/microsoft/AI-For-Beginners"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-04T22:35:48Z",
+    "updated": "2026-09-05T01:39:41Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-04T22:35:48Z",
+    "updated": "2026-09-05T01:39:41Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-04T22:35:48Z",
+    "updated": "2026-09-05T01:39:41Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Discovery of a new OpenAI agent message board",
-            "insight": "HN 热议：1385 分 · 1113 评论",
+            "insight": "HN 热议：1475 分 · 1188 评论",
             "sentiment": "positive",
-            "comments": 1113,
+            "comments": 1188,
             "url": "https://collusion.wiki/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Can AI design circuit boards yet?",
-            "insight": "HN 热议：103 分 · 67 评论",
+            "title": "GPT-6 Astra on OpenRouter",
+            "insight": "HN 热议：119 分 · 59 评论",
             "sentiment": "neutral",
-            "comments": 67,
-            "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+            "comments": 59,
+            "url": "https://openrouter.ai/openai/gpt-6-astra",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Government Rails Site Hit Hours After CVE Patch",
-            "insight": "HN 热议：58 分 · 12 评论",
+            "title": "Can AI design circuit boards yet?",
+            "insight": "HN 热议：158 分 · 99 评论",
             "sentiment": "neutral",
-            "comments": 12,
-            "url": "https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/",
+            "comments": 99,
+            "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: TERMy – A fast terminal assistant that does not use LLMs",
-            "insight": "HN 热议：79 分 · 25 评论",
+            "title": "Reversing MikroTik's Silent Patch: The RouterOS 7.23.4 Fix They Wouldn't Explain",
+            "insight": "HN 热议：13 分 · 1 评论",
             "sentiment": "neutral",
-            "comments": 25,
-            "url": "https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md",
+            "comments": 1,
+            "url": "https://npratley.net/reversing-mikrotiks-silent-patch-the-routeros-7-23-4-fix-they-wouldnt-explain/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "\"Next-token predictor\" is the wrong mental model for LLMs",
-            "insight": "HN 热议：47 分 · 105 评论",
+            "title": "Portal by Spotify cut my Claude Code token usage by 90%",
+            "insight": "HN 热议：28 分 · 6 评论",
             "sentiment": "neutral",
-            "comments": 105,
-            "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
+            "comments": 6,
+            "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-04T22:35:48Z",
+    "updated": "2026-09-05T01:39:41Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

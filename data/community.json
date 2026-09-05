@@ -1,49 +1,49 @@
 {
-  "updated": "2026-09-04T22:35:48Z",
+  "updated": "2026-09-05T01:39:41Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Discovery of a new OpenAI agent message board",
-      "insight": "HN 热议：1385 分 · 1113 评论",
+      "insight": "HN 热议：1475 分 · 1188 评论",
       "sentiment": "positive",
-      "comments": 1113,
+      "comments": 1188,
       "url": "https://collusion.wiki/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Can AI design circuit boards yet?",
-      "insight": "HN 热议：103 分 · 67 评论",
+      "title": "GPT-6 Astra on OpenRouter",
+      "insight": "HN 热议：119 分 · 59 评论",
       "sentiment": "neutral",
-      "comments": 67,
-      "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+      "comments": 59,
+      "url": "https://openrouter.ai/openai/gpt-6-astra",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Government Rails Site Hit Hours After CVE Patch",
-      "insight": "HN 热议：58 分 · 12 评论",
+      "title": "Can AI design circuit boards yet?",
+      "insight": "HN 热议：158 分 · 99 评论",
       "sentiment": "neutral",
-      "comments": 12,
-      "url": "https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/",
+      "comments": 99,
+      "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: TERMy – A fast terminal assistant that does not use LLMs",
-      "insight": "HN 热议：79 分 · 25 评论",
+      "title": "Reversing MikroTik's Silent Patch: The RouterOS 7.23.4 Fix They Wouldn't Explain",
+      "insight": "HN 热议：13 分 · 1 评论",
       "sentiment": "neutral",
-      "comments": 25,
-      "url": "https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md",
+      "comments": 1,
+      "url": "https://npratley.net/reversing-mikrotiks-silent-patch-the-routeros-7-23-4-fix-they-wouldnt-explain/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "\"Next-token predictor\" is the wrong mental model for LLMs",
-      "insight": "HN 热议：47 分 · 105 评论",
+      "title": "Portal by Spotify cut my Claude Code token usage by 90%",
+      "insight": "HN 热议：28 分 · 6 评论",
       "sentiment": "neutral",
-      "comments": 105,
-      "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
+      "comments": 6,
+      "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
       "id": 5
     }
   ]
