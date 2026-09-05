@@ -1,49 +1,49 @@
 {
-  "updated": "2026-09-05T19:38:02Z",
+  "updated": "2026-09-05T22:24:41Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Discovery of a new OpenAI agent message board",
-      "insight": "HN 热议：1988 分 · 1477 评论",
-      "sentiment": "positive",
-      "comments": 1477,
-      "url": "https://collusion.wiki/",
+      "title": "Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)",
+      "insight": "HN 热议：40 分 · 17 评论",
+      "sentiment": "neutral",
+      "comments": 17,
+      "url": "https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
-      "insight": "HN 热议：39 分 · 0 评论",
+      "title": "LLMs as a Cognitive Virus",
+      "insight": "HN 热议：105 分 · 71 评论",
       "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
+      "comments": 71,
+      "url": "https://arxiv.org/abs/2609.03344",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Can AI design circuit boards yet?",
-      "insight": "HN 热议：336 分 · 198 评论",
-      "sentiment": "positive",
-      "comments": 198,
-      "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+      "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
+      "insight": "HN 热议：100 分 · 12 评论",
+      "sentiment": "neutral",
+      "comments": 12,
+      "url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "AI handles incidents, engineers lose touch with their systems",
-      "insight": "HN 热议：320 分 · 285 评论",
+      "title": "Discovery of a new OpenAI agent message board",
+      "insight": "HN 热议：2055 分 · 1496 评论",
       "sentiment": "positive",
-      "comments": 285,
-      "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+      "comments": 1496,
+      "url": "https://collusion.wiki/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "GPT-6 Astra on OpenRouter",
-      "insight": "HN 热议：289 分 · 211 评论",
-      "sentiment": "positive",
-      "comments": 211,
-      "url": "https://openrouter.ai/openai/gpt-6-astra",
+      "title": "America's Two Largest School Districts Impose AI Moratoriums",
+      "insight": "HN 热议：11 分 · 0 评论",
+      "sentiment": "neutral",
+      "comments": 0,
+      "url": "https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/",
       "id": 5
     }
   ]

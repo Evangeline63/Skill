@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-05T19:38:02Z",
+    "updated": "2026-09-05T22:24:41Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-05T19:38:02Z",
+    "updated": "2026-09-05T22:24:41Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-05T19:38:02Z",
+    "updated": "2026-09-05T22:24:41Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187157,
-            "stars_today": 187157,
+            "stars": 187162,
+            "stars_today": 187162,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 169401,
-            "stars_today": 169401,
+            "stars": 169418,
+            "stars_today": 169418,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 104379,
-            "stars_today": 104379,
+            "stars": 104388,
+            "stars_today": 104388,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 93283,
-            "stars_today": 93283,
+            "stars": 93289,
+            "stars_today": 93289,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 86257,
-            "stars_today": 86257,
+            "stars": 86266,
+            "stars_today": 86266,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "microsoft/AI-For-Beginners",
             "description": "12 Weeks, 24 Lessons, AI for All!",
             "language": "Jupyter Notebook",
-            "stars": 68097,
-            "stars_today": 68097,
+            "stars": 68101,
+            "stars_today": 68101,
             "url": "https://github.com/microsoft/AI-For-Beginners"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-05T19:38:02Z",
+    "updated": "2026-09-05T22:24:41Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-05T19:38:02Z",
+    "updated": "2026-09-05T22:24:41Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-05T19:38:02Z",
+    "updated": "2026-09-05T22:24:41Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Discovery of a new OpenAI agent message board",
-            "insight": "HN 热议：1988 分 · 1477 评论",
-            "sentiment": "positive",
-            "comments": 1477,
-            "url": "https://collusion.wiki/",
+            "title": "Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)",
+            "insight": "HN 热议：40 分 · 17 评论",
+            "sentiment": "neutral",
+            "comments": 17,
+            "url": "https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
-            "insight": "HN 热议：39 分 · 0 评论",
+            "title": "LLMs as a Cognitive Virus",
+            "insight": "HN 热议：105 分 · 71 评论",
             "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
+            "comments": 71,
+            "url": "https://arxiv.org/abs/2609.03344",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Can AI design circuit boards yet?",
-            "insight": "HN 热议：336 分 · 198 评论",
-            "sentiment": "positive",
-            "comments": 198,
-            "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+            "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
+            "insight": "HN 热议：100 分 · 12 评论",
+            "sentiment": "neutral",
+            "comments": 12,
+            "url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "AI handles incidents, engineers lose touch with their systems",
-            "insight": "HN 热议：320 分 · 285 评论",
+            "title": "Discovery of a new OpenAI agent message board",
+            "insight": "HN 热议：2055 分 · 1496 评论",
             "sentiment": "positive",
-            "comments": 285,
-            "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+            "comments": 1496,
+            "url": "https://collusion.wiki/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "GPT-6 Astra on OpenRouter",
-            "insight": "HN 热议：289 分 · 211 评论",
-            "sentiment": "positive",
-            "comments": 211,
-            "url": "https://openrouter.ai/openai/gpt-6-astra",
+            "title": "America's Two Largest School Districts Impose AI Moratoriums",
+            "insight": "HN 热议：11 分 · 0 评论",
+            "sentiment": "neutral",
+            "comments": 0,
+            "url": "https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-05T19:38:02Z",
+    "updated": "2026-09-05T22:24:41Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
