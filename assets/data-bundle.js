@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-05T22:24:41Z",
+    "updated": "2026-09-06T01:33:42Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-05T22:24:41Z",
+    "updated": "2026-09-06T01:33:42Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,7 +266,7 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-05T22:24:41Z",
+    "updated": "2026-09-06T01:33:42Z",
     "repos": [
         {
             "rank": 1,
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 169418,
-            "stars_today": 169418,
+            "stars": 169426,
+            "stars_today": 169426,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 104388,
-            "stars_today": 104388,
+            "stars": 104393,
+            "stars_today": 104393,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 93289,
-            "stars_today": 93289,
+            "stars": 93297,
+            "stars_today": 93297,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 86266,
-            "stars_today": 86266,
+            "stars": 86280,
+            "stars_today": 86280,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "microsoft/AI-For-Beginners",
             "description": "12 Weeks, 24 Lessons, AI for All!",
             "language": "Jupyter Notebook",
-            "stars": 68101,
-            "stars_today": 68101,
+            "stars": 68103,
+            "stars_today": 68103,
             "url": "https://github.com/microsoft/AI-For-Beginners"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-05T22:24:41Z",
+    "updated": "2026-09-06T01:33:42Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-05T22:24:41Z",
+    "updated": "2026-09-06T01:33:42Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-05T22:24:41Z",
+    "updated": "2026-09-06T01:33:42Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)",
-            "insight": "HN 热议：40 分 · 17 评论",
+            "insight": "HN 热议：56 分 · 21 评论",
             "sentiment": "neutral",
-            "comments": 17,
+            "comments": 21,
             "url": "https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "LLMs as a Cognitive Virus",
-            "insight": "HN 热议：105 分 · 71 评论",
-            "sentiment": "neutral",
-            "comments": 71,
-            "url": "https://arxiv.org/abs/2609.03344",
+            "title": "Discovery of a new OpenAI agent message board",
+            "insight": "HN 热议：2109 分 · 1515 评论",
+            "sentiment": "positive",
+            "comments": 1515,
+            "url": "https://collusion.wiki/",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
-            "insight": "HN 热议：100 分 · 12 评论",
+            "insight": "HN 热议：131 分 · 18 评论",
             "sentiment": "neutral",
-            "comments": 12,
+            "comments": 18,
             "url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Discovery of a new OpenAI agent message board",
-            "insight": "HN 热议：2055 分 · 1496 评论",
-            "sentiment": "positive",
-            "comments": 1496,
-            "url": "https://collusion.wiki/",
+            "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
+            "insight": "HN 热议：29 分 · 13 评论",
+            "sentiment": "neutral",
+            "comments": 13,
+            "url": "https://github.com/okf-memory/okf-agent-memory",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "America's Two Largest School Districts Impose AI Moratoriums",
-            "insight": "HN 热议：11 分 · 0 评论",
+            "title": "LLMs as a Cognitive Virus",
+            "insight": "HN 热议：171 分 · 151 评论",
             "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/",
+            "comments": 151,
+            "url": "https://arxiv.org/abs/2609.03344",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-05T22:24:41Z",
+    "updated": "2026-09-06T01:33:42Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
