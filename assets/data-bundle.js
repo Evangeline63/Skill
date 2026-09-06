@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-06T01:33:42Z",
+    "updated": "2026-09-06T07:21:11Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-06T01:33:42Z",
+    "updated": "2026-09-06T07:21:11Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-06T01:33:42Z",
+    "updated": "2026-09-06T07:21:11Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187162,
-            "stars_today": 187162,
+            "stars": 187164,
+            "stars_today": 187164,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 169426,
-            "stars_today": 169426,
+            "stars": 169441,
+            "stars_today": 169441,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 104393,
-            "stars_today": 104393,
+            "stars": 104414,
+            "stars_today": 104414,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 93297,
-            "stars_today": 93297,
+            "stars": 93309,
+            "stars_today": 93309,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 86280,
-            "stars_today": 86280,
+            "stars": 86298,
+            "stars_today": 86298,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "microsoft/AI-For-Beginners",
             "description": "12 Weeks, 24 Lessons, AI for All!",
             "language": "Jupyter Notebook",
-            "stars": 68103,
-            "stars_today": 68103,
+            "stars": 68110,
+            "stars_today": 68110,
             "url": "https://github.com/microsoft/AI-For-Beginners"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-06T01:33:42Z",
+    "updated": "2026-09-06T07:21:11Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-06T01:33:42Z",
+    "updated": "2026-09-06T07:21:11Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-06T01:33:42Z",
+    "updated": "2026-09-06T07:21:11Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)",
-            "insight": "HN 热议：56 分 · 21 评论",
-            "sentiment": "neutral",
-            "comments": 21,
-            "url": "https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/",
+            "title": "Chrome again exempts Google from user site data settings",
+            "insight": "HN 热议：309 分 · 45 评论",
+            "sentiment": "positive",
+            "comments": 45,
+            "url": "https://lapcatsoftware.com/articles/2026/9/1.html",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Discovery of a new OpenAI agent message board",
-            "insight": "HN 热议：2109 分 · 1515 评论",
-            "sentiment": "positive",
-            "comments": 1515,
-            "url": "https://collusion.wiki/",
+            "title": "Watch the 'Eclipse of the Century' Next Year When Spain, Egypt and More Go Dark",
+            "insight": "HN 热议：11 分 · 4 评论",
+            "sentiment": "neutral",
+            "comments": 4,
+            "url": "https://www.nytimes.com/2026/08/13/travel/solar-eclipse-2027-morocco-egypt.html",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
-            "insight": "HN 热议：131 分 · 18 评论",
+            "title": "GPT-6 Astra on robot arms",
+            "insight": "HN 热议：153 分 · 106 评论",
             "sentiment": "neutral",
-            "comments": 18,
-            "url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
+            "comments": 106,
+            "url": "https://openai.robocurve.org/gpt-6-astra/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
-            "insight": "HN 热议：29 分 · 13 评论",
-            "sentiment": "neutral",
-            "comments": 13,
-            "url": "https://github.com/okf-memory/okf-agent-memory",
+            "title": "Discovery of a new OpenAI agent message board",
+            "insight": "HN 热议：2166 分 · 1537 评论",
+            "sentiment": "positive",
+            "comments": 1537,
+            "url": "https://collusion.wiki/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "LLMs as a Cognitive Virus",
-            "insight": "HN 热议：171 分 · 151 评论",
+            "title": "AI, Tools and Transformation",
+            "insight": "HN 热议：31 分 · 8 评论",
             "sentiment": "neutral",
-            "comments": 151,
-            "url": "https://arxiv.org/abs/2609.03344",
+            "comments": 8,
+            "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-06T01:33:42Z",
+    "updated": "2026-09-06T07:21:11Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
