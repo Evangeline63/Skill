@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-06T19:40:23Z",
+    "updated": "2026-09-06T22:29:46Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-06T19:40:23Z",
+    "updated": "2026-09-06T22:29:46Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-06T19:40:23Z",
+    "updated": "2026-09-06T22:29:46Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187173,
-            "stars_today": 187173,
+            "stars": 187175,
+            "stars_today": 187175,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 169497,
-            "stars_today": 169497,
+            "stars": 169507,
+            "stars_today": 169507,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 104469,
-            "stars_today": 104469,
+            "stars": 104476,
+            "stars_today": 104476,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 93340,
-            "stars_today": 93340,
+            "stars": 93346,
+            "stars_today": 93346,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 86358,
-            "stars_today": 86358,
+            "stars": 86371,
+            "stars_today": 86371,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "microsoft/AI-For-Beginners",
             "description": "12 Weeks, 24 Lessons, AI for All!",
             "language": "Jupyter Notebook",
-            "stars": 68153,
-            "stars_today": 68153,
+            "stars": 68159,
+            "stars_today": 68159,
             "url": "https://github.com/microsoft/AI-For-Beginners"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-06T19:40:23Z",
+    "updated": "2026-09-06T22:29:46Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-06T19:40:23Z",
+    "updated": "2026-09-06T22:29:46Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-06T19:40:23Z",
+    "updated": "2026-09-06T22:29:46Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Research acceleration: The view inside OpenAI",
-            "insight": "HN 热议：60 分 · 36 评论",
+            "title": "Reverse engineering the storage format for an undocumented database",
+            "insight": "HN 热议：4 分 · 0 评论",
             "sentiment": "neutral",
-            "comments": 36,
-            "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+            "comments": 0,
+            "url": "https://blog.glazer.ee/posts/converting-cronos/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "AI, Tools and Transformation",
-            "insight": "HN 热议：136 分 · 60 评论",
+            "title": "Research acceleration: The view inside OpenAI",
+            "insight": "HN 热议：89 分 · 64 评论",
             "sentiment": "neutral",
-            "comments": 60,
-            "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
+            "comments": 64,
+            "url": "https://openai.com/index/research-acceleration-view-inside-openai",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "LLMs as a Cognitive Virus",
-            "insight": "HN 热议：359 分 · 240 评论",
-            "sentiment": "positive",
-            "comments": 240,
-            "url": "https://arxiv.org/abs/2609.03344",
+            "title": "AI, Tools and Transformation",
+            "insight": "HN 热议：139 分 · 62 评论",
+            "sentiment": "neutral",
+            "comments": 62,
+            "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Chrome again exempts Google from user site data settings",
-            "insight": "HN 热议：537 分 · 103 评论",
+            "title": "LLMs as a Cognitive Virus",
+            "insight": "HN 热议：371 分 · 243 评论",
             "sentiment": "positive",
-            "comments": 103,
-            "url": "https://lapcatsoftware.com/articles/2026/9/1.html",
+            "comments": 243,
+            "url": "https://arxiv.org/abs/2609.03344",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
-            "insight": "HN 热议：206 分 · 51 评论",
+            "title": "Chrome again exempts Google from user site data settings",
+            "insight": "HN 热议：550 分 · 106 评论",
             "sentiment": "positive",
-            "comments": 51,
-            "url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
+            "comments": 106,
+            "url": "https://lapcatsoftware.com/articles/2026/9/1.html",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-06T19:40:23Z",
+    "updated": "2026-09-06T22:29:46Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
