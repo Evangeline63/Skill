@@ -1,49 +1,49 @@
 {
-  "updated": "2026-09-06T12:25:17Z",
+  "updated": "2026-09-06T17:22:48Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "AI, Tools and Transformation",
-      "insight": "HN 热议：82 分 · 35 评论",
+      "title": "OpenAI: We monitor internal coding agents for misalignment",
+      "insight": "HN 热议：10 分 · 0 评论",
       "sentiment": "neutral",
-      "comments": 35,
-      "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
+      "comments": 0,
+      "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Discovery of a new OpenAI agent message board",
-      "insight": "HN 热议：2203 分 · 1554 评论",
-      "sentiment": "positive",
-      "comments": 1554,
-      "url": "https://collusion.wiki/",
+      "title": "Research acceleration: The view inside OpenAI",
+      "insight": "HN 热议：21 分 · 3 评论",
+      "sentiment": "neutral",
+      "comments": 3,
+      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Chrome again exempts Google from user site data settings",
-      "insight": "HN 热议：448 分 · 67 评论",
+      "title": "Discovery of a new OpenAI agent message board",
+      "insight": "HN 热议：2245 分 · 1569 评论",
       "sentiment": "positive",
-      "comments": 67,
-      "url": "https://lapcatsoftware.com/articles/2026/9/1.html",
+      "comments": 1569,
+      "url": "https://collusion.wiki/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Don't Use a gmail.com Address",
-      "insight": "HN 热议：8 分 · 0 评论",
+      "title": "AI, Tools and Transformation",
+      "insight": "HN 热议：129 分 · 60 评论",
       "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://crookedtimber.org/2026/09/03/dont-use-a-gmail-com-address/",
+      "comments": 60,
+      "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "LLMs as a Cognitive Virus",
-      "insight": "HN 热议：296 分 · 210 评论",
+      "title": "Chrome again exempts Google from user site data settings",
+      "insight": "HN 热议：528 分 · 97 评论",
       "sentiment": "positive",
-      "comments": 210,
-      "url": "https://arxiv.org/abs/2609.03344",
+      "comments": 97,
+      "url": "https://lapcatsoftware.com/articles/2026/9/1.html",
       "id": 5
     }
   ]
