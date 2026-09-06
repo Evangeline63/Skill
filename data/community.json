@@ -1,49 +1,49 @@
 {
-  "updated": "2026-09-06T17:22:48Z",
+  "updated": "2026-09-06T19:40:23Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "OpenAI: We monitor internal coding agents for misalignment",
-      "insight": "HN 热议：10 分 · 0 评论",
+      "title": "Research acceleration: The view inside OpenAI",
+      "insight": "HN 热议：60 分 · 36 评论",
       "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/",
+      "comments": 36,
+      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Research acceleration: The view inside OpenAI",
-      "insight": "HN 热议：21 分 · 3 评论",
+      "title": "AI, Tools and Transformation",
+      "insight": "HN 热议：136 分 · 60 评论",
       "sentiment": "neutral",
-      "comments": 3,
-      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "comments": 60,
+      "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Discovery of a new OpenAI agent message board",
-      "insight": "HN 热议：2245 分 · 1569 评论",
+      "title": "LLMs as a Cognitive Virus",
+      "insight": "HN 热议：359 分 · 240 评论",
       "sentiment": "positive",
-      "comments": 1569,
-      "url": "https://collusion.wiki/",
+      "comments": 240,
+      "url": "https://arxiv.org/abs/2609.03344",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "AI, Tools and Transformation",
-      "insight": "HN 热议：129 分 · 60 评论",
-      "sentiment": "neutral",
-      "comments": 60,
-      "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
+      "title": "Chrome again exempts Google from user site data settings",
+      "insight": "HN 热议：537 分 · 103 评论",
+      "sentiment": "positive",
+      "comments": 103,
+      "url": "https://lapcatsoftware.com/articles/2026/9/1.html",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Chrome again exempts Google from user site data settings",
-      "insight": "HN 热议：528 分 · 97 评论",
+      "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
+      "insight": "HN 热议：206 分 · 51 评论",
       "sentiment": "positive",
-      "comments": 97,
-      "url": "https://lapcatsoftware.com/articles/2026/9/1.html",
+      "comments": 51,
+      "url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
       "id": 5
     }
   ]
