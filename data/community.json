@@ -1,49 +1,49 @@
 {
-  "updated": "2026-09-06T07:21:11Z",
+  "updated": "2026-09-06T12:25:17Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Chrome again exempts Google from user site data settings",
-      "insight": "HN 热议：309 分 · 45 评论",
-      "sentiment": "positive",
-      "comments": 45,
-      "url": "https://lapcatsoftware.com/articles/2026/9/1.html",
+      "title": "AI, Tools and Transformation",
+      "insight": "HN 热议：82 分 · 35 评论",
+      "sentiment": "neutral",
+      "comments": 35,
+      "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Watch the 'Eclipse of the Century' Next Year When Spain, Egypt and More Go Dark",
-      "insight": "HN 热议：11 分 · 4 评论",
-      "sentiment": "neutral",
-      "comments": 4,
-      "url": "https://www.nytimes.com/2026/08/13/travel/solar-eclipse-2027-morocco-egypt.html",
+      "title": "Discovery of a new OpenAI agent message board",
+      "insight": "HN 热议：2203 分 · 1554 评论",
+      "sentiment": "positive",
+      "comments": 1554,
+      "url": "https://collusion.wiki/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "GPT-6 Astra on robot arms",
-      "insight": "HN 热议：153 分 · 106 评论",
-      "sentiment": "neutral",
-      "comments": 106,
-      "url": "https://openai.robocurve.org/gpt-6-astra/",
+      "title": "Chrome again exempts Google from user site data settings",
+      "insight": "HN 热议：448 分 · 67 评论",
+      "sentiment": "positive",
+      "comments": 67,
+      "url": "https://lapcatsoftware.com/articles/2026/9/1.html",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Discovery of a new OpenAI agent message board",
-      "insight": "HN 热议：2166 分 · 1537 评论",
-      "sentiment": "positive",
-      "comments": 1537,
-      "url": "https://collusion.wiki/",
+      "title": "Don't Use a gmail.com Address",
+      "insight": "HN 热议：8 分 · 0 评论",
+      "sentiment": "neutral",
+      "comments": 0,
+      "url": "https://crookedtimber.org/2026/09/03/dont-use-a-gmail-com-address/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "AI, Tools and Transformation",
-      "insight": "HN 热议：31 分 · 8 评论",
-      "sentiment": "neutral",
-      "comments": 8,
-      "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
+      "title": "LLMs as a Cognitive Virus",
+      "insight": "HN 热议：296 分 · 210 评论",
+      "sentiment": "positive",
+      "comments": 210,
+      "url": "https://arxiv.org/abs/2609.03344",
       "id": 5
     }
   ]

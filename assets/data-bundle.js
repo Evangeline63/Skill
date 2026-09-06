@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-06T07:21:11Z",
+    "updated": "2026-09-06T12:25:17Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-06T07:21:11Z",
+    "updated": "2026-09-06T12:25:17Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-06T07:21:11Z",
+    "updated": "2026-09-06T12:25:17Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187164,
-            "stars_today": 187164,
+            "stars": 187165,
+            "stars_today": 187165,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 169441,
-            "stars_today": 169441,
+            "stars": 169456,
+            "stars_today": 169456,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 104414,
-            "stars_today": 104414,
+            "stars": 104430,
+            "stars_today": 104430,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 93309,
-            "stars_today": 93309,
+            "stars": 93319,
+            "stars_today": 93319,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 86298,
-            "stars_today": 86298,
+            "stars": 86324,
+            "stars_today": 86324,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "microsoft/AI-For-Beginners",
             "description": "12 Weeks, 24 Lessons, AI for All!",
             "language": "Jupyter Notebook",
-            "stars": 68110,
-            "stars_today": 68110,
+            "stars": 68125,
+            "stars_today": 68125,
             "url": "https://github.com/microsoft/AI-For-Beginners"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-06T07:21:11Z",
+    "updated": "2026-09-06T12:25:17Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-06T07:21:11Z",
+    "updated": "2026-09-06T12:25:17Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-06T07:21:11Z",
+    "updated": "2026-09-06T12:25:17Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Chrome again exempts Google from user site data settings",
-            "insight": "HN 热议：309 分 · 45 评论",
-            "sentiment": "positive",
-            "comments": 45,
-            "url": "https://lapcatsoftware.com/articles/2026/9/1.html",
+            "title": "AI, Tools and Transformation",
+            "insight": "HN 热议：82 分 · 35 评论",
+            "sentiment": "neutral",
+            "comments": 35,
+            "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Watch the 'Eclipse of the Century' Next Year When Spain, Egypt and More Go Dark",
-            "insight": "HN 热议：11 分 · 4 评论",
-            "sentiment": "neutral",
-            "comments": 4,
-            "url": "https://www.nytimes.com/2026/08/13/travel/solar-eclipse-2027-morocco-egypt.html",
+            "title": "Discovery of a new OpenAI agent message board",
+            "insight": "HN 热议：2203 分 · 1554 评论",
+            "sentiment": "positive",
+            "comments": 1554,
+            "url": "https://collusion.wiki/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "GPT-6 Astra on robot arms",
-            "insight": "HN 热议：153 分 · 106 评论",
-            "sentiment": "neutral",
-            "comments": 106,
-            "url": "https://openai.robocurve.org/gpt-6-astra/",
+            "title": "Chrome again exempts Google from user site data settings",
+            "insight": "HN 热议：448 分 · 67 评论",
+            "sentiment": "positive",
+            "comments": 67,
+            "url": "https://lapcatsoftware.com/articles/2026/9/1.html",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Discovery of a new OpenAI agent message board",
-            "insight": "HN 热议：2166 分 · 1537 评论",
-            "sentiment": "positive",
-            "comments": 1537,
-            "url": "https://collusion.wiki/",
+            "title": "Don't Use a gmail.com Address",
+            "insight": "HN 热议：8 分 · 0 评论",
+            "sentiment": "neutral",
+            "comments": 0,
+            "url": "https://crookedtimber.org/2026/09/03/dont-use-a-gmail-com-address/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "AI, Tools and Transformation",
-            "insight": "HN 热议：31 分 · 8 评论",
-            "sentiment": "neutral",
-            "comments": 8,
-            "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
+            "title": "LLMs as a Cognitive Virus",
+            "insight": "HN 热议：296 分 · 210 评论",
+            "sentiment": "positive",
+            "comments": 210,
+            "url": "https://arxiv.org/abs/2609.03344",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-06T07:21:11Z",
+    "updated": "2026-09-06T12:25:17Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
