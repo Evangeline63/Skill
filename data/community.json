@@ -1,49 +1,49 @@
 {
-  "updated": "2026-09-07T01:32:15Z",
+  "updated": "2026-09-07T07:36:14Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Reverse engineering the storage format for an undocumented database",
-      "insight": "HN 热议：22 分 · 2 评论",
+      "title": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
+      "insight": "HN 热议：14 分 · 2 评论",
       "sentiment": "neutral",
       "comments": 2,
-      "url": "https://blog.glazer.ee/posts/converting-cronos/",
+      "url": "https://github.com/timgordontg/engrim",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "Research acceleration: The view inside OpenAI",
-      "insight": "HN 热议：109 分 · 76 评论",
+      "insight": "HN 热议：161 分 · 108 评论",
       "sentiment": "neutral",
-      "comments": 76,
+      "comments": 108,
       "url": "https://openai.com/index/research-acceleration-view-inside-openai",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "AI, Tools and Transformation",
-      "insight": "HN 热议：147 分 · 65 评论",
+      "title": "Reverse engineering the storage format for an undocumented database",
+      "insight": "HN 热议：48 分 · 4 评论",
       "sentiment": "neutral",
-      "comments": 65,
-      "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
+      "comments": 4,
+      "url": "https://blog.glazer.ee/posts/converting-cronos/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "GOP issues stark warning to AI companies",
-      "insight": "HN 热议：18 分 · 10 评论",
+      "title": "I refused to train the AI that could replace me",
+      "insight": "HN 热议：73 分 · 60 评论",
       "sentiment": "neutral",
-      "comments": 10,
-      "url": "https://www.axios.com/2026/08/19/gop-data-center-memo-ai-election",
+      "comments": 60,
+      "url": "https://restofworld.org/2026/ai-training-jobs-expert-replacement/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Chrome again exempts Google from user site data settings",
-      "insight": "HN 热议：559 分 · 110 评论",
+      "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
+      "insight": "HN 热议：637 分 · 404 评论",
       "sentiment": "positive",
-      "comments": 110,
-      "url": "https://lapcatsoftware.com/articles/2026/9/1.html",
+      "comments": 404,
+      "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
       "id": 5
     }
   ]

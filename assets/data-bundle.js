@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-07T01:32:15Z",
+    "updated": "2026-09-07T07:36:14Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-07T01:32:15Z",
+    "updated": "2026-09-07T07:36:14Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-07T01:32:15Z",
+    "updated": "2026-09-07T07:36:14Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187177,
-            "stars_today": 187177,
+            "stars": 187176,
+            "stars_today": 187176,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 169516,
-            "stars_today": 169516,
+            "stars": 169538,
+            "stars_today": 169538,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 104479,
-            "stars_today": 104479,
+            "stars": 104502,
+            "stars_today": 104502,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 93351,
-            "stars_today": 93351,
+            "stars": 93369,
+            "stars_today": 93369,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 86377,
-            "stars_today": 86377,
+            "stars": 86404,
+            "stars_today": 86404,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "microsoft/AI-For-Beginners",
             "description": "12 Weeks, 24 Lessons, AI for All!",
             "language": "Jupyter Notebook",
-            "stars": 68162,
-            "stars_today": 68162,
+            "stars": 68183,
+            "stars_today": 68183,
             "url": "https://github.com/microsoft/AI-For-Beginners"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-07T01:32:15Z",
+    "updated": "2026-09-07T07:36:14Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-07T01:32:15Z",
+    "updated": "2026-09-07T07:36:14Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-07T01:32:15Z",
+    "updated": "2026-09-07T07:36:14Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Reverse engineering the storage format for an undocumented database",
-            "insight": "HN 热议：22 分 · 2 评论",
+            "title": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
+            "insight": "HN 热议：14 分 · 2 评论",
             "sentiment": "neutral",
             "comments": 2,
-            "url": "https://blog.glazer.ee/posts/converting-cronos/",
+            "url": "https://github.com/timgordontg/engrim",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "Research acceleration: The view inside OpenAI",
-            "insight": "HN 热议：109 分 · 76 评论",
+            "insight": "HN 热议：161 分 · 108 评论",
             "sentiment": "neutral",
-            "comments": 76,
+            "comments": 108,
             "url": "https://openai.com/index/research-acceleration-view-inside-openai",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "AI, Tools and Transformation",
-            "insight": "HN 热议：147 分 · 65 评论",
+            "title": "Reverse engineering the storage format for an undocumented database",
+            "insight": "HN 热议：48 分 · 4 评论",
             "sentiment": "neutral",
-            "comments": 65,
-            "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
+            "comments": 4,
+            "url": "https://blog.glazer.ee/posts/converting-cronos/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "GOP issues stark warning to AI companies",
-            "insight": "HN 热议：18 分 · 10 评论",
+            "title": "I refused to train the AI that could replace me",
+            "insight": "HN 热议：73 分 · 60 评论",
             "sentiment": "neutral",
-            "comments": 10,
-            "url": "https://www.axios.com/2026/08/19/gop-data-center-memo-ai-election",
+            "comments": 60,
+            "url": "https://restofworld.org/2026/ai-training-jobs-expert-replacement/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Chrome again exempts Google from user site data settings",
-            "insight": "HN 热议：559 分 · 110 评论",
+            "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
+            "insight": "HN 热议：637 分 · 404 评论",
             "sentiment": "positive",
-            "comments": 110,
-            "url": "https://lapcatsoftware.com/articles/2026/9/1.html",
+            "comments": 404,
+            "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-07T01:32:15Z",
+    "updated": "2026-09-07T07:36:14Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
