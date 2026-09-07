@@ -1,49 +1,49 @@
 {
-  "updated": "2026-09-07T14:31:24Z",
+  "updated": "2026-09-07T18:54:01Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Splash-free urinals for global sustainability and accessibility",
-      "insight": "HN 热议：97 分 · 42 评论",
+      "title": "AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200",
+      "insight": "HN 热议：42 分 · 37 评论",
       "sentiment": "neutral",
-      "comments": 42,
-      "url": "https://academic.oup.com/pnasnexus/article/4/4/pgaf087/8098745?login=false",
+      "comments": 37,
+      "url": "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "De-Brainrot Vacations",
-      "insight": "HN 热议：174 分 · 67 评论",
+      "title": "Speculative Decoding in vLLM on AMD GPUs",
+      "insight": "HN 热议：109 分 · 39 评论",
       "sentiment": "neutral",
-      "comments": 67,
-      "url": "https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/",
+      "comments": 39,
+      "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Smartphone makers don't bother to comply with EU repairability requirements",
-      "insight": "HN 热议：122 分 · 51 评论",
-      "sentiment": "neutral",
-      "comments": 51,
-      "url": "https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532",
+      "title": "De-Brainrot Vacations",
+      "insight": "HN 热议：420 分 · 173 评论",
+      "sentiment": "positive",
+      "comments": 173,
+      "url": "https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Speculative Decoding in vLLM on AMD GPUs",
-      "insight": "HN 热议：63 分 · 18 评论",
-      "sentiment": "neutral",
-      "comments": 18,
-      "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+      "title": "Smartphone makers don't bother to comply with EU repairability requirements",
+      "insight": "HN 热议：227 分 · 129 评论",
+      "sentiment": "positive",
+      "comments": 129,
+      "url": "https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "The jobs apocalypse is postponed. An AI jobs boom is here",
-      "insight": "HN 热议：30 分 · 20 评论",
+      "title": "Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
+      "insight": "HN 热议：99 分 · 96 评论",
       "sentiment": "neutral",
-      "comments": 20,
-      "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
+      "comments": 96,
+      "url": "https://news.ycombinator.com/item?id=49600233",
       "id": 5
     }
   ]
