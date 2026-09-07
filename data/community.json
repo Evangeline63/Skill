@@ -1,49 +1,49 @@
 {
-  "updated": "2026-09-07T07:36:14Z",
+  "updated": "2026-09-07T14:31:24Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
-      "insight": "HN 热议：14 分 · 2 评论",
+      "title": "Splash-free urinals for global sustainability and accessibility",
+      "insight": "HN 热议：97 分 · 42 评论",
       "sentiment": "neutral",
-      "comments": 2,
-      "url": "https://github.com/timgordontg/engrim",
+      "comments": 42,
+      "url": "https://academic.oup.com/pnasnexus/article/4/4/pgaf087/8098745?login=false",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Research acceleration: The view inside OpenAI",
-      "insight": "HN 热议：161 分 · 108 评论",
+      "title": "De-Brainrot Vacations",
+      "insight": "HN 热议：174 分 · 67 评论",
       "sentiment": "neutral",
-      "comments": 108,
-      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "comments": 67,
+      "url": "https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Reverse engineering the storage format for an undocumented database",
-      "insight": "HN 热议：48 分 · 4 评论",
+      "title": "Smartphone makers don't bother to comply with EU repairability requirements",
+      "insight": "HN 热议：122 分 · 51 评论",
       "sentiment": "neutral",
-      "comments": 4,
-      "url": "https://blog.glazer.ee/posts/converting-cronos/",
+      "comments": 51,
+      "url": "https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "I refused to train the AI that could replace me",
-      "insight": "HN 热议：73 分 · 60 评论",
+      "title": "Speculative Decoding in vLLM on AMD GPUs",
+      "insight": "HN 热议：63 分 · 18 评论",
       "sentiment": "neutral",
-      "comments": 60,
-      "url": "https://restofworld.org/2026/ai-training-jobs-expert-replacement/",
+      "comments": 18,
+      "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
-      "insight": "HN 热议：637 分 · 404 评论",
-      "sentiment": "positive",
-      "comments": 404,
-      "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
+      "title": "The jobs apocalypse is postponed. An AI jobs boom is here",
+      "insight": "HN 热议：30 分 · 20 评论",
+      "sentiment": "neutral",
+      "comments": 20,
+      "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
       "id": 5
     }
   ]

@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-07T07:36:14Z",
+    "updated": "2026-09-07T14:31:24Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-07T07:36:14Z",
+    "updated": "2026-09-07T14:31:24Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-07T07:36:14Z",
+    "updated": "2026-09-07T14:31:24Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187176,
-            "stars_today": 187176,
+            "stars": 187179,
+            "stars_today": 187179,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 169538,
-            "stars_today": 169538,
+            "stars": 169557,
+            "stars_today": 169557,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 104502,
-            "stars_today": 104502,
+            "stars": 104521,
+            "stars_today": 104521,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 93369,
-            "stars_today": 93369,
+            "stars": 93391,
+            "stars_today": 93391,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 86404,
-            "stars_today": 86404,
+            "stars": 86429,
+            "stars_today": 86429,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "microsoft/AI-For-Beginners",
             "description": "12 Weeks, 24 Lessons, AI for All!",
             "language": "Jupyter Notebook",
-            "stars": 68183,
-            "stars_today": 68183,
+            "stars": 68201,
+            "stars_today": 68201,
             "url": "https://github.com/microsoft/AI-For-Beginners"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-07T07:36:14Z",
+    "updated": "2026-09-07T14:31:24Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-07T07:36:14Z",
+    "updated": "2026-09-07T14:31:24Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-07T07:36:14Z",
+    "updated": "2026-09-07T14:31:24Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
-            "insight": "HN 热议：14 分 · 2 评论",
+            "title": "Splash-free urinals for global sustainability and accessibility",
+            "insight": "HN 热议：97 分 · 42 评论",
             "sentiment": "neutral",
-            "comments": 2,
-            "url": "https://github.com/timgordontg/engrim",
+            "comments": 42,
+            "url": "https://academic.oup.com/pnasnexus/article/4/4/pgaf087/8098745?login=false",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Research acceleration: The view inside OpenAI",
-            "insight": "HN 热议：161 分 · 108 评论",
+            "title": "De-Brainrot Vacations",
+            "insight": "HN 热议：174 分 · 67 评论",
             "sentiment": "neutral",
-            "comments": 108,
-            "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+            "comments": 67,
+            "url": "https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Reverse engineering the storage format for an undocumented database",
-            "insight": "HN 热议：48 分 · 4 评论",
+            "title": "Smartphone makers don't bother to comply with EU repairability requirements",
+            "insight": "HN 热议：122 分 · 51 评论",
             "sentiment": "neutral",
-            "comments": 4,
-            "url": "https://blog.glazer.ee/posts/converting-cronos/",
+            "comments": 51,
+            "url": "https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "I refused to train the AI that could replace me",
-            "insight": "HN 热议：73 分 · 60 评论",
+            "title": "Speculative Decoding in vLLM on AMD GPUs",
+            "insight": "HN 热议：63 分 · 18 评论",
             "sentiment": "neutral",
-            "comments": 60,
-            "url": "https://restofworld.org/2026/ai-training-jobs-expert-replacement/",
+            "comments": 18,
+            "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
-            "insight": "HN 热议：637 分 · 404 评论",
-            "sentiment": "positive",
-            "comments": 404,
-            "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
+            "title": "The jobs apocalypse is postponed. An AI jobs boom is here",
+            "insight": "HN 热议：30 分 · 20 评论",
+            "sentiment": "neutral",
+            "comments": 20,
+            "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-07T07:36:14Z",
+    "updated": "2026-09-07T14:31:24Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
