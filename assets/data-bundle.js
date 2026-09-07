@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-07T18:54:01Z",
+    "updated": "2026-09-07T23:05:46Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-07T18:54:01Z",
+    "updated": "2026-09-07T23:05:46Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-07T18:54:01Z",
+    "updated": "2026-09-07T23:05:46Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187182,
-            "stars_today": 187182,
+            "stars": 187185,
+            "stars_today": 187185,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 169567,
-            "stars_today": 169567,
+            "stars": 169578,
+            "stars_today": 169578,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 104531,
-            "stars_today": 104531,
+            "stars": 104539,
+            "stars_today": 104539,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96530,
-            "stars_today": 96530,
+            "stars": 96531,
+            "stars_today": 96531,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 93401,
-            "stars_today": 93401,
+            "stars": 93414,
+            "stars_today": 93414,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 86507,
-            "stars_today": 86507,
+            "stars": 86642,
+            "stars_today": 86642,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-07T18:54:01Z",
+    "updated": "2026-09-07T23:05:46Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-07T18:54:01Z",
+    "updated": "2026-09-07T23:05:46Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-07T18:54:01Z",
+    "updated": "2026-09-07T23:05:46Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200",
-            "insight": "HN 热议：42 分 · 37 评论",
+            "title": "Trusting-Trust Attack against an Entire Linux Distribution",
+            "insight": "HN 热议：109 分 · 24 评论",
             "sentiment": "neutral",
-            "comments": 37,
-            "url": "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses",
+            "comments": 24,
+            "url": "https://arxiv.org/abs/2607.24888",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "Speculative Decoding in vLLM on AMD GPUs",
-            "insight": "HN 热议：109 分 · 39 评论",
+            "insight": "HN 热议：125 分 · 47 评论",
             "sentiment": "neutral",
-            "comments": 39,
+            "comments": 47,
             "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "De-Brainrot Vacations",
-            "insight": "HN 热议：420 分 · 173 评论",
-            "sentiment": "positive",
-            "comments": 173,
-            "url": "https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/",
+            "title": "The smallest edge AI device for local LLMs",
+            "insight": "HN 热议：18 分 · 15 评论",
+            "sentiment": "neutral",
+            "comments": 15,
+            "url": "https://tiiny.ai/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Smartphone makers don't bother to comply with EU repairability requirements",
-            "insight": "HN 热议：227 分 · 129 评论",
-            "sentiment": "positive",
-            "comments": 129,
-            "url": "https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532",
+            "title": "Initial effects of AI technology on employment look positive",
+            "insight": "HN 热议：62 分 · 96 评论",
+            "sentiment": "neutral",
+            "comments": 96,
+            "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
-            "insight": "HN 热议：99 分 · 96 评论",
-            "sentiment": "neutral",
-            "comments": 96,
-            "url": "https://news.ycombinator.com/item?id=49600233",
+            "title": "Smartphone makers don't bother to comply with EU repairability requirements",
+            "insight": "HN 热议：267 分 · 145 评论",
+            "sentiment": "positive",
+            "comments": 145,
+            "url": "https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-07T18:54:01Z",
+    "updated": "2026-09-07T23:05:46Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
