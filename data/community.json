@@ -1,48 +1,48 @@
 {
-  "updated": "2026-09-06T22:29:46Z",
+  "updated": "2026-09-07T01:32:15Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Reverse engineering the storage format for an undocumented database",
-      "insight": "HN 热议：4 分 · 0 评论",
+      "insight": "HN 热议：22 分 · 2 评论",
       "sentiment": "neutral",
-      "comments": 0,
+      "comments": 2,
       "url": "https://blog.glazer.ee/posts/converting-cronos/",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "Research acceleration: The view inside OpenAI",
-      "insight": "HN 热议：89 分 · 64 评论",
+      "insight": "HN 热议：109 分 · 76 评论",
       "sentiment": "neutral",
-      "comments": 64,
+      "comments": 76,
       "url": "https://openai.com/index/research-acceleration-view-inside-openai",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "AI, Tools and Transformation",
-      "insight": "HN 热议：139 分 · 62 评论",
+      "insight": "HN 热议：147 分 · 65 评论",
       "sentiment": "neutral",
-      "comments": 62,
+      "comments": 65,
       "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "LLMs as a Cognitive Virus",
-      "insight": "HN 热议：371 分 · 243 评论",
-      "sentiment": "positive",
-      "comments": 243,
-      "url": "https://arxiv.org/abs/2609.03344",
+      "title": "GOP issues stark warning to AI companies",
+      "insight": "HN 热议：18 分 · 10 评论",
+      "sentiment": "neutral",
+      "comments": 10,
+      "url": "https://www.axios.com/2026/08/19/gop-data-center-memo-ai-election",
       "id": 4
     },
     {
       "source": "HackerNews",
       "title": "Chrome again exempts Google from user site data settings",
-      "insight": "HN 热议：550 分 · 106 评论",
+      "insight": "HN 热议：559 分 · 110 评论",
       "sentiment": "positive",
-      "comments": 106,
+      "comments": 110,
       "url": "https://lapcatsoftware.com/articles/2026/9/1.html",
       "id": 5
     }
