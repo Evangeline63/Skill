@@ -1,49 +1,49 @@
 {
-  "updated": "2026-09-08T13:07:27Z",
+  "updated": "2026-09-08T18:09:42Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "There's a new \"Google Jail\" for independent wikis",
-      "insight": "HN 热议：265 分 · 95 评论",
-      "sentiment": "positive",
-      "comments": 95,
-      "url": "https://weirdgloop.org/blog/google-jail",
+      "title": "Show HN: LLM Attention Visualization",
+      "insight": "HN 热议：23 分 · 2 评论",
+      "sentiment": "neutral",
+      "comments": 2,
+      "url": "https://ishamf.dev/p/llm-attention-visualizer/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "End-to-end infrastructure for training and inferencing open weight models",
-      "insight": "HN 热议：27 分 · 5 评论",
+      "title": "I-have-ADHD: A skill to stop coding agents from burying the answer",
+      "insight": "HN 热议：118 分 · 86 评论",
       "sentiment": "neutral",
-      "comments": 5,
-      "url": "https://docs.appliedcompute.com",
+      "comments": 86,
+      "url": "https://github.com/ayghri/i-have-adhd",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Mistral raises €3B",
-      "insight": "HN 热议：612 分 · 431 评论",
-      "sentiment": "positive",
-      "comments": 431,
-      "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+      "title": "The two Christian saints who are the Buddha",
+      "insight": "HN 热议：117 分 · 54 评论",
+      "sentiment": "neutral",
+      "comments": 54,
+      "url": "https://signoregalilei.com/2026/08/30/the-two-christian-saints-who-are-secretly-the-buddha/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "How well do agents use test/verification techniques?",
-      "insight": "HN 热议：122 分 · 45 评论",
-      "sentiment": "neutral",
-      "comments": 45,
-      "url": "https://danluu.com/agentic-testing/",
+      "title": "There's a new \"Google Jail\" for independent wikis",
+      "insight": "HN 热议：444 分 · 184 评论",
+      "sentiment": "positive",
+      "comments": 184,
+      "url": "https://weirdgloop.org/blog/google-jail",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics",
-      "insight": "HN 热议：60 分 · 42 评论",
-      "sentiment": "neutral",
-      "comments": 42,
-      "url": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics",
+      "title": "Mistral raises €3B",
+      "insight": "HN 热议：743 分 · 536 评论",
+      "sentiment": "positive",
+      "comments": 536,
+      "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
       "id": 5
     }
   ]
