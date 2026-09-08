@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-08T01:42:13Z",
+    "updated": "2026-09-08T07:28:49Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-08T01:42:13Z",
+    "updated": "2026-09-08T07:28:49Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-08T01:42:13Z",
+    "updated": "2026-09-08T07:28:49Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187187,
-            "stars_today": 187187,
+            "stars": 187195,
+            "stars_today": 187195,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 169590,
-            "stars_today": 169590,
+            "stars": 169623,
+            "stars_today": 169623,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96533,
-            "stars_today": 96533,
+            "stars": 96539,
+            "stars_today": 96539,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 93422,
-            "stars_today": 93422,
+            "stars": 93436,
+            "stars_today": 93436,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 86689,
-            "stars_today": 86689,
+            "stars": 86768,
+            "stars_today": 86768,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "microsoft/AI-For-Beginners",
             "description": "12 Weeks, 24 Lessons, AI for All!",
             "language": "Jupyter Notebook",
-            "stars": 68219,
-            "stars_today": 68219,
+            "stars": 68231,
+            "stars_today": 68231,
             "url": "https://github.com/microsoft/AI-For-Beginners"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-08T01:42:13Z",
+    "updated": "2026-09-08T07:28:49Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-08T01:42:13Z",
+    "updated": "2026-09-08T07:28:49Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-08T01:42:13Z",
+    "updated": "2026-09-08T07:28:49Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Trusting-Trust Attack against an Entire Linux Distribution",
-            "insight": "HN 热议：147 分 · 35 评论",
-            "sentiment": "neutral",
-            "comments": 35,
-            "url": "https://arxiv.org/abs/2607.24888",
+            "title": "Mistral raises €3B to make sovereign, open-weight AI the technology frontier",
+            "insight": "HN 热议：250 分 · 132 评论",
+            "sentiment": "positive",
+            "comments": 132,
+            "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Speculative Decoding in vLLM on AMD GPUs",
-            "insight": "HN 热议：130 分 · 46 评论",
+            "title": "Multi-Agents LLM Financial Trading Framework",
+            "insight": "HN 热议：21 分 · 9 评论",
             "sentiment": "neutral",
-            "comments": 46,
-            "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+            "comments": 9,
+            "url": "https://github.com/TauricResearch/TradingAgents",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Initial effects of AI technology on employment look positive",
-            "insight": "HN 热议：67 分 · 106 评论",
+            "title": "How well do agents use test/verification techniques?",
+            "insight": "HN 热议：58 分 · 11 评论",
             "sentiment": "neutral",
-            "comments": 106,
-            "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
+            "comments": 11,
+            "url": "https://danluu.com/agentic-testing/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Smartphone makers don't bother to comply with EU repairability requirements",
-            "insight": "HN 热议：270 分 · 168 评论",
-            "sentiment": "positive",
-            "comments": 168,
-            "url": "https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532",
+            "title": "Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics",
+            "insight": "HN 热议：29 分 · 14 评论",
+            "sentiment": "neutral",
+            "comments": 14,
+            "url": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "De-Brainrot Vacations",
-            "insight": "HN 热议：464 分 · 188 评论",
-            "sentiment": "positive",
-            "comments": 188,
-            "url": "https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/",
+            "title": "There's a new \"Google Jail\" for independent wikis",
+            "insight": "HN 热议：70 分 · 19 评论",
+            "sentiment": "neutral",
+            "comments": 19,
+            "url": "https://weirdgloop.org/blog/google-jail",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-08T01:42:13Z",
+    "updated": "2026-09-08T07:28:49Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

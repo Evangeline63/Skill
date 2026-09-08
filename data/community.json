@@ -1,49 +1,49 @@
 {
-  "updated": "2026-09-08T01:42:13Z",
+  "updated": "2026-09-08T07:28:49Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Trusting-Trust Attack against an Entire Linux Distribution",
-      "insight": "HN 热议：147 分 · 35 评论",
-      "sentiment": "neutral",
-      "comments": 35,
-      "url": "https://arxiv.org/abs/2607.24888",
+      "title": "Mistral raises €3B to make sovereign, open-weight AI the technology frontier",
+      "insight": "HN 热议：250 分 · 132 评论",
+      "sentiment": "positive",
+      "comments": 132,
+      "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Speculative Decoding in vLLM on AMD GPUs",
-      "insight": "HN 热议：130 分 · 46 评论",
+      "title": "Multi-Agents LLM Financial Trading Framework",
+      "insight": "HN 热议：21 分 · 9 评论",
       "sentiment": "neutral",
-      "comments": 46,
-      "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+      "comments": 9,
+      "url": "https://github.com/TauricResearch/TradingAgents",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Initial effects of AI technology on employment look positive",
-      "insight": "HN 热议：67 分 · 106 评论",
+      "title": "How well do agents use test/verification techniques?",
+      "insight": "HN 热议：58 分 · 11 评论",
       "sentiment": "neutral",
-      "comments": 106,
-      "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
+      "comments": 11,
+      "url": "https://danluu.com/agentic-testing/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Smartphone makers don't bother to comply with EU repairability requirements",
-      "insight": "HN 热议：270 分 · 168 评论",
-      "sentiment": "positive",
-      "comments": 168,
-      "url": "https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532",
+      "title": "Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics",
+      "insight": "HN 热议：29 分 · 14 评论",
+      "sentiment": "neutral",
+      "comments": 14,
+      "url": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "De-Brainrot Vacations",
-      "insight": "HN 热议：464 分 · 188 评论",
-      "sentiment": "positive",
-      "comments": 188,
-      "url": "https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/",
+      "title": "There's a new \"Google Jail\" for independent wikis",
+      "insight": "HN 热议：70 分 · 19 评论",
+      "sentiment": "neutral",
+      "comments": 19,
+      "url": "https://weirdgloop.org/blog/google-jail",
       "id": 5
     }
   ]
