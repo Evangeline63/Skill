@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-08T07:28:49Z",
+    "updated": "2026-09-08T13:07:27Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-08T07:28:49Z",
+    "updated": "2026-09-08T13:07:27Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-08T07:28:49Z",
+    "updated": "2026-09-08T13:07:27Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187195,
-            "stars_today": 187195,
+            "stars": 187194,
+            "stars_today": 187194,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 169623,
-            "stars_today": 169623,
+            "stars": 169643,
+            "stars_today": 169643,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96539,
-            "stars_today": 96539,
+            "stars": 96548,
+            "stars_today": 96548,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 93436,
-            "stars_today": 93436,
+            "stars": 93458,
+            "stars_today": 93458,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 86768,
-            "stars_today": 86768,
+            "stars": 86825,
+            "stars_today": 86825,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "microsoft/AI-For-Beginners",
             "description": "12 Weeks, 24 Lessons, AI for All!",
             "language": "Jupyter Notebook",
-            "stars": 68231,
-            "stars_today": 68231,
+            "stars": 68249,
+            "stars_today": 68249,
             "url": "https://github.com/microsoft/AI-For-Beginners"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-08T07:28:49Z",
+    "updated": "2026-09-08T13:07:27Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-08T07:28:49Z",
+    "updated": "2026-09-08T13:07:27Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-08T07:28:49Z",
+    "updated": "2026-09-08T13:07:27Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Mistral raises €3B to make sovereign, open-weight AI the technology frontier",
-            "insight": "HN 热议：250 分 · 132 评论",
+            "title": "There's a new \"Google Jail\" for independent wikis",
+            "insight": "HN 热议：265 分 · 95 评论",
             "sentiment": "positive",
-            "comments": 132,
-            "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+            "comments": 95,
+            "url": "https://weirdgloop.org/blog/google-jail",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Multi-Agents LLM Financial Trading Framework",
-            "insight": "HN 热议：21 分 · 9 评论",
+            "title": "End-to-end infrastructure for training and inferencing open weight models",
+            "insight": "HN 热议：27 分 · 5 评论",
             "sentiment": "neutral",
-            "comments": 9,
-            "url": "https://github.com/TauricResearch/TradingAgents",
+            "comments": 5,
+            "url": "https://docs.appliedcompute.com",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "How well do agents use test/verification techniques?",
-            "insight": "HN 热议：58 分 · 11 评论",
-            "sentiment": "neutral",
-            "comments": 11,
-            "url": "https://danluu.com/agentic-testing/",
+            "title": "Mistral raises €3B",
+            "insight": "HN 热议：612 分 · 431 评论",
+            "sentiment": "positive",
+            "comments": 431,
+            "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics",
-            "insight": "HN 热议：29 分 · 14 评论",
+            "title": "How well do agents use test/verification techniques?",
+            "insight": "HN 热议：122 分 · 45 评论",
             "sentiment": "neutral",
-            "comments": 14,
-            "url": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics",
+            "comments": 45,
+            "url": "https://danluu.com/agentic-testing/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "There's a new \"Google Jail\" for independent wikis",
-            "insight": "HN 热议：70 分 · 19 评论",
+            "title": "Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics",
+            "insight": "HN 热议：60 分 · 42 评论",
             "sentiment": "neutral",
-            "comments": 19,
-            "url": "https://weirdgloop.org/blog/google-jail",
+            "comments": 42,
+            "url": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-08T07:28:49Z",
+    "updated": "2026-09-08T13:07:27Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

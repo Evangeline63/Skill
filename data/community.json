@@ -1,49 +1,49 @@
 {
-  "updated": "2026-09-08T07:28:49Z",
+  "updated": "2026-09-08T13:07:27Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Mistral raises €3B to make sovereign, open-weight AI the technology frontier",
-      "insight": "HN 热议：250 分 · 132 评论",
+      "title": "There's a new \"Google Jail\" for independent wikis",
+      "insight": "HN 热议：265 分 · 95 评论",
       "sentiment": "positive",
-      "comments": 132,
-      "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+      "comments": 95,
+      "url": "https://weirdgloop.org/blog/google-jail",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Multi-Agents LLM Financial Trading Framework",
-      "insight": "HN 热议：21 分 · 9 评论",
+      "title": "End-to-end infrastructure for training and inferencing open weight models",
+      "insight": "HN 热议：27 分 · 5 评论",
       "sentiment": "neutral",
-      "comments": 9,
-      "url": "https://github.com/TauricResearch/TradingAgents",
+      "comments": 5,
+      "url": "https://docs.appliedcompute.com",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "How well do agents use test/verification techniques?",
-      "insight": "HN 热议：58 分 · 11 评论",
-      "sentiment": "neutral",
-      "comments": 11,
-      "url": "https://danluu.com/agentic-testing/",
+      "title": "Mistral raises €3B",
+      "insight": "HN 热议：612 分 · 431 评论",
+      "sentiment": "positive",
+      "comments": 431,
+      "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics",
-      "insight": "HN 热议：29 分 · 14 评论",
+      "title": "How well do agents use test/verification techniques?",
+      "insight": "HN 热议：122 分 · 45 评论",
       "sentiment": "neutral",
-      "comments": 14,
-      "url": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics",
+      "comments": 45,
+      "url": "https://danluu.com/agentic-testing/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "There's a new \"Google Jail\" for independent wikis",
-      "insight": "HN 热议：70 分 · 19 评论",
+      "title": "Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics",
+      "insight": "HN 热议：60 分 · 42 评论",
       "sentiment": "neutral",
-      "comments": 19,
-      "url": "https://weirdgloop.org/blog/google-jail",
+      "comments": 42,
+      "url": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics",
       "id": 5
     }
   ]
