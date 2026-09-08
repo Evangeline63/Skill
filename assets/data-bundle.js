@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-08T18:09:42Z",
+    "updated": "2026-09-08T23:01:57Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-08T18:09:42Z",
+    "updated": "2026-09-08T23:01:57Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-08T18:09:42Z",
+    "updated": "2026-09-08T23:01:57Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187202,
-            "stars_today": 187202,
+            "stars": 187210,
+            "stars_today": 187210,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 169683,
-            "stars_today": 169683,
+            "stars": 169705,
+            "stars_today": 169705,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96552,
-            "stars_today": 96552,
+            "stars": 96555,
+            "stars_today": 96555,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 93473,
-            "stars_today": 93473,
+            "stars": 93490,
+            "stars_today": 93490,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 86884,
-            "stars_today": 86884,
+            "stars": 86918,
+            "stars_today": 86918,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "microsoft/AI-For-Beginners",
             "description": "12 Weeks, 24 Lessons, AI for All!",
             "language": "Jupyter Notebook",
-            "stars": 68263,
-            "stars_today": 68263,
+            "stars": 68266,
+            "stars_today": 68266,
             "url": "https://github.com/microsoft/AI-For-Beginners"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-08T18:09:42Z",
+    "updated": "2026-09-08T23:01:57Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-08T18:09:42Z",
+    "updated": "2026-09-08T23:01:57Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-08T18:09:42Z",
+    "updated": "2026-09-08T23:01:57Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Show HN: LLM Attention Visualization",
-            "insight": "HN 热议：23 分 · 2 评论",
-            "sentiment": "neutral",
-            "comments": 2,
-            "url": "https://ishamf.dev/p/llm-attention-visualizer/",
+            "title": "I-have-ADHD: A skill to stop coding agents from burying the answer",
+            "insight": "HN 热议：267 分 · 210 评论",
+            "sentiment": "positive",
+            "comments": 210,
+            "url": "https://github.com/ayghri/i-have-adhd",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "I-have-ADHD: A skill to stop coding agents from burying the answer",
-            "insight": "HN 热议：118 分 · 86 评论",
-            "sentiment": "neutral",
-            "comments": 86,
-            "url": "https://github.com/ayghri/i-have-adhd",
+            "title": "Muse: Meta's personal AI agent, features and capabilities",
+            "insight": "HN 热议：206 分 · 197 评论",
+            "sentiment": "positive",
+            "comments": 197,
+            "url": "https://ai.meta.com/muse/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "The two Christian saints who are the Buddha",
-            "insight": "HN 热议：117 分 · 54 评论",
+            "title": "Show HN: LLM Attention Visualization",
+            "insight": "HN 热议：102 分 · 19 评论",
             "sentiment": "neutral",
-            "comments": 54,
-            "url": "https://signoregalilei.com/2026/08/30/the-two-christian-saints-who-are-secretly-the-buddha/",
+            "comments": 19,
+            "url": "https://ishamf.dev/p/llm-attention-visualizer/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "There's a new \"Google Jail\" for independent wikis",
-            "insight": "HN 热议：444 分 · 184 评论",
-            "sentiment": "positive",
-            "comments": 184,
-            "url": "https://weirdgloop.org/blog/google-jail",
+            "title": "Tao: Open math problems being non-renewably mined by AI",
+            "insight": "HN 热议：16 分 · 5 评论",
+            "sentiment": "neutral",
+            "comments": 5,
+            "url": "https://mathstodon.xyz/@tao/117237320796901560",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Mistral raises €3B",
-            "insight": "HN 热议：743 分 · 536 评论",
-            "sentiment": "positive",
-            "comments": 536,
-            "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+            "title": "The two Christian saints who are the Buddha",
+            "insight": "HN 热议：198 分 · 138 评论",
+            "sentiment": "neutral",
+            "comments": 138,
+            "url": "https://signoregalilei.com/2026/08/30/the-two-christian-saints-who-are-secretly-the-buddha/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-08T18:09:42Z",
+    "updated": "2026-09-08T23:01:57Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
