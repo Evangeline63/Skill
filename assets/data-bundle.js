@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-09T18:05:00Z",
+    "updated": "2026-09-09T22:48:26Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-09T18:05:00Z",
+    "updated": "2026-09-09T22:48:26Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-09T18:05:00Z",
+    "updated": "2026-09-09T22:48:26Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187230,
-            "stars_today": 187230,
+            "stars": 187238,
+            "stars_today": 187238,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 169788,
-            "stars_today": 169788,
+            "stars": 169804,
+            "stars_today": 169804,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96577,
-            "stars_today": 96577,
+            "stars": 96579,
+            "stars_today": 96579,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 93572,
-            "stars_today": 93572,
+            "stars": 93579,
+            "stars_today": 93579,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 87064,
-            "stars_today": 87064,
+            "stars": 87102,
+            "stars_today": 87102,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "microsoft/AI-For-Beginners",
             "description": "12 Weeks, 24 Lessons, AI for All!",
             "language": "Jupyter Notebook",
-            "stars": 68313,
-            "stars_today": 68313,
+            "stars": 68315,
+            "stars_today": 68315,
             "url": "https://github.com/microsoft/AI-For-Beginners"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-09T18:05:00Z",
+    "updated": "2026-09-09T22:48:26Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-09T18:05:00Z",
+    "updated": "2026-09-09T22:48:26Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-09T18:05:00Z",
+    "updated": "2026-09-09T22:48:26Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Tailwind Labs is joining Shopify",
-            "insight": "HN 热议：580 分 · 237 评论",
+            "title": "Shopify acquires Tailwind",
+            "insight": "HN 热议：820 分 · 325 评论",
             "sentiment": "positive",
-            "comments": 237,
+            "comments": 325,
             "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Apple Introduces AirPods 5",
-            "insight": "HN 热议：61 分 · 53 评论",
-            "sentiment": "neutral",
-            "comments": 53,
+            "title": "AirPods 5",
+            "insight": "HN 热议：331 分 · 263 评论",
+            "sentiment": "positive",
+            "comments": 263,
             "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
-            "insight": "HN 热议：167 分 · 59 评论",
-            "sentiment": "neutral",
-            "comments": 59,
+            "insight": "HN 热议：310 分 · 113 评论",
+            "sentiment": "positive",
+            "comments": 113,
             "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
             "id": 3
         },
         {
             "source": "HackerNews",
             "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
-            "insight": "HN 热议：25 分 · 2 评论",
+            "insight": "HN 热议：143 分 · 59 评论",
             "sentiment": "neutral",
-            "comments": 2,
+            "comments": 59,
             "url": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
             "id": 4
         },
         {
             "source": "HackerNews",
             "title": "Understanding the recent DDoS attack against Read the Docs",
-            "insight": "HN 热议：51 分 · 15 评论",
+            "insight": "HN 热议：136 分 · 43 评论",
             "sentiment": "neutral",
-            "comments": 15,
+            "comments": 43,
             "url": "https://about.readthedocs.com/blog/2026/09/2026-ddos-attack/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-09T18:05:00Z",
+    "updated": "2026-09-09T22:48:26Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

@@ -1,48 +1,48 @@
 {
-  "updated": "2026-09-09T18:05:00Z",
+  "updated": "2026-09-09T22:48:26Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Tailwind Labs is joining Shopify",
-      "insight": "HN 热议：580 分 · 237 评论",
+      "title": "Shopify acquires Tailwind",
+      "insight": "HN 热议：820 分 · 325 评论",
       "sentiment": "positive",
-      "comments": 237,
+      "comments": 325,
       "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Apple Introduces AirPods 5",
-      "insight": "HN 热议：61 分 · 53 评论",
-      "sentiment": "neutral",
-      "comments": 53,
+      "title": "AirPods 5",
+      "insight": "HN 热议：331 分 · 263 评论",
+      "sentiment": "positive",
+      "comments": 263,
       "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
-      "insight": "HN 热议：167 分 · 59 评论",
-      "sentiment": "neutral",
-      "comments": 59,
+      "insight": "HN 热议：310 分 · 113 评论",
+      "sentiment": "positive",
+      "comments": 113,
       "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
-      "insight": "HN 热议：25 分 · 2 评论",
+      "insight": "HN 热议：143 分 · 59 评论",
       "sentiment": "neutral",
-      "comments": 2,
+      "comments": 59,
       "url": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
       "id": 4
     },
     {
       "source": "HackerNews",
       "title": "Understanding the recent DDoS attack against Read the Docs",
-      "insight": "HN 热议：51 分 · 15 评论",
+      "insight": "HN 热议：136 分 · 43 评论",
       "sentiment": "neutral",
-      "comments": 15,
+      "comments": 43,
       "url": "https://about.readthedocs.com/blog/2026/09/2026-ddos-attack/",
       "id": 5
     }
