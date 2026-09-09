@@ -1,49 +1,49 @@
 {
-  "updated": "2026-09-09T01:49:09Z",
+  "updated": "2026-09-09T07:36:55Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Muse – Meta’s personal AI agent",
-      "insight": "HN 热议：307 分 · 307 评论",
+      "insight": "HN 热议：472 分 · 506 评论",
       "sentiment": "positive",
-      "comments": 307,
+      "comments": 506,
       "url": "https://ai.meta.com/muse/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "The Microeconomics of Artificial Intelligence (2025)",
-      "insight": "HN 热议：30 分 · 8 评论",
+      "title": "\"Tweet\" and the bird logo apparently enter the public domain",
+      "insight": "HN 热议：23 分 · 3 评论",
       "sentiment": "neutral",
-      "comments": 8,
-      "url": "https://direct.mit.edu/books/oa-monograph/6067/The-Microeconomics-of-Artificial-Intelligence",
+      "comments": 3,
+      "url": "https://blog.ericgoldman.org/archives/2026/09/tweet-and-the-bird-logo-apparently-enter-the-public-domain-but-x-maintains-its-grip-on-the-twitter-mark-for-now-x-v-project-bluebird.htm",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Tao: Open math problems being non-renewably mined by AI",
-      "insight": "HN 热议：147 分 · 92 评论",
+      "title": "Tension wood: A 'muscle' that can both bend and straighten plants",
+      "insight": "HN 热议：103 分 · 16 评论",
       "sentiment": "neutral",
-      "comments": 92,
-      "url": "https://mathstodon.xyz/@tao/117237320796901560",
+      "comments": 16,
+      "url": "https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "I-have-ADHD: A skill to stop coding agents from burying the answer",
-      "insight": "HN 热议：322 分 · 255 评论",
-      "sentiment": "positive",
-      "comments": 255,
-      "url": "https://github.com/ayghri/i-have-adhd",
+      "title": "How GPT‑5.6 Sol helps run quantum computing experiments",
+      "insight": "HN 热议：4 分 · 0 评论",
+      "sentiment": "neutral",
+      "comments": 0,
+      "url": "https://openai.com/index/codex-quantum-computing-experiments/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: LLM Attention Visualization",
-      "insight": "HN 热议：128 分 · 22 评论",
+      "title": "AI Has a Discovery Problem",
+      "insight": "HN 热议：27 分 · 9 评论",
       "sentiment": "neutral",
-      "comments": 22,
-      "url": "https://ishamf.dev/p/llm-attention-visualizer/",
+      "comments": 9,
+      "url": "https://mhacevedo.com/posts/the-discovery-problem",
       "id": 5
     }
   ]
