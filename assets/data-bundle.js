@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-09T07:36:55Z",
+    "updated": "2026-09-09T13:12:24Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-09T07:36:55Z",
+    "updated": "2026-09-09T13:12:24Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-09T07:36:55Z",
+    "updated": "2026-09-09T13:12:24Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187216,
-            "stars_today": 187216,
+            "stars": 187220,
+            "stars_today": 187220,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 169746,
-            "stars_today": 169746,
+            "stars": 169767,
+            "stars_today": 169767,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96572,
-            "stars_today": 96572,
+            "stars": 96573,
+            "stars_today": 96573,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 93541,
-            "stars_today": 93541,
+            "stars": 93561,
+            "stars_today": 93561,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 86982,
-            "stars_today": 86982,
+            "stars": 87020,
+            "stars_today": 87020,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "microsoft/AI-For-Beginners",
             "description": "12 Weeks, 24 Lessons, AI for All!",
             "language": "Jupyter Notebook",
-            "stars": 68290,
-            "stars_today": 68290,
+            "stars": 68304,
+            "stars_today": 68304,
             "url": "https://github.com/microsoft/AI-For-Beginners"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-09T07:36:55Z",
+    "updated": "2026-09-09T13:12:24Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-09T07:36:55Z",
+    "updated": "2026-09-09T13:12:24Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-09T07:36:55Z",
+    "updated": "2026-09-09T13:12:24Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Muse – Meta’s personal AI agent",
-            "insight": "HN 热议：472 分 · 506 评论",
+            "insight": "HN 热议：560 分 · 614 评论",
             "sentiment": "positive",
-            "comments": 506,
+            "comments": 614,
             "url": "https://ai.meta.com/muse/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "\"Tweet\" and the bird logo apparently enter the public domain",
-            "insight": "HN 热议：23 分 · 3 评论",
+            "title": "How An AI math breakthrough ignited a controversy",
+            "insight": "HN 热议：142 分 · 133 评论",
             "sentiment": "neutral",
-            "comments": 3,
-            "url": "https://blog.ericgoldman.org/archives/2026/09/tweet-and-the-bird-logo-apparently-enter-the-public-domain-but-x-maintains-its-grip-on-the-twitter-mark-for-now-x-v-project-bluebird.htm",
+            "comments": 133,
+            "url": "https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Tension wood: A 'muscle' that can both bend and straighten plants",
-            "insight": "HN 热议：103 分 · 16 评论",
+            "title": "Claude, change the \"Add to Cart\" button to blue",
+            "insight": "HN 热议：46 分 · 8 评论",
             "sentiment": "neutral",
-            "comments": 16,
-            "url": "https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html",
+            "comments": 8,
+            "url": "https://opusfived.dev/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "How GPT‑5.6 Sol helps run quantum computing experiments",
-            "insight": "HN 热议：4 分 · 0 评论",
+            "title": "Tension wood: A 'muscle' that can both bend and straighten plants",
+            "insight": "HN 热议：139 分 · 35 评论",
             "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://openai.com/index/codex-quantum-computing-experiments/",
+            "comments": 35,
+            "url": "https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "AI Has a Discovery Problem",
-            "insight": "HN 热议：27 分 · 9 评论",
+            "title": "How GPT‑5.6 Sol helps run quantum computing experiments",
+            "insight": "HN 热议：98 分 · 78 评论",
             "sentiment": "neutral",
-            "comments": 9,
-            "url": "https://mhacevedo.com/posts/the-discovery-problem",
+            "comments": 78,
+            "url": "https://openai.com/index/codex-quantum-computing-experiments/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-09T07:36:55Z",
+    "updated": "2026-09-09T13:12:24Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
