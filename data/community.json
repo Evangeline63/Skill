@@ -1,49 +1,49 @@
 {
-  "updated": "2026-09-08T23:01:57Z",
+  "updated": "2026-09-09T01:49:09Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "I-have-ADHD: A skill to stop coding agents from burying the answer",
-      "insight": "HN 热议：267 分 · 210 评论",
+      "title": "Muse – Meta’s personal AI agent",
+      "insight": "HN 热议：307 分 · 307 评论",
       "sentiment": "positive",
-      "comments": 210,
-      "url": "https://github.com/ayghri/i-have-adhd",
+      "comments": 307,
+      "url": "https://ai.meta.com/muse/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Muse: Meta's personal AI agent, features and capabilities",
-      "insight": "HN 热议：206 分 · 197 评论",
-      "sentiment": "positive",
-      "comments": 197,
-      "url": "https://ai.meta.com/muse/",
+      "title": "The Microeconomics of Artificial Intelligence (2025)",
+      "insight": "HN 热议：30 分 · 8 评论",
+      "sentiment": "neutral",
+      "comments": 8,
+      "url": "https://direct.mit.edu/books/oa-monograph/6067/The-Microeconomics-of-Artificial-Intelligence",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: LLM Attention Visualization",
-      "insight": "HN 热议：102 分 · 19 评论",
+      "title": "Tao: Open math problems being non-renewably mined by AI",
+      "insight": "HN 热议：147 分 · 92 评论",
       "sentiment": "neutral",
-      "comments": 19,
-      "url": "https://ishamf.dev/p/llm-attention-visualizer/",
+      "comments": 92,
+      "url": "https://mathstodon.xyz/@tao/117237320796901560",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Tao: Open math problems being non-renewably mined by AI",
-      "insight": "HN 热议：16 分 · 5 评论",
-      "sentiment": "neutral",
-      "comments": 5,
-      "url": "https://mathstodon.xyz/@tao/117237320796901560",
+      "title": "I-have-ADHD: A skill to stop coding agents from burying the answer",
+      "insight": "HN 热议：322 分 · 255 评论",
+      "sentiment": "positive",
+      "comments": 255,
+      "url": "https://github.com/ayghri/i-have-adhd",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "The two Christian saints who are the Buddha",
-      "insight": "HN 热议：198 分 · 138 评论",
+      "title": "Show HN: LLM Attention Visualization",
+      "insight": "HN 热议：128 分 · 22 评论",
       "sentiment": "neutral",
-      "comments": 138,
-      "url": "https://signoregalilei.com/2026/08/30/the-two-christian-saints-who-are-secretly-the-buddha/",
+      "comments": 22,
+      "url": "https://ishamf.dev/p/llm-attention-visualizer/",
       "id": 5
     }
   ]
