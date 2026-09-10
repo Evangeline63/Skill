@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-10T13:10:14Z",
+    "updated": "2026-09-10T17:55:44Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-10T13:10:14Z",
+    "updated": "2026-09-10T17:55:44Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-10T13:10:14Z",
+    "updated": "2026-09-10T17:55:44Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187244,
-            "stars_today": 187244,
+            "stars": 187243,
+            "stars_today": 187243,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,50 +282,50 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 169853,
-            "stars_today": 169853,
+            "stars": 169868,
+            "stars_today": 169868,
             "url": "https://github.com/f/prompts.chat"
         },
         {
             "rank": 3,
-            "name": "hacksider/Deep-Live-Cam",
-            "description": "real time face swap and one-click video deepfake with only a single image",
-            "language": "Python",
-            "stars": 96586,
-            "stars_today": 96586,
-            "url": "https://github.com/hacksider/Deep-Live-Cam"
+            "name": "rasbt/LLMs-from-scratch",
+            "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+            "language": "Jupyter Notebook",
+            "stars": 104704,
+            "stars_today": 104704,
+            "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
             "rank": 4,
-            "name": "thedotmack/claude-mem",
-            "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
-            "language": "JavaScript",
-            "stars": 93612,
-            "stars_today": 93612,
-            "url": "https://github.com/thedotmack/claude-mem"
+            "name": "hacksider/Deep-Live-Cam",
+            "description": "real time face swap and one-click video deepfake with only a single image",
+            "language": "Python",
+            "stars": 96592,
+            "stars_today": 96592,
+            "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
             "rank": 5,
-            "name": "OpenHands/OpenHands",
-            "description": "🙌 OpenHands: AI-Driven Development",
-            "language": "TypeScript",
-            "stars": 87208,
-            "stars_today": 87208,
-            "url": "https://github.com/OpenHands/OpenHands"
+            "name": "thedotmack/claude-mem",
+            "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
+            "language": "JavaScript",
+            "stars": 93625,
+            "stars_today": 93625,
+            "url": "https://github.com/thedotmack/claude-mem"
         },
         {
             "rank": 6,
-            "name": "microsoft/AI-For-Beginners",
-            "description": "12 Weeks, 24 Lessons, AI for All!",
-            "language": "Jupyter Notebook",
-            "stars": 68340,
-            "stars_today": 68340,
-            "url": "https://github.com/microsoft/AI-For-Beginners"
+            "name": "OpenHands/OpenHands",
+            "description": "🙌 OpenHands: AI-Driven Development",
+            "language": "TypeScript",
+            "stars": 87243,
+            "stars_today": 87243,
+            "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-10T13:10:14Z",
+    "updated": "2026-09-10T17:55:44Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-10T13:10:14Z",
+    "updated": "2026-09-10T17:55:44Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-10T13:10:14Z",
+    "updated": "2026-09-10T17:55:44Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Shopify acquires Tailwind",
-            "insight": "HN 热议：1074 分 · 415 评论",
-            "sentiment": "positive",
-            "comments": 415,
-            "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
+            "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+            "insight": "HN 热议：122 分 · 63 评论",
+            "sentiment": "neutral",
+            "comments": 63,
+            "url": "https://cognition.com/blog/swe-2",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Samsung Debuts zHBM Prototype, Stacking Memory Directly on AI Accelerators",
-            "insight": "HN 热议：40 分 · 7 评论",
+            "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+            "insight": "HN 热议：199 分 · 355 评论",
             "sentiment": "neutral",
-            "comments": 7,
-            "url": "https://www.thelec.net/news/articleView.html?idxno=12835",
+            "comments": 355,
+            "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
-            "insight": "HN 热议：467 分 · 147 评论",
-            "sentiment": "positive",
-            "comments": 147,
-            "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+            "title": ">10x More Efficient Pretraining",
+            "insight": "HN 热议：69 分 · 38 评论",
+            "sentiment": "neutral",
+            "comments": 38,
+            "url": "https://magic.dev/blog/pretraining#",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Object storage is all you need",
-            "insight": "HN 热议：27 分 · 20 评论",
+            "title": "Anthropic Says It Blocked Possible Efforts to Build Biological Weapons",
+            "insight": "HN 热议：17 分 · 6 评论",
             "sentiment": "neutral",
-            "comments": 20,
-            "url": "https://www.tigrisdata.com/blog/object-storage-all-need/",
+            "comments": 6,
+            "url": "https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "AirPods 5",
-            "insight": "HN 热议：479 分 · 406 评论",
-            "sentiment": "positive",
-            "comments": 406,
-            "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
+            "title": "AI 2027",
+            "insight": "HN 热议：8 分 · 7 评论",
+            "sentiment": "neutral",
+            "comments": 7,
+            "url": "https://ai-2027.com",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-10T13:10:14Z",
+    "updated": "2026-09-10T17:55:44Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

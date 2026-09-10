@@ -1,49 +1,49 @@
 {
-  "updated": "2026-09-10T13:10:14Z",
+  "updated": "2026-09-10T17:55:44Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Shopify acquires Tailwind",
-      "insight": "HN 热议：1074 分 · 415 评论",
-      "sentiment": "positive",
-      "comments": 415,
-      "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
+      "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+      "insight": "HN 热议：122 分 · 63 评论",
+      "sentiment": "neutral",
+      "comments": 63,
+      "url": "https://cognition.com/blog/swe-2",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Samsung Debuts zHBM Prototype, Stacking Memory Directly on AI Accelerators",
-      "insight": "HN 热议：40 分 · 7 评论",
+      "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+      "insight": "HN 热议：199 分 · 355 评论",
       "sentiment": "neutral",
-      "comments": 7,
-      "url": "https://www.thelec.net/news/articleView.html?idxno=12835",
+      "comments": 355,
+      "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
-      "insight": "HN 热议：467 分 · 147 评论",
-      "sentiment": "positive",
-      "comments": 147,
-      "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+      "title": ">10x More Efficient Pretraining",
+      "insight": "HN 热议：69 分 · 38 评论",
+      "sentiment": "neutral",
+      "comments": 38,
+      "url": "https://magic.dev/blog/pretraining#",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Object storage is all you need",
-      "insight": "HN 热议：27 分 · 20 评论",
+      "title": "Anthropic Says It Blocked Possible Efforts to Build Biological Weapons",
+      "insight": "HN 热议：17 分 · 6 评论",
       "sentiment": "neutral",
-      "comments": 20,
-      "url": "https://www.tigrisdata.com/blog/object-storage-all-need/",
+      "comments": 6,
+      "url": "https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "AirPods 5",
-      "insight": "HN 热议：479 分 · 406 评论",
-      "sentiment": "positive",
-      "comments": 406,
-      "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
+      "title": "AI 2027",
+      "insight": "HN 热议：8 分 · 7 评论",
+      "sentiment": "neutral",
+      "comments": 7,
+      "url": "https://ai-2027.com",
       "id": 5
     }
   ]
