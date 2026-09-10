@@ -1,49 +1,49 @@
 {
-  "updated": "2026-09-10T17:55:44Z",
+  "updated": "2026-09-10T20:11:47Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
-      "insight": "HN 热议：122 分 · 63 评论",
-      "sentiment": "neutral",
-      "comments": 63,
+      "insight": "HN 热议：219 分 · 102 评论",
+      "sentiment": "positive",
+      "comments": 102,
       "url": "https://cognition.com/blog/swe-2",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "More questions about whether researchers can trust OpenAI with unpublished math",
-      "insight": "HN 热议：199 分 · 355 评论",
-      "sentiment": "neutral",
-      "comments": 355,
+      "insight": "HN 热议：354 分 · 455 评论",
+      "sentiment": "positive",
+      "comments": 455,
       "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": ">10x More Efficient Pretraining",
-      "insight": "HN 热议：69 分 · 38 评论",
+      "insight": "HN 热议：99 分 · 51 评论",
       "sentiment": "neutral",
-      "comments": 38,
+      "comments": 51,
       "url": "https://magic.dev/blog/pretraining#",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Anthropic Says It Blocked Possible Efforts to Build Biological Weapons",
-      "insight": "HN 热议：17 分 · 6 评论",
+      "title": "Detecting and countering misuse of AI: September 2026",
+      "insight": "HN 热议：13 分 · 3 评论",
       "sentiment": "neutral",
-      "comments": 6,
-      "url": "https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html",
+      "comments": 3,
+      "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "AI 2027",
-      "insight": "HN 热议：8 分 · 7 评论",
+      "title": "AI Is Breaking This Thing We Call Trust",
+      "insight": "HN 热议：30 分 · 1 评论",
       "sentiment": "neutral",
-      "comments": 7,
-      "url": "https://ai-2027.com",
+      "comments": 1,
+      "url": "https://terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust/",
       "id": 5
     }
   ]

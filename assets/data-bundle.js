@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-10T17:55:44Z",
+    "updated": "2026-09-10T20:11:47Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-10T17:55:44Z",
+    "updated": "2026-09-10T20:11:47Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-10T17:55:44Z",
+    "updated": "2026-09-10T20:11:47Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187243,
-            "stars_today": 187243,
+            "stars": 187244,
+            "stars_today": 187244,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 169868,
-            "stars_today": 169868,
+            "stars": 169880,
+            "stars_today": 169880,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 104704,
-            "stars_today": 104704,
+            "stars": 104707,
+            "stars_today": 104707,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96592,
-            "stars_today": 96592,
+            "stars": 96593,
+            "stars_today": 96593,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 93625,
-            "stars_today": 93625,
+            "stars": 93633,
+            "stars_today": 93633,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 87243,
-            "stars_today": 87243,
+            "stars": 87253,
+            "stars_today": 87253,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-10T17:55:44Z",
+    "updated": "2026-09-10T20:11:47Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-10T17:55:44Z",
+    "updated": "2026-09-10T20:11:47Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-10T17:55:44Z",
+    "updated": "2026-09-10T20:11:47Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
-            "insight": "HN 热议：122 分 · 63 评论",
-            "sentiment": "neutral",
-            "comments": 63,
+            "insight": "HN 热议：219 分 · 102 评论",
+            "sentiment": "positive",
+            "comments": 102,
             "url": "https://cognition.com/blog/swe-2",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "More questions about whether researchers can trust OpenAI with unpublished math",
-            "insight": "HN 热议：199 分 · 355 评论",
-            "sentiment": "neutral",
-            "comments": 355,
+            "insight": "HN 热议：354 分 · 455 评论",
+            "sentiment": "positive",
+            "comments": 455,
             "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": ">10x More Efficient Pretraining",
-            "insight": "HN 热议：69 分 · 38 评论",
+            "insight": "HN 热议：99 分 · 51 评论",
             "sentiment": "neutral",
-            "comments": 38,
+            "comments": 51,
             "url": "https://magic.dev/blog/pretraining#",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Anthropic Says It Blocked Possible Efforts to Build Biological Weapons",
-            "insight": "HN 热议：17 分 · 6 评论",
+            "title": "Detecting and countering misuse of AI: September 2026",
+            "insight": "HN 热议：13 分 · 3 评论",
             "sentiment": "neutral",
-            "comments": 6,
-            "url": "https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html",
+            "comments": 3,
+            "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "AI 2027",
-            "insight": "HN 热议：8 分 · 7 评论",
+            "title": "AI Is Breaking This Thing We Call Trust",
+            "insight": "HN 热议：30 分 · 1 评论",
             "sentiment": "neutral",
-            "comments": 7,
-            "url": "https://ai-2027.com",
+            "comments": 1,
+            "url": "https://terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-10T17:55:44Z",
+    "updated": "2026-09-10T20:11:47Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
