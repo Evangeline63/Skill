@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-10T20:11:47Z",
+    "updated": "2026-09-10T22:50:07Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-10T20:11:47Z",
+    "updated": "2026-09-10T22:50:07Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-10T20:11:47Z",
+    "updated": "2026-09-10T22:50:07Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187244,
-            "stars_today": 187244,
+            "stars": 187247,
+            "stars_today": 187247,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 169880,
-            "stars_today": 169880,
+            "stars": 169889,
+            "stars_today": 169889,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 104707,
-            "stars_today": 104707,
+            "stars": 104711,
+            "stars_today": 104711,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96593,
-            "stars_today": 96593,
+            "stars": 96597,
+            "stars_today": 96597,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "JavaScript",
-            "stars": 93633,
-            "stars_today": 93633,
+            "stars": 93638,
+            "stars_today": 93638,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 87253,
-            "stars_today": 87253,
+            "stars": 87261,
+            "stars_today": 87261,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-10T20:11:47Z",
+    "updated": "2026-09-10T22:50:07Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-10T20:11:47Z",
+    "updated": "2026-09-10T22:50:07Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-10T20:11:47Z",
+    "updated": "2026-09-10T22:50:07Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
-            "insight": "HN 热议：219 分 · 102 评论",
+            "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+            "insight": "HN 热议：539 分 · 546 评论",
             "sentiment": "positive",
-            "comments": 102,
-            "url": "https://cognition.com/blog/swe-2",
+            "comments": 546,
+            "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "More questions about whether researchers can trust OpenAI with unpublished math",
-            "insight": "HN 热议：354 分 · 455 评论",
+            "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+            "insight": "HN 热议：330 分 · 133 评论",
             "sentiment": "positive",
-            "comments": 455,
-            "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
+            "comments": 133,
+            "url": "https://cognition.com/blog/swe-2",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": ">10x More Efficient Pretraining",
-            "insight": "HN 热议：99 分 · 51 评论",
+            "title": "OpenAI Agents API",
+            "insight": "HN 热议：56 分 · 45 评论",
             "sentiment": "neutral",
-            "comments": 51,
-            "url": "https://magic.dev/blog/pretraining#",
+            "comments": 45,
+            "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
             "id": 3
         },
         {
             "source": "HackerNews",
             "title": "Detecting and countering misuse of AI: September 2026",
-            "insight": "HN 热议：13 分 · 3 评论",
+            "insight": "HN 热议：55 分 · 27 评论",
             "sentiment": "neutral",
-            "comments": 3,
+            "comments": 27,
             "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "AI Is Breaking This Thing We Call Trust",
-            "insight": "HN 热议：30 分 · 1 评论",
+            "title": "Compute-efficient pretraining and scaling to trillion-parameter models",
+            "insight": "HN 热议：106 分 · 59 评论",
             "sentiment": "neutral",
-            "comments": 1,
-            "url": "https://terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust/",
+            "comments": 59,
+            "url": "https://magic.dev/blog/pretraining#",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-10T20:11:47Z",
+    "updated": "2026-09-10T22:50:07Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
