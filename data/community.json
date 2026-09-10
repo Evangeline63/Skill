@@ -1,49 +1,49 @@
 {
-  "updated": "2026-09-10T01:44:54Z",
+  "updated": "2026-09-10T07:33:17Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Shopify acquires Tailwind",
-      "insight": "HN 热议：890 分 · 352 评论",
+      "insight": "HN 热议：1004 分 · 387 评论",
       "sentiment": "positive",
-      "comments": 352,
+      "comments": 387,
       "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "AirPods 5",
-      "insight": "HN 热议：373 分 · 303 评论",
-      "sentiment": "positive",
-      "comments": 303,
-      "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
+      "title": "Training a 3.8B LLM to 0.384 CORE for $998 – Hugo Vergnes",
+      "insight": "HN 热议：55 分 · 9 评论",
+      "sentiment": "neutral",
+      "comments": 9,
+      "url": "https://hugovergnes.github.io/little-lm-3-8b/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
-      "insight": "HN 热议：349 分 · 121 评论",
+      "title": "AirPods 5",
+      "insight": "HN 热议：442 分 · 348 评论",
       "sentiment": "positive",
-      "comments": 121,
-      "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+      "comments": 348,
+      "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "I'm sorry, you're not going to die from an AI-engineered supervirus",
-      "insight": "HN 热议：32 分 · 29 评论",
-      "sentiment": "neutral",
-      "comments": 29,
-      "url": "https://blog.genesmindsmachines.com/p/im-sorry-youre-not-going-to-die-from",
+      "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
+      "insight": "HN 热议：399 分 · 133 评论",
+      "sentiment": "positive",
+      "comments": 133,
+      "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
-      "insight": "HN 热议：173 分 · 71 评论",
+      "title": "OpenAI might have stolen another major proof",
+      "insight": "HN 热议：150 分 · 45 评论",
       "sentiment": "neutral",
-      "comments": 71,
-      "url": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
+      "comments": 45,
+      "url": "https://twitter.com/ValerioCapraro/status/2097791836269977996",
       "id": 5
     }
   ]
