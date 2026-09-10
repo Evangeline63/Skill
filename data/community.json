@@ -1,49 +1,49 @@
 {
-  "updated": "2026-09-10T07:33:17Z",
+  "updated": "2026-09-10T13:10:14Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Shopify acquires Tailwind",
-      "insight": "HN 热议：1004 分 · 387 评论",
+      "insight": "HN 热议：1074 分 · 415 评论",
       "sentiment": "positive",
-      "comments": 387,
+      "comments": 415,
       "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Training a 3.8B LLM to 0.384 CORE for $998 – Hugo Vergnes",
-      "insight": "HN 热议：55 分 · 9 评论",
+      "title": "Samsung Debuts zHBM Prototype, Stacking Memory Directly on AI Accelerators",
+      "insight": "HN 热议：40 分 · 7 评论",
       "sentiment": "neutral",
-      "comments": 9,
-      "url": "https://hugovergnes.github.io/little-lm-3-8b/",
+      "comments": 7,
+      "url": "https://www.thelec.net/news/articleView.html?idxno=12835",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "AirPods 5",
-      "insight": "HN 热议：442 分 · 348 评论",
+      "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
+      "insight": "HN 热议：467 分 · 147 评论",
       "sentiment": "positive",
-      "comments": 348,
-      "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
+      "comments": 147,
+      "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
-      "insight": "HN 热议：399 分 · 133 评论",
-      "sentiment": "positive",
-      "comments": 133,
-      "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+      "title": "Object storage is all you need",
+      "insight": "HN 热议：27 分 · 20 评论",
+      "sentiment": "neutral",
+      "comments": 20,
+      "url": "https://www.tigrisdata.com/blog/object-storage-all-need/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "OpenAI might have stolen another major proof",
-      "insight": "HN 热议：150 分 · 45 评论",
-      "sentiment": "neutral",
-      "comments": 45,
-      "url": "https://twitter.com/ValerioCapraro/status/2097791836269977996",
+      "title": "AirPods 5",
+      "insight": "HN 热议：479 分 · 406 评论",
+      "sentiment": "positive",
+      "comments": 406,
+      "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
       "id": 5
     }
   ]
