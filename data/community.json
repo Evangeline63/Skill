@@ -1,49 +1,49 @@
 {
-  "updated": "2026-09-09T22:48:26Z",
+  "updated": "2026-09-10T01:44:54Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Shopify acquires Tailwind",
-      "insight": "HN 热议：820 分 · 325 评论",
+      "insight": "HN 热议：890 分 · 352 评论",
       "sentiment": "positive",
-      "comments": 325,
+      "comments": 352,
       "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "AirPods 5",
-      "insight": "HN 热议：331 分 · 263 评论",
+      "insight": "HN 热议：373 分 · 303 评论",
       "sentiment": "positive",
-      "comments": 263,
+      "comments": 303,
       "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
-      "insight": "HN 热议：310 分 · 113 评论",
+      "insight": "HN 热议：349 分 · 121 评论",
       "sentiment": "positive",
-      "comments": 113,
+      "comments": 121,
       "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
-      "insight": "HN 热议：143 分 · 59 评论",
+      "title": "I'm sorry, you're not going to die from an AI-engineered supervirus",
+      "insight": "HN 热议：32 分 · 29 评论",
       "sentiment": "neutral",
-      "comments": 59,
-      "url": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
+      "comments": 29,
+      "url": "https://blog.genesmindsmachines.com/p/im-sorry-youre-not-going-to-die-from",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Understanding the recent DDoS attack against Read the Docs",
-      "insight": "HN 热议：136 分 · 43 评论",
+      "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
+      "insight": "HN 热议：173 分 · 71 评论",
       "sentiment": "neutral",
-      "comments": 43,
-      "url": "https://about.readthedocs.com/blog/2026/09/2026-ddos-attack/",
+      "comments": 71,
+      "url": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
       "id": 5
     }
   ]
