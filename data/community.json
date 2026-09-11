@@ -1,49 +1,49 @@
 {
-  "updated": "2026-09-11T01:43:49Z",
+  "updated": "2026-09-11T07:31:45Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "More questions about whether researchers can trust OpenAI with unpublished math",
-      "insight": "HN 热议：665 分 · 631 评论",
-      "sentiment": "positive",
-      "comments": 631,
-      "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
+      "title": "Astra for Coding: Why Are We Doing This Again?",
+      "insight": "HN 热议：164 分 · 80 评论",
+      "sentiment": "neutral",
+      "comments": 80,
+      "url": "https://lucumr.pocoo.org/2026/9/7/astra-why/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "OpenAI Agents API",
-      "insight": "HN 热议：130 分 · 85 评论",
+      "title": "The Gemini app is now available for Windows",
+      "insight": "HN 热议：27 分 · 13 评论",
       "sentiment": "neutral",
-      "comments": 85,
-      "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+      "comments": 13,
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
-      "insight": "HN 热议：352 分 · 144 评论",
+      "title": "OpenAI Agents API",
+      "insight": "HN 热议：233 分 · 131 评论",
       "sentiment": "positive",
-      "comments": 144,
-      "url": "https://cognition.com/blog/swe-2",
+      "comments": 131,
+      "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
-      "insight": "HN 热议：27 分 · 15 评论",
-      "sentiment": "neutral",
-      "comments": 15,
-      "url": "https://system76.com/workstations/thelio-mira-ai",
+      "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+      "insight": "HN 热议：405 分 · 170 评论",
+      "sentiment": "positive",
+      "comments": 170,
+      "url": "https://cognition.com/blog/swe-2",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Details.so",
-      "insight": "HN 热议：14 分 · 2 评论",
+      "title": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
+      "insight": "HN 热议：87 分 · 67 评论",
       "sentiment": "neutral",
-      "comments": 2,
-      "url": "https://www.details.so/inspo",
+      "comments": 67,
+      "url": "https://system76.com/workstations/thelio-mira-ai",
       "id": 5
     }
   ]
