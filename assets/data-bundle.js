@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-11T07:31:45Z",
+    "updated": "2026-09-11T13:03:54Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-11T07:31:45Z",
+    "updated": "2026-09-11T13:03:54Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-11T07:31:45Z",
+    "updated": "2026-09-11T13:03:54Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187250,
-            "stars_today": 187250,
+            "stars": 187257,
+            "stars_today": 187257,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 169927,
-            "stars_today": 169927,
+            "stars": 169951,
+            "stars_today": 169951,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 104741,
-            "stars_today": 104741,
+            "stars": 104761,
+            "stars_today": 104761,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,17 +300,17 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96608,
-            "stars_today": 96608,
+            "stars": 96610,
+            "stars_today": 96610,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
             "rank": 5,
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
-            "language": "JavaScript",
-            "stars": 93658,
-            "stars_today": 93658,
+            "language": "TypeScript",
+            "stars": 93667,
+            "stars_today": 93667,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 87313,
-            "stars_today": 87313,
+            "stars": 87393,
+            "stars_today": 87393,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-11T07:31:45Z",
+    "updated": "2026-09-11T13:03:54Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-11T07:31:45Z",
+    "updated": "2026-09-11T13:03:54Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-11T07:31:45Z",
+    "updated": "2026-09-11T13:03:54Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Astra for Coding: Why Are We Doing This Again?",
-            "insight": "HN 热议：164 分 · 80 评论",
+            "title": "The Waymo effect: how AI is quietly making research less collaborative",
+            "insight": "HN 热议：127 分 · 75 评论",
             "sentiment": "neutral",
-            "comments": 80,
-            "url": "https://lucumr.pocoo.org/2026/9/7/astra-why/",
+            "comments": 75,
+            "url": "https://www.researchagenda.news/articles/the-waymo-effect.html",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "The Gemini app is now available for Windows",
-            "insight": "HN 热议：27 分 · 13 评论",
+            "title": "Claude is no longer available for minors",
+            "insight": "HN 热议：163 分 · 223 评论",
             "sentiment": "neutral",
-            "comments": 13,
-            "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/",
+            "comments": 223,
+            "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "OpenAI Agents API",
-            "insight": "HN 热议：233 分 · 131 评论",
+            "insight": "HN 热议：283 分 · 159 评论",
             "sentiment": "positive",
-            "comments": 131,
+            "comments": 159,
             "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
-            "insight": "HN 热议：405 分 · 170 评论",
-            "sentiment": "positive",
-            "comments": 170,
-            "url": "https://cognition.com/blog/swe-2",
+            "title": "Moonshot serves Claude instead of Kimi and collects exchanges for model training",
+            "insight": "HN 热议：18 分 · 5 评论",
+            "sentiment": "neutral",
+            "comments": 5,
+            "url": "https://twitter.com/DavidAgranovich/status/2098168522862215449",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
-            "insight": "HN 热议：87 分 · 67 评论",
-            "sentiment": "neutral",
-            "comments": 67,
-            "url": "https://system76.com/workstations/thelio-mira-ai",
+            "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+            "insight": "HN 热议：831 分 · 767 评论",
+            "sentiment": "positive",
+            "comments": 767,
+            "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-11T07:31:45Z",
+    "updated": "2026-09-11T13:03:54Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
