@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-11T13:03:54Z",
+    "updated": "2026-09-11T17:57:32Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-11T13:03:54Z",
+    "updated": "2026-09-11T17:57:32Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-11T13:03:54Z",
+    "updated": "2026-09-11T17:57:32Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187257,
-            "stars_today": 187257,
+            "stars": 187268,
+            "stars_today": 187268,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 169951,
-            "stars_today": 169951,
+            "stars": 169976,
+            "stars_today": 169976,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 104761,
-            "stars_today": 104761,
+            "stars": 104772,
+            "stars_today": 104772,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96610,
-            "stars_today": 96610,
+            "stars": 96612,
+            "stars_today": 96612,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 93667,
-            "stars_today": 93667,
+            "stars": 93679,
+            "stars_today": 93679,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 87393,
-            "stars_today": 87393,
+            "stars": 87477,
+            "stars_today": 87477,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-11T13:03:54Z",
+    "updated": "2026-09-11T17:57:32Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-11T13:03:54Z",
+    "updated": "2026-09-11T17:57:32Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-11T13:03:54Z",
+    "updated": "2026-09-11T17:57:32Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "The Waymo effect: how AI is quietly making research less collaborative",
-            "insight": "HN 热议：127 分 · 75 评论",
+            "title": "OpenAI considers slowing advanced AI development, Sam Altman tells employees",
+            "insight": "HN 热议：24 分 · 16 评论",
             "sentiment": "neutral",
-            "comments": 75,
-            "url": "https://www.researchagenda.news/articles/the-waymo-effect.html",
+            "comments": 16,
+            "url": "https://www.bloomberg.com/news/articles/2026-09-11/openai-is-open-to-slowing-cutting-edge-ai-ceo-sam-altman-tells-staff",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Claude is no longer available for minors",
-            "insight": "HN 热议：163 分 · 223 评论",
+            "title": "Copying login keychains between Macs fails on Secure Enclave Macs with Tahoe",
+            "insight": "HN 热议：40 分 · 24 评论",
             "sentiment": "neutral",
-            "comments": 223,
-            "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+            "comments": 24,
+            "url": "https://derflounder.wordpress.com/2026/09/08/manually-copying-login-keychain-files-from-one-mac-to-another-no-longer-works-on-secure-enclave-equipped-macs-running-macos-tahoe/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "OpenAI Agents API",
-            "insight": "HN 热议：283 分 · 159 评论",
-            "sentiment": "positive",
-            "comments": 159,
-            "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+            "title": "Show HN: Hacker News, Without AI",
+            "insight": "HN 热议：41 分 · 18 评论",
+            "sentiment": "neutral",
+            "comments": 18,
+            "url": "https://www.unslop.news/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Moonshot serves Claude instead of Kimi and collects exchanges for model training",
-            "insight": "HN 热议：18 分 · 5 评论",
-            "sentiment": "neutral",
-            "comments": 5,
-            "url": "https://twitter.com/DavidAgranovich/status/2098168522862215449",
+            "title": "Claude is only available to people over 18 years",
+            "insight": "HN 热议：369 分 · 445 评论",
+            "sentiment": "positive",
+            "comments": 445,
+            "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "More questions about whether researchers can trust OpenAI with unpublished math",
-            "insight": "HN 热议：831 分 · 767 评论",
+            "title": "OpenAI Agents API",
+            "insight": "HN 热议：332 分 · 169 评论",
             "sentiment": "positive",
-            "comments": 767,
-            "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
+            "comments": 169,
+            "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-11T13:03:54Z",
+    "updated": "2026-09-11T17:57:32Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
