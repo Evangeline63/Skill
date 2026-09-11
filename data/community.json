@@ -1,49 +1,49 @@
 {
-  "updated": "2026-09-10T22:50:07Z",
+  "updated": "2026-09-11T01:43:49Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "More questions about whether researchers can trust OpenAI with unpublished math",
-      "insight": "HN 热议：539 分 · 546 评论",
+      "insight": "HN 热议：665 分 · 631 评论",
       "sentiment": "positive",
-      "comments": 546,
+      "comments": 631,
       "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
-      "insight": "HN 热议：330 分 · 133 评论",
-      "sentiment": "positive",
-      "comments": 133,
-      "url": "https://cognition.com/blog/swe-2",
+      "title": "OpenAI Agents API",
+      "insight": "HN 热议：130 分 · 85 评论",
+      "sentiment": "neutral",
+      "comments": 85,
+      "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "OpenAI Agents API",
-      "insight": "HN 热议：56 分 · 45 评论",
-      "sentiment": "neutral",
-      "comments": 45,
-      "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+      "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+      "insight": "HN 热议：352 分 · 144 评论",
+      "sentiment": "positive",
+      "comments": 144,
+      "url": "https://cognition.com/blog/swe-2",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Detecting and countering misuse of AI: September 2026",
-      "insight": "HN 热议：55 分 · 27 评论",
+      "title": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
+      "insight": "HN 热议：27 分 · 15 评论",
       "sentiment": "neutral",
-      "comments": 27,
-      "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+      "comments": 15,
+      "url": "https://system76.com/workstations/thelio-mira-ai",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Compute-efficient pretraining and scaling to trillion-parameter models",
-      "insight": "HN 热议：106 分 · 59 评论",
+      "title": "Details.so",
+      "insight": "HN 热议：14 分 · 2 评论",
       "sentiment": "neutral",
-      "comments": 59,
-      "url": "https://magic.dev/blog/pretraining#",
+      "comments": 2,
+      "url": "https://www.details.so/inspo",
       "id": 5
     }
   ]
