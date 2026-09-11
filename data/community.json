@@ -1,49 +1,49 @@
 {
-  "updated": "2026-09-11T17:57:32Z",
+  "updated": "2026-09-11T20:19:14Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "OpenAI considers slowing advanced AI development, Sam Altman tells employees",
-      "insight": "HN 热议：24 分 · 16 评论",
-      "sentiment": "neutral",
-      "comments": 16,
-      "url": "https://www.bloomberg.com/news/articles/2026-09-11/openai-is-open-to-slowing-cutting-edge-ai-ceo-sam-altman-tells-staff",
+      "title": "A misalignment of AI in mathematics",
+      "insight": "HN 热议：220 分 · 317 评论",
+      "sentiment": "positive",
+      "comments": 317,
+      "url": "https://mathandai.org/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Copying login keychains between Macs fails on Secure Enclave Macs with Tahoe",
-      "insight": "HN 热议：40 分 · 24 评论",
+      "title": "Litelm: LiteLLM Without the Bloat",
+      "insight": "HN 热议：43 分 · 15 评论",
       "sentiment": "neutral",
-      "comments": 24,
-      "url": "https://derflounder.wordpress.com/2026/09/08/manually-copying-login-keychain-files-from-one-mac-to-another-no-longer-works-on-secure-enclave-equipped-macs-running-macos-tahoe/",
+      "comments": 15,
+      "url": "https://github.com/kennethwolters/litelm",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Hacker News, Without AI",
-      "insight": "HN 热议：41 分 · 18 评论",
-      "sentiment": "neutral",
-      "comments": 18,
-      "url": "https://www.unslop.news/",
+      "title": "Claude is only available to people over 18 years",
+      "insight": "HN 热议：465 分 · 519 评论",
+      "sentiment": "positive",
+      "comments": 519,
+      "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Claude is only available to people over 18 years",
-      "insight": "HN 热议：369 分 · 445 评论",
-      "sentiment": "positive",
-      "comments": 445,
-      "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+      "title": "CIA Releases President's Daily Briefs in Commemoration of 9/11",
+      "insight": "HN 热议：32 分 · 9 评论",
+      "sentiment": "neutral",
+      "comments": 9,
+      "url": "https://www.cia.gov/stories/story/cia-releases-presidents-daily-briefs-in-commemoration-of-the-25th-anniversary-of-9-11/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "OpenAI Agents API",
-      "insight": "HN 热议：332 分 · 169 评论",
-      "sentiment": "positive",
-      "comments": 169,
-      "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+      "title": "Copying login keychains between Macs fails on Secure Enclave Macs with Tahoe",
+      "insight": "HN 热议：58 分 · 46 评论",
+      "sentiment": "neutral",
+      "comments": 46,
+      "url": "https://derflounder.wordpress.com/2026/09/08/manually-copying-login-keychain-files-from-one-mac-to-another-no-longer-works-on-secure-enclave-equipped-macs-running-macos-tahoe/",
       "id": 5
     }
   ]

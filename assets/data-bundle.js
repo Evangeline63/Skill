@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-11T17:57:32Z",
+    "updated": "2026-09-11T20:19:14Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-11T17:57:32Z",
+    "updated": "2026-09-11T20:19:14Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-11T17:57:32Z",
+    "updated": "2026-09-11T20:19:14Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187268,
-            "stars_today": 187268,
+            "stars": 187269,
+            "stars_today": 187269,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 169976,
-            "stars_today": 169976,
+            "stars": 169987,
+            "stars_today": 169987,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 104772,
-            "stars_today": 104772,
+            "stars": 104779,
+            "stars_today": 104779,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96612,
-            "stars_today": 96612,
+            "stars": 96614,
+            "stars_today": 96614,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 93679,
-            "stars_today": 93679,
+            "stars": 93685,
+            "stars_today": 93685,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 87477,
-            "stars_today": 87477,
+            "stars": 87505,
+            "stars_today": 87505,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-11T17:57:32Z",
+    "updated": "2026-09-11T20:19:14Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-11T17:57:32Z",
+    "updated": "2026-09-11T20:19:14Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-11T17:57:32Z",
+    "updated": "2026-09-11T20:19:14Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "OpenAI considers slowing advanced AI development, Sam Altman tells employees",
-            "insight": "HN 热议：24 分 · 16 评论",
-            "sentiment": "neutral",
-            "comments": 16,
-            "url": "https://www.bloomberg.com/news/articles/2026-09-11/openai-is-open-to-slowing-cutting-edge-ai-ceo-sam-altman-tells-staff",
+            "title": "A misalignment of AI in mathematics",
+            "insight": "HN 热议：220 分 · 317 评论",
+            "sentiment": "positive",
+            "comments": 317,
+            "url": "https://mathandai.org/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Copying login keychains between Macs fails on Secure Enclave Macs with Tahoe",
-            "insight": "HN 热议：40 分 · 24 评论",
+            "title": "Litelm: LiteLLM Without the Bloat",
+            "insight": "HN 热议：43 分 · 15 评论",
             "sentiment": "neutral",
-            "comments": 24,
-            "url": "https://derflounder.wordpress.com/2026/09/08/manually-copying-login-keychain-files-from-one-mac-to-another-no-longer-works-on-secure-enclave-equipped-macs-running-macos-tahoe/",
+            "comments": 15,
+            "url": "https://github.com/kennethwolters/litelm",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Hacker News, Without AI",
-            "insight": "HN 热议：41 分 · 18 评论",
-            "sentiment": "neutral",
-            "comments": 18,
-            "url": "https://www.unslop.news/",
+            "title": "Claude is only available to people over 18 years",
+            "insight": "HN 热议：465 分 · 519 评论",
+            "sentiment": "positive",
+            "comments": 519,
+            "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Claude is only available to people over 18 years",
-            "insight": "HN 热议：369 分 · 445 评论",
-            "sentiment": "positive",
-            "comments": 445,
-            "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+            "title": "CIA Releases President's Daily Briefs in Commemoration of 9/11",
+            "insight": "HN 热议：32 分 · 9 评论",
+            "sentiment": "neutral",
+            "comments": 9,
+            "url": "https://www.cia.gov/stories/story/cia-releases-presidents-daily-briefs-in-commemoration-of-the-25th-anniversary-of-9-11/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "OpenAI Agents API",
-            "insight": "HN 热议：332 分 · 169 评论",
-            "sentiment": "positive",
-            "comments": 169,
-            "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+            "title": "Copying login keychains between Macs fails on Secure Enclave Macs with Tahoe",
+            "insight": "HN 热议：58 分 · 46 评论",
+            "sentiment": "neutral",
+            "comments": 46,
+            "url": "https://derflounder.wordpress.com/2026/09/08/manually-copying-login-keychain-files-from-one-mac-to-another-no-longer-works-on-secure-enclave-equipped-macs-running-macos-tahoe/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-11T17:57:32Z",
+    "updated": "2026-09-11T20:19:14Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
