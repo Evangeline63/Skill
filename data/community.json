@@ -1,49 +1,49 @@
 {
-  "updated": "2026-09-12T12:27:18Z",
+  "updated": "2026-09-12T17:29:06Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
-      "insight": "HN 热议：123 分 · 15 评论",
+      "title": "Nvidia is the central bank of AI",
+      "insight": "HN 热议：144 分 · 123 评论",
       "sentiment": "neutral",
-      "comments": 15,
-      "url": "https://eiln.github.io/posts/ane.html",
+      "comments": 123,
+      "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
-      "insight": "HN 热议：18 分 · 5 评论",
+      "title": "A Mathematical Framework for Transformer Circuits (2021)",
+      "insight": "HN 热议：48 分 · 4 评论",
       "sentiment": "neutral",
-      "comments": 5,
-      "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
+      "comments": 4,
+      "url": "https://transformer-circuits.pub/2021/framework/index.html",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "A misalignment of AI in mathematics",
-      "insight": "HN 热议：1009 分 · 961 评论",
-      "sentiment": "positive",
-      "comments": 961,
-      "url": "https://mathandai.org/",
+      "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+      "insight": "HN 热议：30 分 · 35 评论",
+      "sentiment": "neutral",
+      "comments": 35,
+      "url": "https://www.bbc.com/news/articles/c14dpgm0rg4o",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "A Design Space Exploration of Async/Await",
-      "insight": "HN 热议：322 分 · 86 评论",
-      "sentiment": "positive",
-      "comments": 86,
-      "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
+      "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
+      "insight": "HN 热议：187 分 · 20 评论",
+      "sentiment": "neutral",
+      "comments": 20,
+      "url": "https://eiln.github.io/posts/ane.html",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "I Fixed a Tractor Using John Deere's Self-Repair Service. Farmers Aren't Sold",
-      "insight": "HN 热议：3 分 · 1 评论",
-      "sentiment": "neutral",
-      "comments": 1,
-      "url": "https://www.wired.com/story/i-fixed-a-tractor-john-deere-self-repair-service/",
+      "title": "A misalignment of AI in mathematics",
+      "insight": "HN 热议：1135 分 · 1064 评论",
+      "sentiment": "positive",
+      "comments": 1064,
+      "url": "https://mathandai.org/",
       "id": 5
     }
   ]
