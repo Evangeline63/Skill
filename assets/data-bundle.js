@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-12T19:45:38Z",
+    "updated": "2026-09-12T22:40:45Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-12T19:45:38Z",
+    "updated": "2026-09-12T22:40:45Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-12T19:45:38Z",
+    "updated": "2026-09-12T22:40:45Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187286,
-            "stars_today": 187286,
+            "stars": 187287,
+            "stars_today": 187287,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 170115,
-            "stars_today": 170115,
+            "stars": 170136,
+            "stars_today": 170136,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 104837,
-            "stars_today": 104837,
+            "stars": 104844,
+            "stars_today": 104844,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 93734,
-            "stars_today": 93734,
+            "stars": 93742,
+            "stars_today": 93742,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 87661,
-            "stars_today": 87661,
+            "stars": 87679,
+            "stars_today": 87679,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-12T19:45:38Z",
+    "updated": "2026-09-12T22:40:45Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-12T19:45:38Z",
+    "updated": "2026-09-12T22:40:45Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-12T19:45:38Z",
+    "updated": "2026-09-12T22:40:45Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "LG denies TV spying claims, says tracking and snooping concerns 'not true'",
-            "insight": "HN 热议：198 分 · 205 评论",
-            "sentiment": "neutral",
-            "comments": 205,
-            "url": "https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio",
+            "title": "Nvidia is the central bank of AI",
+            "insight": "HN 热议：326 分 · 224 评论",
+            "sentiment": "positive",
+            "comments": 224,
+            "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Nvidia is the central bank of AI",
-            "insight": "HN 热议：225 分 · 168 评论",
-            "sentiment": "positive",
-            "comments": 168,
-            "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+            "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+            "insight": "HN 热议：46 分 · 34 评论",
+            "sentiment": "neutral",
+            "comments": 34,
+            "url": "https://withspecific.com/benchmarks/real-swe",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "A Mathematical Framework for Transformer Circuits (2021)",
-            "insight": "HN 热议：58 分 · 12 评论",
+            "title": "Benchmark: CadQuery vs. OpenSCAD for agentic CAD work",
+            "insight": "HN 热议：23 分 · 33 评论",
             "sentiment": "neutral",
-            "comments": 12,
-            "url": "https://transformer-circuits.pub/2021/framework/index.html",
+            "comments": 33,
+            "url": "https://modelrift.com/blog/cadquery-vs-openscad/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
-            "insight": "HN 热议：197 分 · 26 评论",
-            "sentiment": "neutral",
-            "comments": 26,
-            "url": "https://eiln.github.io/posts/ane.html",
+            "title": "LG denies TV spying claims, says tracking and snooping concerns 'not true'",
+            "insight": "HN 热议：347 分 · 309 评论",
+            "sentiment": "positive",
+            "comments": 309,
+            "url": "https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "How Trail of Bits helps verify the integrity of Signal chats",
-            "insight": "HN 热议：15 分 · 5 评论",
+            "title": "Getting 50 GB/S Back from the Apple Neural Engine",
+            "insight": "HN 热议：6 分 · 1 评论",
             "sentiment": "neutral",
-            "comments": 5,
-            "url": "https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/",
+            "comments": 1,
+            "url": "https://eiln.github.io/posts/ane-dma.html",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-12T19:45:38Z",
+    "updated": "2026-09-12T22:40:45Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
