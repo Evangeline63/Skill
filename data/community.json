@@ -1,49 +1,49 @@
 {
-  "updated": "2026-09-11T22:50:32Z",
+  "updated": "2026-09-12T01:49:46Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "A misalignment of AI in mathematics",
-      "insight": "HN 热议：486 分 · 551 评论",
+      "insight": "HN 热议：642 分 · 683 评论",
       "sentiment": "positive",
-      "comments": 551,
+      "comments": 683,
       "url": "https://mathandai.org/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "A Design Space Exploration of Async/Await",
-      "insight": "HN 热议：75 分 · 14 评论",
-      "sentiment": "neutral",
-      "comments": 14,
-      "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
+      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+      "insight": "HN 热议：324 分 · 190 评论",
+      "sentiment": "positive",
+      "comments": 190,
+      "url": "https://www.rubyhack.ai/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Litelm: LiteLLM Without the Bloat",
-      "insight": "HN 热议：78 分 · 27 评论",
+      "title": "A Design Space Exploration of Async/Await",
+      "insight": "HN 热议：144 分 · 29 评论",
       "sentiment": "neutral",
-      "comments": 27,
-      "url": "https://github.com/kennethwolters/litelm",
+      "comments": 29,
+      "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "GPT-6 built this earth exploration site in 5 prompts",
-      "insight": "HN 热议：21 分 · 30 评论",
+      "title": "AI researchers debate how close we are to recursive self-improvement",
+      "insight": "HN 热议：30 分 · 10 评论",
       "sentiment": "neutral",
-      "comments": 30,
-      "url": "https://earth.ethanplus.ai/",
+      "comments": 10,
+      "url": "https://www.dwarkesh.com/p/john-beren-charlie",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Claude is only available to people over 18 years",
-      "insight": "HN 热议：535 分 · 576 评论",
-      "sentiment": "positive",
-      "comments": 576,
-      "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+      "title": "Litelm: LiteLLM Without the Bloat",
+      "insight": "HN 热议：97 分 · 36 评论",
+      "sentiment": "neutral",
+      "comments": 36,
+      "url": "https://github.com/kennethwolters/litelm",
       "id": 5
     }
   ]

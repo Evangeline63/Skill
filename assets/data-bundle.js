@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-11T22:50:32Z",
+    "updated": "2026-09-12T01:49:46Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-11T22:50:32Z",
+    "updated": "2026-09-12T01:49:46Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-11T22:50:32Z",
+    "updated": "2026-09-12T01:49:46Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187271,
-            "stars_today": 187271,
+            "stars": 187270,
+            "stars_today": 187270,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 169995,
-            "stars_today": 169995,
+            "stars": 170006,
+            "stars_today": 170006,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 104784,
-            "stars_today": 104784,
+            "stars": 104789,
+            "stars_today": 104789,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96617,
-            "stars_today": 96617,
+            "stars": 96620,
+            "stars_today": 96620,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 93691,
-            "stars_today": 93691,
+            "stars": 93701,
+            "stars_today": 93701,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 87522,
-            "stars_today": 87522,
+            "stars": 87552,
+            "stars_today": 87552,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-11T22:50:32Z",
+    "updated": "2026-09-12T01:49:46Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-11T22:50:32Z",
+    "updated": "2026-09-12T01:49:46Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-11T22:50:32Z",
+    "updated": "2026-09-12T01:49:46Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "A misalignment of AI in mathematics",
-            "insight": "HN 热议：486 分 · 551 评论",
+            "insight": "HN 热议：642 分 · 683 评论",
             "sentiment": "positive",
-            "comments": 551,
+            "comments": 683,
             "url": "https://mathandai.org/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "A Design Space Exploration of Async/Await",
-            "insight": "HN 热议：75 分 · 14 评论",
-            "sentiment": "neutral",
-            "comments": 14,
-            "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
+            "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+            "insight": "HN 热议：324 分 · 190 评论",
+            "sentiment": "positive",
+            "comments": 190,
+            "url": "https://www.rubyhack.ai/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Litelm: LiteLLM Without the Bloat",
-            "insight": "HN 热议：78 分 · 27 评论",
+            "title": "A Design Space Exploration of Async/Await",
+            "insight": "HN 热议：144 分 · 29 评论",
             "sentiment": "neutral",
-            "comments": 27,
-            "url": "https://github.com/kennethwolters/litelm",
+            "comments": 29,
+            "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "GPT-6 built this earth exploration site in 5 prompts",
-            "insight": "HN 热议：21 分 · 30 评论",
+            "title": "AI researchers debate how close we are to recursive self-improvement",
+            "insight": "HN 热议：30 分 · 10 评论",
             "sentiment": "neutral",
-            "comments": 30,
-            "url": "https://earth.ethanplus.ai/",
+            "comments": 10,
+            "url": "https://www.dwarkesh.com/p/john-beren-charlie",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Claude is only available to people over 18 years",
-            "insight": "HN 热议：535 分 · 576 评论",
-            "sentiment": "positive",
-            "comments": 576,
-            "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+            "title": "Litelm: LiteLLM Without the Bloat",
+            "insight": "HN 热议：97 分 · 36 评论",
+            "sentiment": "neutral",
+            "comments": 36,
+            "url": "https://github.com/kennethwolters/litelm",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-11T22:50:32Z",
+    "updated": "2026-09-12T01:49:46Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
