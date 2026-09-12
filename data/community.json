@@ -1,49 +1,49 @@
 {
-  "updated": "2026-09-12T17:29:06Z",
+  "updated": "2026-09-12T19:45:38Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Nvidia is the central bank of AI",
-      "insight": "HN 热议：144 分 · 123 评论",
+      "title": "LG denies TV spying claims, says tracking and snooping concerns 'not true'",
+      "insight": "HN 热议：198 分 · 205 评论",
       "sentiment": "neutral",
-      "comments": 123,
-      "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+      "comments": 205,
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "A Mathematical Framework for Transformer Circuits (2021)",
-      "insight": "HN 热议：48 分 · 4 评论",
-      "sentiment": "neutral",
-      "comments": 4,
-      "url": "https://transformer-circuits.pub/2021/framework/index.html",
+      "title": "Nvidia is the central bank of AI",
+      "insight": "HN 热议：225 分 · 168 评论",
+      "sentiment": "positive",
+      "comments": 168,
+      "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
-      "insight": "HN 热议：30 分 · 35 评论",
+      "title": "A Mathematical Framework for Transformer Circuits (2021)",
+      "insight": "HN 热议：58 分 · 12 评论",
       "sentiment": "neutral",
-      "comments": 35,
-      "url": "https://www.bbc.com/news/articles/c14dpgm0rg4o",
+      "comments": 12,
+      "url": "https://transformer-circuits.pub/2021/framework/index.html",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
-      "insight": "HN 热议：187 分 · 20 评论",
+      "insight": "HN 热议：197 分 · 26 评论",
       "sentiment": "neutral",
-      "comments": 20,
+      "comments": 26,
       "url": "https://eiln.github.io/posts/ane.html",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "A misalignment of AI in mathematics",
-      "insight": "HN 热议：1135 分 · 1064 评论",
-      "sentiment": "positive",
-      "comments": 1064,
-      "url": "https://mathandai.org/",
+      "title": "How Trail of Bits helps verify the integrity of Signal chats",
+      "insight": "HN 热议：15 分 · 5 评论",
+      "sentiment": "neutral",
+      "comments": 5,
+      "url": "https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/",
       "id": 5
     }
   ]

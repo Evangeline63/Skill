@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-12T17:29:06Z",
+    "updated": "2026-09-12T19:45:38Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-12T17:29:06Z",
+    "updated": "2026-09-12T19:45:38Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-12T17:29:06Z",
+    "updated": "2026-09-12T19:45:38Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187276,
-            "stars_today": 187276,
+            "stars": 187286,
+            "stars_today": 187286,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 170108,
-            "stars_today": 170108,
+            "stars": 170115,
+            "stars_today": 170115,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 104830,
-            "stars_today": 104830,
+            "stars": 104837,
+            "stars_today": 104837,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96632,
-            "stars_today": 96632,
+            "stars": 96633,
+            "stars_today": 96633,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 93725,
-            "stars_today": 93725,
+            "stars": 93734,
+            "stars_today": 93734,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 87645,
-            "stars_today": 87645,
+            "stars": 87661,
+            "stars_today": 87661,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-12T17:29:06Z",
+    "updated": "2026-09-12T19:45:38Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-12T17:29:06Z",
+    "updated": "2026-09-12T19:45:38Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-12T17:29:06Z",
+    "updated": "2026-09-12T19:45:38Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Nvidia is the central bank of AI",
-            "insight": "HN 热议：144 分 · 123 评论",
+            "title": "LG denies TV spying claims, says tracking and snooping concerns 'not true'",
+            "insight": "HN 热议：198 分 · 205 评论",
             "sentiment": "neutral",
-            "comments": 123,
-            "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+            "comments": 205,
+            "url": "https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "A Mathematical Framework for Transformer Circuits (2021)",
-            "insight": "HN 热议：48 分 · 4 评论",
-            "sentiment": "neutral",
-            "comments": 4,
-            "url": "https://transformer-circuits.pub/2021/framework/index.html",
+            "title": "Nvidia is the central bank of AI",
+            "insight": "HN 热议：225 分 · 168 评论",
+            "sentiment": "positive",
+            "comments": 168,
+            "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
-            "insight": "HN 热议：30 分 · 35 评论",
+            "title": "A Mathematical Framework for Transformer Circuits (2021)",
+            "insight": "HN 热议：58 分 · 12 评论",
             "sentiment": "neutral",
-            "comments": 35,
-            "url": "https://www.bbc.com/news/articles/c14dpgm0rg4o",
+            "comments": 12,
+            "url": "https://transformer-circuits.pub/2021/framework/index.html",
             "id": 3
         },
         {
             "source": "HackerNews",
             "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
-            "insight": "HN 热议：187 分 · 20 评论",
+            "insight": "HN 热议：197 分 · 26 评论",
             "sentiment": "neutral",
-            "comments": 20,
+            "comments": 26,
             "url": "https://eiln.github.io/posts/ane.html",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "A misalignment of AI in mathematics",
-            "insight": "HN 热议：1135 分 · 1064 评论",
-            "sentiment": "positive",
-            "comments": 1064,
-            "url": "https://mathandai.org/",
+            "title": "How Trail of Bits helps verify the integrity of Signal chats",
+            "insight": "HN 热议：15 分 · 5 评论",
+            "sentiment": "neutral",
+            "comments": 5,
+            "url": "https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-12T17:29:06Z",
+    "updated": "2026-09-12T19:45:38Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
