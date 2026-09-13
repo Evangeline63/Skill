@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-13T07:41:57Z",
+    "updated": "2026-09-13T13:29:51Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-13T07:41:57Z",
+    "updated": "2026-09-13T13:29:51Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,7 +266,7 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-13T07:41:57Z",
+    "updated": "2026-09-13T13:29:51Z",
     "repos": [
         {
             "rank": 1,
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 170181,
-            "stars_today": 170181,
+            "stars": 170205,
+            "stars_today": 170205,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 104857,
-            "stars_today": 104857,
+            "stars": 104869,
+            "stars_today": 104869,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 93761,
-            "stars_today": 93761,
+            "stars": 93781,
+            "stars_today": 93781,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 87708,
-            "stars_today": 87708,
+            "stars": 87737,
+            "stars_today": 87737,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-13T07:41:57Z",
+    "updated": "2026-09-13T13:29:51Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-13T07:41:57Z",
+    "updated": "2026-09-13T13:29:51Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-13T07:41:57Z",
+    "updated": "2026-09-13T13:29:51Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Why are AI agents lying, cheating and coordinating?",
-            "insight": "HN 热议：131 分 · 133 评论",
-            "sentiment": "neutral",
-            "comments": 133,
+            "insight": "HN 热议：351 分 · 413 评论",
+            "sentiment": "positive",
+            "comments": 413,
             "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
-            "insight": "HN 热议：226 分 · 129 评论",
-            "sentiment": "positive",
-            "comments": 129,
-            "url": "https://withspecific.com/benchmarks/real-swe",
+            "title": "TailTalk: A modern async user space AppleTalk stack with Rust and Tokio",
+            "insight": "HN 热议：8 分 · 0 评论",
+            "sentiment": "neutral",
+            "comments": 0,
+            "url": "https://github.com/FeralFirmware/TailTalk/",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "Nvidia is the central bank of AI",
-            "insight": "HN 热议：459 分 · 325 评论",
+            "insight": "HN 热议：513 分 · 363 评论",
             "sentiment": "positive",
-            "comments": 325,
+            "comments": 363,
             "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
             "id": 3
         },
         {
             "source": "HackerNews",
             "title": "Everyone should slow down AI development except for me",
-            "insight": "HN 热议：391 分 · 233 评论",
+            "insight": "HN 热议：598 分 · 353 评论",
             "sentiment": "positive",
-            "comments": 233,
+            "comments": 353,
             "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "AgentsDock: An IDE designed for agentic AI research",
-            "insight": "HN 热议：41 分 · 14 评论",
+            "title": "Getting 50 GB/S Back from the Apple Neural Engine",
+            "insight": "HN 热议：181 分 · 28 评论",
             "sentiment": "neutral",
-            "comments": 14,
-            "url": "https://agentsdock.net/",
+            "comments": 28,
+            "url": "https://eiln.github.io/posts/ane-dma.html",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-13T07:41:57Z",
+    "updated": "2026-09-13T13:29:51Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

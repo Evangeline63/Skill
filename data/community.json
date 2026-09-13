@@ -1,49 +1,49 @@
 {
-  "updated": "2026-09-13T07:41:57Z",
+  "updated": "2026-09-13T13:29:51Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Why are AI agents lying, cheating and coordinating?",
-      "insight": "HN 热议：131 分 · 133 评论",
-      "sentiment": "neutral",
-      "comments": 133,
+      "insight": "HN 热议：351 分 · 413 评论",
+      "sentiment": "positive",
+      "comments": 413,
       "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
-      "insight": "HN 热议：226 分 · 129 评论",
-      "sentiment": "positive",
-      "comments": 129,
-      "url": "https://withspecific.com/benchmarks/real-swe",
+      "title": "TailTalk: A modern async user space AppleTalk stack with Rust and Tokio",
+      "insight": "HN 热议：8 分 · 0 评论",
+      "sentiment": "neutral",
+      "comments": 0,
+      "url": "https://github.com/FeralFirmware/TailTalk/",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "Nvidia is the central bank of AI",
-      "insight": "HN 热议：459 分 · 325 评论",
+      "insight": "HN 热议：513 分 · 363 评论",
       "sentiment": "positive",
-      "comments": 325,
+      "comments": 363,
       "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "Everyone should slow down AI development except for me",
-      "insight": "HN 热议：391 分 · 233 评论",
+      "insight": "HN 热议：598 分 · 353 评论",
       "sentiment": "positive",
-      "comments": 233,
+      "comments": 353,
       "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "AgentsDock: An IDE designed for agentic AI research",
-      "insight": "HN 热议：41 分 · 14 评论",
+      "title": "Getting 50 GB/S Back from the Apple Neural Engine",
+      "insight": "HN 热议：181 分 · 28 评论",
       "sentiment": "neutral",
-      "comments": 14,
-      "url": "https://agentsdock.net/",
+      "comments": 28,
+      "url": "https://eiln.github.io/posts/ane-dma.html",
       "id": 5
     }
   ]
