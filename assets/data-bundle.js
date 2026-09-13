@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-13T17:45:41Z",
+    "updated": "2026-09-13T19:56:20Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-13T17:45:41Z",
+    "updated": "2026-09-13T19:56:20Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-13T17:45:41Z",
+    "updated": "2026-09-13T19:56:20Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187299,
-            "stars_today": 187299,
+            "stars": 187307,
+            "stars_today": 187307,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 170227,
-            "stars_today": 170227,
+            "stars": 170239,
+            "stars_today": 170239,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 104885,
-            "stars_today": 104885,
+            "stars": 104889,
+            "stars_today": 104889,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 93794,
-            "stars_today": 93794,
+            "stars": 93800,
+            "stars_today": 93800,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 87757,
-            "stars_today": 87757,
+            "stars": 87766,
+            "stars_today": 87766,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-13T17:45:41Z",
+    "updated": "2026-09-13T19:56:20Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-13T17:45:41Z",
+    "updated": "2026-09-13T19:56:20Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-13T17:45:41Z",
+    "updated": "2026-09-13T19:56:20Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
-            "insight": "HN 热议：125 分 · 49 评论",
+            "title": "Sean Carroll explains the biggest ideas in the universe – Full Interview [video]",
+            "insight": "HN 热议：37 分 · 6 评论",
             "sentiment": "neutral",
-            "comments": 49,
-            "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+            "comments": 6,
+            "url": "https://www.youtube.com/watch?v=_TBNJyztai0",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
-            "insight": "HN 热议：47 分 · 16 评论",
+            "title": "Reverse-Engineering Claude Web's MicroVM: Uncovering Anthropic's Hidden Antspace",
+            "insight": "HN 热议：16 分 · 1 评论",
             "sentiment": "neutral",
-            "comments": 16,
-            "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
+            "comments": 1,
+            "url": "https://aprilnea.me/en/blog/reverse-engineering-claude-code-antspace",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Why are AI agents lying, cheating and coordinating?",
-            "insight": "HN 热议：488 分 · 568 评论",
+            "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+            "insight": "HN 热议：225 分 · 110 评论",
             "sentiment": "positive",
-            "comments": 568,
-            "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+            "comments": 110,
+            "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "TailTalk: A modern async user space AppleTalk stack with Rust and Tokio",
-            "insight": "HN 热议：51 分 · 13 评论",
-            "sentiment": "neutral",
-            "comments": 13,
-            "url": "https://github.com/FeralFirmware/TailTalk/",
+            "title": "Why are AI agents lying, cheating and coordinating?",
+            "insight": "HN 热议：527 分 · 612 评论",
+            "sentiment": "positive",
+            "comments": 612,
+            "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Google illegally retains customer data,and I am taking legal action against them",
-            "insight": "HN 热议：8 分 · 1 评论",
+            "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
+            "insight": "HN 热议：143 分 · 103 评论",
             "sentiment": "neutral",
-            "comments": 1,
-            "url": "https://medium.com/@istokovicsgyorgy79/google-illegally-retains-customer-data-and-i-am-taking-legal-action-against-them-7da0cf95941c",
+            "comments": 103,
+            "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-13T17:45:41Z",
+    "updated": "2026-09-13T19:56:20Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

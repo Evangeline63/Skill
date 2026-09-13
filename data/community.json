@@ -1,49 +1,49 @@
 {
-  "updated": "2026-09-13T17:45:41Z",
+  "updated": "2026-09-13T19:56:20Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
-      "insight": "HN 热议：125 分 · 49 评论",
+      "title": "Sean Carroll explains the biggest ideas in the universe – Full Interview [video]",
+      "insight": "HN 热议：37 分 · 6 评论",
       "sentiment": "neutral",
-      "comments": 49,
-      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+      "comments": 6,
+      "url": "https://www.youtube.com/watch?v=_TBNJyztai0",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
-      "insight": "HN 热议：47 分 · 16 评论",
+      "title": "Reverse-Engineering Claude Web's MicroVM: Uncovering Anthropic's Hidden Antspace",
+      "insight": "HN 热议：16 分 · 1 评论",
       "sentiment": "neutral",
-      "comments": 16,
-      "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
+      "comments": 1,
+      "url": "https://aprilnea.me/en/blog/reverse-engineering-claude-code-antspace",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Why are AI agents lying, cheating and coordinating?",
-      "insight": "HN 热议：488 分 · 568 评论",
+      "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+      "insight": "HN 热议：225 分 · 110 评论",
       "sentiment": "positive",
-      "comments": 568,
-      "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+      "comments": 110,
+      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "TailTalk: A modern async user space AppleTalk stack with Rust and Tokio",
-      "insight": "HN 热议：51 分 · 13 评论",
-      "sentiment": "neutral",
-      "comments": 13,
-      "url": "https://github.com/FeralFirmware/TailTalk/",
+      "title": "Why are AI agents lying, cheating and coordinating?",
+      "insight": "HN 热议：527 分 · 612 评论",
+      "sentiment": "positive",
+      "comments": 612,
+      "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Google illegally retains customer data,and I am taking legal action against them",
-      "insight": "HN 热议：8 分 · 1 评论",
+      "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
+      "insight": "HN 热议：143 分 · 103 评论",
       "sentiment": "neutral",
-      "comments": 1,
-      "url": "https://medium.com/@istokovicsgyorgy79/google-illegally-retains-customer-data-and-i-am-taking-legal-action-against-them-7da0cf95941c",
+      "comments": 103,
+      "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
       "id": 5
     }
   ]
