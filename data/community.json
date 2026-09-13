@@ -1,49 +1,49 @@
 {
-  "updated": "2026-09-12T22:40:45Z",
+  "updated": "2026-09-13T01:41:06Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Nvidia is the central bank of AI",
-      "insight": "HN 热议：326 分 · 224 评论",
-      "sentiment": "positive",
-      "comments": 224,
-      "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+      "title": "Everyone should slow down AI development except for me",
+      "insight": "HN 热议：31 分 · 1 评论",
+      "sentiment": "neutral",
+      "comments": 1,
+      "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
-      "insight": "HN 热议：46 分 · 34 评论",
+      "insight": "HN 热议：114 分 · 61 评论",
       "sentiment": "neutral",
-      "comments": 34,
+      "comments": 61,
       "url": "https://withspecific.com/benchmarks/real-swe",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Benchmark: CadQuery vs. OpenSCAD for agentic CAD work",
-      "insight": "HN 热议：23 分 · 33 评论",
-      "sentiment": "neutral",
-      "comments": 33,
-      "url": "https://modelrift.com/blog/cadquery-vs-openscad/",
+      "title": "Nvidia is the central bank of AI",
+      "insight": "HN 热议：395 分 · 267 评论",
+      "sentiment": "positive",
+      "comments": 267,
+      "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "LG denies TV spying claims, says tracking and snooping concerns 'not true'",
-      "insight": "HN 热议：347 分 · 309 评论",
-      "sentiment": "positive",
-      "comments": 309,
-      "url": "https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio",
+      "title": "Getting 50 GB/S Back from the Apple Neural Engine",
+      "insight": "HN 热议：73 分 · 12 评论",
+      "sentiment": "neutral",
+      "comments": 12,
+      "url": "https://eiln.github.io/posts/ane-dma.html",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Getting 50 GB/S Back from the Apple Neural Engine",
-      "insight": "HN 热议：6 分 · 1 评论",
-      "sentiment": "neutral",
-      "comments": 1,
-      "url": "https://eiln.github.io/posts/ane-dma.html",
+      "title": "LG denies TV spying claims, says tracking and snooping concerns 'not true'",
+      "insight": "HN 热议：440 分 · 359 评论",
+      "sentiment": "positive",
+      "comments": 359,
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio",
       "id": 5
     }
   ]

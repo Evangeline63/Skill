@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-12T22:40:45Z",
+    "updated": "2026-09-13T01:41:06Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-12T22:40:45Z",
+    "updated": "2026-09-13T01:41:06Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-12T22:40:45Z",
+    "updated": "2026-09-13T01:41:06Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187287,
-            "stars_today": 187287,
+            "stars": 187289,
+            "stars_today": 187289,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 170136,
-            "stars_today": 170136,
+            "stars": 170153,
+            "stars_today": 170153,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 104844,
-            "stars_today": 104844,
+            "stars": 104849,
+            "stars_today": 104849,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96633,
-            "stars_today": 96633,
+            "stars": 96634,
+            "stars_today": 96634,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 93742,
-            "stars_today": 93742,
+            "stars": 93751,
+            "stars_today": 93751,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 87679,
-            "stars_today": 87679,
+            "stars": 87690,
+            "stars_today": 87690,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-12T22:40:45Z",
+    "updated": "2026-09-13T01:41:06Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-12T22:40:45Z",
+    "updated": "2026-09-13T01:41:06Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-12T22:40:45Z",
+    "updated": "2026-09-13T01:41:06Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Nvidia is the central bank of AI",
-            "insight": "HN 热议：326 分 · 224 评论",
-            "sentiment": "positive",
-            "comments": 224,
-            "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+            "title": "Everyone should slow down AI development except for me",
+            "insight": "HN 热议：31 分 · 1 评论",
+            "sentiment": "neutral",
+            "comments": 1,
+            "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
-            "insight": "HN 热议：46 分 · 34 评论",
+            "insight": "HN 热议：114 分 · 61 评论",
             "sentiment": "neutral",
-            "comments": 34,
+            "comments": 61,
             "url": "https://withspecific.com/benchmarks/real-swe",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Benchmark: CadQuery vs. OpenSCAD for agentic CAD work",
-            "insight": "HN 热议：23 分 · 33 评论",
-            "sentiment": "neutral",
-            "comments": 33,
-            "url": "https://modelrift.com/blog/cadquery-vs-openscad/",
+            "title": "Nvidia is the central bank of AI",
+            "insight": "HN 热议：395 分 · 267 评论",
+            "sentiment": "positive",
+            "comments": 267,
+            "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "LG denies TV spying claims, says tracking and snooping concerns 'not true'",
-            "insight": "HN 热议：347 分 · 309 评论",
-            "sentiment": "positive",
-            "comments": 309,
-            "url": "https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio",
+            "title": "Getting 50 GB/S Back from the Apple Neural Engine",
+            "insight": "HN 热议：73 分 · 12 评论",
+            "sentiment": "neutral",
+            "comments": 12,
+            "url": "https://eiln.github.io/posts/ane-dma.html",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Getting 50 GB/S Back from the Apple Neural Engine",
-            "insight": "HN 热议：6 分 · 1 评论",
-            "sentiment": "neutral",
-            "comments": 1,
-            "url": "https://eiln.github.io/posts/ane-dma.html",
+            "title": "LG denies TV spying claims, says tracking and snooping concerns 'not true'",
+            "insight": "HN 热议：440 分 · 359 评论",
+            "sentiment": "positive",
+            "comments": 359,
+            "url": "https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-12T22:40:45Z",
+    "updated": "2026-09-13T01:41:06Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
