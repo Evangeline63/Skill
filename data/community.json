@@ -1,49 +1,49 @@
 {
-  "updated": "2026-09-14T01:59:01Z",
+  "updated": "2026-09-14T08:10:18Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "The case against JPEG XL",
-      "insight": "HN 热议：35 分 · 25 评论",
+      "insight": "HN 热议：130 分 · 179 评论",
       "sentiment": "neutral",
-      "comments": 25,
+      "comments": 179,
       "url": "https://giannirosato.com/blog/post/case-against-jxl/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Open-Source AI and Open Models Reading List",
-      "insight": "HN 热议：19 分 · 1 评论",
+      "title": "The Malicious Use of Artificial Intelligence",
+      "insight": "HN 热议：60 分 · 12 评论",
       "sentiment": "neutral",
-      "comments": 1,
-      "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+      "comments": 12,
+      "url": "https://arxiv.org/abs/1802.07228",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "I build a mechanical watch face: a real gear train for a watch with no gears",
-      "insight": "HN 热议：15 分 · 4 评论",
+      "title": "Who gets to define the rules for AI?",
+      "insight": "HN 热议：31 分 · 23 评论",
       "sentiment": "neutral",
-      "comments": 4,
-      "url": "https://myday24.com/blog/how-a-mechanical-watch-face-is-built/",
+      "comments": 23,
+      "url": "https://cohere.com/blog/who-gets-to-define-the-rules-for-ai",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Reverse-Engineering Claude Web's MicroVM: Uncovering Anthropic's Hidden Antspace",
-      "insight": "HN 热议：58 分 · 13 评论",
+      "title": "Open-source AI and open models reading list",
+      "insight": "HN 热议：100 分 · 13 评论",
       "sentiment": "neutral",
       "comments": 13,
-      "url": "https://aprilnea.me/en/blog/reverse-engineering-claude-code-antspace",
+      "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Sean Carroll explains the biggest ideas in the universe – Full Interview [video] (2025)",
-      "insight": "HN 热议：77 分 · 19 评论",
+      "title": "Reverse-Engineering Claude Web's MicroVM: Uncovering Anthropic's Hidden Antspace",
+      "insight": "HN 热议：83 分 · 20 评论",
       "sentiment": "neutral",
-      "comments": 19,
-      "url": "https://www.youtube.com/watch?v=_TBNJyztai0",
+      "comments": 20,
+      "url": "https://aprilnea.me/en/blog/reverse-engineering-claude-code-antspace",
       "id": 5
     }
   ]

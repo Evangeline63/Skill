@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-14T01:59:01Z",
+    "updated": "2026-09-14T08:10:18Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-14T01:59:01Z",
+    "updated": "2026-09-14T08:10:18Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-14T01:59:01Z",
+    "updated": "2026-09-14T08:10:18Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187313,
-            "stars_today": 187313,
+            "stars": 187315,
+            "stars_today": 187315,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 170262,
-            "stars_today": 170262,
+            "stars": 170284,
+            "stars_today": 170284,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 104902,
-            "stars_today": 104902,
+            "stars": 104921,
+            "stars_today": 104921,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96632,
-            "stars_today": 96632,
+            "stars": 96637,
+            "stars_today": 96637,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 93809,
-            "stars_today": 93809,
+            "stars": 93816,
+            "stars_today": 93816,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 87790,
-            "stars_today": 87790,
+            "stars": 87831,
+            "stars_today": 87831,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-14T01:59:01Z",
+    "updated": "2026-09-14T08:10:18Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-14T01:59:01Z",
+    "updated": "2026-09-14T08:10:18Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-14T01:59:01Z",
+    "updated": "2026-09-14T08:10:18Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "The case against JPEG XL",
-            "insight": "HN 热议：35 分 · 25 评论",
+            "insight": "HN 热议：130 分 · 179 评论",
             "sentiment": "neutral",
-            "comments": 25,
+            "comments": 179,
             "url": "https://giannirosato.com/blog/post/case-against-jxl/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Open-Source AI and Open Models Reading List",
-            "insight": "HN 热议：19 分 · 1 评论",
+            "title": "The Malicious Use of Artificial Intelligence",
+            "insight": "HN 热议：60 分 · 12 评论",
             "sentiment": "neutral",
-            "comments": 1,
-            "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+            "comments": 12,
+            "url": "https://arxiv.org/abs/1802.07228",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "I build a mechanical watch face: a real gear train for a watch with no gears",
-            "insight": "HN 热议：15 分 · 4 评论",
+            "title": "Who gets to define the rules for AI?",
+            "insight": "HN 热议：31 分 · 23 评论",
             "sentiment": "neutral",
-            "comments": 4,
-            "url": "https://myday24.com/blog/how-a-mechanical-watch-face-is-built/",
+            "comments": 23,
+            "url": "https://cohere.com/blog/who-gets-to-define-the-rules-for-ai",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Reverse-Engineering Claude Web's MicroVM: Uncovering Anthropic's Hidden Antspace",
-            "insight": "HN 热议：58 分 · 13 评论",
+            "title": "Open-source AI and open models reading list",
+            "insight": "HN 热议：100 分 · 13 评论",
             "sentiment": "neutral",
             "comments": 13,
-            "url": "https://aprilnea.me/en/blog/reverse-engineering-claude-code-antspace",
+            "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Sean Carroll explains the biggest ideas in the universe – Full Interview [video] (2025)",
-            "insight": "HN 热议：77 分 · 19 评论",
+            "title": "Reverse-Engineering Claude Web's MicroVM: Uncovering Anthropic's Hidden Antspace",
+            "insight": "HN 热议：83 分 · 20 评论",
             "sentiment": "neutral",
-            "comments": 19,
-            "url": "https://www.youtube.com/watch?v=_TBNJyztai0",
+            "comments": 20,
+            "url": "https://aprilnea.me/en/blog/reverse-engineering-claude-code-antspace",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-14T01:59:01Z",
+    "updated": "2026-09-14T08:10:18Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
