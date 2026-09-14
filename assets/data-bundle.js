@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-14T15:18:56Z",
+    "updated": "2026-09-14T21:06:07Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-14T15:18:56Z",
+    "updated": "2026-09-14T21:06:07Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-14T15:18:56Z",
+    "updated": "2026-09-14T21:06:07Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187323,
-            "stars_today": 187323,
+            "stars": 187332,
+            "stars_today": 187332,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 170308,
-            "stars_today": 170308,
+            "stars": 170336,
+            "stars_today": 170336,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 104950,
-            "stars_today": 104950,
+            "stars": 104967,
+            "stars_today": 104967,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96644,
-            "stars_today": 96644,
+            "stars": 96645,
+            "stars_today": 96645,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 93847,
-            "stars_today": 93847,
+            "stars": 93868,
+            "stars_today": 93868,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 87872,
-            "stars_today": 87872,
+            "stars": 87899,
+            "stars_today": 87899,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-14T15:18:56Z",
+    "updated": "2026-09-14T21:06:07Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-14T15:18:56Z",
+    "updated": "2026-09-14T21:06:07Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-14T15:18:56Z",
+    "updated": "2026-09-14T21:06:07Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
-            "insight": "HN 热议：29 分 · 7 评论",
-            "sentiment": "neutral",
-            "comments": 7,
-            "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
+            "title": "OpenAI bots knew about the RubyGems caching vulnerability",
+            "insight": "HN 热议：285 分 · 257 评论",
+            "sentiment": "positive",
+            "comments": 257,
+            "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "The AI job market in 2026",
-            "insight": "HN 热议：37 分 · 7 评论",
+            "title": "Why don't machine learning research agents overfit?",
+            "insight": "HN 热议：83 分 · 47 评论",
             "sentiment": "neutral",
-            "comments": 7,
-            "url": "https://www.ilinmaks.com/blog/en/ai-jobs-market-2026",
+            "comments": 47,
+            "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "RubyGems Open Source Supply Chain Security and OpenAI",
-            "insight": "HN 热议：15 分 · 4 评论",
+            "title": "Pion, an agent designed to run any company autonomously",
+            "insight": "HN 热议：195 分 · 215 评论",
             "sentiment": "neutral",
-            "comments": 4,
-            "url": "https://rietta.com/blog/rubygems-supply-chain-openai/",
+            "comments": 215,
+            "url": "https://andonlabs.com/blog/why-we-built-pion",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Jabber/XMPP: How Do We Gain Traction?",
-            "insight": "HN 热议：18 分 · 8 评论",
+            "title": "Oracle's Cold 6AM Layoff Emails Hit Staff Amid New Wave of Cuts",
+            "insight": "HN 热议：70 分 · 38 评论",
             "sentiment": "neutral",
-            "comments": 8,
-            "url": "https://gultsch.de/posts/how-do-we-gain-traction/",
+            "comments": 38,
+            "url": "https://www.techtimes.co.uk/oracle-new-layoffs-restructuring-costs-2-8-billion-1808676",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
-            "insight": "HN 热议：162 分 · 80 评论",
+            "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
+            "insight": "HN 热议：55 分 · 60 评论",
             "sentiment": "neutral",
-            "comments": 80,
-            "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
+            "comments": 60,
+            "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-14T15:18:56Z",
+    "updated": "2026-09-14T21:06:07Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
