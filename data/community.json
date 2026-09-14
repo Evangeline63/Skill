@@ -1,49 +1,49 @@
 {
-  "updated": "2026-09-13T22:41:51Z",
+  "updated": "2026-09-14T01:59:01Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Sean Carroll explains the biggest ideas in the universe – Full Interview [video]",
-      "insight": "HN 热议：64 分 · 13 评论",
+      "title": "The case against JPEG XL",
+      "insight": "HN 热议：35 分 · 25 评论",
       "sentiment": "neutral",
-      "comments": 13,
-      "url": "https://www.youtube.com/watch?v=_TBNJyztai0",
+      "comments": 25,
+      "url": "https://giannirosato.com/blog/post/case-against-jxl/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Why are AI agents lying, cheating and coordinating?",
-      "insight": "HN 热议：565 分 · 638 评论",
-      "sentiment": "positive",
-      "comments": 638,
-      "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+      "title": "Open-Source AI and Open Models Reading List",
+      "insight": "HN 热议：19 分 · 1 评论",
+      "sentiment": "neutral",
+      "comments": 1,
+      "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Reverse-Engineering Claude Web's MicroVM: Uncovering Anthropic's Hidden Antspace",
-      "insight": "HN 热议：39 分 · 9 评论",
+      "title": "I build a mechanical watch face: a real gear train for a watch with no gears",
+      "insight": "HN 热议：15 分 · 4 评论",
       "sentiment": "neutral",
-      "comments": 9,
-      "url": "https://aprilnea.me/en/blog/reverse-engineering-claude-code-antspace",
+      "comments": 4,
+      "url": "https://myday24.com/blog/how-a-mechanical-watch-face-is-built/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
-      "insight": "HN 热议：292 分 · 153 评论",
-      "sentiment": "positive",
-      "comments": 153,
-      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+      "title": "Reverse-Engineering Claude Web's MicroVM: Uncovering Anthropic's Hidden Antspace",
+      "insight": "HN 热议：58 分 · 13 评论",
+      "sentiment": "neutral",
+      "comments": 13,
+      "url": "https://aprilnea.me/en/blog/reverse-engineering-claude-code-antspace",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "TailTalk: A modern async user space AppleTalk stack with Rust and Tokio",
-      "insight": "HN 热议：61 分 · 13 评论",
+      "title": "Sean Carroll explains the biggest ideas in the universe – Full Interview [video] (2025)",
+      "insight": "HN 热议：77 分 · 19 评论",
       "sentiment": "neutral",
-      "comments": 13,
-      "url": "https://github.com/FeralFirmware/TailTalk/",
+      "comments": 19,
+      "url": "https://www.youtube.com/watch?v=_TBNJyztai0",
       "id": 5
     }
   ]

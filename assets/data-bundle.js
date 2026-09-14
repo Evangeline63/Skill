@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-13T22:41:51Z",
+    "updated": "2026-09-14T01:59:01Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-13T22:41:51Z",
+    "updated": "2026-09-14T01:59:01Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-13T22:41:51Z",
+    "updated": "2026-09-14T01:59:01Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187311,
-            "stars_today": 187311,
+            "stars": 187313,
+            "stars_today": 187313,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 170251,
-            "stars_today": 170251,
+            "stars": 170262,
+            "stars_today": 170262,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 104896,
-            "stars_today": 104896,
+            "stars": 104902,
+            "stars_today": 104902,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96634,
-            "stars_today": 96634,
+            "stars": 96632,
+            "stars_today": 96632,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 93808,
-            "stars_today": 93808,
+            "stars": 93809,
+            "stars_today": 93809,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 87774,
-            "stars_today": 87774,
+            "stars": 87790,
+            "stars_today": 87790,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-13T22:41:51Z",
+    "updated": "2026-09-14T01:59:01Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-13T22:41:51Z",
+    "updated": "2026-09-14T01:59:01Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-13T22:41:51Z",
+    "updated": "2026-09-14T01:59:01Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Sean Carroll explains the biggest ideas in the universe – Full Interview [video]",
-            "insight": "HN 热议：64 分 · 13 评论",
+            "title": "The case against JPEG XL",
+            "insight": "HN 热议：35 分 · 25 评论",
             "sentiment": "neutral",
-            "comments": 13,
-            "url": "https://www.youtube.com/watch?v=_TBNJyztai0",
+            "comments": 25,
+            "url": "https://giannirosato.com/blog/post/case-against-jxl/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Why are AI agents lying, cheating and coordinating?",
-            "insight": "HN 热议：565 分 · 638 评论",
-            "sentiment": "positive",
-            "comments": 638,
-            "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+            "title": "Open-Source AI and Open Models Reading List",
+            "insight": "HN 热议：19 分 · 1 评论",
+            "sentiment": "neutral",
+            "comments": 1,
+            "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Reverse-Engineering Claude Web's MicroVM: Uncovering Anthropic's Hidden Antspace",
-            "insight": "HN 热议：39 分 · 9 评论",
+            "title": "I build a mechanical watch face: a real gear train for a watch with no gears",
+            "insight": "HN 热议：15 分 · 4 评论",
             "sentiment": "neutral",
-            "comments": 9,
-            "url": "https://aprilnea.me/en/blog/reverse-engineering-claude-code-antspace",
+            "comments": 4,
+            "url": "https://myday24.com/blog/how-a-mechanical-watch-face-is-built/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
-            "insight": "HN 热议：292 分 · 153 评论",
-            "sentiment": "positive",
-            "comments": 153,
-            "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+            "title": "Reverse-Engineering Claude Web's MicroVM: Uncovering Anthropic's Hidden Antspace",
+            "insight": "HN 热议：58 分 · 13 评论",
+            "sentiment": "neutral",
+            "comments": 13,
+            "url": "https://aprilnea.me/en/blog/reverse-engineering-claude-code-antspace",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "TailTalk: A modern async user space AppleTalk stack with Rust and Tokio",
-            "insight": "HN 热议：61 分 · 13 评论",
+            "title": "Sean Carroll explains the biggest ideas in the universe – Full Interview [video] (2025)",
+            "insight": "HN 热议：77 分 · 19 评论",
             "sentiment": "neutral",
-            "comments": 13,
-            "url": "https://github.com/FeralFirmware/TailTalk/",
+            "comments": 19,
+            "url": "https://www.youtube.com/watch?v=_TBNJyztai0",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-13T22:41:51Z",
+    "updated": "2026-09-14T01:59:01Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
