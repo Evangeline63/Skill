@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-14T21:06:07Z",
+    "updated": "2026-09-15T02:07:21Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-14T21:06:07Z",
+    "updated": "2026-09-15T02:07:21Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-14T21:06:07Z",
+    "updated": "2026-09-15T02:07:21Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187332,
-            "stars_today": 187332,
+            "stars": 187344,
+            "stars_today": 187344,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 170336,
-            "stars_today": 170336,
+            "stars": 170350,
+            "stars_today": 170350,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 104967,
-            "stars_today": 104967,
+            "stars": 104981,
+            "stars_today": 104981,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 93868,
-            "stars_today": 93868,
+            "stars": 93892,
+            "stars_today": 93892,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 87899,
-            "stars_today": 87899,
+            "stars": 87925,
+            "stars_today": 87925,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-14T21:06:07Z",
+    "updated": "2026-09-15T02:07:21Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-14T21:06:07Z",
+    "updated": "2026-09-15T02:07:21Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-14T21:06:07Z",
+    "updated": "2026-09-15T02:07:21Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "OpenAI bots knew about the RubyGems caching vulnerability",
-            "insight": "HN 热议：285 分 · 257 评论",
+            "title": "Pion, an agent designed to run any company autonomously",
+            "insight": "HN 热议：293 分 · 321 评论",
             "sentiment": "positive",
-            "comments": 257,
-            "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
+            "comments": 321,
+            "url": "https://andonlabs.com/blog/why-we-built-pion",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Why don't machine learning research agents overfit?",
-            "insight": "HN 热议：83 分 · 47 评论",
-            "sentiment": "neutral",
-            "comments": 47,
-            "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
+            "title": "OpenAI bots knew about the RubyGems caching vulnerability",
+            "insight": "HN 热议：379 分 · 324 评论",
+            "sentiment": "positive",
+            "comments": 324,
+            "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Pion, an agent designed to run any company autonomously",
-            "insight": "HN 热议：195 分 · 215 评论",
+            "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
+            "insight": "HN 热议：32 分 · 9 评论",
             "sentiment": "neutral",
-            "comments": 215,
-            "url": "https://andonlabs.com/blog/why-we-built-pion",
+            "comments": 9,
+            "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Oracle's Cold 6AM Layoff Emails Hit Staff Amid New Wave of Cuts",
-            "insight": "HN 热议：70 分 · 38 评论",
+            "title": "Why don't machine learning research agents overfit?",
+            "insight": "HN 热议：107 分 · 59 评论",
             "sentiment": "neutral",
-            "comments": 38,
-            "url": "https://www.techtimes.co.uk/oracle-new-layoffs-restructuring-costs-2-8-billion-1808676",
+            "comments": 59,
+            "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
-            "insight": "HN 热议：55 分 · 60 评论",
+            "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
+            "insight": "HN 热议：115 分 · 66 评论",
             "sentiment": "neutral",
-            "comments": 60,
-            "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
+            "comments": 66,
+            "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-14T21:06:07Z",
+    "updated": "2026-09-15T02:07:21Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
