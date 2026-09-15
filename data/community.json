@@ -1,49 +1,49 @@
 {
-  "updated": "2026-09-15T13:55:02Z",
+  "updated": "2026-09-15T18:32:50Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Suspected sabotage causes major Netherlands rail disruption",
-      "insight": "HN 热议：261 分 · 255 评论",
-      "sentiment": "positive",
-      "comments": 255,
-      "url": "https://www.bbc.com/news/articles/c8ly49w9g1edo",
+      "title": "Cartesian – AI 3D Modeling for Design",
+      "insight": "HN 热议：55 分 · 48 评论",
+      "sentiment": "neutral",
+      "comments": 48,
+      "url": "https://www.formas.ai/cartesian",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300M",
-      "insight": "HN 热议：49 分 · 22 评论",
+      "title": "Let's make quality the norm again",
+      "insight": "HN 热议：184 分 · 164 评论",
       "sentiment": "neutral",
-      "comments": 22,
-      "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+      "comments": 164,
+      "url": "https://www.forbrukerradet.no/short-life/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Pion, an agent designed to run any company autonomously",
-      "insight": "HN 热议：444 分 · 542 评论",
-      "sentiment": "positive",
-      "comments": 542,
-      "url": "https://andonlabs.com/blog/why-we-built-pion",
+      "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "insight": "HN 热议：8 分 · 1 评论",
+      "sentiment": "neutral",
+      "comments": 1,
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "OpenAI bots knew about the RubyGems caching vulnerability",
-      "insight": "HN 热议：491 分 · 396 评论",
-      "sentiment": "positive",
-      "comments": 396,
-      "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
+      "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
+      "insight": "HN 热议：193 分 · 66 评论",
+      "sentiment": "neutral",
+      "comments": 66,
+      "url": "https://www.effort.news/irregular",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
-      "insight": "HN 热议：142 分 · 29 评论",
+      "title": "Show HN: Panel – A research workspace where the agent can build its own panes",
+      "insight": "HN 热议：39 分 · 7 评论",
       "sentiment": "neutral",
-      "comments": 29,
-      "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
+      "comments": 7,
+      "url": "https://github.com/greentfrapp/panel",
       "id": 5
     }
   ]
