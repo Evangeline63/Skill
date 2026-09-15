@@ -1,49 +1,49 @@
 {
-  "updated": "2026-09-15T02:07:21Z",
+  "updated": "2026-09-15T08:04:46Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Pion, an agent designed to run any company autonomously",
-      "insight": "HN 热议：293 分 · 321 评论",
+      "insight": "HN 热议：386 分 · 464 评论",
       "sentiment": "positive",
-      "comments": 321,
+      "comments": 464,
       "url": "https://andonlabs.com/blog/why-we-built-pion",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "OpenAI bots knew about the RubyGems caching vulnerability",
-      "insight": "HN 热议：379 分 · 324 评论",
-      "sentiment": "positive",
-      "comments": 324,
-      "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
+      "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
+      "insight": "HN 热议：98 分 · 25 评论",
+      "sentiment": "neutral",
+      "comments": 25,
+      "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
-      "insight": "HN 热议：32 分 · 9 评论",
-      "sentiment": "neutral",
-      "comments": 9,
-      "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
+      "title": "OpenAI bots knew about the RubyGems caching vulnerability",
+      "insight": "HN 热议：439 分 · 347 评论",
+      "sentiment": "positive",
+      "comments": 347,
+      "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "Why don't machine learning research agents overfit?",
-      "insight": "HN 热议：107 分 · 59 评论",
+      "insight": "HN 热议：125 分 · 68 评论",
       "sentiment": "neutral",
-      "comments": 59,
+      "comments": 68,
       "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
-      "insight": "HN 热议：115 分 · 66 评论",
+      "title": "Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent",
+      "insight": "HN 热议：156 分 · 87 评论",
       "sentiment": "neutral",
-      "comments": 66,
-      "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
+      "comments": 87,
+      "url": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325",
       "id": 5
     }
   ]
