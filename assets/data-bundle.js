@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-15T18:32:50Z",
+    "updated": "2026-09-15T23:14:46Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-15T18:32:50Z",
+    "updated": "2026-09-15T23:14:46Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-15T18:32:50Z",
+    "updated": "2026-09-15T23:14:46Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187365,
-            "stars_today": 187365,
+            "stars": 187369,
+            "stars_today": 187369,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 170418,
-            "stars_today": 170418,
+            "stars": 170429,
+            "stars_today": 170429,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 105019,
-            "stars_today": 105019,
+            "stars": 105029,
+            "stars_today": 105029,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96661,
-            "stars_today": 96661,
+            "stars": 96662,
+            "stars_today": 96662,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 93961,
-            "stars_today": 93961,
+            "stars": 93973,
+            "stars_today": 93973,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 88015,
-            "stars_today": 88015,
+            "stars": 88037,
+            "stars_today": 88037,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-15T18:32:50Z",
+    "updated": "2026-09-15T23:14:46Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-15T18:32:50Z",
+    "updated": "2026-09-15T23:14:46Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-15T18:32:50Z",
+    "updated": "2026-09-15T23:14:46Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Cartesian – AI 3D Modeling for Design",
-            "insight": "HN 热议：55 分 · 48 评论",
-            "sentiment": "neutral",
-            "comments": 48,
-            "url": "https://www.formas.ai/cartesian",
+            "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
+            "insight": "HN 热议：240 分 · 167 评论",
+            "sentiment": "positive",
+            "comments": 167,
+            "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Let's make quality the norm again",
-            "insight": "HN 热议：184 分 · 164 评论",
+            "title": "Why I'm still bearish on LLMs after Navier-Stokes",
+            "insight": "HN 热议：47 分 · 11 评论",
             "sentiment": "neutral",
-            "comments": 164,
-            "url": "https://www.forbrukerradet.no/short-life/",
+            "comments": 11,
+            "url": "https://dank.systems/posts/2026-09-15-ai-bear.html",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
-            "insight": "HN 热议：8 分 · 1 评论",
+            "title": "Learning to solve hard problems in RL for LLMs by never giving up",
+            "insight": "HN 热议：14 分 · 0 评论",
             "sentiment": "neutral",
-            "comments": 1,
-            "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+            "comments": 0,
+            "url": "https://mnoukhov.github.io/posts/ngu/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
-            "insight": "HN 热议：193 分 · 66 评论",
-            "sentiment": "neutral",
-            "comments": 66,
-            "url": "https://www.effort.news/irregular",
+            "title": "Let's make quality the norm again",
+            "insight": "HN 热议：273 分 · 283 评论",
+            "sentiment": "positive",
+            "comments": 283,
+            "url": "https://www.forbrukerradet.no/short-life/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Panel – A research workspace where the agent can build its own panes",
-            "insight": "HN 热议：39 分 · 7 评论",
-            "sentiment": "neutral",
-            "comments": 7,
-            "url": "https://github.com/greentfrapp/panel",
+            "title": "Suspected sabotage causes major Netherlands rail disruption",
+            "insight": "HN 热议：410 分 · 379 评论",
+            "sentiment": "positive",
+            "comments": 379,
+            "url": "https://www.bbc.com/news/articles/c8ly49w9g1edo",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-15T18:32:50Z",
+    "updated": "2026-09-15T23:14:46Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
