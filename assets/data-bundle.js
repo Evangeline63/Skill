@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-15T08:04:46Z",
+    "updated": "2026-09-15T13:55:02Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-15T08:04:46Z",
+    "updated": "2026-09-15T13:55:02Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-15T08:04:46Z",
+    "updated": "2026-09-15T13:55:02Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187358,
-            "stars_today": 187358,
+            "stars": 187362,
+            "stars_today": 187362,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 170373,
-            "stars_today": 170373,
+            "stars": 170397,
+            "stars_today": 170397,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 104989,
-            "stars_today": 104989,
+            "stars": 105009,
+            "stars_today": 105009,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96648,
-            "stars_today": 96648,
+            "stars": 96659,
+            "stars_today": 96659,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 93916,
-            "stars_today": 93916,
+            "stars": 93940,
+            "stars_today": 93940,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 87958,
-            "stars_today": 87958,
+            "stars": 87987,
+            "stars_today": 87987,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-15T08:04:46Z",
+    "updated": "2026-09-15T13:55:02Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-15T08:04:46Z",
+    "updated": "2026-09-15T13:55:02Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-15T08:04:46Z",
+    "updated": "2026-09-15T13:55:02Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Pion, an agent designed to run any company autonomously",
-            "insight": "HN 热议：386 分 · 464 评论",
+            "title": "Suspected sabotage causes major Netherlands rail disruption",
+            "insight": "HN 热议：261 分 · 255 评论",
             "sentiment": "positive",
-            "comments": 464,
-            "url": "https://andonlabs.com/blog/why-we-built-pion",
+            "comments": 255,
+            "url": "https://www.bbc.com/news/articles/c8ly49w9g1edo",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
-            "insight": "HN 热议：98 分 · 25 评论",
+            "title": "OpenAI buys smartphone camera maker Glass Imaging for $300M",
+            "insight": "HN 热议：49 分 · 22 评论",
             "sentiment": "neutral",
-            "comments": 25,
-            "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
+            "comments": 22,
+            "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "OpenAI bots knew about the RubyGems caching vulnerability",
-            "insight": "HN 热议：439 分 · 347 评论",
+            "title": "Pion, an agent designed to run any company autonomously",
+            "insight": "HN 热议：444 分 · 542 评论",
             "sentiment": "positive",
-            "comments": 347,
-            "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
+            "comments": 542,
+            "url": "https://andonlabs.com/blog/why-we-built-pion",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Why don't machine learning research agents overfit?",
-            "insight": "HN 热议：125 分 · 68 评论",
-            "sentiment": "neutral",
-            "comments": 68,
-            "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
+            "title": "OpenAI bots knew about the RubyGems caching vulnerability",
+            "insight": "HN 热议：491 分 · 396 评论",
+            "sentiment": "positive",
+            "comments": 396,
+            "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent",
-            "insight": "HN 热议：156 分 · 87 评论",
+            "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
+            "insight": "HN 热议：142 分 · 29 评论",
             "sentiment": "neutral",
-            "comments": 87,
-            "url": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325",
+            "comments": 29,
+            "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-15T08:04:46Z",
+    "updated": "2026-09-15T13:55:02Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

@@ -1,49 +1,49 @@
 {
-  "updated": "2026-09-15T08:04:46Z",
+  "updated": "2026-09-15T13:55:02Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Pion, an agent designed to run any company autonomously",
-      "insight": "HN 热议：386 分 · 464 评论",
+      "title": "Suspected sabotage causes major Netherlands rail disruption",
+      "insight": "HN 热议：261 分 · 255 评论",
       "sentiment": "positive",
-      "comments": 464,
-      "url": "https://andonlabs.com/blog/why-we-built-pion",
+      "comments": 255,
+      "url": "https://www.bbc.com/news/articles/c8ly49w9g1edo",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
-      "insight": "HN 热议：98 分 · 25 评论",
+      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300M",
+      "insight": "HN 热议：49 分 · 22 评论",
       "sentiment": "neutral",
-      "comments": 25,
-      "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
+      "comments": 22,
+      "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "OpenAI bots knew about the RubyGems caching vulnerability",
-      "insight": "HN 热议：439 分 · 347 评论",
+      "title": "Pion, an agent designed to run any company autonomously",
+      "insight": "HN 热议：444 分 · 542 评论",
       "sentiment": "positive",
-      "comments": 347,
-      "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
+      "comments": 542,
+      "url": "https://andonlabs.com/blog/why-we-built-pion",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Why don't machine learning research agents overfit?",
-      "insight": "HN 热议：125 分 · 68 评论",
-      "sentiment": "neutral",
-      "comments": 68,
-      "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
+      "title": "OpenAI bots knew about the RubyGems caching vulnerability",
+      "insight": "HN 热议：491 分 · 396 评论",
+      "sentiment": "positive",
+      "comments": 396,
+      "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent",
-      "insight": "HN 热议：156 分 · 87 评论",
+      "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
+      "insight": "HN 热议：142 分 · 29 评论",
       "sentiment": "neutral",
-      "comments": 87,
-      "url": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325",
+      "comments": 29,
+      "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
       "id": 5
     }
   ]
