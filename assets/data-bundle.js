@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-16T07:57:45Z",
+    "updated": "2026-09-16T13:47:59Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-16T07:57:45Z",
+    "updated": "2026-09-16T13:47:59Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-16T07:57:45Z",
+    "updated": "2026-09-16T13:47:59Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187376,
-            "stars_today": 187376,
+            "stars": 187382,
+            "stars_today": 187382,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 105056,
-            "stars_today": 105056,
+            "stars": 105076,
+            "stars_today": 105076,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96665,
-            "stars_today": 96665,
+            "stars": 96671,
+            "stars_today": 96671,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 94001,
-            "stars_today": 94001,
+            "stars": 94019,
+            "stars_today": 94019,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 88085,
-            "stars_today": 88085,
+            "stars": 88130,
+            "stars_today": 88130,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 62862,
-            "stars_today": 62862,
+            "stars": 62943,
+            "stars_today": 62943,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-16T07:57:45Z",
+    "updated": "2026-09-16T13:47:59Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-16T07:57:45Z",
+    "updated": "2026-09-16T13:47:59Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-16T07:57:45Z",
+    "updated": "2026-09-16T13:47:59Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
-            "insight": "HN 热议：387 分 · 252 评论",
+            "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
+            "insight": "HN 热议：207 分 · 64 评论",
             "sentiment": "positive",
-            "comments": 252,
-            "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+            "comments": 64,
+            "url": "https://mistral.ai/news/mistral-x-mozilla/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Datamimic – don't let your coding agent invent its own test world",
-            "insight": "HN 热议：28 分 · 5 评论",
+            "title": "ImpactGate: A merge gate that scores the structural decay AI adds",
+            "insight": "HN 热议：12 分 · 12 评论",
             "sentiment": "neutral",
-            "comments": 5,
-            "url": "https://github.com/rapiddweller/datamimic",
+            "comments": 12,
+            "url": "https://github.com/officefloor/ImpactGate",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Why I'm still bearish on LLMs after Navier-Stokes",
-            "insight": "HN 热议：192 分 · 209 评论",
+            "title": "Learning Programming in an Age of LLMs",
+            "insight": "HN 热议：114 分 · 78 评论",
             "sentiment": "neutral",
-            "comments": 209,
-            "url": "https://dank.systems/posts/2026-09-15-ai-bear.html",
+            "comments": 78,
+            "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
-            "insight": "HN 热议：601 分 · 205 评论",
+            "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
+            "insight": "HN 热议：447 分 · 301 评论",
             "sentiment": "positive",
-            "comments": 205,
-            "url": "https://www.effort.news/irregular",
+            "comments": 301,
+            "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Learning to solve hard problems in RL for LLMs by never giving up",
-            "insight": "HN 热议：86 分 · 4 评论",
+            "title": "Intelligence per Watt: Measuring Intelligence Efficiency of Local AI",
+            "insight": "HN 热议：88 分 · 17 评论",
             "sentiment": "neutral",
-            "comments": 4,
-            "url": "https://mnoukhov.github.io/posts/ngu/",
+            "comments": 17,
+            "url": "https://arxiv.org/abs/2511.07885",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-16T07:57:45Z",
+    "updated": "2026-09-16T13:47:59Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

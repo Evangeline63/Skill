@@ -1,49 +1,49 @@
 {
-  "updated": "2026-09-16T07:57:45Z",
+  "updated": "2026-09-16T13:47:59Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
-      "insight": "HN 热议：387 分 · 252 评论",
+      "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
+      "insight": "HN 热议：207 分 · 64 评论",
       "sentiment": "positive",
-      "comments": 252,
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+      "comments": 64,
+      "url": "https://mistral.ai/news/mistral-x-mozilla/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Datamimic – don't let your coding agent invent its own test world",
-      "insight": "HN 热议：28 分 · 5 评论",
+      "title": "ImpactGate: A merge gate that scores the structural decay AI adds",
+      "insight": "HN 热议：12 分 · 12 评论",
       "sentiment": "neutral",
-      "comments": 5,
-      "url": "https://github.com/rapiddweller/datamimic",
+      "comments": 12,
+      "url": "https://github.com/officefloor/ImpactGate",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Why I'm still bearish on LLMs after Navier-Stokes",
-      "insight": "HN 热议：192 分 · 209 评论",
+      "title": "Learning Programming in an Age of LLMs",
+      "insight": "HN 热议：114 分 · 78 评论",
       "sentiment": "neutral",
-      "comments": 209,
-      "url": "https://dank.systems/posts/2026-09-15-ai-bear.html",
+      "comments": 78,
+      "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
-      "insight": "HN 热议：601 分 · 205 评论",
+      "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "insight": "HN 热议：447 分 · 301 评论",
       "sentiment": "positive",
-      "comments": 205,
-      "url": "https://www.effort.news/irregular",
+      "comments": 301,
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Learning to solve hard problems in RL for LLMs by never giving up",
-      "insight": "HN 热议：86 分 · 4 评论",
+      "title": "Intelligence per Watt: Measuring Intelligence Efficiency of Local AI",
+      "insight": "HN 热议：88 分 · 17 评论",
       "sentiment": "neutral",
-      "comments": 4,
-      "url": "https://mnoukhov.github.io/posts/ngu/",
+      "comments": 17,
+      "url": "https://arxiv.org/abs/2511.07885",
       "id": 5
     }
   ]
