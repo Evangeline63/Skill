@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-16T18:30:43Z",
+    "updated": "2026-09-16T23:19:31Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-16T18:30:43Z",
+    "updated": "2026-09-16T23:19:31Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-16T18:30:43Z",
+    "updated": "2026-09-16T23:19:31Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187391,
-            "stars_today": 187391,
+            "stars": 187396,
+            "stars_today": 187396,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 105086,
-            "stars_today": 105086,
+            "stars": 105091,
+            "stars_today": 105091,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96674,
-            "stars_today": 96674,
+            "stars": 96676,
+            "stars_today": 96676,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 94041,
-            "stars_today": 94041,
+            "stars": 94051,
+            "stars_today": 94051,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,23 +309,23 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 88161,
-            "stars_today": 88161,
+            "stars": 88177,
+            "stars_today": 88177,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
             "rank": 6,
-            "name": "usestrix/strix",
-            "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-            "language": "Python",
-            "stars": 62994,
-            "stars_today": 62994,
-            "url": "https://github.com/usestrix/strix"
+            "name": "microsoft/AI-For-Beginners",
+            "description": "12 Weeks, 24 Lessons, AI for All!",
+            "language": "Jupyter Notebook",
+            "stars": 68591,
+            "stars_today": 68591,
+            "url": "https://github.com/microsoft/AI-For-Beginners"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-16T18:30:43Z",
+    "updated": "2026-09-16T23:19:31Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-16T18:30:43Z",
+    "updated": "2026-09-16T23:19:31Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-16T18:30:43Z",
+    "updated": "2026-09-16T23:19:31Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
-            "insight": "HN 热议：417 分 · 153 评论",
+            "title": "Training a 4B model to produce 81% faster query plans than Postgres",
+            "insight": "HN 热议：327 分 · 60 评论",
             "sentiment": "positive",
-            "comments": 153,
-            "url": "https://mistral.ai/news/mistral-x-mozilla/",
+            "comments": 60,
+            "url": "https://rohanbansal.com/qorl",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Claude Cowork and chat are now one Claude",
-            "insight": "HN 热议：101 分 · 119 评论",
+            "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+            "insight": "HN 热议：91 分 · 7 评论",
             "sentiment": "neutral",
-            "comments": 119,
-            "url": "https://claude.com/blog/cowork-is-now-claude",
+            "comments": 7,
+            "url": "https://arxiv.org/abs/2609.16338",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Learning Programming in an Age of LLMs",
-            "insight": "HN 热议：176 分 · 123 评论",
+            "title": "Xiaomi Mimo 2.6 live post-training dashboard",
+            "insight": "HN 热议：178 分 · 49 评论",
             "sentiment": "neutral",
-            "comments": 123,
-            "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/",
+            "comments": 49,
+            "url": "https://mimo.xiaomi.com/rl/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "The Siberian Ice Maiden and the Scythian World",
-            "insight": "HN 热议：10 分 · 0 评论",
+            "title": "OpenSpec – A lightweight and configurable AI spec framework",
+            "insight": "HN 热议：8 分 · 0 评论",
             "sentiment": "neutral",
             "comments": 0,
-            "url": "https://patrickwyman.substack.com/p/the-siberian-ice-maiden-and-the-scythian",
+            "url": "https://openspec.dev/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models",
-            "insight": "HN 热议：43 分 · 32 评论",
-            "sentiment": "neutral",
-            "comments": 32,
-            "url": "https://stale.jock.pl/",
+            "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
+            "insight": "HN 热议：512 分 · 182 评论",
+            "sentiment": "positive",
+            "comments": 182,
+            "url": "https://mistral.ai/news/mistral-x-mozilla/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-16T18:30:43Z",
+    "updated": "2026-09-16T23:19:31Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
