@@ -1,49 +1,49 @@
 {
-  "updated": "2026-09-16T13:47:59Z",
+  "updated": "2026-09-16T18:30:43Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
-      "insight": "HN 热议：207 分 · 64 评论",
+      "insight": "HN 热议：417 分 · 153 评论",
       "sentiment": "positive",
-      "comments": 64,
+      "comments": 153,
       "url": "https://mistral.ai/news/mistral-x-mozilla/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "ImpactGate: A merge gate that scores the structural decay AI adds",
-      "insight": "HN 热议：12 分 · 12 评论",
+      "title": "Claude Cowork and chat are now one Claude",
+      "insight": "HN 热议：101 分 · 119 评论",
       "sentiment": "neutral",
-      "comments": 12,
-      "url": "https://github.com/officefloor/ImpactGate",
+      "comments": 119,
+      "url": "https://claude.com/blog/cowork-is-now-claude",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "Learning Programming in an Age of LLMs",
-      "insight": "HN 热议：114 分 · 78 评论",
+      "insight": "HN 热议：176 分 · 123 评论",
       "sentiment": "neutral",
-      "comments": 78,
+      "comments": 123,
       "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
-      "insight": "HN 热议：447 分 · 301 评论",
-      "sentiment": "positive",
-      "comments": 301,
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+      "title": "The Siberian Ice Maiden and the Scythian World",
+      "insight": "HN 热议：10 分 · 0 评论",
+      "sentiment": "neutral",
+      "comments": 0,
+      "url": "https://patrickwyman.substack.com/p/the-siberian-ice-maiden-and-the-scythian",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Intelligence per Watt: Measuring Intelligence Efficiency of Local AI",
-      "insight": "HN 热议：88 分 · 17 评论",
+      "title": "Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models",
+      "insight": "HN 热议：43 分 · 32 评论",
       "sentiment": "neutral",
-      "comments": 17,
-      "url": "https://arxiv.org/abs/2511.07885",
+      "comments": 32,
+      "url": "https://stale.jock.pl/",
       "id": 5
     }
   ]
