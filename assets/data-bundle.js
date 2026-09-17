@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-17T13:50:36Z",
+    "updated": "2026-09-17T18:38:51Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-17T13:50:36Z",
+    "updated": "2026-09-17T18:38:51Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-17T13:50:36Z",
+    "updated": "2026-09-17T18:38:51Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187402,
-            "stars_today": 187402,
+            "stars": 187411,
+            "stars_today": 187411,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 105134,
-            "stars_today": 105134,
+            "stars": 105148,
+            "stars_today": 105148,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96684,
-            "stars_today": 96684,
+            "stars": 96690,
+            "stars_today": 96690,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 94105,
-            "stars_today": 94105,
+            "stars": 94121,
+            "stars_today": 94121,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 88273,
-            "stars_today": 88273,
+            "stars": 88308,
+            "stars_today": 88308,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "microsoft/AI-For-Beginners",
             "description": "12 Weeks, 24 Lessons, AI for All!",
             "language": "Jupyter Notebook",
-            "stars": 68623,
-            "stars_today": 68623,
+            "stars": 68636,
+            "stars_today": 68636,
             "url": "https://github.com/microsoft/AI-For-Beginners"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-17T13:50:36Z",
+    "updated": "2026-09-17T18:38:51Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-17T13:50:36Z",
+    "updated": "2026-09-17T18:38:51Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-17T13:50:36Z",
+    "updated": "2026-09-17T18:38:51Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "I had Gemini train its own replacement for $9",
-            "insight": "HN 热议：6 分 · 1 评论",
+            "title": "Show HN: Aclif – Agent CLI framework: one grammar, canonical names across SaaS",
+            "insight": "HN 热议：18 分 · 11 评论",
             "sentiment": "neutral",
-            "comments": 1,
-            "url": "https://www.petervijeh.com/projects/reddit-ner",
+            "comments": 11,
+            "url": "https://www.aclif.ai/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Training a 4B model to produce 81% faster query plans than Postgres",
-            "insight": "HN 热议：608 分 · 124 评论",
-            "sentiment": "positive",
-            "comments": 124,
-            "url": "https://rohanbansal.com/qorl",
+            "title": "Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data",
+            "insight": "HN 热议：21 分 · 5 评论",
+            "sentiment": "neutral",
+            "comments": 5,
+            "url": "https://arxiv.org/abs/2609.18842",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "The American Religion of Self-Storage Facilities",
-            "insight": "HN 热议：8 分 · 2 评论",
+            "title": "Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents",
+            "insight": "HN 热议：16 分 · 16 评论",
             "sentiment": "neutral",
-            "comments": 2,
-            "url": "https://www.newyorker.com/magazine/2026/09/21/the-american-religion-of-self-storage-facilities",
+            "comments": 16,
+            "url": "https://news.ycombinator.com/item?id=49743049",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Xiaomi Mimo 2.6 live post-training dashboard",
-            "insight": "HN 热议：484 分 · 139 评论",
-            "sentiment": "positive",
-            "comments": 139,
-            "url": "https://mimo.xiaomi.com/rl/",
+            "title": "The American Religion of Self-Storage Facilities",
+            "insight": "HN 热议：95 分 · 156 评论",
+            "sentiment": "neutral",
+            "comments": 156,
+            "url": "https://www.newyorker.com/magazine/2026/09/21/the-american-religion-of-self-storage-facilities",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
-            "insight": "HN 热议：219 分 · 35 评论",
-            "sentiment": "positive",
-            "comments": 35,
-            "url": "https://arxiv.org/abs/2609.16338",
+            "title": "Show HN: Share your AI Setup, Learn from others",
+            "insight": "HN 热议：101 分 · 65 评论",
+            "sentiment": "neutral",
+            "comments": 65,
+            "url": "https://mysetup.ai/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-17T13:50:36Z",
+    "updated": "2026-09-17T18:38:51Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
