@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-16T23:19:31Z",
+    "updated": "2026-09-17T02:02:44Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-16T23:19:31Z",
+    "updated": "2026-09-17T02:02:44Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-16T23:19:31Z",
+    "updated": "2026-09-17T02:02:44Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187396,
-            "stars_today": 187396,
+            "stars": 187394,
+            "stars_today": 187394,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 105091,
-            "stars_today": 105091,
+            "stars": 105096,
+            "stars_today": 105096,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96676,
-            "stars_today": 96676,
+            "stars": 96677,
+            "stars_today": 96677,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 94051,
-            "stars_today": 94051,
+            "stars": 94055,
+            "stars_today": 94055,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 88177,
-            "stars_today": 88177,
+            "stars": 88197,
+            "stars_today": 88197,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "microsoft/AI-For-Beginners",
             "description": "12 Weeks, 24 Lessons, AI for All!",
             "language": "Jupyter Notebook",
-            "stars": 68591,
-            "stars_today": 68591,
+            "stars": 68592,
+            "stars_today": 68592,
             "url": "https://github.com/microsoft/AI-For-Beginners"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-16T23:19:31Z",
+    "updated": "2026-09-17T02:02:44Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-16T23:19:31Z",
+    "updated": "2026-09-17T02:02:44Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-16T23:19:31Z",
+    "updated": "2026-09-17T02:02:44Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Training a 4B model to produce 81% faster query plans than Postgres",
-            "insight": "HN 热议：327 分 · 60 评论",
+            "insight": "HN 热议：405 分 · 84 评论",
             "sentiment": "positive",
-            "comments": 60,
+            "comments": 84,
             "url": "https://rohanbansal.com/qorl",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
-            "insight": "HN 热议：91 分 · 7 评论",
-            "sentiment": "neutral",
-            "comments": 7,
-            "url": "https://arxiv.org/abs/2609.16338",
+            "title": "Xiaomi Mimo 2.6 live post-training dashboard",
+            "insight": "HN 热议：267 分 · 66 评论",
+            "sentiment": "positive",
+            "comments": 66,
+            "url": "https://mimo.xiaomi.com/rl/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Xiaomi Mimo 2.6 live post-training dashboard",
-            "insight": "HN 热议：178 分 · 49 评论",
+            "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+            "insight": "HN 热议：145 分 · 18 评论",
             "sentiment": "neutral",
-            "comments": 49,
-            "url": "https://mimo.xiaomi.com/rl/",
+            "comments": 18,
+            "url": "https://arxiv.org/abs/2609.16338",
             "id": 3
         },
         {
             "source": "HackerNews",
             "title": "OpenSpec – A lightweight and configurable AI spec framework",
-            "insight": "HN 热议：8 分 · 0 评论",
+            "insight": "HN 热议：69 分 · 26 评论",
             "sentiment": "neutral",
-            "comments": 0,
+            "comments": 26,
             "url": "https://openspec.dev/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
-            "insight": "HN 热议：512 分 · 182 评论",
-            "sentiment": "positive",
-            "comments": 182,
-            "url": "https://mistral.ai/news/mistral-x-mozilla/",
+            "title": "HarnessTax: How Much Does the Harness Matter for Coding Agents?",
+            "insight": "HN 热议：40 分 · 6 评论",
+            "sentiment": "neutral",
+            "comments": 6,
+            "url": "https://harnesstax.github.io/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-16T23:19:31Z",
+    "updated": "2026-09-17T02:02:44Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
