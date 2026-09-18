@@ -1,49 +1,49 @@
 {
-  "updated": "2026-09-18T07:39:53Z",
+  "updated": "2026-09-18T13:12:36Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Hacking OpenAI",
-      "insight": "HN 热议：298 分 · 115 评论",
-      "sentiment": "positive",
-      "comments": 115,
-      "url": "https://www.hacktron.ai/blog/hacking-openai",
+      "title": "ZCode, the GLM coding agent, silently uploads your Git history",
+      "insight": "HN 热议：131 分 · 30 评论",
+      "sentiment": "neutral",
+      "comments": 30,
+      "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
-      "insight": "HN 热议：395 分 · 116 评论",
+      "insight": "HN 热议：490 分 · 153 评论",
       "sentiment": "positive",
-      "comments": 116,
+      "comments": 153,
       "url": "https://prismml.com/news/bonsai-2-27b",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
-      "insight": "HN 热议：424 分 · 205 评论",
+      "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
+      "insight": "HN 热议：372 分 · 306 评论",
       "sentiment": "positive",
-      "comments": 205,
-      "url": "https://bend-lang.com/",
+      "comments": 306,
+      "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "How to Write with an LLM",
-      "insight": "HN 热议：121 分 · 77 评论",
+      "title": "Warren Buffett Steps Down as Berkshire Chairman, Names Son to Replace Him",
+      "insight": "HN 热议：68 分 · 51 评论",
       "sentiment": "neutral",
-      "comments": 77,
-      "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+      "comments": 51,
+      "url": "https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Diplodocus, Long Thought Exclusively American, Turns Up in Spain",
-      "insight": "HN 热议：60 分 · 36 评论",
-      "sentiment": "neutral",
-      "comments": 36,
-      "url": "https://www.sci.news/paleontology/spanish-diplodocus-15064.html",
+      "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
+      "insight": "HN 热议：511 分 · 247 评论",
+      "sentiment": "positive",
+      "comments": 247,
+      "url": "https://bend-lang.com/",
       "id": 5
     }
   ]
