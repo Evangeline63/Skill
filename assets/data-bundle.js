@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-17T23:10:42Z",
+    "updated": "2026-09-18T01:50:01Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-17T23:10:42Z",
+    "updated": "2026-09-18T01:50:01Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-17T23:10:42Z",
+    "updated": "2026-09-18T01:50:01Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187414,
-            "stars_today": 187414,
+            "stars": 187418,
+            "stars_today": 187418,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 105155,
-            "stars_today": 105155,
+            "stars": 105160,
+            "stars_today": 105160,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96697,
-            "stars_today": 96697,
+            "stars": 96700,
+            "stars_today": 96700,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 94132,
-            "stars_today": 94132,
+            "stars": 94141,
+            "stars_today": 94141,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 88324,
-            "stars_today": 88324,
+            "stars": 88341,
+            "stars_today": 88341,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "microsoft/AI-For-Beginners",
             "description": "12 Weeks, 24 Lessons, AI for All!",
             "language": "Jupyter Notebook",
-            "stars": 68642,
-            "stars_today": 68642,
+            "stars": 68645,
+            "stars_today": 68645,
             "url": "https://github.com/microsoft/AI-For-Beginners"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-17T23:10:42Z",
+    "updated": "2026-09-18T01:50:01Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-17T23:10:42Z",
+    "updated": "2026-09-18T01:50:01Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-17T23:10:42Z",
+    "updated": "2026-09-18T01:50:01Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
-            "insight": "HN 热议：202 分 · 112 评论",
+            "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
+            "insight": "HN 热议：220 分 · 70 评论",
             "sentiment": "positive",
-            "comments": 112,
-            "url": "https://bend-lang.com/",
+            "comments": 70,
+            "url": "https://prismml.com/news/bonsai-2-27b",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
-            "insight": "HN 热议：106 分 · 32 评论",
-            "sentiment": "neutral",
-            "comments": 32,
-            "url": "https://prismml.com/news/bonsai-2-27b",
+            "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
+            "insight": "HN 热议：282 分 · 147 评论",
+            "sentiment": "positive",
+            "comments": 147,
+            "url": "https://bend-lang.com/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Sex, AI, and the Apocalypse",
-            "insight": "HN 热议：64 分 · 38 评论",
+            "title": "Claude Code from Source",
+            "insight": "HN 热议：9 分 · 1 评论",
             "sentiment": "neutral",
-            "comments": 38,
-            "url": "https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/",
+            "comments": 1,
+            "url": "https://claude-code-from-source.com/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "How to Write with an LLM",
-            "insight": "HN 热议：23 分 · 11 评论",
+            "title": "Diplodocus, Long Thought Exclusively American, Turns Up in Spain",
+            "insight": "HN 热议：28 分 · 18 评论",
             "sentiment": "neutral",
-            "comments": 11,
-            "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+            "comments": 18,
+            "url": "https://www.sci.news/paleontology/spanish-diplodocus-15064.html",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Diplodocus, Long Thought Exclusively American, Turns Up in Spain",
-            "insight": "HN 热议：11 分 · 5 评论",
+            "title": "How Uber Protects Against Retry Storms",
+            "insight": "HN 热议：40 分 · 23 评论",
             "sentiment": "neutral",
-            "comments": 5,
-            "url": "https://www.sci.news/paleontology/spanish-diplodocus-15064.html",
+            "comments": 23,
+            "url": "https://www.uber.com/us/en/blog/protecting-against-retry-storms/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-17T23:10:42Z",
+    "updated": "2026-09-18T01:50:01Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
