@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-18T20:06:48Z",
+    "updated": "2026-09-18T22:53:27Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-18T20:06:48Z",
+    "updated": "2026-09-18T22:53:27Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-18T20:06:48Z",
+    "updated": "2026-09-18T22:53:27Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187437,
-            "stars_today": 187437,
+            "stars": 187438,
+            "stars_today": 187438,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 105197,
-            "stars_today": 105197,
+            "stars": 105198,
+            "stars_today": 105198,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96713,
-            "stars_today": 96713,
+            "stars": 96715,
+            "stars_today": 96715,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 94191,
-            "stars_today": 94191,
+            "stars": 94206,
+            "stars_today": 94206,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 88436,
-            "stars_today": 88436,
+            "stars": 88441,
+            "stars_today": 88441,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "microsoft/AI-For-Beginners",
             "description": "12 Weeks, 24 Lessons, AI for All!",
             "language": "Jupyter Notebook",
-            "stars": 68693,
-            "stars_today": 68693,
+            "stars": 68696,
+            "stars_today": 68696,
             "url": "https://github.com/microsoft/AI-For-Beginners"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-18T20:06:48Z",
+    "updated": "2026-09-18T22:53:27Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-18T20:06:48Z",
+    "updated": "2026-09-18T22:53:27Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-18T20:06:48Z",
+    "updated": "2026-09-18T22:53:27Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "The Implications of Linguistic Illegibility for LLM Security",
-            "insight": "HN 热议：15 分 · 4 评论",
-            "sentiment": "neutral",
-            "comments": 4,
-            "url": "https://arxiv.org/abs/2609.02852",
+            "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
+            "insight": "HN 热议：287 分 · 114 评论",
+            "sentiment": "positive",
+            "comments": 114,
+            "url": "https://code.claude.com/docs/en/changelog",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "US Military had close call after using AI for hallucinated intelligence report",
-            "insight": "HN 热议：239 分 · 170 评论",
-            "sentiment": "positive",
-            "comments": 170,
-            "url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
+            "title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
+            "insight": "HN 热议：53 分 · 11 评论",
+            "sentiment": "neutral",
+            "comments": 11,
+            "url": "https://arxiv.org/abs/2510.03215",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Our brain evolved from two primitive nervous systems that merged: Study",
-            "insight": "HN 热议：43 分 · 23 评论",
-            "sentiment": "neutral",
-            "comments": 23,
-            "url": "https://www.newscientist.com/article/2589739-our-brain-evolved-from-two-primitive-nervous-systems-that-merged/",
+            "title": "How to Write with an LLM",
+            "insight": "HN 热议：345 分 · 237 评论",
+            "sentiment": "positive",
+            "comments": 237,
+            "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Ax-check.com – Can agents use your product?",
-            "insight": "HN 热议：18 分 · 16 评论",
+            "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
+            "insight": "HN 热议：98 分 · 50 评论",
             "sentiment": "neutral",
-            "comments": 16,
-            "url": "https://www.ax-check.com/",
+            "comments": 50,
+            "url": "https://www.newscientist.com/article/2589739-our-brain-evolved-from-two-primitive-nervous-systems-that-merged/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Border agents can search cellphones without a warrant or reasonable suspicion",
-            "insight": "HN 热议：70 分 · 39 评论",
+            "title": "The Implications of Linguistic Illegibility for LLM Security",
+            "insight": "HN 热议：38 分 · 16 评论",
             "sentiment": "neutral",
-            "comments": 39,
-            "url": "https://lawandcrime.com/high-profile/the-government-was-entitled-trumps-border-agents-can-now-search-cellphones-without-a-warrant-probable-cause-or-reasonable-suspicion-2nd-circuit-rules/",
+            "comments": 16,
+            "url": "https://arxiv.org/abs/2609.02852",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-18T20:06:48Z",
+    "updated": "2026-09-18T22:53:27Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
