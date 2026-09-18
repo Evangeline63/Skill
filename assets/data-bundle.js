@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-18T17:55:43Z",
+    "updated": "2026-09-18T20:06:48Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-18T17:55:43Z",
+    "updated": "2026-09-18T20:06:48Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-18T17:55:43Z",
+    "updated": "2026-09-18T20:06:48Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187434,
-            "stars_today": 187434,
+            "stars": 187437,
+            "stars_today": 187437,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 105194,
-            "stars_today": 105194,
+            "stars": 105197,
+            "stars_today": 105197,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 94184,
-            "stars_today": 94184,
+            "stars": 94191,
+            "stars_today": 94191,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 88426,
-            "stars_today": 88426,
+            "stars": 88436,
+            "stars_today": 88436,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "microsoft/AI-For-Beginners",
             "description": "12 Weeks, 24 Lessons, AI for All!",
             "language": "Jupyter Notebook",
-            "stars": 68689,
-            "stars_today": 68689,
+            "stars": 68693,
+            "stars_today": 68693,
             "url": "https://github.com/microsoft/AI-For-Beginners"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-18T17:55:43Z",
+    "updated": "2026-09-18T20:06:48Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-18T17:55:43Z",
+    "updated": "2026-09-18T20:06:48Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-18T17:55:43Z",
+    "updated": "2026-09-18T20:06:48Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "There's no point at which turning your brain off will work",
-            "insight": "HN 热议：103 分 · 60 评论",
+            "title": "The Implications of Linguistic Illegibility for LLM Security",
+            "insight": "HN 热议：15 分 · 4 评论",
             "sentiment": "neutral",
-            "comments": 60,
-            "url": "https://danluu.com/brain-off/",
+            "comments": 4,
+            "url": "https://arxiv.org/abs/2609.02852",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "An Empirical Study of Harness Design for Coding Agents",
-            "insight": "HN 热议：178 分 · 40 评论",
-            "sentiment": "neutral",
-            "comments": 40,
-            "url": "https://arxiv.org/abs/2609.20804",
+            "title": "US Military had close call after using AI for hallucinated intelligence report",
+            "insight": "HN 热议：239 分 · 170 评论",
+            "sentiment": "positive",
+            "comments": 170,
+            "url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Mathematicians Build Long-Awaited Graph Sandwich",
-            "insight": "HN 热议：32 分 · 6 评论",
+            "title": "Our brain evolved from two primitive nervous systems that merged: Study",
+            "insight": "HN 热议：43 分 · 23 评论",
             "sentiment": "neutral",
-            "comments": 6,
-            "url": "https://www.quantamagazine.org/mathematicians-build-long-awaited-graph-sandwich-20260918/",
+            "comments": 23,
+            "url": "https://www.newscientist.com/article/2589739-our-brain-evolved-from-two-primitive-nervous-systems-that-merged/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
-            "insight": "HN 热议：429 分 · 181 评论",
-            "sentiment": "positive",
-            "comments": 181,
-            "url": "https://www.hacktron.ai/blog/hacking-openai",
+            "title": "Show HN: Ax-check.com – Can agents use your product?",
+            "insight": "HN 热议：18 分 · 16 评论",
+            "sentiment": "neutral",
+            "comments": 16,
+            "url": "https://www.ax-check.com/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "GrassLobster: AI Agentic Generation of Parametric Geometry Workflows",
-            "insight": "HN 热议：23 分 · 3 评论",
+            "title": "Border agents can search cellphones without a warrant or reasonable suspicion",
+            "insight": "HN 热议：70 分 · 39 评论",
             "sentiment": "neutral",
-            "comments": 3,
-            "url": "https://www.miro.vision/index.php/2026/09/17/grasslobbster/",
+            "comments": 39,
+            "url": "https://lawandcrime.com/high-profile/the-government-was-entitled-trumps-border-agents-can-now-search-cellphones-without-a-warrant-probable-cause-or-reasonable-suspicion-2nd-circuit-rules/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-18T17:55:43Z",
+    "updated": "2026-09-18T20:06:48Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
