@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-18T13:12:36Z",
+    "updated": "2026-09-18T17:55:43Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-18T13:12:36Z",
+    "updated": "2026-09-18T17:55:43Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-18T13:12:36Z",
+    "updated": "2026-09-18T17:55:43Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187422,
-            "stars_today": 187422,
+            "stars": 187434,
+            "stars_today": 187434,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 105181,
-            "stars_today": 105181,
+            "stars": 105194,
+            "stars_today": 105194,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96707,
-            "stars_today": 96707,
+            "stars": 96713,
+            "stars_today": 96713,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 94168,
-            "stars_today": 94168,
+            "stars": 94184,
+            "stars_today": 94184,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 88401,
-            "stars_today": 88401,
+            "stars": 88426,
+            "stars_today": 88426,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "microsoft/AI-For-Beginners",
             "description": "12 Weeks, 24 Lessons, AI for All!",
             "language": "Jupyter Notebook",
-            "stars": 68682,
-            "stars_today": 68682,
+            "stars": 68689,
+            "stars_today": 68689,
             "url": "https://github.com/microsoft/AI-For-Beginners"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-18T13:12:36Z",
+    "updated": "2026-09-18T17:55:43Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-18T13:12:36Z",
+    "updated": "2026-09-18T17:55:43Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-18T13:12:36Z",
+    "updated": "2026-09-18T17:55:43Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "ZCode, the GLM coding agent, silently uploads your Git history",
-            "insight": "HN 热议：131 分 · 30 评论",
+            "title": "There's no point at which turning your brain off will work",
+            "insight": "HN 热议：103 分 · 60 评论",
             "sentiment": "neutral",
-            "comments": 30,
-            "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
+            "comments": 60,
+            "url": "https://danluu.com/brain-off/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
-            "insight": "HN 热议：490 分 · 153 评论",
-            "sentiment": "positive",
-            "comments": 153,
-            "url": "https://prismml.com/news/bonsai-2-27b",
+            "title": "An Empirical Study of Harness Design for Coding Agents",
+            "insight": "HN 热议：178 分 · 40 评论",
+            "sentiment": "neutral",
+            "comments": 40,
+            "url": "https://arxiv.org/abs/2609.20804",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
-            "insight": "HN 热议：372 分 · 306 评论",
-            "sentiment": "positive",
-            "comments": 306,
-            "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+            "title": "Mathematicians Build Long-Awaited Graph Sandwich",
+            "insight": "HN 热议：32 分 · 6 评论",
+            "sentiment": "neutral",
+            "comments": 6,
+            "url": "https://www.quantamagazine.org/mathematicians-build-long-awaited-graph-sandwich-20260918/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Warren Buffett Steps Down as Berkshire Chairman, Names Son to Replace Him",
-            "insight": "HN 热议：68 分 · 51 评论",
-            "sentiment": "neutral",
-            "comments": 51,
-            "url": "https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html",
+            "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
+            "insight": "HN 热议：429 分 · 181 评论",
+            "sentiment": "positive",
+            "comments": 181,
+            "url": "https://www.hacktron.ai/blog/hacking-openai",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
-            "insight": "HN 热议：511 分 · 247 评论",
-            "sentiment": "positive",
-            "comments": 247,
-            "url": "https://bend-lang.com/",
+            "title": "GrassLobster: AI Agentic Generation of Parametric Geometry Workflows",
+            "insight": "HN 热议：23 分 · 3 评论",
+            "sentiment": "neutral",
+            "comments": 3,
+            "url": "https://www.miro.vision/index.php/2026/09/17/grasslobbster/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-18T13:12:36Z",
+    "updated": "2026-09-18T17:55:43Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

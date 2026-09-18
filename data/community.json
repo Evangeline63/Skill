@@ -1,49 +1,49 @@
 {
-  "updated": "2026-09-18T13:12:36Z",
+  "updated": "2026-09-18T17:55:43Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "ZCode, the GLM coding agent, silently uploads your Git history",
-      "insight": "HN 热议：131 分 · 30 评论",
+      "title": "There's no point at which turning your brain off will work",
+      "insight": "HN 热议：103 分 · 60 评论",
       "sentiment": "neutral",
-      "comments": 30,
-      "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
+      "comments": 60,
+      "url": "https://danluu.com/brain-off/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
-      "insight": "HN 热议：490 分 · 153 评论",
-      "sentiment": "positive",
-      "comments": 153,
-      "url": "https://prismml.com/news/bonsai-2-27b",
+      "title": "An Empirical Study of Harness Design for Coding Agents",
+      "insight": "HN 热议：178 分 · 40 评论",
+      "sentiment": "neutral",
+      "comments": 40,
+      "url": "https://arxiv.org/abs/2609.20804",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
-      "insight": "HN 热议：372 分 · 306 评论",
-      "sentiment": "positive",
-      "comments": 306,
-      "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+      "title": "Mathematicians Build Long-Awaited Graph Sandwich",
+      "insight": "HN 热议：32 分 · 6 评论",
+      "sentiment": "neutral",
+      "comments": 6,
+      "url": "https://www.quantamagazine.org/mathematicians-build-long-awaited-graph-sandwich-20260918/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Warren Buffett Steps Down as Berkshire Chairman, Names Son to Replace Him",
-      "insight": "HN 热议：68 分 · 51 评论",
-      "sentiment": "neutral",
-      "comments": 51,
-      "url": "https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html",
+      "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
+      "insight": "HN 热议：429 分 · 181 评论",
+      "sentiment": "positive",
+      "comments": 181,
+      "url": "https://www.hacktron.ai/blog/hacking-openai",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
-      "insight": "HN 热议：511 分 · 247 评论",
-      "sentiment": "positive",
-      "comments": 247,
-      "url": "https://bend-lang.com/",
+      "title": "GrassLobster: AI Agentic Generation of Parametric Geometry Workflows",
+      "insight": "HN 热议：23 分 · 3 评论",
+      "sentiment": "neutral",
+      "comments": 3,
+      "url": "https://www.miro.vision/index.php/2026/09/17/grasslobbster/",
       "id": 5
     }
   ]
