@@ -1,49 +1,49 @@
 {
-  "updated": "2026-09-19T12:43:55Z",
+  "updated": "2026-09-19T17:32:36Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "AI-generated posters don’t have to be horrible",
-      "insight": "HN 热议：328 分 · 209 评论",
+      "insight": "HN 热议：818 分 · 486 评论",
       "sentiment": "positive",
-      "comments": 209,
+      "comments": 486,
       "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
-      "insight": "HN 热议：331 分 · 122 评论",
+      "insight": "HN 热议：508 分 · 187 评论",
       "sentiment": "positive",
-      "comments": 122,
+      "comments": 187,
       "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
-      "insight": "HN 热议：161 分 · 91 评论",
-      "sentiment": "neutral",
-      "comments": 91,
+      "insight": "HN 热议：267 分 · 135 评论",
+      "sentiment": "positive",
+      "comments": 135,
       "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "How to Write with an LLM",
-      "insight": "HN 热议：515 分 · 344 评论",
-      "sentiment": "positive",
-      "comments": 344,
-      "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+      "title": "Almost Never Use AI to Write Anything Substantive",
+      "insight": "HN 热议：22 分 · 4 评论",
+      "sentiment": "neutral",
+      "comments": 4,
+      "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "You can run Git on object storage if you re-make packfiles",
-      "insight": "HN 热议：63 分 · 19 评论",
-      "sentiment": "neutral",
-      "comments": 19,
-      "url": "https://www.tigrisdata.com/blog/objgit-packfiles/",
+      "title": "How to Write with an LLM",
+      "insight": "HN 热议：567 分 · 361 评论",
+      "sentiment": "positive",
+      "comments": 361,
+      "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
       "id": 5
     }
   ]
