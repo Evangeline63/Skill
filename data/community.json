@@ -1,48 +1,48 @@
 {
-  "updated": "2026-09-19T17:32:36Z",
+  "updated": "2026-09-19T19:40:57Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "AI-generated posters don’t have to be horrible",
-      "insight": "HN 热议：818 分 · 486 评论",
+      "insight": "HN 热议：1029 分 · 590 评论",
       "sentiment": "positive",
-      "comments": 486,
+      "comments": 590,
       "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
-      "insight": "HN 热议：508 分 · 187 评论",
+      "insight": "HN 热议：570 分 · 204 评论",
       "sentiment": "positive",
-      "comments": 187,
+      "comments": 204,
       "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
-      "insight": "HN 热议：267 分 · 135 评论",
-      "sentiment": "positive",
-      "comments": 135,
-      "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+      "title": "Almost Never Use AI to Write Anything Substantive",
+      "insight": "HN 热议：93 分 · 50 评论",
+      "sentiment": "neutral",
+      "comments": 50,
+      "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Almost Never Use AI to Write Anything Substantive",
-      "insight": "HN 热议：22 分 · 4 评论",
-      "sentiment": "neutral",
-      "comments": 4,
-      "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+      "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
+      "insight": "HN 热议：297 分 · 150 评论",
+      "sentiment": "positive",
+      "comments": 150,
+      "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
       "id": 4
     },
     {
       "source": "HackerNews",
       "title": "How to Write with an LLM",
-      "insight": "HN 热议：567 分 · 361 评论",
+      "insight": "HN 热议：587 分 · 367 评论",
       "sentiment": "positive",
-      "comments": 361,
+      "comments": 367,
       "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
       "id": 5
     }
