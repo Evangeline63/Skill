@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-19T07:35:05Z",
+    "updated": "2026-09-19T12:43:55Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-19T07:35:05Z",
+    "updated": "2026-09-19T12:43:55Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-19T07:35:05Z",
+    "updated": "2026-09-19T12:43:55Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187442,
-            "stars_today": 187442,
+            "stars": 187440,
+            "stars_today": 187440,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 105214,
-            "stars_today": 105214,
+            "stars": 105225,
+            "stars_today": 105225,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96719,
-            "stars_today": 96719,
+            "stars": 96720,
+            "stars_today": 96720,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 94227,
-            "stars_today": 94227,
+            "stars": 94240,
+            "stars_today": 94240,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 88471,
-            "stars_today": 88471,
+            "stars": 88505,
+            "stars_today": 88505,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "microsoft/AI-For-Beginners",
             "description": "12 Weeks, 24 Lessons, AI for All!",
             "language": "Jupyter Notebook",
-            "stars": 68714,
-            "stars_today": 68714,
+            "stars": 68724,
+            "stars_today": 68724,
             "url": "https://github.com/microsoft/AI-For-Beginners"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-19T07:35:05Z",
+    "updated": "2026-09-19T12:43:55Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-19T07:35:05Z",
+    "updated": "2026-09-19T12:43:55Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-19T07:35:05Z",
+    "updated": "2026-09-19T12:43:55Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
-            "insight": "HN 热议：114 分 · 30 评论",
-            "sentiment": "neutral",
-            "comments": 30,
-            "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
+            "title": "AI-generated posters don’t have to be horrible",
+            "insight": "HN 热议：328 分 · 209 评论",
+            "sentiment": "positive",
+            "comments": 209,
+            "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
-            "insight": "HN 热议：31 分 · 5 评论",
-            "sentiment": "neutral",
-            "comments": 5,
-            "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+            "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
+            "insight": "HN 热议：331 分 · 122 评论",
+            "sentiment": "positive",
+            "comments": 122,
+            "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "You can run Git on object storage if you re-make packfiles",
-            "insight": "HN 热议：27 分 · 6 评论",
+            "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
+            "insight": "HN 热议：161 分 · 91 评论",
             "sentiment": "neutral",
-            "comments": 6,
-            "url": "https://www.tigrisdata.com/blog/objgit-packfiles/",
+            "comments": 91,
+            "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
             "id": 3
         },
         {
             "source": "HackerNews",
             "title": "How to Write with an LLM",
-            "insight": "HN 热议：472 分 · 316 评论",
+            "insight": "HN 热议：515 分 · 344 评论",
             "sentiment": "positive",
-            "comments": 316,
+            "comments": 344,
             "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
-            "insight": "HN 热议：15 分 · 1 评论",
+            "title": "You can run Git on object storage if you re-make packfiles",
+            "insight": "HN 热议：63 分 · 19 评论",
             "sentiment": "neutral",
-            "comments": 1,
-            "url": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/",
+            "comments": 19,
+            "url": "https://www.tigrisdata.com/blog/objgit-packfiles/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-19T07:35:05Z",
+    "updated": "2026-09-19T12:43:55Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
