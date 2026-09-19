@@ -1,49 +1,49 @@
 {
-  "updated": "2026-09-19T01:55:05Z",
+  "updated": "2026-09-19T07:35:05Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "How to Write with an LLM",
-      "insight": "HN 热议：391 分 · 270 评论",
-      "sentiment": "positive",
-      "comments": 270,
-      "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+      "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
+      "insight": "HN 热议：114 分 · 30 评论",
+      "sentiment": "neutral",
+      "comments": 30,
+      "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
-      "insight": "HN 热议：57 分 · 57 评论",
+      "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
+      "insight": "HN 热议：31 分 · 5 评论",
       "sentiment": "neutral",
-      "comments": 57,
-      "url": "https://spectrum.ieee.org/llms-for-chip-design",
+      "comments": 5,
+      "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
-      "insight": "HN 热议：66 分 · 12 评论",
+      "title": "You can run Git on object storage if you re-make packfiles",
+      "insight": "HN 热议：27 分 · 6 评论",
       "sentiment": "neutral",
-      "comments": 12,
-      "url": "https://arxiv.org/abs/2510.03215",
+      "comments": 6,
+      "url": "https://www.tigrisdata.com/blog/objgit-packfiles/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
-      "insight": "HN 热议：511 分 · 182 评论",
+      "title": "How to Write with an LLM",
+      "insight": "HN 热议：472 分 · 316 评论",
       "sentiment": "positive",
-      "comments": 182,
-      "url": "https://code.claude.com/docs/en/changelog",
+      "comments": 316,
+      "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
-      "insight": "HN 热议：103 分 · 54 评论",
+      "title": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+      "insight": "HN 热议：15 分 · 1 评论",
       "sentiment": "neutral",
-      "comments": 54,
-      "url": "https://www.newscientist.com/article/2589739-our-brain-evolved-from-two-primitive-nervous-systems-that-merged/",
+      "comments": 1,
+      "url": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/",
       "id": 5
     }
   ]
