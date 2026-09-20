@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-20T07:57:33Z",
+    "updated": "2026-09-20T13:15:14Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-20T07:57:33Z",
+    "updated": "2026-09-20T13:15:14Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-20T07:57:33Z",
+    "updated": "2026-09-20T13:15:14Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187453,
-            "stars_today": 187453,
+            "stars": 187455,
+            "stars_today": 187455,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 105265,
-            "stars_today": 105265,
+            "stars": 105278,
+            "stars_today": 105278,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96730,
-            "stars_today": 96730,
+            "stars": 96735,
+            "stars_today": 96735,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 94302,
-            "stars_today": 94302,
+            "stars": 94311,
+            "stars_today": 94311,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 88580,
-            "stars_today": 88580,
+            "stars": 88608,
+            "stars_today": 88608,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "microsoft/AI-For-Beginners",
             "description": "12 Weeks, 24 Lessons, AI for All!",
             "language": "Jupyter Notebook",
-            "stars": 68749,
-            "stars_today": 68749,
+            "stars": 68754,
+            "stars_today": 68754,
             "url": "https://github.com/microsoft/AI-For-Beginners"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-20T07:57:33Z",
+    "updated": "2026-09-20T13:15:14Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-20T07:57:33Z",
+    "updated": "2026-09-20T13:15:14Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-20T07:57:33Z",
+    "updated": "2026-09-20T13:15:14Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Spain Orders Blocks on Archive.today and Its Mirrors",
-            "insight": "HN 热议：43 分 · 18 评论",
+            "title": "AI and the Destruction of the Creative Commons",
+            "insight": "HN 热议：135 分 · 93 评论",
             "sentiment": "neutral",
-            "comments": 18,
-            "url": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
+            "comments": 93,
+            "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Orchestrating Claude Code Agents: The Chief of Staff Pattern",
-            "insight": "HN 热议：5 分 · 2 评论",
-            "sentiment": "neutral",
-            "comments": 2,
-            "url": "https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions/",
+            "title": "AI-generated posters don’t have to be horrible",
+            "insight": "HN 热议：1651 分 · 863 评论",
+            "sentiment": "positive",
+            "comments": 863,
+            "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "AI-generated posters don’t have to be horrible",
-            "insight": "HN 热议：1551 分 · 825 评论",
+            "title": "How to Write with an LLM",
+            "insight": "HN 热议：682 分 · 396 评论",
             "sentiment": "positive",
-            "comments": 825,
-            "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+            "comments": 396,
+            "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "KDE turns 30 and someone's brought an AI-native desktop proposal",
-            "insight": "HN 热议：5 分 · 0 评论",
+            "title": "If AI coding is lowering your code quality, you're not managing quality right",
+            "insight": "HN 热议：48 分 · 69 评论",
             "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282",
+            "comments": 69,
+            "url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "How to Write with an LLM",
-            "insight": "HN 热议：668 分 · 388 评论",
-            "sentiment": "positive",
-            "comments": 388,
-            "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+            "title": "Big Tech uses guarantees to keep $300B AI exposure off balance sheets",
+            "insight": "HN 热议：10 分 · 1 评论",
+            "sentiment": "neutral",
+            "comments": 1,
+            "url": "https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-20T07:57:33Z",
+    "updated": "2026-09-20T13:15:14Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
