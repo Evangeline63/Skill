@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-19T22:32:35Z",
+    "updated": "2026-09-20T01:58:32Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-19T22:32:35Z",
+    "updated": "2026-09-20T01:58:32Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-19T22:32:35Z",
+    "updated": "2026-09-20T01:58:32Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187453,
-            "stars_today": 187453,
+            "stars": 187450,
+            "stars_today": 187450,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 105239,
-            "stars_today": 105239,
+            "stars": 105248,
+            "stars_today": 105248,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96725,
-            "stars_today": 96725,
+            "stars": 96726,
+            "stars_today": 96726,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 94270,
-            "stars_today": 94270,
+            "stars": 94276,
+            "stars_today": 94276,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 88538,
-            "stars_today": 88538,
+            "stars": 88551,
+            "stars_today": 88551,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "microsoft/AI-For-Beginners",
             "description": "12 Weeks, 24 Lessons, AI for All!",
             "language": "Jupyter Notebook",
-            "stars": 68738,
-            "stars_today": 68738,
+            "stars": 68740,
+            "stars_today": 68740,
             "url": "https://github.com/microsoft/AI-For-Beginners"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-19T22:32:35Z",
+    "updated": "2026-09-20T01:58:32Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-19T22:32:35Z",
+    "updated": "2026-09-20T01:58:32Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-19T22:32:35Z",
+    "updated": "2026-09-20T01:58:32Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "AI-generated posters don’t have to be horrible",
-            "insight": "HN 热议：1255 分 · 703 评论",
+            "insight": "HN 热议：1383 分 · 778 评论",
             "sentiment": "positive",
-            "comments": 703,
+            "comments": 778,
             "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
-            "insight": "HN 热议：593 分 · 228 评论",
-            "sentiment": "positive",
-            "comments": 228,
-            "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
+            "title": "Can you tell which images are AI-generated?",
+            "insight": "HN 热议：47 分 · 45 评论",
+            "sentiment": "neutral",
+            "comments": 45,
+            "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
-            "insight": "HN 热议：347 分 · 159 评论",
+            "title": "How to Write with an LLM",
+            "insight": "HN 热议：628 分 · 374 评论",
             "sentiment": "positive",
-            "comments": 159,
-            "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+            "comments": 374,
+            "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
             "id": 3
         },
         {
             "source": "HackerNews",
             "title": "I think you should almost never use AI to write",
-            "insight": "HN 热议：172 分 · 96 评论",
-            "sentiment": "neutral",
-            "comments": 96,
+            "insight": "HN 热议：234 分 · 121 评论",
+            "sentiment": "positive",
+            "comments": 121,
             "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
-            "insight": "HN 热议：74 分 · 21 评论",
-            "sentiment": "neutral",
-            "comments": 21,
-            "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+            "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
+            "insight": "HN 热议：613 分 · 237 评论",
+            "sentiment": "positive",
+            "comments": 237,
+            "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-19T22:32:35Z",
+    "updated": "2026-09-20T01:58:32Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
