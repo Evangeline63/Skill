@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-20T01:58:32Z",
+    "updated": "2026-09-20T07:57:33Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-20T01:58:32Z",
+    "updated": "2026-09-20T07:57:33Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-20T01:58:32Z",
+    "updated": "2026-09-20T07:57:33Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187450,
-            "stars_today": 187450,
+            "stars": 187453,
+            "stars_today": 187453,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 105248,
-            "stars_today": 105248,
+            "stars": 105265,
+            "stars_today": 105265,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96726,
-            "stars_today": 96726,
+            "stars": 96730,
+            "stars_today": 96730,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 94276,
-            "stars_today": 94276,
+            "stars": 94302,
+            "stars_today": 94302,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 88551,
-            "stars_today": 88551,
+            "stars": 88580,
+            "stars_today": 88580,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "microsoft/AI-For-Beginners",
             "description": "12 Weeks, 24 Lessons, AI for All!",
             "language": "Jupyter Notebook",
-            "stars": 68740,
-            "stars_today": 68740,
+            "stars": 68749,
+            "stars_today": 68749,
             "url": "https://github.com/microsoft/AI-For-Beginners"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-20T01:58:32Z",
+    "updated": "2026-09-20T07:57:33Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-20T01:58:32Z",
+    "updated": "2026-09-20T07:57:33Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-20T01:58:32Z",
+    "updated": "2026-09-20T07:57:33Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "AI-generated posters don’t have to be horrible",
-            "insight": "HN 热议：1383 分 · 778 评论",
-            "sentiment": "positive",
-            "comments": 778,
-            "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+            "title": "Spain Orders Blocks on Archive.today and Its Mirrors",
+            "insight": "HN 热议：43 分 · 18 评论",
+            "sentiment": "neutral",
+            "comments": 18,
+            "url": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Can you tell which images are AI-generated?",
-            "insight": "HN 热议：47 分 · 45 评论",
+            "title": "Orchestrating Claude Code Agents: The Chief of Staff Pattern",
+            "insight": "HN 热议：5 分 · 2 评论",
             "sentiment": "neutral",
-            "comments": 45,
-            "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai/",
+            "comments": 2,
+            "url": "https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "How to Write with an LLM",
-            "insight": "HN 热议：628 分 · 374 评论",
+            "title": "AI-generated posters don’t have to be horrible",
+            "insight": "HN 热议：1551 分 · 825 评论",
             "sentiment": "positive",
-            "comments": 374,
-            "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+            "comments": 825,
+            "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "I think you should almost never use AI to write",
-            "insight": "HN 热议：234 分 · 121 评论",
-            "sentiment": "positive",
-            "comments": 121,
-            "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+            "title": "KDE turns 30 and someone's brought an AI-native desktop proposal",
+            "insight": "HN 热议：5 分 · 0 评论",
+            "sentiment": "neutral",
+            "comments": 0,
+            "url": "https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
-            "insight": "HN 热议：613 分 · 237 评论",
+            "title": "How to Write with an LLM",
+            "insight": "HN 热议：668 分 · 388 评论",
             "sentiment": "positive",
-            "comments": 237,
-            "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
+            "comments": 388,
+            "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-20T01:58:32Z",
+    "updated": "2026-09-20T07:57:33Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
