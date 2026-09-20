@@ -1,49 +1,49 @@
 {
-  "updated": "2026-09-20T19:53:22Z",
+  "updated": "2026-09-20T22:46:06Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "ChatGPT now knows what you do on other websites via ad collector",
-      "insight": "HN 热议：296 分 · 148 评论",
+      "insight": "HN 热议：498 分 · 288 评论",
       "sentiment": "positive",
-      "comments": 148,
+      "comments": 288,
       "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "Pirate Face Rescues LLM Models from Deletion",
-      "insight": "HN 热议：296 分 · 107 评论",
+      "insight": "HN 热议：388 分 · 122 评论",
       "sentiment": "positive",
-      "comments": 107,
+      "comments": 122,
       "url": "https://pirateface.co/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "AI-generated posters don’t have to be horrible",
-      "insight": "HN 热议：1753 分 · 903 评论",
-      "sentiment": "positive",
-      "comments": 903,
-      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+      "title": "Google's Open Agentic Orchestrator",
+      "insight": "HN 热议：3 分 · 0 评论",
+      "sentiment": "neutral",
+      "comments": 0,
+      "url": "https://agentexecutor.io",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "How to Write with an LLM",
-      "insight": "HN 热议：710 分 · 401 评论",
-      "sentiment": "positive",
-      "comments": 401,
-      "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+      "title": "Show HN: A competition for small neural networks that play strategy games",
+      "insight": "HN 热议：15 分 · 3 评论",
+      "sentiment": "neutral",
+      "comments": 3,
+      "url": "https://tinybrains.dev",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Lego Brick Sorting Machine Uses AI to Save Millions from Landfill [video]",
-      "insight": "HN 热议：8 分 · 4 评论",
-      "sentiment": "neutral",
-      "comments": 4,
-      "url": "https://www.youtube.com/watch?v=M0cWcAIeOyU",
+      "title": "AI-generated posters don’t have to be horrible",
+      "insight": "HN 热议：1764 分 · 908 评论",
+      "sentiment": "positive",
+      "comments": 908,
+      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
       "id": 5
     }
   ]
