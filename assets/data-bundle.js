@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-20T13:15:14Z",
+    "updated": "2026-09-20T17:45:36Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-20T13:15:14Z",
+    "updated": "2026-09-20T17:45:36Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-20T13:15:14Z",
+    "updated": "2026-09-20T17:45:36Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187455,
-            "stars_today": 187455,
+            "stars": 187460,
+            "stars_today": 187460,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 105278,
-            "stars_today": 105278,
+            "stars": 105293,
+            "stars_today": 105293,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96735,
-            "stars_today": 96735,
+            "stars": 96740,
+            "stars_today": 96740,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 94311,
-            "stars_today": 94311,
+            "stars": 94332,
+            "stars_today": 94332,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 88608,
-            "stars_today": 88608,
+            "stars": 88622,
+            "stars_today": 88622,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "microsoft/AI-For-Beginners",
             "description": "12 Weeks, 24 Lessons, AI for All!",
             "language": "Jupyter Notebook",
-            "stars": 68754,
-            "stars_today": 68754,
+            "stars": 68756,
+            "stars_today": 68756,
             "url": "https://github.com/microsoft/AI-For-Beginners"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-20T13:15:14Z",
+    "updated": "2026-09-20T17:45:36Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-20T13:15:14Z",
+    "updated": "2026-09-20T17:45:36Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-20T13:15:14Z",
+    "updated": "2026-09-20T17:45:36Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "AI and the Destruction of the Creative Commons",
-            "insight": "HN 热议：135 分 · 93 评论",
+            "title": "Pirate Face Rescues LLM Models from Deletion",
+            "insight": "HN 热议：171 分 · 59 评论",
             "sentiment": "neutral",
-            "comments": 93,
-            "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/",
+            "comments": 59,
+            "url": "https://pirateface.co/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "AI-generated posters don’t have to be horrible",
-            "insight": "HN 热议：1651 分 · 863 评论",
-            "sentiment": "positive",
-            "comments": 863,
-            "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+            "title": "ChatGPT now knows what you do on other websites via ad collector",
+            "insight": "HN 热议：91 分 · 43 评论",
+            "sentiment": "neutral",
+            "comments": 43,
+            "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "How to Write with an LLM",
-            "insight": "HN 热议：682 分 · 396 评论",
+            "title": "AI-generated posters don’t have to be horrible",
+            "insight": "HN 热议：1735 分 · 895 评论",
             "sentiment": "positive",
-            "comments": 396,
-            "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+            "comments": 895,
+            "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "If AI coding is lowering your code quality, you're not managing quality right",
-            "insight": "HN 热议：48 分 · 69 评论",
-            "sentiment": "neutral",
-            "comments": 69,
-            "url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
+            "title": "How to Write with an LLM",
+            "insight": "HN 热议：704 分 · 399 评论",
+            "sentiment": "positive",
+            "comments": 399,
+            "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Big Tech uses guarantees to keep $300B AI exposure off balance sheets",
-            "insight": "HN 热议：10 分 · 1 评论",
+            "title": "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
+            "insight": "HN 热议：6 分 · 0 评论",
             "sentiment": "neutral",
-            "comments": 1,
-            "url": "https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563",
+            "comments": 0,
+            "url": "https://www.wired.com/story/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-20T13:15:14Z",
+    "updated": "2026-09-20T17:45:36Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
