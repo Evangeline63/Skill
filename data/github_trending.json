@@ -1,13 +1,13 @@
 {
-  "updated": "2026-09-20T17:45:36Z",
+  "updated": "2026-09-20T19:53:22Z",
   "repos": [
     {
       "rank": 1,
       "name": "Significant-Gravitas/AutoGPT",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
       "language": "Python",
-      "stars": 187460,
-      "stars_today": 187460,
+      "stars": 187465,
+      "stars_today": 187465,
       "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
@@ -15,8 +15,8 @@
       "name": "rasbt/LLMs-from-scratch",
       "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
       "language": "Jupyter Notebook",
-      "stars": 105293,
-      "stars_today": 105293,
+      "stars": 105297,
+      "stars_today": 105297,
       "url": "https://github.com/rasbt/LLMs-from-scratch"
     },
     {
@@ -24,8 +24,8 @@
       "name": "hacksider/Deep-Live-Cam",
       "description": "real time face swap and one-click video deepfake with only a single image",
       "language": "Python",
-      "stars": 96740,
-      "stars_today": 96740,
+      "stars": 96743,
+      "stars_today": 96743,
       "url": "https://github.com/hacksider/Deep-Live-Cam"
     },
     {
@@ -42,8 +42,8 @@
       "name": "OpenHands/OpenHands",
       "description": "🙌 OpenHands: AI-Driven Development",
       "language": "TypeScript",
-      "stars": 88622,
-      "stars_today": 88622,
+      "stars": 88639,
+      "stars_today": 88639,
       "url": "https://github.com/OpenHands/OpenHands"
     },
     {
@@ -51,8 +51,8 @@
       "name": "microsoft/AI-For-Beginners",
       "description": "12 Weeks, 24 Lessons, AI for All!",
       "language": "Jupyter Notebook",
-      "stars": 68756,
-      "stars_today": 68756,
+      "stars": 68761,
+      "stars_today": 68761,
       "url": "https://github.com/microsoft/AI-For-Beginners"
     }
   ]

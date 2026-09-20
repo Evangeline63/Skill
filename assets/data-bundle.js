@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-20T17:45:36Z",
+    "updated": "2026-09-20T19:53:22Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-20T17:45:36Z",
+    "updated": "2026-09-20T19:53:22Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-20T17:45:36Z",
+    "updated": "2026-09-20T19:53:22Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187460,
-            "stars_today": 187460,
+            "stars": 187465,
+            "stars_today": 187465,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 105293,
-            "stars_today": 105293,
+            "stars": 105297,
+            "stars_today": 105297,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96740,
-            "stars_today": 96740,
+            "stars": 96743,
+            "stars_today": 96743,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 88622,
-            "stars_today": 88622,
+            "stars": 88639,
+            "stars_today": 88639,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "microsoft/AI-For-Beginners",
             "description": "12 Weeks, 24 Lessons, AI for All!",
             "language": "Jupyter Notebook",
-            "stars": 68756,
-            "stars_today": 68756,
+            "stars": 68761,
+            "stars_today": 68761,
             "url": "https://github.com/microsoft/AI-For-Beginners"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-20T17:45:36Z",
+    "updated": "2026-09-20T19:53:22Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-20T17:45:36Z",
+    "updated": "2026-09-20T19:53:22Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-20T17:45:36Z",
+    "updated": "2026-09-20T19:53:22Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Pirate Face Rescues LLM Models from Deletion",
-            "insight": "HN 热议：171 分 · 59 评论",
-            "sentiment": "neutral",
-            "comments": 59,
-            "url": "https://pirateface.co/",
+            "title": "ChatGPT now knows what you do on other websites via ad collector",
+            "insight": "HN 热议：296 分 · 148 评论",
+            "sentiment": "positive",
+            "comments": 148,
+            "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "ChatGPT now knows what you do on other websites via ad collector",
-            "insight": "HN 热议：91 分 · 43 评论",
-            "sentiment": "neutral",
-            "comments": 43,
-            "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
+            "title": "Pirate Face Rescues LLM Models from Deletion",
+            "insight": "HN 热议：296 分 · 107 评论",
+            "sentiment": "positive",
+            "comments": 107,
+            "url": "https://pirateface.co/",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "AI-generated posters don’t have to be horrible",
-            "insight": "HN 热议：1735 分 · 895 评论",
+            "insight": "HN 热议：1753 分 · 903 评论",
             "sentiment": "positive",
-            "comments": 895,
+            "comments": 903,
             "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
             "id": 3
         },
         {
             "source": "HackerNews",
             "title": "How to Write with an LLM",
-            "insight": "HN 热议：704 分 · 399 评论",
+            "insight": "HN 热议：710 分 · 401 评论",
             "sentiment": "positive",
-            "comments": 399,
+            "comments": 401,
             "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
-            "insight": "HN 热议：6 分 · 0 评论",
+            "title": "Lego Brick Sorting Machine Uses AI to Save Millions from Landfill [video]",
+            "insight": "HN 热议：8 分 · 4 评论",
             "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://www.wired.com/story/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
+            "comments": 4,
+            "url": "https://www.youtube.com/watch?v=M0cWcAIeOyU",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-20T17:45:36Z",
+    "updated": "2026-09-20T19:53:22Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
