@@ -1,49 +1,49 @@
 {
-  "updated": "2026-09-21T15:23:36Z",
+  "updated": "2026-09-21T21:17:35Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Meta bans ads for Virginia Woolf play in Spain",
-      "insight": "HN 热议：52 分 · 17 评论",
+      "title": "Transformers Explained Visually",
+      "insight": "HN 热议：39 分 · 4 评论",
       "sentiment": "neutral",
-      "comments": 17,
-      "url": "https://www.theguardian.com/technology/2026/sep/21/meta-ban-virginia-woolf-a-room-of-ones-own-barcelona-teatre-raval",
+      "comments": 4,
+      "url": "https://poloclub.github.io/transformer-explainer/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "M5 Ultra Mac Studio Review: The Dream Mac for Local AI Agents",
-      "insight": "HN 热议：60 分 · 24 评论",
+      "title": "Why does mathmain need an encrypted loader?",
+      "insight": "HN 热议：79 分 · 21 评论",
       "sentiment": "neutral",
-      "comments": 24,
-      "url": "https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/",
+      "comments": 21,
+      "url": "https://safedep.io/mathmain-encrypted-loader/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "AX – Google’s Open Agentic Orchestrator",
-      "insight": "HN 热议：577 分 · 267 评论",
-      "sentiment": "positive",
-      "comments": 267,
-      "url": "https://agentexecutor.io",
+      "title": "The Advisory Group on Mathematics and Artificial Intelligence",
+      "insight": "HN 热议：39 分 · 15 评论",
+      "sentiment": "neutral",
+      "comments": 15,
+      "url": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Don't Use AI to Write",
-      "insight": "HN 热议：59 分 · 25 评论",
+      "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+      "insight": "HN 热议：56 分 · 42 评论",
       "sentiment": "neutral",
-      "comments": 25,
-      "url": "https://paulbakker.io/writing/no-ai-for-writing/",
+      "comments": 42,
+      "url": "https://linear.app/now/ci-bottleneck-reworked",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
-      "insight": "HN 热议：34 分 · 1 评论",
+      "title": "Frontier AI on Your Own Hardware",
+      "insight": "HN 热议：29 分 · 7 评论",
       "sentiment": "neutral",
-      "comments": 1,
-      "url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/",
+      "comments": 7,
+      "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
       "id": 5
     }
   ]

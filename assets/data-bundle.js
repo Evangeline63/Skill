@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-21T15:23:36Z",
+    "updated": "2026-09-21T21:17:35Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-21T15:23:36Z",
+    "updated": "2026-09-21T21:17:35Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-21T15:23:36Z",
+    "updated": "2026-09-21T21:17:35Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187476,
-            "stars_today": 187476,
+            "stars": 187481,
+            "stars_today": 187481,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 105339,
-            "stars_today": 105339,
+            "stars": 105358,
+            "stars_today": 105358,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96755,
-            "stars_today": 96755,
+            "stars": 96756,
+            "stars_today": 96756,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 94383,
-            "stars_today": 94383,
+            "stars": 94409,
+            "stars_today": 94409,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 88717,
-            "stars_today": 88717,
+            "stars": 88736,
+            "stars_today": 88736,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "microsoft/AI-For-Beginners",
             "description": "12 Weeks, 24 Lessons, AI for All!",
             "language": "Jupyter Notebook",
-            "stars": 68784,
-            "stars_today": 68784,
+            "stars": 68792,
+            "stars_today": 68792,
             "url": "https://github.com/microsoft/AI-For-Beginners"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-21T15:23:36Z",
+    "updated": "2026-09-21T21:17:35Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-21T15:23:36Z",
+    "updated": "2026-09-21T21:17:35Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-21T15:23:36Z",
+    "updated": "2026-09-21T21:17:35Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Meta bans ads for Virginia Woolf play in Spain",
-            "insight": "HN 热议：52 分 · 17 评论",
+            "title": "Transformers Explained Visually",
+            "insight": "HN 热议：39 分 · 4 评论",
             "sentiment": "neutral",
-            "comments": 17,
-            "url": "https://www.theguardian.com/technology/2026/sep/21/meta-ban-virginia-woolf-a-room-of-ones-own-barcelona-teatre-raval",
+            "comments": 4,
+            "url": "https://poloclub.github.io/transformer-explainer/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "M5 Ultra Mac Studio Review: The Dream Mac for Local AI Agents",
-            "insight": "HN 热议：60 分 · 24 评论",
+            "title": "Why does mathmain need an encrypted loader?",
+            "insight": "HN 热议：79 分 · 21 评论",
             "sentiment": "neutral",
-            "comments": 24,
-            "url": "https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/",
+            "comments": 21,
+            "url": "https://safedep.io/mathmain-encrypted-loader/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "AX – Google’s Open Agentic Orchestrator",
-            "insight": "HN 热议：577 分 · 267 评论",
-            "sentiment": "positive",
-            "comments": 267,
-            "url": "https://agentexecutor.io",
+            "title": "The Advisory Group on Mathematics and Artificial Intelligence",
+            "insight": "HN 热议：39 分 · 15 评论",
+            "sentiment": "neutral",
+            "comments": 15,
+            "url": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Don't Use AI to Write",
-            "insight": "HN 热议：59 分 · 25 评论",
+            "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+            "insight": "HN 热议：56 分 · 42 评论",
             "sentiment": "neutral",
-            "comments": 25,
-            "url": "https://paulbakker.io/writing/no-ai-for-writing/",
+            "comments": 42,
+            "url": "https://linear.app/now/ci-bottleneck-reworked",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
-            "insight": "HN 热议：34 分 · 1 评论",
+            "title": "Frontier AI on Your Own Hardware",
+            "insight": "HN 热议：29 分 · 7 评论",
             "sentiment": "neutral",
-            "comments": 1,
-            "url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/",
+            "comments": 7,
+            "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-21T15:23:36Z",
+    "updated": "2026-09-21T21:17:35Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
