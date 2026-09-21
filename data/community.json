@@ -1,49 +1,49 @@
 {
-  "updated": "2026-09-20T22:46:06Z",
+  "updated": "2026-09-21T01:58:49Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "ChatGPT now knows what you do on other websites via ad collector",
-      "insight": "HN 热议：498 分 · 288 评论",
-      "sentiment": "positive",
-      "comments": 288,
-      "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
+      "title": "Google's Open Agentic Orchestrator",
+      "insight": "HN 热议：199 分 · 87 评论",
+      "sentiment": "neutral",
+      "comments": 87,
+      "url": "https://agentexecutor.io",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Pirate Face Rescues LLM Models from Deletion",
-      "insight": "HN 热议：388 分 · 122 评论",
+      "title": "ChatGPT now knows what you do on other websites via ad collector",
+      "insight": "HN 热议：607 分 · 320 评论",
       "sentiment": "positive",
-      "comments": 122,
-      "url": "https://pirateface.co/",
+      "comments": 320,
+      "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Google's Open Agentic Orchestrator",
-      "insight": "HN 热议：3 分 · 0 评论",
+      "title": "Amiga Unix, Again",
+      "insight": "HN 热议：18 分 · 6 评论",
       "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://agentexecutor.io",
+      "comments": 6,
+      "url": "https://amigaux.org/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: A competition for small neural networks that play strategy games",
-      "insight": "HN 热议：15 分 · 3 评论",
-      "sentiment": "neutral",
-      "comments": 3,
-      "url": "https://tinybrains.dev",
+      "title": "Pirate Face Rescues LLM Models from Deletion",
+      "insight": "HN 热议：451 分 · 134 评论",
+      "sentiment": "positive",
+      "comments": 134,
+      "url": "https://pirateface.co/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "AI-generated posters don’t have to be horrible",
-      "insight": "HN 热议：1764 分 · 908 评论",
-      "sentiment": "positive",
-      "comments": 908,
-      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+      "title": "DAPO: An Open-source RL System from ByteDance Seed and Tsinghua AIR",
+      "insight": "HN 热议：10 分 · 1 评论",
+      "sentiment": "neutral",
+      "comments": 1,
+      "url": "https://github.com/BytedTsinghua-SIA/DAPO",
       "id": 5
     }
   ]

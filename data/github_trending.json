@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T22:46:06Z",
+  "updated": "2026-09-21T01:58:49Z",
   "repos": [
     {
       "rank": 1,
@@ -15,8 +15,8 @@
       "name": "rasbt/LLMs-from-scratch",
       "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
       "language": "Jupyter Notebook",
-      "stars": 105299,
-      "stars_today": 105299,
+      "stars": 105303,
+      "stars_today": 105303,
       "url": "https://github.com/rasbt/LLMs-from-scratch"
     },
     {
@@ -24,8 +24,8 @@
       "name": "hacksider/Deep-Live-Cam",
       "description": "real time face swap and one-click video deepfake with only a single image",
       "language": "Python",
-      "stars": 96744,
-      "stars_today": 96744,
+      "stars": 96746,
+      "stars_today": 96746,
       "url": "https://github.com/hacksider/Deep-Live-Cam"
     },
     {
@@ -33,8 +33,8 @@
       "name": "thedotmack/claude-mem",
       "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
       "language": "TypeScript",
-      "stars": 94337,
-      "stars_today": 94337,
+      "stars": 94347,
+      "stars_today": 94347,
       "url": "https://github.com/thedotmack/claude-mem"
     },
     {
@@ -42,8 +42,8 @@
       "name": "OpenHands/OpenHands",
       "description": "🙌 OpenHands: AI-Driven Development",
       "language": "TypeScript",
-      "stars": 88645,
-      "stars_today": 88645,
+      "stars": 88653,
+      "stars_today": 88653,
       "url": "https://github.com/OpenHands/OpenHands"
     },
     {
@@ -51,8 +51,8 @@
       "name": "microsoft/AI-For-Beginners",
       "description": "12 Weeks, 24 Lessons, AI for All!",
       "language": "Jupyter Notebook",
-      "stars": 68765,
-      "stars_today": 68765,
+      "stars": 68766,
+      "stars_today": 68766,
       "url": "https://github.com/microsoft/AI-For-Beginners"
     }
   ]

@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-20T22:46:06Z",
+    "updated": "2026-09-21T01:58:49Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-20T22:46:06Z",
+    "updated": "2026-09-21T01:58:49Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,7 +266,7 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-20T22:46:06Z",
+    "updated": "2026-09-21T01:58:49Z",
     "repos": [
         {
             "rank": 1,
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 105299,
-            "stars_today": 105299,
+            "stars": 105303,
+            "stars_today": 105303,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96744,
-            "stars_today": 96744,
+            "stars": 96746,
+            "stars_today": 96746,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 94337,
-            "stars_today": 94337,
+            "stars": 94347,
+            "stars_today": 94347,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 88645,
-            "stars_today": 88645,
+            "stars": 88653,
+            "stars_today": 88653,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "microsoft/AI-For-Beginners",
             "description": "12 Weeks, 24 Lessons, AI for All!",
             "language": "Jupyter Notebook",
-            "stars": 68765,
-            "stars_today": 68765,
+            "stars": 68766,
+            "stars_today": 68766,
             "url": "https://github.com/microsoft/AI-For-Beginners"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-20T22:46:06Z",
+    "updated": "2026-09-21T01:58:49Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-20T22:46:06Z",
+    "updated": "2026-09-21T01:58:49Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-20T22:46:06Z",
+    "updated": "2026-09-21T01:58:49Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "ChatGPT now knows what you do on other websites via ad collector",
-            "insight": "HN 热议：498 分 · 288 评论",
-            "sentiment": "positive",
-            "comments": 288,
-            "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
+            "title": "Google's Open Agentic Orchestrator",
+            "insight": "HN 热议：199 分 · 87 评论",
+            "sentiment": "neutral",
+            "comments": 87,
+            "url": "https://agentexecutor.io",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Pirate Face Rescues LLM Models from Deletion",
-            "insight": "HN 热议：388 分 · 122 评论",
+            "title": "ChatGPT now knows what you do on other websites via ad collector",
+            "insight": "HN 热议：607 分 · 320 评论",
             "sentiment": "positive",
-            "comments": 122,
-            "url": "https://pirateface.co/",
+            "comments": 320,
+            "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Google's Open Agentic Orchestrator",
-            "insight": "HN 热议：3 分 · 0 评论",
+            "title": "Amiga Unix, Again",
+            "insight": "HN 热议：18 分 · 6 评论",
             "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://agentexecutor.io",
+            "comments": 6,
+            "url": "https://amigaux.org/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: A competition for small neural networks that play strategy games",
-            "insight": "HN 热议：15 分 · 3 评论",
-            "sentiment": "neutral",
-            "comments": 3,
-            "url": "https://tinybrains.dev",
+            "title": "Pirate Face Rescues LLM Models from Deletion",
+            "insight": "HN 热议：451 分 · 134 评论",
+            "sentiment": "positive",
+            "comments": 134,
+            "url": "https://pirateface.co/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "AI-generated posters don’t have to be horrible",
-            "insight": "HN 热议：1764 分 · 908 评论",
-            "sentiment": "positive",
-            "comments": 908,
-            "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+            "title": "DAPO: An Open-source RL System from ByteDance Seed and Tsinghua AIR",
+            "insight": "HN 热议：10 分 · 1 评论",
+            "sentiment": "neutral",
+            "comments": 1,
+            "url": "https://github.com/BytedTsinghua-SIA/DAPO",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-20T22:46:06Z",
+    "updated": "2026-09-21T01:58:49Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
