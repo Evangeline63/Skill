@@ -1,49 +1,49 @@
 {
-  "updated": "2026-09-21T01:58:49Z",
+  "updated": "2026-09-21T08:15:57Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Google's Open Agentic Orchestrator",
-      "insight": "HN 热议：199 分 · 87 评论",
-      "sentiment": "neutral",
-      "comments": 87,
+      "title": "AX – Google’s Open Agentic Orchestrator",
+      "insight": "HN 热议：457 分 · 187 评论",
+      "sentiment": "positive",
+      "comments": 187,
       "url": "https://agentexecutor.io",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "ChatGPT now knows what you do on other websites via ad collector",
-      "insight": "HN 热议：607 分 · 320 评论",
-      "sentiment": "positive",
-      "comments": 320,
-      "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
+      "title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
+      "insight": "HN 热议：39 分 · 5 评论",
+      "sentiment": "neutral",
+      "comments": 5,
+      "url": "https://github.com/volotat/mini-AGI/",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "Amiga Unix, Again",
-      "insight": "HN 热议：18 分 · 6 评论",
+      "insight": "HN 热议：82 分 · 26 评论",
       "sentiment": "neutral",
-      "comments": 6,
+      "comments": 26,
       "url": "https://amigaux.org/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Pirate Face Rescues LLM Models from Deletion",
-      "insight": "HN 热议：451 分 · 134 评论",
+      "title": "Spain orders blocks on Archive.today and its mirrors",
+      "insight": "HN 热议：386 分 · 279 评论",
       "sentiment": "positive",
-      "comments": 134,
-      "url": "https://pirateface.co/",
+      "comments": 279,
+      "url": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "DAPO: An Open-source RL System from ByteDance Seed and Tsinghua AIR",
-      "insight": "HN 热议：10 分 · 1 评论",
+      "title": "In September, AI generated code has made up 17.25% of all Linux Kernel patches",
+      "insight": "HN 热议：6 分 · 0 评论",
       "sentiment": "neutral",
-      "comments": 1,
-      "url": "https://github.com/BytedTsinghua-SIA/DAPO",
+      "comments": 0,
+      "url": "https://twitter.com/LundukeJournal/status/2101841277432070210",
       "id": 5
     }
   ]

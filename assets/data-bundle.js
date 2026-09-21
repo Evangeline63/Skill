@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-21T01:58:49Z",
+    "updated": "2026-09-21T08:15:57Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-21T01:58:49Z",
+    "updated": "2026-09-21T08:15:57Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-21T01:58:49Z",
+    "updated": "2026-09-21T08:15:57Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187466,
-            "stars_today": 187466,
+            "stars": 187470,
+            "stars_today": 187470,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 105303,
-            "stars_today": 105303,
+            "stars": 105322,
+            "stars_today": 105322,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96746,
-            "stars_today": 96746,
+            "stars": 96752,
+            "stars_today": 96752,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 94347,
-            "stars_today": 94347,
+            "stars": 94369,
+            "stars_today": 94369,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 88653,
-            "stars_today": 88653,
+            "stars": 88683,
+            "stars_today": 88683,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "microsoft/AI-For-Beginners",
             "description": "12 Weeks, 24 Lessons, AI for All!",
             "language": "Jupyter Notebook",
-            "stars": 68766,
-            "stars_today": 68766,
+            "stars": 68775,
+            "stars_today": 68775,
             "url": "https://github.com/microsoft/AI-For-Beginners"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-21T01:58:49Z",
+    "updated": "2026-09-21T08:15:57Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-21T01:58:49Z",
+    "updated": "2026-09-21T08:15:57Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-21T01:58:49Z",
+    "updated": "2026-09-21T08:15:57Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Google's Open Agentic Orchestrator",
-            "insight": "HN 热议：199 分 · 87 评论",
-            "sentiment": "neutral",
-            "comments": 87,
+            "title": "AX – Google’s Open Agentic Orchestrator",
+            "insight": "HN 热议：457 分 · 187 评论",
+            "sentiment": "positive",
+            "comments": 187,
             "url": "https://agentexecutor.io",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "ChatGPT now knows what you do on other websites via ad collector",
-            "insight": "HN 热议：607 分 · 320 评论",
-            "sentiment": "positive",
-            "comments": 320,
-            "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
+            "title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
+            "insight": "HN 热议：39 分 · 5 评论",
+            "sentiment": "neutral",
+            "comments": 5,
+            "url": "https://github.com/volotat/mini-AGI/",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "Amiga Unix, Again",
-            "insight": "HN 热议：18 分 · 6 评论",
+            "insight": "HN 热议：82 分 · 26 评论",
             "sentiment": "neutral",
-            "comments": 6,
+            "comments": 26,
             "url": "https://amigaux.org/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Pirate Face Rescues LLM Models from Deletion",
-            "insight": "HN 热议：451 分 · 134 评论",
+            "title": "Spain orders blocks on Archive.today and its mirrors",
+            "insight": "HN 热议：386 分 · 279 评论",
             "sentiment": "positive",
-            "comments": 134,
-            "url": "https://pirateface.co/",
+            "comments": 279,
+            "url": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "DAPO: An Open-source RL System from ByteDance Seed and Tsinghua AIR",
-            "insight": "HN 热议：10 分 · 1 评论",
+            "title": "In September, AI generated code has made up 17.25% of all Linux Kernel patches",
+            "insight": "HN 热议：6 分 · 0 评论",
             "sentiment": "neutral",
-            "comments": 1,
-            "url": "https://github.com/BytedTsinghua-SIA/DAPO",
+            "comments": 0,
+            "url": "https://twitter.com/LundukeJournal/status/2101841277432070210",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-21T01:58:49Z",
+    "updated": "2026-09-21T08:15:57Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
