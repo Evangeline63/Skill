@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-22T13:43:07Z",
+    "updated": "2026-09-22T18:22:52Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-22T13:43:07Z",
+    "updated": "2026-09-22T18:22:52Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-22T13:43:07Z",
+    "updated": "2026-09-22T18:22:52Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187485,
-            "stars_today": 187485,
+            "stars": 187492,
+            "stars_today": 187492,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 105385,
-            "stars_today": 105385,
+            "stars": 105397,
+            "stars_today": 105397,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 94454,
-            "stars_today": 94454,
+            "stars": 94467,
+            "stars_today": 94467,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 88810,
-            "stars_today": 88810,
+            "stars": 88846,
+            "stars_today": 88846,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "microsoft/AI-For-Beginners",
             "description": "12 Weeks, 24 Lessons, AI for All!",
             "language": "Jupyter Notebook",
-            "stars": 68854,
-            "stars_today": 68854,
+            "stars": 68870,
+            "stars_today": 68870,
             "url": "https://github.com/microsoft/AI-For-Beginners"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 64131,
-            "stars_today": 64131,
+            "stars": 64183,
+            "stars_today": 64183,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-22T13:43:07Z",
+    "updated": "2026-09-22T18:22:52Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-22T13:43:07Z",
+    "updated": "2026-09-22T18:22:52Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-22T13:43:07Z",
+    "updated": "2026-09-22T18:22:52Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "AI Has No Wisdom and Neither Will You",
-            "insight": "HN 热议：172 分 · 213 评论",
+            "title": "GPT-6 Sol and Luna",
+            "insight": "HN 热议：183 分 · 62 评论",
             "sentiment": "neutral",
-            "comments": 213,
-            "url": "https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/",
+            "comments": 62,
+            "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "I said no and Apple said yes",
-            "insight": "HN 热议：421 分 · 330 评论",
+            "title": "Claude Opus 5.5",
+            "insight": "HN 热议：478 分 · 493 评论",
             "sentiment": "positive",
-            "comments": 330,
-            "url": "https://dbushell.com/2026/09/22/apple-intelligence/",
+            "comments": 493,
+            "url": "https://www.anthropic.com/claude-opus-5-5",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Transformers Explained Visually",
-            "insight": "HN 热议：497 分 · 77 评论",
+            "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+            "insight": "HN 热议：386 分 · 299 评论",
             "sentiment": "positive",
-            "comments": 77,
-            "url": "https://poloclub.github.io/transformer-explainer/",
+            "comments": 299,
+            "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Verda (Finland) raises $189M in Series B",
-            "insight": "HN 热议：58 分 · 21 评论",
+            "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
+            "insight": "HN 热议：74 分 · 31 评论",
             "sentiment": "neutral",
-            "comments": 21,
-            "url": "https://verda.com/blog/what-189m-in-funding-unlocks-for-verda-customers",
+            "comments": 31,
+            "url": "https://artificialanalysis.ai/models/claude-opus-5-5",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "AI Is Antithetical to Learning",
-            "insight": "HN 热议：9 分 · 0 评论",
+            "title": "OpenAI is well positioned to fast-follow Jev",
+            "insight": "HN 热议：171 分 · 124 评论",
             "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://jola.dev/posts/ai-antithetical-learning",
+            "comments": 124,
+            "url": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-22T13:43:07Z",
+    "updated": "2026-09-22T18:22:52Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
