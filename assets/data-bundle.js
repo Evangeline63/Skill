@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-22T07:59:19Z",
+    "updated": "2026-09-22T13:43:07Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-22T07:59:19Z",
+    "updated": "2026-09-22T13:43:07Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-22T07:59:19Z",
+    "updated": "2026-09-22T13:43:07Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187484,
-            "stars_today": 187484,
+            "stars": 187485,
+            "stars_today": 187485,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 105376,
-            "stars_today": 105376,
+            "stars": 105385,
+            "stars_today": 105385,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 94436,
-            "stars_today": 94436,
+            "stars": 94454,
+            "stars_today": 94454,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 88779,
-            "stars_today": 88779,
+            "stars": 88810,
+            "stars_today": 88810,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "microsoft/AI-For-Beginners",
             "description": "12 Weeks, 24 Lessons, AI for All!",
             "language": "Jupyter Notebook",
-            "stars": 68837,
-            "stars_today": 68837,
+            "stars": 68854,
+            "stars_today": 68854,
             "url": "https://github.com/microsoft/AI-For-Beginners"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 64094,
-            "stars_today": 64094,
+            "stars": 64131,
+            "stars_today": 64131,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-22T07:59:19Z",
+    "updated": "2026-09-22T13:43:07Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-22T07:59:19Z",
+    "updated": "2026-09-22T13:43:07Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-22T07:59:19Z",
+    "updated": "2026-09-22T13:43:07Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Transformers Explained Visually",
-            "insight": "HN 热议：362 分 · 59 评论",
-            "sentiment": "positive",
-            "comments": 59,
-            "url": "https://poloclub.github.io/transformer-explainer/",
+            "title": "AI Has No Wisdom and Neither Will You",
+            "insight": "HN 热议：172 分 · 213 评论",
+            "sentiment": "neutral",
+            "comments": 213,
+            "url": "https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
-            "insight": "HN 热议：219 分 · 226 评论",
+            "title": "I said no and Apple said yes",
+            "insight": "HN 热议：421 分 · 330 评论",
             "sentiment": "positive",
-            "comments": 226,
-            "url": "https://linear.app/now/ci-bottleneck-reworked",
+            "comments": 330,
+            "url": "https://dbushell.com/2026/09/22/apple-intelligence/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "The Advisory Group on Mathematics and Artificial Intelligence",
-            "insight": "HN 热议：125 分 · 60 评论",
-            "sentiment": "neutral",
-            "comments": 60,
-            "url": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/",
+            "title": "Transformers Explained Visually",
+            "insight": "HN 热议：497 分 · 77 评论",
+            "sentiment": "positive",
+            "comments": 77,
+            "url": "https://poloclub.github.io/transformer-explainer/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Claude Status – Elevated errors for multiple models",
-            "insight": "HN 热议：96 分 · 75 评论",
+            "title": "Verda (Finland) raises $189M in Series B",
+            "insight": "HN 热议：58 分 · 21 评论",
             "sentiment": "neutral",
-            "comments": 75,
-            "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
+            "comments": 21,
+            "url": "https://verda.com/blog/what-189m-in-funding-unlocks-for-verda-customers",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Python Workers are now generally available",
-            "insight": "HN 热议：219 分 · 36 评论",
-            "sentiment": "positive",
-            "comments": 36,
-            "url": "https://blog.cloudflare.com/python-workers-ga/",
+            "title": "AI Is Antithetical to Learning",
+            "insight": "HN 热议：9 分 · 0 评论",
+            "sentiment": "neutral",
+            "comments": 0,
+            "url": "https://jola.dev/posts/ai-antithetical-learning",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-22T07:59:19Z",
+    "updated": "2026-09-22T13:43:07Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

@@ -1,49 +1,49 @@
 {
-  "updated": "2026-09-22T07:59:19Z",
+  "updated": "2026-09-22T13:43:07Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Transformers Explained Visually",
-      "insight": "HN 热议：362 分 · 59 评论",
-      "sentiment": "positive",
-      "comments": 59,
-      "url": "https://poloclub.github.io/transformer-explainer/",
+      "title": "AI Has No Wisdom and Neither Will You",
+      "insight": "HN 热议：172 分 · 213 评论",
+      "sentiment": "neutral",
+      "comments": 213,
+      "url": "https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
-      "insight": "HN 热议：219 分 · 226 评论",
+      "title": "I said no and Apple said yes",
+      "insight": "HN 热议：421 分 · 330 评论",
       "sentiment": "positive",
-      "comments": 226,
-      "url": "https://linear.app/now/ci-bottleneck-reworked",
+      "comments": 330,
+      "url": "https://dbushell.com/2026/09/22/apple-intelligence/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "The Advisory Group on Mathematics and Artificial Intelligence",
-      "insight": "HN 热议：125 分 · 60 评论",
-      "sentiment": "neutral",
-      "comments": 60,
-      "url": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/",
+      "title": "Transformers Explained Visually",
+      "insight": "HN 热议：497 分 · 77 评论",
+      "sentiment": "positive",
+      "comments": 77,
+      "url": "https://poloclub.github.io/transformer-explainer/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Claude Status – Elevated errors for multiple models",
-      "insight": "HN 热议：96 分 · 75 评论",
+      "title": "Verda (Finland) raises $189M in Series B",
+      "insight": "HN 热议：58 分 · 21 评论",
       "sentiment": "neutral",
-      "comments": 75,
-      "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
+      "comments": 21,
+      "url": "https://verda.com/blog/what-189m-in-funding-unlocks-for-verda-customers",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Python Workers are now generally available",
-      "insight": "HN 热议：219 分 · 36 评论",
-      "sentiment": "positive",
-      "comments": 36,
-      "url": "https://blog.cloudflare.com/python-workers-ga/",
+      "title": "AI Is Antithetical to Learning",
+      "insight": "HN 热议：9 分 · 0 评论",
+      "sentiment": "neutral",
+      "comments": 0,
+      "url": "https://jola.dev/posts/ai-antithetical-learning",
       "id": 5
     }
   ]
