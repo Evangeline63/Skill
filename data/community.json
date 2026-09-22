@@ -1,49 +1,49 @@
 {
-  "updated": "2026-09-22T02:05:33Z",
+  "updated": "2026-09-22T07:59:19Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Claude Status – Elevated errors for multiple models",
-      "insight": "HN 热议：51 分 · 26 评论",
-      "sentiment": "neutral",
-      "comments": 26,
-      "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
+      "title": "Transformers Explained Visually",
+      "insight": "HN 热议：362 分 · 59 评论",
+      "sentiment": "positive",
+      "comments": 59,
+      "url": "https://poloclub.github.io/transformer-explainer/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Transformers Explained Visually",
-      "insight": "HN 热议：209 分 · 37 评论",
+      "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+      "insight": "HN 热议：219 分 · 226 评论",
       "sentiment": "positive",
-      "comments": 37,
-      "url": "https://poloclub.github.io/transformer-explainer/",
+      "comments": 226,
+      "url": "https://linear.app/now/ci-bottleneck-reworked",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
-      "insight": "HN 热议：143 分 · 143 评论",
+      "title": "The Advisory Group on Mathematics and Artificial Intelligence",
+      "insight": "HN 热议：125 分 · 60 评论",
       "sentiment": "neutral",
-      "comments": 143,
-      "url": "https://linear.app/now/ci-bottleneck-reworked",
+      "comments": 60,
+      "url": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "The Advisory Group on Mathematics and Artificial Intelligence",
-      "insight": "HN 热议：88 分 · 42 评论",
+      "title": "Claude Status – Elevated errors for multiple models",
+      "insight": "HN 热议：96 分 · 75 评论",
       "sentiment": "neutral",
-      "comments": 42,
-      "url": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/",
+      "comments": 75,
+      "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Why does mathmain need an encrypted loader?",
-      "insight": "HN 热议：111 分 · 31 评论",
-      "sentiment": "neutral",
-      "comments": 31,
-      "url": "https://safedep.io/mathmain-encrypted-loader/",
+      "title": "Python Workers are now generally available",
+      "insight": "HN 热议：219 分 · 36 评论",
+      "sentiment": "positive",
+      "comments": 36,
+      "url": "https://blog.cloudflare.com/python-workers-ga/",
       "id": 5
     }
   ]

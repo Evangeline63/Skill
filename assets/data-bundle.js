@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-22T02:05:33Z",
+    "updated": "2026-09-22T07:59:19Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-22T02:05:33Z",
+    "updated": "2026-09-22T07:59:19Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-22T02:05:33Z",
+    "updated": "2026-09-22T07:59:19Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187483,
-            "stars_today": 187483,
+            "stars": 187484,
+            "stars_today": 187484,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 105361,
-            "stars_today": 105361,
+            "stars": 105376,
+            "stars_today": 105376,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 94416,
-            "stars_today": 94416,
+            "stars": 94436,
+            "stars_today": 94436,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 88751,
-            "stars_today": 88751,
+            "stars": 88779,
+            "stars_today": 88779,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "microsoft/AI-For-Beginners",
             "description": "12 Weeks, 24 Lessons, AI for All!",
             "language": "Jupyter Notebook",
-            "stars": 68802,
-            "stars_today": 68802,
+            "stars": 68837,
+            "stars_today": 68837,
             "url": "https://github.com/microsoft/AI-For-Beginners"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 64054,
-            "stars_today": 64054,
+            "stars": 64094,
+            "stars_today": 64094,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-22T02:05:33Z",
+    "updated": "2026-09-22T07:59:19Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-22T02:05:33Z",
+    "updated": "2026-09-22T07:59:19Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-22T02:05:33Z",
+    "updated": "2026-09-22T07:59:19Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Claude Status – Elevated errors for multiple models",
-            "insight": "HN 热议：51 分 · 26 评论",
-            "sentiment": "neutral",
-            "comments": 26,
-            "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
+            "title": "Transformers Explained Visually",
+            "insight": "HN 热议：362 分 · 59 评论",
+            "sentiment": "positive",
+            "comments": 59,
+            "url": "https://poloclub.github.io/transformer-explainer/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Transformers Explained Visually",
-            "insight": "HN 热议：209 分 · 37 评论",
+            "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+            "insight": "HN 热议：219 分 · 226 评论",
             "sentiment": "positive",
-            "comments": 37,
-            "url": "https://poloclub.github.io/transformer-explainer/",
+            "comments": 226,
+            "url": "https://linear.app/now/ci-bottleneck-reworked",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
-            "insight": "HN 热议：143 分 · 143 评论",
+            "title": "The Advisory Group on Mathematics and Artificial Intelligence",
+            "insight": "HN 热议：125 分 · 60 评论",
             "sentiment": "neutral",
-            "comments": 143,
-            "url": "https://linear.app/now/ci-bottleneck-reworked",
+            "comments": 60,
+            "url": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "The Advisory Group on Mathematics and Artificial Intelligence",
-            "insight": "HN 热议：88 分 · 42 评论",
+            "title": "Claude Status – Elevated errors for multiple models",
+            "insight": "HN 热议：96 分 · 75 评论",
             "sentiment": "neutral",
-            "comments": 42,
-            "url": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/",
+            "comments": 75,
+            "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Why does mathmain need an encrypted loader?",
-            "insight": "HN 热议：111 分 · 31 评论",
-            "sentiment": "neutral",
-            "comments": 31,
-            "url": "https://safedep.io/mathmain-encrypted-loader/",
+            "title": "Python Workers are now generally available",
+            "insight": "HN 热议：219 分 · 36 评论",
+            "sentiment": "positive",
+            "comments": 36,
+            "url": "https://blog.cloudflare.com/python-workers-ga/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-22T02:05:33Z",
+    "updated": "2026-09-22T07:59:19Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
