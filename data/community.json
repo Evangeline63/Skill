@@ -1,49 +1,49 @@
 {
-  "updated": "2026-09-21T21:17:35Z",
+  "updated": "2026-09-22T02:05:33Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Transformers Explained Visually",
-      "insight": "HN 热议：39 分 · 4 评论",
+      "title": "Claude Status – Elevated errors for multiple models",
+      "insight": "HN 热议：51 分 · 26 评论",
       "sentiment": "neutral",
-      "comments": 4,
-      "url": "https://poloclub.github.io/transformer-explainer/",
+      "comments": 26,
+      "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Why does mathmain need an encrypted loader?",
-      "insight": "HN 热议：79 分 · 21 评论",
-      "sentiment": "neutral",
-      "comments": 21,
-      "url": "https://safedep.io/mathmain-encrypted-loader/",
+      "title": "Transformers Explained Visually",
+      "insight": "HN 热议：209 分 · 37 评论",
+      "sentiment": "positive",
+      "comments": 37,
+      "url": "https://poloclub.github.io/transformer-explainer/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "The Advisory Group on Mathematics and Artificial Intelligence",
-      "insight": "HN 热议：39 分 · 15 评论",
+      "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+      "insight": "HN 热议：143 分 · 143 评论",
       "sentiment": "neutral",
-      "comments": 15,
-      "url": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/",
+      "comments": 143,
+      "url": "https://linear.app/now/ci-bottleneck-reworked",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
-      "insight": "HN 热议：56 分 · 42 评论",
+      "title": "The Advisory Group on Mathematics and Artificial Intelligence",
+      "insight": "HN 热议：88 分 · 42 评论",
       "sentiment": "neutral",
       "comments": 42,
-      "url": "https://linear.app/now/ci-bottleneck-reworked",
+      "url": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Frontier AI on Your Own Hardware",
-      "insight": "HN 热议：29 分 · 7 评论",
+      "title": "Why does mathmain need an encrypted loader?",
+      "insight": "HN 热议：111 分 · 31 评论",
       "sentiment": "neutral",
-      "comments": 7,
-      "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
+      "comments": 31,
+      "url": "https://safedep.io/mathmain-encrypted-loader/",
       "id": 5
     }
   ]

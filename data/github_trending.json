@@ -1,13 +1,13 @@
 {
-  "updated": "2026-09-21T21:17:35Z",
+  "updated": "2026-09-22T02:05:33Z",
   "repos": [
     {
       "rank": 1,
       "name": "Significant-Gravitas/AutoGPT",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
       "language": "Python",
-      "stars": 187481,
-      "stars_today": 187481,
+      "stars": 187483,
+      "stars_today": 187483,
       "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
@@ -15,45 +15,45 @@
       "name": "rasbt/LLMs-from-scratch",
       "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
       "language": "Jupyter Notebook",
-      "stars": 105358,
-      "stars_today": 105358,
+      "stars": 105361,
+      "stars_today": 105361,
       "url": "https://github.com/rasbt/LLMs-from-scratch"
     },
     {
       "rank": 3,
-      "name": "hacksider/Deep-Live-Cam",
-      "description": "real time face swap and one-click video deepfake with only a single image",
-      "language": "Python",
-      "stars": 96756,
-      "stars_today": 96756,
-      "url": "https://github.com/hacksider/Deep-Live-Cam"
-    },
-    {
-      "rank": 4,
       "name": "thedotmack/claude-mem",
       "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
       "language": "TypeScript",
-      "stars": 94409,
-      "stars_today": 94409,
+      "stars": 94416,
+      "stars_today": 94416,
       "url": "https://github.com/thedotmack/claude-mem"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "name": "OpenHands/OpenHands",
       "description": "🙌 OpenHands: AI-Driven Development",
       "language": "TypeScript",
-      "stars": 88736,
-      "stars_today": 88736,
+      "stars": 88751,
+      "stars_today": 88751,
       "url": "https://github.com/OpenHands/OpenHands"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "microsoft/AI-For-Beginners",
       "description": "12 Weeks, 24 Lessons, AI for All!",
       "language": "Jupyter Notebook",
-      "stars": 68792,
-      "stars_today": 68792,
+      "stars": 68802,
+      "stars_today": 68802,
       "url": "https://github.com/microsoft/AI-For-Beginners"
+    },
+    {
+      "rank": 6,
+      "name": "usestrix/strix",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "language": "Python",
+      "stars": 64054,
+      "stars_today": 64054,
+      "url": "https://github.com/usestrix/strix"
     }
   ]
 }

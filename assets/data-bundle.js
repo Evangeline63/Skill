@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-21T21:17:35Z",
+    "updated": "2026-09-22T02:05:33Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-21T21:17:35Z",
+    "updated": "2026-09-22T02:05:33Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-21T21:17:35Z",
+    "updated": "2026-09-22T02:05:33Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187481,
-            "stars_today": 187481,
+            "stars": 187483,
+            "stars_today": 187483,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,50 +282,50 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 105358,
-            "stars_today": 105358,
+            "stars": 105361,
+            "stars_today": 105361,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
             "rank": 3,
-            "name": "hacksider/Deep-Live-Cam",
-            "description": "real time face swap and one-click video deepfake with only a single image",
-            "language": "Python",
-            "stars": 96756,
-            "stars_today": 96756,
-            "url": "https://github.com/hacksider/Deep-Live-Cam"
-        },
-        {
-            "rank": 4,
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 94409,
-            "stars_today": 94409,
+            "stars": 94416,
+            "stars_today": 94416,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
-            "rank": 5,
+            "rank": 4,
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 88736,
-            "stars_today": 88736,
+            "stars": 88751,
+            "stars_today": 88751,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
-            "rank": 6,
+            "rank": 5,
             "name": "microsoft/AI-For-Beginners",
             "description": "12 Weeks, 24 Lessons, AI for All!",
             "language": "Jupyter Notebook",
-            "stars": 68792,
-            "stars_today": 68792,
+            "stars": 68802,
+            "stars_today": 68802,
             "url": "https://github.com/microsoft/AI-For-Beginners"
+        },
+        {
+            "rank": 6,
+            "name": "usestrix/strix",
+            "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+            "language": "Python",
+            "stars": 64054,
+            "stars_today": 64054,
+            "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-21T21:17:35Z",
+    "updated": "2026-09-22T02:05:33Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-21T21:17:35Z",
+    "updated": "2026-09-22T02:05:33Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-21T21:17:35Z",
+    "updated": "2026-09-22T02:05:33Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Transformers Explained Visually",
-            "insight": "HN 热议：39 分 · 4 评论",
+            "title": "Claude Status – Elevated errors for multiple models",
+            "insight": "HN 热议：51 分 · 26 评论",
             "sentiment": "neutral",
-            "comments": 4,
-            "url": "https://poloclub.github.io/transformer-explainer/",
+            "comments": 26,
+            "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Why does mathmain need an encrypted loader?",
-            "insight": "HN 热议：79 分 · 21 评论",
-            "sentiment": "neutral",
-            "comments": 21,
-            "url": "https://safedep.io/mathmain-encrypted-loader/",
+            "title": "Transformers Explained Visually",
+            "insight": "HN 热议：209 分 · 37 评论",
+            "sentiment": "positive",
+            "comments": 37,
+            "url": "https://poloclub.github.io/transformer-explainer/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "The Advisory Group on Mathematics and Artificial Intelligence",
-            "insight": "HN 热议：39 分 · 15 评论",
+            "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+            "insight": "HN 热议：143 分 · 143 评论",
             "sentiment": "neutral",
-            "comments": 15,
-            "url": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/",
+            "comments": 143,
+            "url": "https://linear.app/now/ci-bottleneck-reworked",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
-            "insight": "HN 热议：56 分 · 42 评论",
+            "title": "The Advisory Group on Mathematics and Artificial Intelligence",
+            "insight": "HN 热议：88 分 · 42 评论",
             "sentiment": "neutral",
             "comments": 42,
-            "url": "https://linear.app/now/ci-bottleneck-reworked",
+            "url": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Frontier AI on Your Own Hardware",
-            "insight": "HN 热议：29 分 · 7 评论",
+            "title": "Why does mathmain need an encrypted loader?",
+            "insight": "HN 热议：111 分 · 31 评论",
             "sentiment": "neutral",
-            "comments": 7,
-            "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
+            "comments": 31,
+            "url": "https://safedep.io/mathmain-encrypted-loader/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-21T21:17:35Z",
+    "updated": "2026-09-22T02:05:33Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
