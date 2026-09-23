@@ -1,13 +1,13 @@
 {
-  "updated": "2026-09-22T23:20:08Z",
+  "updated": "2026-09-23T02:04:27Z",
   "repos": [
     {
       "rank": 1,
       "name": "Significant-Gravitas/AutoGPT",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
       "language": "Python",
-      "stars": 187501,
-      "stars_today": 187501,
+      "stars": 187503,
+      "stars_today": 187503,
       "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
@@ -15,8 +15,8 @@
       "name": "rasbt/LLMs-from-scratch",
       "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
       "language": "Jupyter Notebook",
-      "stars": 105402,
-      "stars_today": 105402,
+      "stars": 105403,
+      "stars_today": 105403,
       "url": "https://github.com/rasbt/LLMs-from-scratch"
     },
     {
@@ -24,8 +24,8 @@
       "name": "thedotmack/claude-mem",
       "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
       "language": "TypeScript",
-      "stars": 94480,
-      "stars_today": 94480,
+      "stars": 94489,
+      "stars_today": 94489,
       "url": "https://github.com/thedotmack/claude-mem"
     },
     {
@@ -33,27 +33,27 @@
       "name": "OpenHands/OpenHands",
       "description": "🙌 OpenHands: AI-Driven Development",
       "language": "TypeScript",
-      "stars": 88863,
-      "stars_today": 88863,
+      "stars": 88883,
+      "stars_today": 88883,
       "url": "https://github.com/OpenHands/OpenHands"
     },
     {
       "rank": 5,
-      "name": "microsoft/AI-For-Beginners",
-      "description": "12 Weeks, 24 Lessons, AI for All!",
-      "language": "Jupyter Notebook",
-      "stars": 68879,
-      "stars_today": 68879,
-      "url": "https://github.com/microsoft/AI-For-Beginners"
-    },
-    {
-      "rank": 6,
       "name": "usestrix/strix",
       "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "language": "Python",
-      "stars": 64215,
-      "stars_today": 64215,
+      "stars": 64225,
+      "stars_today": 64225,
       "url": "https://github.com/usestrix/strix"
+    },
+    {
+      "rank": 6,
+      "name": "jingyaogong/minimind",
+      "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+      "language": "Python",
+      "stars": 62200,
+      "stars_today": 62200,
+      "url": "https://github.com/jingyaogong/minimind"
     }
   ]
 }

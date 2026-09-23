@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-22T23:20:08Z",
+    "updated": "2026-09-23T02:04:27Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-22T23:20:08Z",
+    "updated": "2026-09-23T02:04:27Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-22T23:20:08Z",
+    "updated": "2026-09-23T02:04:27Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187501,
-            "stars_today": 187501,
+            "stars": 187503,
+            "stars_today": 187503,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 105402,
-            "stars_today": 105402,
+            "stars": 105403,
+            "stars_today": 105403,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 94480,
-            "stars_today": 94480,
+            "stars": 94489,
+            "stars_today": 94489,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,32 +300,32 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 88863,
-            "stars_today": 88863,
+            "stars": 88883,
+            "stars_today": 88883,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
             "rank": 5,
-            "name": "microsoft/AI-For-Beginners",
-            "description": "12 Weeks, 24 Lessons, AI for All!",
-            "language": "Jupyter Notebook",
-            "stars": 68879,
-            "stars_today": 68879,
-            "url": "https://github.com/microsoft/AI-For-Beginners"
-        },
-        {
-            "rank": 6,
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 64215,
-            "stars_today": 64215,
+            "stars": 64225,
+            "stars_today": 64225,
             "url": "https://github.com/usestrix/strix"
+        },
+        {
+            "rank": 6,
+            "name": "jingyaogong/minimind",
+            "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+            "language": "Python",
+            "stars": 62200,
+            "stars_today": 62200,
+            "url": "https://github.com/jingyaogong/minimind"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-22T23:20:08Z",
+    "updated": "2026-09-23T02:04:27Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-22T23:20:08Z",
+    "updated": "2026-09-23T02:04:27Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-22T23:20:08Z",
+    "updated": "2026-09-23T02:04:27Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "GPT-6 Sol and Luna",
-            "insight": "HN 热议：1028 分 · 547 评论",
+            "insight": "HN 热议：1193 分 · 612 评论",
             "sentiment": "positive",
-            "comments": 547,
+            "comments": 612,
             "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "Claude Opus 5.5",
-            "insight": "HN 热议：1069 分 · 758 评论",
+            "insight": "HN 热议：1215 分 · 817 评论",
             "sentiment": "positive",
-            "comments": 758,
+            "comments": 817,
             "url": "https://www.anthropic.com/claude-opus-5-5",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
-            "insight": "HN 热议：524 分 · 351 评论",
+            "insight": "HN 热议：561 分 · 360 评论",
             "sentiment": "positive",
-            "comments": 351,
+            "comments": 360,
             "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
             "id": 3
         },
         {
             "source": "HackerNews",
             "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
-            "insight": "HN 热议：212 分 · 60 评论",
+            "insight": "HN 热议：236 分 · 72 评论",
             "sentiment": "positive",
-            "comments": 60,
+            "comments": 72,
             "url": "https://artificialanalysis.ai/models/claude-opus-5-5",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Unreal Agent",
-            "insight": "HN 热议：103 分 · 62 评论",
-            "sentiment": "neutral",
-            "comments": 62,
-            "url": "https://unreallabs.ai/blog/unreal-agent/",
+            "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
+            "insight": "HN 热议：430 分 · 221 评论",
+            "sentiment": "positive",
+            "comments": 221,
+            "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-22T23:20:08Z",
+    "updated": "2026-09-23T02:04:27Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

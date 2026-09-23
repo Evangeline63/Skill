@@ -1,49 +1,49 @@
 {
-  "updated": "2026-09-22T23:20:08Z",
+  "updated": "2026-09-23T02:04:27Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "GPT-6 Sol and Luna",
-      "insight": "HN 热议：1028 分 · 547 评论",
+      "insight": "HN 热议：1193 分 · 612 评论",
       "sentiment": "positive",
-      "comments": 547,
+      "comments": 612,
       "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "Claude Opus 5.5",
-      "insight": "HN 热议：1069 分 · 758 评论",
+      "insight": "HN 热议：1215 分 · 817 评论",
       "sentiment": "positive",
-      "comments": 758,
+      "comments": 817,
       "url": "https://www.anthropic.com/claude-opus-5-5",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
-      "insight": "HN 热议：524 分 · 351 评论",
+      "insight": "HN 热议：561 分 · 360 评论",
       "sentiment": "positive",
-      "comments": 351,
+      "comments": 360,
       "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
-      "insight": "HN 热议：212 分 · 60 评论",
+      "insight": "HN 热议：236 分 · 72 评论",
       "sentiment": "positive",
-      "comments": 60,
+      "comments": 72,
       "url": "https://artificialanalysis.ai/models/claude-opus-5-5",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Unreal Agent",
-      "insight": "HN 热议：103 分 · 62 评论",
-      "sentiment": "neutral",
-      "comments": 62,
-      "url": "https://unreallabs.ai/blog/unreal-agent/",
+      "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
+      "insight": "HN 热议：430 分 · 221 评论",
+      "sentiment": "positive",
+      "comments": 221,
+      "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
       "id": 5
     }
   ]
