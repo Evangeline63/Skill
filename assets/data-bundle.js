@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-23T02:04:27Z",
+    "updated": "2026-09-23T08:01:24Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-23T02:04:27Z",
+    "updated": "2026-09-23T08:01:24Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,7 +266,7 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-23T02:04:27Z",
+    "updated": "2026-09-23T08:01:24Z",
     "repos": [
         {
             "rank": 1,
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 105403,
-            "stars_today": 105403,
+            "stars": 105433,
+            "stars_today": 105433,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 94489,
-            "stars_today": 94489,
+            "stars": 94512,
+            "stars_today": 94512,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 88883,
-            "stars_today": 88883,
+            "stars": 88933,
+            "stars_today": 88933,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 64225,
-            "stars_today": 64225,
+            "stars": 64259,
+            "stars_today": 64259,
             "url": "https://github.com/usestrix/strix"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "jingyaogong/minimind",
             "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
             "language": "Python",
-            "stars": 62200,
-            "stars_today": 62200,
+            "stars": 62251,
+            "stars_today": 62251,
             "url": "https://github.com/jingyaogong/minimind"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-23T02:04:27Z",
+    "updated": "2026-09-23T08:01:24Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-23T02:04:27Z",
+    "updated": "2026-09-23T08:01:24Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-23T02:04:27Z",
+    "updated": "2026-09-23T08:01:24Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "GPT-6 Sol and Luna",
-            "insight": "HN 热议：1193 分 · 612 评论",
+            "insight": "HN 热议：1472 分 · 707 评论",
             "sentiment": "positive",
-            "comments": 612,
+            "comments": 707,
             "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "Claude Opus 5.5",
-            "insight": "HN 热议：1215 分 · 817 评论",
+            "insight": "HN 热议：1486 分 · 925 评论",
             "sentiment": "positive",
-            "comments": 817,
+            "comments": 925,
             "url": "https://www.anthropic.com/claude-opus-5-5",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
-            "insight": "HN 热议：561 分 · 360 评论",
+            "insight": "HN 热议：649 分 · 384 评论",
             "sentiment": "positive",
-            "comments": 360,
+            "comments": 384,
             "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
             "id": 3
         },
         {
             "source": "HackerNews",
             "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
-            "insight": "HN 热议：236 分 · 72 评论",
+            "insight": "HN 热议：278 分 · 85 评论",
             "sentiment": "positive",
-            "comments": 72,
+            "comments": 85,
             "url": "https://artificialanalysis.ai/models/claude-opus-5-5",
             "id": 4
         },
         {
             "source": "HackerNews",
             "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
-            "insight": "HN 热议：430 分 · 221 评论",
+            "insight": "HN 热议：613 分 · 301 评论",
             "sentiment": "positive",
-            "comments": 221,
+            "comments": 301,
             "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-23T02:04:27Z",
+    "updated": "2026-09-23T08:01:24Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
