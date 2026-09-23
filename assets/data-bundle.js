@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-23T08:01:24Z",
+    "updated": "2026-09-23T13:54:45Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-23T08:01:24Z",
+    "updated": "2026-09-23T13:54:45Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-23T08:01:24Z",
+    "updated": "2026-09-23T13:54:45Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187503,
-            "stars_today": 187503,
+            "stars": 187508,
+            "stars_today": 187508,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 105433,
-            "stars_today": 105433,
+            "stars": 105454,
+            "stars_today": 105454,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 94512,
-            "stars_today": 94512,
+            "stars": 94532,
+            "stars_today": 94532,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 88933,
-            "stars_today": 88933,
+            "stars": 88966,
+            "stars_today": 88966,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 64259,
-            "stars_today": 64259,
+            "stars": 64299,
+            "stars_today": 64299,
             "url": "https://github.com/usestrix/strix"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "jingyaogong/minimind",
             "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
             "language": "Python",
-            "stars": 62251,
-            "stars_today": 62251,
+            "stars": 62292,
+            "stars_today": 62292,
             "url": "https://github.com/jingyaogong/minimind"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-23T08:01:24Z",
+    "updated": "2026-09-23T13:54:45Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-23T08:01:24Z",
+    "updated": "2026-09-23T13:54:45Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-23T08:01:24Z",
+    "updated": "2026-09-23T13:54:45Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "GPT-6 Sol and Luna",
-            "insight": "HN 热议：1472 分 · 707 评论",
-            "sentiment": "positive",
-            "comments": 707,
-            "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+            "title": "Claude Code reads AGENTS.md only when telemetry is on",
+            "insight": "HN 热议：190 分 · 71 评论",
+            "sentiment": "neutral",
+            "comments": 71,
+            "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Claude Opus 5.5",
-            "insight": "HN 热议：1486 分 · 925 评论",
-            "sentiment": "positive",
-            "comments": 925,
-            "url": "https://www.anthropic.com/claude-opus-5-5",
+            "title": "I Don't Want the Details",
+            "insight": "HN 热议：43 分 · 40 评论",
+            "sentiment": "neutral",
+            "comments": 40,
+            "url": "https://michaelheap.com/i-dont-want-the-details/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
-            "insight": "HN 热议：649 分 · 384 评论",
+            "title": "GPT-6 Sol and Luna",
+            "insight": "HN 热议：1634 分 · 784 评论",
             "sentiment": "positive",
-            "comments": 384,
-            "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
+            "comments": 784,
+            "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
-            "insight": "HN 热议：278 分 · 85 评论",
-            "sentiment": "positive",
-            "comments": 85,
-            "url": "https://artificialanalysis.ai/models/claude-opus-5-5",
+            "title": "OpenAI is enlisting an influencer army to make it look 'good for the world'",
+            "insight": "HN 热议：85 分 · 39 评论",
+            "sentiment": "neutral",
+            "comments": 39,
+            "url": "https://www.businessinsider.com/inside-open-ai-influencer-marketing-strategy-chatgpt-ads-sponsorships-instagram-2026-9",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
-            "insight": "HN 热议：613 分 · 301 评论",
+            "title": "Claude Opus 5.5",
+            "insight": "HN 热议：1645 分 · 1003 评论",
             "sentiment": "positive",
-            "comments": 301,
-            "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
+            "comments": 1003,
+            "url": "https://www.anthropic.com/claude-opus-5-5",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-23T08:01:24Z",
+    "updated": "2026-09-23T13:54:45Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

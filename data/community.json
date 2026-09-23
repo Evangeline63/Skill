@@ -1,49 +1,49 @@
 {
-  "updated": "2026-09-23T08:01:24Z",
+  "updated": "2026-09-23T13:54:45Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "GPT-6 Sol and Luna",
-      "insight": "HN 热议：1472 分 · 707 评论",
-      "sentiment": "positive",
-      "comments": 707,
-      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+      "title": "Claude Code reads AGENTS.md only when telemetry is on",
+      "insight": "HN 热议：190 分 · 71 评论",
+      "sentiment": "neutral",
+      "comments": 71,
+      "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Claude Opus 5.5",
-      "insight": "HN 热议：1486 分 · 925 评论",
-      "sentiment": "positive",
-      "comments": 925,
-      "url": "https://www.anthropic.com/claude-opus-5-5",
+      "title": "I Don't Want the Details",
+      "insight": "HN 热议：43 分 · 40 评论",
+      "sentiment": "neutral",
+      "comments": 40,
+      "url": "https://michaelheap.com/i-dont-want-the-details/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
-      "insight": "HN 热议：649 分 · 384 评论",
+      "title": "GPT-6 Sol and Luna",
+      "insight": "HN 热议：1634 分 · 784 评论",
       "sentiment": "positive",
-      "comments": 384,
-      "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
+      "comments": 784,
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
-      "insight": "HN 热议：278 分 · 85 评论",
-      "sentiment": "positive",
-      "comments": 85,
-      "url": "https://artificialanalysis.ai/models/claude-opus-5-5",
+      "title": "OpenAI is enlisting an influencer army to make it look 'good for the world'",
+      "insight": "HN 热议：85 分 · 39 评论",
+      "sentiment": "neutral",
+      "comments": 39,
+      "url": "https://www.businessinsider.com/inside-open-ai-influencer-marketing-strategy-chatgpt-ads-sponsorships-instagram-2026-9",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
-      "insight": "HN 热议：613 分 · 301 评论",
+      "title": "Claude Opus 5.5",
+      "insight": "HN 热议：1645 分 · 1003 评论",
       "sentiment": "positive",
-      "comments": 301,
-      "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
+      "comments": 1003,
+      "url": "https://www.anthropic.com/claude-opus-5-5",
       "id": 5
     }
   ]
