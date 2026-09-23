@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-23T18:42:09Z",
+    "updated": "2026-09-23T23:15:40Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-23T18:42:09Z",
+    "updated": "2026-09-23T23:15:40Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-23T18:42:09Z",
+    "updated": "2026-09-23T23:15:40Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187515,
-            "stars_today": 187515,
+            "stars": 187517,
+            "stars_today": 187517,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 105463,
-            "stars_today": 105463,
+            "stars": 105470,
+            "stars_today": 105470,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 94545,
-            "stars_today": 94545,
+            "stars": 94562,
+            "stars_today": 94562,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 88983,
-            "stars_today": 88983,
+            "stars": 88994,
+            "stars_today": 88994,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 64338,
-            "stars_today": 64338,
+            "stars": 64380,
+            "stars_today": 64380,
             "url": "https://github.com/usestrix/strix"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "jingyaogong/minimind",
             "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
             "language": "Python",
-            "stars": 62314,
-            "stars_today": 62314,
+            "stars": 62325,
+            "stars_today": 62325,
             "url": "https://github.com/jingyaogong/minimind"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-23T18:42:09Z",
+    "updated": "2026-09-23T23:15:40Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-23T18:42:09Z",
+    "updated": "2026-09-23T23:15:40Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-23T18:42:09Z",
+    "updated": "2026-09-23T23:15:40Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-            "insight": "HN 热议：15 分 · 1 评论",
-            "sentiment": "neutral",
-            "comments": 1,
+            "insight": "HN 热议：403 分 · 437 评论",
+            "sentiment": "positive",
+            "comments": 437,
             "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Gemini 3.8 text-to-speech",
-            "insight": "HN 热议：143 分 · 77 评论",
+            "title": "VSCode's SSH Agent Is Bananas (2025)",
+            "insight": "HN 热议：76 分 · 59 评论",
             "sentiment": "neutral",
-            "comments": 77,
-            "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
+            "comments": 59,
+            "url": "https://fly.io/blog/vscode-ssh-wtf/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "GPT-6 Sol and Luna",
-            "insight": "HN 热议：1691 分 · 811 评论",
-            "sentiment": "positive",
-            "comments": 811,
-            "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+            "title": "Linux support is coming to Snapdragon X2 Series",
+            "insight": "HN 热议：23 分 · 7 评论",
+            "sentiment": "neutral",
+            "comments": 7,
+            "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
-            "insight": "HN 热议：385 分 · 218 评论",
+            "title": "Gemini 3.8 text-to-speech",
+            "insight": "HN 热议：229 分 · 116 评论",
             "sentiment": "positive",
-            "comments": 218,
-            "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
+            "comments": 116,
+            "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Claude Opus 5.5",
-            "insight": "HN 热议：1725 分 · 1052 评论",
-            "sentiment": "positive",
-            "comments": 1052,
-            "url": "https://www.anthropic.com/claude-opus-5-5",
+            "title": "Mercury 2.5 LLM hits 770 tokens per second",
+            "insight": "HN 热议：5 分 · 3 评论",
+            "sentiment": "neutral",
+            "comments": 3,
+            "url": "https://artificialanalysis.ai/models/mercury-2-5",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-23T18:42:09Z",
+    "updated": "2026-09-23T23:15:40Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
