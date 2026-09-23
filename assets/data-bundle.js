@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-23T13:54:45Z",
+    "updated": "2026-09-23T18:42:09Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-23T13:54:45Z",
+    "updated": "2026-09-23T18:42:09Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-23T13:54:45Z",
+    "updated": "2026-09-23T18:42:09Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187508,
-            "stars_today": 187508,
+            "stars": 187515,
+            "stars_today": 187515,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 105454,
-            "stars_today": 105454,
+            "stars": 105463,
+            "stars_today": 105463,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 94532,
-            "stars_today": 94532,
+            "stars": 94545,
+            "stars_today": 94545,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 88966,
-            "stars_today": 88966,
+            "stars": 88983,
+            "stars_today": 88983,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 64299,
-            "stars_today": 64299,
+            "stars": 64338,
+            "stars_today": 64338,
             "url": "https://github.com/usestrix/strix"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "jingyaogong/minimind",
             "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
             "language": "Python",
-            "stars": 62292,
-            "stars_today": 62292,
+            "stars": 62314,
+            "stars_today": 62314,
             "url": "https://github.com/jingyaogong/minimind"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-23T13:54:45Z",
+    "updated": "2026-09-23T18:42:09Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-23T13:54:45Z",
+    "updated": "2026-09-23T18:42:09Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-23T13:54:45Z",
+    "updated": "2026-09-23T18:42:09Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Claude Code reads AGENTS.md only when telemetry is on",
-            "insight": "HN 热议：190 分 · 71 评论",
+            "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+            "insight": "HN 热议：15 分 · 1 评论",
             "sentiment": "neutral",
-            "comments": 71,
-            "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
+            "comments": 1,
+            "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "I Don't Want the Details",
-            "insight": "HN 热议：43 分 · 40 评论",
+            "title": "Gemini 3.8 text-to-speech",
+            "insight": "HN 热议：143 分 · 77 评论",
             "sentiment": "neutral",
-            "comments": 40,
-            "url": "https://michaelheap.com/i-dont-want-the-details/",
+            "comments": 77,
+            "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "GPT-6 Sol and Luna",
-            "insight": "HN 热议：1634 分 · 784 评论",
+            "insight": "HN 热议：1691 分 · 811 评论",
             "sentiment": "positive",
-            "comments": 784,
+            "comments": 811,
             "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "OpenAI is enlisting an influencer army to make it look 'good for the world'",
-            "insight": "HN 热议：85 分 · 39 评论",
-            "sentiment": "neutral",
-            "comments": 39,
-            "url": "https://www.businessinsider.com/inside-open-ai-influencer-marketing-strategy-chatgpt-ads-sponsorships-instagram-2026-9",
+            "title": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
+            "insight": "HN 热议：385 分 · 218 评论",
+            "sentiment": "positive",
+            "comments": 218,
+            "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
             "id": 4
         },
         {
             "source": "HackerNews",
             "title": "Claude Opus 5.5",
-            "insight": "HN 热议：1645 分 · 1003 评论",
+            "insight": "HN 热议：1725 分 · 1052 评论",
             "sentiment": "positive",
-            "comments": 1003,
+            "comments": 1052,
             "url": "https://www.anthropic.com/claude-opus-5-5",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-23T13:54:45Z",
+    "updated": "2026-09-23T18:42:09Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

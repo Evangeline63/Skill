@@ -1,48 +1,48 @@
 {
-  "updated": "2026-09-23T13:54:45Z",
+  "updated": "2026-09-23T18:42:09Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Claude Code reads AGENTS.md only when telemetry is on",
-      "insight": "HN 热议：190 分 · 71 评论",
+      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+      "insight": "HN 热议：15 分 · 1 评论",
       "sentiment": "neutral",
-      "comments": 71,
-      "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
+      "comments": 1,
+      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "I Don't Want the Details",
-      "insight": "HN 热议：43 分 · 40 评论",
+      "title": "Gemini 3.8 text-to-speech",
+      "insight": "HN 热议：143 分 · 77 评论",
       "sentiment": "neutral",
-      "comments": 40,
-      "url": "https://michaelheap.com/i-dont-want-the-details/",
+      "comments": 77,
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "GPT-6 Sol and Luna",
-      "insight": "HN 热议：1634 分 · 784 评论",
+      "insight": "HN 热议：1691 分 · 811 评论",
       "sentiment": "positive",
-      "comments": 784,
+      "comments": 811,
       "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "OpenAI is enlisting an influencer army to make it look 'good for the world'",
-      "insight": "HN 热议：85 分 · 39 评论",
-      "sentiment": "neutral",
-      "comments": 39,
-      "url": "https://www.businessinsider.com/inside-open-ai-influencer-marketing-strategy-chatgpt-ads-sponsorships-instagram-2026-9",
+      "title": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
+      "insight": "HN 热议：385 分 · 218 评论",
+      "sentiment": "positive",
+      "comments": 218,
+      "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
       "id": 4
     },
     {
       "source": "HackerNews",
       "title": "Claude Opus 5.5",
-      "insight": "HN 热议：1645 分 · 1003 评论",
+      "insight": "HN 热议：1725 分 · 1052 评论",
       "sentiment": "positive",
-      "comments": 1003,
+      "comments": 1052,
       "url": "https://www.anthropic.com/claude-opus-5-5",
       "id": 5
     }
