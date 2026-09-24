@@ -1,49 +1,49 @@
 {
-  "updated": "2026-09-24T07:51:59Z",
+  "updated": "2026-09-24T13:51:30Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
-      "insight": "HN 热议：54 分 · 28 评论",
-      "sentiment": "neutral",
-      "comments": 28,
-      "url": "https://transluce.org/agent-activity",
+      "title": "Linux support is coming to Snapdragon X2 Series",
+      "insight": "HN 热议：506 分 · 205 评论",
+      "sentiment": "positive",
+      "comments": 205,
+      "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Linux support is coming to Snapdragon X2 Series",
-      "insight": "HN 热议：356 分 · 149 评论",
+      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+      "insight": "HN 热议：705 分 · 719 评论",
       "sentiment": "positive",
-      "comments": 149,
-      "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
+      "comments": 719,
+      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-      "insight": "HN 热议：624 分 · 638 评论",
+      "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
+      "insight": "HN 热议：384 分 · 204 评论",
       "sentiment": "positive",
-      "comments": 638,
-      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "comments": 204,
+      "url": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "VSCode's SSH Agent Is Bananas (2025)",
-      "insight": "HN 热议：209 分 · 132 评论",
-      "sentiment": "positive",
-      "comments": 132,
-      "url": "https://fly.io/blog/vscode-ssh-wtf/",
+      "title": "OpenAI agent hacked Australian government website, PM says",
+      "insight": "HN 热议：153 分 · 97 评论",
+      "sentiment": "neutral",
+      "comments": 97,
+      "url": "https://www.bbc.com/news/live/cvgl73pxgndwt",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "OpenAI breaches Medicare, Albanese reveals",
-      "insight": "HN 热议：192 分 · 214 评论",
-      "sentiment": "neutral",
-      "comments": 214,
-      "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
+      "title": "VSCode's SSH Agent Is Bananas (2025)",
+      "insight": "HN 热议：266 分 · 162 评论",
+      "sentiment": "positive",
+      "comments": 162,
+      "url": "https://fly.io/blog/vscode-ssh-wtf/",
       "id": 5
     }
   ]

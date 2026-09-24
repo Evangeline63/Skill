@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-24T07:51:59Z",
+    "updated": "2026-09-24T13:51:30Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-24T07:51:59Z",
+    "updated": "2026-09-24T13:51:30Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-24T07:51:59Z",
+    "updated": "2026-09-24T13:51:30Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187514,
-            "stars_today": 187514,
+            "stars": 187523,
+            "stars_today": 187523,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 105487,
-            "stars_today": 105487,
+            "stars": 105496,
+            "stars_today": 105496,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 94575,
-            "stars_today": 94575,
+            "stars": 94599,
+            "stars_today": 94599,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 89025,
-            "stars_today": 89025,
+            "stars": 89059,
+            "stars_today": 89059,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 64441,
-            "stars_today": 64441,
+            "stars": 64500,
+            "stars_today": 64500,
             "url": "https://github.com/usestrix/strix"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "jingyaogong/minimind",
             "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
             "language": "Python",
-            "stars": 62399,
-            "stars_today": 62399,
+            "stars": 62443,
+            "stars_today": 62443,
             "url": "https://github.com/jingyaogong/minimind"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-24T07:51:59Z",
+    "updated": "2026-09-24T13:51:30Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-24T07:51:59Z",
+    "updated": "2026-09-24T13:51:30Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-24T07:51:59Z",
+    "updated": "2026-09-24T13:51:30Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
-            "insight": "HN 热议：54 分 · 28 评论",
-            "sentiment": "neutral",
-            "comments": 28,
-            "url": "https://transluce.org/agent-activity",
+            "title": "Linux support is coming to Snapdragon X2 Series",
+            "insight": "HN 热议：506 分 · 205 评论",
+            "sentiment": "positive",
+            "comments": 205,
+            "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Linux support is coming to Snapdragon X2 Series",
-            "insight": "HN 热议：356 分 · 149 评论",
+            "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+            "insight": "HN 热议：705 分 · 719 评论",
             "sentiment": "positive",
-            "comments": 149,
-            "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
+            "comments": 719,
+            "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-            "insight": "HN 热议：624 分 · 638 评论",
+            "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
+            "insight": "HN 热议：384 分 · 204 评论",
             "sentiment": "positive",
-            "comments": 638,
-            "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+            "comments": 204,
+            "url": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "VSCode's SSH Agent Is Bananas (2025)",
-            "insight": "HN 热议：209 分 · 132 评论",
-            "sentiment": "positive",
-            "comments": 132,
-            "url": "https://fly.io/blog/vscode-ssh-wtf/",
+            "title": "OpenAI agent hacked Australian government website, PM says",
+            "insight": "HN 热议：153 分 · 97 评论",
+            "sentiment": "neutral",
+            "comments": 97,
+            "url": "https://www.bbc.com/news/live/cvgl73pxgndwt",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "OpenAI breaches Medicare, Albanese reveals",
-            "insight": "HN 热议：192 分 · 214 评论",
-            "sentiment": "neutral",
-            "comments": 214,
-            "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
+            "title": "VSCode's SSH Agent Is Bananas (2025)",
+            "insight": "HN 热议：266 分 · 162 评论",
+            "sentiment": "positive",
+            "comments": 162,
+            "url": "https://fly.io/blog/vscode-ssh-wtf/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-24T07:51:59Z",
+    "updated": "2026-09-24T13:51:30Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
