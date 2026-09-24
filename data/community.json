@@ -1,49 +1,49 @@
 {
-  "updated": "2026-09-24T18:43:06Z",
+  "updated": "2026-09-24T23:36:24Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Rails World 2026 Opening Keynote [video]",
-      "insight": "HN 热议：71 分 · 34 评论",
+      "title": "Show HN: Koi.rest – watch some fish and regain your balance",
+      "insight": "HN 热议：89 分 · 21 评论",
       "sentiment": "neutral",
-      "comments": 34,
-      "url": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
+      "comments": 21,
+      "url": "https://koi.rest",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Security auditing in the age of (good enough) AI",
-      "insight": "HN 热议：14 分 · 1 评论",
+      "title": "Rails World 2026 Opening Keynote [video]",
+      "insight": "HN 热议：200 分 · 219 评论",
       "sentiment": "neutral",
-      "comments": 1,
-      "url": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/",
+      "comments": 219,
+      "url": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Air-gapped file encryption as self-decrypting HTML page",
-      "insight": "HN 热议：9 分 · 6 评论",
+      "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
+      "insight": "HN 热议：48 分 · 9 评论",
       "sentiment": "neutral",
-      "comments": 6,
-      "url": "https://cms-sfx-demo.apeleg.com/",
+      "comments": 9,
+      "url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: AgentRun: DSL to turn agents into workflows",
-      "insight": "HN 热议：15 分 · 0 评论",
+      "title": "Security auditing in the age of (good enough) AI",
+      "insight": "HN 热议：49 分 · 2 评论",
       "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://github.com/Parcha-ai/agentrun",
+      "comments": 2,
+      "url": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Coulomb's law remains tricky to test at home",
-      "insight": "HN 热议：23 分 · 16 评论",
-      "sentiment": "neutral",
-      "comments": 16,
-      "url": "https://chillphysicsenjoyer.substack.com/p/coulombs-law-remains-tricky-to-test",
+      "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
+      "insight": "HN 热议：235 分 · 218 评论",
+      "sentiment": "positive",
+      "comments": 218,
+      "url": "https://transluce.org/agent-activity",
       "id": 5
     }
   ]
