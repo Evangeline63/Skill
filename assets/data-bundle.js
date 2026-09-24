@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-24T13:51:30Z",
+    "updated": "2026-09-24T18:43:06Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-24T13:51:30Z",
+    "updated": "2026-09-24T18:43:06Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,7 +266,7 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-24T13:51:30Z",
+    "updated": "2026-09-24T18:43:06Z",
     "repos": [
         {
             "rank": 1,
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 105496,
-            "stars_today": 105496,
+            "stars": 105503,
+            "stars_today": 105503,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 94599,
-            "stars_today": 94599,
+            "stars": 94614,
+            "stars_today": 94614,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 89059,
-            "stars_today": 89059,
+            "stars": 89078,
+            "stars_today": 89078,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 64500,
-            "stars_today": 64500,
+            "stars": 64536,
+            "stars_today": 64536,
             "url": "https://github.com/usestrix/strix"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "jingyaogong/minimind",
             "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
             "language": "Python",
-            "stars": 62443,
-            "stars_today": 62443,
+            "stars": 62465,
+            "stars_today": 62465,
             "url": "https://github.com/jingyaogong/minimind"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-24T13:51:30Z",
+    "updated": "2026-09-24T18:43:06Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-24T13:51:30Z",
+    "updated": "2026-09-24T18:43:06Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-24T13:51:30Z",
+    "updated": "2026-09-24T18:43:06Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Linux support is coming to Snapdragon X2 Series",
-            "insight": "HN 热议：506 分 · 205 评论",
-            "sentiment": "positive",
-            "comments": 205,
-            "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
+            "title": "Rails World 2026 Opening Keynote [video]",
+            "insight": "HN 热议：71 分 · 34 评论",
+            "sentiment": "neutral",
+            "comments": 34,
+            "url": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-            "insight": "HN 热议：705 分 · 719 评论",
-            "sentiment": "positive",
-            "comments": 719,
-            "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+            "title": "Security auditing in the age of (good enough) AI",
+            "insight": "HN 热议：14 分 · 1 评论",
+            "sentiment": "neutral",
+            "comments": 1,
+            "url": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
-            "insight": "HN 热议：384 分 · 204 评论",
-            "sentiment": "positive",
-            "comments": 204,
-            "url": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
+            "title": "Show HN: Air-gapped file encryption as self-decrypting HTML page",
+            "insight": "HN 热议：9 分 · 6 评论",
+            "sentiment": "neutral",
+            "comments": 6,
+            "url": "https://cms-sfx-demo.apeleg.com/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "OpenAI agent hacked Australian government website, PM says",
-            "insight": "HN 热议：153 分 · 97 评论",
+            "title": "Show HN: AgentRun: DSL to turn agents into workflows",
+            "insight": "HN 热议：15 分 · 0 评论",
             "sentiment": "neutral",
-            "comments": 97,
-            "url": "https://www.bbc.com/news/live/cvgl73pxgndwt",
+            "comments": 0,
+            "url": "https://github.com/Parcha-ai/agentrun",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "VSCode's SSH Agent Is Bananas (2025)",
-            "insight": "HN 热议：266 分 · 162 评论",
-            "sentiment": "positive",
-            "comments": 162,
-            "url": "https://fly.io/blog/vscode-ssh-wtf/",
+            "title": "Coulomb's law remains tricky to test at home",
+            "insight": "HN 热议：23 分 · 16 评论",
+            "sentiment": "neutral",
+            "comments": 16,
+            "url": "https://chillphysicsenjoyer.substack.com/p/coulombs-law-remains-tricky-to-test",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-24T13:51:30Z",
+    "updated": "2026-09-24T18:43:06Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
