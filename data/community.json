@@ -1,49 +1,49 @@
 {
-  "updated": "2026-09-25T14:14:19Z",
+  "updated": "2026-09-25T18:59:01Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Nobody Asked for a Crab Chair",
-      "insight": "HN 热议：21 分 · 26 评论",
+      "title": "Yes, Claude can do Nine Loops",
+      "insight": "HN 热议：45 分 · 3 评论",
       "sentiment": "neutral",
-      "comments": 26,
-      "url": "https://newmobility.com/nobody-asked-for-a-crab-chair/",
+      "comments": 3,
+      "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "What About Rails?",
-      "insight": "HN 热议：146 分 · 84 评论",
+      "title": "Ollaya – Ollama for open-source, Jev-style decision models",
+      "insight": "HN 热议：22 分 · 7 评论",
       "sentiment": "neutral",
-      "comments": 84,
-      "url": "https://jardo.dev/what-about-rails",
+      "comments": 7,
+      "url": "https://ollaya.dev/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Agentic CUDA Kernel Optimizer",
-      "insight": "HN 热议：25 分 · 2 评论",
+      "title": "Show HN: Doom or Bloom, map your AI worldview with Jev",
+      "insight": "HN 热议：19 分 · 6 评论",
       "sentiment": "neutral",
-      "comments": 2,
-      "url": "https://github.com/bertaye/agentic-cuda-optimizer",
+      "comments": 6,
+      "url": "https://www.doom-or-bloom.com",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Rails World 2026 Opening Keynote [video]",
-      "insight": "HN 热议：372 分 · 403 评论",
-      "sentiment": "positive",
-      "comments": 403,
-      "url": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
+      "title": "Classified Estimates Show the NSA Is Paying Billions to Test AI Models",
+      "insight": "HN 热议：140 分 · 76 评论",
+      "sentiment": "neutral",
+      "comments": 76,
+      "url": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Opus 5.5 is good at explainer videos",
-      "insight": "HN 热议：320 分 · 175 评论",
-      "sentiment": "positive",
-      "comments": 175,
-      "url": "https://launchvideo.io",
+      "title": "Meta's Muse appears to use an OpenAI model labeled muse-special",
+      "insight": "HN 热议：4 分 · 4 评论",
+      "sentiment": "neutral",
+      "comments": 4,
+      "url": "https://mouse.dev/blog/muse-special/",
       "id": 5
     }
   ]

@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-25T14:14:19Z",
+    "updated": "2026-09-25T18:59:01Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-25T14:14:19Z",
+    "updated": "2026-09-25T18:59:01Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-25T14:14:19Z",
+    "updated": "2026-09-25T18:59:01Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187546,
-            "stars_today": 187546,
+            "stars": 187557,
+            "stars_today": 187557,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 105560,
-            "stars_today": 105560,
+            "stars": 105572,
+            "stars_today": 105572,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 94673,
-            "stars_today": 94673,
+            "stars": 94689,
+            "stars_today": 94689,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 89143,
-            "stars_today": 89143,
+            "stars": 89158,
+            "stars_today": 89158,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 64751,
-            "stars_today": 64751,
+            "stars": 64805,
+            "stars_today": 64805,
             "url": "https://github.com/usestrix/strix"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "jingyaogong/minimind",
             "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
             "language": "Python",
-            "stars": 62541,
-            "stars_today": 62541,
+            "stars": 62561,
+            "stars_today": 62561,
             "url": "https://github.com/jingyaogong/minimind"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-25T14:14:19Z",
+    "updated": "2026-09-25T18:59:01Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-25T14:14:19Z",
+    "updated": "2026-09-25T18:59:01Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-25T14:14:19Z",
+    "updated": "2026-09-25T18:59:01Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Nobody Asked for a Crab Chair",
-            "insight": "HN 热议：21 分 · 26 评论",
+            "title": "Yes, Claude can do Nine Loops",
+            "insight": "HN 热议：45 分 · 3 评论",
             "sentiment": "neutral",
-            "comments": 26,
-            "url": "https://newmobility.com/nobody-asked-for-a-crab-chair/",
+            "comments": 3,
+            "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "What About Rails?",
-            "insight": "HN 热议：146 分 · 84 评论",
+            "title": "Ollaya – Ollama for open-source, Jev-style decision models",
+            "insight": "HN 热议：22 分 · 7 评论",
             "sentiment": "neutral",
-            "comments": 84,
-            "url": "https://jardo.dev/what-about-rails",
+            "comments": 7,
+            "url": "https://ollaya.dev/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Agentic CUDA Kernel Optimizer",
-            "insight": "HN 热议：25 分 · 2 评论",
+            "title": "Show HN: Doom or Bloom, map your AI worldview with Jev",
+            "insight": "HN 热议：19 分 · 6 评论",
             "sentiment": "neutral",
-            "comments": 2,
-            "url": "https://github.com/bertaye/agentic-cuda-optimizer",
+            "comments": 6,
+            "url": "https://www.doom-or-bloom.com",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Rails World 2026 Opening Keynote [video]",
-            "insight": "HN 热议：372 分 · 403 评论",
-            "sentiment": "positive",
-            "comments": 403,
-            "url": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
+            "title": "Classified Estimates Show the NSA Is Paying Billions to Test AI Models",
+            "insight": "HN 热议：140 分 · 76 评论",
+            "sentiment": "neutral",
+            "comments": 76,
+            "url": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Opus 5.5 is good at explainer videos",
-            "insight": "HN 热议：320 分 · 175 评论",
-            "sentiment": "positive",
-            "comments": 175,
-            "url": "https://launchvideo.io",
+            "title": "Meta's Muse appears to use an OpenAI model labeled muse-special",
+            "insight": "HN 热议：4 分 · 4 评论",
+            "sentiment": "neutral",
+            "comments": 4,
+            "url": "https://mouse.dev/blog/muse-special/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-25T14:14:19Z",
+    "updated": "2026-09-25T18:59:01Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
