@@ -1,49 +1,49 @@
 {
-  "updated": "2026-09-25T08:14:53Z",
+  "updated": "2026-09-25T14:14:19Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Rails World 2026 Opening Keynote [video]",
-      "insight": "HN 热议：318 分 · 353 评论",
-      "sentiment": "positive",
-      "comments": 353,
-      "url": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
+      "title": "Nobody Asked for a Crab Chair",
+      "insight": "HN 热议：21 分 · 26 评论",
+      "sentiment": "neutral",
+      "comments": 26,
+      "url": "https://newmobility.com/nobody-asked-for-a-crab-chair/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
-      "insight": "HN 热议：128 分 · 24 评论",
+      "title": "What About Rails?",
+      "insight": "HN 热议：146 分 · 84 评论",
       "sentiment": "neutral",
-      "comments": 24,
-      "url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
+      "comments": 84,
+      "url": "https://jardo.dev/what-about-rails",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Opus 5.5 is good at explainer videos",
-      "insight": "HN 热议：234 分 · 124 评论",
-      "sentiment": "positive",
-      "comments": 124,
-      "url": "https://launchvideo.io",
+      "title": "Show HN: Agentic CUDA Kernel Optimizer",
+      "insight": "HN 热议：25 分 · 2 评论",
+      "sentiment": "neutral",
+      "comments": 2,
+      "url": "https://github.com/bertaye/agentic-cuda-optimizer",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Security auditing in the age of (good enough) AI",
-      "insight": "HN 热议：85 分 · 12 评论",
-      "sentiment": "neutral",
-      "comments": 12,
-      "url": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/",
+      "title": "Rails World 2026 Opening Keynote [video]",
+      "insight": "HN 热议：372 分 · 403 评论",
+      "sentiment": "positive",
+      "comments": 403,
+      "url": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Air-gapped file encryption as self-decrypting HTML page",
-      "insight": "HN 热议：64 分 · 22 评论",
-      "sentiment": "neutral",
-      "comments": 22,
-      "url": "https://cms-sfx-demo.apeleg.com/",
+      "title": "Opus 5.5 is good at explainer videos",
+      "insight": "HN 热议：320 分 · 175 评论",
+      "sentiment": "positive",
+      "comments": 175,
+      "url": "https://launchvideo.io",
       "id": 5
     }
   ]

@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-25T08:14:53Z",
+    "updated": "2026-09-25T14:14:19Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-25T08:14:53Z",
+    "updated": "2026-09-25T14:14:19Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-25T08:14:53Z",
+    "updated": "2026-09-25T14:14:19Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187541,
-            "stars_today": 187541,
+            "stars": 187546,
+            "stars_today": 187546,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 105535,
-            "stars_today": 105535,
+            "stars": 105560,
+            "stars_today": 105560,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 94654,
-            "stars_today": 94654,
+            "stars": 94673,
+            "stars_today": 94673,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 89123,
-            "stars_today": 89123,
+            "stars": 89143,
+            "stars_today": 89143,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 64686,
-            "stars_today": 64686,
+            "stars": 64751,
+            "stars_today": 64751,
             "url": "https://github.com/usestrix/strix"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "jingyaogong/minimind",
             "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
             "language": "Python",
-            "stars": 62515,
-            "stars_today": 62515,
+            "stars": 62541,
+            "stars_today": 62541,
             "url": "https://github.com/jingyaogong/minimind"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-25T08:14:53Z",
+    "updated": "2026-09-25T14:14:19Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-25T08:14:53Z",
+    "updated": "2026-09-25T14:14:19Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-25T08:14:53Z",
+    "updated": "2026-09-25T14:14:19Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Rails World 2026 Opening Keynote [video]",
-            "insight": "HN 热议：318 分 · 353 评论",
-            "sentiment": "positive",
-            "comments": 353,
-            "url": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
+            "title": "Nobody Asked for a Crab Chair",
+            "insight": "HN 热议：21 分 · 26 评论",
+            "sentiment": "neutral",
+            "comments": 26,
+            "url": "https://newmobility.com/nobody-asked-for-a-crab-chair/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
-            "insight": "HN 热议：128 分 · 24 评论",
+            "title": "What About Rails?",
+            "insight": "HN 热议：146 分 · 84 评论",
             "sentiment": "neutral",
-            "comments": 24,
-            "url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
+            "comments": 84,
+            "url": "https://jardo.dev/what-about-rails",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Opus 5.5 is good at explainer videos",
-            "insight": "HN 热议：234 分 · 124 评论",
-            "sentiment": "positive",
-            "comments": 124,
-            "url": "https://launchvideo.io",
+            "title": "Show HN: Agentic CUDA Kernel Optimizer",
+            "insight": "HN 热议：25 分 · 2 评论",
+            "sentiment": "neutral",
+            "comments": 2,
+            "url": "https://github.com/bertaye/agentic-cuda-optimizer",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Security auditing in the age of (good enough) AI",
-            "insight": "HN 热议：85 分 · 12 评论",
-            "sentiment": "neutral",
-            "comments": 12,
-            "url": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/",
+            "title": "Rails World 2026 Opening Keynote [video]",
+            "insight": "HN 热议：372 分 · 403 评论",
+            "sentiment": "positive",
+            "comments": 403,
+            "url": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Air-gapped file encryption as self-decrypting HTML page",
-            "insight": "HN 热议：64 分 · 22 评论",
-            "sentiment": "neutral",
-            "comments": 22,
-            "url": "https://cms-sfx-demo.apeleg.com/",
+            "title": "Opus 5.5 is good at explainer videos",
+            "insight": "HN 热议：320 分 · 175 评论",
+            "sentiment": "positive",
+            "comments": 175,
+            "url": "https://launchvideo.io",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-25T08:14:53Z",
+    "updated": "2026-09-25T14:14:19Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
