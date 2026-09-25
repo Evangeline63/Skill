@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-24T23:36:24Z",
+    "updated": "2026-09-25T02:09:15Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-24T23:36:24Z",
+    "updated": "2026-09-25T02:09:15Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-24T23:36:24Z",
+    "updated": "2026-09-25T02:09:15Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187530,
-            "stars_today": 187530,
+            "stars": 187535,
+            "stars_today": 187535,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 105513,
-            "stars_today": 105513,
+            "stars": 105521,
+            "stars_today": 105521,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 94626,
-            "stars_today": 94626,
+            "stars": 94634,
+            "stars_today": 94634,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 89095,
-            "stars_today": 89095,
+            "stars": 89102,
+            "stars_today": 89102,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 64608,
-            "stars_today": 64608,
+            "stars": 64624,
+            "stars_today": 64624,
             "url": "https://github.com/usestrix/strix"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "jingyaogong/minimind",
             "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
             "language": "Python",
-            "stars": 62481,
-            "stars_today": 62481,
+            "stars": 62487,
+            "stars_today": 62487,
             "url": "https://github.com/jingyaogong/minimind"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-24T23:36:24Z",
+    "updated": "2026-09-25T02:09:15Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-24T23:36:24Z",
+    "updated": "2026-09-25T02:09:15Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-24T23:36:24Z",
+    "updated": "2026-09-25T02:09:15Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Show HN: Koi.rest – watch some fish and regain your balance",
-            "insight": "HN 热议：89 分 · 21 评论",
-            "sentiment": "neutral",
-            "comments": 21,
-            "url": "https://koi.rest",
+            "title": "Rails World 2026 Opening Keynote [video]",
+            "insight": "HN 热议：240 分 · 255 评论",
+            "sentiment": "positive",
+            "comments": 255,
+            "url": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Rails World 2026 Opening Keynote [video]",
-            "insight": "HN 热议：200 分 · 219 评论",
+            "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
+            "insight": "HN 热议：77 分 · 11 评论",
             "sentiment": "neutral",
-            "comments": 219,
-            "url": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
+            "comments": 11,
+            "url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
-            "insight": "HN 热议：48 分 · 9 评论",
+            "title": "Show HN: Koi.rest – watch some fish and regain your balance",
+            "insight": "HN 热议：132 分 · 29 评论",
             "sentiment": "neutral",
-            "comments": 9,
-            "url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
+            "comments": 29,
+            "url": "https://koi.rest",
             "id": 3
         },
         {
             "source": "HackerNews",
             "title": "Security auditing in the age of (good enough) AI",
-            "insight": "HN 热议：49 分 · 2 评论",
+            "insight": "HN 热议：64 分 · 3 评论",
             "sentiment": "neutral",
-            "comments": 2,
+            "comments": 3,
             "url": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/",
             "id": 4
         },
         {
             "source": "HackerNews",
             "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
-            "insight": "HN 热议：235 分 · 218 评论",
+            "insight": "HN 热议：245 分 · 241 评论",
             "sentiment": "positive",
-            "comments": 218,
+            "comments": 241,
             "url": "https://transluce.org/agent-activity",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-24T23:36:24Z",
+    "updated": "2026-09-25T02:09:15Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
