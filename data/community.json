@@ -1,48 +1,48 @@
 {
-  "updated": "2026-09-25T18:59:01Z",
+  "updated": "2026-09-25T23:39:48Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Yes, Claude can do Nine Loops",
-      "insight": "HN 热议：45 分 · 3 评论",
-      "sentiment": "neutral",
-      "comments": 3,
-      "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
+      "title": "Ollaya – Ollama for open-source, Jev-style decision models",
+      "insight": "HN 热议：287 分 · 86 评论",
+      "sentiment": "positive",
+      "comments": 86,
+      "url": "https://ollaya.dev/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Ollaya – Ollama for open-source, Jev-style decision models",
-      "insight": "HN 热议：22 分 · 7 评论",
+      "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+      "insight": "HN 热议：96 分 · 61 评论",
       "sentiment": "neutral",
-      "comments": 7,
-      "url": "https://ollaya.dev/",
+      "comments": 61,
+      "url": "https://swarmtraces.org/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Doom or Bloom, map your AI worldview with Jev",
-      "insight": "HN 热议：19 分 · 6 评论",
-      "sentiment": "neutral",
-      "comments": 6,
-      "url": "https://www.doom-or-bloom.com",
+      "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+      "insight": "HN 热议：353 分 · 653 评论",
+      "sentiment": "positive",
+      "comments": 653,
+      "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Classified Estimates Show the NSA Is Paying Billions to Test AI Models",
-      "insight": "HN 热议：140 分 · 76 评论",
+      "title": "An airport cooled by natural ventilation",
+      "insight": "HN 热议：16 分 · 10 评论",
       "sentiment": "neutral",
-      "comments": 76,
-      "url": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models",
+      "comments": 10,
+      "url": "https://www.theguardian.com/environment/2026/sep/25/didnt-need-air-conditioning-airport-cooled-natural-ventilation-reunion",
       "id": 4
     },
     {
       "source": "HackerNews",
       "title": "Meta's Muse appears to use an OpenAI model labeled muse-special",
-      "insight": "HN 热议：4 分 · 4 评论",
+      "insight": "HN 热议：98 分 · 42 评论",
       "sentiment": "neutral",
-      "comments": 4,
+      "comments": 42,
       "url": "https://mouse.dev/blog/muse-special/",
       "id": 5
     }
