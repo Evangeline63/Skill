@@ -1,49 +1,49 @@
 {
-  "updated": "2026-09-25T02:09:15Z",
+  "updated": "2026-09-25T08:14:53Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Rails World 2026 Opening Keynote [video]",
-      "insight": "HN 热议：240 分 · 255 评论",
+      "insight": "HN 热议：318 分 · 353 评论",
       "sentiment": "positive",
-      "comments": 255,
+      "comments": 353,
       "url": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
-      "insight": "HN 热议：77 分 · 11 评论",
+      "insight": "HN 热议：128 分 · 24 评论",
       "sentiment": "neutral",
-      "comments": 11,
+      "comments": 24,
       "url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Koi.rest – watch some fish and regain your balance",
-      "insight": "HN 热议：132 分 · 29 评论",
-      "sentiment": "neutral",
-      "comments": 29,
-      "url": "https://koi.rest",
+      "title": "Opus 5.5 is good at explainer videos",
+      "insight": "HN 热议：234 分 · 124 评论",
+      "sentiment": "positive",
+      "comments": 124,
+      "url": "https://launchvideo.io",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "Security auditing in the age of (good enough) AI",
-      "insight": "HN 热议：64 分 · 3 评论",
+      "insight": "HN 热议：85 分 · 12 评论",
       "sentiment": "neutral",
-      "comments": 3,
+      "comments": 12,
       "url": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
-      "insight": "HN 热议：245 分 · 241 评论",
-      "sentiment": "positive",
-      "comments": 241,
-      "url": "https://transluce.org/agent-activity",
+      "title": "Show HN: Air-gapped file encryption as self-decrypting HTML page",
+      "insight": "HN 热议：64 分 · 22 评论",
+      "sentiment": "neutral",
+      "comments": 22,
+      "url": "https://cms-sfx-demo.apeleg.com/",
       "id": 5
     }
   ]
