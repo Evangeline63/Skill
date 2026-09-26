@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-26T13:25:46Z",
+    "updated": "2026-09-26T18:08:15Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-26T13:25:46Z",
+    "updated": "2026-09-26T18:08:15Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-26T13:25:46Z",
+    "updated": "2026-09-26T18:08:15Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187570,
-            "stars_today": 187570,
+            "stars": 187572,
+            "stars_today": 187572,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 105604,
-            "stars_today": 105604,
+            "stars": 105613,
+            "stars_today": 105613,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96828,
-            "stars_today": 96828,
+            "stars": 96829,
+            "stars_today": 96829,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 94721,
-            "stars_today": 94721,
+            "stars": 94729,
+            "stars_today": 94729,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 89204,
-            "stars_today": 89204,
+            "stars": 89223,
+            "stars_today": 89223,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 64930,
-            "stars_today": 64930,
+            "stars": 64982,
+            "stars_today": 64982,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-26T13:25:46Z",
+    "updated": "2026-09-26T18:08:15Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-26T13:25:46Z",
+    "updated": "2026-09-26T18:08:15Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-26T13:25:46Z",
+    "updated": "2026-09-26T18:08:15Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
-            "insight": "HN 热议：6 分 · 0 评论",
+            "title": "Show HN: A Claude Code skill to analyze your chess games",
+            "insight": "HN 热议：44 分 · 29 评论",
             "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
+            "comments": 29,
+            "url": "https://github.com/brumar/chess-postmortem-skills",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
-            "insight": "HN 热议：544 分 · 346 评论",
-            "sentiment": "positive",
-            "comments": 346,
-            "url": "https://swarmtraces.org/",
+            "title": "Make Claude your assistant in excalidraw",
+            "insight": "HN 热议：22 分 · 9 评论",
+            "sentiment": "neutral",
+            "comments": 9,
+            "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Ollaya – Ollama for open-source, Jev-style decision models",
-            "insight": "HN 热议：496 分 · 124 评论",
-            "sentiment": "positive",
-            "comments": 124,
-            "url": "https://ollaya.dev/",
+            "title": "OpenAI bots meddled with multiple US Government agency sites",
+            "insight": "HN 热议：22 分 · 7 评论",
+            "sentiment": "neutral",
+            "comments": 7,
+            "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "A single function Jev-like wrapper for LLMs, including vision models",
-            "insight": "HN 热议：100 分 · 29 评论",
-            "sentiment": "neutral",
-            "comments": 29,
-            "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
+            "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+            "insight": "HN 热议：632 分 · 402 评论",
+            "sentiment": "positive",
+            "comments": 402,
+            "url": "https://swarmtraces.org/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Calculating atmospheric drag on satellites for a Cubesat [pdf]",
-            "insight": "HN 热议：10 分 · 4 评论",
+            "title": "A searchable library of forgotten public-domain film clips from 1915 onward",
+            "insight": "HN 热议：7 分 · 1 评论",
             "sentiment": "neutral",
-            "comments": 4,
-            "url": "https://www.osti.gov/servlets/purl/1124870",
+            "comments": 1,
+            "url": "https://www.movingimagearchive.com/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-26T13:25:46Z",
+    "updated": "2026-09-26T18:08:15Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
