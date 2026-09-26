@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-26T18:08:15Z",
+    "updated": "2026-09-26T23:12:54Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-26T18:08:15Z",
+    "updated": "2026-09-26T23:12:54Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-26T18:08:15Z",
+    "updated": "2026-09-26T23:12:54Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187572,
-            "stars_today": 187572,
+            "stars": 187579,
+            "stars_today": 187579,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 105613,
-            "stars_today": 105613,
+            "stars": 105619,
+            "stars_today": 105619,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 94729,
-            "stars_today": 94729,
+            "stars": 94742,
+            "stars_today": 94742,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 89223,
-            "stars_today": 89223,
+            "stars": 89231,
+            "stars_today": 89231,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 64982,
-            "stars_today": 64982,
+            "stars": 65032,
+            "stars_today": 65032,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-26T18:08:15Z",
+    "updated": "2026-09-26T23:12:54Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-26T18:08:15Z",
+    "updated": "2026-09-26T23:12:54Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-26T18:08:15Z",
+    "updated": "2026-09-26T23:12:54Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Show HN: A Claude Code skill to analyze your chess games",
-            "insight": "HN 热议：44 分 · 29 评论",
+            "title": "A searchable library of forgotten public-domain film clips from 1915 onward",
+            "insight": "HN 热议：89 分 · 21 评论",
             "sentiment": "neutral",
-            "comments": 29,
-            "url": "https://github.com/brumar/chess-postmortem-skills",
+            "comments": 21,
+            "url": "https://www.movingimagearchive.com/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Make Claude your assistant in excalidraw",
-            "insight": "HN 热议：22 分 · 9 评论",
+            "title": "Drawgent: Coding agent on a live Excalidraw canvas",
+            "insight": "HN 热议：91 分 · 31 评论",
             "sentiment": "neutral",
-            "comments": 9,
+            "comments": 31,
             "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "OpenAI bots meddled with multiple US Government agency sites",
-            "insight": "HN 热议：22 分 · 7 评论",
+            "title": "How to keep enjoying programming in a world of LLMs",
+            "insight": "HN 热议：134 分 · 190 评论",
             "sentiment": "neutral",
-            "comments": 7,
-            "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
+            "comments": 190,
+            "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
-            "insight": "HN 热议：632 分 · 402 评论",
-            "sentiment": "positive",
-            "comments": 402,
-            "url": "https://swarmtraces.org/",
+            "title": "How I changed teaching after AI managed to do all my homework assignments",
+            "insight": "HN 热议：107 分 · 107 评论",
+            "sentiment": "neutral",
+            "comments": 107,
+            "url": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "A searchable library of forgotten public-domain film clips from 1915 onward",
-            "insight": "HN 热议：7 分 · 1 评论",
+            "title": "Automattic has a new board after failed attempt to put CEO on leave",
+            "insight": "HN 热议：116 分 · 139 评论",
             "sentiment": "neutral",
-            "comments": 1,
-            "url": "https://www.movingimagearchive.com/",
+            "comments": 139,
+            "url": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-26T18:08:15Z",
+    "updated": "2026-09-26T23:12:54Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

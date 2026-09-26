@@ -1,13 +1,13 @@
 {
-  "updated": "2026-09-26T18:08:15Z",
+  "updated": "2026-09-26T23:12:54Z",
   "repos": [
     {
       "rank": 1,
       "name": "Significant-Gravitas/AutoGPT",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
       "language": "Python",
-      "stars": 187572,
-      "stars_today": 187572,
+      "stars": 187579,
+      "stars_today": 187579,
       "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
@@ -15,8 +15,8 @@
       "name": "rasbt/LLMs-from-scratch",
       "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
       "language": "Jupyter Notebook",
-      "stars": 105613,
-      "stars_today": 105613,
+      "stars": 105619,
+      "stars_today": 105619,
       "url": "https://github.com/rasbt/LLMs-from-scratch"
     },
     {
@@ -33,8 +33,8 @@
       "name": "thedotmack/claude-mem",
       "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
       "language": "TypeScript",
-      "stars": 94729,
-      "stars_today": 94729,
+      "stars": 94742,
+      "stars_today": 94742,
       "url": "https://github.com/thedotmack/claude-mem"
     },
     {
@@ -42,8 +42,8 @@
       "name": "OpenHands/OpenHands",
       "description": "🙌 OpenHands: AI-Driven Development",
       "language": "TypeScript",
-      "stars": 89223,
-      "stars_today": 89223,
+      "stars": 89231,
+      "stars_today": 89231,
       "url": "https://github.com/OpenHands/OpenHands"
     },
     {
@@ -51,8 +51,8 @@
       "name": "usestrix/strix",
       "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "language": "Python",
-      "stars": 64982,
-      "stars_today": 64982,
+      "stars": 65032,
+      "stars_today": 65032,
       "url": "https://github.com/usestrix/strix"
     }
   ]
