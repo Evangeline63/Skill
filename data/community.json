@@ -1,49 +1,49 @@
 {
-  "updated": "2026-09-26T02:14:40Z",
+  "updated": "2026-09-26T08:02:41Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
-      "insight": "HN 热议：226 分 · 141 评论",
+      "insight": "HN 热议：441 分 · 272 评论",
       "sentiment": "positive",
-      "comments": 141,
+      "comments": 272,
       "url": "https://swarmtraces.org/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Ollaya – Ollama for open-source, Jev-style decision models",
-      "insight": "HN 热议：340 分 · 99 评论",
-      "sentiment": "positive",
-      "comments": 99,
-      "url": "https://ollaya.dev/",
+      "title": "A single function Jev-like wrapper for LLMs, including vision models",
+      "insight": "HN 热议：53 分 · 7 评论",
+      "sentiment": "neutral",
+      "comments": 7,
+      "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "One Piece of Flock Camera Data Put This Innocent Woman in Jail for 13 Days",
-      "insight": "HN 热议：35 分 · 10 评论",
-      "sentiment": "neutral",
-      "comments": 10,
-      "url": "https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide",
+      "title": "Ollaya – Ollama for open-source, Jev-style decision models",
+      "insight": "HN 热议：426 分 · 114 评论",
+      "sentiment": "positive",
+      "comments": 114,
+      "url": "https://ollaya.dev/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
-      "insight": "HN 热议：391 分 · 703 评论",
-      "sentiment": "positive",
-      "comments": 703,
-      "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+      "title": "How I changed teaching after AI managed to do all my homework assignments",
+      "insight": "HN 热议：54 分 · 17 评论",
+      "sentiment": "neutral",
+      "comments": 17,
+      "url": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "I wrote a ray tracer in Brainfuck",
-      "insight": "HN 热议：34 分 · 12 评论",
+      "title": "A new world airport and its baggage",
+      "insight": "HN 热议：14 分 · 1 评论",
       "sentiment": "neutral",
-      "comments": 12,
-      "url": "https://epestr.com/blog/writing-a-ray-tracer-in-brainfuck/",
+      "comments": 1,
+      "url": "https://computer.rip/2026-09-20-denver-baggage.html",
       "id": 5
     }
   ]

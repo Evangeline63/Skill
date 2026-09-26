@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-26T02:14:40Z",
+    "updated": "2026-09-26T08:02:41Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-26T02:14:40Z",
+    "updated": "2026-09-26T08:02:41Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,7 +266,7 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-26T02:14:40Z",
+    "updated": "2026-09-26T08:02:41Z",
     "repos": [
         {
             "rank": 1,
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 105579,
-            "stars_today": 105579,
+            "stars": 105596,
+            "stars_today": 105596,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 94706,
-            "stars_today": 94706,
+            "stars": 94713,
+            "stars_today": 94713,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 89172,
-            "stars_today": 89172,
+            "stars": 89180,
+            "stars_today": 89180,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 64841,
-            "stars_today": 64841,
+            "stars": 64879,
+            "stars_today": 64879,
             "url": "https://github.com/usestrix/strix"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "jingyaogong/minimind",
             "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
             "language": "Python",
-            "stars": 62584,
-            "stars_today": 62584,
+            "stars": 62603,
+            "stars_today": 62603,
             "url": "https://github.com/jingyaogong/minimind"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-26T02:14:40Z",
+    "updated": "2026-09-26T08:02:41Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-26T02:14:40Z",
+    "updated": "2026-09-26T08:02:41Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-26T02:14:40Z",
+    "updated": "2026-09-26T08:02:41Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
-            "insight": "HN 热议：226 分 · 141 评论",
+            "insight": "HN 热议：441 分 · 272 评论",
             "sentiment": "positive",
-            "comments": 141,
+            "comments": 272,
             "url": "https://swarmtraces.org/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Ollaya – Ollama for open-source, Jev-style decision models",
-            "insight": "HN 热议：340 分 · 99 评论",
-            "sentiment": "positive",
-            "comments": 99,
-            "url": "https://ollaya.dev/",
+            "title": "A single function Jev-like wrapper for LLMs, including vision models",
+            "insight": "HN 热议：53 分 · 7 评论",
+            "sentiment": "neutral",
+            "comments": 7,
+            "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "One Piece of Flock Camera Data Put This Innocent Woman in Jail for 13 Days",
-            "insight": "HN 热议：35 分 · 10 评论",
-            "sentiment": "neutral",
-            "comments": 10,
-            "url": "https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide",
+            "title": "Ollaya – Ollama for open-source, Jev-style decision models",
+            "insight": "HN 热议：426 分 · 114 评论",
+            "sentiment": "positive",
+            "comments": 114,
+            "url": "https://ollaya.dev/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
-            "insight": "HN 热议：391 分 · 703 评论",
-            "sentiment": "positive",
-            "comments": 703,
-            "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+            "title": "How I changed teaching after AI managed to do all my homework assignments",
+            "insight": "HN 热议：54 分 · 17 评论",
+            "sentiment": "neutral",
+            "comments": 17,
+            "url": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "I wrote a ray tracer in Brainfuck",
-            "insight": "HN 热议：34 分 · 12 评论",
+            "title": "A new world airport and its baggage",
+            "insight": "HN 热议：14 分 · 1 评论",
             "sentiment": "neutral",
-            "comments": 12,
-            "url": "https://epestr.com/blog/writing-a-ray-tracer-in-brainfuck/",
+            "comments": 1,
+            "url": "https://computer.rip/2026-09-20-denver-baggage.html",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-26T02:14:40Z",
+    "updated": "2026-09-26T08:02:41Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
