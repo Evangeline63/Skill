@@ -1,49 +1,49 @@
 {
-  "updated": "2026-09-26T08:02:41Z",
+  "updated": "2026-09-26T13:25:46Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
-      "insight": "HN 热议：441 分 · 272 评论",
-      "sentiment": "positive",
-      "comments": 272,
-      "url": "https://swarmtraces.org/",
+      "title": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
+      "insight": "HN 热议：6 分 · 0 评论",
+      "sentiment": "neutral",
+      "comments": 0,
+      "url": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "A single function Jev-like wrapper for LLMs, including vision models",
-      "insight": "HN 热议：53 分 · 7 评论",
-      "sentiment": "neutral",
-      "comments": 7,
-      "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
+      "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+      "insight": "HN 热议：544 分 · 346 评论",
+      "sentiment": "positive",
+      "comments": 346,
+      "url": "https://swarmtraces.org/",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "Ollaya – Ollama for open-source, Jev-style decision models",
-      "insight": "HN 热议：426 分 · 114 评论",
+      "insight": "HN 热议：496 分 · 124 评论",
       "sentiment": "positive",
-      "comments": 114,
+      "comments": 124,
       "url": "https://ollaya.dev/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "How I changed teaching after AI managed to do all my homework assignments",
-      "insight": "HN 热议：54 分 · 17 评论",
+      "title": "A single function Jev-like wrapper for LLMs, including vision models",
+      "insight": "HN 热议：100 分 · 29 评论",
       "sentiment": "neutral",
-      "comments": 17,
-      "url": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
+      "comments": 29,
+      "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "A new world airport and its baggage",
-      "insight": "HN 热议：14 分 · 1 评论",
+      "title": "Calculating atmospheric drag on satellites for a Cubesat [pdf]",
+      "insight": "HN 热议：10 分 · 4 评论",
       "sentiment": "neutral",
-      "comments": 1,
-      "url": "https://computer.rip/2026-09-20-denver-baggage.html",
+      "comments": 4,
+      "url": "https://www.osti.gov/servlets/purl/1124870",
       "id": 5
     }
   ]
