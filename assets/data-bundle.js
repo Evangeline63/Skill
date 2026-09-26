@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-25T23:39:48Z",
+    "updated": "2026-09-26T02:14:40Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-25T23:39:48Z",
+    "updated": "2026-09-26T02:14:40Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-25T23:39:48Z",
+    "updated": "2026-09-26T02:14:40Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187563,
-            "stars_today": 187563,
+            "stars": 187564,
+            "stars_today": 187564,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 105573,
-            "stars_today": 105573,
+            "stars": 105579,
+            "stars_today": 105579,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 94700,
-            "stars_today": 94700,
+            "stars": 94706,
+            "stars_today": 94706,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 89167,
-            "stars_today": 89167,
+            "stars": 89172,
+            "stars_today": 89172,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 64838,
-            "stars_today": 64838,
+            "stars": 64841,
+            "stars_today": 64841,
             "url": "https://github.com/usestrix/strix"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "jingyaogong/minimind",
             "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
             "language": "Python",
-            "stars": 62571,
-            "stars_today": 62571,
+            "stars": 62584,
+            "stars_today": 62584,
             "url": "https://github.com/jingyaogong/minimind"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-25T23:39:48Z",
+    "updated": "2026-09-26T02:14:40Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-25T23:39:48Z",
+    "updated": "2026-09-26T02:14:40Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-25T23:39:48Z",
+    "updated": "2026-09-26T02:14:40Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Ollaya – Ollama for open-source, Jev-style decision models",
-            "insight": "HN 热议：287 分 · 86 评论",
+            "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+            "insight": "HN 热议：226 分 · 141 评论",
             "sentiment": "positive",
-            "comments": 86,
-            "url": "https://ollaya.dev/",
+            "comments": 141,
+            "url": "https://swarmtraces.org/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
-            "insight": "HN 热议：96 分 · 61 评论",
-            "sentiment": "neutral",
-            "comments": 61,
-            "url": "https://swarmtraces.org/",
+            "title": "Ollaya – Ollama for open-source, Jev-style decision models",
+            "insight": "HN 热议：340 分 · 99 评论",
+            "sentiment": "positive",
+            "comments": 99,
+            "url": "https://ollaya.dev/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
-            "insight": "HN 热议：353 分 · 653 评论",
-            "sentiment": "positive",
-            "comments": 653,
-            "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+            "title": "One Piece of Flock Camera Data Put This Innocent Woman in Jail for 13 Days",
+            "insight": "HN 热议：35 分 · 10 评论",
+            "sentiment": "neutral",
+            "comments": 10,
+            "url": "https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "An airport cooled by natural ventilation",
-            "insight": "HN 热议：16 分 · 10 评论",
-            "sentiment": "neutral",
-            "comments": 10,
-            "url": "https://www.theguardian.com/environment/2026/sep/25/didnt-need-air-conditioning-airport-cooled-natural-ventilation-reunion",
+            "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+            "insight": "HN 热议：391 分 · 703 评论",
+            "sentiment": "positive",
+            "comments": 703,
+            "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Meta's Muse appears to use an OpenAI model labeled muse-special",
-            "insight": "HN 热议：98 分 · 42 评论",
+            "title": "I wrote a ray tracer in Brainfuck",
+            "insight": "HN 热议：34 分 · 12 评论",
             "sentiment": "neutral",
-            "comments": 42,
-            "url": "https://mouse.dev/blog/muse-special/",
+            "comments": 12,
+            "url": "https://epestr.com/blog/writing-a-ray-tracer-in-brainfuck/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-25T23:39:48Z",
+    "updated": "2026-09-26T02:14:40Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

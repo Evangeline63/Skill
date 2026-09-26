@@ -1,49 +1,49 @@
 {
-  "updated": "2026-09-25T23:39:48Z",
+  "updated": "2026-09-26T02:14:40Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Ollaya – Ollama for open-source, Jev-style decision models",
-      "insight": "HN 热议：287 分 · 86 评论",
+      "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+      "insight": "HN 热议：226 分 · 141 评论",
       "sentiment": "positive",
-      "comments": 86,
-      "url": "https://ollaya.dev/",
+      "comments": 141,
+      "url": "https://swarmtraces.org/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
-      "insight": "HN 热议：96 分 · 61 评论",
-      "sentiment": "neutral",
-      "comments": 61,
-      "url": "https://swarmtraces.org/",
+      "title": "Ollaya – Ollama for open-source, Jev-style decision models",
+      "insight": "HN 热议：340 分 · 99 评论",
+      "sentiment": "positive",
+      "comments": 99,
+      "url": "https://ollaya.dev/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
-      "insight": "HN 热议：353 分 · 653 评论",
-      "sentiment": "positive",
-      "comments": 653,
-      "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+      "title": "One Piece of Flock Camera Data Put This Innocent Woman in Jail for 13 Days",
+      "insight": "HN 热议：35 分 · 10 评论",
+      "sentiment": "neutral",
+      "comments": 10,
+      "url": "https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "An airport cooled by natural ventilation",
-      "insight": "HN 热议：16 分 · 10 评论",
-      "sentiment": "neutral",
-      "comments": 10,
-      "url": "https://www.theguardian.com/environment/2026/sep/25/didnt-need-air-conditioning-airport-cooled-natural-ventilation-reunion",
+      "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+      "insight": "HN 热议：391 分 · 703 评论",
+      "sentiment": "positive",
+      "comments": 703,
+      "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Meta's Muse appears to use an OpenAI model labeled muse-special",
-      "insight": "HN 热议：98 分 · 42 评论",
+      "title": "I wrote a ray tracer in Brainfuck",
+      "insight": "HN 热议：34 分 · 12 评论",
       "sentiment": "neutral",
-      "comments": 42,
-      "url": "https://mouse.dev/blog/muse-special/",
+      "comments": 12,
+      "url": "https://epestr.com/blog/writing-a-ray-tracer-in-brainfuck/",
       "id": 5
     }
   ]
