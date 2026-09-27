@@ -1,49 +1,49 @@
 {
-  "updated": "2026-09-27T18:43:10Z",
+  "updated": "2026-09-27T23:26:51Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "There are no \"rogue\" AI agents",
-      "insight": "HN 热议：184 分 · 120 评论",
+      "title": "Fragment of oldest known peace treaty found in Turkey",
+      "insight": "HN 热议：48 分 · 8 评论",
       "sentiment": "neutral",
-      "comments": 120,
-      "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
+      "comments": 8,
+      "url": "https://www.livescience.com/archaeology/ancient-egyptians/we-have-found-traces-of-peace-thousands-of-years-old-fragment-of-worlds-oldest-known-peace-treaty-found-in-turkey",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "The Normalization of Inexplicable Failures",
-      "insight": "HN 热议：169 分 · 58 评论",
-      "sentiment": "neutral",
-      "comments": 58,
+      "insight": "HN 热议：231 分 · 95 评论",
+      "sentiment": "positive",
+      "comments": 95,
       "url": "https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: TinyAIArena watch AI agents battle it out",
-      "insight": "HN 热议：47 分 · 29 评论",
+      "title": "Faster prompt lookup drafting in llama.cpp",
+      "insight": "HN 热议：61 分 · 9 评论",
       "sentiment": "neutral",
-      "comments": 29,
-      "url": "https://tinyaiarena.com/",
+      "comments": 9,
+      "url": "https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Fragment of oldest known peace treaty found in Turkey",
-      "insight": "HN 热议：15 分 · 1 评论",
+      "title": "Show HN: TinyAIArena watch AI agents battle it out",
+      "insight": "HN 热议：93 分 · 40 评论",
       "sentiment": "neutral",
-      "comments": 1,
-      "url": "https://www.livescience.com/archaeology/ancient-egyptians/we-have-found-traces-of-peace-thousands-of-years-old-fragment-of-worlds-oldest-known-peace-treaty-found-in-turkey",
+      "comments": 40,
+      "url": "https://tinyaiarena.com/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
-      "insight": "HN 热议：96 分 · 17 评论",
-      "sentiment": "neutral",
-      "comments": 17,
-      "url": "https://www.youtube.com/watch?v=-Nvne3LzBls",
+      "title": "There are no \"rogue\" AI agents",
+      "insight": "HN 热议：320 分 · 235 评论",
+      "sentiment": "positive",
+      "comments": 235,
+      "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
       "id": 5
     }
   ]
