@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-27T08:38:22Z",
+    "updated": "2026-09-27T14:23:10Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-27T08:38:22Z",
+    "updated": "2026-09-27T14:23:10Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-27T08:38:22Z",
+    "updated": "2026-09-27T14:23:10Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187585,
-            "stars_today": 187585,
+            "stars": 187583,
+            "stars_today": 187583,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 105644,
-            "stars_today": 105644,
+            "stars": 105650,
+            "stars_today": 105650,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96835,
-            "stars_today": 96835,
+            "stars": 96837,
+            "stars_today": 96837,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 94763,
-            "stars_today": 94763,
+            "stars": 94772,
+            "stars_today": 94772,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 89260,
-            "stars_today": 89260,
+            "stars": 89282,
+            "stars_today": 89282,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 65088,
-            "stars_today": 65088,
+            "stars": 65139,
+            "stars_today": 65139,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-27T08:38:22Z",
+    "updated": "2026-09-27T14:23:10Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-27T08:38:22Z",
+    "updated": "2026-09-27T14:23:10Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-27T08:38:22Z",
+    "updated": "2026-09-27T14:23:10Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
-            "insight": "HN 热议：50 分 · 8 评论",
+            "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+            "insight": "HN 热议：74 分 · 69 评论",
             "sentiment": "neutral",
-            "comments": 8,
-            "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
+            "comments": 69,
+            "url": "https://arxiv.org/abs/2609.25021",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "A searchable library of forgotten public-domain film clips from 1915 onward",
-            "insight": "HN 热议：164 分 · 26 评论",
-            "sentiment": "neutral",
-            "comments": 26,
-            "url": "https://www.movingimagearchive.com/",
+            "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
+            "insight": "HN 热议：457 分 · 373 评论",
+            "sentiment": "positive",
+            "comments": 373,
+            "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Drawgent: Coding agent on a live Excalidraw canvas",
-            "insight": "HN 热议：143 分 · 41 评论",
+            "title": "A searchable library of forgotten public-domain film clips from 1915 onward",
+            "insight": "HN 热议：190 分 · 26 评论",
             "sentiment": "neutral",
-            "comments": 41,
-            "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+            "comments": 26,
+            "url": "https://www.movingimagearchive.com/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "An agent used DNS to reach an external chatbot",
-            "insight": "HN 热议：87 分 · 91 评论",
-            "sentiment": "neutral",
-            "comments": 91,
-            "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/",
+            "title": "Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election",
+            "insight": "HN 热议：316 分 · 224 评论",
+            "sentiment": "positive",
+            "comments": 224,
+            "url": "https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "How I changed teaching after AI managed to do all my homework assignments",
-            "insight": "HN 热议：196 分 · 178 评论",
+            "title": "An agent used DNS to reach an external chatbot",
+            "insight": "HN 热议：127 分 · 122 评论",
             "sentiment": "neutral",
-            "comments": 178,
-            "url": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
+            "comments": 122,
+            "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-27T08:38:22Z",
+    "updated": "2026-09-27T14:23:10Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
