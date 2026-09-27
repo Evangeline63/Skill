@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-27T14:23:10Z",
+    "updated": "2026-09-27T18:43:10Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-27T14:23:10Z",
+    "updated": "2026-09-27T18:43:10Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-27T14:23:10Z",
+    "updated": "2026-09-27T18:43:10Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187583,
-            "stars_today": 187583,
+            "stars": 187586,
+            "stars_today": 187586,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 105650,
-            "stars_today": 105650,
+            "stars": 105659,
+            "stars_today": 105659,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 94772,
-            "stars_today": 94772,
+            "stars": 94788,
+            "stars_today": 94788,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 89282,
-            "stars_today": 89282,
+            "stars": 89298,
+            "stars_today": 89298,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 65139,
-            "stars_today": 65139,
+            "stars": 65177,
+            "stars_today": 65177,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-27T14:23:10Z",
+    "updated": "2026-09-27T18:43:10Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-27T14:23:10Z",
+    "updated": "2026-09-27T18:43:10Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-27T14:23:10Z",
+    "updated": "2026-09-27T18:43:10Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-            "insight": "HN 热议：74 分 · 69 评论",
+            "title": "There are no \"rogue\" AI agents",
+            "insight": "HN 热议：184 分 · 120 评论",
             "sentiment": "neutral",
-            "comments": 69,
-            "url": "https://arxiv.org/abs/2609.25021",
+            "comments": 120,
+            "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
-            "insight": "HN 热议：457 分 · 373 评论",
-            "sentiment": "positive",
-            "comments": 373,
-            "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
+            "title": "The Normalization of Inexplicable Failures",
+            "insight": "HN 热议：169 分 · 58 评论",
+            "sentiment": "neutral",
+            "comments": 58,
+            "url": "https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "A searchable library of forgotten public-domain film clips from 1915 onward",
-            "insight": "HN 热议：190 分 · 26 评论",
+            "title": "Show HN: TinyAIArena watch AI agents battle it out",
+            "insight": "HN 热议：47 分 · 29 评论",
             "sentiment": "neutral",
-            "comments": 26,
-            "url": "https://www.movingimagearchive.com/",
+            "comments": 29,
+            "url": "https://tinyaiarena.com/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election",
-            "insight": "HN 热议：316 分 · 224 评论",
-            "sentiment": "positive",
-            "comments": 224,
-            "url": "https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/",
+            "title": "Fragment of oldest known peace treaty found in Turkey",
+            "insight": "HN 热议：15 分 · 1 评论",
+            "sentiment": "neutral",
+            "comments": 1,
+            "url": "https://www.livescience.com/archaeology/ancient-egyptians/we-have-found-traces-of-peace-thousands-of-years-old-fragment-of-worlds-oldest-known-peace-treaty-found-in-turkey",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "An agent used DNS to reach an external chatbot",
-            "insight": "HN 热议：127 分 · 122 评论",
+            "title": "SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
+            "insight": "HN 热议：96 分 · 17 评论",
             "sentiment": "neutral",
-            "comments": 122,
-            "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/",
+            "comments": 17,
+            "url": "https://www.youtube.com/watch?v=-Nvne3LzBls",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-27T14:23:10Z",
+    "updated": "2026-09-27T18:43:10Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
