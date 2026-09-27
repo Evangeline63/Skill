@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-26T23:12:54Z",
+    "updated": "2026-09-27T02:08:43Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-26T23:12:54Z",
+    "updated": "2026-09-27T02:08:43Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-26T23:12:54Z",
+    "updated": "2026-09-27T02:08:43Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187579,
-            "stars_today": 187579,
+            "stars": 187583,
+            "stars_today": 187583,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 105619,
-            "stars_today": 105619,
+            "stars": 105625,
+            "stars_today": 105625,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96829,
-            "stars_today": 96829,
+            "stars": 96830,
+            "stars_today": 96830,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 94742,
-            "stars_today": 94742,
+            "stars": 94747,
+            "stars_today": 94747,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 89231,
-            "stars_today": 89231,
+            "stars": 89241,
+            "stars_today": 89241,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 65032,
-            "stars_today": 65032,
+            "stars": 65048,
+            "stars_today": 65048,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-26T23:12:54Z",
+    "updated": "2026-09-27T02:08:43Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-26T23:12:54Z",
+    "updated": "2026-09-27T02:08:43Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-26T23:12:54Z",
+    "updated": "2026-09-27T02:08:43Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "A searchable library of forgotten public-domain film clips from 1915 onward",
-            "insight": "HN 热议：89 分 · 21 评论",
+            "title": "Evolving programming languages in the AI era",
+            "insight": "HN 热议：32 分 · 15 评论",
             "sentiment": "neutral",
-            "comments": 21,
-            "url": "https://www.movingimagearchive.com/",
+            "comments": 15,
+            "url": "https://dashbit.co/blog/evolving-ai-era",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Drawgent: Coding agent on a live Excalidraw canvas",
-            "insight": "HN 热议：91 分 · 31 评论",
+            "title": "A searchable library of forgotten public-domain film clips from 1915 onward",
+            "insight": "HN 热议：116 分 · 25 评论",
             "sentiment": "neutral",
-            "comments": 31,
-            "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+            "comments": 25,
+            "url": "https://www.movingimagearchive.com/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "How to keep enjoying programming in a world of LLMs",
-            "insight": "HN 热议：134 分 · 190 评论",
+            "title": "Drawgent: Coding agent on a live Excalidraw canvas",
+            "insight": "HN 热议：111 分 · 32 评论",
             "sentiment": "neutral",
-            "comments": 190,
-            "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+            "comments": 32,
+            "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "How I changed teaching after AI managed to do all my homework assignments",
-            "insight": "HN 热议：107 分 · 107 评论",
+            "title": "Generate fonts where every LLM token is the same width",
+            "insight": "HN 热议：27 分 · 7 评论",
             "sentiment": "neutral",
-            "comments": 107,
-            "url": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
+            "comments": 7,
+            "url": "https://ampdot.mesh.host/token-space-fonts.html",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Automattic has a new board after failed attempt to put CEO on leave",
-            "insight": "HN 热议：116 分 · 139 评论",
+            "title": "How I changed teaching after AI managed to do all my homework assignments",
+            "insight": "HN 热议：139 分 · 140 评论",
             "sentiment": "neutral",
-            "comments": 139,
-            "url": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/",
+            "comments": 140,
+            "url": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-26T23:12:54Z",
+    "updated": "2026-09-27T02:08:43Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
