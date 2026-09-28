@@ -1,49 +1,49 @@
 {
-  "updated": "2026-09-28T09:01:37Z",
+  "updated": "2026-09-28T18:50:28Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Prompting Claude Opus 5.5",
-      "insight": "HN 热议：40 分 · 31 评论",
+      "title": "Claude Sonnet 5.5",
+      "insight": "HN 热议：170 分 · 117 评论",
       "sentiment": "neutral",
-      "comments": 31,
-      "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
+      "comments": 117,
+      "url": "https://www.anthropic.com/claude-sonnet-5-5",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Thinking fast and slow in AI: The role of metacognition (2021)",
-      "insight": "HN 热议：85 分 · 22 评论",
-      "sentiment": "neutral",
-      "comments": 22,
-      "url": "https://arxiv.org/abs/2110.01834",
+      "title": "Parley: Federated, decentralised chat that speaks plain IRC",
+      "insight": "HN 热议：248 分 · 123 评论",
+      "sentiment": "positive",
+      "comments": 123,
+      "url": "https://git.mills.io/prologic/parley",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Nissan's third generation e-POWER powertrain",
-      "insight": "HN 热议：45 分 · 51 评论",
+      "title": "The Teen Portraits That Captivated Sofia Coppola",
+      "insight": "HN 热议：8 分 · 1 评论",
       "sentiment": "neutral",
-      "comments": 51,
-      "url": "https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/",
+      "comments": 1,
+      "url": "https://www.newyorker.com/culture/photo-booth/the-teen-portraits-that-captivated-sofia-coppola",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Fragment of oldest known peace treaty found in Turkey",
-      "insight": "HN 热议：88 分 · 11 评论",
+      "title": "I made a visual workspace for AI Automations",
+      "insight": "HN 热议：9 分 · 4 评论",
       "sentiment": "neutral",
-      "comments": 11,
-      "url": "https://www.livescience.com/archaeology/ancient-egyptians/we-have-found-traces-of-peace-thousands-of-years-old-fragment-of-worlds-oldest-known-peace-treaty-found-in-turkey",
+      "comments": 4,
+      "url": "https://www.biom.dev/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Faster prompt lookup drafting in llama.cpp",
-      "insight": "HN 热议：77 分 · 12 评论",
+      "title": "Cf: The Agentic CLI for the Cloudflare API",
+      "insight": "HN 热议：38 分 · 15 评论",
       "sentiment": "neutral",
-      "comments": 12,
-      "url": "https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/",
+      "comments": 15,
+      "url": "https://blog.cloudflare.com/cloudflare-cf-cli-launch/",
       "id": 5
     }
   ]

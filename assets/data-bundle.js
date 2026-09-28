@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-28T09:01:37Z",
+    "updated": "2026-09-28T18:50:28Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-28T09:01:37Z",
+    "updated": "2026-09-28T18:50:28Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-28T09:01:37Z",
+    "updated": "2026-09-28T18:50:28Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187592,
-            "stars_today": 187592,
+            "stars": 187596,
+            "stars_today": 187596,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 105684,
-            "stars_today": 105684,
+            "stars": 105719,
+            "stars_today": 105719,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96854,
-            "stars_today": 96854,
+            "stars": 96862,
+            "stars_today": 96862,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 94818,
-            "stars_today": 94818,
+            "stars": 94837,
+            "stars_today": 94837,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 89341,
-            "stars_today": 89341,
+            "stars": 89396,
+            "stars_today": 89396,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 65291,
-            "stars_today": 65291,
+            "stars": 65369,
+            "stars_today": 65369,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-28T09:01:37Z",
+    "updated": "2026-09-28T18:50:28Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-28T09:01:37Z",
+    "updated": "2026-09-28T18:50:28Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-28T09:01:37Z",
+    "updated": "2026-09-28T18:50:28Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Prompting Claude Opus 5.5",
-            "insight": "HN 热议：40 分 · 31 评论",
+            "title": "Claude Sonnet 5.5",
+            "insight": "HN 热议：170 分 · 117 评论",
             "sentiment": "neutral",
-            "comments": 31,
-            "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
+            "comments": 117,
+            "url": "https://www.anthropic.com/claude-sonnet-5-5",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Thinking fast and slow in AI: The role of metacognition (2021)",
-            "insight": "HN 热议：85 分 · 22 评论",
-            "sentiment": "neutral",
-            "comments": 22,
-            "url": "https://arxiv.org/abs/2110.01834",
+            "title": "Parley: Federated, decentralised chat that speaks plain IRC",
+            "insight": "HN 热议：248 分 · 123 评论",
+            "sentiment": "positive",
+            "comments": 123,
+            "url": "https://git.mills.io/prologic/parley",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Nissan's third generation e-POWER powertrain",
-            "insight": "HN 热议：45 分 · 51 评论",
+            "title": "The Teen Portraits That Captivated Sofia Coppola",
+            "insight": "HN 热议：8 分 · 1 评论",
             "sentiment": "neutral",
-            "comments": 51,
-            "url": "https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/",
+            "comments": 1,
+            "url": "https://www.newyorker.com/culture/photo-booth/the-teen-portraits-that-captivated-sofia-coppola",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Fragment of oldest known peace treaty found in Turkey",
-            "insight": "HN 热议：88 分 · 11 评论",
+            "title": "I made a visual workspace for AI Automations",
+            "insight": "HN 热议：9 分 · 4 评论",
             "sentiment": "neutral",
-            "comments": 11,
-            "url": "https://www.livescience.com/archaeology/ancient-egyptians/we-have-found-traces-of-peace-thousands-of-years-old-fragment-of-worlds-oldest-known-peace-treaty-found-in-turkey",
+            "comments": 4,
+            "url": "https://www.biom.dev/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Faster prompt lookup drafting in llama.cpp",
-            "insight": "HN 热议：77 分 · 12 评论",
+            "title": "Cf: The Agentic CLI for the Cloudflare API",
+            "insight": "HN 热议：38 分 · 15 评论",
             "sentiment": "neutral",
-            "comments": 12,
-            "url": "https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/",
+            "comments": 15,
+            "url": "https://blog.cloudflare.com/cloudflare-cf-cli-launch/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-28T09:01:37Z",
+    "updated": "2026-09-28T18:50:28Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
