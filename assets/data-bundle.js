@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-28T02:13:15Z",
+    "updated": "2026-09-28T09:01:37Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-28T02:13:15Z",
+    "updated": "2026-09-28T09:01:37Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-28T02:13:15Z",
+    "updated": "2026-09-28T09:01:37Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187594,
-            "stars_today": 187594,
+            "stars": 187592,
+            "stars_today": 187592,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 105668,
-            "stars_today": 105668,
+            "stars": 105684,
+            "stars_today": 105684,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96844,
-            "stars_today": 96844,
+            "stars": 96854,
+            "stars_today": 96854,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 94803,
-            "stars_today": 94803,
+            "stars": 94818,
+            "stars_today": 94818,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 89320,
-            "stars_today": 89320,
+            "stars": 89341,
+            "stars_today": 89341,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 65237,
-            "stars_today": 65237,
+            "stars": 65291,
+            "stars_today": 65291,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-28T02:13:15Z",
+    "updated": "2026-09-28T09:01:37Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-28T02:13:15Z",
+    "updated": "2026-09-28T09:01:37Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-28T02:13:15Z",
+    "updated": "2026-09-28T09:01:37Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Show HN: Panda, the world's first personal AI computer",
-            "insight": "HN 热议：4 分 · 5 评论",
+            "title": "Prompting Claude Opus 5.5",
+            "insight": "HN 热议：40 分 · 31 评论",
             "sentiment": "neutral",
-            "comments": 5,
-            "url": "https://pandax1.com",
+            "comments": 31,
+            "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Fragment of oldest known peace treaty found in Turkey",
-            "insight": "HN 热议：62 分 · 8 评论",
+            "title": "Thinking fast and slow in AI: The role of metacognition (2021)",
+            "insight": "HN 热议：85 分 · 22 评论",
             "sentiment": "neutral",
-            "comments": 8,
-            "url": "https://www.livescience.com/archaeology/ancient-egyptians/we-have-found-traces-of-peace-thousands-of-years-old-fragment-of-worlds-oldest-known-peace-treaty-found-in-turkey",
+            "comments": 22,
+            "url": "https://arxiv.org/abs/2110.01834",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Faster prompt lookup drafting in llama.cpp",
-            "insight": "HN 热议：71 分 · 11 评论",
+            "title": "Nissan's third generation e-POWER powertrain",
+            "insight": "HN 热议：45 分 · 51 评论",
             "sentiment": "neutral",
-            "comments": 11,
-            "url": "https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/",
+            "comments": 51,
+            "url": "https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: TinyAIArena watch AI agents battle it out",
-            "insight": "HN 热议：100 分 · 40 评论",
+            "title": "Fragment of oldest known peace treaty found in Turkey",
+            "insight": "HN 热议：88 分 · 11 评论",
             "sentiment": "neutral",
-            "comments": 40,
-            "url": "https://tinyaiarena.com/",
+            "comments": 11,
+            "url": "https://www.livescience.com/archaeology/ancient-egyptians/we-have-found-traces-of-peace-thousands-of-years-old-fragment-of-worlds-oldest-known-peace-treaty-found-in-turkey",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "The Normalization of Inexplicable Failures",
-            "insight": "HN 热议：248 分 · 103 评论",
-            "sentiment": "positive",
-            "comments": 103,
-            "url": "https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html",
+            "title": "Faster prompt lookup drafting in llama.cpp",
+            "insight": "HN 热议：77 分 · 12 评论",
+            "sentiment": "neutral",
+            "comments": 12,
+            "url": "https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-28T02:13:15Z",
+    "updated": "2026-09-28T09:01:37Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
