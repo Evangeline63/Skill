@@ -1,59 +1,59 @@
 {
-  "updated": "2026-09-28T18:50:28Z",
+  "updated": "2026-09-29T00:40:42Z",
   "repos": [
     {
       "rank": 1,
       "name": "Significant-Gravitas/AutoGPT",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
       "language": "Python",
-      "stars": 187596,
-      "stars_today": 187596,
+      "stars": 187595,
+      "stars_today": 187595,
       "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
       "rank": 2,
-      "name": "rasbt/LLMs-from-scratch",
-      "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
-      "language": "Jupyter Notebook",
-      "stars": 105719,
-      "stars_today": 105719,
-      "url": "https://github.com/rasbt/LLMs-from-scratch"
-    },
-    {
-      "rank": 3,
       "name": "hacksider/Deep-Live-Cam",
       "description": "real time face swap and one-click video deepfake with only a single image",
       "language": "Python",
-      "stars": 96862,
-      "stars_today": 96862,
+      "stars": 96866,
+      "stars_today": 96866,
       "url": "https://github.com/hacksider/Deep-Live-Cam"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "name": "thedotmack/claude-mem",
       "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
       "language": "TypeScript",
-      "stars": 94837,
-      "stars_today": 94837,
+      "stars": 94855,
+      "stars_today": 94855,
       "url": "https://github.com/thedotmack/claude-mem"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "name": "OpenHands/OpenHands",
       "description": "🙌 OpenHands: AI-Driven Development",
       "language": "TypeScript",
-      "stars": 89396,
-      "stars_today": 89396,
+      "stars": 89412,
+      "stars_today": 89412,
       "url": "https://github.com/OpenHands/OpenHands"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "usestrix/strix",
       "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "language": "Python",
-      "stars": 65369,
-      "stars_today": 65369,
+      "stars": 65400,
+      "stars_today": 65400,
       "url": "https://github.com/usestrix/strix"
+    },
+    {
+      "rank": 6,
+      "name": "Kong/kong",
+      "description": "🦍 The API and AI Gateway",
+      "language": "Lua",
+      "stars": 44208,
+      "stars_today": 44208,
+      "url": "https://github.com/Kong/kong"
     }
   ]
 }

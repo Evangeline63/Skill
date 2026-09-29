@@ -1,49 +1,49 @@
 {
-  "updated": "2026-09-28T18:50:28Z",
+  "updated": "2026-09-29T00:40:42Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Claude Sonnet 5.5",
-      "insight": "HN 热议：170 分 · 117 评论",
-      "sentiment": "neutral",
-      "comments": 117,
-      "url": "https://www.anthropic.com/claude-sonnet-5-5",
+      "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
+      "insight": "HN 热议：226 分 · 77 评论",
+      "sentiment": "positive",
+      "comments": 77,
+      "url": "https://github.com/firelex/jeff",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Parley: Federated, decentralised chat that speaks plain IRC",
-      "insight": "HN 热议：248 分 · 123 评论",
-      "sentiment": "positive",
-      "comments": 123,
-      "url": "https://git.mills.io/prologic/parley",
+      "title": "12,000-year-old Göbeklitepe burials explain scattered bones",
+      "insight": "HN 热议：66 分 · 14 评论",
+      "sentiment": "neutral",
+      "comments": 14,
+      "url": "https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "The Teen Portraits That Captivated Sofia Coppola",
-      "insight": "HN 热议：8 分 · 1 评论",
+      "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
+      "insight": "HN 热议：113 分 · 56 评论",
       "sentiment": "neutral",
-      "comments": 1,
-      "url": "https://www.newyorker.com/culture/photo-booth/the-teen-portraits-that-captivated-sofia-coppola",
+      "comments": 56,
+      "url": "https://stateofutopia.com/experiments/microllmlab/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "I made a visual workspace for AI Automations",
-      "insight": "HN 热议：9 分 · 4 评论",
+      "title": "Anthropic's IPO prospectus shows AI vision, surging costs",
+      "insight": "HN 热议：43 分 · 37 评论",
       "sentiment": "neutral",
-      "comments": 4,
-      "url": "https://www.biom.dev/",
+      "comments": 37,
+      "url": "https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Cf: The Agentic CLI for the Cloudflare API",
-      "insight": "HN 热议：38 分 · 15 评论",
-      "sentiment": "neutral",
-      "comments": 15,
-      "url": "https://blog.cloudflare.com/cloudflare-cf-cli-launch/",
+      "title": "Parley: Federated, decentralised chat that speaks plain IRC",
+      "insight": "HN 热议：298 分 · 167 评论",
+      "sentiment": "positive",
+      "comments": 167,
+      "url": "https://git.mills.io/prologic/parley",
       "id": 5
     }
   ]

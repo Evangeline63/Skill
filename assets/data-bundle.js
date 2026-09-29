@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-28T18:50:28Z",
+    "updated": "2026-09-29T00:40:42Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-28T18:50:28Z",
+    "updated": "2026-09-29T00:40:42Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,66 +266,66 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-28T18:50:28Z",
+    "updated": "2026-09-29T00:40:42Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187596,
-            "stars_today": 187596,
+            "stars": 187595,
+            "stars_today": 187595,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
             "rank": 2,
-            "name": "rasbt/LLMs-from-scratch",
-            "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
-            "language": "Jupyter Notebook",
-            "stars": 105719,
-            "stars_today": 105719,
-            "url": "https://github.com/rasbt/LLMs-from-scratch"
-        },
-        {
-            "rank": 3,
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96862,
-            "stars_today": 96862,
+            "stars": 96866,
+            "stars_today": 96866,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
-            "rank": 4,
+            "rank": 3,
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 94837,
-            "stars_today": 94837,
+            "stars": 94855,
+            "stars_today": 94855,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
-            "rank": 5,
+            "rank": 4,
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 89396,
-            "stars_today": 89396,
+            "stars": 89412,
+            "stars_today": 89412,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
-            "rank": 6,
+            "rank": 5,
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 65369,
-            "stars_today": 65369,
+            "stars": 65400,
+            "stars_today": 65400,
             "url": "https://github.com/usestrix/strix"
+        },
+        {
+            "rank": 6,
+            "name": "Kong/kong",
+            "description": "🦍 The API and AI Gateway",
+            "language": "Lua",
+            "stars": 44208,
+            "stars_today": 44208,
+            "url": "https://github.com/Kong/kong"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-28T18:50:28Z",
+    "updated": "2026-09-29T00:40:42Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-28T18:50:28Z",
+    "updated": "2026-09-29T00:40:42Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-28T18:50:28Z",
+    "updated": "2026-09-29T00:40:42Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Claude Sonnet 5.5",
-            "insight": "HN 热议：170 分 · 117 评论",
-            "sentiment": "neutral",
-            "comments": 117,
-            "url": "https://www.anthropic.com/claude-sonnet-5-5",
+            "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
+            "insight": "HN 热议：226 分 · 77 评论",
+            "sentiment": "positive",
+            "comments": 77,
+            "url": "https://github.com/firelex/jeff",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Parley: Federated, decentralised chat that speaks plain IRC",
-            "insight": "HN 热议：248 分 · 123 评论",
-            "sentiment": "positive",
-            "comments": 123,
-            "url": "https://git.mills.io/prologic/parley",
+            "title": "12,000-year-old Göbeklitepe burials explain scattered bones",
+            "insight": "HN 热议：66 分 · 14 评论",
+            "sentiment": "neutral",
+            "comments": 14,
+            "url": "https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "The Teen Portraits That Captivated Sofia Coppola",
-            "insight": "HN 热议：8 分 · 1 评论",
+            "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
+            "insight": "HN 热议：113 分 · 56 评论",
             "sentiment": "neutral",
-            "comments": 1,
-            "url": "https://www.newyorker.com/culture/photo-booth/the-teen-portraits-that-captivated-sofia-coppola",
+            "comments": 56,
+            "url": "https://stateofutopia.com/experiments/microllmlab/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "I made a visual workspace for AI Automations",
-            "insight": "HN 热议：9 分 · 4 评论",
+            "title": "Anthropic's IPO prospectus shows AI vision, surging costs",
+            "insight": "HN 热议：43 分 · 37 评论",
             "sentiment": "neutral",
-            "comments": 4,
-            "url": "https://www.biom.dev/",
+            "comments": 37,
+            "url": "https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Cf: The Agentic CLI for the Cloudflare API",
-            "insight": "HN 热议：38 分 · 15 评论",
-            "sentiment": "neutral",
-            "comments": 15,
-            "url": "https://blog.cloudflare.com/cloudflare-cf-cli-launch/",
+            "title": "Parley: Federated, decentralised chat that speaks plain IRC",
+            "insight": "HN 热议：298 分 · 167 评论",
+            "sentiment": "positive",
+            "comments": 167,
+            "url": "https://git.mills.io/prologic/parley",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-28T18:50:28Z",
+    "updated": "2026-09-29T00:40:42Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
