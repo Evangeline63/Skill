@@ -1,49 +1,49 @@
 {
-  "updated": "2026-09-29T09:10:14Z",
+  "updated": "2026-09-29T17:07:44Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
-      "insight": "HN 热议：238 分 · 83 评论",
+      "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
+      "insight": "HN 热议：369 分 · 117 评论",
       "sentiment": "positive",
-      "comments": 83,
-      "url": "https://stateofutopia.com/experiments/microllmlab/",
+      "comments": 117,
+      "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Uncensored and Offensive Security AI Models Benchmark",
-      "insight": "HN 热议：13 分 · 4 评论",
+      "title": "DraftKings Is Using AI to Behaviorally Target Chronic Gamblers",
+      "insight": "HN 热议：61 分 · 27 评论",
       "sentiment": "neutral",
-      "comments": 4,
-      "url": "https://github.com/JoasASantos/Offensive-Security-AI-Models",
+      "comments": 27,
+      "url": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
-      "insight": "HN 热议：492 分 · 184 评论",
-      "sentiment": "positive",
-      "comments": 184,
-      "url": "https://github.com/firelex/jeff",
+      "title": "Without the Hot Air",
+      "insight": "HN 热议：86 分 · 47 评论",
+      "sentiment": "neutral",
+      "comments": 47,
+      "url": "https://www.withouthotair.com/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "12,000-year-old Göbeklitepe burials explain scattered bones",
-      "insight": "HN 热议：131 分 · 31 评论",
-      "sentiment": "neutral",
-      "comments": 31,
-      "url": "https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/",
+      "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
+      "insight": "HN 热议：271 分 · 100 评论",
+      "sentiment": "positive",
+      "comments": 100,
+      "url": "https://stateofutopia.com/experiments/microllmlab/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Nvidia wants to put a watchdog chip next to every AI agent",
-      "insight": "HN 热议：167 分 · 211 评论",
+      "title": "12,000-year-old Göbeklitepe burials explain scattered bones",
+      "insight": "HN 热议：162 分 · 46 评论",
       "sentiment": "neutral",
-      "comments": 211,
-      "url": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
+      "comments": 46,
+      "url": "https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/",
       "id": 5
     }
   ]
