@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-29T00:40:42Z",
+    "updated": "2026-09-29T09:10:14Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-29T00:40:42Z",
+    "updated": "2026-09-29T09:10:14Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-29T00:40:42Z",
+    "updated": "2026-09-29T09:10:14Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187595,
-            "stars_today": 187595,
+            "stars": 187600,
+            "stars_today": 187600,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96866,
-            "stars_today": 96866,
+            "stars": 96874,
+            "stars_today": 96874,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 94855,
-            "stars_today": 94855,
+            "stars": 94885,
+            "stars_today": 94885,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 89412,
-            "stars_today": 89412,
+            "stars": 89463,
+            "stars_today": 89463,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 65400,
-            "stars_today": 65400,
+            "stars": 65453,
+            "stars_today": 65453,
             "url": "https://github.com/usestrix/strix"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "Kong/kong",
             "description": "🦍 The API and AI Gateway",
             "language": "Lua",
-            "stars": 44208,
-            "stars_today": 44208,
+            "stars": 44213,
+            "stars_today": 44213,
             "url": "https://github.com/Kong/kong"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-29T00:40:42Z",
+    "updated": "2026-09-29T09:10:14Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-29T00:40:42Z",
+    "updated": "2026-09-29T09:10:14Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-29T00:40:42Z",
+    "updated": "2026-09-29T09:10:14Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
-            "insight": "HN 热议：226 分 · 77 评论",
+            "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
+            "insight": "HN 热议：238 分 · 83 评论",
             "sentiment": "positive",
-            "comments": 77,
-            "url": "https://github.com/firelex/jeff",
+            "comments": 83,
+            "url": "https://stateofutopia.com/experiments/microllmlab/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "12,000-year-old Göbeklitepe burials explain scattered bones",
-            "insight": "HN 热议：66 分 · 14 评论",
+            "title": "Uncensored and Offensive Security AI Models Benchmark",
+            "insight": "HN 热议：13 分 · 4 评论",
             "sentiment": "neutral",
-            "comments": 14,
-            "url": "https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/",
+            "comments": 4,
+            "url": "https://github.com/JoasASantos/Offensive-Security-AI-Models",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
-            "insight": "HN 热议：113 分 · 56 评论",
-            "sentiment": "neutral",
-            "comments": 56,
-            "url": "https://stateofutopia.com/experiments/microllmlab/",
+            "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
+            "insight": "HN 热议：492 分 · 184 评论",
+            "sentiment": "positive",
+            "comments": 184,
+            "url": "https://github.com/firelex/jeff",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Anthropic's IPO prospectus shows AI vision, surging costs",
-            "insight": "HN 热议：43 分 · 37 评论",
+            "title": "12,000-year-old Göbeklitepe burials explain scattered bones",
+            "insight": "HN 热议：131 分 · 31 评论",
             "sentiment": "neutral",
-            "comments": 37,
-            "url": "https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/",
+            "comments": 31,
+            "url": "https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Parley: Federated, decentralised chat that speaks plain IRC",
-            "insight": "HN 热议：298 分 · 167 评论",
-            "sentiment": "positive",
-            "comments": 167,
-            "url": "https://git.mills.io/prologic/parley",
+            "title": "Nvidia wants to put a watchdog chip next to every AI agent",
+            "insight": "HN 热议：167 分 · 211 评论",
+            "sentiment": "neutral",
+            "comments": 211,
+            "url": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-29T00:40:42Z",
+    "updated": "2026-09-29T09:10:14Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

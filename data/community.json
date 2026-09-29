@@ -1,49 +1,49 @@
 {
-  "updated": "2026-09-29T00:40:42Z",
+  "updated": "2026-09-29T09:10:14Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
-      "insight": "HN 热议：226 分 · 77 评论",
+      "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
+      "insight": "HN 热议：238 分 · 83 评论",
       "sentiment": "positive",
-      "comments": 77,
-      "url": "https://github.com/firelex/jeff",
+      "comments": 83,
+      "url": "https://stateofutopia.com/experiments/microllmlab/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "12,000-year-old Göbeklitepe burials explain scattered bones",
-      "insight": "HN 热议：66 分 · 14 评论",
+      "title": "Uncensored and Offensive Security AI Models Benchmark",
+      "insight": "HN 热议：13 分 · 4 评论",
       "sentiment": "neutral",
-      "comments": 14,
-      "url": "https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/",
+      "comments": 4,
+      "url": "https://github.com/JoasASantos/Offensive-Security-AI-Models",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
-      "insight": "HN 热议：113 分 · 56 评论",
-      "sentiment": "neutral",
-      "comments": 56,
-      "url": "https://stateofutopia.com/experiments/microllmlab/",
+      "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
+      "insight": "HN 热议：492 分 · 184 评论",
+      "sentiment": "positive",
+      "comments": 184,
+      "url": "https://github.com/firelex/jeff",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Anthropic's IPO prospectus shows AI vision, surging costs",
-      "insight": "HN 热议：43 分 · 37 评论",
+      "title": "12,000-year-old Göbeklitepe burials explain scattered bones",
+      "insight": "HN 热议：131 分 · 31 评论",
       "sentiment": "neutral",
-      "comments": 37,
-      "url": "https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/",
+      "comments": 31,
+      "url": "https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Parley: Federated, decentralised chat that speaks plain IRC",
-      "insight": "HN 热议：298 分 · 167 评论",
-      "sentiment": "positive",
-      "comments": 167,
-      "url": "https://git.mills.io/prologic/parley",
+      "title": "Nvidia wants to put a watchdog chip next to every AI agent",
+      "insight": "HN 热议：167 分 · 211 评论",
+      "sentiment": "neutral",
+      "comments": 211,
+      "url": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
       "id": 5
     }
   ]
