@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-29T17:07:44Z",
+    "updated": "2026-09-29T21:34:43Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-29T17:07:44Z",
+    "updated": "2026-09-29T21:34:43Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-29T17:07:44Z",
+    "updated": "2026-09-29T21:34:43Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187609,
-            "stars_today": 187609,
+            "stars": 187618,
+            "stars_today": 187618,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96873,
-            "stars_today": 96873,
+            "stars": 96881,
+            "stars_today": 96881,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 94915,
-            "stars_today": 94915,
+            "stars": 94931,
+            "stars_today": 94931,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 89517,
-            "stars_today": 89517,
+            "stars": 89535,
+            "stars_today": 89535,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 65538,
-            "stars_today": 65538,
+            "stars": 65574,
+            "stars_today": 65574,
             "url": "https://github.com/usestrix/strix"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "Kong/kong",
             "description": "🦍 The API and AI Gateway",
             "language": "Lua",
-            "stars": 44217,
-            "stars_today": 44217,
+            "stars": 44220,
+            "stars_today": 44220,
             "url": "https://github.com/Kong/kong"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-29T17:07:44Z",
+    "updated": "2026-09-29T21:34:43Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-29T17:07:44Z",
+    "updated": "2026-09-29T21:34:43Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-29T17:07:44Z",
+    "updated": "2026-09-29T21:34:43Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
-            "insight": "HN 热议：369 分 · 117 评论",
+            "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+            "insight": "HN 热议：648 分 · 586 评论",
             "sentiment": "positive",
-            "comments": 117,
-            "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+            "comments": 586,
+            "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "DraftKings Is Using AI to Behaviorally Target Chronic Gamblers",
-            "insight": "HN 热议：61 分 · 27 评论",
-            "sentiment": "neutral",
-            "comments": 27,
+            "insight": "HN 热议：483 分 · 335 评论",
+            "sentiment": "positive",
+            "comments": 335,
             "url": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Without the Hot Air",
-            "insight": "HN 热议：86 分 · 47 评论",
+            "title": "Show HN: TurboGPT: train 22KiB transformer in 13s",
+            "insight": "HN 热议：17 分 · 1 评论",
             "sentiment": "neutral",
-            "comments": 47,
-            "url": "https://www.withouthotair.com/",
+            "comments": 1,
+            "url": "https://github.com/lostmsu/TurboGPT",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
-            "insight": "HN 热议：271 分 · 100 评论",
+            "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
+            "insight": "HN 热议：397 分 · 126 评论",
             "sentiment": "positive",
-            "comments": 100,
-            "url": "https://stateofutopia.com/experiments/microllmlab/",
+            "comments": 126,
+            "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "12,000-year-old Göbeklitepe burials explain scattered bones",
-            "insight": "HN 热议：162 分 · 46 评论",
-            "sentiment": "neutral",
-            "comments": 46,
-            "url": "https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/",
+            "title": "Dots: Always-on agents",
+            "insight": "HN 热议：393 分 · 300 评论",
+            "sentiment": "positive",
+            "comments": 300,
+            "url": "https://openai.com/index/introducing-dots/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-29T17:07:44Z",
+    "updated": "2026-09-29T21:34:43Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
