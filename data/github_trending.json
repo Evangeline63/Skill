@@ -1,13 +1,13 @@
 {
-  "updated": "2026-09-30T02:40:13Z",
+  "updated": "2026-09-30T09:04:22Z",
   "repos": [
     {
       "rank": 1,
       "name": "Significant-Gravitas/AutoGPT",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
       "language": "Python",
-      "stars": 187621,
-      "stars_today": 187621,
+      "stars": 187620,
+      "stars_today": 187620,
       "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
@@ -15,8 +15,8 @@
       "name": "hacksider/Deep-Live-Cam",
       "description": "real time face swap and one-click video deepfake with only a single image",
       "language": "Python",
-      "stars": 96889,
-      "stars_today": 96889,
+      "stars": 96888,
+      "stars_today": 96888,
       "url": "https://github.com/hacksider/Deep-Live-Cam"
     },
     {
@@ -24,8 +24,8 @@
       "name": "thedotmack/claude-mem",
       "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
       "language": "TypeScript",
-      "stars": 94958,
-      "stars_today": 94958,
+      "stars": 94972,
+      "stars_today": 94972,
       "url": "https://github.com/thedotmack/claude-mem"
     },
     {
@@ -33,8 +33,8 @@
       "name": "OpenHands/OpenHands",
       "description": "🙌 OpenHands: AI-Driven Development",
       "language": "TypeScript",
-      "stars": 89553,
-      "stars_today": 89553,
+      "stars": 89578,
+      "stars_today": 89578,
       "url": "https://github.com/OpenHands/OpenHands"
     },
     {
@@ -42,8 +42,8 @@
       "name": "usestrix/strix",
       "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "language": "Python",
-      "stars": 65599,
-      "stars_today": 65599,
+      "stars": 65657,
+      "stars_today": 65657,
       "url": "https://github.com/usestrix/strix"
     },
     {
@@ -51,8 +51,8 @@
       "name": "Kong/kong",
       "description": "🦍 The API and AI Gateway",
       "language": "Lua",
-      "stars": 44222,
-      "stars_today": 44222,
+      "stars": 44224,
+      "stars_today": 44224,
       "url": "https://github.com/Kong/kong"
     }
   ]
