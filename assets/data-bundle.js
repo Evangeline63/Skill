@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-30T09:04:22Z",
+    "updated": "2026-09-30T17:05:35Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-30T09:04:22Z",
+    "updated": "2026-09-30T17:05:35Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-30T09:04:22Z",
+    "updated": "2026-09-30T17:05:35Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187620,
-            "stars_today": 187620,
+            "stars": 187621,
+            "stars_today": 187621,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96888,
-            "stars_today": 96888,
+            "stars": 96893,
+            "stars_today": 96893,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 94972,
-            "stars_today": 94972,
+            "stars": 95007,
+            "stars_today": 95007,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 89578,
-            "stars_today": 89578,
+            "stars": 89617,
+            "stars_today": 89617,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 65657,
-            "stars_today": 65657,
+            "stars": 65716,
+            "stars_today": 65716,
             "url": "https://github.com/usestrix/strix"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "Kong/kong",
             "description": "🦍 The API and AI Gateway",
             "language": "Lua",
-            "stars": 44224,
-            "stars_today": 44224,
+            "stars": 44225,
+            "stars_today": 44225,
             "url": "https://github.com/Kong/kong"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-30T09:04:22Z",
+    "updated": "2026-09-30T17:05:35Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-30T09:04:22Z",
+    "updated": "2026-09-30T17:05:35Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-30T09:04:22Z",
+    "updated": "2026-09-30T17:05:35Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Dots: Always-on agents",
-            "insight": "HN 热议：605 分 · 464 评论",
+            "title": "You Said No MCP",
+            "insight": "HN 热议：443 分 · 242 评论",
             "sentiment": "positive",
-            "comments": 464,
-            "url": "https://openai.com/index/introducing-dots/",
+            "comments": 242,
+            "url": "https://earendil.com/posts/you-said-no-mcp/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
-            "insight": "HN 热议：924 分 · 820 评论",
+            "title": "The AI Race Just Got Awkward",
+            "insight": "HN 热议：289 分 · 248 评论",
             "sentiment": "positive",
-            "comments": 820,
-            "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
+            "comments": 248,
+            "url": "https://insufferable.dev/posts/the-ai-race-just-got-awkward/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Floppy Emu Hardware Failure Analysis Results",
-            "insight": "HN 热议：3 分 · 0 评论",
-            "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://www.bigmessowires.com/2026/09/29/floppy-emu-hardware-failure-analysis-results/",
+            "title": "Dots: Always-on agents",
+            "insight": "HN 热议：714 分 · 596 评论",
+            "sentiment": "positive",
+            "comments": 596,
+            "url": "https://openai.com/index/introducing-dots/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "PSSA: A non-transformer language model written from scratch in Rust",
-            "insight": "HN 热议：76 分 · 32 评论",
+            "title": "Floppy Emu Hardware Failure Analysis Results",
+            "insight": "HN 热议：41 分 · 9 评论",
             "sentiment": "neutral",
-            "comments": 32,
-            "url": "https://github.com/Sparticle62ops/pssa",
+            "comments": 9,
+            "url": "https://www.bigmessowires.com/2026/09/29/floppy-emu-hardware-failure-analysis-results/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Ballmer Peak",
-            "insight": "HN 热议：60 分 · 14 评论",
-            "sentiment": "neutral",
-            "comments": 14,
-            "url": "https://en.wikipedia.org/wiki/Ballmer_Peak",
+            "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+            "insight": "HN 热议：1032 分 · 909 评论",
+            "sentiment": "positive",
+            "comments": 909,
+            "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-30T09:04:22Z",
+    "updated": "2026-09-30T17:05:35Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
