@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-30T17:05:35Z",
+    "updated": "2026-09-30T21:35:05Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-30T17:05:35Z",
+    "updated": "2026-09-30T21:35:05Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,66 +266,66 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-09-30T17:05:35Z",
+    "updated": "2026-09-30T21:35:05Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187621,
-            "stars_today": 187621,
+            "stars": 187629,
+            "stars_today": 187629,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
             "rank": 2,
-            "name": "hacksider/Deep-Live-Cam",
-            "description": "real time face swap and one-click video deepfake with only a single image",
-            "language": "Python",
-            "stars": 96893,
-            "stars_today": 96893,
-            "url": "https://github.com/hacksider/Deep-Live-Cam"
+            "name": "rasbt/LLMs-from-scratch",
+            "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+            "language": "Jupyter Notebook",
+            "stars": 105816,
+            "stars_today": 105816,
+            "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
             "rank": 3,
-            "name": "thedotmack/claude-mem",
-            "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
-            "language": "TypeScript",
-            "stars": 95007,
-            "stars_today": 95007,
-            "url": "https://github.com/thedotmack/claude-mem"
+            "name": "hacksider/Deep-Live-Cam",
+            "description": "real time face swap and one-click video deepfake with only a single image",
+            "language": "Python",
+            "stars": 96896,
+            "stars_today": 96896,
+            "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
             "rank": 4,
-            "name": "OpenHands/OpenHands",
-            "description": "🙌 OpenHands: AI-Driven Development",
+            "name": "thedotmack/claude-mem",
+            "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 89617,
-            "stars_today": 89617,
-            "url": "https://github.com/OpenHands/OpenHands"
+            "stars": 95021,
+            "stars_today": 95021,
+            "url": "https://github.com/thedotmack/claude-mem"
         },
         {
             "rank": 5,
-            "name": "usestrix/strix",
-            "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-            "language": "Python",
-            "stars": 65716,
-            "stars_today": 65716,
-            "url": "https://github.com/usestrix/strix"
+            "name": "OpenHands/OpenHands",
+            "description": "🙌 OpenHands: AI-Driven Development",
+            "language": "TypeScript",
+            "stars": 89644,
+            "stars_today": 89644,
+            "url": "https://github.com/OpenHands/OpenHands"
         },
         {
             "rank": 6,
-            "name": "Kong/kong",
-            "description": "🦍 The API and AI Gateway",
-            "language": "Lua",
-            "stars": 44225,
-            "stars_today": 44225,
-            "url": "https://github.com/Kong/kong"
+            "name": "usestrix/strix",
+            "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+            "language": "Python",
+            "stars": 65762,
+            "stars_today": 65762,
+            "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-09-30T17:05:35Z",
+    "updated": "2026-09-30T21:35:05Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-30T17:05:35Z",
+    "updated": "2026-09-30T21:35:05Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-30T17:05:35Z",
+    "updated": "2026-09-30T21:35:05Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "You Said No MCP",
-            "insight": "HN 热议：443 分 · 242 评论",
+            "title": "Gemini 4 Argon",
+            "insight": "HN 热议：572 分 · 354 评论",
             "sentiment": "positive",
-            "comments": 242,
-            "url": "https://earendil.com/posts/you-said-no-mcp/",
+            "comments": 354,
+            "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "The AI Race Just Got Awkward",
-            "insight": "HN 热议：289 分 · 248 评论",
-            "sentiment": "positive",
-            "comments": 248,
-            "url": "https://insufferable.dev/posts/the-ai-race-just-got-awkward/",
+            "title": "Surprisingly Complex Waves Reveal the Brain's Inner Workings",
+            "insight": "HN 热议：67 分 · 14 评论",
+            "sentiment": "neutral",
+            "comments": 14,
+            "url": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Dots: Always-on agents",
-            "insight": "HN 热议：714 分 · 596 评论",
-            "sentiment": "positive",
-            "comments": 596,
-            "url": "https://openai.com/index/introducing-dots/",
+            "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
+            "insight": "HN 热议：97 分 · 43 评论",
+            "sentiment": "neutral",
+            "comments": 43,
+            "url": "https://github.com/magnitudedev/magnitude",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Floppy Emu Hardware Failure Analysis Results",
-            "insight": "HN 热议：41 分 · 9 评论",
+            "title": "Gemini 4 Argon (High): Intelligence, Performance and Price Analysis",
+            "insight": "HN 热议：14 分 · 5 评论",
             "sentiment": "neutral",
-            "comments": 9,
-            "url": "https://www.bigmessowires.com/2026/09/29/floppy-emu-hardware-failure-analysis-results/",
+            "comments": 5,
+            "url": "https://artificialanalysis.ai/models/gemini-4-argon",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
-            "insight": "HN 热议：1032 分 · 909 评论",
+            "title": "You said no MCP",
+            "insight": "HN 热议：558 分 · 323 评论",
             "sentiment": "positive",
-            "comments": 909,
-            "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
+            "comments": 323,
+            "url": "https://earendil.com/posts/you-said-no-mcp/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-30T17:05:35Z",
+    "updated": "2026-09-30T21:35:05Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

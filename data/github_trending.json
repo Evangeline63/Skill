@@ -1,59 +1,59 @@
 {
-  "updated": "2026-09-30T17:05:35Z",
+  "updated": "2026-09-30T21:35:05Z",
   "repos": [
     {
       "rank": 1,
       "name": "Significant-Gravitas/AutoGPT",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
       "language": "Python",
-      "stars": 187621,
-      "stars_today": 187621,
+      "stars": 187629,
+      "stars_today": 187629,
       "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
       "rank": 2,
-      "name": "hacksider/Deep-Live-Cam",
-      "description": "real time face swap and one-click video deepfake with only a single image",
-      "language": "Python",
-      "stars": 96893,
-      "stars_today": 96893,
-      "url": "https://github.com/hacksider/Deep-Live-Cam"
+      "name": "rasbt/LLMs-from-scratch",
+      "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+      "language": "Jupyter Notebook",
+      "stars": 105816,
+      "stars_today": 105816,
+      "url": "https://github.com/rasbt/LLMs-from-scratch"
     },
     {
       "rank": 3,
-      "name": "thedotmack/claude-mem",
-      "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
-      "language": "TypeScript",
-      "stars": 95007,
-      "stars_today": 95007,
-      "url": "https://github.com/thedotmack/claude-mem"
+      "name": "hacksider/Deep-Live-Cam",
+      "description": "real time face swap and one-click video deepfake with only a single image",
+      "language": "Python",
+      "stars": 96896,
+      "stars_today": 96896,
+      "url": "https://github.com/hacksider/Deep-Live-Cam"
     },
     {
       "rank": 4,
-      "name": "OpenHands/OpenHands",
-      "description": "🙌 OpenHands: AI-Driven Development",
+      "name": "thedotmack/claude-mem",
+      "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
       "language": "TypeScript",
-      "stars": 89617,
-      "stars_today": 89617,
-      "url": "https://github.com/OpenHands/OpenHands"
+      "stars": 95021,
+      "stars_today": 95021,
+      "url": "https://github.com/thedotmack/claude-mem"
     },
     {
       "rank": 5,
-      "name": "usestrix/strix",
-      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-      "language": "Python",
-      "stars": 65716,
-      "stars_today": 65716,
-      "url": "https://github.com/usestrix/strix"
+      "name": "OpenHands/OpenHands",
+      "description": "🙌 OpenHands: AI-Driven Development",
+      "language": "TypeScript",
+      "stars": 89644,
+      "stars_today": 89644,
+      "url": "https://github.com/OpenHands/OpenHands"
     },
     {
       "rank": 6,
-      "name": "Kong/kong",
-      "description": "🦍 The API and AI Gateway",
-      "language": "Lua",
-      "stars": 44225,
-      "stars_today": 44225,
-      "url": "https://github.com/Kong/kong"
+      "name": "usestrix/strix",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "language": "Python",
+      "stars": 65762,
+      "stars_today": 65762,
+      "url": "https://github.com/usestrix/strix"
     }
   ]
 }
