@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-09-30T21:35:05Z",
+    "updated": "2026-10-01T02:44:52Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-09-30T21:35:05Z",
+    "updated": "2026-10-01T02:44:52Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -325,7 +325,7 @@ window.__DATA__ = {
     ]
 },
   "products": {
-    "updated": "2026-09-30T21:35:05Z",
+    "updated": "2026-10-01T02:44:52Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-09-30T21:35:05Z",
+    "updated": "2026-10-01T02:44:52Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-09-30T21:35:05Z",
+    "updated": "2026-10-01T02:44:52Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Gemini 4 Argon",
-            "insight": "HN 热议：572 分 · 354 评论",
+            "insight": "HN 热议：1042 分 · 697 评论",
             "sentiment": "positive",
-            "comments": 354,
+            "comments": 697,
             "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Surprisingly Complex Waves Reveal the Brain's Inner Workings",
-            "insight": "HN 热议：67 分 · 14 评论",
+            "title": "Surprisingly complex waves reveal the brain's inner workings",
+            "insight": "HN 热议：129 分 · 41 评论",
             "sentiment": "neutral",
-            "comments": 14,
+            "comments": 41,
             "url": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
-            "insight": "HN 热议：97 分 · 43 评论",
+            "insight": "HN 热议：129 分 · 58 评论",
             "sentiment": "neutral",
-            "comments": 43,
+            "comments": 58,
             "url": "https://github.com/magnitudedev/magnitude",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Gemini 4 Argon (High): Intelligence, Performance and Price Analysis",
-            "insight": "HN 热议：14 分 · 5 评论",
+            "title": "Doing a Machine Learning PhD While Working in Japan",
+            "insight": "HN 热议：51 分 · 18 评论",
             "sentiment": "neutral",
-            "comments": 5,
-            "url": "https://artificialanalysis.ai/models/gemini-4-argon",
+            "comments": 18,
+            "url": "https://www.tokyodev.com/articles/doing-a-machine-learning-phd-while-working-in-japan",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "You said no MCP",
-            "insight": "HN 热议：558 分 · 323 评论",
-            "sentiment": "positive",
-            "comments": 323,
-            "url": "https://earendil.com/posts/you-said-no-mcp/",
+            "title": "Show HN: Lathoa, a math app for kids where the AI is wrong on purpose",
+            "insight": "HN 热议：29 分 · 14 评论",
+            "sentiment": "neutral",
+            "comments": 14,
+            "url": "https://lathoa.ai/en",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-09-30T21:35:05Z",
+    "updated": "2026-10-01T02:44:52Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
