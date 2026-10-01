@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-10-01T09:30:34Z",
+    "updated": "2026-10-01T17:36:07Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-10-01T09:30:34Z",
+    "updated": "2026-10-01T17:36:07Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,66 +266,66 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-10-01T09:30:34Z",
+    "updated": "2026-10-01T17:36:07Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187632,
-            "stars_today": 187632,
+            "stars": 187634,
+            "stars_today": 187634,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
             "rank": 2,
-            "name": "rasbt/LLMs-from-scratch",
-            "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
-            "language": "Jupyter Notebook",
-            "stars": 105834,
-            "stars_today": 105834,
-            "url": "https://github.com/rasbt/LLMs-from-scratch"
+            "name": "f/prompts.chat",
+            "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
+            "language": "HTML",
+            "stars": 171805,
+            "stars_today": 171805,
+            "url": "https://github.com/f/prompts.chat"
         },
         {
             "rank": 3,
-            "name": "hacksider/Deep-Live-Cam",
-            "description": "real time face swap and one-click video deepfake with only a single image",
-            "language": "Python",
-            "stars": 96905,
-            "stars_today": 96905,
-            "url": "https://github.com/hacksider/Deep-Live-Cam"
+            "name": "rasbt/LLMs-from-scratch",
+            "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+            "language": "Jupyter Notebook",
+            "stars": 105854,
+            "stars_today": 105854,
+            "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
             "rank": 4,
-            "name": "thedotmack/claude-mem",
-            "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
-            "language": "TypeScript",
-            "stars": 95055,
-            "stars_today": 95055,
-            "url": "https://github.com/thedotmack/claude-mem"
+            "name": "hacksider/Deep-Live-Cam",
+            "description": "real time face swap and one-click video deepfake with only a single image",
+            "language": "Python",
+            "stars": 96913,
+            "stars_today": 96913,
+            "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
             "rank": 5,
-            "name": "OpenHands/OpenHands",
-            "description": "🙌 OpenHands: AI-Driven Development",
+            "name": "thedotmack/claude-mem",
+            "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 89688,
-            "stars_today": 89688,
-            "url": "https://github.com/OpenHands/OpenHands"
+            "stars": 95097,
+            "stars_today": 95097,
+            "url": "https://github.com/thedotmack/claude-mem"
         },
         {
             "rank": 6,
-            "name": "usestrix/strix",
-            "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-            "language": "Python",
-            "stars": 65840,
-            "stars_today": 65840,
-            "url": "https://github.com/usestrix/strix"
+            "name": "OpenHands/OpenHands",
+            "description": "🙌 OpenHands: AI-Driven Development",
+            "language": "TypeScript",
+            "stars": 89714,
+            "stars_today": 89714,
+            "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-10-01T09:30:34Z",
+    "updated": "2026-10-01T17:36:07Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-10-01T09:30:34Z",
+    "updated": "2026-10-01T17:36:07Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-10-01T09:30:34Z",
+    "updated": "2026-10-01T17:36:07Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "OpenDLSS: A Vulkan Reimplementation of Nvidia's DLSS 5 Neural Rendering Network",
-            "insight": "HN 热议：49 分 · 35 评论",
+            "title": "Identity Management for Agentic AI [pdf] (2025)",
+            "insight": "HN 热议：42 分 · 6 评论",
             "sentiment": "neutral",
-            "comments": 35,
-            "url": "https://github.com/maanHimself/OpenDLSS-NR",
+            "comments": 6,
+            "url": "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "Gemini 4 Argon",
-            "insight": "HN 热议：1379 分 · 887 评论",
+            "insight": "HN 热议：1589 分 · 1060 评论",
             "sentiment": "positive",
-            "comments": 887,
+            "comments": 1060,
             "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Surprisingly complex waves reveal the brain's inner workings",
-            "insight": "HN 热议：184 分 · 61 评论",
+            "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+            "insight": "HN 热议：133 分 · 73 评论",
             "sentiment": "neutral",
-            "comments": 61,
-            "url": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
+            "comments": 73,
+            "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
-            "insight": "HN 热议：159 分 · 80 评论",
-            "sentiment": "neutral",
-            "comments": 80,
-            "url": "https://github.com/magnitudedev/magnitude",
+            "title": "OpenDLSS: A Vulkan Reimplementation of Nvidia's DLSS 5 Neural Rendering Network",
+            "insight": "HN 热议：211 分 · 101 评论",
+            "sentiment": "positive",
+            "comments": 101,
+            "url": "https://github.com/maanHimself/OpenDLSS-NR",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Doing a Machine Learning PhD While Working in Japan",
-            "insight": "HN 热议：95 分 · 35 评论",
+            "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+            "insight": "HN 热议：150 分 · 94 评论",
             "sentiment": "neutral",
-            "comments": 35,
-            "url": "https://www.tokyodev.com/articles/doing-a-machine-learning-phd-while-working-in-japan",
+            "comments": 94,
+            "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-10-01T09:30:34Z",
+    "updated": "2026-10-01T17:36:07Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
