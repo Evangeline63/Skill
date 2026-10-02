@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-10-02T02:48:34Z",
+    "updated": "2026-10-02T09:05:33Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-10-02T02:48:34Z",
+    "updated": "2026-10-02T09:05:33Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-10-02T02:48:34Z",
+    "updated": "2026-10-02T09:05:33Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187650,
-            "stars_today": 187650,
+            "stars": 187652,
+            "stars_today": 187652,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 171834,
-            "stars_today": 171834,
+            "stars": 171847,
+            "stars_today": 171847,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 105862,
-            "stars_today": 105862,
+            "stars": 105875,
+            "stars_today": 105875,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96914,
-            "stars_today": 96914,
+            "stars": 96915,
+            "stars_today": 96915,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 95138,
-            "stars_today": 95138,
+            "stars": 95160,
+            "stars_today": 95160,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 89757,
-            "stars_today": 89757,
+            "stars": 89780,
+            "stars_today": 89780,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-10-02T02:48:34Z",
+    "updated": "2026-10-02T09:05:33Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-10-02T02:48:34Z",
+    "updated": "2026-10-02T09:05:33Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-10-02T02:48:34Z",
+    "updated": "2026-10-02T09:05:33Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Vote on which of Hacker News' challenges for AI have been met",
-            "insight": "HN 热议：97 分 · 110 评论",
+            "insight": "HN 热议：139 分 · 148 评论",
             "sentiment": "neutral",
-            "comments": 110,
+            "comments": 148,
             "url": "https://stoppels.ch/goalposts/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Aweb – Communication for AI Agents",
-            "insight": "HN 热议：26 分 · 16 评论",
+            "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+            "insight": "HN 热议：178 分 · 106 评论",
             "sentiment": "neutral",
-            "comments": 16,
-            "url": "https://aweb.ai",
+            "comments": 106,
+            "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "Show HN: Open-source model routing for coding agents at Astra-level performance",
-            "insight": "HN 热议：85 分 · 25 评论",
+            "insight": "HN 热议：101 分 · 35 评论",
             "sentiment": "neutral",
-            "comments": 25,
+            "comments": 35,
             "url": "https://news.ycombinator.com/item?id=49911500",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
-            "insight": "HN 热议：172 分 · 102 评论",
-            "sentiment": "neutral",
-            "comments": 102,
-            "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
+            "title": "Gemini 4 Argon",
+            "insight": "HN 热议：1653 分 · 1138 评论",
+            "sentiment": "positive",
+            "comments": 1138,
+            "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
             "id": 4
         },
         {
             "source": "HackerNews",
             "title": "OpenDLSS: A Vulkan Reimplementation of Nvidia's DLSS 5 Neural Rendering Network",
-            "insight": "HN 热议：249 分 · 117 评论",
+            "insight": "HN 热议：253 分 · 118 评论",
             "sentiment": "positive",
-            "comments": 117,
+            "comments": 118,
             "url": "https://github.com/maanHimself/OpenDLSS-NR",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-10-02T02:48:34Z",
+    "updated": "2026-10-02T09:05:33Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
