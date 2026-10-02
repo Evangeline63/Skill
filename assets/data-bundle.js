@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-10-02T16:54:53Z",
+    "updated": "2026-10-02T21:29:35Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-10-02T16:54:53Z",
+    "updated": "2026-10-02T21:29:35Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-10-02T16:54:53Z",
+    "updated": "2026-10-02T21:29:35Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187640,
-            "stars_today": 187640,
+            "stars": 187638,
+            "stars_today": 187638,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 171848,
-            "stars_today": 171848,
+            "stars": 171863,
+            "stars_today": 171863,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 105885,
-            "stars_today": 105885,
+            "stars": 105890,
+            "stars_today": 105890,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96903,
-            "stars_today": 96903,
+            "stars": 96905,
+            "stars_today": 96905,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 95171,
-            "stars_today": 95171,
+            "stars": 95190,
+            "stars_today": 95190,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 89797,
-            "stars_today": 89797,
+            "stars": 89812,
+            "stars_today": 89812,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-10-02T16:54:53Z",
+    "updated": "2026-10-02T21:29:35Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-10-02T16:54:53Z",
+    "updated": "2026-10-02T21:29:35Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-10-02T16:54:53Z",
+    "updated": "2026-10-02T21:29:35Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "GPT-6 Astra plays World of Warcraft for the first time with agent-wow",
-            "insight": "HN 热议：43 分 · 26 评论",
+            "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
+            "insight": "HN 热议：125 分 · 24 评论",
             "sentiment": "neutral",
-            "comments": 26,
-            "url": "https://agent-wow.sh/gpt-6-astra-plays-world-of-warcraft-for-the-first-time-with-agent-wow/",
+            "comments": 24,
+            "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Giving Opus 5.5 a simulated paint canvas",
-            "insight": "HN 热议：33 分 · 10 评论",
+            "title": "With most information hidden, the game Stratego had stumped AI until now",
+            "insight": "HN 热议：106 分 · 35 评论",
             "sentiment": "neutral",
-            "comments": 10,
-            "url": "https://stillwet.art/",
+            "comments": 35,
+            "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "The Four Horsemen of Agentic Coding",
-            "insight": "HN 热议：48 分 · 16 评论",
+            "title": "From the creator of Redis; run LLM locally with ds4",
+            "insight": "HN 热议：73 分 · 6 评论",
             "sentiment": "neutral",
-            "comments": 16,
-            "url": "https://distantprovince.substack.com/p/the-four-horsemen-of-agentic-coding",
+            "comments": 6,
+            "url": "https://dwarfstar.sh/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Sites in ChatGPT",
-            "insight": "HN 热议：7 分 · 9 评论",
+            "title": "Show HN: Made an open-source Lego AI generator",
+            "insight": "HN 热议：34 分 · 19 评论",
             "sentiment": "neutral",
-            "comments": 9,
-            "url": "https://chatgpt.com/features/sites/",
+            "comments": 19,
+            "url": "https://github.com/anteloc/ldraw-nova",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Benchmarking retrieval for agents on messy real-world company knowledge",
-            "insight": "HN 热议：16 分 · 0 评论",
+            "title": "Venice’s failed war against Constantinople led to the first bond market",
+            "insight": "HN 热议：46 分 · 13 评论",
             "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://www.kapa.ai/blog/company-knowledge-bench",
+            "comments": 13,
+            "url": "https://bigthink.com/books/a-fabulous-debt/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-10-02T16:54:53Z",
+    "updated": "2026-10-02T21:29:35Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
