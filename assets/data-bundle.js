@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-10-03T14:00:40Z",
+    "updated": "2026-10-03T18:22:55Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-10-03T14:00:40Z",
+    "updated": "2026-10-03T18:22:55Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-10-03T08:38:26Z",
+    "updated": "2026-10-03T18:22:55Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187646,
-            "stars_today": 187646,
+            "stars": 187645,
+            "stars_today": 187645,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 171891,
-            "stars_today": 171891,
+            "stars": 171929,
+            "stars_today": 171929,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 105908,
-            "stars_today": 105908,
+            "stars": 105949,
+            "stars_today": 105949,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 95215,
-            "stars_today": 95215,
+            "stars": 95443,
+            "stars_today": 95443,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 89838,
-            "stars_today": 89838,
+            "stars": 89890,
+            "stars_today": 89890,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 66246,
-            "stars_today": 66246,
+            "stars": 66313,
+            "stars_today": 66313,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-10-03T14:00:40Z",
+    "updated": "2026-10-03T18:22:55Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-10-03T14:00:40Z",
+    "updated": "2026-10-03T18:22:55Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-10-03T14:00:40Z",
+    "updated": "2026-10-03T18:22:55Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Show HN: Germany's new sovereign AI model Kolibri",
-            "insight": "HN 热议：80 分 · 53 评论",
+            "title": "Show HN: Offrun – manage every coding agent from one workspace",
+            "insight": "HN 热议：65 分 · 36 评论",
             "sentiment": "neutral",
-            "comments": 53,
-            "url": "https://tej.as/blog/aleph-alpha-kolibri",
+            "comments": 36,
+            "url": "https://offrun.dev/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Offrun – manage every coding agent from one workspace",
-            "insight": "HN 热议：24 分 · 10 评论",
-            "sentiment": "neutral",
-            "comments": 10,
-            "url": "https://offrun.dev/",
+            "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
+            "insight": "HN 热议：303 分 · 110 评论",
+            "sentiment": "positive",
+            "comments": 110,
+            "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "From the creator of Redis; run LLM locally with ds4",
-            "insight": "HN 热议：281 分 · 80 评论",
+            "insight": "HN 热议：314 分 · 92 评论",
             "sentiment": "positive",
-            "comments": 80,
+            "comments": 92,
             "url": "https://dwarfstar.sh/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
-            "insight": "HN 热议：268 分 · 96 评论",
+            "title": "With most information hidden, the game Stratego had stumped AI until now",
+            "insight": "HN 热议：267 分 · 130 评论",
             "sentiment": "positive",
-            "comments": 96,
-            "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
+            "comments": 130,
+            "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "With most information hidden, the game Stratego had stumped AI until now",
-            "insight": "HN 热议：243 分 · 116 评论",
+            "title": "Show HN: Giving Opus 5.5 a simulated paint canvas",
+            "insight": "HN 热议：354 分 · 106 评论",
             "sentiment": "positive",
-            "comments": 116,
-            "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+            "comments": 106,
+            "url": "https://stillwet.art/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-10-03T14:00:40Z",
+    "updated": "2026-10-03T18:22:55Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
