@@ -1,49 +1,49 @@
 {
-  "updated": "2026-10-02T21:29:35Z",
+  "updated": "2026-10-03T02:35:01Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
-      "insight": "HN 热议：125 分 · 24 评论",
+      "title": "Hair Loss Was Just the Start. Ozempic Users Are Also Reporting Nail Trouble",
+      "insight": "HN 热议：41 分 · 27 评论",
       "sentiment": "neutral",
-      "comments": 24,
-      "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
+      "comments": 27,
+      "url": "https://gizmodo.com/hair-loss-was-just-the-start-ozempic-users-are-also-reporting-nail-trouble-2000820821",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "With most information hidden, the game Stratego had stumped AI until now",
-      "insight": "HN 热议：106 分 · 35 评论",
+      "title": "NTSB Preliminary Report: Prime Air 767 Runway Overrun [pdf]",
+      "insight": "HN 热议：15 分 · 7 评论",
       "sentiment": "neutral",
-      "comments": 35,
-      "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+      "comments": 7,
+      "url": "https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "From the creator of Redis; run LLM locally with ds4",
-      "insight": "HN 热议：73 分 · 6 评论",
+      "title": "With most information hidden, the game Stratego had stumped AI until now",
+      "insight": "HN 热议：187 分 · 91 评论",
       "sentiment": "neutral",
-      "comments": 6,
-      "url": "https://dwarfstar.sh/",
+      "comments": 91,
+      "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Made an open-source Lego AI generator",
-      "insight": "HN 热议：34 分 · 19 评论",
+      "title": "From the creator of Redis; run LLM locally with ds4",
+      "insight": "HN 热议：159 分 · 40 评论",
       "sentiment": "neutral",
-      "comments": 19,
-      "url": "https://github.com/anteloc/ldraw-nova",
+      "comments": 40,
+      "url": "https://dwarfstar.sh/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Venice’s failed war against Constantinople led to the first bond market",
-      "insight": "HN 热议：46 分 · 13 评论",
+      "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
+      "insight": "HN 热议：182 分 · 49 评论",
       "sentiment": "neutral",
-      "comments": 13,
-      "url": "https://bigthink.com/books/a-fabulous-debt/",
+      "comments": 49,
+      "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
       "id": 5
     }
   ]

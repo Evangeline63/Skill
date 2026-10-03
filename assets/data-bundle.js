@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-10-02T21:29:35Z",
+    "updated": "2026-10-03T02:35:01Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-10-02T21:29:35Z",
+    "updated": "2026-10-03T02:35:01Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-10-02T21:29:35Z",
+    "updated": "2026-10-03T02:35:01Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187638,
-            "stars_today": 187638,
+            "stars": 187639,
+            "stars_today": 187639,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 171863,
-            "stars_today": 171863,
+            "stars": 171876,
+            "stars_today": 171876,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,41 +291,41 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 105890,
-            "stars_today": 105890,
+            "stars": 105893,
+            "stars_today": 105893,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
             "rank": 4,
-            "name": "hacksider/Deep-Live-Cam",
-            "description": "real time face swap and one-click video deepfake with only a single image",
-            "language": "Python",
-            "stars": 96905,
-            "stars_today": 96905,
-            "url": "https://github.com/hacksider/Deep-Live-Cam"
-        },
-        {
-            "rank": 5,
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 95190,
-            "stars_today": 95190,
+            "stars": 95201,
+            "stars_today": 95201,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
-            "rank": 6,
+            "rank": 5,
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 89812,
-            "stars_today": 89812,
+            "stars": 89828,
+            "stars_today": 89828,
             "url": "https://github.com/OpenHands/OpenHands"
+        },
+        {
+            "rank": 6,
+            "name": "usestrix/strix",
+            "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+            "language": "Python",
+            "stars": 66197,
+            "stars_today": 66197,
+            "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-10-02T21:29:35Z",
+    "updated": "2026-10-03T02:35:01Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-10-02T21:29:35Z",
+    "updated": "2026-10-03T02:35:01Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-10-02T21:29:35Z",
+    "updated": "2026-10-03T02:35:01Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
-            "insight": "HN 热议：125 分 · 24 评论",
+            "title": "Hair Loss Was Just the Start. Ozempic Users Are Also Reporting Nail Trouble",
+            "insight": "HN 热议：41 分 · 27 评论",
             "sentiment": "neutral",
-            "comments": 24,
-            "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
+            "comments": 27,
+            "url": "https://gizmodo.com/hair-loss-was-just-the-start-ozempic-users-are-also-reporting-nail-trouble-2000820821",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "With most information hidden, the game Stratego had stumped AI until now",
-            "insight": "HN 热议：106 分 · 35 评论",
+            "title": "NTSB Preliminary Report: Prime Air 767 Runway Overrun [pdf]",
+            "insight": "HN 热议：15 分 · 7 评论",
             "sentiment": "neutral",
-            "comments": 35,
-            "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+            "comments": 7,
+            "url": "https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "From the creator of Redis; run LLM locally with ds4",
-            "insight": "HN 热议：73 分 · 6 评论",
+            "title": "With most information hidden, the game Stratego had stumped AI until now",
+            "insight": "HN 热议：187 分 · 91 评论",
             "sentiment": "neutral",
-            "comments": 6,
-            "url": "https://dwarfstar.sh/",
+            "comments": 91,
+            "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Made an open-source Lego AI generator",
-            "insight": "HN 热议：34 分 · 19 评论",
+            "title": "From the creator of Redis; run LLM locally with ds4",
+            "insight": "HN 热议：159 分 · 40 评论",
             "sentiment": "neutral",
-            "comments": 19,
-            "url": "https://github.com/anteloc/ldraw-nova",
+            "comments": 40,
+            "url": "https://dwarfstar.sh/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Venice’s failed war against Constantinople led to the first bond market",
-            "insight": "HN 热议：46 分 · 13 评论",
+            "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
+            "insight": "HN 热议：182 分 · 49 评论",
             "sentiment": "neutral",
-            "comments": 13,
-            "url": "https://bigthink.com/books/a-fabulous-debt/",
+            "comments": 49,
+            "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-10-02T21:29:35Z",
+    "updated": "2026-10-03T02:35:01Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
