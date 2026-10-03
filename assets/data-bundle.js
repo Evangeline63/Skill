@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-10-03T18:22:55Z",
+    "updated": "2026-10-03T23:24:51Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-10-03T18:22:55Z",
+    "updated": "2026-10-03T23:24:51Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-10-03T18:22:55Z",
+    "updated": "2026-10-03T23:24:51Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187645,
-            "stars_today": 187645,
+            "stars": 187644,
+            "stars_today": 187644,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 171929,
-            "stars_today": 171929,
+            "stars": 171944,
+            "stars_today": 171944,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 105949,
-            "stars_today": 105949,
+            "stars": 105958,
+            "stars_today": 105958,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 95443,
-            "stars_today": 95443,
+            "stars": 95558,
+            "stars_today": 95558,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 89890,
-            "stars_today": 89890,
+            "stars": 89909,
+            "stars_today": 89909,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 66313,
-            "stars_today": 66313,
+            "stars": 66344,
+            "stars_today": 66344,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-10-03T18:22:55Z",
+    "updated": "2026-10-03T23:24:51Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-10-03T18:22:55Z",
+    "updated": "2026-10-03T23:24:51Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-10-03T18:22:55Z",
+    "updated": "2026-10-03T23:24:51Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Show HN: Offrun – manage every coding agent from one workspace",
-            "insight": "HN 热议：65 分 · 36 评论",
+            "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
+            "insight": "HN 热议：136 分 · 91 评论",
             "sentiment": "neutral",
-            "comments": 36,
-            "url": "https://offrun.dev/",
+            "comments": 91,
+            "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
-            "insight": "HN 热议：303 分 · 110 评论",
-            "sentiment": "positive",
-            "comments": 110,
-            "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
+            "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+            "insight": "HN 热议：47 分 · 23 评论",
+            "sentiment": "neutral",
+            "comments": 23,
+            "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "From the creator of Redis; run LLM locally with ds4",
-            "insight": "HN 热议：314 分 · 92 评论",
-            "sentiment": "positive",
-            "comments": 92,
-            "url": "https://dwarfstar.sh/",
+            "title": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
+            "insight": "HN 热议：67 分 · 27 评论",
+            "sentiment": "neutral",
+            "comments": 27,
+            "url": "https://pipod.dev/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "With most information hidden, the game Stratego had stumped AI until now",
-            "insight": "HN 热议：267 分 · 130 评论",
-            "sentiment": "positive",
-            "comments": 130,
-            "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+            "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
+            "insight": "HN 热议：36 分 · 5 评论",
+            "sentiment": "neutral",
+            "comments": 5,
+            "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Giving Opus 5.5 a simulated paint canvas",
-            "insight": "HN 热议：354 分 · 106 评论",
-            "sentiment": "positive",
-            "comments": 106,
-            "url": "https://stillwet.art/",
+            "title": "Agents don't need memory, they need documentation",
+            "insight": "HN 热议：18 分 · 14 评论",
+            "sentiment": "neutral",
+            "comments": 14,
+            "url": "https://liao.gg/blog/agents-dont-need-memory",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-10-03T18:22:55Z",
+    "updated": "2026-10-03T23:24:51Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
