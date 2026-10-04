@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-10-04T03:06:09Z",
+    "updated": "2026-10-04T11:25:09Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-10-04T03:06:09Z",
+    "updated": "2026-10-04T11:25:09Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-10-04T03:06:09Z",
+    "updated": "2026-10-04T11:25:09Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187642,
-            "stars_today": 187642,
+            "stars": 187646,
+            "stars_today": 187646,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 171955,
-            "stars_today": 171955,
+            "stars": 171992,
+            "stars_today": 171992,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 105961,
-            "stars_today": 105961,
+            "stars": 105978,
+            "stars_today": 105978,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 95633,
-            "stars_today": 95633,
+            "stars": 95840,
+            "stars_today": 95840,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 89919,
-            "stars_today": 89919,
+            "stars": 89950,
+            "stars_today": 89950,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 66361,
-            "stars_today": 66361,
+            "stars": 66414,
+            "stars_today": 66414,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-10-04T03:06:09Z",
+    "updated": "2026-10-04T11:25:09Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-10-04T03:06:09Z",
+    "updated": "2026-10-04T11:25:09Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-10-04T03:06:09Z",
+    "updated": "2026-10-04T11:25:09Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
-            "insight": "HN 热议：203 分 · 149 评论",
-            "sentiment": "positive",
-            "comments": 149,
-            "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+            "title": "Agents don't need memory, they need documentation",
+            "insight": "HN 热议：197 分 · 110 评论",
+            "sentiment": "neutral",
+            "comments": 110,
+            "url": "https://liao.gg/blog/agents-dont-need-memory",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
-            "insight": "HN 热议：176 分 · 126 评论",
+            "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+            "insight": "HN 热议：159 分 · 215 评论",
             "sentiment": "neutral",
-            "comments": 126,
-            "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
+            "comments": 215,
+            "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Three AI agents, two countries, and one uneven world wide web",
-            "insight": "HN 热议：9 分 · 0 评论",
+            "title": "In Ukraine, distributed renewables foil Russia's assaults",
+            "insight": "HN 热议：91 分 · 71 评论",
             "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://royapakzad.substack.com/p/multilingual-ai-agents",
+            "comments": 71,
+            "url": "https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Agents don't need memory, they need documentation",
-            "insight": "HN 热议：67 分 · 51 评论",
+            "title": "Religious scholars met with Anthropic",
+            "insight": "HN 热议：87 分 · 194 评论",
             "sentiment": "neutral",
-            "comments": 51,
-            "url": "https://liao.gg/blog/agents-dont-need-memory",
+            "comments": 194,
+            "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
-            "insight": "HN 热议：80 分 · 30 评论",
-            "sentiment": "neutral",
-            "comments": 30,
-            "url": "https://pipod.dev/",
+            "title": "I quit OpenAI because its culture is broken",
+            "insight": "HN 热议：254 分 · 507 评论",
+            "sentiment": "positive",
+            "comments": 507,
+            "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-10-04T03:06:09Z",
+    "updated": "2026-10-04T11:25:09Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

@@ -1,49 +1,49 @@
 {
-  "updated": "2026-10-04T03:06:09Z",
+  "updated": "2026-10-04T11:25:09Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
-      "insight": "HN 热议：203 分 · 149 评论",
-      "sentiment": "positive",
-      "comments": 149,
-      "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+      "title": "Agents don't need memory, they need documentation",
+      "insight": "HN 热议：197 分 · 110 评论",
+      "sentiment": "neutral",
+      "comments": 110,
+      "url": "https://liao.gg/blog/agents-dont-need-memory",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
-      "insight": "HN 热议：176 分 · 126 评论",
+      "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+      "insight": "HN 热议：159 分 · 215 评论",
       "sentiment": "neutral",
-      "comments": 126,
-      "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
+      "comments": 215,
+      "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Three AI agents, two countries, and one uneven world wide web",
-      "insight": "HN 热议：9 分 · 0 评论",
+      "title": "In Ukraine, distributed renewables foil Russia's assaults",
+      "insight": "HN 热议：91 分 · 71 评论",
       "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://royapakzad.substack.com/p/multilingual-ai-agents",
+      "comments": 71,
+      "url": "https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Agents don't need memory, they need documentation",
-      "insight": "HN 热议：67 分 · 51 评论",
+      "title": "Religious scholars met with Anthropic",
+      "insight": "HN 热议：87 分 · 194 评论",
       "sentiment": "neutral",
-      "comments": 51,
-      "url": "https://liao.gg/blog/agents-dont-need-memory",
+      "comments": 194,
+      "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
-      "insight": "HN 热议：80 分 · 30 评论",
-      "sentiment": "neutral",
-      "comments": 30,
-      "url": "https://pipod.dev/",
+      "title": "I quit OpenAI because its culture is broken",
+      "insight": "HN 热议：254 分 · 507 评论",
+      "sentiment": "positive",
+      "comments": 507,
+      "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA",
       "id": 5
     }
   ]
