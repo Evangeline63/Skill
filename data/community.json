@@ -1,49 +1,49 @@
 {
-  "updated": "2026-10-03T23:24:51Z",
+  "updated": "2026-10-04T03:06:09Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
-      "insight": "HN 热议：136 分 · 91 评论",
-      "sentiment": "neutral",
-      "comments": 91,
-      "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
+      "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
+      "insight": "HN 热议：203 分 · 149 评论",
+      "sentiment": "positive",
+      "comments": 149,
+      "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-      "insight": "HN 热议：47 分 · 23 评论",
+      "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
+      "insight": "HN 热议：176 分 · 126 评论",
       "sentiment": "neutral",
-      "comments": 23,
-      "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
+      "comments": 126,
+      "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
-      "insight": "HN 热议：67 分 · 27 评论",
+      "title": "Three AI agents, two countries, and one uneven world wide web",
+      "insight": "HN 热议：9 分 · 0 评论",
       "sentiment": "neutral",
-      "comments": 27,
-      "url": "https://pipod.dev/",
+      "comments": 0,
+      "url": "https://royapakzad.substack.com/p/multilingual-ai-agents",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
-      "insight": "HN 热议：36 分 · 5 评论",
+      "title": "Agents don't need memory, they need documentation",
+      "insight": "HN 热议：67 分 · 51 评论",
       "sentiment": "neutral",
-      "comments": 5,
-      "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+      "comments": 51,
+      "url": "https://liao.gg/blog/agents-dont-need-memory",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Agents don't need memory, they need documentation",
-      "insight": "HN 热议：18 分 · 14 评论",
+      "title": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
+      "insight": "HN 热议：80 分 · 30 评论",
       "sentiment": "neutral",
-      "comments": 14,
-      "url": "https://liao.gg/blog/agents-dont-need-memory",
+      "comments": 30,
+      "url": "https://pipod.dev/",
       "id": 5
     }
   ]
