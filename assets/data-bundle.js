@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-10-04T11:25:09Z",
+    "updated": "2026-10-04T16:03:12Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-10-04T11:25:09Z",
+    "updated": "2026-10-04T16:03:12Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-10-04T11:25:09Z",
+    "updated": "2026-10-04T16:03:12Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187646,
-            "stars_today": 187646,
+            "stars": 187650,
+            "stars_today": 187650,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 171992,
-            "stars_today": 171992,
+            "stars": 172008,
+            "stars_today": 172008,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 105978,
-            "stars_today": 105978,
+            "stars": 106003,
+            "stars_today": 106003,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 95840,
-            "stars_today": 95840,
+            "stars": 95948,
+            "stars_today": 95948,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 89950,
-            "stars_today": 89950,
+            "stars": 89974,
+            "stars_today": 89974,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 66414,
-            "stars_today": 66414,
+            "stars": 66449,
+            "stars_today": 66449,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-10-04T11:25:09Z",
+    "updated": "2026-10-04T16:03:12Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-10-04T11:25:09Z",
+    "updated": "2026-10-04T16:03:12Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-10-04T11:25:09Z",
+    "updated": "2026-10-04T16:03:12Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Agents don't need memory, they need documentation",
-            "insight": "HN 热议：197 分 · 110 评论",
+            "title": "Show HN: AI search for every photo and every frame of video on macOS",
+            "insight": "HN 热议：56 分 · 36 评论",
             "sentiment": "neutral",
-            "comments": 110,
-            "url": "https://liao.gg/blog/agents-dont-need-memory",
+            "comments": 36,
+            "url": "https://github.com/allenv0/SCM",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-            "insight": "HN 热议：159 分 · 215 评论",
-            "sentiment": "neutral",
-            "comments": 215,
-            "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
+            "title": "Agents don't need memory, they need documentation",
+            "insight": "HN 热议：279 分 · 159 评论",
+            "sentiment": "positive",
+            "comments": 159,
+            "url": "https://liao.gg/blog/agents-dont-need-memory",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "In Ukraine, distributed renewables foil Russia's assaults",
-            "insight": "HN 热议：91 分 · 71 评论",
-            "sentiment": "neutral",
-            "comments": 71,
-            "url": "https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/",
+            "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+            "insight": "HN 热议：260 分 · 404 评论",
+            "sentiment": "positive",
+            "comments": 404,
+            "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Religious scholars met with Anthropic",
-            "insight": "HN 热议：87 分 · 194 评论",
+            "title": "RuneScape's Position on Gen AI",
+            "insight": "HN 热议：7 分 · 3 评论",
             "sentiment": "neutral",
-            "comments": 194,
-            "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+            "comments": 3,
+            "url": "https://www.reddit.com/r/2007scape/comments/1wxfyzp/runescapes_position_on_gen_ai/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "I quit OpenAI because its culture is broken",
-            "insight": "HN 热议：254 分 · 507 评论",
-            "sentiment": "positive",
-            "comments": 507,
-            "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA",
+            "title": "What's the Future for Pure Math Research in the Age of AI?",
+            "insight": "HN 热议：22 分 · 2 评论",
+            "sentiment": "neutral",
+            "comments": 2,
+            "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-10-04T11:25:09Z",
+    "updated": "2026-10-04T16:03:12Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
