@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-10-04T20:33:30Z",
+    "updated": "2026-10-04T23:39:16Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-10-04T20:33:30Z",
+    "updated": "2026-10-04T23:39:16Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-10-04T20:33:30Z",
+    "updated": "2026-10-04T23:39:16Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187656,
-            "stars_today": 187656,
+            "stars": 187657,
+            "stars_today": 187657,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 172025,
-            "stars_today": 172025,
+            "stars": 172033,
+            "stars_today": 172033,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 96060,
-            "stars_today": 96060,
+            "stars": 96111,
+            "stars_today": 96111,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 89989,
-            "stars_today": 89989,
+            "stars": 89993,
+            "stars_today": 89993,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 66488,
-            "stars_today": 66488,
+            "stars": 66506,
+            "stars_today": 66506,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-10-04T20:33:30Z",
+    "updated": "2026-10-04T23:39:16Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-10-04T20:33:30Z",
+    "updated": "2026-10-04T23:39:16Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-10-04T20:33:30Z",
+    "updated": "2026-10-04T23:39:16Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Remove and Disable Apple Macos27 AI Models Tool",
-            "insight": "HN 热议：36 分 · 13 评论",
+            "title": "Homa: The end of TCP for AI clusters [video]",
+            "insight": "HN 热议：45 分 · 11 评论",
             "sentiment": "neutral",
-            "comments": 13,
-            "url": "https://github.com/omlahore/RemoveMacAI",
+            "comments": 11,
+            "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Homa: The End of TCP for AI Clusters [video]",
-            "insight": "HN 热议：8 分 · 0 评论",
+            "title": "How to scale intent, quality, and artistry with AI [video]",
+            "insight": "HN 热议：42 分 · 13 评论",
             "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
+            "comments": 13,
+            "url": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "How to scale intent, quality, and artistry with AI [video]",
-            "insight": "HN 热议：18 分 · 4 评论",
+            "title": "Show HN: AI search for every photo and every frame of video on macOS",
+            "insight": "HN 热议：132 分 · 62 评论",
             "sentiment": "neutral",
-            "comments": 4,
-            "url": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
+            "comments": 62,
+            "url": "https://github.com/allenv0/SCM",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: AI search for every photo and every frame of video on macOS",
-            "insight": "HN 热议：113 分 · 58 评论",
+            "title": "Declaring a bird extinct: The median wait is 36 years after the last sighting",
+            "insight": "HN 热议：16 分 · 7 评论",
             "sentiment": "neutral",
-            "comments": 58,
-            "url": "https://github.com/allenv0/SCM",
+            "comments": 7,
+            "url": "https://birdshistory.com/how-long-to-declare-a-bird-extinct/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Agents don't need memory, they need documentation",
-            "insight": "HN 热议：320 分 · 200 评论",
-            "sentiment": "positive",
-            "comments": 200,
-            "url": "https://liao.gg/blog/agents-dont-need-memory",
+            "title": "Interview with Chicken Scheme Maintainer Sjamaan/Peter Bex",
+            "insight": "HN 热议：3 分 · 1 评论",
+            "sentiment": "neutral",
+            "comments": 1,
+            "url": "https://alexalejandre.com/interviews/peter-bex/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-10-04T20:33:30Z",
+    "updated": "2026-10-04T23:39:16Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

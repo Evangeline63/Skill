@@ -1,49 +1,49 @@
 {
-  "updated": "2026-10-04T20:33:30Z",
+  "updated": "2026-10-04T23:39:16Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Remove and Disable Apple Macos27 AI Models Tool",
-      "insight": "HN 热议：36 分 · 13 评论",
+      "title": "Homa: The end of TCP for AI clusters [video]",
+      "insight": "HN 热议：45 分 · 11 评论",
       "sentiment": "neutral",
-      "comments": 13,
-      "url": "https://github.com/omlahore/RemoveMacAI",
+      "comments": 11,
+      "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Homa: The End of TCP for AI Clusters [video]",
-      "insight": "HN 热议：8 分 · 0 评论",
+      "title": "How to scale intent, quality, and artistry with AI [video]",
+      "insight": "HN 热议：42 分 · 13 评论",
       "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
+      "comments": 13,
+      "url": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "How to scale intent, quality, and artistry with AI [video]",
-      "insight": "HN 热议：18 分 · 4 评论",
+      "title": "Show HN: AI search for every photo and every frame of video on macOS",
+      "insight": "HN 热议：132 分 · 62 评论",
       "sentiment": "neutral",
-      "comments": 4,
-      "url": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
+      "comments": 62,
+      "url": "https://github.com/allenv0/SCM",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: AI search for every photo and every frame of video on macOS",
-      "insight": "HN 热议：113 分 · 58 评论",
+      "title": "Declaring a bird extinct: The median wait is 36 years after the last sighting",
+      "insight": "HN 热议：16 分 · 7 评论",
       "sentiment": "neutral",
-      "comments": 58,
-      "url": "https://github.com/allenv0/SCM",
+      "comments": 7,
+      "url": "https://birdshistory.com/how-long-to-declare-a-bird-extinct/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Agents don't need memory, they need documentation",
-      "insight": "HN 热议：320 分 · 200 评论",
-      "sentiment": "positive",
-      "comments": 200,
-      "url": "https://liao.gg/blog/agents-dont-need-memory",
+      "title": "Interview with Chicken Scheme Maintainer Sjamaan/Peter Bex",
+      "insight": "HN 热议：3 分 · 1 评论",
+      "sentiment": "neutral",
+      "comments": 1,
+      "url": "https://alexalejandre.com/interviews/peter-bex/",
       "id": 5
     }
   ]
