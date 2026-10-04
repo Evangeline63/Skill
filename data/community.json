@@ -1,49 +1,49 @@
 {
-  "updated": "2026-10-04T16:03:12Z",
+  "updated": "2026-10-04T20:33:30Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Show HN: AI search for every photo and every frame of video on macOS",
-      "insight": "HN 热议：56 分 · 36 评论",
+      "title": "Remove and Disable Apple Macos27 AI Models Tool",
+      "insight": "HN 热议：36 分 · 13 评论",
       "sentiment": "neutral",
-      "comments": 36,
-      "url": "https://github.com/allenv0/SCM",
+      "comments": 13,
+      "url": "https://github.com/omlahore/RemoveMacAI",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Agents don't need memory, they need documentation",
-      "insight": "HN 热议：279 分 · 159 评论",
-      "sentiment": "positive",
-      "comments": 159,
-      "url": "https://liao.gg/blog/agents-dont-need-memory",
+      "title": "Homa: The End of TCP for AI Clusters [video]",
+      "insight": "HN 热议：8 分 · 0 评论",
+      "sentiment": "neutral",
+      "comments": 0,
+      "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-      "insight": "HN 热议：260 分 · 404 评论",
-      "sentiment": "positive",
-      "comments": 404,
-      "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
+      "title": "How to scale intent, quality, and artistry with AI [video]",
+      "insight": "HN 热议：18 分 · 4 评论",
+      "sentiment": "neutral",
+      "comments": 4,
+      "url": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "RuneScape's Position on Gen AI",
-      "insight": "HN 热议：7 分 · 3 评论",
+      "title": "Show HN: AI search for every photo and every frame of video on macOS",
+      "insight": "HN 热议：113 分 · 58 评论",
       "sentiment": "neutral",
-      "comments": 3,
-      "url": "https://www.reddit.com/r/2007scape/comments/1wxfyzp/runescapes_position_on_gen_ai/",
+      "comments": 58,
+      "url": "https://github.com/allenv0/SCM",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "What's the Future for Pure Math Research in the Age of AI?",
-      "insight": "HN 热议：22 分 · 2 评论",
-      "sentiment": "neutral",
-      "comments": 2,
-      "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/",
+      "title": "Agents don't need memory, they need documentation",
+      "insight": "HN 热议：320 分 · 200 评论",
+      "sentiment": "positive",
+      "comments": 200,
+      "url": "https://liao.gg/blog/agents-dont-need-memory",
       "id": 5
     }
   ]
