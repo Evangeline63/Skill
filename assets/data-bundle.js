@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-10-04T23:39:16Z",
+    "updated": "2026-10-05T02:39:34Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-10-04T23:39:16Z",
+    "updated": "2026-10-05T02:39:34Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-10-04T23:39:16Z",
+    "updated": "2026-10-05T02:39:34Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187657,
-            "stars_today": 187657,
+            "stars": 187660,
+            "stars_today": 187660,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 172033,
-            "stars_today": 172033,
+            "stars": 172046,
+            "stars_today": 172046,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,41 +291,41 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 106010,
-            "stars_today": 106010,
+            "stars": 106015,
+            "stars_today": 106015,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
             "rank": 4,
-            "name": "thedotmack/claude-mem",
-            "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
-            "language": "TypeScript",
-            "stars": 96111,
-            "stars_today": 96111,
-            "url": "https://github.com/thedotmack/claude-mem"
+            "name": "hacksider/Deep-Live-Cam",
+            "description": "real time face swap and one-click video deepfake with only a single image",
+            "language": "Python",
+            "stars": 96921,
+            "stars_today": 96921,
+            "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
             "rank": 5,
-            "name": "OpenHands/OpenHands",
-            "description": "🙌 OpenHands: AI-Driven Development",
+            "name": "thedotmack/claude-mem",
+            "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 89993,
-            "stars_today": 89993,
-            "url": "https://github.com/OpenHands/OpenHands"
+            "stars": 96167,
+            "stars_today": 96167,
+            "url": "https://github.com/thedotmack/claude-mem"
         },
         {
             "rank": 6,
-            "name": "usestrix/strix",
-            "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-            "language": "Python",
-            "stars": 66506,
-            "stars_today": 66506,
-            "url": "https://github.com/usestrix/strix"
+            "name": "OpenHands/OpenHands",
+            "description": "🙌 OpenHands: AI-Driven Development",
+            "language": "TypeScript",
+            "stars": 90001,
+            "stars_today": 90001,
+            "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-10-04T23:39:16Z",
+    "updated": "2026-10-05T02:39:34Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-10-04T23:39:16Z",
+    "updated": "2026-10-05T02:39:34Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-10-04T23:39:16Z",
+    "updated": "2026-10-05T02:39:34Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Homa: The end of TCP for AI clusters [video]",
-            "insight": "HN 热议：45 分 · 11 评论",
+            "title": "Powerless F1 drivers frustrated by Bahrain F1 software glitch",
+            "insight": "HN 热议：41 分 · 16 评论",
             "sentiment": "neutral",
-            "comments": 11,
-            "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
+            "comments": 16,
+            "url": "https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "How to scale intent, quality, and artistry with AI [video]",
-            "insight": "HN 热议：42 分 · 13 评论",
+            "title": "Homa: The end of TCP for AI clusters [video]",
+            "insight": "HN 热议：59 分 · 22 评论",
             "sentiment": "neutral",
-            "comments": 13,
-            "url": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
+            "comments": 22,
+            "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: AI search for every photo and every frame of video on macOS",
-            "insight": "HN 热议：132 分 · 62 评论",
+            "title": "How to scale intent, quality, and artistry with AI [video]",
+            "insight": "HN 热议：53 分 · 16 评论",
             "sentiment": "neutral",
-            "comments": 62,
-            "url": "https://github.com/allenv0/SCM",
+            "comments": 16,
+            "url": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Declaring a bird extinct: The median wait is 36 years after the last sighting",
-            "insight": "HN 热议：16 分 · 7 评论",
+            "title": "Show HN: AI search for every photo and every frame of video on macOS",
+            "insight": "HN 热议：142 分 · 66 评论",
             "sentiment": "neutral",
-            "comments": 7,
-            "url": "https://birdshistory.com/how-long-to-declare-a-bird-extinct/",
+            "comments": 66,
+            "url": "https://github.com/allenv0/SCM",
             "id": 4
         },
         {
             "source": "HackerNews",
             "title": "Interview with Chicken Scheme Maintainer Sjamaan/Peter Bex",
-            "insight": "HN 热议：3 分 · 1 评论",
+            "insight": "HN 热议：15 分 · 3 评论",
             "sentiment": "neutral",
-            "comments": 1,
+            "comments": 3,
             "url": "https://alexalejandre.com/interviews/peter-bex/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-10-04T23:39:16Z",
+    "updated": "2026-10-05T02:39:34Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
