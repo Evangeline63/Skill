@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-10-06T17:29:50Z",
+    "updated": "2026-10-06T21:56:33Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-10-06T17:29:50Z",
+    "updated": "2026-10-06T21:56:33Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-10-06T17:29:50Z",
+    "updated": "2026-10-06T21:56:33Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187675,
-            "stars_today": 187675,
+            "stars": 187670,
+            "stars_today": 187670,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 172180,
-            "stars_today": 172180,
+            "stars": 172193,
+            "stars_today": 172193,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 97012,
-            "stars_today": 97012,
+            "stars": 97113,
+            "stars_today": 97113,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96924,
-            "stars_today": 96924,
+            "stars": 96923,
+            "stars_today": 96923,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 90108,
-            "stars_today": 90108,
+            "stars": 90119,
+            "stars_today": 90119,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-10-06T17:29:50Z",
+    "updated": "2026-10-06T21:56:33Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-10-06T17:29:50Z",
+    "updated": "2026-10-06T21:56:33Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-10-06T17:29:50Z",
+    "updated": "2026-10-06T21:56:33Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Mistral Large 4",
-            "insight": "HN 热议：951 分 · 637 评论",
+            "insight": "HN 热议：1444 分 · 903 评论",
             "sentiment": "positive",
-            "comments": 637,
+            "comments": 903,
             "url": "https://mistral.ai/news/mistral-large-4/\\",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "AI is now capable of developing its own inference hardware",
-            "insight": "HN 热议：85 分 · 48 评论",
+            "title": "OpenTPU – An open-source AI accelerator, developed by AI",
+            "insight": "HN 热议：179 分 · 231 评论",
             "sentiment": "neutral",
-            "comments": 48,
+            "comments": 231,
             "url": "https://github.com/FeSens/openTPU",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "JetBrains reported a net financial loss first time in its tracked history",
-            "insight": "HN 热议：472 分 · 450 评论",
-            "sentiment": "positive",
-            "comments": 450,
-            "url": "https://www.helgilibrary.com/companies/jetbrains",
+            "title": "Claude Code’s suggested message feature: I think the real customer is the model",
+            "insight": "HN 热议：23 分 · 6 评论",
+            "sentiment": "neutral",
+            "comments": 6,
+            "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Utah to let AI examine patients and prescribe medication without human oversight",
-            "insight": "HN 热议：23 分 · 16 评论",
+            "title": "Erdosproblems.com Succumbs to the AI Onslaught",
+            "insight": "HN 热议：64 分 · 25 评论",
             "sentiment": "neutral",
-            "comments": 16,
-            "url": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html",
+            "comments": 25,
+            "url": "https://www.erdosproblems.com/forum/thread/blog:9",
             "id": 4
         },
         {
             "source": "HackerNews",
             "title": "Dust: Pretraining Transformers Without Backpropagation",
-            "insight": "HN 热议：251 分 · 68 评论",
+            "insight": "HN 热议：264 分 · 79 评论",
             "sentiment": "positive",
-            "comments": 68,
+            "comments": 79,
             "url": "https://qlabs.sh/research/dust",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-10-06T17:29:50Z",
+    "updated": "2026-10-06T21:56:33Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
