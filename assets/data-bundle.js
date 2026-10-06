@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-10-05T09:41:48Z",
+    "updated": "2026-10-06T01:34:22Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-10-05T09:41:48Z",
+    "updated": "2026-10-06T01:34:22Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-10-05T09:41:48Z",
+    "updated": "2026-10-06T01:34:22Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187655,
-            "stars_today": 187655,
+            "stars": 187662,
+            "stars_today": 187662,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 172056,
-            "stars_today": 172056,
+            "stars": 172096,
+            "stars_today": 172096,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 106033,
-            "stars_today": 106033,
+            "stars": 106080,
+            "stars_today": 106080,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96920,
-            "stars_today": 96920,
+            "stars": 96918,
+            "stars_today": 96918,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 96312,
-            "stars_today": 96312,
+            "stars": 96642,
+            "stars_today": 96642,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 90013,
-            "stars_today": 90013,
+            "stars": 90061,
+            "stars_today": 90061,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-10-05T09:41:48Z",
+    "updated": "2026-10-06T01:34:22Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-10-05T09:41:48Z",
+    "updated": "2026-10-06T01:34:22Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-10-05T09:41:48Z",
+    "updated": "2026-10-06T01:34:22Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Decision models like Jev don't beat LLM-as-a-judge or traditional classifiers",
-            "insight": "HN 热议：60 分 · 15 评论",
-            "sentiment": "neutral",
-            "comments": 15,
-            "url": "https://developers.redhat.com/articles/2026/10/02/benchmarking-ai-decision-models-against-traditional-guardrails",
+            "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+            "insight": "HN 热议：210 分 · 108 评论",
+            "sentiment": "positive",
+            "comments": 108,
+            "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Powerless F1 drivers frustrated by Bahrain F1 software glitch",
-            "insight": "HN 热议：197 分 · 165 评论",
+            "title": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
+            "insight": "HN 热议：25 分 · 12 评论",
             "sentiment": "neutral",
-            "comments": 165,
-            "url": "https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/",
+            "comments": 12,
+            "url": "https://edworkingpapers.com/ai26-1551",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "How to scale intent, quality, and artistry with AI [video]",
-            "insight": "HN 热议：86 分 · 30 评论",
+            "title": "Dust: Pretraining Transformers Without Backpropagation",
+            "insight": "HN 热议：97 分 · 17 评论",
             "sentiment": "neutral",
-            "comments": 30,
-            "url": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
+            "comments": 17,
+            "url": "https://qlabs.sh/research/dust",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Interview with Chicken Scheme Maintainer Sjamaan/Peter Bex",
-            "insight": "HN 热议：40 分 · 11 评论",
-            "sentiment": "neutral",
-            "comments": 11,
-            "url": "https://alexalejandre.com/interviews/peter-bex/",
+            "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+            "insight": "HN 热议：203 分 · 154 评论",
+            "sentiment": "positive",
+            "comments": 154,
+            "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: AI search for every photo and every frame of video on macOS",
-            "insight": "HN 热议：152 分 · 69 评论",
+            "title": "An Algorithmic Failure Beneath the Secret Ballot",
+            "insight": "HN 热议：23 分 · 3 评论",
             "sentiment": "neutral",
-            "comments": 69,
-            "url": "https://github.com/allenv0/SCM",
+            "comments": 3,
+            "url": "https://blog.citp.princeton.edu/2026/08/03/an-algorithmic-failure-beneath-the-secret-ballot/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-10-05T09:41:48Z",
+    "updated": "2026-10-06T01:34:22Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
