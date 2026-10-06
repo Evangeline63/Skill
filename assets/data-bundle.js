@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-10-06T09:30:43Z",
+    "updated": "2026-10-06T17:29:50Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-10-06T09:30:43Z",
+    "updated": "2026-10-06T17:29:50Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-10-06T09:30:43Z",
+    "updated": "2026-10-06T17:29:50Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187673,
-            "stars_today": 187673,
+            "stars": 187675,
+            "stars_today": 187675,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 172117,
-            "stars_today": 172117,
+            "stars": 172180,
+            "stars_today": 172180,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,41 +291,41 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 106111,
-            "stars_today": 106111,
+            "stars": 106135,
+            "stars_today": 106135,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
             "rank": 4,
-            "name": "hacksider/Deep-Live-Cam",
-            "description": "real time face swap and one-click video deepfake with only a single image",
-            "language": "Python",
-            "stars": 96923,
-            "stars_today": 96923,
-            "url": "https://github.com/hacksider/Deep-Live-Cam"
-        },
-        {
-            "rank": 5,
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 96812,
-            "stars_today": 96812,
+            "stars": 97012,
+            "stars_today": 97012,
             "url": "https://github.com/thedotmack/claude-mem"
+        },
+        {
+            "rank": 5,
+            "name": "hacksider/Deep-Live-Cam",
+            "description": "real time face swap and one-click video deepfake with only a single image",
+            "language": "Python",
+            "stars": 96924,
+            "stars_today": 96924,
+            "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
             "rank": 6,
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 90082,
-            "stars_today": 90082,
+            "stars": 90108,
+            "stars_today": 90108,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-10-06T09:30:43Z",
+    "updated": "2026-10-06T17:29:50Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-10-06T09:30:43Z",
+    "updated": "2026-10-06T17:29:50Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-10-06T09:30:43Z",
+    "updated": "2026-10-06T17:29:50Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Dust: Pretraining Transformers Without Backpropagation",
-            "insight": "HN 热议：186 分 · 44 评论",
-            "sentiment": "neutral",
-            "comments": 44,
-            "url": "https://qlabs.sh/research/dust",
+            "title": "Mistral Large 4",
+            "insight": "HN 热议：951 分 · 637 评论",
+            "sentiment": "positive",
+            "comments": 637,
+            "url": "https://mistral.ai/news/mistral-large-4/\\",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-            "insight": "HN 热议：352 分 · 232 评论",
-            "sentiment": "positive",
-            "comments": 232,
-            "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+            "title": "AI is now capable of developing its own inference hardware",
+            "insight": "HN 热议：85 分 · 48 评论",
+            "sentiment": "neutral",
+            "comments": 48,
+            "url": "https://github.com/FeSens/openTPU",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "An algorithmic failure beneath the secret ballot",
-            "insight": "HN 热议：78 分 · 47 评论",
-            "sentiment": "neutral",
-            "comments": 47,
-            "url": "https://blog.citp.princeton.edu/2026/08/03/an-algorithmic-failure-beneath-the-secret-ballot/",
+            "title": "JetBrains reported a net financial loss first time in its tracked history",
+            "insight": "HN 热议：472 分 · 450 评论",
+            "sentiment": "positive",
+            "comments": 450,
+            "url": "https://www.helgilibrary.com/companies/jetbrains",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
-            "insight": "HN 热议：430 分 · 309 评论",
-            "sentiment": "positive",
-            "comments": 309,
-            "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
+            "title": "Utah to let AI examine patients and prescribe medication without human oversight",
+            "insight": "HN 热议：23 分 · 16 评论",
+            "sentiment": "neutral",
+            "comments": 16,
+            "url": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Using A.I. and machine learning to decode communication of sperm whales",
-            "insight": "HN 热议：22 分 · 6 评论",
-            "sentiment": "neutral",
-            "comments": 6,
-            "url": "https://blue-continuum.com/the-man-who-listens-to-whales",
+            "title": "Dust: Pretraining Transformers Without Backpropagation",
+            "insight": "HN 热议：251 分 · 68 评论",
+            "sentiment": "positive",
+            "comments": 68,
+            "url": "https://qlabs.sh/research/dust",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-10-06T09:30:43Z",
+    "updated": "2026-10-06T17:29:50Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
