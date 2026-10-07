@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-10-07T02:57:31Z",
+    "updated": "2026-10-07T09:39:07Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-10-07T02:57:31Z",
+    "updated": "2026-10-07T09:39:07Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-10-07T02:57:31Z",
+    "updated": "2026-10-07T09:39:07Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187676,
-            "stars_today": 187676,
+            "stars": 187680,
+            "stars_today": 187680,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 172206,
-            "stars_today": 172206,
+            "stars": 172234,
+            "stars_today": 172234,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 106145,
-            "stars_today": 106145,
+            "stars": 106166,
+            "stars_today": 106166,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 97225,
-            "stars_today": 97225,
+            "stars": 97362,
+            "stars_today": 97362,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96924,
-            "stars_today": 96924,
+            "stars": 96926,
+            "stars_today": 96926,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 90125,
-            "stars_today": 90125,
+            "stars": 90149,
+            "stars_today": 90149,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-10-07T02:57:31Z",
+    "updated": "2026-10-07T09:39:07Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-10-07T02:57:31Z",
+    "updated": "2026-10-07T09:39:07Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-10-07T02:57:31Z",
+    "updated": "2026-10-07T09:39:07Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Sharing AI progress in mathematics",
-            "insight": "HN 热议：493 分 · 412 评论",
+            "insight": "HN 热议：914 分 · 832 评论",
             "sentiment": "positive",
-            "comments": 412,
+            "comments": 832,
             "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Mistral Large 4",
-            "insight": "HN 热议：1616 分 · 972 评论",
-            "sentiment": "positive",
-            "comments": 972,
-            "url": "https://mistral.ai/news/mistral-large-4/\\",
+            "title": "Reasons to Dislike AI Coding",
+            "insight": "HN 热议：3 分 · 0 评论",
+            "sentiment": "neutral",
+            "comments": 0,
+            "url": "https://www.sicpers.info/2026/10/reasons-to-dislike-ai-coding/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Penguin Mail – open-source Rust email client for Linux with AI",
-            "insight": "HN 热议：85 分 · 33 评论",
-            "sentiment": "neutral",
-            "comments": 33,
-            "url": "https://penguin-mail.com/",
+            "title": "Mistral Large 4",
+            "insight": "HN 热议：1801 分 · 1067 评论",
+            "sentiment": "positive",
+            "comments": 1067,
+            "url": "https://mistral.ai/news/mistral-large-4/\\",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "OpenTPU – An open-source AI accelerator, developed by AI",
-            "insight": "HN 热议：243 分 · 303 评论",
-            "sentiment": "positive",
-            "comments": 303,
-            "url": "https://github.com/FeSens/openTPU",
+            "title": "Penguin Mail – open-source Rust email client for Linux with AI",
+            "insight": "HN 热议：179 分 · 109 评论",
+            "sentiment": "neutral",
+            "comments": 109,
+            "url": "https://penguin-mail.com/",
             "id": 4
         },
         {
             "source": "HackerNews",
             "title": "Claude Code’s suggested message feature: I think the real customer is the model",
-            "insight": "HN 热议：114 分 · 60 评论",
+            "insight": "HN 热议：199 分 · 114 评论",
             "sentiment": "neutral",
-            "comments": 60,
+            "comments": 114,
             "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-10-07T02:57:31Z",
+    "updated": "2026-10-07T09:39:07Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
