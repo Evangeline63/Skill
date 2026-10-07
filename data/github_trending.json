@@ -1,13 +1,13 @@
 {
-  "updated": "2026-10-06T21:56:33Z",
+  "updated": "2026-10-07T02:57:31Z",
   "repos": [
     {
       "rank": 1,
       "name": "Significant-Gravitas/AutoGPT",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
       "language": "Python",
-      "stars": 187670,
-      "stars_today": 187670,
+      "stars": 187676,
+      "stars_today": 187676,
       "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
@@ -15,8 +15,8 @@
       "name": "f/prompts.chat",
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
       "language": "HTML",
-      "stars": 172193,
-      "stars_today": 172193,
+      "stars": 172206,
+      "stars_today": 172206,
       "url": "https://github.com/f/prompts.chat"
     },
     {
@@ -24,8 +24,8 @@
       "name": "rasbt/LLMs-from-scratch",
       "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
       "language": "Jupyter Notebook",
-      "stars": 106135,
-      "stars_today": 106135,
+      "stars": 106145,
+      "stars_today": 106145,
       "url": "https://github.com/rasbt/LLMs-from-scratch"
     },
     {
@@ -33,8 +33,8 @@
       "name": "thedotmack/claude-mem",
       "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
       "language": "TypeScript",
-      "stars": 97113,
-      "stars_today": 97113,
+      "stars": 97225,
+      "stars_today": 97225,
       "url": "https://github.com/thedotmack/claude-mem"
     },
     {
@@ -42,8 +42,8 @@
       "name": "hacksider/Deep-Live-Cam",
       "description": "real time face swap and one-click video deepfake with only a single image",
       "language": "Python",
-      "stars": 96923,
-      "stars_today": 96923,
+      "stars": 96924,
+      "stars_today": 96924,
       "url": "https://github.com/hacksider/Deep-Live-Cam"
     },
     {
@@ -51,8 +51,8 @@
       "name": "OpenHands/OpenHands",
       "description": "🙌 OpenHands: AI-Driven Development",
       "language": "TypeScript",
-      "stars": 90119,
-      "stars_today": 90119,
+      "stars": 90125,
+      "stars_today": 90125,
       "url": "https://github.com/OpenHands/OpenHands"
     }
   ]

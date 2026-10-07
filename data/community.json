@@ -1,49 +1,49 @@
 {
-  "updated": "2026-10-06T21:56:33Z",
+  "updated": "2026-10-07T02:57:31Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Mistral Large 4",
-      "insight": "HN 热议：1444 分 · 903 评论",
+      "title": "Sharing AI progress in mathematics",
+      "insight": "HN 热议：493 分 · 412 评论",
       "sentiment": "positive",
-      "comments": 903,
-      "url": "https://mistral.ai/news/mistral-large-4/\\",
+      "comments": 412,
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "OpenTPU – An open-source AI accelerator, developed by AI",
-      "insight": "HN 热议：179 分 · 231 评论",
-      "sentiment": "neutral",
-      "comments": 231,
-      "url": "https://github.com/FeSens/openTPU",
+      "title": "Mistral Large 4",
+      "insight": "HN 热议：1616 分 · 972 评论",
+      "sentiment": "positive",
+      "comments": 972,
+      "url": "https://mistral.ai/news/mistral-large-4/\\",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Claude Code’s suggested message feature: I think the real customer is the model",
-      "insight": "HN 热议：23 分 · 6 评论",
+      "title": "Penguin Mail – open-source Rust email client for Linux with AI",
+      "insight": "HN 热议：85 分 · 33 评论",
       "sentiment": "neutral",
-      "comments": 6,
-      "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
+      "comments": 33,
+      "url": "https://penguin-mail.com/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Erdosproblems.com Succumbs to the AI Onslaught",
-      "insight": "HN 热议：64 分 · 25 评论",
-      "sentiment": "neutral",
-      "comments": 25,
-      "url": "https://www.erdosproblems.com/forum/thread/blog:9",
+      "title": "OpenTPU – An open-source AI accelerator, developed by AI",
+      "insight": "HN 热议：243 分 · 303 评论",
+      "sentiment": "positive",
+      "comments": 303,
+      "url": "https://github.com/FeSens/openTPU",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Dust: Pretraining Transformers Without Backpropagation",
-      "insight": "HN 热议：264 分 · 79 评论",
-      "sentiment": "positive",
-      "comments": 79,
-      "url": "https://qlabs.sh/research/dust",
+      "title": "Claude Code’s suggested message feature: I think the real customer is the model",
+      "insight": "HN 热议：114 分 · 60 评论",
+      "sentiment": "neutral",
+      "comments": 60,
+      "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
       "id": 5
     }
   ]
