@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-10-07T09:39:07Z",
+    "updated": "2026-10-07T18:01:55Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-10-07T09:39:07Z",
+    "updated": "2026-10-07T18:01:55Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-10-07T09:39:07Z",
+    "updated": "2026-10-07T18:01:55Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187680,
-            "stars_today": 187680,
+            "stars": 187684,
+            "stars_today": 187684,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 172234,
-            "stars_today": 172234,
+            "stars": 172286,
+            "stars_today": 172286,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 106166,
-            "stars_today": 106166,
+            "stars": 106172,
+            "stars_today": 106172,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 97362,
-            "stars_today": 97362,
+            "stars": 97570,
+            "stars_today": 97570,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96926,
-            "stars_today": 96926,
+            "stars": 96931,
+            "stars_today": 96931,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 90149,
-            "stars_today": 90149,
+            "stars": 90185,
+            "stars_today": 90185,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-10-07T09:39:07Z",
+    "updated": "2026-10-07T18:01:55Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-10-07T09:39:07Z",
+    "updated": "2026-10-07T18:01:55Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-10-07T09:39:07Z",
+    "updated": "2026-10-07T18:01:55Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Sharing AI progress in mathematics",
-            "insight": "HN 热议：914 分 · 832 评论",
-            "sentiment": "positive",
-            "comments": 832,
-            "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+            "title": "AI-assisted proof of optimal packing for 11 squares",
+            "insight": "HN 热议：75 分 · 35 评论",
+            "sentiment": "neutral",
+            "comments": 35,
+            "url": "https://github.com/Queuingtheorydotcom/11SquaresFormalized",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Reasons to Dislike AI Coding",
-            "insight": "HN 热议：3 分 · 0 评论",
-            "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://www.sicpers.info/2026/10/reasons-to-dislike-ai-coding/",
+            "title": "Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai",
+            "insight": "HN 热议：238 分 · 38 评论",
+            "sentiment": "positive",
+            "comments": 38,
+            "url": "https://www.nobelprize.org/prizes/chemistry/2026/press-release/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Mistral Large 4",
-            "insight": "HN 热议：1801 分 · 1067 评论",
-            "sentiment": "positive",
-            "comments": 1067,
-            "url": "https://mistral.ai/news/mistral-large-4/\\",
+            "title": "Study: Claude, ChatGPT Offer Different Shopping Prices Based on Wealth",
+            "insight": "HN 热议：65 分 · 17 评论",
+            "sentiment": "neutral",
+            "comments": 17,
+            "url": "https://www.bloomberg.com/news/newsletters/2026-10-07/study-claude-chatgpt-ai-bots-offer-different-shopping-prices-based-on-wealth",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Penguin Mail – open-source Rust email client for Linux with AI",
-            "insight": "HN 热议：179 分 · 109 评论",
+            "title": "Write Like It's 1866: LLMs Relearn Telegraphese",
+            "insight": "HN 热议：67 分 · 44 评论",
             "sentiment": "neutral",
-            "comments": 109,
-            "url": "https://penguin-mail.com/",
+            "comments": 44,
+            "url": "https://fiveminutesforward.com/post/2026-10-04-telegraph-test/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Claude Code’s suggested message feature: I think the real customer is the model",
-            "insight": "HN 热议：199 分 · 114 评论",
+            "title": "Show HN: Pinrail – A desktop inbox where coding agents wait for your review",
+            "insight": "HN 热议：4 分 · 0 评论",
             "sentiment": "neutral",
-            "comments": 114,
-            "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
+            "comments": 0,
+            "url": "https://github.com/forgeplane/pinrail",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-10-07T09:39:07Z",
+    "updated": "2026-10-07T18:01:55Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
