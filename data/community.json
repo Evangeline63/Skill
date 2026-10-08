@@ -1,49 +1,49 @@
 {
-  "updated": "2026-10-07T18:01:55Z",
+  "updated": "2026-10-08T00:30:37Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "AI-assisted proof of optimal packing for 11 squares",
-      "insight": "HN 热议：75 分 · 35 评论",
-      "sentiment": "neutral",
-      "comments": 35,
-      "url": "https://github.com/Queuingtheorydotcom/11SquaresFormalized",
+      "title": "Claude Haiku 5.5",
+      "insight": "HN 热议：638 分 · 321 评论",
+      "sentiment": "positive",
+      "comments": 321,
+      "url": "https://www.anthropic.com/claude-haiku-5-5",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai",
-      "insight": "HN 热议：238 分 · 38 评论",
+      "title": "GPT‑6 and Intelligent UI for everyone",
+      "insight": "HN 热议：470 分 · 245 评论",
       "sentiment": "positive",
-      "comments": 38,
-      "url": "https://www.nobelprize.org/prizes/chemistry/2026/press-release/",
+      "comments": 245,
+      "url": "https://openai.com/index/gpt-6-for-everyone/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Study: Claude, ChatGPT Offer Different Shopping Prices Based on Wealth",
-      "insight": "HN 热议：65 分 · 17 评论",
+      "title": "Docker Agent",
+      "insight": "HN 热议：169 分 · 80 评论",
       "sentiment": "neutral",
-      "comments": 17,
-      "url": "https://www.bloomberg.com/news/newsletters/2026-10-07/study-claude-chatgpt-ai-bots-offer-different-shopping-prices-based-on-wealth",
+      "comments": 80,
+      "url": "https://github.com/docker/docker-agent",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Write Like It's 1866: LLMs Relearn Telegraphese",
-      "insight": "HN 热议：67 分 · 44 评论",
+      "title": "A new write and space optimized storage engine for MySQL is here",
+      "insight": "HN 热议：22 分 · 2 评论",
       "sentiment": "neutral",
-      "comments": 44,
-      "url": "https://fiveminutesforward.com/post/2026-10-04-telegraph-test/",
+      "comments": 2,
+      "url": "https://tidesdb.com/articles/tidesdb-now-available-for-mysql/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Pinrail – A desktop inbox where coding agents wait for your review",
-      "insight": "HN 热议：4 分 · 0 评论",
-      "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://github.com/forgeplane/pinrail",
+      "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
+      "insight": "HN 热议：256 分 · 252 评论",
+      "sentiment": "positive",
+      "comments": 252,
+      "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
       "id": 5
     }
   ]

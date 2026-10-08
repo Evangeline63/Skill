@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-10-07T18:01:55Z",
+    "updated": "2026-10-08T00:30:37Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-10-07T18:01:55Z",
+    "updated": "2026-10-08T00:30:37Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-10-07T18:01:55Z",
+    "updated": "2026-10-08T00:30:37Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187684,
-            "stars_today": 187684,
+            "stars": 187688,
+            "stars_today": 187688,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 172286,
-            "stars_today": 172286,
+            "stars": 172314,
+            "stars_today": 172314,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 106172,
-            "stars_today": 106172,
+            "stars": 106188,
+            "stars_today": 106188,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 97570,
-            "stars_today": 97570,
+            "stars": 97713,
+            "stars_today": 97713,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96931,
-            "stars_today": 96931,
+            "stars": 96932,
+            "stars_today": 96932,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 90185,
-            "stars_today": 90185,
+            "stars": 90208,
+            "stars_today": 90208,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-10-07T18:01:55Z",
+    "updated": "2026-10-08T00:30:37Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-10-07T18:01:55Z",
+    "updated": "2026-10-08T00:30:37Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-10-07T18:01:55Z",
+    "updated": "2026-10-08T00:30:37Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "AI-assisted proof of optimal packing for 11 squares",
-            "insight": "HN 热议：75 分 · 35 评论",
-            "sentiment": "neutral",
-            "comments": 35,
-            "url": "https://github.com/Queuingtheorydotcom/11SquaresFormalized",
+            "title": "Claude Haiku 5.5",
+            "insight": "HN 热议：638 分 · 321 评论",
+            "sentiment": "positive",
+            "comments": 321,
+            "url": "https://www.anthropic.com/claude-haiku-5-5",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai",
-            "insight": "HN 热议：238 分 · 38 评论",
+            "title": "GPT‑6 and Intelligent UI for everyone",
+            "insight": "HN 热议：470 分 · 245 评论",
             "sentiment": "positive",
-            "comments": 38,
-            "url": "https://www.nobelprize.org/prizes/chemistry/2026/press-release/",
+            "comments": 245,
+            "url": "https://openai.com/index/gpt-6-for-everyone/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Study: Claude, ChatGPT Offer Different Shopping Prices Based on Wealth",
-            "insight": "HN 热议：65 分 · 17 评论",
+            "title": "Docker Agent",
+            "insight": "HN 热议：169 分 · 80 评论",
             "sentiment": "neutral",
-            "comments": 17,
-            "url": "https://www.bloomberg.com/news/newsletters/2026-10-07/study-claude-chatgpt-ai-bots-offer-different-shopping-prices-based-on-wealth",
+            "comments": 80,
+            "url": "https://github.com/docker/docker-agent",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Write Like It's 1866: LLMs Relearn Telegraphese",
-            "insight": "HN 热议：67 分 · 44 评论",
+            "title": "A new write and space optimized storage engine for MySQL is here",
+            "insight": "HN 热议：22 分 · 2 评论",
             "sentiment": "neutral",
-            "comments": 44,
-            "url": "https://fiveminutesforward.com/post/2026-10-04-telegraph-test/",
+            "comments": 2,
+            "url": "https://tidesdb.com/articles/tidesdb-now-available-for-mysql/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Pinrail – A desktop inbox where coding agents wait for your review",
-            "insight": "HN 热议：4 分 · 0 评论",
-            "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://github.com/forgeplane/pinrail",
+            "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
+            "insight": "HN 热议：256 分 · 252 评论",
+            "sentiment": "positive",
+            "comments": 252,
+            "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-10-07T18:01:55Z",
+    "updated": "2026-10-08T00:30:37Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
