@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-10-09T00:45:04Z",
+    "updated": "2026-10-09T09:42:58Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-10-09T00:45:04Z",
+    "updated": "2026-10-09T09:42:58Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-10-09T00:45:04Z",
+    "updated": "2026-10-09T09:42:58Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187486,
-            "stars_today": 187486,
+            "stars": 187492,
+            "stars_today": 187492,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 172185,
-            "stars_today": 172185,
+            "stars": 172225,
+            "stars_today": 172225,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 98470,
-            "stars_today": 98470,
+            "stars": 98803,
+            "stars_today": 98803,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96950,
-            "stars_today": 96950,
+            "stars": 96958,
+            "stars_today": 96958,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 90303,
-            "stars_today": 90303,
+            "stars": 90344,
+            "stars_today": 90344,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 67319,
-            "stars_today": 67319,
+            "stars": 67415,
+            "stars_today": 67415,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-10-09T00:45:04Z",
+    "updated": "2026-10-09T09:42:58Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-10-09T00:45:04Z",
+    "updated": "2026-10-09T09:42:58Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-10-09T00:45:04Z",
+    "updated": "2026-10-09T09:42:58Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "OpenAI, the Partition Principle, and Mathematics",
-            "insight": "HN 热议：54 分 · 47 评论",
+            "insight": "HN 热议：121 分 · 171 评论",
             "sentiment": "neutral",
-            "comments": 47,
+            "comments": 171,
             "url": "https://karagila.org/2026/openai-pp/",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "AI-ready biological data: $1.8B global commitment",
-            "insight": "HN 热议：57 分 · 5 评论",
+            "insight": "HN 热议：123 分 · 18 评论",
             "sentiment": "neutral",
-            "comments": 5,
+            "comments": 18,
             "url": "https://biohub.org/news/virtual-biology-initiative-expansion/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI",
-            "insight": "HN 热议：7 分 · 1 评论",
-            "sentiment": "neutral",
-            "comments": 1,
-            "url": "https://github.com/edrisranjbar/lifeos",
+            "title": "OpenAI withdraws three mathematical results",
+            "insight": "HN 热议：311 分 · 575 评论",
+            "sentiment": "positive",
+            "comments": 575,
+            "url": "https://twitter.com/danintheory/status/2108065033070789090",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Pocketty – iPhone SSH terminal that pings you when an agent is blocked",
-            "insight": "HN 热议：15 分 · 7 评论",
+            "title": "I think I found a planet nobody knew existed. I used Claude Code to find it",
+            "insight": "HN 热议：176 分 · 70 评论",
             "sentiment": "neutral",
-            "comments": 7,
-            "url": "https://pocketty.app/",
+            "comments": 70,
+            "url": "https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9",
             "id": 4
         },
         {
             "source": "HackerNews",
             "title": "Show HN: Jevman – AI decision models play Pac-Man",
-            "insight": "HN 热议：20 分 · 2 评论",
+            "insight": "HN 热议：63 分 · 14 评论",
             "sentiment": "neutral",
-            "comments": 2,
+            "comments": 14,
             "url": "https://opper.ai/jevman-benchmark/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-10-09T00:45:04Z",
+    "updated": "2026-10-09T09:42:58Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
