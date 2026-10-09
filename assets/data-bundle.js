@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-10-08T18:04:43Z",
+    "updated": "2026-10-09T00:45:04Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-10-08T18:04:43Z",
+    "updated": "2026-10-09T00:45:04Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-10-08T18:04:43Z",
+    "updated": "2026-10-09T00:45:04Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187483,
-            "stars_today": 187483,
+            "stars": 187486,
+            "stars_today": 187486,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,50 +282,50 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 172164,
-            "stars_today": 172164,
+            "stars": 172185,
+            "stars_today": 172185,
             "url": "https://github.com/f/prompts.chat"
         },
         {
             "rank": 3,
-            "name": "rasbt/LLMs-from-scratch",
-            "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
-            "language": "Jupyter Notebook",
-            "stars": 106225,
-            "stars_today": 106225,
-            "url": "https://github.com/rasbt/LLMs-from-scratch"
-        },
-        {
-            "rank": 4,
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 98269,
-            "stars_today": 98269,
+            "stars": 98470,
+            "stars_today": 98470,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
-            "rank": 5,
+            "rank": 4,
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96946,
-            "stars_today": 96946,
+            "stars": 96950,
+            "stars_today": 96950,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
-            "rank": 6,
+            "rank": 5,
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 90284,
-            "stars_today": 90284,
+            "stars": 90303,
+            "stars_today": 90303,
             "url": "https://github.com/OpenHands/OpenHands"
+        },
+        {
+            "rank": 6,
+            "name": "usestrix/strix",
+            "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+            "language": "Python",
+            "stars": 67319,
+            "stars_today": 67319,
+            "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-10-08T18:04:43Z",
+    "updated": "2026-10-09T00:45:04Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-10-08T18:04:43Z",
+    "updated": "2026-10-09T00:45:04Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-10-08T18:04:43Z",
+    "updated": "2026-10-09T00:45:04Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "4-hour battery storage is cheaper to install than gas turbines all across globe",
-            "insight": "HN 热议：119 分 · 46 评论",
+            "title": "OpenAI, the Partition Principle, and Mathematics",
+            "insight": "HN 热议：54 分 · 47 评论",
             "sentiment": "neutral",
-            "comments": 46,
-            "url": "https://www.solarpowerworldonline.com/2026/10/4-hour-battery-storage-is-cheaper-to-install-than-gas-turbines-all-across-globe/",
+            "comments": 47,
+            "url": "https://karagila.org/2026/openai-pp/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "OpenAI annualised revenues $20B less than previously signalled",
-            "insight": "HN 热议：74 分 · 13 评论",
+            "title": "AI-ready biological data: $1.8B global commitment",
+            "insight": "HN 热议：57 分 · 5 评论",
             "sentiment": "neutral",
-            "comments": 13,
-            "url": "https://www.ft.com/content/b66a9858-f8fb-46cb-b506-44bfe26fca2a",
+            "comments": 5,
+            "url": "https://biohub.org/news/virtual-biology-initiative-expansion/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Sub-1-Bit LLM Compression via Latent Factorization",
-            "insight": "HN 热议：59 分 · 8 评论",
+            "title": "Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI",
+            "insight": "HN 热议：7 分 · 1 评论",
             "sentiment": "neutral",
-            "comments": 8,
-            "url": "https://github.com/SamsungLabs/LittleBit",
+            "comments": 1,
+            "url": "https://github.com/edrisranjbar/lifeos",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Claude Haiku 5.5",
-            "insight": "HN 热议：1012 分 · 474 评论",
-            "sentiment": "positive",
-            "comments": 474,
-            "url": "https://www.anthropic.com/claude-haiku-5-5",
+            "title": "Show HN: Pocketty – iPhone SSH terminal that pings you when an agent is blocked",
+            "insight": "HN 热议：15 分 · 7 评论",
+            "sentiment": "neutral",
+            "comments": 7,
+            "url": "https://pocketty.app/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "The Deeply Impersonal Personalized Recruiter Mail",
-            "insight": "HN 热议：11 分 · 3 评论",
+            "title": "Show HN: Jevman – AI decision models play Pac-Man",
+            "insight": "HN 热议：20 分 · 2 评论",
             "sentiment": "neutral",
-            "comments": 3,
-            "url": "https://blog.pentlander.com/the-deeply-impersonal-personalized-recruiter-mail/",
+            "comments": 2,
+            "url": "https://opper.ai/jevman-benchmark/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-10-08T18:04:43Z",
+    "updated": "2026-10-09T00:45:04Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

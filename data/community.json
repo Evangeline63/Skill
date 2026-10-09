@@ -1,49 +1,49 @@
 {
-  "updated": "2026-10-08T18:04:43Z",
+  "updated": "2026-10-09T00:45:04Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "4-hour battery storage is cheaper to install than gas turbines all across globe",
-      "insight": "HN 热议：119 分 · 46 评论",
+      "title": "OpenAI, the Partition Principle, and Mathematics",
+      "insight": "HN 热议：54 分 · 47 评论",
       "sentiment": "neutral",
-      "comments": 46,
-      "url": "https://www.solarpowerworldonline.com/2026/10/4-hour-battery-storage-is-cheaper-to-install-than-gas-turbines-all-across-globe/",
+      "comments": 47,
+      "url": "https://karagila.org/2026/openai-pp/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "OpenAI annualised revenues $20B less than previously signalled",
-      "insight": "HN 热议：74 分 · 13 评论",
+      "title": "AI-ready biological data: $1.8B global commitment",
+      "insight": "HN 热议：57 分 · 5 评论",
       "sentiment": "neutral",
-      "comments": 13,
-      "url": "https://www.ft.com/content/b66a9858-f8fb-46cb-b506-44bfe26fca2a",
+      "comments": 5,
+      "url": "https://biohub.org/news/virtual-biology-initiative-expansion/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Sub-1-Bit LLM Compression via Latent Factorization",
-      "insight": "HN 热议：59 分 · 8 评论",
+      "title": "Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI",
+      "insight": "HN 热议：7 分 · 1 评论",
       "sentiment": "neutral",
-      "comments": 8,
-      "url": "https://github.com/SamsungLabs/LittleBit",
+      "comments": 1,
+      "url": "https://github.com/edrisranjbar/lifeos",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Claude Haiku 5.5",
-      "insight": "HN 热议：1012 分 · 474 评论",
-      "sentiment": "positive",
-      "comments": 474,
-      "url": "https://www.anthropic.com/claude-haiku-5-5",
+      "title": "Show HN: Pocketty – iPhone SSH terminal that pings you when an agent is blocked",
+      "insight": "HN 热议：15 分 · 7 评论",
+      "sentiment": "neutral",
+      "comments": 7,
+      "url": "https://pocketty.app/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "The Deeply Impersonal Personalized Recruiter Mail",
-      "insight": "HN 热议：11 分 · 3 评论",
+      "title": "Show HN: Jevman – AI decision models play Pac-Man",
+      "insight": "HN 热议：20 分 · 2 评论",
       "sentiment": "neutral",
-      "comments": 3,
-      "url": "https://blog.pentlander.com/the-deeply-impersonal-personalized-recruiter-mail/",
+      "comments": 2,
+      "url": "https://opper.ai/jevman-benchmark/",
       "id": 5
     }
   ]
