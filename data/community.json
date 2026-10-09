@@ -1,49 +1,49 @@
 {
-  "updated": "2026-10-09T09:42:58Z",
+  "updated": "2026-10-09T17:37:11Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "OpenAI, the Partition Principle, and Mathematics",
-      "insight": "HN 热议：121 分 · 171 评论",
-      "sentiment": "neutral",
-      "comments": 171,
-      "url": "https://karagila.org/2026/openai-pp/",
+      "title": "Let your AI agents paint big arrows, boxes and text on your screen",
+      "insight": "HN 热议：295 分 · 122 评论",
+      "sentiment": "positive",
+      "comments": 122,
+      "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "AI-ready biological data: $1.8B global commitment",
-      "insight": "HN 热议：123 分 · 18 评论",
+      "title": "Tomek Korbak: OpenAI's head of safety told they no longer trust me",
+      "insight": "HN 热议：31 分 · 8 评论",
       "sentiment": "neutral",
-      "comments": 18,
-      "url": "https://biohub.org/news/virtual-biology-initiative-expansion/",
+      "comments": 8,
+      "url": "https://twitter.com/tomekkorbak/status/2108266859397283953",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "OpenAI withdraws three mathematical results",
-      "insight": "HN 热议：311 分 · 575 评论",
-      "sentiment": "positive",
-      "comments": 575,
-      "url": "https://twitter.com/danintheory/status/2108065033070789090",
+      "title": "Training Text-to-Image Models Without a VAE",
+      "insight": "HN 热议：3 分 · 6 评论",
+      "sentiment": "neutral",
+      "comments": 6,
+      "url": "https://www.linum.ai/field-notes/pyramid-jit",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "I think I found a planet nobody knew existed. I used Claude Code to find it",
-      "insight": "HN 热议：176 分 · 70 评论",
-      "sentiment": "neutral",
-      "comments": 70,
-      "url": "https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9",
+      "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
+      "insight": "HN 热议：210 分 · 108 评论",
+      "sentiment": "positive",
+      "comments": 108,
+      "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Jevman – AI decision models play Pac-Man",
-      "insight": "HN 热议：63 分 · 14 评论",
+      "title": "Iranian campaign planted fake articles in real U.S. publications using ChatGPT",
+      "insight": "HN 热议：145 分 · 130 评论",
       "sentiment": "neutral",
-      "comments": 14,
-      "url": "https://opper.ai/jevman-benchmark/",
+      "comments": 130,
+      "url": "https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media/",
       "id": 5
     }
   ]

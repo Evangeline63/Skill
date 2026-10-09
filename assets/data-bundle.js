@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-10-09T09:42:58Z",
+    "updated": "2026-10-09T17:37:11Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-10-09T09:42:58Z",
+    "updated": "2026-10-09T17:37:11Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-10-09T09:42:58Z",
+    "updated": "2026-10-09T17:37:11Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187492,
-            "stars_today": 187492,
+            "stars": 187496,
+            "stars_today": 187496,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 172225,
-            "stars_today": 172225,
+            "stars": 172252,
+            "stars_today": 172252,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 98803,
-            "stars_today": 98803,
+            "stars": 98917,
+            "stars_today": 98917,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96958,
-            "stars_today": 96958,
+            "stars": 96959,
+            "stars_today": 96959,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 90344,
-            "stars_today": 90344,
+            "stars": 90387,
+            "stars_today": 90387,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 67415,
-            "stars_today": 67415,
+            "stars": 67499,
+            "stars_today": 67499,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-10-09T09:42:58Z",
+    "updated": "2026-10-09T17:37:11Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-10-09T09:42:58Z",
+    "updated": "2026-10-09T17:37:11Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-10-09T09:42:58Z",
+    "updated": "2026-10-09T17:37:11Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "OpenAI, the Partition Principle, and Mathematics",
-            "insight": "HN 热议：121 分 · 171 评论",
-            "sentiment": "neutral",
-            "comments": 171,
-            "url": "https://karagila.org/2026/openai-pp/",
+            "title": "Let your AI agents paint big arrows, boxes and text on your screen",
+            "insight": "HN 热议：295 分 · 122 评论",
+            "sentiment": "positive",
+            "comments": 122,
+            "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "AI-ready biological data: $1.8B global commitment",
-            "insight": "HN 热议：123 分 · 18 评论",
+            "title": "Tomek Korbak: OpenAI's head of safety told they no longer trust me",
+            "insight": "HN 热议：31 分 · 8 评论",
             "sentiment": "neutral",
-            "comments": 18,
-            "url": "https://biohub.org/news/virtual-biology-initiative-expansion/",
+            "comments": 8,
+            "url": "https://twitter.com/tomekkorbak/status/2108266859397283953",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "OpenAI withdraws three mathematical results",
-            "insight": "HN 热议：311 分 · 575 评论",
-            "sentiment": "positive",
-            "comments": 575,
-            "url": "https://twitter.com/danintheory/status/2108065033070789090",
+            "title": "Training Text-to-Image Models Without a VAE",
+            "insight": "HN 热议：3 分 · 6 评论",
+            "sentiment": "neutral",
+            "comments": 6,
+            "url": "https://www.linum.ai/field-notes/pyramid-jit",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "I think I found a planet nobody knew existed. I used Claude Code to find it",
-            "insight": "HN 热议：176 分 · 70 评论",
-            "sentiment": "neutral",
-            "comments": 70,
-            "url": "https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9",
+            "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
+            "insight": "HN 热议：210 分 · 108 评论",
+            "sentiment": "positive",
+            "comments": 108,
+            "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Jevman – AI decision models play Pac-Man",
-            "insight": "HN 热议：63 分 · 14 评论",
+            "title": "Iranian campaign planted fake articles in real U.S. publications using ChatGPT",
+            "insight": "HN 热议：145 分 · 130 评论",
             "sentiment": "neutral",
-            "comments": 14,
-            "url": "https://opper.ai/jevman-benchmark/",
+            "comments": 130,
+            "url": "https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-10-09T09:42:58Z",
+    "updated": "2026-10-09T17:37:11Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
