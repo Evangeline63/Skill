@@ -1,48 +1,48 @@
 {
-  "updated": "2026-10-10T20:47:04Z",
+  "updated": "2026-10-10T23:56:04Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Recent AI models struggled to match a human algorithmic innovation",
-      "insight": "HN 热议：26 分 · 22 评论",
+      "title": "Five months treating bugs like patients and coding agents like a medical team",
+      "insight": "HN 热议：31 分 · 7 评论",
       "sentiment": "neutral",
-      "comments": 22,
-      "url": "https://epoch.ai/publications/innovationeval",
+      "comments": 7,
+      "url": "https://www.cockroachlabs.com/blog/experiment-running-hospital-code/",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-      "insight": "HN 热议：208 分 · 106 评论",
+      "insight": "HN 热议：233 分 · 118 评论",
       "sentiment": "positive",
-      "comments": 106,
+      "comments": 118,
       "url": "https://github.com/rociiu/talorys",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
-      "insight": "HN 热议：64 分 · 40 评论",
+      "title": "Mxc: Microsoft Execution Containers version 1.0.0",
+      "insight": "HN 热议：151 分 · 33 评论",
       "sentiment": "neutral",
-      "comments": 40,
-      "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
+      "comments": 33,
+      "url": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Mxc: Microsoft Execution Containers version 1.0.0",
-      "insight": "HN 热议：126 分 · 28 评论",
+      "title": "Recent AI models struggled to match a human algorithmic innovation",
+      "insight": "HN 热议：68 分 · 54 评论",
       "sentiment": "neutral",
-      "comments": 28,
-      "url": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
+      "comments": 54,
+      "url": "https://epoch.ai/publications/innovationeval",
       "id": 4
     },
     {
       "source": "HackerNews",
       "title": "Grieving the loss of details",
-      "insight": "HN 热议：246 分 · 198 评论",
+      "insight": "HN 热议：326 分 · 262 评论",
       "sentiment": "positive",
-      "comments": 198,
+      "comments": 262,
       "url": "https://purplesyringa.moe/blog/grieving-the-loss-of-details/",
       "id": 5
     }

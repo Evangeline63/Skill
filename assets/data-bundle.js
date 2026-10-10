@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-10-10T20:47:04Z",
+    "updated": "2026-10-10T23:56:04Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-10-10T20:47:04Z",
+    "updated": "2026-10-10T23:56:04Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-10-10T20:47:04Z",
+    "updated": "2026-10-10T23:56:04Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187515,
-            "stars_today": 187515,
+            "stars": 187518,
+            "stars_today": 187518,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 172444,
-            "stars_today": 172444,
+            "stars": 172472,
+            "stars_today": 172472,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 99190,
-            "stars_today": 99190,
+            "stars": 99232,
+            "stars_today": 99232,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96964,
-            "stars_today": 96964,
+            "stars": 96969,
+            "stars_today": 96969,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 90508,
-            "stars_today": 90508,
+            "stars": 90519,
+            "stars_today": 90519,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 67750,
-            "stars_today": 67750,
+            "stars": 67767,
+            "stars_today": 67767,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-10-10T20:47:04Z",
+    "updated": "2026-10-10T23:56:04Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-10-10T20:47:04Z",
+    "updated": "2026-10-10T23:56:04Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-10-10T20:47:04Z",
+    "updated": "2026-10-10T23:56:04Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Recent AI models struggled to match a human algorithmic innovation",
-            "insight": "HN 热议：26 分 · 22 评论",
+            "title": "Five months treating bugs like patients and coding agents like a medical team",
+            "insight": "HN 热议：31 分 · 7 评论",
             "sentiment": "neutral",
-            "comments": 22,
-            "url": "https://epoch.ai/publications/innovationeval",
+            "comments": 7,
+            "url": "https://www.cockroachlabs.com/blog/experiment-running-hospital-code/",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-            "insight": "HN 热议：208 分 · 106 评论",
+            "insight": "HN 热议：233 分 · 118 评论",
             "sentiment": "positive",
-            "comments": 106,
+            "comments": 118,
             "url": "https://github.com/rociiu/talorys",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
-            "insight": "HN 热议：64 分 · 40 评论",
+            "title": "Mxc: Microsoft Execution Containers version 1.0.0",
+            "insight": "HN 热议：151 分 · 33 评论",
             "sentiment": "neutral",
-            "comments": 40,
-            "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
+            "comments": 33,
+            "url": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Mxc: Microsoft Execution Containers version 1.0.0",
-            "insight": "HN 热议：126 分 · 28 评论",
+            "title": "Recent AI models struggled to match a human algorithmic innovation",
+            "insight": "HN 热议：68 分 · 54 评论",
             "sentiment": "neutral",
-            "comments": 28,
-            "url": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
+            "comments": 54,
+            "url": "https://epoch.ai/publications/innovationeval",
             "id": 4
         },
         {
             "source": "HackerNews",
             "title": "Grieving the loss of details",
-            "insight": "HN 热议：246 分 · 198 评论",
+            "insight": "HN 热议：326 分 · 262 评论",
             "sentiment": "positive",
-            "comments": 198,
+            "comments": 262,
             "url": "https://purplesyringa.moe/blog/grieving-the-loss-of-details/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-10-10T20:47:04Z",
+    "updated": "2026-10-10T23:56:04Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
