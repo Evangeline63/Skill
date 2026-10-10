@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-10-10T03:00:23Z",
+    "updated": "2026-10-10T11:28:18Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-10-10T03:00:23Z",
+    "updated": "2026-10-10T11:28:18Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-10-10T03:00:23Z",
+    "updated": "2026-10-10T11:28:18Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187500,
-            "stars_today": 187500,
+            "stars": 187503,
+            "stars_today": 187503,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 172286,
-            "stars_today": 172286,
+            "stars": 172329,
+            "stars_today": 172329,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 99009,
-            "stars_today": 99009,
+            "stars": 99101,
+            "stars_today": 99101,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96959,
-            "stars_today": 96959,
+            "stars": 96964,
+            "stars_today": 96964,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 90425,
-            "stars_today": 90425,
+            "stars": 90464,
+            "stars_today": 90464,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 67584,
-            "stars_today": 67584,
+            "stars": 67676,
+            "stars_today": 67676,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-10-10T03:00:23Z",
+    "updated": "2026-10-10T11:28:18Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-10-10T03:00:23Z",
+    "updated": "2026-10-10T11:28:18Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-10-10T03:00:23Z",
+    "updated": "2026-10-10T11:28:18Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Can you use autoregressive diffusion to generate market data?",
-            "insight": "HN 热议：21 分 · 4 评论",
+            "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+            "insight": "HN 热议：4 分 · 1 评论",
             "sentiment": "neutral",
-            "comments": 4,
-            "url": "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/",
+            "comments": 1,
+            "url": "https://github.com/rociiu/talorys",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Typesafe AI raises $870M at $7.5B",
-            "insight": "HN 热议：286 分 · 221 评论",
-            "sentiment": "positive",
-            "comments": 221,
-            "url": "https://typesafe.ai/blog/series-ai",
+            "title": "Food processing influences metabolism and brain activity",
+            "insight": "HN 热议：52 分 · 37 评论",
+            "sentiment": "neutral",
+            "comments": 37,
+            "url": "https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
-            "insight": "HN 热议：110 分 · 55 评论",
+            "title": "Can you use autoregressive diffusion to generate market data?",
+            "insight": "HN 热议：99 分 · 30 评论",
             "sentiment": "neutral",
-            "comments": 55,
-            "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
+            "comments": 30,
+            "url": "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Anthropic AI model submits false tip on unsolved Philly murder",
-            "insight": "HN 热议：84 分 · 72 评论",
-            "sentiment": "neutral",
-            "comments": 72,
-            "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
+            "title": "Typesafe AI raises $870M at $7.5B",
+            "insight": "HN 热议：379 分 · 284 评论",
+            "sentiment": "positive",
+            "comments": 284,
+            "url": "https://typesafe.ai/blog/series-ai",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Rewriting Prime Agent in Rust",
-            "insight": "HN 热议：25 分 · 6 评论",
+            "title": "I tried to move my notes out of Emacs. I failed. Again",
+            "insight": "HN 热议：38 分 · 38 评论",
             "sentiment": "neutral",
-            "comments": 6,
-            "url": "https://www.primeintellect.ai/blog/prime-agent-rust",
+            "comments": 38,
+            "url": "https://baty.net/posts/2026/10/i-tried-to-move-my-notes-out-of-emacs-i-failed/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-10-10T03:00:23Z",
+    "updated": "2026-10-10T11:28:18Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

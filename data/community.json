@@ -1,49 +1,49 @@
 {
-  "updated": "2026-10-10T03:00:23Z",
+  "updated": "2026-10-10T11:28:18Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Can you use autoregressive diffusion to generate market data?",
-      "insight": "HN 热议：21 分 · 4 评论",
+      "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+      "insight": "HN 热议：4 分 · 1 评论",
       "sentiment": "neutral",
-      "comments": 4,
-      "url": "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/",
+      "comments": 1,
+      "url": "https://github.com/rociiu/talorys",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Typesafe AI raises $870M at $7.5B",
-      "insight": "HN 热议：286 分 · 221 评论",
-      "sentiment": "positive",
-      "comments": 221,
-      "url": "https://typesafe.ai/blog/series-ai",
+      "title": "Food processing influences metabolism and brain activity",
+      "insight": "HN 热议：52 分 · 37 评论",
+      "sentiment": "neutral",
+      "comments": 37,
+      "url": "https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
-      "insight": "HN 热议：110 分 · 55 评论",
+      "title": "Can you use autoregressive diffusion to generate market data?",
+      "insight": "HN 热议：99 分 · 30 评论",
       "sentiment": "neutral",
-      "comments": 55,
-      "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
+      "comments": 30,
+      "url": "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Anthropic AI model submits false tip on unsolved Philly murder",
-      "insight": "HN 热议：84 分 · 72 评论",
-      "sentiment": "neutral",
-      "comments": 72,
-      "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
+      "title": "Typesafe AI raises $870M at $7.5B",
+      "insight": "HN 热议：379 分 · 284 评论",
+      "sentiment": "positive",
+      "comments": 284,
+      "url": "https://typesafe.ai/blog/series-ai",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Rewriting Prime Agent in Rust",
-      "insight": "HN 热议：25 分 · 6 评论",
+      "title": "I tried to move my notes out of Emacs. I failed. Again",
+      "insight": "HN 热议：38 分 · 38 评论",
       "sentiment": "neutral",
-      "comments": 6,
-      "url": "https://www.primeintellect.ai/blog/prime-agent-rust",
+      "comments": 38,
+      "url": "https://baty.net/posts/2026/10/i-tried-to-move-my-notes-out-of-emacs-i-failed/",
       "id": 5
     }
   ]
