@@ -1,49 +1,49 @@
 {
-  "updated": "2026-10-10T16:27:48Z",
+  "updated": "2026-10-10T20:47:04Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-      "insight": "HN 热议：131 分 · 68 评论",
+      "title": "Recent AI models struggled to match a human algorithmic innovation",
+      "insight": "HN 热议：26 分 · 22 评论",
       "sentiment": "neutral",
-      "comments": 68,
-      "url": "https://github.com/rociiu/talorys",
+      "comments": 22,
+      "url": "https://epoch.ai/publications/innovationeval",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Mxc: Microsoft Execution Containers version 1.0.0",
-      "insight": "HN 热议：40 分 · 4 评论",
-      "sentiment": "neutral",
-      "comments": 4,
-      "url": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
+      "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+      "insight": "HN 热议：208 分 · 106 评论",
+      "sentiment": "positive",
+      "comments": 106,
+      "url": "https://github.com/rociiu/talorys",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Can you use autoregressive diffusion to generate market data?",
-      "insight": "HN 热议：151 分 · 41 评论",
+      "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
+      "insight": "HN 热议：64 分 · 40 评论",
       "sentiment": "neutral",
-      "comments": 41,
-      "url": "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/",
+      "comments": 40,
+      "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
-      "insight": "HN 热议：165 分 · 43 评论",
+      "title": "Mxc: Microsoft Execution Containers version 1.0.0",
+      "insight": "HN 热议：126 分 · 28 评论",
       "sentiment": "neutral",
-      "comments": 43,
-      "url": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
+      "comments": 28,
+      "url": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Typesafe AI raises $870M at $7.5B",
-      "insight": "HN 热议：413 分 · 330 评论",
+      "title": "Grieving the loss of details",
+      "insight": "HN 热议：246 分 · 198 评论",
       "sentiment": "positive",
-      "comments": 330,
-      "url": "https://typesafe.ai/blog/series-ai",
+      "comments": 198,
+      "url": "https://purplesyringa.moe/blog/grieving-the-loss-of-details/",
       "id": 5
     }
   ]
