@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-10-09T21:55:45Z",
+    "updated": "2026-10-10T03:00:23Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-10-09T21:55:45Z",
+    "updated": "2026-10-10T03:00:23Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-10-09T21:55:45Z",
+    "updated": "2026-10-10T03:00:23Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187496,
-            "stars_today": 187496,
+            "stars": 187500,
+            "stars_today": 187500,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 172262,
-            "stars_today": 172262,
+            "stars": 172286,
+            "stars_today": 172286,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 98959,
-            "stars_today": 98959,
+            "stars": 99009,
+            "stars_today": 99009,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96957,
-            "stars_today": 96957,
+            "stars": 96959,
+            "stars_today": 96959,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 90399,
-            "stars_today": 90399,
+            "stars": 90425,
+            "stars_today": 90425,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 67538,
-            "stars_today": 67538,
+            "stars": 67584,
+            "stars_today": 67584,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-10-09T21:55:45Z",
+    "updated": "2026-10-10T03:00:23Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-10-09T21:55:45Z",
+    "updated": "2026-10-10T03:00:23Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-10-09T21:55:45Z",
+    "updated": "2026-10-10T03:00:23Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Typesafe AI raises $870M at $7.5B",
-            "insight": "HN 热议：197 分 · 158 评论",
+            "title": "Can you use autoregressive diffusion to generate market data?",
+            "insight": "HN 热议：21 分 · 4 评论",
             "sentiment": "neutral",
-            "comments": 158,
-            "url": "https://typesafe.ai/blog/series-ai",
+            "comments": 4,
+            "url": "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
-            "insight": "HN 热议：74 分 · 37 评论",
-            "sentiment": "neutral",
-            "comments": 37,
-            "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
+            "title": "Typesafe AI raises $870M at $7.5B",
+            "insight": "HN 热议：286 分 · 221 评论",
+            "sentiment": "positive",
+            "comments": 221,
+            "url": "https://typesafe.ai/blog/series-ai",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
-            "insight": "HN 热议：350 分 · 149 评论",
-            "sentiment": "positive",
-            "comments": 149,
-            "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+            "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
+            "insight": "HN 热议：110 分 · 55 评论",
+            "sentiment": "neutral",
+            "comments": 55,
+            "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Training Text-to-Image Models Without a VAE",
-            "insight": "HN 热议：42 分 · 14 评论",
+            "title": "Anthropic AI model submits false tip on unsolved Philly murder",
+            "insight": "HN 热议：84 分 · 72 评论",
             "sentiment": "neutral",
-            "comments": 14,
-            "url": "https://www.linum.ai/field-notes/pyramid-jit",
+            "comments": 72,
+            "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
-            "insight": "HN 热议：285 分 · 188 评论",
-            "sentiment": "positive",
-            "comments": 188,
-            "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+            "title": "Rewriting Prime Agent in Rust",
+            "insight": "HN 热议：25 分 · 6 评论",
+            "sentiment": "neutral",
+            "comments": 6,
+            "url": "https://www.primeintellect.ai/blog/prime-agent-rust",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-10-09T21:55:45Z",
+    "updated": "2026-10-10T03:00:23Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

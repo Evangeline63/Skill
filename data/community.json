@@ -1,49 +1,49 @@
 {
-  "updated": "2026-10-09T21:55:45Z",
+  "updated": "2026-10-10T03:00:23Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Typesafe AI raises $870M at $7.5B",
-      "insight": "HN 热议：197 分 · 158 评论",
+      "title": "Can you use autoregressive diffusion to generate market data?",
+      "insight": "HN 热议：21 分 · 4 评论",
       "sentiment": "neutral",
-      "comments": 158,
-      "url": "https://typesafe.ai/blog/series-ai",
+      "comments": 4,
+      "url": "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
-      "insight": "HN 热议：74 分 · 37 评论",
-      "sentiment": "neutral",
-      "comments": 37,
-      "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
+      "title": "Typesafe AI raises $870M at $7.5B",
+      "insight": "HN 热议：286 分 · 221 评论",
+      "sentiment": "positive",
+      "comments": 221,
+      "url": "https://typesafe.ai/blog/series-ai",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
-      "insight": "HN 热议：350 分 · 149 评论",
-      "sentiment": "positive",
-      "comments": 149,
-      "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+      "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
+      "insight": "HN 热议：110 分 · 55 评论",
+      "sentiment": "neutral",
+      "comments": 55,
+      "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Training Text-to-Image Models Without a VAE",
-      "insight": "HN 热议：42 分 · 14 评论",
+      "title": "Anthropic AI model submits false tip on unsolved Philly murder",
+      "insight": "HN 热议：84 分 · 72 评论",
       "sentiment": "neutral",
-      "comments": 14,
-      "url": "https://www.linum.ai/field-notes/pyramid-jit",
+      "comments": 72,
+      "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
-      "insight": "HN 热议：285 分 · 188 评论",
-      "sentiment": "positive",
-      "comments": 188,
-      "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+      "title": "Rewriting Prime Agent in Rust",
+      "insight": "HN 热议：25 分 · 6 评论",
+      "sentiment": "neutral",
+      "comments": 6,
+      "url": "https://www.primeintellect.ai/blog/prime-agent-rust",
       "id": 5
     }
   ]
