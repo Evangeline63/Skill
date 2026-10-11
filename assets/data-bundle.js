@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-10-11T16:52:42Z",
+    "updated": "2026-10-11T21:08:20Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-10-11T16:52:42Z",
+    "updated": "2026-10-11T21:08:20Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-10-11T16:52:42Z",
+    "updated": "2026-10-11T21:08:20Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187519,
-            "stars_today": 187519,
+            "stars": 187523,
+            "stars_today": 187523,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 172597,
-            "stars_today": 172597,
+            "stars": 172618,
+            "stars_today": 172618,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 99605,
-            "stars_today": 99605,
+            "stars": 99691,
+            "stars_today": 99691,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96972,
-            "stars_today": 96972,
+            "stars": 96974,
+            "stars_today": 96974,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 90590,
-            "stars_today": 90590,
+            "stars": 90603,
+            "stars_today": 90603,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 67903,
-            "stars_today": 67903,
+            "stars": 67930,
+            "stars_today": 67930,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-10-11T16:52:42Z",
+    "updated": "2026-10-11T21:08:20Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-10-11T16:52:42Z",
+    "updated": "2026-10-11T21:08:20Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-10-11T16:52:42Z",
+    "updated": "2026-10-11T21:08:20Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "I paid people to try and follow my README",
-            "insight": "HN 热议：229 分 · 119 评论",
+            "insight": "HN 热议：343 分 · 179 评论",
             "sentiment": "positive",
-            "comments": 119,
+            "comments": 179,
             "url": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Why Texas Is Making Data Centers Wait",
-            "insight": "HN 热议：24 分 · 31 评论",
+            "title": "Plumbers, chains, and famous painters: The history of the pipe operator in R",
+            "insight": "HN 热议：50 分 · 3 评论",
             "sentiment": "neutral",
-            "comments": 31,
-            "url": "https://a16z.com/why-texas-is-making-data-centers-wait/",
+            "comments": 3,
+            "url": "http://adolfoalvarez.cl/blog/2021-09-16-plumbers-chains-and-famous-painters-the-history-of-the-pipe-operator-in-r/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Documents Add to Evidence in Climate Deception Case Against ExxonMobil",
-            "insight": "HN 热议：305 分 · 148 评论",
+            "title": "Documents add to evidence in climate deception case against ExxonMobil",
+            "insight": "HN 热议：372 分 · 199 评论",
             "sentiment": "positive",
-            "comments": 148,
+            "comments": 199,
             "url": "https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Plumbers, chains, and famous painters: The history of the pipe operator in R",
-            "insight": "HN 热议：30 分 · 2 评论",
-            "sentiment": "neutral",
-            "comments": 2,
-            "url": "http://adolfoalvarez.cl/blog/2021-09-16-plumbers-chains-and-famous-painters-the-history-of-the-pipe-operator-in-r/",
+            "title": "Five months treating bugs like patients and coding agents like a medical team",
+            "insight": "HN 热议：211 分 · 102 评论",
+            "sentiment": "positive",
+            "comments": 102,
+            "url": "https://www.cockroachlabs.com/blog/experiment-running-hospital-code/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Five months treating bugs like patients and coding agents like a medical team",
-            "insight": "HN 热议：189 分 · 83 评论",
+            "title": "Nicolas Cage says he won't work with Amazon again over AI dispute",
+            "insight": "HN 热议：71 分 · 22 评论",
             "sentiment": "neutral",
-            "comments": 83,
-            "url": "https://www.cockroachlabs.com/blog/experiment-running-hospital-code/",
+            "comments": 22,
+            "url": "https://www.latimes.com/entertainment-arts/business/story/2026-10-10/nicolas-cage-says-he-wont-work-with-amazon-again-over-ai-dispute",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-10-11T16:52:42Z",
+    "updated": "2026-10-11T21:08:20Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
