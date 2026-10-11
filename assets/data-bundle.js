@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-10-11T02:54:07Z",
+    "updated": "2026-10-11T09:22:50Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-10-11T02:54:07Z",
+    "updated": "2026-10-11T09:22:50Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-10-11T02:54:07Z",
+    "updated": "2026-10-11T09:22:50Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187517,
-            "stars_today": 187517,
+            "stars": 187515,
+            "stars_today": 187515,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 172493,
-            "stars_today": 172493,
+            "stars": 172543,
+            "stars_today": 172543,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 99298,
-            "stars_today": 99298,
+            "stars": 99434,
+            "stars_today": 99434,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96970,
-            "stars_today": 96970,
+            "stars": 96971,
+            "stars_today": 96971,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 90528,
-            "stars_today": 90528,
+            "stars": 90544,
+            "stars_today": 90544,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 67780,
-            "stars_today": 67780,
+            "stars": 67839,
+            "stars_today": 67839,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-10-11T02:54:07Z",
+    "updated": "2026-10-11T09:22:50Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-10-11T02:54:07Z",
+    "updated": "2026-10-11T09:22:50Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-10-11T02:54:07Z",
+    "updated": "2026-10-11T09:22:50Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
-            "insight": "HN 热议：19 分 · 10 评论",
+            "title": "Five months treating bugs like patients and coding agents like a medical team",
+            "insight": "HN 热议：131 分 · 52 评论",
             "sentiment": "neutral",
-            "comments": 10,
-            "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
+            "comments": 52,
+            "url": "https://www.cockroachlabs.com/blog/experiment-running-hospital-code/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Veda: The First Agentic Hobby Operating System",
-            "insight": "HN 热议：21 分 · 1 评论",
-            "sentiment": "neutral",
-            "comments": 1,
-            "url": "https://github.com/vahmoh25/Veda",
+            "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+            "insight": "HN 热议：292 分 · 133 评论",
+            "sentiment": "positive",
+            "comments": 133,
+            "url": "https://github.com/rociiu/talorys",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-            "insight": "HN 热议：259 分 · 123 评论",
-            "sentiment": "positive",
-            "comments": 123,
-            "url": "https://github.com/rociiu/talorys",
+            "title": "Mxc: Microsoft Execution Containers version 1.0.0",
+            "insight": "HN 热议：191 分 · 51 评论",
+            "sentiment": "neutral",
+            "comments": 51,
+            "url": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Five months treating bugs like patients and coding agents like a medical team",
-            "insight": "HN 热议：73 分 · 32 评论",
+            "title": "Food processing influences metabolism and brain activity",
+            "insight": "HN 热议：151 分 · 118 评论",
             "sentiment": "neutral",
-            "comments": 32,
-            "url": "https://www.cockroachlabs.com/blog/experiment-running-hospital-code/",
+            "comments": 118,
+            "url": "https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Mxc: Microsoft Execution Containers version 1.0.0",
-            "insight": "HN 热议：166 分 · 39 评论",
-            "sentiment": "neutral",
-            "comments": 39,
-            "url": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
+            "title": "Grieving the loss of details",
+            "insight": "HN 热议：441 分 · 350 评论",
+            "sentiment": "positive",
+            "comments": 350,
+            "url": "https://purplesyringa.moe/blog/grieving-the-loss-of-details/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-10-11T02:54:07Z",
+    "updated": "2026-10-11T09:22:50Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
