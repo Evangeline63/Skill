@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-10-12T02:55:05Z",
+    "updated": "2026-10-12T09:53:57Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-10-12T02:55:05Z",
+    "updated": "2026-10-12T09:53:57Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-10-12T02:55:05Z",
+    "updated": "2026-10-12T09:53:57Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187528,
-            "stars_today": 187528,
+            "stars": 187529,
+            "stars_today": 187529,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 172643,
-            "stars_today": 172643,
+            "stars": 172674,
+            "stars_today": 172674,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 99775,
-            "stars_today": 99775,
+            "stars": 99893,
+            "stars_today": 99893,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96981,
-            "stars_today": 96981,
+            "stars": 96987,
+            "stars_today": 96987,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 90629,
-            "stars_today": 90629,
+            "stars": 90673,
+            "stars_today": 90673,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 67977,
-            "stars_today": 67977,
+            "stars": 68042,
+            "stars_today": 68042,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-10-12T02:55:05Z",
+    "updated": "2026-10-12T09:53:57Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-10-12T02:55:05Z",
+    "updated": "2026-10-12T09:53:57Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-10-12T02:55:05Z",
+    "updated": "2026-10-12T09:53:57Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "The gap in shared understanding of LLM capability is widening",
-            "insight": "HN 热议：276 分 · 449 评论",
-            "sentiment": "positive",
-            "comments": 449,
-            "url": "https://twitter.com/karpathy/status/2109361546505966046",
+            "title": "Postgres isn't slow, your storage is",
+            "insight": "HN 热议：81 分 · 47 评论",
+            "sentiment": "neutral",
+            "comments": 47,
+            "url": "https://clickhouse.com/blog/posette-talk-recap-postgres-isnt-slow-your-storage-is",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "500B tokens later: Letting AI agents decompile a first-person shooter",
-            "insight": "HN 热议：172 分 · 122 评论",
-            "sentiment": "neutral",
-            "comments": 122,
-            "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
+            "title": "The gap in shared understanding of LLM capability is widening",
+            "insight": "HN 热议：459 分 · 667 评论",
+            "sentiment": "positive",
+            "comments": 667,
+            "url": "https://twitter.com/karpathy/status/2109361546505966046",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: BraiNOTES, handwritten notes on your lecture PDFs in a browser tab",
-            "insight": "HN 热议：17 分 · 0 评论",
+            "title": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
+            "insight": "HN 热议：68 分 · 27 评论",
             "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://github.com/swimmingbrain/brainotes",
+            "comments": 27,
+            "url": "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",
-            "insight": "HN 热议：11 分 · 2 评论",
+            "title": "Every US Electrical Outlet Explained [video]",
+            "insight": "HN 热议：25 分 · 31 评论",
             "sentiment": "neutral",
-            "comments": 2,
-            "url": "https://github.com/plimsollmark/plimsoll",
+            "comments": 31,
+            "url": "https://www.youtube.com/watch?v=n_1wzYQwnts",
             "id": 4
         },
         {
             "source": "HackerNews",
             "title": "I paid people to try and follow my README",
-            "insight": "HN 热议：372 分 · 190 评论",
+            "insight": "HN 热议：392 分 · 194 评论",
             "sentiment": "positive",
-            "comments": 190,
+            "comments": 194,
             "url": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-10-12T02:55:05Z",
+    "updated": "2026-10-12T09:53:57Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
