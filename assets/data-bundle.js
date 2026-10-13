@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-10-12T20:29:47Z",
+    "updated": "2026-10-13T02:17:01Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-10-12T20:29:47Z",
+    "updated": "2026-10-13T02:17:01Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-10-12T20:29:47Z",
+    "updated": "2026-10-13T02:17:01Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187537,
-            "stars_today": 187537,
+            "stars": 187541,
+            "stars_today": 187541,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 172725,
-            "stars_today": 172725,
+            "stars": 172752,
+            "stars_today": 172752,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 100047,
-            "stars_today": 100047,
+            "stars": 100118,
+            "stars_today": 100118,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 96993,
-            "stars_today": 96993,
+            "stars": 96997,
+            "stars_today": 96997,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 90741,
-            "stars_today": 90741,
+            "stars": 90753,
+            "stars_today": 90753,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 68158,
-            "stars_today": 68158,
+            "stars": 68213,
+            "stars_today": 68213,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-10-12T20:29:47Z",
+    "updated": "2026-10-13T02:17:01Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-10-12T20:29:47Z",
+    "updated": "2026-10-13T02:17:01Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-10-12T20:29:47Z",
+    "updated": "2026-10-13T02:17:01Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
-            "insight": "HN 热议：60 分 · 43 评论",
+            "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+            "insight": "HN 热议：75 分 · 29 评论",
             "sentiment": "neutral",
-            "comments": 43,
-            "url": "https://news.ycombinator.com/item?id=50059096",
+            "comments": 29,
+            "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "AI coding agents generate more code, but not more software",
-            "insight": "HN 热议：194 分 · 160 评论",
+            "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
+            "insight": "HN 热议：36 分 · 19 评论",
             "sentiment": "neutral",
-            "comments": 160,
-            "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+            "comments": 19,
+            "url": "https://github.com/prabanta-dev/janas",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
-            "insight": "HN 热议：85 分 · 18 评论",
+            "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
+            "insight": "HN 热议：105 分 · 70 评论",
             "sentiment": "neutral",
-            "comments": 18,
-            "url": "https://taylor.town/kk-ai-2026",
+            "comments": 70,
+            "url": "https://news.ycombinator.com/item?id=50059096",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "The gap in shared understanding of LLM capability is widening",
-            "insight": "HN 热议：664 分 · 963 评论",
-            "sentiment": "positive",
-            "comments": 963,
-            "url": "https://twitter.com/karpathy/status/2109361546505966046",
+            "title": "Show HN: Brickbrag – A multiplayer brick-building world in the browser",
+            "insight": "HN 热议：33 分 · 10 评论",
+            "sentiment": "neutral",
+            "comments": 10,
+            "url": "https://brickbrag.com/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Reverse engineer anything with agents, from app behavior down to native binaries",
-            "insight": "HN 热议：53 分 · 11 评论",
+            "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
+            "insight": "HN 热议：145 分 · 43 评论",
             "sentiment": "neutral",
-            "comments": 11,
-            "url": "https://github.com/morluto/rea",
+            "comments": 43,
+            "url": "https://taylor.town/kk-ai-2026",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-10-12T20:29:47Z",
+    "updated": "2026-10-13T02:17:01Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
