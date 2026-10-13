@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-10-13T18:34:54Z",
+    "updated": "2026-10-13T23:59:47Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-10-13T18:34:54Z",
+    "updated": "2026-10-13T23:59:47Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-10-13T18:34:54Z",
+    "updated": "2026-10-13T23:59:47Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187561,
-            "stars_today": 187561,
+            "stars": 187563,
+            "stars_today": 187563,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 172839,
-            "stars_today": 172839,
+            "stars": 172869,
+            "stars_today": 172869,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 100373,
-            "stars_today": 100373,
+            "stars": 100432,
+            "stars_today": 100432,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 97015,
-            "stars_today": 97015,
+            "stars": 97024,
+            "stars_today": 97024,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 90809,
-            "stars_today": 90809,
+            "stars": 90829,
+            "stars_today": 90829,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 68364,
-            "stars_today": 68364,
+            "stars": 68404,
+            "stars_today": 68404,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-10-13T18:34:54Z",
+    "updated": "2026-10-13T23:59:47Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-10-13T18:34:54Z",
+    "updated": "2026-10-13T23:59:47Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-10-13T18:34:54Z",
+    "updated": "2026-10-13T23:59:47Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Gemini 4 Argon",
-            "insight": "HN 热议：517 分 · 396 评论",
+            "insight": "HN 热议：917 分 · 705 评论",
             "sentiment": "positive",
-            "comments": 396,
+            "comments": 705,
             "url": "https://deepmind.google/models/gemini/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Gemini 4 Argon for Robotics",
-            "insight": "HN 热议：60 分 · 11 评论",
-            "sentiment": "neutral",
-            "comments": 11,
-            "url": "https://developers.googleblog.com/gemini-4-argon-for-robotics/",
+            "title": "Redesigning source control at Anthropic",
+            "insight": "HN 热议：481 分 · 480 评论",
+            "sentiment": "positive",
+            "comments": 480,
+            "url": "https://www.anthropic.com/engineering/redesigning-source-control",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "I posted to HN, and then my website was flooded with AI bot traffic",
-            "insight": "HN 热议：123 分 · 72 评论",
+            "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
+            "insight": "HN 热议：10 分 · 2 评论",
             "sentiment": "neutral",
-            "comments": 72,
-            "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
+            "comments": 2,
+            "url": "https://pulseos.finance",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Redesigning source control at Anthropic",
-            "insight": "HN 热议：132 分 · 102 评论",
-            "sentiment": "neutral",
-            "comments": 102,
-            "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+            "title": "OpenAI engineer arrested in bugging of executive conference room",
+            "insight": "HN 热议：343 分 · 307 评论",
+            "sentiment": "positive",
+            "comments": 307,
+            "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data",
-            "insight": "HN 热议：25 分 · 12 评论",
-            "sentiment": "neutral",
-            "comments": 12,
-            "url": "https://news.ycombinator.com/item?id=50073471",
+            "title": "I posted to HN, and then my website was flooded with AI bot traffic",
+            "insight": "HN 热议：228 分 · 141 评论",
+            "sentiment": "positive",
+            "comments": 141,
+            "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-10-13T18:34:54Z",
+    "updated": "2026-10-13T23:59:47Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
