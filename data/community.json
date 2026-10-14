@@ -1,48 +1,48 @@
 {
-  "updated": "2026-10-13T23:59:47Z",
+  "updated": "2026-10-14T03:48:13Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Gemini 4 Argon",
-      "insight": "HN 热议：917 分 · 705 评论",
+      "insight": "HN 热议：1098 分 · 804 评论",
       "sentiment": "positive",
-      "comments": 705,
+      "comments": 804,
       "url": "https://deepmind.google/models/gemini/",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "Redesigning source control at Anthropic",
-      "insight": "HN 热议：481 分 · 480 评论",
+      "insight": "HN 热议：600 分 · 575 评论",
       "sentiment": "positive",
-      "comments": 480,
+      "comments": 575,
       "url": "https://www.anthropic.com/engineering/redesigning-source-control",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
-      "insight": "HN 热议：10 分 · 2 评论",
+      "title": "I built a tool to track what AI leaders say and how their views change on video",
+      "insight": "HN 热议：26 分 · 20 评论",
       "sentiment": "neutral",
-      "comments": 2,
-      "url": "https://pulseos.finance",
+      "comments": 20,
+      "url": "https://blumify.io/people",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "OpenAI engineer arrested in bugging of executive conference room",
-      "insight": "HN 热议：343 分 · 307 评论",
-      "sentiment": "positive",
-      "comments": 307,
-      "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
+      "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
+      "insight": "HN 热议：79 分 · 42 评论",
+      "sentiment": "neutral",
+      "comments": 42,
+      "url": "https://pulseos.finance",
       "id": 4
     },
     {
       "source": "HackerNews",
       "title": "I posted to HN, and then my website was flooded with AI bot traffic",
-      "insight": "HN 热议：228 分 · 141 评论",
+      "insight": "HN 热议：278 分 · 156 评论",
       "sentiment": "positive",
-      "comments": 141,
+      "comments": 156,
       "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
       "id": 5
     }
