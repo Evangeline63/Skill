@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-10-14T10:44:03Z",
+    "updated": "2026-10-14T16:03:03Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-10-14T10:44:03Z",
+    "updated": "2026-10-14T16:03:03Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-10-14T10:44:03Z",
+    "updated": "2026-10-14T16:03:03Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187566,
-            "stars_today": 187566,
+            "stars": 187569,
+            "stars_today": 187569,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 172919,
-            "stars_today": 172919,
+            "stars": 172947,
+            "stars_today": 172947,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 100584,
-            "stars_today": 100584,
+            "stars": 100684,
+            "stars_today": 100684,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 97047,
-            "stars_today": 97047,
+            "stars": 97055,
+            "stars_today": 97055,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 90861,
-            "stars_today": 90861,
+            "stars": 90886,
+            "stars_today": 90886,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 68488,
-            "stars_today": 68488,
+            "stars": 68543,
+            "stars_today": 68543,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-10-14T10:44:03Z",
+    "updated": "2026-10-14T16:03:03Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-10-14T10:44:03Z",
+    "updated": "2026-10-14T16:03:03Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-10-14T10:44:03Z",
+    "updated": "2026-10-14T16:03:03Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "I let an AI run my startup for a week",
-            "insight": "HN 热议：13 分 · 0 评论",
+            "title": "ASML's strong orders ease fears AI spending boom is running out of steam",
+            "insight": "HN 热议：76 分 · 58 评论",
             "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://daily.tinyprojects.dev/221",
+            "comments": 58,
+            "url": "https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Gemini 4 Argon",
-            "insight": "HN 热议：1326 分 · 921 评论",
-            "sentiment": "positive",
-            "comments": 921,
-            "url": "https://deepmind.google/models/gemini/",
+            "title": "TV4 postpones show after AI agent erases edited material",
+            "insight": "HN 热议：88 分 · 56 评论",
+            "sentiment": "neutral",
+            "comments": 56,
+            "url": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Building an LLM from Scratch in TypeScript",
-            "insight": "HN 热议：4 分 · 0 评论",
+            "title": "AI is mass decompiling games. That's both awesome and scary",
+            "insight": "HN 热议：18 分 · 6 评论",
             "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://book.humanexperiences.io/",
+            "comments": 6,
+            "url": "https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "What agents mean for Rust (and vice versa)",
-            "insight": "HN 热议：16 分 · 13 评论",
-            "sentiment": "neutral",
-            "comments": 13,
-            "url": "https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/",
+            "title": "Gemini 4 Argon",
+            "insight": "HN 热议：1394 分 · 998 评论",
+            "sentiment": "positive",
+            "comments": 998,
+            "url": "https://deepmind.google/models/gemini/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Redesigning source control at Anthropic",
-            "insight": "HN 热议：784 分 · 809 评论",
-            "sentiment": "positive",
-            "comments": 809,
-            "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+            "title": "Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work",
+            "insight": "HN 热议：7 分 · 2 评论",
+            "sentiment": "neutral",
+            "comments": 2,
+            "url": "https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-10-14T10:44:03Z",
+    "updated": "2026-10-14T16:03:03Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
