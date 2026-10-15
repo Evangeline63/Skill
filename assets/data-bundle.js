@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-10-15T13:44:50Z",
+    "updated": "2026-10-15T18:43:49Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-10-15T13:44:50Z",
+    "updated": "2026-10-15T18:43:49Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-10-15T13:44:50Z",
+    "updated": "2026-10-15T18:43:49Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187588,
-            "stars_today": 187588,
+            "stars": 187598,
+            "stars_today": 187598,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 173070,
-            "stars_today": 173070,
+            "stars": 173082,
+            "stars_today": 173082,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 100918,
-            "stars_today": 100918,
+            "stars": 100978,
+            "stars_today": 100978,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 97073,
-            "stars_today": 97073,
+            "stars": 97078,
+            "stars_today": 97078,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 90965,
-            "stars_today": 90965,
+            "stars": 90980,
+            "stars_today": 90980,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 68730,
-            "stars_today": 68730,
+            "stars": 68780,
+            "stars_today": 68780,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-10-15T13:44:50Z",
+    "updated": "2026-10-15T18:43:49Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-10-15T13:44:50Z",
+    "updated": "2026-10-15T18:43:49Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-10-15T13:44:50Z",
+    "updated": "2026-10-15T18:43:49Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
-            "insight": "HN 热议：251 分 · 60 评论",
-            "sentiment": "positive",
-            "comments": 60,
-            "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
+            "title": "Neural networks are clean",
+            "insight": "HN 热议：194 分 · 61 评论",
+            "sentiment": "neutral",
+            "comments": 61,
+            "url": "https://already-clean.goodfire.com/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Ask HN: CAD for wood working with LLM support?",
-            "insight": "HN 热议：100 分 · 92 评论",
+            "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
+            "insight": "HN 热议：178 分 · 151 评论",
             "sentiment": "neutral",
-            "comments": 92,
-            "url": "https://news.ycombinator.com/item?id=50067325",
+            "comments": 151,
+            "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
-            "insight": "HN 热议：925 分 · 571 评论",
-            "sentiment": "positive",
-            "comments": 571,
-            "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+            "title": "More on Anthropic's Scion ripping off Mononoke",
+            "insight": "HN 热议：122 分 · 35 评论",
+            "sentiment": "neutral",
+            "comments": 35,
+            "url": "https://sunshowers.io/posts/anthropic-mononoke-2/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Aidlc: Adaptive workflow steering rules for AI coding agents",
-            "insight": "HN 热议：17 分 · 16 评论",
+            "title": "Frontier Pre-Training at Microsoft AI",
+            "insight": "HN 热议：15 分 · 0 评论",
             "sentiment": "neutral",
-            "comments": 16,
-            "url": "https://github.com/awslabs/aidlc-workflows",
+            "comments": 0,
+            "url": "https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Has AI tells",
-            "insight": "HN 热议：127 分 · 110 评论",
-            "sentiment": "neutral",
-            "comments": 110,
-            "url": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1",
+            "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
+            "insight": "HN 热议：275 分 · 72 评论",
+            "sentiment": "positive",
+            "comments": 72,
+            "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-10-15T13:44:50Z",
+    "updated": "2026-10-15T18:43:49Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
