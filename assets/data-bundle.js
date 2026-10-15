@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-10-15T02:04:21Z",
+    "updated": "2026-10-15T07:46:35Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-10-15T02:04:21Z",
+    "updated": "2026-10-15T07:46:35Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,7 +266,7 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-10-15T02:04:21Z",
+    "updated": "2026-10-15T07:46:35Z",
     "repos": [
         {
             "rank": 1,
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 173010,
-            "stars_today": 173010,
+            "stars": 173036,
+            "stars_today": 173036,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 100777,
-            "stars_today": 100777,
+            "stars": 100852,
+            "stars_today": 100852,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 97068,
-            "stars_today": 97068,
+            "stars": 97071,
+            "stars_today": 97071,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 90921,
-            "stars_today": 90921,
+            "stars": 90933,
+            "stars_today": 90933,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 68618,
-            "stars_today": 68618,
+            "stars": 68669,
+            "stars_today": 68669,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-10-15T02:04:21Z",
+    "updated": "2026-10-15T07:46:35Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-10-15T02:04:21Z",
+    "updated": "2026-10-15T07:46:35Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-10-15T02:04:21Z",
+    "updated": "2026-10-15T07:46:35Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
-            "insight": "HN 热议：75 分 · 18 评论",
+            "insight": "HN 热议：180 分 · 41 评论",
             "sentiment": "neutral",
-            "comments": 18,
+            "comments": 41,
             "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
-            "insight": "HN 热议：839 分 · 452 评论",
+            "insight": "HN 热议：883 分 · 517 评论",
             "sentiment": "positive",
-            "comments": 452,
+            "comments": 517,
             "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "Ask HN: CAD for wood working with LLM support?",
-            "insight": "HN 热议：26 分 · 23 评论",
+            "insight": "HN 热议：67 分 · 58 评论",
             "sentiment": "neutral",
-            "comments": 23,
+            "comments": 58,
             "url": "https://news.ycombinator.com/item?id=50067325",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Banks are now trying to offload the AI data center debt they just underwrote",
-            "insight": "HN 热议：292 分 · 219 评论",
-            "sentiment": "positive",
-            "comments": 219,
-            "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
+            "title": "Has AI tells",
+            "insight": "HN 热议：116 分 · 100 评论",
+            "sentiment": "neutral",
+            "comments": 100,
+            "url": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1",
             "id": 4
         },
         {
             "source": "HackerNews",
             "title": "Anthropic's Scion is heavily inspired by Mononoke",
-            "insight": "HN 热议：259 分 · 112 评论",
+            "insight": "HN 热议：361 分 · 134 评论",
             "sentiment": "positive",
-            "comments": 112,
+            "comments": 134,
             "url": "https://sunshowers.io/posts/anthropic-mononoke/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-10-15T02:04:21Z",
+    "updated": "2026-10-15T07:46:35Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
