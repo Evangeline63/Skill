@@ -1,49 +1,49 @@
 {
-  "updated": "2026-10-15T07:46:35Z",
+  "updated": "2026-10-15T13:44:50Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
-      "insight": "HN 热议：180 分 · 41 评论",
-      "sentiment": "neutral",
-      "comments": 41,
+      "insight": "HN 热议：251 分 · 60 评论",
+      "sentiment": "positive",
+      "comments": 60,
       "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
-      "insight": "HN 热议：883 分 · 517 评论",
-      "sentiment": "positive",
-      "comments": 517,
-      "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+      "title": "Ask HN: CAD for wood working with LLM support?",
+      "insight": "HN 热议：100 分 · 92 评论",
+      "sentiment": "neutral",
+      "comments": 92,
+      "url": "https://news.ycombinator.com/item?id=50067325",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Ask HN: CAD for wood working with LLM support?",
-      "insight": "HN 热议：67 分 · 58 评论",
-      "sentiment": "neutral",
-      "comments": 58,
-      "url": "https://news.ycombinator.com/item?id=50067325",
+      "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
+      "insight": "HN 热议：925 分 · 571 评论",
+      "sentiment": "positive",
+      "comments": 571,
+      "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Has AI tells",
-      "insight": "HN 热议：116 分 · 100 评论",
+      "title": "Aidlc: Adaptive workflow steering rules for AI coding agents",
+      "insight": "HN 热议：17 分 · 16 评论",
       "sentiment": "neutral",
-      "comments": 100,
-      "url": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1",
+      "comments": 16,
+      "url": "https://github.com/awslabs/aidlc-workflows",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Anthropic's Scion is heavily inspired by Mononoke",
-      "insight": "HN 热议：361 分 · 134 评论",
-      "sentiment": "positive",
-      "comments": 134,
-      "url": "https://sunshowers.io/posts/anthropic-mononoke/",
+      "title": "Has AI tells",
+      "insight": "HN 热议：127 分 · 110 评论",
+      "sentiment": "neutral",
+      "comments": 110,
+      "url": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1",
       "id": 5
     }
   ]
