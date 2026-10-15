@@ -1,49 +1,49 @@
 {
-  "updated": "2026-10-14T21:02:01Z",
+  "updated": "2026-10-15T02:04:21Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Anthropic's Scion is heavily inspired by Mononoke",
-      "insight": "HN 热议：38 分 · 2 评论",
+      "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
+      "insight": "HN 热议：75 分 · 18 评论",
       "sentiment": "neutral",
-      "comments": 2,
-      "url": "https://sunshowers.io/posts/anthropic-mononoke/",
+      "comments": 18,
+      "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Banks are now trying to offload the AI data center debt they just underwrote",
-      "insight": "HN 热议：172 分 · 140 评论",
-      "sentiment": "neutral",
-      "comments": 140,
-      "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
+      "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
+      "insight": "HN 热议：839 分 · 452 评论",
+      "sentiment": "positive",
+      "comments": 452,
+      "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Neckbeard – a DevOps/platform/SRE plugin for your agent",
-      "insight": "HN 热议：50 分 · 33 评论",
+      "title": "Ask HN: CAD for wood working with LLM support?",
+      "insight": "HN 热议：26 分 · 23 评论",
       "sentiment": "neutral",
-      "comments": 33,
-      "url": "https://github.com/bealesh/neckbeard",
+      "comments": 23,
+      "url": "https://news.ycombinator.com/item?id=50067325",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "AI agents aren't 'going rogue.' Frontier labs are skipping security basics",
-      "insight": "HN 热议：741 分 · 347 评论",
+      "title": "Banks are now trying to offload the AI data center debt they just underwrote",
+      "insight": "HN 热议：292 分 · 219 评论",
       "sentiment": "positive",
-      "comments": 347,
-      "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+      "comments": 219,
+      "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Graphicle, a Rust port of Graphify with memory for coding agents",
-      "insight": "HN 热议：36 分 · 11 评论",
-      "sentiment": "neutral",
-      "comments": 11,
-      "url": "https://github.com/graphicle-ai/graphicle",
+      "title": "Anthropic's Scion is heavily inspired by Mononoke",
+      "insight": "HN 热议：259 分 · 112 评论",
+      "sentiment": "positive",
+      "comments": 112,
+      "url": "https://sunshowers.io/posts/anthropic-mononoke/",
       "id": 5
     }
   ]

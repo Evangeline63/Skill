@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-10-14T21:02:01Z",
+    "updated": "2026-10-15T02:04:21Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-10-14T21:02:01Z",
+    "updated": "2026-10-15T02:04:21Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-10-14T21:02:01Z",
+    "updated": "2026-10-15T02:04:21Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187575,
-            "stars_today": 187575,
+            "stars": 187579,
+            "stars_today": 187579,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 172977,
-            "stars_today": 172977,
+            "stars": 173010,
+            "stars_today": 173010,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 100733,
-            "stars_today": 100733,
+            "stars": 100777,
+            "stars_today": 100777,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 97066,
-            "stars_today": 97066,
+            "stars": 97068,
+            "stars_today": 97068,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 90912,
-            "stars_today": 90912,
+            "stars": 90921,
+            "stars_today": 90921,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 68575,
-            "stars_today": 68575,
+            "stars": 68618,
+            "stars_today": 68618,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-10-14T21:02:01Z",
+    "updated": "2026-10-15T02:04:21Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-10-14T21:02:01Z",
+    "updated": "2026-10-15T02:04:21Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-10-14T21:02:01Z",
+    "updated": "2026-10-15T02:04:21Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Anthropic's Scion is heavily inspired by Mononoke",
-            "insight": "HN 热议：38 分 · 2 评论",
+            "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
+            "insight": "HN 热议：75 分 · 18 评论",
             "sentiment": "neutral",
-            "comments": 2,
-            "url": "https://sunshowers.io/posts/anthropic-mononoke/",
+            "comments": 18,
+            "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Banks are now trying to offload the AI data center debt they just underwrote",
-            "insight": "HN 热议：172 分 · 140 评论",
-            "sentiment": "neutral",
-            "comments": 140,
-            "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
+            "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
+            "insight": "HN 热议：839 分 · 452 评论",
+            "sentiment": "positive",
+            "comments": 452,
+            "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Neckbeard – a DevOps/platform/SRE plugin for your agent",
-            "insight": "HN 热议：50 分 · 33 评论",
+            "title": "Ask HN: CAD for wood working with LLM support?",
+            "insight": "HN 热议：26 分 · 23 评论",
             "sentiment": "neutral",
-            "comments": 33,
-            "url": "https://github.com/bealesh/neckbeard",
+            "comments": 23,
+            "url": "https://news.ycombinator.com/item?id=50067325",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "AI agents aren't 'going rogue.' Frontier labs are skipping security basics",
-            "insight": "HN 热议：741 分 · 347 评论",
+            "title": "Banks are now trying to offload the AI data center debt they just underwrote",
+            "insight": "HN 热议：292 分 · 219 评论",
             "sentiment": "positive",
-            "comments": 347,
-            "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+            "comments": 219,
+            "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Graphicle, a Rust port of Graphify with memory for coding agents",
-            "insight": "HN 热议：36 分 · 11 评论",
-            "sentiment": "neutral",
-            "comments": 11,
-            "url": "https://github.com/graphicle-ai/graphicle",
+            "title": "Anthropic's Scion is heavily inspired by Mononoke",
+            "insight": "HN 热议：259 分 · 112 评论",
+            "sentiment": "positive",
+            "comments": 112,
+            "url": "https://sunshowers.io/posts/anthropic-mononoke/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-10-14T21:02:01Z",
+    "updated": "2026-10-15T02:04:21Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
