@@ -1,49 +1,49 @@
 {
-  "updated": "2026-10-16T18:28:45Z",
+  "updated": "2026-10-16T23:04:32Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-      "insight": "HN 热议：129 分 · 92 评论",
-      "sentiment": "neutral",
-      "comments": 92,
-      "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+      "title": "Claude reveals ECDSA curve origins",
+      "insight": "HN 热议：546 分 · 234 评论",
+      "sentiment": "positive",
+      "comments": 234,
+      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Designing more efficient quantum circuits with Claude",
-      "insight": "HN 热议：12 分 · 1 评论",
+      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+      "insight": "HN 热议：141 分 · 41 评论",
       "sentiment": "neutral",
-      "comments": 1,
-      "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+      "comments": 41,
+      "url": "https://github.com/cobanov/PS5LM",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Gemini 4 Argon plays StarCraft",
-      "insight": "HN 热议：118 分 · 56 评论",
+      "title": "You could have invented transformers from memory",
+      "insight": "HN 热议：78 分 · 20 评论",
       "sentiment": "neutral",
-      "comments": 56,
-      "url": "https://starskirmish.com/bench/v0-2/",
+      "comments": 20,
+      "url": "https://alexwang.ai/posts/associative-memory/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Stolen Renoir paintings found hidden, and damaged, behind cinder block wall",
-      "insight": "HN 热议：64 分 · 43 评论",
+      "title": "Designing more efficient quantum circuits with Claude",
+      "insight": "HN 热议：78 分 · 15 评论",
       "sentiment": "neutral",
-      "comments": 43,
-      "url": "https://www.cbsnews.com/news/stolen-renoir-paintings-found-behind-wall-france/",
+      "comments": 15,
+      "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "How to make System 1 LLMs show System 2 competencies?",
-      "insight": "HN 热议：33 分 · 17 评论",
+      "title": "How the Claude Code team does code review",
+      "insight": "HN 热议：180 分 · 172 评论",
       "sentiment": "neutral",
-      "comments": 17,
-      "url": "https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70113",
+      "comments": 172,
+      "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
       "id": 5
     }
   ]

@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-10-16T18:28:45Z",
+    "updated": "2026-10-16T23:04:32Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-10-16T18:28:45Z",
+    "updated": "2026-10-16T23:04:32Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-10-16T18:28:45Z",
+    "updated": "2026-10-16T23:04:32Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187612,
-            "stars_today": 187612,
+            "stars": 187614,
+            "stars_today": 187614,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 173176,
-            "stars_today": 173176,
+            "stars": 173181,
+            "stars_today": 173181,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 101210,
-            "stars_today": 101210,
+            "stars": 101239,
+            "stars_today": 101239,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 97094,
-            "stars_today": 97094,
+            "stars": 97091,
+            "stars_today": 97091,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 91067,
-            "stars_today": 91067,
+            "stars": 91079,
+            "stars_today": 91079,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 68990,
-            "stars_today": 68990,
+            "stars": 69032,
+            "stars_today": 69032,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-10-16T18:28:45Z",
+    "updated": "2026-10-16T23:04:32Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-10-16T18:28:45Z",
+    "updated": "2026-10-16T23:04:32Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-10-16T18:28:45Z",
+    "updated": "2026-10-16T23:04:32Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-            "insight": "HN 热议：129 分 · 92 评论",
-            "sentiment": "neutral",
-            "comments": 92,
-            "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+            "title": "Claude reveals ECDSA curve origins",
+            "insight": "HN 热议：546 分 · 234 评论",
+            "sentiment": "positive",
+            "comments": 234,
+            "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Designing more efficient quantum circuits with Claude",
-            "insight": "HN 热议：12 分 · 1 评论",
+            "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+            "insight": "HN 热议：141 分 · 41 评论",
             "sentiment": "neutral",
-            "comments": 1,
-            "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+            "comments": 41,
+            "url": "https://github.com/cobanov/PS5LM",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Gemini 4 Argon plays StarCraft",
-            "insight": "HN 热议：118 分 · 56 评论",
+            "title": "You could have invented transformers from memory",
+            "insight": "HN 热议：78 分 · 20 评论",
             "sentiment": "neutral",
-            "comments": 56,
-            "url": "https://starskirmish.com/bench/v0-2/",
+            "comments": 20,
+            "url": "https://alexwang.ai/posts/associative-memory/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Stolen Renoir paintings found hidden, and damaged, behind cinder block wall",
-            "insight": "HN 热议：64 分 · 43 评论",
+            "title": "Designing more efficient quantum circuits with Claude",
+            "insight": "HN 热议：78 分 · 15 评论",
             "sentiment": "neutral",
-            "comments": 43,
-            "url": "https://www.cbsnews.com/news/stolen-renoir-paintings-found-behind-wall-france/",
+            "comments": 15,
+            "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "How to make System 1 LLMs show System 2 competencies?",
-            "insight": "HN 热议：33 分 · 17 评论",
+            "title": "How the Claude Code team does code review",
+            "insight": "HN 热议：180 分 · 172 评论",
             "sentiment": "neutral",
-            "comments": 17,
-            "url": "https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70113",
+            "comments": 172,
+            "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-10-16T18:28:45Z",
+    "updated": "2026-10-16T23:04:32Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
