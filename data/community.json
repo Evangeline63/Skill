@@ -1,49 +1,49 @@
 {
-  "updated": "2026-10-16T13:34:43Z",
+  "updated": "2026-10-16T18:28:45Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "AI-assisted PCB design for KiCad 10",
-      "insight": "HN 热议：32 分 · 9 评论",
+      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+      "insight": "HN 热议：129 分 · 92 评论",
       "sentiment": "neutral",
-      "comments": 9,
-      "url": "https://github.com/mixelpixx/Konnect",
+      "comments": 92,
+      "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Neural networks are clean",
-      "insight": "HN 热议：747 分 · 283 评论",
-      "sentiment": "positive",
-      "comments": 283,
-      "url": "https://already-clean.goodfire.com/",
+      "title": "Designing more efficient quantum circuits with Claude",
+      "insight": "HN 热议：12 分 · 1 评论",
+      "sentiment": "neutral",
+      "comments": 1,
+      "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "MS Paint Adds Freeform Rotation (2026)",
-      "insight": "HN 热议：4 分 · 2 评论",
+      "title": "Show HN: Gemini 4 Argon plays StarCraft",
+      "insight": "HN 热议：118 分 · 56 评论",
       "sentiment": "neutral",
-      "comments": 2,
-      "url": "https://blogs.windows.com/windows-insider/2026/02/20/announcing-windows-11-insider-preview-build-28020-1619-canary-channel/",
+      "comments": 56,
+      "url": "https://starskirmish.com/bench/v0-2/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Using AI to reverse engineer hardware",
-      "insight": "HN 热议：223 分 · 196 评论",
-      "sentiment": "positive",
-      "comments": 196,
-      "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
+      "title": "Stolen Renoir paintings found hidden, and damaged, behind cinder block wall",
+      "insight": "HN 热议：64 分 · 43 评论",
+      "sentiment": "neutral",
+      "comments": 43,
+      "url": "https://www.cbsnews.com/news/stolen-renoir-paintings-found-behind-wall-france/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "BeBox is a Haiku application that emulates Be Inc.'s BeBox",
-      "insight": "HN 热议：80 分 · 25 评论",
+      "title": "How to make System 1 LLMs show System 2 competencies?",
+      "insight": "HN 热议：33 分 · 17 评论",
       "sentiment": "neutral",
-      "comments": 25,
-      "url": "https://github.com/johnrash/bebox",
+      "comments": 17,
+      "url": "https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70113",
       "id": 5
     }
   ]
