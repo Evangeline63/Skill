@@ -1,49 +1,49 @@
 {
-  "updated": "2026-10-16T07:34:47Z",
+  "updated": "2026-10-16T13:34:43Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Neural networks are clean",
-      "insight": "HN 热议：641 分 · 237 评论",
-      "sentiment": "positive",
-      "comments": 237,
-      "url": "https://already-clean.goodfire.com/",
+      "title": "AI-assisted PCB design for KiCad 10",
+      "insight": "HN 热议：32 分 · 9 评论",
+      "sentiment": "neutral",
+      "comments": 9,
+      "url": "https://github.com/mixelpixx/Konnect",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "BeBox is a Haiku application that emulates Be Inc.'s BeBox",
-      "insight": "HN 热议：53 分 · 12 评论",
-      "sentiment": "neutral",
-      "comments": 12,
-      "url": "https://github.com/johnrash/bebox",
+      "title": "Neural networks are clean",
+      "insight": "HN 热议：747 分 · 283 评论",
+      "sentiment": "positive",
+      "comments": 283,
+      "url": "https://already-clean.goodfire.com/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Using AI to reverse engineer hardware",
-      "insight": "HN 热议：174 分 · 154 评论",
+      "title": "MS Paint Adds Freeform Rotation (2026)",
+      "insight": "HN 热议：4 分 · 2 评论",
       "sentiment": "neutral",
-      "comments": 154,
-      "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
+      "comments": 2,
+      "url": "https://blogs.windows.com/windows-insider/2026/02/20/announcing-windows-11-insider-preview-build-28020-1619-canary-channel/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Aidlc: Adaptive workflow steering rules for AI coding agents",
-      "insight": "HN 热议：23 分 · 19 评论",
-      "sentiment": "neutral",
-      "comments": 19,
-      "url": "https://github.com/awslabs/aidlc-workflows",
+      "title": "Using AI to reverse engineer hardware",
+      "insight": "HN 热议：223 分 · 196 评论",
+      "sentiment": "positive",
+      "comments": 196,
+      "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Self-Evolving Agent Harness",
-      "insight": "HN 热议：4 分 · 0 评论",
+      "title": "BeBox is a Haiku application that emulates Be Inc.'s BeBox",
+      "insight": "HN 热议：80 分 · 25 评论",
       "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://arxiv.org/abs/2610.18813",
+      "comments": 25,
+      "url": "https://github.com/johnrash/bebox",
       "id": 5
     }
   ]

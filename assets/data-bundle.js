@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-10-16T07:34:47Z",
+    "updated": "2026-10-16T13:34:43Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-10-16T07:34:47Z",
+    "updated": "2026-10-16T13:34:43Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-10-16T07:34:47Z",
+    "updated": "2026-10-16T13:34:43Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187605,
-            "stars_today": 187605,
+            "stars": 187607,
+            "stars_today": 187607,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 173119,
-            "stars_today": 173119,
+            "stars": 173158,
+            "stars_today": 173158,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 101125,
-            "stars_today": 101125,
+            "stars": 101175,
+            "stars_today": 101175,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 97092,
-            "stars_today": 97092,
+            "stars": 97096,
+            "stars_today": 97096,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 91022,
-            "stars_today": 91022,
+            "stars": 91052,
+            "stars_today": 91052,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 68880,
-            "stars_today": 68880,
+            "stars": 68943,
+            "stars_today": 68943,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-10-16T07:34:47Z",
+    "updated": "2026-10-16T13:34:43Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-10-16T07:34:47Z",
+    "updated": "2026-10-16T13:34:43Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-10-16T07:34:47Z",
+    "updated": "2026-10-16T13:34:43Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Neural networks are clean",
-            "insight": "HN 热议：641 分 · 237 评论",
-            "sentiment": "positive",
-            "comments": 237,
-            "url": "https://already-clean.goodfire.com/",
+            "title": "AI-assisted PCB design for KiCad 10",
+            "insight": "HN 热议：32 分 · 9 评论",
+            "sentiment": "neutral",
+            "comments": 9,
+            "url": "https://github.com/mixelpixx/Konnect",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "BeBox is a Haiku application that emulates Be Inc.'s BeBox",
-            "insight": "HN 热议：53 分 · 12 评论",
-            "sentiment": "neutral",
-            "comments": 12,
-            "url": "https://github.com/johnrash/bebox",
+            "title": "Neural networks are clean",
+            "insight": "HN 热议：747 分 · 283 评论",
+            "sentiment": "positive",
+            "comments": 283,
+            "url": "https://already-clean.goodfire.com/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Using AI to reverse engineer hardware",
-            "insight": "HN 热议：174 分 · 154 评论",
+            "title": "MS Paint Adds Freeform Rotation (2026)",
+            "insight": "HN 热议：4 分 · 2 评论",
             "sentiment": "neutral",
-            "comments": 154,
-            "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
+            "comments": 2,
+            "url": "https://blogs.windows.com/windows-insider/2026/02/20/announcing-windows-11-insider-preview-build-28020-1619-canary-channel/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Aidlc: Adaptive workflow steering rules for AI coding agents",
-            "insight": "HN 热议：23 分 · 19 评论",
-            "sentiment": "neutral",
-            "comments": 19,
-            "url": "https://github.com/awslabs/aidlc-workflows",
+            "title": "Using AI to reverse engineer hardware",
+            "insight": "HN 热议：223 分 · 196 评论",
+            "sentiment": "positive",
+            "comments": 196,
+            "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Self-Evolving Agent Harness",
-            "insight": "HN 热议：4 分 · 0 评论",
+            "title": "BeBox is a Haiku application that emulates Be Inc.'s BeBox",
+            "insight": "HN 热议：80 分 · 25 评论",
             "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://arxiv.org/abs/2610.18813",
+            "comments": 25,
+            "url": "https://github.com/johnrash/bebox",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-10-16T07:34:47Z",
+    "updated": "2026-10-16T13:34:43Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
