@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-10-15T23:21:53Z",
+    "updated": "2026-10-16T01:54:43Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-10-15T23:21:53Z",
+    "updated": "2026-10-16T01:54:43Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-10-15T23:21:53Z",
+    "updated": "2026-10-16T01:54:43Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187601,
-            "stars_today": 187601,
+            "stars": 187599,
+            "stars_today": 187599,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 173094,
-            "stars_today": 173094,
+            "stars": 173099,
+            "stars_today": 173099,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 101035,
-            "stars_today": 101035,
+            "stars": 101068,
+            "stars_today": 101068,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 90999,
-            "stars_today": 90999,
+            "stars": 91005,
+            "stars_today": 91005,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 68821,
-            "stars_today": 68821,
+            "stars": 68839,
+            "stars_today": 68839,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-10-15T23:21:53Z",
+    "updated": "2026-10-16T01:54:43Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-10-15T23:21:53Z",
+    "updated": "2026-10-16T01:54:43Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-10-15T23:21:53Z",
+    "updated": "2026-10-16T01:54:43Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Neural networks are clean",
-            "insight": "HN 热议：451 分 · 167 评论",
+            "insight": "HN 热议：504 分 · 198 评论",
             "sentiment": "positive",
-            "comments": 167,
+            "comments": 198,
             "url": "https://already-clean.goodfire.com/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "The 8-mile hole in a Hawaii national park that no one can explain",
-            "insight": "HN 热议：23 分 · 13 评论",
+            "title": "BeBox is a Haiku application that emulates Be Inc.'s BeBox",
+            "insight": "HN 热议：26 分 · 8 评论",
             "sentiment": "neutral",
-            "comments": 13,
-            "url": "https://www.sfgate.com/national-parks/article/hawaii-volcanoes-park-great-crack-22358849.php",
+            "comments": 8,
+            "url": "https://github.com/johnrash/bebox",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Using AI to reverse engineer hardware",
-            "insight": "HN 热议：79 分 · 95 评论",
+            "title": "The 8-mile hole in a Hawaii national park that no one can explain",
+            "insight": "HN 热议：46 分 · 35 评论",
             "sentiment": "neutral",
-            "comments": 95,
-            "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
+            "comments": 35,
+            "url": "https://www.sfgate.com/national-parks/article/hawaii-volcanoes-park-great-crack-22358849.php",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
-            "insight": "HN 热议：217 分 · 176 评论",
-            "sentiment": "positive",
-            "comments": 176,
-            "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
+            "title": "Using AI to reverse engineer hardware",
+            "insight": "HN 热议：115 分 · 112 评论",
+            "sentiment": "neutral",
+            "comments": 112,
+            "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "More on Anthropic's Scion ripping off Mononoke",
-            "insight": "HN 热议：214 分 · 67 评论",
+            "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
+            "insight": "HN 热议：231 分 · 186 评论",
             "sentiment": "positive",
-            "comments": 67,
-            "url": "https://sunshowers.io/posts/anthropic-mononoke-2/",
+            "comments": 186,
+            "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-10-15T23:21:53Z",
+    "updated": "2026-10-16T01:54:43Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
