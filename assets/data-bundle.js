@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-10-16T01:54:43Z",
+    "updated": "2026-10-16T07:34:47Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-10-16T01:54:43Z",
+    "updated": "2026-10-16T07:34:47Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-10-16T01:54:43Z",
+    "updated": "2026-10-16T07:34:47Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187599,
-            "stars_today": 187599,
+            "stars": 187605,
+            "stars_today": 187605,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 173099,
-            "stars_today": 173099,
+            "stars": 173119,
+            "stars_today": 173119,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 101068,
-            "stars_today": 101068,
+            "stars": 101125,
+            "stars_today": 101125,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 97083,
-            "stars_today": 97083,
+            "stars": 97092,
+            "stars_today": 97092,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 91005,
-            "stars_today": 91005,
+            "stars": 91022,
+            "stars_today": 91022,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 68839,
-            "stars_today": 68839,
+            "stars": 68880,
+            "stars_today": 68880,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-10-16T01:54:43Z",
+    "updated": "2026-10-16T07:34:47Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-10-16T01:54:43Z",
+    "updated": "2026-10-16T07:34:47Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-10-16T01:54:43Z",
+    "updated": "2026-10-16T07:34:47Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Neural networks are clean",
-            "insight": "HN 热议：504 分 · 198 评论",
+            "insight": "HN 热议：641 分 · 237 评论",
             "sentiment": "positive",
-            "comments": 198,
+            "comments": 237,
             "url": "https://already-clean.goodfire.com/",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "BeBox is a Haiku application that emulates Be Inc.'s BeBox",
-            "insight": "HN 热议：26 分 · 8 评论",
+            "insight": "HN 热议：53 分 · 12 评论",
             "sentiment": "neutral",
-            "comments": 8,
+            "comments": 12,
             "url": "https://github.com/johnrash/bebox",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "The 8-mile hole in a Hawaii national park that no one can explain",
-            "insight": "HN 热议：46 分 · 35 评论",
+            "title": "Using AI to reverse engineer hardware",
+            "insight": "HN 热议：174 分 · 154 评论",
             "sentiment": "neutral",
-            "comments": 35,
-            "url": "https://www.sfgate.com/national-parks/article/hawaii-volcanoes-park-great-crack-22358849.php",
+            "comments": 154,
+            "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Using AI to reverse engineer hardware",
-            "insight": "HN 热议：115 分 · 112 评论",
+            "title": "Aidlc: Adaptive workflow steering rules for AI coding agents",
+            "insight": "HN 热议：23 分 · 19 评论",
             "sentiment": "neutral",
-            "comments": 112,
-            "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
+            "comments": 19,
+            "url": "https://github.com/awslabs/aidlc-workflows",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
-            "insight": "HN 热议：231 分 · 186 评论",
-            "sentiment": "positive",
-            "comments": 186,
-            "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
+            "title": "Self-Evolving Agent Harness",
+            "insight": "HN 热议：4 分 · 0 评论",
+            "sentiment": "neutral",
+            "comments": 0,
+            "url": "https://arxiv.org/abs/2610.18813",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-10-16T01:54:43Z",
+    "updated": "2026-10-16T07:34:47Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
