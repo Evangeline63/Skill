@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-10-17T17:34:24Z",
+    "updated": "2026-10-17T19:45:39Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-10-17T17:34:24Z",
+    "updated": "2026-10-17T19:45:39Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-10-17T17:34:24Z",
+    "updated": "2026-10-17T19:45:39Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187623,
-            "stars_today": 187623,
+            "stars": 187626,
+            "stars_today": 187626,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 173252,
-            "stars_today": 173252,
+            "stars": 173258,
+            "stars_today": 173258,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 101364,
-            "stars_today": 101364,
+            "stars": 101385,
+            "stars_today": 101385,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 91124,
-            "stars_today": 91124,
+            "stars": 91131,
+            "stars_today": 91131,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 69163,
-            "stars_today": 69163,
+            "stars": 69191,
+            "stars_today": 69191,
             "url": "https://github.com/usestrix/strix"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "Kong/kong",
             "description": "🦍 The API and AI Gateway",
             "language": "Lua",
-            "stars": 44276,
-            "stars_today": 44276,
+            "stars": 44277,
+            "stars_today": 44277,
             "url": "https://github.com/Kong/kong"
         }
     ]
 },
   "products": {
-    "updated": "2026-10-17T17:34:24Z",
+    "updated": "2026-10-17T19:45:39Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-10-17T17:34:24Z",
+    "updated": "2026-10-17T19:45:39Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-10-17T17:34:24Z",
+    "updated": "2026-10-17T19:45:39Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Amazon uses union-busting AI surveillance to monitor union risk in UK warehouses",
-            "insight": "HN 热议：68 分 · 9 评论",
+            "title": "Pele – Mermaid diagrams as themeable SVG",
+            "insight": "HN 热议：57 分 · 6 评论",
             "sentiment": "neutral",
-            "comments": 9,
-            "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/",
+            "comments": 6,
+            "url": "https://pele.run/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-            "insight": "HN 热议：199 分 · 65 评论",
+            "title": "AI Can Write the Code. Who Verifies It?",
+            "insight": "HN 热议：10 分 · 15 评论",
             "sentiment": "neutral",
-            "comments": 65,
-            "url": "https://llmspeed.dev/",
+            "comments": 15,
+            "url": "https://mihaisplace.com/blog/ai-can-write-the-code-who-verifies-it",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "OpenAI discloses four more rogue incidents",
-            "insight": "HN 热议：24 分 · 4 评论",
-            "sentiment": "neutral",
-            "comments": 4,
-            "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/",
+            "title": "You could have invented transformers from memory",
+            "insight": "HN 热议：443 分 · 104 评论",
+            "sentiment": "positive",
+            "comments": 104,
+            "url": "https://alexwang.ai/posts/associative-memory/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
-            "insight": "HN 热议：347 分 · 84 评论",
+            "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+            "insight": "HN 热议：214 分 · 68 评论",
             "sentiment": "positive",
-            "comments": 84,
-            "url": "https://github.com/cobanov/PS5LM",
+            "comments": 68,
+            "url": "https://llmspeed.dev/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "You could have invented transformers from memory",
-            "insight": "HN 热议：420 分 · 99 评论",
-            "sentiment": "positive",
-            "comments": 99,
-            "url": "https://alexwang.ai/posts/associative-memory/",
+            "title": "Tell HN: Remember to migrate away from .name domain",
+            "insight": "HN 热议：116 分 · 77 评论",
+            "sentiment": "neutral",
+            "comments": 77,
+            "url": "https://news.ycombinator.com/item?id=50089577",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-10-17T17:34:24Z",
+    "updated": "2026-10-17T19:45:39Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
