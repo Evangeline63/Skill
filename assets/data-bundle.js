@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-10-16T23:04:32Z",
+    "updated": "2026-10-17T01:49:18Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-10-16T23:04:32Z",
+    "updated": "2026-10-17T01:49:18Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,7 +266,7 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-10-16T23:04:32Z",
+    "updated": "2026-10-17T01:49:18Z",
     "repos": [
         {
             "rank": 1,
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 173181,
-            "stars_today": 173181,
+            "stars": 173187,
+            "stars_today": 173187,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,41 +291,41 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 101239,
-            "stars_today": 101239,
+            "stars": 101245,
+            "stars_today": 101245,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
             "rank": 4,
-            "name": "hacksider/Deep-Live-Cam",
-            "description": "real time face swap and one-click video deepfake with only a single image",
-            "language": "Python",
-            "stars": 97091,
-            "stars_today": 97091,
-            "url": "https://github.com/hacksider/Deep-Live-Cam"
-        },
-        {
-            "rank": 5,
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 91079,
-            "stars_today": 91079,
+            "stars": 91078,
+            "stars_today": 91078,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
-            "rank": 6,
+            "rank": 5,
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 69032,
-            "stars_today": 69032,
+            "stars": 69045,
+            "stars_today": 69045,
             "url": "https://github.com/usestrix/strix"
+        },
+        {
+            "rank": 6,
+            "name": "Kong/kong",
+            "description": "🦍 The API and AI Gateway",
+            "language": "Lua",
+            "stars": 44274,
+            "stars_today": 44274,
+            "url": "https://github.com/Kong/kong"
         }
     ]
 },
   "products": {
-    "updated": "2026-10-16T23:04:32Z",
+    "updated": "2026-10-17T01:49:18Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-10-16T23:04:32Z",
+    "updated": "2026-10-17T01:49:18Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-10-16T23:04:32Z",
+    "updated": "2026-10-17T01:49:18Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Claude reveals ECDSA curve origins",
-            "insight": "HN 热议：546 分 · 234 评论",
-            "sentiment": "positive",
-            "comments": 234,
-            "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+            "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+            "insight": "HN 热议：199 分 · 50 评论",
+            "sentiment": "neutral",
+            "comments": 50,
+            "url": "https://github.com/cobanov/PS5LM",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
-            "insight": "HN 热议：141 分 · 41 评论",
-            "sentiment": "neutral",
-            "comments": 41,
-            "url": "https://github.com/cobanov/PS5LM",
+            "title": "Claude reveals ECDSA curve origins",
+            "insight": "HN 热议：682 分 · 273 评论",
+            "sentiment": "positive",
+            "comments": 273,
+            "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "You could have invented transformers from memory",
-            "insight": "HN 热议：78 分 · 20 评论",
+            "insight": "HN 热议：140 分 · 40 评论",
             "sentiment": "neutral",
-            "comments": 20,
+            "comments": 40,
             "url": "https://alexwang.ai/posts/associative-memory/",
             "id": 3
         },
         {
             "source": "HackerNews",
             "title": "Designing more efficient quantum circuits with Claude",
-            "insight": "HN 热议：78 分 · 15 评论",
+            "insight": "HN 热议：102 分 · 20 评论",
             "sentiment": "neutral",
-            "comments": 15,
+            "comments": 20,
             "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "How the Claude Code team does code review",
-            "insight": "HN 热议：180 分 · 172 评论",
+            "title": "Nine-Inch Snails",
+            "insight": "HN 热议：25 分 · 8 评论",
             "sentiment": "neutral",
-            "comments": 172,
-            "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+            "comments": 8,
+            "url": "https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-10-16T23:04:32Z",
+    "updated": "2026-10-17T01:49:18Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
