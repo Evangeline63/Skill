@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-10-17T01:49:18Z",
+    "updated": "2026-10-17T07:14:42Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-10-17T01:49:18Z",
+    "updated": "2026-10-17T07:14:42Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-10-17T01:49:18Z",
+    "updated": "2026-10-17T07:14:42Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187614,
-            "stars_today": 187614,
+            "stars": 187620,
+            "stars_today": 187620,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 173187,
-            "stars_today": 173187,
+            "stars": 173209,
+            "stars_today": 173209,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 101245,
-            "stars_today": 101245,
+            "stars": 101271,
+            "stars_today": 101271,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 91078,
-            "stars_today": 91078,
+            "stars": 91091,
+            "stars_today": 91091,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 69045,
-            "stars_today": 69045,
+            "stars": 69073,
+            "stars_today": 69073,
             "url": "https://github.com/usestrix/strix"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "Kong/kong",
             "description": "🦍 The API and AI Gateway",
             "language": "Lua",
-            "stars": 44274,
-            "stars_today": 44274,
+            "stars": 44275,
+            "stars_today": 44275,
             "url": "https://github.com/Kong/kong"
         }
     ]
 },
   "products": {
-    "updated": "2026-10-17T01:49:18Z",
+    "updated": "2026-10-17T07:14:42Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-10-17T01:49:18Z",
+    "updated": "2026-10-17T07:14:42Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-10-17T01:49:18Z",
+    "updated": "2026-10-17T07:14:42Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
-            "insight": "HN 热议：199 分 · 50 评论",
+            "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+            "insight": "HN 热议：24 分 · 6 评论",
             "sentiment": "neutral",
-            "comments": 50,
-            "url": "https://github.com/cobanov/PS5LM",
+            "comments": 6,
+            "url": "https://llmspeed.dev/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Claude reveals ECDSA curve origins",
-            "insight": "HN 热议：682 分 · 273 评论",
+            "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+            "insight": "HN 热议：267 分 · 64 评论",
             "sentiment": "positive",
-            "comments": 273,
-            "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+            "comments": 64,
+            "url": "https://github.com/cobanov/PS5LM",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "You could have invented transformers from memory",
-            "insight": "HN 热议：140 分 · 40 评论",
-            "sentiment": "neutral",
-            "comments": 40,
-            "url": "https://alexwang.ai/posts/associative-memory/",
+            "title": "Claude reveals ECDSA curve origins",
+            "insight": "HN 热议：823 分 · 310 评论",
+            "sentiment": "positive",
+            "comments": 310,
+            "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Designing more efficient quantum circuits with Claude",
-            "insight": "HN 热议：102 分 · 20 评论",
-            "sentiment": "neutral",
-            "comments": 20,
-            "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+            "title": "You could have invented transformers from memory",
+            "insight": "HN 热议：246 分 · 64 评论",
+            "sentiment": "positive",
+            "comments": 64,
+            "url": "https://alexwang.ai/posts/associative-memory/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Nine-Inch Snails",
-            "insight": "HN 热议：25 分 · 8 评论",
+            "title": "Designing more efficient quantum circuits with Claude",
+            "insight": "HN 热议：129 分 · 29 评论",
             "sentiment": "neutral",
-            "comments": 8,
-            "url": "https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/",
+            "comments": 29,
+            "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-10-17T01:49:18Z",
+    "updated": "2026-10-17T07:14:42Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

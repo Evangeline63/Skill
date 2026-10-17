@@ -1,49 +1,49 @@
 {
-  "updated": "2026-10-17T01:49:18Z",
+  "updated": "2026-10-17T07:14:42Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
-      "insight": "HN 热议：199 分 · 50 评论",
+      "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+      "insight": "HN 热议：24 分 · 6 评论",
       "sentiment": "neutral",
-      "comments": 50,
-      "url": "https://github.com/cobanov/PS5LM",
+      "comments": 6,
+      "url": "https://llmspeed.dev/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Claude reveals ECDSA curve origins",
-      "insight": "HN 热议：682 分 · 273 评论",
+      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+      "insight": "HN 热议：267 分 · 64 评论",
       "sentiment": "positive",
-      "comments": 273,
-      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+      "comments": 64,
+      "url": "https://github.com/cobanov/PS5LM",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "You could have invented transformers from memory",
-      "insight": "HN 热议：140 分 · 40 评论",
-      "sentiment": "neutral",
-      "comments": 40,
-      "url": "https://alexwang.ai/posts/associative-memory/",
+      "title": "Claude reveals ECDSA curve origins",
+      "insight": "HN 热议：823 分 · 310 评论",
+      "sentiment": "positive",
+      "comments": 310,
+      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Designing more efficient quantum circuits with Claude",
-      "insight": "HN 热议：102 分 · 20 评论",
-      "sentiment": "neutral",
-      "comments": 20,
-      "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+      "title": "You could have invented transformers from memory",
+      "insight": "HN 热议：246 分 · 64 评论",
+      "sentiment": "positive",
+      "comments": 64,
+      "url": "https://alexwang.ai/posts/associative-memory/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Nine-Inch Snails",
-      "insight": "HN 热议：25 分 · 8 评论",
+      "title": "Designing more efficient quantum circuits with Claude",
+      "insight": "HN 热议：129 分 · 29 评论",
       "sentiment": "neutral",
-      "comments": 8,
-      "url": "https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/",
+      "comments": 29,
+      "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
       "id": 5
     }
   ]
