@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-10-17T07:14:42Z",
+    "updated": "2026-10-17T12:31:03Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-10-17T07:14:42Z",
+    "updated": "2026-10-17T12:31:03Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,7 +266,7 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-10-17T07:14:42Z",
+    "updated": "2026-10-17T12:31:03Z",
     "repos": [
         {
             "rank": 1,
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 173209,
-            "stars_today": 173209,
+            "stars": 173228,
+            "stars_today": 173228,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 101271,
-            "stars_today": 101271,
+            "stars": 101306,
+            "stars_today": 101306,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 91091,
-            "stars_today": 91091,
+            "stars": 91106,
+            "stars_today": 91106,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 69073,
-            "stars_today": 69073,
+            "stars": 69120,
+            "stars_today": 69120,
             "url": "https://github.com/usestrix/strix"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "Kong/kong",
             "description": "🦍 The API and AI Gateway",
             "language": "Lua",
-            "stars": 44275,
-            "stars_today": 44275,
+            "stars": 44278,
+            "stars_today": 44278,
             "url": "https://github.com/Kong/kong"
         }
     ]
 },
   "products": {
-    "updated": "2026-10-17T07:14:42Z",
+    "updated": "2026-10-17T12:31:03Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-10-17T07:14:42Z",
+    "updated": "2026-10-17T12:31:03Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-10-17T07:14:42Z",
+    "updated": "2026-10-17T12:31:03Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-            "insight": "HN 热议：24 分 · 6 评论",
+            "insight": "HN 热议：111 分 · 41 评论",
             "sentiment": "neutral",
-            "comments": 6,
+            "comments": 41,
             "url": "https://llmspeed.dev/",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
-            "insight": "HN 热议：267 分 · 64 评论",
+            "insight": "HN 热议：307 分 · 75 评论",
             "sentiment": "positive",
-            "comments": 64,
+            "comments": 75,
             "url": "https://github.com/cobanov/PS5LM",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Claude reveals ECDSA curve origins",
-            "insight": "HN 热议：823 分 · 310 评论",
+            "title": "You could have invented transformers from memory",
+            "insight": "HN 热议：330 分 · 78 评论",
             "sentiment": "positive",
-            "comments": 310,
-            "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+            "comments": 78,
+            "url": "https://alexwang.ai/posts/associative-memory/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "You could have invented transformers from memory",
-            "insight": "HN 热议：246 分 · 64 评论",
+            "title": "Claude reveals ECDSA curve origins",
+            "insight": "HN 热议：906 分 · 335 评论",
             "sentiment": "positive",
-            "comments": 64,
-            "url": "https://alexwang.ai/posts/associative-memory/",
+            "comments": 335,
+            "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
             "id": 4
         },
         {
             "source": "HackerNews",
             "title": "Designing more efficient quantum circuits with Claude",
-            "insight": "HN 热议：129 分 · 29 评论",
+            "insight": "HN 热议：151 分 · 32 评论",
             "sentiment": "neutral",
-            "comments": 29,
+            "comments": 32,
             "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-10-17T07:14:42Z",
+    "updated": "2026-10-17T12:31:03Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
