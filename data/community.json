@@ -1,49 +1,49 @@
 {
-  "updated": "2026-10-17T12:31:03Z",
+  "updated": "2026-10-17T17:34:24Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-      "insight": "HN 热议：111 分 · 41 评论",
+      "title": "Amazon uses union-busting AI surveillance to monitor union risk in UK warehouses",
+      "insight": "HN 热议：68 分 · 9 评论",
       "sentiment": "neutral",
-      "comments": 41,
-      "url": "https://llmspeed.dev/",
+      "comments": 9,
+      "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
-      "insight": "HN 热议：307 分 · 75 评论",
-      "sentiment": "positive",
-      "comments": 75,
-      "url": "https://github.com/cobanov/PS5LM",
+      "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+      "insight": "HN 热议：199 分 · 65 评论",
+      "sentiment": "neutral",
+      "comments": 65,
+      "url": "https://llmspeed.dev/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "You could have invented transformers from memory",
-      "insight": "HN 热议：330 分 · 78 评论",
-      "sentiment": "positive",
-      "comments": 78,
-      "url": "https://alexwang.ai/posts/associative-memory/",
+      "title": "OpenAI discloses four more rogue incidents",
+      "insight": "HN 热议：24 分 · 4 评论",
+      "sentiment": "neutral",
+      "comments": 4,
+      "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Claude reveals ECDSA curve origins",
-      "insight": "HN 热议：906 分 · 335 评论",
+      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+      "insight": "HN 热议：347 分 · 84 评论",
       "sentiment": "positive",
-      "comments": 335,
-      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+      "comments": 84,
+      "url": "https://github.com/cobanov/PS5LM",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Designing more efficient quantum circuits with Claude",
-      "insight": "HN 热议：151 分 · 32 评论",
-      "sentiment": "neutral",
-      "comments": 32,
-      "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+      "title": "You could have invented transformers from memory",
+      "insight": "HN 热议：420 分 · 99 评论",
+      "sentiment": "positive",
+      "comments": 99,
+      "url": "https://alexwang.ai/posts/associative-memory/",
       "id": 5
     }
   ]

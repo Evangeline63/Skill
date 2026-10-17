@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-10-17T12:31:03Z",
+    "updated": "2026-10-17T17:34:24Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-10-17T12:31:03Z",
+    "updated": "2026-10-17T17:34:24Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-10-17T12:31:03Z",
+    "updated": "2026-10-17T17:34:24Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187620,
-            "stars_today": 187620,
+            "stars": 187623,
+            "stars_today": 187623,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 173228,
-            "stars_today": 173228,
+            "stars": 173252,
+            "stars_today": 173252,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 101306,
-            "stars_today": 101306,
+            "stars": 101364,
+            "stars_today": 101364,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 91106,
-            "stars_today": 91106,
+            "stars": 91124,
+            "stars_today": 91124,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 69120,
-            "stars_today": 69120,
+            "stars": 69163,
+            "stars_today": 69163,
             "url": "https://github.com/usestrix/strix"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "Kong/kong",
             "description": "🦍 The API and AI Gateway",
             "language": "Lua",
-            "stars": 44278,
-            "stars_today": 44278,
+            "stars": 44276,
+            "stars_today": 44276,
             "url": "https://github.com/Kong/kong"
         }
     ]
 },
   "products": {
-    "updated": "2026-10-17T12:31:03Z",
+    "updated": "2026-10-17T17:34:24Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-10-17T12:31:03Z",
+    "updated": "2026-10-17T17:34:24Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-10-17T12:31:03Z",
+    "updated": "2026-10-17T17:34:24Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-            "insight": "HN 热议：111 分 · 41 评论",
+            "title": "Amazon uses union-busting AI surveillance to monitor union risk in UK warehouses",
+            "insight": "HN 热议：68 分 · 9 评论",
             "sentiment": "neutral",
-            "comments": 41,
-            "url": "https://llmspeed.dev/",
+            "comments": 9,
+            "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
-            "insight": "HN 热议：307 分 · 75 评论",
-            "sentiment": "positive",
-            "comments": 75,
-            "url": "https://github.com/cobanov/PS5LM",
+            "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+            "insight": "HN 热议：199 分 · 65 评论",
+            "sentiment": "neutral",
+            "comments": 65,
+            "url": "https://llmspeed.dev/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "You could have invented transformers from memory",
-            "insight": "HN 热议：330 分 · 78 评论",
-            "sentiment": "positive",
-            "comments": 78,
-            "url": "https://alexwang.ai/posts/associative-memory/",
+            "title": "OpenAI discloses four more rogue incidents",
+            "insight": "HN 热议：24 分 · 4 评论",
+            "sentiment": "neutral",
+            "comments": 4,
+            "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Claude reveals ECDSA curve origins",
-            "insight": "HN 热议：906 分 · 335 评论",
+            "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+            "insight": "HN 热议：347 分 · 84 评论",
             "sentiment": "positive",
-            "comments": 335,
-            "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+            "comments": 84,
+            "url": "https://github.com/cobanov/PS5LM",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Designing more efficient quantum circuits with Claude",
-            "insight": "HN 热议：151 分 · 32 评论",
-            "sentiment": "neutral",
-            "comments": 32,
-            "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+            "title": "You could have invented transformers from memory",
+            "insight": "HN 热议：420 分 · 99 评论",
+            "sentiment": "positive",
+            "comments": 99,
+            "url": "https://alexwang.ai/posts/associative-memory/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-10-17T12:31:03Z",
+    "updated": "2026-10-17T17:34:24Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
