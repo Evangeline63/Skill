@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-10-17T19:45:39Z",
+    "updated": "2026-10-17T22:43:56Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-10-17T19:45:39Z",
+    "updated": "2026-10-17T22:43:56Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-10-17T19:45:39Z",
+    "updated": "2026-10-17T22:43:56Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187626,
-            "stars_today": 187626,
+            "stars": 187628,
+            "stars_today": 187628,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 173258,
-            "stars_today": 173258,
+            "stars": 173263,
+            "stars_today": 173263,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 101385,
-            "stars_today": 101385,
+            "stars": 101409,
+            "stars_today": 101409,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 91131,
-            "stars_today": 91131,
+            "stars": 91139,
+            "stars_today": 91139,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 69191,
-            "stars_today": 69191,
+            "stars": 69222,
+            "stars_today": 69222,
             "url": "https://github.com/usestrix/strix"
         },
         {
@@ -325,7 +325,7 @@ window.__DATA__ = {
     ]
 },
   "products": {
-    "updated": "2026-10-17T19:45:39Z",
+    "updated": "2026-10-17T22:43:56Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-10-17T19:45:39Z",
+    "updated": "2026-10-17T22:43:56Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-10-17T19:45:39Z",
+    "updated": "2026-10-17T22:43:56Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Pele – Mermaid diagrams as themeable SVG",
-            "insight": "HN 热议：57 分 · 6 评论",
+            "insight": "HN 热议：159 分 · 15 评论",
             "sentiment": "neutral",
-            "comments": 6,
+            "comments": 15,
             "url": "https://pele.run/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "AI Can Write the Code. Who Verifies It?",
-            "insight": "HN 热议：10 分 · 15 评论",
+            "title": "Microsoft and CMU Team Up to Train Early Career Software Engineers",
+            "insight": "HN 热议：41 分 · 45 评论",
             "sentiment": "neutral",
-            "comments": 15,
-            "url": "https://mihaisplace.com/blog/ai-can-write-the-code-who-verifies-it",
+            "comments": 45,
+            "url": "https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "You could have invented transformers from memory",
-            "insight": "HN 热议：443 分 · 104 评论",
+            "insight": "HN 热议：473 分 · 108 评论",
             "sentiment": "positive",
-            "comments": 104,
+            "comments": 108,
             "url": "https://alexwang.ai/posts/associative-memory/",
             "id": 3
         },
         {
             "source": "HackerNews",
             "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-            "insight": "HN 热议：214 分 · 68 评论",
+            "insight": "HN 热议：230 分 · 75 评论",
             "sentiment": "positive",
-            "comments": 68,
+            "comments": 75,
             "url": "https://llmspeed.dev/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Tell HN: Remember to migrate away from .name domain",
-            "insight": "HN 热议：116 分 · 77 评论",
-            "sentiment": "neutral",
-            "comments": 77,
-            "url": "https://news.ycombinator.com/item?id=50089577",
+            "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+            "insight": "HN 热议：365 分 · 85 评论",
+            "sentiment": "positive",
+            "comments": 85,
+            "url": "https://github.com/cobanov/PS5LM",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-10-17T19:45:39Z",
+    "updated": "2026-10-17T22:43:56Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
