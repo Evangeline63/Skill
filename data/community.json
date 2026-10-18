@@ -1,49 +1,49 @@
 {
-  "updated": "2026-10-18T07:28:09Z",
+  "updated": "2026-10-18T12:49:47Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
-      "insight": "HN 热议：86 分 · 24 评论",
+      "insight": "HN 热议：166 分 · 49 评论",
       "sentiment": "neutral",
-      "comments": 24,
+      "comments": 49,
       "url": "https://sphinx-six-theta.vercel.app/",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "Pele – Mermaid diagrams as themeable SVG",
-      "insight": "HN 热议：383 分 · 34 评论",
+      "insight": "HN 热议：474 分 · 41 评论",
       "sentiment": "positive",
-      "comments": 34,
+      "comments": 41,
       "url": "https://pele.run/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "You could have invented transformers from memory",
-      "insight": "HN 热议：545 分 · 126 评论",
-      "sentiment": "positive",
-      "comments": 126,
-      "url": "https://alexwang.ai/posts/associative-memory/",
+      "title": "Lorenz and Little: How Much Does Your Tail Cost?",
+      "insight": "HN 热议：6 分 · 0 评论",
+      "sentiment": "neutral",
+      "comments": 0,
+      "url": "https://brooker.co.za/blog/2026/07/29/lorenz-and-little.html",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-      "insight": "HN 热议：280 分 · 80 评论",
+      "title": "You could have invented transformers from memory",
+      "insight": "HN 热议：580 分 · 130 评论",
       "sentiment": "positive",
-      "comments": 80,
-      "url": "https://llmspeed.dev/",
+      "comments": 130,
+      "url": "https://alexwang.ai/posts/associative-memory/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Tell HN: Remember to migrate away from .name domain",
-      "insight": "HN 热议：149 分 · 90 评论",
+      "title": "A History of Curves and Surfaces in Computer Aided Geometric Design [pdf]",
+      "insight": "HN 热议：4 分 · 0 评论",
       "sentiment": "neutral",
-      "comments": 90,
-      "url": "https://news.ycombinator.com/item?id=50089577",
+      "comments": 0,
+      "url": "https://math.pku.edu.cn/teachers/jiangm/courses/CG/Lectures/spline-history.pdf",
       "id": 5
     }
   ]
