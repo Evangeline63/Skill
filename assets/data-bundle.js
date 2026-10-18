@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-10-17T22:43:56Z",
+    "updated": "2026-10-18T01:47:32Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-10-17T22:43:56Z",
+    "updated": "2026-10-18T01:47:32Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -325,7 +325,7 @@ window.__DATA__ = {
     ]
 },
   "products": {
-    "updated": "2026-10-17T22:43:56Z",
+    "updated": "2026-10-18T01:47:32Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-10-17T22:43:56Z",
+    "updated": "2026-10-18T01:47:32Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-10-17T22:43:56Z",
+    "updated": "2026-10-18T01:47:32Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Pele – Mermaid diagrams as themeable SVG",
-            "insight": "HN 热议：159 分 · 15 评论",
-            "sentiment": "neutral",
-            "comments": 15,
+            "insight": "HN 热议：238 分 · 26 评论",
+            "sentiment": "positive",
+            "comments": 26,
             "url": "https://pele.run/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Microsoft and CMU Team Up to Train Early Career Software Engineers",
-            "insight": "HN 热议：41 分 · 45 评论",
-            "sentiment": "neutral",
-            "comments": 45,
-            "url": "https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise",
+            "title": "You could have invented transformers from memory",
+            "insight": "HN 热议：504 分 · 117 评论",
+            "sentiment": "positive",
+            "comments": 117,
+            "url": "https://alexwang.ai/posts/associative-memory/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "You could have invented transformers from memory",
-            "insight": "HN 热议：473 分 · 108 评论",
+            "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+            "insight": "HN 热议：252 分 · 77 评论",
             "sentiment": "positive",
-            "comments": 108,
-            "url": "https://alexwang.ai/posts/associative-memory/",
+            "comments": 77,
+            "url": "https://llmspeed.dev/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-            "insight": "HN 热议：230 分 · 75 评论",
-            "sentiment": "positive",
-            "comments": 75,
-            "url": "https://llmspeed.dev/",
+            "title": "Microsoft and CMU team up to train early career software engineers",
+            "insight": "HN 热议：58 分 · 71 评论",
+            "sentiment": "neutral",
+            "comments": 71,
+            "url": "https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
-            "insight": "HN 热议：365 分 · 85 评论",
-            "sentiment": "positive",
-            "comments": 85,
-            "url": "https://github.com/cobanov/PS5LM",
+            "title": "Tell HN: Remember to migrate away from .name domain",
+            "insight": "HN 热议：131 分 · 86 评论",
+            "sentiment": "neutral",
+            "comments": 86,
+            "url": "https://news.ycombinator.com/item?id=50089577",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-10-17T22:43:56Z",
+    "updated": "2026-10-18T01:47:32Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
