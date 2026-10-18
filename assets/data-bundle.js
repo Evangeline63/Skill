@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-10-18T01:47:32Z",
+    "updated": "2026-10-18T07:28:09Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-10-18T01:47:32Z",
+    "updated": "2026-10-18T07:28:09Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-10-17T22:43:56Z",
+    "updated": "2026-10-18T07:28:09Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187628,
-            "stars_today": 187628,
+            "stars": 187633,
+            "stars_today": 187633,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 173263,
-            "stars_today": 173263,
+            "stars": 173279,
+            "stars_today": 173279,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 101409,
-            "stars_today": 101409,
+            "stars": 101477,
+            "stars_today": 101477,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 91139,
-            "stars_today": 91139,
+            "stars": 91167,
+            "stars_today": 91167,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 69222,
-            "stars_today": 69222,
+            "stars": 69293,
+            "stars_today": 69293,
             "url": "https://github.com/usestrix/strix"
         },
         {
@@ -325,7 +325,7 @@ window.__DATA__ = {
     ]
 },
   "products": {
-    "updated": "2026-10-18T01:47:32Z",
+    "updated": "2026-10-18T07:28:09Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-10-18T01:47:32Z",
+    "updated": "2026-10-18T07:28:09Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-10-18T01:47:32Z",
+    "updated": "2026-10-18T07:28:09Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Pele – Mermaid diagrams as themeable SVG",
-            "insight": "HN 热议：238 分 · 26 评论",
-            "sentiment": "positive",
-            "comments": 26,
-            "url": "https://pele.run/",
+            "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+            "insight": "HN 热议：86 分 · 24 评论",
+            "sentiment": "neutral",
+            "comments": 24,
+            "url": "https://sphinx-six-theta.vercel.app/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "You could have invented transformers from memory",
-            "insight": "HN 热议：504 分 · 117 评论",
+            "title": "Pele – Mermaid diagrams as themeable SVG",
+            "insight": "HN 热议：383 分 · 34 评论",
             "sentiment": "positive",
-            "comments": 117,
-            "url": "https://alexwang.ai/posts/associative-memory/",
+            "comments": 34,
+            "url": "https://pele.run/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-            "insight": "HN 热议：252 分 · 77 评论",
+            "title": "You could have invented transformers from memory",
+            "insight": "HN 热议：545 分 · 126 评论",
             "sentiment": "positive",
-            "comments": 77,
-            "url": "https://llmspeed.dev/",
+            "comments": 126,
+            "url": "https://alexwang.ai/posts/associative-memory/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Microsoft and CMU team up to train early career software engineers",
-            "insight": "HN 热议：58 分 · 71 评论",
-            "sentiment": "neutral",
-            "comments": 71,
-            "url": "https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise",
+            "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+            "insight": "HN 热议：280 分 · 80 评论",
+            "sentiment": "positive",
+            "comments": 80,
+            "url": "https://llmspeed.dev/",
             "id": 4
         },
         {
             "source": "HackerNews",
             "title": "Tell HN: Remember to migrate away from .name domain",
-            "insight": "HN 热议：131 分 · 86 评论",
+            "insight": "HN 热议：149 分 · 90 评论",
             "sentiment": "neutral",
-            "comments": 86,
+            "comments": 90,
             "url": "https://news.ycombinator.com/item?id=50089577",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-10-18T01:47:32Z",
+    "updated": "2026-10-18T07:28:09Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

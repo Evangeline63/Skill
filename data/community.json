@@ -1,48 +1,48 @@
 {
-  "updated": "2026-10-18T01:47:32Z",
+  "updated": "2026-10-18T07:28:09Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Pele – Mermaid diagrams as themeable SVG",
-      "insight": "HN 热议：238 分 · 26 评论",
-      "sentiment": "positive",
-      "comments": 26,
-      "url": "https://pele.run/",
+      "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+      "insight": "HN 热议：86 分 · 24 评论",
+      "sentiment": "neutral",
+      "comments": 24,
+      "url": "https://sphinx-six-theta.vercel.app/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "You could have invented transformers from memory",
-      "insight": "HN 热议：504 分 · 117 评论",
+      "title": "Pele – Mermaid diagrams as themeable SVG",
+      "insight": "HN 热议：383 分 · 34 评论",
       "sentiment": "positive",
-      "comments": 117,
-      "url": "https://alexwang.ai/posts/associative-memory/",
+      "comments": 34,
+      "url": "https://pele.run/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-      "insight": "HN 热议：252 分 · 77 评论",
+      "title": "You could have invented transformers from memory",
+      "insight": "HN 热议：545 分 · 126 评论",
       "sentiment": "positive",
-      "comments": 77,
-      "url": "https://llmspeed.dev/",
+      "comments": 126,
+      "url": "https://alexwang.ai/posts/associative-memory/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Microsoft and CMU team up to train early career software engineers",
-      "insight": "HN 热议：58 分 · 71 评论",
-      "sentiment": "neutral",
-      "comments": 71,
-      "url": "https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise",
+      "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+      "insight": "HN 热议：280 分 · 80 评论",
+      "sentiment": "positive",
+      "comments": 80,
+      "url": "https://llmspeed.dev/",
       "id": 4
     },
     {
       "source": "HackerNews",
       "title": "Tell HN: Remember to migrate away from .name domain",
-      "insight": "HN 热议：131 分 · 86 评论",
+      "insight": "HN 热议：149 分 · 90 评论",
       "sentiment": "neutral",
-      "comments": 86,
+      "comments": 90,
       "url": "https://news.ycombinator.com/item?id=50089577",
       "id": 5
     }
