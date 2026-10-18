@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-10-18T19:46:14Z",
+    "updated": "2026-10-18T22:38:57Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-10-18T19:46:14Z",
+    "updated": "2026-10-18T22:38:57Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,7 +266,7 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-10-18T19:46:14Z",
+    "updated": "2026-10-18T22:38:57Z",
     "repos": [
         {
             "rank": 1,
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 173359,
-            "stars_today": 173359,
+            "stars": 173388,
+            "stars_today": 173388,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 101592,
-            "stars_today": 101592,
+            "stars": 101613,
+            "stars_today": 101613,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 91204,
-            "stars_today": 91204,
+            "stars": 91211,
+            "stars_today": 91211,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 69494,
-            "stars_today": 69494,
+            "stars": 69554,
+            "stars_today": 69554,
             "url": "https://github.com/usestrix/strix"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "Kong/kong",
             "description": "🦍 The API and AI Gateway",
             "language": "Lua",
-            "stars": 44279,
-            "stars_today": 44279,
+            "stars": 44278,
+            "stars_today": 44278,
             "url": "https://github.com/Kong/kong"
         }
     ]
 },
   "products": {
-    "updated": "2026-10-18T19:46:14Z",
+    "updated": "2026-10-18T22:38:57Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-10-18T19:46:14Z",
+    "updated": "2026-10-18T22:38:57Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-10-18T19:46:14Z",
+    "updated": "2026-10-18T22:38:57Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Namecheap just seized and disabled all my domains",
-            "insight": "HN 热议：140 分 · 80 评论",
+            "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+            "insight": "HN 热议：102 分 · 41 评论",
             "sentiment": "neutral",
-            "comments": 80,
-            "url": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
+            "comments": 41,
+            "url": "https://arxiv.org/abs/2610.18861",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
-            "insight": "HN 热议：223 分 · 76 评论",
-            "sentiment": "positive",
-            "comments": 76,
-            "url": "https://sphinx-six-theta.vercel.app/",
+            "title": "I built a programming language that LLMs can't use",
+            "insight": "HN 热议：43 分 · 34 评论",
+            "sentiment": "neutral",
+            "comments": 34,
+            "url": "https://blog.picheta.me/post/killswitch-lang/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "The Brain Sandwich",
-            "insight": "HN 热议：53 分 · 28 评论",
-            "sentiment": "neutral",
-            "comments": 28,
-            "url": "https://terriblesoftware.org/2026/10/02/the-brain-sandwich/",
+            "title": "Namecheap just seized and disabled all my domains",
+            "insight": "HN 热议：333 分 · 159 评论",
+            "sentiment": "positive",
+            "comments": 159,
+            "url": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "How Far Will AI Assistants Go for a Refund They Can't Get?",
-            "insight": "HN 热议：70 分 · 71 评论",
-            "sentiment": "neutral",
-            "comments": 71,
-            "url": "https://www.vals.ai/blogs/impossible-refund",
+            "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+            "insight": "HN 热议：237 分 · 80 评论",
+            "sentiment": "positive",
+            "comments": 80,
+            "url": "https://sphinx-six-theta.vercel.app/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "A History of Curves and Surfaces in Computer Aided Geometric Design [pdf]",
-            "insight": "HN 热议：29 分 · 5 评论",
+            "title": "The Brain Sandwich",
+            "insight": "HN 热议：68 分 · 40 评论",
             "sentiment": "neutral",
-            "comments": 5,
-            "url": "https://math.pku.edu.cn/teachers/jiangm/courses/CG/Lectures/spline-history.pdf",
+            "comments": 40,
+            "url": "https://terriblesoftware.org/2026/10/02/the-brain-sandwich/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-10-18T19:46:14Z",
+    "updated": "2026-10-18T22:38:57Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

@@ -1,49 +1,49 @@
 {
-  "updated": "2026-10-18T19:46:14Z",
+  "updated": "2026-10-18T22:38:57Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Namecheap just seized and disabled all my domains",
-      "insight": "HN 热议：140 分 · 80 评论",
+      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+      "insight": "HN 热议：102 分 · 41 评论",
       "sentiment": "neutral",
-      "comments": 80,
-      "url": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
+      "comments": 41,
+      "url": "https://arxiv.org/abs/2610.18861",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
-      "insight": "HN 热议：223 分 · 76 评论",
-      "sentiment": "positive",
-      "comments": 76,
-      "url": "https://sphinx-six-theta.vercel.app/",
+      "title": "I built a programming language that LLMs can't use",
+      "insight": "HN 热议：43 分 · 34 评论",
+      "sentiment": "neutral",
+      "comments": 34,
+      "url": "https://blog.picheta.me/post/killswitch-lang/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "The Brain Sandwich",
-      "insight": "HN 热议：53 分 · 28 评论",
-      "sentiment": "neutral",
-      "comments": 28,
-      "url": "https://terriblesoftware.org/2026/10/02/the-brain-sandwich/",
+      "title": "Namecheap just seized and disabled all my domains",
+      "insight": "HN 热议：333 分 · 159 评论",
+      "sentiment": "positive",
+      "comments": 159,
+      "url": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "How Far Will AI Assistants Go for a Refund They Can't Get?",
-      "insight": "HN 热议：70 分 · 71 评论",
-      "sentiment": "neutral",
-      "comments": 71,
-      "url": "https://www.vals.ai/blogs/impossible-refund",
+      "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+      "insight": "HN 热议：237 分 · 80 评论",
+      "sentiment": "positive",
+      "comments": 80,
+      "url": "https://sphinx-six-theta.vercel.app/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "A History of Curves and Surfaces in Computer Aided Geometric Design [pdf]",
-      "insight": "HN 热议：29 分 · 5 评论",
+      "title": "The Brain Sandwich",
+      "insight": "HN 热议：68 分 · 40 评论",
       "sentiment": "neutral",
-      "comments": 5,
-      "url": "https://math.pku.edu.cn/teachers/jiangm/courses/CG/Lectures/spline-history.pdf",
+      "comments": 40,
+      "url": "https://terriblesoftware.org/2026/10/02/the-brain-sandwich/",
       "id": 5
     }
   ]
