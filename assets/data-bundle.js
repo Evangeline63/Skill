@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-10-18T12:49:47Z",
+    "updated": "2026-10-18T17:37:21Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-10-18T12:49:47Z",
+    "updated": "2026-10-18T17:37:21Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-10-18T12:49:47Z",
+    "updated": "2026-10-18T17:37:21Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187636,
-            "stars_today": 187636,
+            "stars": 187640,
+            "stars_today": 187640,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 173313,
-            "stars_today": 173313,
+            "stars": 173335,
+            "stars_today": 173335,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 101529,
-            "stars_today": 101529,
+            "stars": 101576,
+            "stars_today": 101576,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 91183,
-            "stars_today": 91183,
+            "stars": 91196,
+            "stars_today": 91196,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 69361,
-            "stars_today": 69361,
+            "stars": 69458,
+            "stars_today": 69458,
             "url": "https://github.com/usestrix/strix"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "Kong/kong",
             "description": "🦍 The API and AI Gateway",
             "language": "Lua",
-            "stars": 44278,
-            "stars_today": 44278,
+            "stars": 44279,
+            "stars_today": 44279,
             "url": "https://github.com/Kong/kong"
         }
     ]
 },
   "products": {
-    "updated": "2026-10-18T12:49:47Z",
+    "updated": "2026-10-18T17:37:21Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-10-18T12:49:47Z",
+    "updated": "2026-10-18T17:37:21Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-10-18T12:49:47Z",
+    "updated": "2026-10-18T17:37:21Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
-            "insight": "HN 热议：166 分 · 49 评论",
+            "title": "British Airways: Filming Crew W Meta Glasses Could Get Your Tickets Cancelled",
+            "insight": "HN 热议：13 分 · 4 评论",
             "sentiment": "neutral",
-            "comments": 49,
-            "url": "https://sphinx-six-theta.vercel.app/",
+            "comments": 4,
+            "url": "https://liveandletsfly.com/british-airways-meta-smart-glasses-filming/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Pele – Mermaid diagrams as themeable SVG",
-            "insight": "HN 热议：474 分 · 41 评论",
-            "sentiment": "positive",
-            "comments": 41,
-            "url": "https://pele.run/",
+            "title": "How Far Will AI Assistants Go for a Refund They Can't Get?",
+            "insight": "HN 热议：59 分 · 52 评论",
+            "sentiment": "neutral",
+            "comments": 52,
+            "url": "https://www.vals.ai/blogs/impossible-refund",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Lorenz and Little: How Much Does Your Tail Cost?",
-            "insight": "HN 热议：6 分 · 0 评论",
-            "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://brooker.co.za/blog/2026/07/29/lorenz-and-little.html",
+            "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+            "insight": "HN 热议：212 分 · 73 评论",
+            "sentiment": "positive",
+            "comments": 73,
+            "url": "https://sphinx-six-theta.vercel.app/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "You could have invented transformers from memory",
-            "insight": "HN 热议：580 分 · 130 评论",
-            "sentiment": "positive",
-            "comments": 130,
-            "url": "https://alexwang.ai/posts/associative-memory/",
+            "title": "The Brain Sandwich",
+            "insight": "HN 热议：41 分 · 15 评论",
+            "sentiment": "neutral",
+            "comments": 15,
+            "url": "https://terriblesoftware.org/2026/10/02/the-brain-sandwich/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "A History of Curves and Surfaces in Computer Aided Geometric Design [pdf]",
-            "insight": "HN 热议：4 分 · 0 评论",
+            "title": "Websites are closing their doors to AI agents",
+            "insight": "HN 热议：109 分 · 88 评论",
             "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://math.pku.edu.cn/teachers/jiangm/courses/CG/Lectures/spline-history.pdf",
+            "comments": 88,
+            "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-10-18T12:49:47Z",
+    "updated": "2026-10-18T17:37:21Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
