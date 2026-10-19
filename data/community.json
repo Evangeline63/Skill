@@ -1,49 +1,49 @@
 {
-  "updated": "2026-10-19T02:04:32Z",
+  "updated": "2026-10-19T08:09:43Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-      "insight": "HN 热议：219 分 · 136 评论",
+      "insight": "HN 热议：369 分 · 174 评论",
       "sentiment": "positive",
-      "comments": 136,
+      "comments": 174,
       "url": "https://arxiv.org/abs/2610.18861",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "If you don't run your own LLM proxy, how do you know whats going on?",
-      "insight": "HN 热议：37 分 · 21 评论",
+      "insight": "HN 热议：142 分 · 90 评论",
       "sentiment": "neutral",
-      "comments": 21,
+      "comments": 90,
       "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "I built a programming language that LLMs can't use",
-      "insight": "HN 热议：81 分 · 69 评论",
+      "title": "Verisign .com Domain Name Registry Consumer Class Action",
+      "insight": "HN 热议：84 分 · 29 评论",
       "sentiment": "neutral",
-      "comments": 69,
-      "url": "https://blog.picheta.me/post/killswitch-lang/",
+      "comments": 29,
+      "url": "https://www.hbsslaw.com/cases/verisign-com-domain-name-registry-consumer-class-action",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Namecheap just seized and disabled all my domains",
-      "insight": "HN 热议：443 分 · 206 评论",
-      "sentiment": "positive",
-      "comments": 206,
-      "url": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
+      "title": "How to Train Your Robot",
+      "insight": "HN 热议：7 分 · 1 评论",
+      "sentiment": "neutral",
+      "comments": 1,
+      "url": "https://www.construction-physics.com/p/how-to-train-your-robot",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
-      "insight": "HN 热议：241 分 · 85 评论",
-      "sentiment": "positive",
-      "comments": 85,
-      "url": "https://sphinx-six-theta.vercel.app/",
+      "title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
+      "insight": "HN 热议：9 分 · 1 评论",
+      "sentiment": "neutral",
+      "comments": 1,
+      "url": "https://crystl.dev/guides/tmux-for-ai-agents/",
       "id": 5
     }
   ]
