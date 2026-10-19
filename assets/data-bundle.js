@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-10-18T22:38:57Z",
+    "updated": "2026-10-19T02:04:32Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-10-18T22:38:57Z",
+    "updated": "2026-10-19T02:04:32Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-10-18T22:38:57Z",
+    "updated": "2026-10-19T02:04:32Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187642,
-            "stars_today": 187642,
+            "stars": 187644,
+            "stars_today": 187644,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 173388,
-            "stars_today": 173388,
+            "stars": 173420,
+            "stars_today": 173420,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 101613,
-            "stars_today": 101613,
+            "stars": 101642,
+            "stars_today": 101642,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 91211,
-            "stars_today": 91211,
+            "stars": 91220,
+            "stars_today": 91220,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 69554,
-            "stars_today": 69554,
+            "stars": 69594,
+            "stars_today": 69594,
             "url": "https://github.com/usestrix/strix"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "Kong/kong",
             "description": "🦍 The API and AI Gateway",
             "language": "Lua",
-            "stars": 44278,
-            "stars_today": 44278,
+            "stars": 44279,
+            "stars_today": 44279,
             "url": "https://github.com/Kong/kong"
         }
     ]
 },
   "products": {
-    "updated": "2026-10-18T22:38:57Z",
+    "updated": "2026-10-19T02:04:32Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-10-18T22:38:57Z",
+    "updated": "2026-10-19T02:04:32Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-10-18T22:38:57Z",
+    "updated": "2026-10-19T02:04:32Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-            "insight": "HN 热议：102 分 · 41 评论",
-            "sentiment": "neutral",
-            "comments": 41,
+            "insight": "HN 热议：219 分 · 136 评论",
+            "sentiment": "positive",
+            "comments": 136,
             "url": "https://arxiv.org/abs/2610.18861",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "I built a programming language that LLMs can't use",
-            "insight": "HN 热议：43 分 · 34 评论",
+            "title": "If you don't run your own LLM proxy, how do you know whats going on?",
+            "insight": "HN 热议：37 分 · 21 评论",
             "sentiment": "neutral",
-            "comments": 34,
-            "url": "https://blog.picheta.me/post/killswitch-lang/",
+            "comments": 21,
+            "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Namecheap just seized and disabled all my domains",
-            "insight": "HN 热议：333 分 · 159 评论",
-            "sentiment": "positive",
-            "comments": 159,
-            "url": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
+            "title": "I built a programming language that LLMs can't use",
+            "insight": "HN 热议：81 分 · 69 评论",
+            "sentiment": "neutral",
+            "comments": 69,
+            "url": "https://blog.picheta.me/post/killswitch-lang/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
-            "insight": "HN 热议：237 分 · 80 评论",
+            "title": "Namecheap just seized and disabled all my domains",
+            "insight": "HN 热议：443 分 · 206 评论",
             "sentiment": "positive",
-            "comments": 80,
-            "url": "https://sphinx-six-theta.vercel.app/",
+            "comments": 206,
+            "url": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "The Brain Sandwich",
-            "insight": "HN 热议：68 分 · 40 评论",
-            "sentiment": "neutral",
-            "comments": 40,
-            "url": "https://terriblesoftware.org/2026/10/02/the-brain-sandwich/",
+            "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+            "insight": "HN 热议：241 分 · 85 评论",
+            "sentiment": "positive",
+            "comments": 85,
+            "url": "https://sphinx-six-theta.vercel.app/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-10-18T22:38:57Z",
+    "updated": "2026-10-19T02:04:32Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
