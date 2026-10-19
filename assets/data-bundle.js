@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-10-19T08:09:43Z",
+    "updated": "2026-10-19T15:56:23Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-10-19T08:09:43Z",
+    "updated": "2026-10-19T15:56:23Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-10-19T08:09:43Z",
+    "updated": "2026-10-19T15:56:23Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187648,
-            "stars_today": 187648,
+            "stars": 187657,
+            "stars_today": 187657,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 173478,
-            "stars_today": 173478,
+            "stars": 173547,
+            "stars_today": 173547,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 101684,
-            "stars_today": 101684,
+            "stars": 101756,
+            "stars_today": 101756,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 91238,
-            "stars_today": 91238,
+            "stars": 91277,
+            "stars_today": 91277,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 69713,
-            "stars_today": 69713,
+            "stars": 69911,
+            "stars_today": 69911,
             "url": "https://github.com/usestrix/strix"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "Kong/kong",
             "description": "🦍 The API and AI Gateway",
             "language": "Lua",
-            "stars": 44279,
-            "stars_today": 44279,
+            "stars": 44282,
+            "stars_today": 44282,
             "url": "https://github.com/Kong/kong"
         }
     ]
 },
   "products": {
-    "updated": "2026-10-19T08:09:43Z",
+    "updated": "2026-10-19T15:56:23Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-10-19T08:09:43Z",
+    "updated": "2026-10-19T15:56:23Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-10-19T08:09:43Z",
+    "updated": "2026-10-19T15:56:23Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-            "insight": "HN 热议：369 分 · 174 评论",
+            "title": "Timestral: Mistral release time-series foundation models",
+            "insight": "HN 热议：308 分 · 50 评论",
             "sentiment": "positive",
-            "comments": 174,
-            "url": "https://arxiv.org/abs/2610.18861",
+            "comments": 50,
+            "url": "https://mistral.ai/news/timestral/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "If you don't run your own LLM proxy, how do you know whats going on?",
-            "insight": "HN 热议：142 分 · 90 评论",
+            "title": "Let's Encrypt is adding two additional remote perspectives for domain validation",
+            "insight": "HN 热议：142 分 · 41 评论",
             "sentiment": "neutral",
-            "comments": 90,
-            "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+            "comments": 41,
+            "url": "https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Verisign .com Domain Name Registry Consumer Class Action",
-            "insight": "HN 热议：84 分 · 29 评论",
+            "title": "Show HN: Qwen3-4B with the AI writing tics trained out",
+            "insight": "HN 热议：97 分 · 76 评论",
             "sentiment": "neutral",
-            "comments": 29,
-            "url": "https://www.hbsslaw.com/cases/verisign-com-domain-name-registry-consumer-class-action",
+            "comments": 76,
+            "url": "https://100toolkit.com/blog/deslop-model/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "How to Train Your Robot",
-            "insight": "HN 热议：7 分 · 1 评论",
-            "sentiment": "neutral",
-            "comments": 1,
-            "url": "https://www.construction-physics.com/p/how-to-train-your-robot",
+            "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+            "insight": "HN 热议：478 分 · 226 评论",
+            "sentiment": "positive",
+            "comments": 226,
+            "url": "https://arxiv.org/abs/2610.18861",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
-            "insight": "HN 热议：9 分 · 1 评论",
-            "sentiment": "neutral",
-            "comments": 1,
-            "url": "https://crystl.dev/guides/tmux-for-ai-agents/",
+            "title": "If you don't run your own LLM proxy, how do you know whats going on?",
+            "insight": "HN 热议：261 分 · 180 评论",
+            "sentiment": "positive",
+            "comments": 180,
+            "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-10-19T08:09:43Z",
+    "updated": "2026-10-19T15:56:23Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

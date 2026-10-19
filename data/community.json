@@ -1,49 +1,49 @@
 {
-  "updated": "2026-10-19T08:09:43Z",
+  "updated": "2026-10-19T15:56:23Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-      "insight": "HN 热议：369 分 · 174 评论",
+      "title": "Timestral: Mistral release time-series foundation models",
+      "insight": "HN 热议：308 分 · 50 评论",
       "sentiment": "positive",
-      "comments": 174,
-      "url": "https://arxiv.org/abs/2610.18861",
+      "comments": 50,
+      "url": "https://mistral.ai/news/timestral/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "If you don't run your own LLM proxy, how do you know whats going on?",
-      "insight": "HN 热议：142 分 · 90 评论",
+      "title": "Let's Encrypt is adding two additional remote perspectives for domain validation",
+      "insight": "HN 热议：142 分 · 41 评论",
       "sentiment": "neutral",
-      "comments": 90,
-      "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+      "comments": 41,
+      "url": "https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Verisign .com Domain Name Registry Consumer Class Action",
-      "insight": "HN 热议：84 分 · 29 评论",
+      "title": "Show HN: Qwen3-4B with the AI writing tics trained out",
+      "insight": "HN 热议：97 分 · 76 评论",
       "sentiment": "neutral",
-      "comments": 29,
-      "url": "https://www.hbsslaw.com/cases/verisign-com-domain-name-registry-consumer-class-action",
+      "comments": 76,
+      "url": "https://100toolkit.com/blog/deslop-model/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "How to Train Your Robot",
-      "insight": "HN 热议：7 分 · 1 评论",
-      "sentiment": "neutral",
-      "comments": 1,
-      "url": "https://www.construction-physics.com/p/how-to-train-your-robot",
+      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+      "insight": "HN 热议：478 分 · 226 评论",
+      "sentiment": "positive",
+      "comments": 226,
+      "url": "https://arxiv.org/abs/2610.18861",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
-      "insight": "HN 热议：9 分 · 1 评论",
-      "sentiment": "neutral",
-      "comments": 1,
-      "url": "https://crystl.dev/guides/tmux-for-ai-agents/",
+      "title": "If you don't run your own LLM proxy, how do you know whats going on?",
+      "insight": "HN 热议：261 分 · 180 评论",
+      "sentiment": "positive",
+      "comments": 180,
+      "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
       "id": 5
     }
   ]
