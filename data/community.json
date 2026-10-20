@@ -1,49 +1,49 @@
 {
-  "updated": "2026-10-20T13:55:00Z",
+  "updated": "2026-10-20T18:47:26Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "NixOS is making me less afraid",
-      "insight": "HN 热议：27 分 · 6 评论",
-      "sentiment": "neutral",
-      "comments": 6,
-      "url": "https://entropicthoughts.com/nixos-is-making-me-less-afraid",
+      "title": "Publish fake stats, get cited in LLMs",
+      "insight": "HN 热议：250 分 · 135 评论",
+      "sentiment": "positive",
+      "comments": 135,
+      "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Publish fake stats, get cited in LLMs",
-      "insight": "HN 热议：11 分 · 5 评论",
-      "sentiment": "neutral",
-      "comments": 5,
-      "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
+      "title": "Facebook Pages require paid subscription to post more than two links per month",
+      "insight": "HN 热议：338 分 · 283 评论",
+      "sentiment": "positive",
+      "comments": 283,
+      "url": "https://mastodon.gamedev.place/@AshleyGullen/117473851565913919",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-      "insight": "HN 热议：600 分 · 172 评论",
-      "sentiment": "positive",
-      "comments": 172,
-      "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+      "title": "NixOS is making me less afraid",
+      "insight": "HN 热议：127 分 · 82 评论",
+      "sentiment": "neutral",
+      "comments": 82,
+      "url": "https://entropicthoughts.com/nixos-is-making-me-less-afraid",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Ukraine claims first drone evacuation of wounded soldier",
-      "insight": "HN 热议：362 分 · 263 评论",
-      "sentiment": "positive",
-      "comments": 263,
-      "url": "https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310",
+      "title": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
+      "insight": "HN 热议：27 分 · 14 评论",
+      "sentiment": "neutral",
+      "comments": 14,
+      "url": "https://news.ycombinator.com/item?id=50167583",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "RuneScape Bench: MMOs for Agents [video]",
-      "insight": "HN 热议：220 分 · 72 评论",
-      "sentiment": "positive",
-      "comments": 72,
-      "url": "https://www.youtube.com/watch?v=cNm4zyUtWj0",
+      "title": "Show HN: Penmentor – Claude marks up your handwritten math like a teacher",
+      "insight": "HN 热议：38 分 · 2 评论",
+      "sentiment": "neutral",
+      "comments": 2,
+      "url": "https://github.com/AbdullahAlhariri/penmentor",
       "id": 5
     }
   ]
