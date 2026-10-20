@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-10-19T21:47:05Z",
+    "updated": "2026-10-20T02:20:52Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-10-19T21:47:05Z",
+    "updated": "2026-10-20T02:20:52Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-10-19T21:47:05Z",
+    "updated": "2026-10-20T02:20:52Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187660,
-            "stars_today": 187660,
+            "stars": 187661,
+            "stars_today": 187661,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 173577,
-            "stars_today": 173577,
+            "stars": 173591,
+            "stars_today": 173591,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 101797,
-            "stars_today": 101797,
+            "stars": 101816,
+            "stars_today": 101816,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 91302,
-            "stars_today": 91302,
+            "stars": 91310,
+            "stars_today": 91310,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 70040,
-            "stars_today": 70040,
+            "stars": 70118,
+            "stars_today": 70118,
             "url": "https://github.com/usestrix/strix"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "Kong/kong",
             "description": "🦍 The API and AI Gateway",
             "language": "Lua",
-            "stars": 44282,
-            "stars_today": 44282,
+            "stars": 44283,
+            "stars_today": 44283,
             "url": "https://github.com/Kong/kong"
         }
     ]
 },
   "products": {
-    "updated": "2026-10-19T21:47:05Z",
+    "updated": "2026-10-20T02:20:52Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-10-19T21:47:05Z",
+    "updated": "2026-10-20T02:20:52Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-10-19T21:47:05Z",
+    "updated": "2026-10-20T02:20:52Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "RuneScape Bench: MMOs for Agents [video]",
-            "insight": "HN 热议：109 分 · 42 评论",
+            "title": "Lula supporters protest against Meta to denounce its 'electoral interference'",
+            "insight": "HN 热议：115 分 · 35 评论",
             "sentiment": "neutral",
-            "comments": 42,
-            "url": "https://www.youtube.com/watch?v=cNm4zyUtWj0",
+            "comments": 35,
+            "url": "https://efe.com/english/latest-news/2026-10-20/lula-supporters-protest-against-meta-to-denounce-its-electoral-interference/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "The fire retardant in the seafood chain",
-            "insight": "HN 热议：75 分 · 22 评论",
+            "title": "RuneScape Bench: MMOs for Agents [video]",
+            "insight": "HN 热议：159 分 · 64 评论",
             "sentiment": "neutral",
-            "comments": 22,
-            "url": "https://insideclimatenews.org/news/14102026/ethoxyquin-fire-retardant-in-seafood-chain/",
+            "comments": 64,
+            "url": "https://www.youtube.com/watch?v=cNm4zyUtWj0",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Timestral: Mistral's time-series foundation models",
-            "insight": "HN 热议：504 分 · 95 评论",
-            "sentiment": "positive",
-            "comments": 95,
-            "url": "https://mistral.ai/news/timestral/",
+            "title": "Ukraine claims first drone evacuation of wounded soldier",
+            "insight": "HN 热议：131 分 · 107 评论",
+            "sentiment": "neutral",
+            "comments": 107,
+            "url": "https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
-            "insight": "HN 热议：144 分 · 253 评论",
-            "sentiment": "neutral",
-            "comments": 253,
-            "url": "https://news.ycombinator.com/item?id=50151036",
+            "title": "Timestral: Mistral's time-series foundation models",
+            "insight": "HN 热议：556 分 · 104 评论",
+            "sentiment": "positive",
+            "comments": 104,
+            "url": "https://mistral.ai/news/timestral/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Coconuts in Medieval Britain (2015)",
-            "insight": "HN 热议：23 分 · 4 评论",
+            "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+            "insight": "HN 热议：29 分 · 4 评论",
             "sentiment": "neutral",
             "comments": 4,
-            "url": "https://www.themarysue.com/monty-python-holy-grail-coconuts/",
+            "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-10-19T21:47:05Z",
+    "updated": "2026-10-20T02:20:52Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
