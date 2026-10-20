@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-10-20T18:47:26Z",
+    "updated": "2026-10-20T23:30:26Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-10-20T18:47:26Z",
+    "updated": "2026-10-20T23:30:26Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-10-20T18:47:26Z",
+    "updated": "2026-10-20T23:30:26Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187674,
-            "stars_today": 187674,
+            "stars": 187677,
+            "stars_today": 187677,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 173672,
-            "stars_today": 173672,
+            "stars": 173698,
+            "stars_today": 173698,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 101934,
-            "stars_today": 101934,
+            "stars": 101957,
+            "stars_today": 101957,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 91398,
-            "stars_today": 91398,
+            "stars": 91413,
+            "stars_today": 91413,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 70364,
-            "stars_today": 70364,
+            "stars": 70425,
+            "stars_today": 70425,
             "url": "https://github.com/usestrix/strix"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "Kong/kong",
             "description": "🦍 The API and AI Gateway",
             "language": "Lua",
-            "stars": 44287,
-            "stars_today": 44287,
+            "stars": 44288,
+            "stars_today": 44288,
             "url": "https://github.com/Kong/kong"
         }
     ]
 },
   "products": {
-    "updated": "2026-10-20T18:47:26Z",
+    "updated": "2026-10-20T23:30:26Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-10-20T18:47:26Z",
+    "updated": "2026-10-20T23:30:26Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-10-20T18:47:26Z",
+    "updated": "2026-10-20T23:30:26Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Publish fake stats, get cited in LLMs",
-            "insight": "HN 热议：250 分 · 135 评论",
-            "sentiment": "positive",
-            "comments": 135,
-            "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
+            "title": "Claude designed protein binders against scorpion neurotoxins",
+            "insight": "HN 热议：86 分 · 52 评论",
+            "sentiment": "neutral",
+            "comments": 52,
+            "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Facebook Pages require paid subscription to post more than two links per month",
-            "insight": "HN 热议：338 分 · 283 评论",
-            "sentiment": "positive",
-            "comments": 283,
-            "url": "https://mastodon.gamedev.place/@AshleyGullen/117473851565913919",
+            "title": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
+            "insight": "HN 热议：39 分 · 16 评论",
+            "sentiment": "neutral",
+            "comments": 16,
+            "url": "https://news.ycombinator.com/item?id=50167583",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "NixOS is making me less afraid",
-            "insight": "HN 热议：127 分 · 82 评论",
-            "sentiment": "neutral",
-            "comments": 82,
-            "url": "https://entropicthoughts.com/nixos-is-making-me-less-afraid",
+            "title": "Facebook Pages require paid subscription to post more than two links per month",
+            "insight": "HN 热议：400 分 · 361 评论",
+            "sentiment": "positive",
+            "comments": 361,
+            "url": "https://mastodon.gamedev.place/@AshleyGullen/117473851565913919",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
-            "insight": "HN 热议：27 分 · 14 评论",
-            "sentiment": "neutral",
-            "comments": 14,
-            "url": "https://news.ycombinator.com/item?id=50167583",
+            "title": "Publish fake stats, get cited in LLMs",
+            "insight": "HN 热议：313 分 · 179 评论",
+            "sentiment": "positive",
+            "comments": 179,
+            "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Penmentor – Claude marks up your handwritten math like a teacher",
-            "insight": "HN 热议：38 分 · 2 评论",
+            "title": "NixOS is making me less afraid",
+            "insight": "HN 热议：160 分 · 105 评论",
             "sentiment": "neutral",
-            "comments": 2,
-            "url": "https://github.com/AbdullahAlhariri/penmentor",
+            "comments": 105,
+            "url": "https://entropicthoughts.com/nixos-is-making-me-less-afraid",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-10-20T18:47:26Z",
+    "updated": "2026-10-20T23:30:26Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
