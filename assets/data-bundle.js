@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-10-21T14:11:17Z",
+    "updated": "2026-10-21T19:00:09Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-10-21T14:11:17Z",
+    "updated": "2026-10-21T19:00:09Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-10-21T14:11:17Z",
+    "updated": "2026-10-21T19:00:09Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187693,
-            "stars_today": 187693,
+            "stars": 187697,
+            "stars_today": 187697,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 173792,
-            "stars_today": 173792,
+            "stars": 173817,
+            "stars_today": 173817,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 102075,
-            "stars_today": 102075,
+            "stars": 102117,
+            "stars_today": 102117,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 91470,
-            "stars_today": 91470,
+            "stars": 91483,
+            "stars_today": 91483,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 70662,
-            "stars_today": 70662,
+            "stars": 70747,
+            "stars_today": 70747,
             "url": "https://github.com/usestrix/strix"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "Kong/kong",
             "description": "🦍 The API and AI Gateway",
             "language": "Lua",
-            "stars": 44290,
-            "stars_today": 44290,
+            "stars": 44289,
+            "stars_today": 44289,
             "url": "https://github.com/Kong/kong"
         }
     ]
 },
   "products": {
-    "updated": "2026-10-21T14:11:17Z",
+    "updated": "2026-10-21T19:00:09Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-10-21T14:11:17Z",
+    "updated": "2026-10-21T19:00:09Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-10-21T14:11:17Z",
+    "updated": "2026-10-21T19:00:09Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "PHP2Shell: AI uncovers critical RCE in PHP",
-            "insight": "HN 热议：31 分 · 5 评论",
-            "sentiment": "neutral",
-            "comments": 5,
-            "url": "https://www.wiz.io/blog/php2shell-php-rce",
+            "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+            "insight": "HN 热议：256 分 · 98 评论",
+            "sentiment": "positive",
+            "comments": 98,
+            "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "OpenAI: Patch the Planet. Global response coordination as AI uncovers PHP vulns",
-            "insight": "HN 热议：10 分 · 0 评论",
+            "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
+            "insight": "HN 热议：176 分 · 106 评论",
             "sentiment": "neutral",
-            "comments": 0,
+            "comments": 106,
             "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "LayerFS: The filesystem for AI coding agents",
-            "insight": "HN 热议：30 分 · 12 评论",
+            "title": "OpenAI models are coming to Google Cloud",
+            "insight": "HN 热议：131 分 · 45 评论",
             "sentiment": "neutral",
-            "comments": 12,
-            "url": "https://layerfs.ai/",
+            "comments": 45,
+            "url": "https://openai.com/index/openai-models-google-cloud/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Good type against all odds",
-            "insight": "HN 热议：163 分 · 15 评论",
+            "title": "Using thousands of AI agents to uncover new leads in biological data",
+            "insight": "HN 热议：95 分 · 43 评论",
             "sentiment": "neutral",
-            "comments": 15,
-            "url": "https://unsung.aresluna.org/good-type-against-all-odds/",
+            "comments": 43,
+            "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Using Claude to reduce the attack surface of code",
-            "insight": "HN 热议：95 分 · 57 评论",
+            "title": "The bridge to agent-scale Git infrastructure",
+            "insight": "HN 热议：24 分 · 3 评论",
             "sentiment": "neutral",
-            "comments": 57,
-            "url": "https://www.anthropic.com/research/attack-surface-reduction",
+            "comments": 3,
+            "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-10-21T14:11:17Z",
+    "updated": "2026-10-21T19:00:09Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
