@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-10-21T02:14:33Z",
+    "updated": "2026-10-21T08:02:47Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-10-21T02:14:33Z",
+    "updated": "2026-10-21T08:02:47Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-10-21T02:14:33Z",
+    "updated": "2026-10-21T08:02:47Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187678,
-            "stars_today": 187678,
+            "stars": 187687,
+            "stars_today": 187687,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 173711,
-            "stars_today": 173711,
+            "stars": 173759,
+            "stars_today": 173759,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 101974,
-            "stars_today": 101974,
+            "stars": 102022,
+            "stars_today": 102022,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 91417,
-            "stars_today": 91417,
+            "stars": 91435,
+            "stars_today": 91435,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 70471,
-            "stars_today": 70471,
+            "stars": 70562,
+            "stars_today": 70562,
             "url": "https://github.com/usestrix/strix"
         },
         {
@@ -325,7 +325,7 @@ window.__DATA__ = {
     ]
 },
   "products": {
-    "updated": "2026-10-21T02:14:33Z",
+    "updated": "2026-10-21T08:02:47Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-10-21T02:14:33Z",
+    "updated": "2026-10-21T08:02:47Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-10-21T02:14:33Z",
+    "updated": "2026-10-21T08:02:47Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Good type against all odds",
-            "insight": "HN 热议：12 分 · 4 评论",
+            "insight": "HN 热议：102 分 · 10 评论",
             "sentiment": "neutral",
-            "comments": 4,
+            "comments": 10,
             "url": "https://unsung.aresluna.org/good-type-against-all-odds/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Benchmarking Bot Detection Systems Against Modern AI Agents in 2026",
-            "insight": "HN 热议：29 分 · 0 评论",
+            "title": "Using Claude to reduce the attack surface of code",
+            "insight": "HN 热议：24 分 · 5 评论",
             "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://research.poh.org/bot-benchmarking-2026/",
+            "comments": 5,
+            "url": "https://www.anthropic.com/research/attack-surface-reduction",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
-            "insight": "HN 热议：45 分 · 18 评论",
+            "title": "Nexus-CLI – Pure Go Bridge to DeepSeek R1/V3 with Claude Code and Ollama Support",
+            "insight": "HN 热议：11 分 · 2 评论",
             "sentiment": "neutral",
-            "comments": 18,
-            "url": "https://news.ycombinator.com/item?id=50167583",
+            "comments": 2,
+            "url": "https://github.com/xamrayev/nexus-cli",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Facebook Pages require paid subscription to post more than two links per month",
-            "insight": "HN 热议：420 分 · 379 评论",
-            "sentiment": "positive",
-            "comments": 379,
-            "url": "https://mastodon.gamedev.place/@AshleyGullen/117473851565913919",
+            "title": "Benchmarking Bot Detection Systems Against Modern AI Agents in 2026",
+            "insight": "HN 热议：44 分 · 7 评论",
+            "sentiment": "neutral",
+            "comments": 7,
+            "url": "https://research.poh.org/bot-benchmarking-2026/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Claude designed protein binders against scorpion neurotoxins",
-            "insight": "HN 热议：95 分 · 63 评论",
+            "title": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
+            "insight": "HN 热议：49 分 · 20 评论",
             "sentiment": "neutral",
-            "comments": 63,
-            "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+            "comments": 20,
+            "url": "https://news.ycombinator.com/item?id=50167583",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-10-21T02:14:33Z",
+    "updated": "2026-10-21T08:02:47Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

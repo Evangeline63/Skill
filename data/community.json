@@ -1,49 +1,49 @@
 {
-  "updated": "2026-10-21T02:14:33Z",
+  "updated": "2026-10-21T08:02:47Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Good type against all odds",
-      "insight": "HN 热议：12 分 · 4 评论",
+      "insight": "HN 热议：102 分 · 10 评论",
       "sentiment": "neutral",
-      "comments": 4,
+      "comments": 10,
       "url": "https://unsung.aresluna.org/good-type-against-all-odds/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Benchmarking Bot Detection Systems Against Modern AI Agents in 2026",
-      "insight": "HN 热议：29 分 · 0 评论",
+      "title": "Using Claude to reduce the attack surface of code",
+      "insight": "HN 热议：24 分 · 5 评论",
       "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://research.poh.org/bot-benchmarking-2026/",
+      "comments": 5,
+      "url": "https://www.anthropic.com/research/attack-surface-reduction",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
-      "insight": "HN 热议：45 分 · 18 评论",
+      "title": "Nexus-CLI – Pure Go Bridge to DeepSeek R1/V3 with Claude Code and Ollama Support",
+      "insight": "HN 热议：11 分 · 2 评论",
       "sentiment": "neutral",
-      "comments": 18,
-      "url": "https://news.ycombinator.com/item?id=50167583",
+      "comments": 2,
+      "url": "https://github.com/xamrayev/nexus-cli",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Facebook Pages require paid subscription to post more than two links per month",
-      "insight": "HN 热议：420 分 · 379 评论",
-      "sentiment": "positive",
-      "comments": 379,
-      "url": "https://mastodon.gamedev.place/@AshleyGullen/117473851565913919",
+      "title": "Benchmarking Bot Detection Systems Against Modern AI Agents in 2026",
+      "insight": "HN 热议：44 分 · 7 评论",
+      "sentiment": "neutral",
+      "comments": 7,
+      "url": "https://research.poh.org/bot-benchmarking-2026/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Claude designed protein binders against scorpion neurotoxins",
-      "insight": "HN 热议：95 分 · 63 评论",
+      "title": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
+      "insight": "HN 热议：49 分 · 20 评论",
       "sentiment": "neutral",
-      "comments": 63,
-      "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+      "comments": 20,
+      "url": "https://news.ycombinator.com/item?id=50167583",
       "id": 5
     }
   ]
