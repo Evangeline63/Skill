@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-10-21T19:00:09Z",
+    "updated": "2026-10-21T23:45:39Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-10-21T19:00:09Z",
+    "updated": "2026-10-21T23:45:39Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-10-21T19:00:09Z",
+    "updated": "2026-10-21T23:45:39Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187697,
-            "stars_today": 187697,
+            "stars": 187699,
+            "stars_today": 187699,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 173817,
-            "stars_today": 173817,
+            "stars": 173828,
+            "stars_today": 173828,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 102117,
-            "stars_today": 102117,
+            "stars": 102151,
+            "stars_today": 102151,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 91483,
-            "stars_today": 91483,
+            "stars": 91498,
+            "stars_today": 91498,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,23 +309,23 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 70747,
-            "stars_today": 70747,
+            "stars": 70799,
+            "stars_today": 70799,
             "url": "https://github.com/usestrix/strix"
         },
         {
             "rank": 6,
-            "name": "Kong/kong",
-            "description": "🦍 The API and AI Gateway",
-            "language": "Lua",
-            "stars": 44289,
-            "stars_today": 44289,
-            "url": "https://github.com/Kong/kong"
+            "name": "microsoft/AI-For-Beginners",
+            "description": "12 Weeks, 24 Lessons, AI for All!",
+            "language": "Jupyter Notebook",
+            "stars": 70093,
+            "stars_today": 70093,
+            "url": "https://github.com/microsoft/AI-For-Beginners"
         }
     ]
 },
   "products": {
-    "updated": "2026-10-21T19:00:09Z",
+    "updated": "2026-10-21T23:45:39Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-10-21T19:00:09Z",
+    "updated": "2026-10-21T23:45:39Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-10-21T19:00:09Z",
+    "updated": "2026-10-21T23:45:39Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
-            "insight": "HN 热议：256 分 · 98 评论",
+            "title": "Railway Security Disclosure",
+            "insight": "HN 热议：215 分 · 91 评论",
             "sentiment": "positive",
-            "comments": 98,
-            "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+            "comments": 91,
+            "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
-            "insight": "HN 热议：176 分 · 106 评论",
-            "sentiment": "neutral",
-            "comments": 106,
-            "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+            "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+            "insight": "HN 热议：409 分 · 127 评论",
+            "sentiment": "positive",
+            "comments": 127,
+            "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "OpenAI models are coming to Google Cloud",
-            "insight": "HN 热议：131 分 · 45 评论",
-            "sentiment": "neutral",
-            "comments": 45,
-            "url": "https://openai.com/index/openai-models-google-cloud/",
+            "title": "Claude Duet",
+            "insight": "HN 热议：284 分 · 240 评论",
+            "sentiment": "positive",
+            "comments": 240,
+            "url": "https://claude.com/product/claude-duet",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Using thousands of AI agents to uncover new leads in biological data",
-            "insight": "HN 热议：95 分 · 43 评论",
-            "sentiment": "neutral",
-            "comments": 43,
-            "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
+            "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
+            "insight": "HN 热议：223 分 · 146 评论",
+            "sentiment": "positive",
+            "comments": 146,
+            "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "The bridge to agent-scale Git infrastructure",
-            "insight": "HN 热议：24 分 · 3 评论",
-            "sentiment": "neutral",
-            "comments": 3,
-            "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
+            "title": "OpenAI models are coming to Google Cloud",
+            "insight": "HN 热议：215 分 · 94 评论",
+            "sentiment": "positive",
+            "comments": 94,
+            "url": "https://openai.com/index/openai-models-google-cloud/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-10-21T19:00:09Z",
+    "updated": "2026-10-21T23:45:39Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
