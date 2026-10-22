@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-10-22T02:08:51Z",
+    "updated": "2026-10-22T08:01:22Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-10-22T02:08:51Z",
+    "updated": "2026-10-22T08:01:22Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-10-22T02:08:51Z",
+    "updated": "2026-10-22T08:01:22Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187704,
-            "stars_today": 187704,
+            "stars": 187699,
+            "stars_today": 187699,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 173832,
-            "stars_today": 173832,
+            "stars": 173860,
+            "stars_today": 173860,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 102164,
-            "stars_today": 102164,
+            "stars": 102207,
+            "stars_today": 102207,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 91502,
-            "stars_today": 91502,
+            "stars": 91530,
+            "stars_today": 91530,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 70830,
-            "stars_today": 70830,
+            "stars": 70923,
+            "stars_today": 70923,
             "url": "https://github.com/usestrix/strix"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "microsoft/AI-For-Beginners",
             "description": "12 Weeks, 24 Lessons, AI for All!",
             "language": "Jupyter Notebook",
-            "stars": 70095,
-            "stars_today": 70095,
+            "stars": 70099,
+            "stars_today": 70099,
             "url": "https://github.com/microsoft/AI-For-Beginners"
         }
     ]
 },
   "products": {
-    "updated": "2026-10-22T02:08:51Z",
+    "updated": "2026-10-22T08:01:22Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-10-22T02:08:51Z",
+    "updated": "2026-10-22T08:01:22Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-10-22T02:08:51Z",
+    "updated": "2026-10-22T08:01:22Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Railway Security Disclosure",
-            "insight": "HN 热议：319 分 · 156 评论",
-            "sentiment": "positive",
-            "comments": 156,
-            "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+            "title": "OpenAI CLI",
+            "insight": "HN 热议：74 分 · 41 评论",
+            "sentiment": "neutral",
+            "comments": 41,
+            "url": "https://github.com/openai/openai-cli",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
-            "insight": "HN 热议：440 分 · 146 评论",
-            "sentiment": "positive",
-            "comments": 146,
-            "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+            "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+            "insight": "HN 热议：118 分 · 44 评论",
+            "sentiment": "neutral",
+            "comments": 44,
+            "url": "https://simedw.com/2026/10/21/world-model-terminal/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Chain of Thought for Humans",
-            "insight": "HN 热议：29 分 · 11 评论",
-            "sentiment": "neutral",
-            "comments": 11,
-            "url": "https://www.boristhebrave.com/2026/10/18/chain-of-thought-for-humans/",
+            "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+            "insight": "HN 热议：494 分 · 167 评论",
+            "sentiment": "positive",
+            "comments": 167,
+            "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "OpenAI models are coming to Google Cloud",
-            "insight": "HN 热议：242 分 · 104 评论",
-            "sentiment": "positive",
-            "comments": 104,
-            "url": "https://openai.com/index/openai-models-google-cloud/",
+            "title": "Using LLM for confidence scoring is a bad idea",
+            "insight": "HN 热议：69 分 · 43 评论",
+            "sentiment": "neutral",
+            "comments": 43,
+            "url": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Airbnb bans making guests do dishes and take out the trash",
-            "insight": "HN 热议：110 分 · 83 评论",
-            "sentiment": "neutral",
-            "comments": 83,
-            "url": "https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update",
+            "title": "OpenAI models are coming to Google Cloud",
+            "insight": "HN 热议：284 分 · 117 评论",
+            "sentiment": "positive",
+            "comments": 117,
+            "url": "https://openai.com/index/openai-models-google-cloud/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-10-22T02:08:51Z",
+    "updated": "2026-10-22T08:01:22Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
