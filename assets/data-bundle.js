@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-10-22T14:09:02Z",
+    "updated": "2026-10-22T18:54:30Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-10-22T14:09:02Z",
+    "updated": "2026-10-22T18:54:30Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-10-22T14:09:02Z",
+    "updated": "2026-10-22T18:54:30Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187705,
-            "stars_today": 187705,
+            "stars": 187712,
+            "stars_today": 187712,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 173934,
-            "stars_today": 173934,
+            "stars": 173975,
+            "stars_today": 173975,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,41 +291,41 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 102260,
-            "stars_today": 102260,
+            "stars": 102303,
+            "stars_today": 102303,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
             "rank": 4,
-            "name": "OpenHands/OpenHands",
-            "description": "🙌 OpenHands: AI-Driven Development",
-            "language": "TypeScript",
-            "stars": 91561,
-            "stars_today": 91561,
-            "url": "https://github.com/OpenHands/OpenHands"
+            "name": "hacksider/Deep-Live-Cam",
+            "description": "real time face swap and one-click video deepfake with only a single image",
+            "language": "Python",
+            "stars": 97174,
+            "stars_today": 97174,
+            "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
             "rank": 5,
-            "name": "usestrix/strix",
-            "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-            "language": "Python",
-            "stars": 71027,
-            "stars_today": 71027,
-            "url": "https://github.com/usestrix/strix"
+            "name": "OpenHands/OpenHands",
+            "description": "🙌 OpenHands: AI-Driven Development",
+            "language": "TypeScript",
+            "stars": 91582,
+            "stars_today": 91582,
+            "url": "https://github.com/OpenHands/OpenHands"
         },
         {
             "rank": 6,
-            "name": "microsoft/AI-For-Beginners",
-            "description": "12 Weeks, 24 Lessons, AI for All!",
-            "language": "Jupyter Notebook",
-            "stars": 70109,
-            "stars_today": 70109,
-            "url": "https://github.com/microsoft/AI-For-Beginners"
+            "name": "usestrix/strix",
+            "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+            "language": "Python",
+            "stars": 71102,
+            "stars_today": 71102,
+            "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-10-22T14:09:02Z",
+    "updated": "2026-10-22T18:54:30Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-10-22T14:09:02Z",
+    "updated": "2026-10-22T18:54:30Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-10-22T14:09:02Z",
+    "updated": "2026-10-22T18:54:30Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Jailbreaking the Switch 2",
-            "insight": "HN 热议：309 分 · 109 评论",
+            "insight": "HN 热议：567 分 · 204 评论",
             "sentiment": "positive",
-            "comments": 109,
+            "comments": 204,
             "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
-            "insight": "HN 热议：354 分 · 114 评论",
-            "sentiment": "positive",
-            "comments": 114,
-            "url": "https://simedw.com/2026/10/21/world-model-terminal/",
+            "title": "Award-Winning AI Literature",
+            "insight": "HN 热议：6 分 · 0 评论",
+            "sentiment": "neutral",
+            "comments": 0,
+            "url": "https://jamesyu.org/award-winning-ai-literature/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "The painter behind Manhattan’s Gilded Age interiors",
-            "insight": "HN 热议：14 分 · 0 评论",
+            "title": "Show HN: UI micro interactions prompts for AI",
+            "insight": "HN 热议：4 分 · 0 评论",
             "sentiment": "neutral",
             "comments": 0,
-            "url": "https://engelsbergideas.com/notebook/the-unknown-painter-behind-manhattans-gilded-age-interiors/",
+            "url": "https://www.typeui.sh/micro-interactions",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Several Linux kernel vulnerabilities accidentally posted to public mailing list",
-            "insight": "HN 热议：132 分 · 29 评论",
+            "title": "Show HN: agent-usage-guard – a Claude Code mod to protect your usage window",
+            "insight": "HN 热议：8 分 · 5 评论",
             "sentiment": "neutral",
-            "comments": 29,
-            "url": "https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities",
+            "comments": 5,
+            "url": "https://github.com/rbartoli/agent-usage-guard",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Claude Duet",
-            "insight": "HN 热议：468 分 · 434 评论",
-            "sentiment": "positive",
-            "comments": 434,
-            "url": "https://claude.com/product/claude-duet",
+            "title": "AI analysis of CT scans finds 42.9% of patients have coronary inflammation",
+            "insight": "HN 热议：18 分 · 9 评论",
+            "sentiment": "neutral",
+            "comments": 9,
+            "url": "https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-10-22T14:09:02Z",
+    "updated": "2026-10-22T18:54:30Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

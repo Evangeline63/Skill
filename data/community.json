@@ -1,49 +1,49 @@
 {
-  "updated": "2026-10-22T14:09:02Z",
+  "updated": "2026-10-22T18:54:30Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Jailbreaking the Switch 2",
-      "insight": "HN 热议：309 分 · 109 评论",
+      "insight": "HN 热议：567 分 · 204 评论",
       "sentiment": "positive",
-      "comments": 109,
+      "comments": 204,
       "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
-      "insight": "HN 热议：354 分 · 114 评论",
-      "sentiment": "positive",
-      "comments": 114,
-      "url": "https://simedw.com/2026/10/21/world-model-terminal/",
+      "title": "Award-Winning AI Literature",
+      "insight": "HN 热议：6 分 · 0 评论",
+      "sentiment": "neutral",
+      "comments": 0,
+      "url": "https://jamesyu.org/award-winning-ai-literature/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "The painter behind Manhattan’s Gilded Age interiors",
-      "insight": "HN 热议：14 分 · 0 评论",
+      "title": "Show HN: UI micro interactions prompts for AI",
+      "insight": "HN 热议：4 分 · 0 评论",
       "sentiment": "neutral",
       "comments": 0,
-      "url": "https://engelsbergideas.com/notebook/the-unknown-painter-behind-manhattans-gilded-age-interiors/",
+      "url": "https://www.typeui.sh/micro-interactions",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Several Linux kernel vulnerabilities accidentally posted to public mailing list",
-      "insight": "HN 热议：132 分 · 29 评论",
+      "title": "Show HN: agent-usage-guard – a Claude Code mod to protect your usage window",
+      "insight": "HN 热议：8 分 · 5 评论",
       "sentiment": "neutral",
-      "comments": 29,
-      "url": "https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities",
+      "comments": 5,
+      "url": "https://github.com/rbartoli/agent-usage-guard",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Claude Duet",
-      "insight": "HN 热议：468 分 · 434 评论",
-      "sentiment": "positive",
-      "comments": 434,
-      "url": "https://claude.com/product/claude-duet",
+      "title": "AI analysis of CT scans finds 42.9% of patients have coronary inflammation",
+      "insight": "HN 热议：18 分 · 9 评论",
+      "sentiment": "neutral",
+      "comments": 9,
+      "url": "https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients",
       "id": 5
     }
   ]
