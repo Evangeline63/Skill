@@ -1,49 +1,49 @@
 {
-  "updated": "2026-10-22T18:54:30Z",
+  "updated": "2026-10-22T23:43:35Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Jailbreaking the Switch 2",
-      "insight": "HN 热议：567 分 · 204 评论",
+      "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+      "insight": "HN 热议：265 分 · 136 评论",
       "sentiment": "positive",
-      "comments": 204,
-      "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
+      "comments": 136,
+      "url": "https://github.com/NVIDIA/OpenShell",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Award-Winning AI Literature",
-      "insight": "HN 热议：6 分 · 0 评论",
+      "title": "Every AI model has the same \"controversial\" take on humans",
+      "insight": "HN 热议：191 分 · 221 评论",
       "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://jamesyu.org/award-winning-ai-literature/",
+      "comments": 221,
+      "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: UI micro interactions prompts for AI",
-      "insight": "HN 热议：4 分 · 0 评论",
-      "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://www.typeui.sh/micro-interactions",
+      "title": "Jailbreaking the Switch 2",
+      "insight": "HN 热议：686 分 · 241 评论",
+      "sentiment": "positive",
+      "comments": 241,
+      "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: agent-usage-guard – a Claude Code mod to protect your usage window",
-      "insight": "HN 热议：8 分 · 5 评论",
+      "title": "AI and the Enclosure of the Scientific Commons",
+      "insight": "HN 热议：97 分 · 56 评论",
       "sentiment": "neutral",
-      "comments": 5,
-      "url": "https://github.com/rbartoli/agent-usage-guard",
+      "comments": 56,
+      "url": "https://arxiv.org/abs/2610.27251",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "AI analysis of CT scans finds 42.9% of patients have coronary inflammation",
-      "insight": "HN 热议：18 分 · 9 评论",
+      "title": "Railpass",
+      "insight": "HN 热议：29 分 · 7 评论",
       "sentiment": "neutral",
-      "comments": 9,
-      "url": "https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients",
+      "comments": 7,
+      "url": "https://train.samismith.com/",
       "id": 5
     }
   ]
