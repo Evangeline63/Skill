@@ -1,49 +1,49 @@
 {
-  "updated": "2026-10-22T08:01:22Z",
+  "updated": "2026-10-22T14:09:02Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "OpenAI CLI",
-      "insight": "HN 热议：74 分 · 41 评论",
-      "sentiment": "neutral",
-      "comments": 41,
-      "url": "https://github.com/openai/openai-cli",
+      "title": "Jailbreaking the Switch 2",
+      "insight": "HN 热议：309 分 · 109 评论",
+      "sentiment": "positive",
+      "comments": 109,
+      "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
-      "insight": "HN 热议：118 分 · 44 评论",
-      "sentiment": "neutral",
-      "comments": 44,
+      "insight": "HN 热议：354 分 · 114 评论",
+      "sentiment": "positive",
+      "comments": 114,
       "url": "https://simedw.com/2026/10/21/world-model-terminal/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
-      "insight": "HN 热议：494 分 · 167 评论",
-      "sentiment": "positive",
-      "comments": 167,
-      "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+      "title": "The painter behind Manhattan’s Gilded Age interiors",
+      "insight": "HN 热议：14 分 · 0 评论",
+      "sentiment": "neutral",
+      "comments": 0,
+      "url": "https://engelsbergideas.com/notebook/the-unknown-painter-behind-manhattans-gilded-age-interiors/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Using LLM for confidence scoring is a bad idea",
-      "insight": "HN 热议：69 分 · 43 评论",
+      "title": "Several Linux kernel vulnerabilities accidentally posted to public mailing list",
+      "insight": "HN 热议：132 分 · 29 评论",
       "sentiment": "neutral",
-      "comments": 43,
-      "url": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
+      "comments": 29,
+      "url": "https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "OpenAI models are coming to Google Cloud",
-      "insight": "HN 热议：284 分 · 117 评论",
+      "title": "Claude Duet",
+      "insight": "HN 热议：468 分 · 434 评论",
       "sentiment": "positive",
-      "comments": 117,
-      "url": "https://openai.com/index/openai-models-google-cloud/",
+      "comments": 434,
+      "url": "https://claude.com/product/claude-duet",
       "id": 5
     }
   ]
