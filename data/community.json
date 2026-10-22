@@ -1,49 +1,49 @@
 {
-  "updated": "2026-10-21T23:45:39Z",
+  "updated": "2026-10-22T02:08:51Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Railway Security Disclosure",
-      "insight": "HN 热议：215 分 · 91 评论",
+      "insight": "HN 热议：319 分 · 156 评论",
       "sentiment": "positive",
-      "comments": 91,
+      "comments": 156,
       "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
-      "insight": "HN 热议：409 分 · 127 评论",
+      "insight": "HN 热议：440 分 · 146 评论",
       "sentiment": "positive",
-      "comments": 127,
+      "comments": 146,
       "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Claude Duet",
-      "insight": "HN 热议：284 分 · 240 评论",
-      "sentiment": "positive",
-      "comments": 240,
-      "url": "https://claude.com/product/claude-duet",
+      "title": "Chain of Thought for Humans",
+      "insight": "HN 热议：29 分 · 11 评论",
+      "sentiment": "neutral",
+      "comments": 11,
+      "url": "https://www.boristhebrave.com/2026/10/18/chain-of-thought-for-humans/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
-      "insight": "HN 热议：223 分 · 146 评论",
+      "title": "OpenAI models are coming to Google Cloud",
+      "insight": "HN 热议：242 分 · 104 评论",
       "sentiment": "positive",
-      "comments": 146,
-      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+      "comments": 104,
+      "url": "https://openai.com/index/openai-models-google-cloud/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "OpenAI models are coming to Google Cloud",
-      "insight": "HN 热议：215 分 · 94 评论",
-      "sentiment": "positive",
-      "comments": 94,
-      "url": "https://openai.com/index/openai-models-google-cloud/",
+      "title": "Airbnb bans making guests do dishes and take out the trash",
+      "insight": "HN 热议：110 分 · 83 评论",
+      "sentiment": "neutral",
+      "comments": 83,
+      "url": "https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update",
       "id": 5
     }
   ]
