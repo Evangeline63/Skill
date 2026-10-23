@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-10-23T02:14:11Z",
+    "updated": "2026-10-23T08:00:42Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-10-23T02:14:11Z",
+    "updated": "2026-10-23T08:00:42Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-10-23T02:14:11Z",
+    "updated": "2026-10-23T08:00:42Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187717,
-            "stars_today": 187717,
+            "stars": 187712,
+            "stars_today": 187712,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 174020,
-            "stars_today": 174020,
+            "stars": 174103,
+            "stars_today": 174103,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 102341,
-            "stars_today": 102341,
+            "stars": 102389,
+            "stars_today": 102389,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 97171,
-            "stars_today": 97171,
+            "stars": 97175,
+            "stars_today": 97175,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 91596,
-            "stars_today": 91596,
+            "stars": 91610,
+            "stars_today": 91610,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 71195,
-            "stars_today": 71195,
+            "stars": 71251,
+            "stars_today": 71251,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-10-23T02:14:11Z",
+    "updated": "2026-10-23T08:00:42Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-10-23T02:14:11Z",
+    "updated": "2026-10-23T08:00:42Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-10-23T02:14:11Z",
+    "updated": "2026-10-23T08:00:42Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "LLMs are making formal software verification feasible at a much larger scale",
-            "insight": "HN 热议：126 分 · 64 评论",
+            "title": "The same AI request emits 8.5 times more CO2 in Texas than in Sweden",
+            "insight": "HN 热议：74 分 · 45 评论",
             "sentiment": "neutral",
-            "comments": 64,
-            "url": "https://www.anthropic.com/research/formal-verification",
+            "comments": 45,
+            "url": "https://berget.ai/en/blog/per-request-co2-press-release",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
-            "insight": "HN 热议：311 分 · 161 评论",
+            "title": "LLMs are making formal software verification feasible at a much larger scale",
+            "insight": "HN 热议：325 分 · 176 评论",
             "sentiment": "positive",
-            "comments": 161,
-            "url": "https://github.com/NVIDIA/OpenShell",
+            "comments": 176,
+            "url": "https://www.anthropic.com/research/formal-verification",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Every AI model has the same \"controversial\" take on humans",
-            "insight": "HN 热议：248 分 · 311 评论",
+            "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+            "insight": "HN 热议：379 分 · 187 评论",
             "sentiment": "positive",
-            "comments": 311,
-            "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
+            "comments": 187,
+            "url": "https://github.com/NVIDIA/OpenShell",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "AI compute is the new oil–and needs a new market",
-            "insight": "HN 热议：22 分 · 13 评论",
+            "title": "The alien space of science: Coherent but cognitively unavailable directions",
+            "insight": "HN 热议：28 分 · 2 评论",
             "sentiment": "neutral",
-            "comments": 13,
-            "url": "https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market",
+            "comments": 2,
+            "url": "https://arxiv.org/abs/2603.01092",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Jailbreaking the Switch 2",
-            "insight": "HN 热议：729 分 · 253 评论",
+            "title": "Every AI model has the same \"controversial\" take on humans",
+            "insight": "HN 热议：374 分 · 399 评论",
             "sentiment": "positive",
-            "comments": 253,
-            "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
+            "comments": 399,
+            "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-10-23T02:14:11Z",
+    "updated": "2026-10-23T08:00:42Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
