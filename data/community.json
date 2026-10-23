@@ -1,49 +1,49 @@
 {
-  "updated": "2026-10-22T23:43:35Z",
+  "updated": "2026-10-23T02:14:11Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
-      "insight": "HN 热议：265 分 · 136 评论",
-      "sentiment": "positive",
-      "comments": 136,
-      "url": "https://github.com/NVIDIA/OpenShell",
+      "title": "LLMs are making formal software verification feasible at a much larger scale",
+      "insight": "HN 热议：126 分 · 64 评论",
+      "sentiment": "neutral",
+      "comments": 64,
+      "url": "https://www.anthropic.com/research/formal-verification",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Every AI model has the same \"controversial\" take on humans",
-      "insight": "HN 热议：191 分 · 221 评论",
-      "sentiment": "neutral",
-      "comments": 221,
-      "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
+      "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+      "insight": "HN 热议：311 分 · 161 评论",
+      "sentiment": "positive",
+      "comments": 161,
+      "url": "https://github.com/NVIDIA/OpenShell",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Jailbreaking the Switch 2",
-      "insight": "HN 热议：686 分 · 241 评论",
+      "title": "Every AI model has the same \"controversial\" take on humans",
+      "insight": "HN 热议：248 分 · 311 评论",
       "sentiment": "positive",
-      "comments": 241,
-      "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
+      "comments": 311,
+      "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "AI and the Enclosure of the Scientific Commons",
-      "insight": "HN 热议：97 分 · 56 评论",
+      "title": "AI compute is the new oil–and needs a new market",
+      "insight": "HN 热议：22 分 · 13 评论",
       "sentiment": "neutral",
-      "comments": 56,
-      "url": "https://arxiv.org/abs/2610.27251",
+      "comments": 13,
+      "url": "https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Railpass",
-      "insight": "HN 热议：29 分 · 7 评论",
-      "sentiment": "neutral",
-      "comments": 7,
-      "url": "https://train.samismith.com/",
+      "title": "Jailbreaking the Switch 2",
+      "insight": "HN 热议：729 分 · 253 评论",
+      "sentiment": "positive",
+      "comments": 253,
+      "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
       "id": 5
     }
   ]

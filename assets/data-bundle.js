@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-10-22T23:43:35Z",
+    "updated": "2026-10-23T02:14:11Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-10-22T23:43:35Z",
+    "updated": "2026-10-23T02:14:11Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-10-22T23:43:35Z",
+    "updated": "2026-10-23T02:14:11Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187716,
-            "stars_today": 187716,
+            "stars": 187717,
+            "stars_today": 187717,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 174006,
-            "stars_today": 174006,
+            "stars": 174020,
+            "stars_today": 174020,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 102334,
-            "stars_today": 102334,
+            "stars": 102341,
+            "stars_today": 102341,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 97172,
-            "stars_today": 97172,
+            "stars": 97171,
+            "stars_today": 97171,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 91594,
-            "stars_today": 91594,
+            "stars": 91596,
+            "stars_today": 91596,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 71165,
-            "stars_today": 71165,
+            "stars": 71195,
+            "stars_today": 71195,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-10-22T23:43:35Z",
+    "updated": "2026-10-23T02:14:11Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-10-22T23:43:35Z",
+    "updated": "2026-10-23T02:14:11Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-10-22T23:43:35Z",
+    "updated": "2026-10-23T02:14:11Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
-            "insight": "HN 热议：265 分 · 136 评论",
-            "sentiment": "positive",
-            "comments": 136,
-            "url": "https://github.com/NVIDIA/OpenShell",
+            "title": "LLMs are making formal software verification feasible at a much larger scale",
+            "insight": "HN 热议：126 分 · 64 评论",
+            "sentiment": "neutral",
+            "comments": 64,
+            "url": "https://www.anthropic.com/research/formal-verification",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Every AI model has the same \"controversial\" take on humans",
-            "insight": "HN 热议：191 分 · 221 评论",
-            "sentiment": "neutral",
-            "comments": 221,
-            "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
+            "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+            "insight": "HN 热议：311 分 · 161 评论",
+            "sentiment": "positive",
+            "comments": 161,
+            "url": "https://github.com/NVIDIA/OpenShell",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Jailbreaking the Switch 2",
-            "insight": "HN 热议：686 分 · 241 评论",
+            "title": "Every AI model has the same \"controversial\" take on humans",
+            "insight": "HN 热议：248 分 · 311 评论",
             "sentiment": "positive",
-            "comments": 241,
-            "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
+            "comments": 311,
+            "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "AI and the Enclosure of the Scientific Commons",
-            "insight": "HN 热议：97 分 · 56 评论",
+            "title": "AI compute is the new oil–and needs a new market",
+            "insight": "HN 热议：22 分 · 13 评论",
             "sentiment": "neutral",
-            "comments": 56,
-            "url": "https://arxiv.org/abs/2610.27251",
+            "comments": 13,
+            "url": "https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Railpass",
-            "insight": "HN 热议：29 分 · 7 评论",
-            "sentiment": "neutral",
-            "comments": 7,
-            "url": "https://train.samismith.com/",
+            "title": "Jailbreaking the Switch 2",
+            "insight": "HN 热议：729 分 · 253 评论",
+            "sentiment": "positive",
+            "comments": 253,
+            "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-10-22T23:43:35Z",
+    "updated": "2026-10-23T02:14:11Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
