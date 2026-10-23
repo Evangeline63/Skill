@@ -1,49 +1,49 @@
 {
-  "updated": "2026-10-23T18:45:53Z",
+  "updated": "2026-10-23T23:36:23Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Air Purifiers as White Noise Machines",
-      "insight": "HN 热议：8 分 · 2 评论",
-      "sentiment": "neutral",
-      "comments": 2,
-      "url": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
+      "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+      "insight": "HN 热议：215 分 · 99 评论",
+      "sentiment": "positive",
+      "comments": 99,
+      "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
-      "insight": "HN 热议：462 分 · 513 评论",
-      "sentiment": "positive",
-      "comments": 513,
-      "url": "https://news.ycombinator.com/item?id=50200997",
+      "title": "A whirlwind tour of systemd-nspawn containers",
+      "insight": "HN 热议：21 分 · 3 评论",
+      "sentiment": "neutral",
+      "comments": 3,
+      "url": "https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "We have traits at home",
-      "insight": "HN 热议：29 分 · 7 评论",
+      "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
+      "insight": "HN 热议：7 分 · 0 评论",
       "sentiment": "neutral",
-      "comments": 7,
-      "url": "https://www.axelmagn.com/blog/202610-zig-traits/",
+      "comments": 0,
+      "url": "https://corgi.computer/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "The alien space of science: Coherent but cognitively unavailable directions",
-      "insight": "HN 热议：180 分 · 70 评论",
+      "title": "Securing our frontier model training environment",
+      "insight": "HN 热议：60 分 · 68 评论",
       "sentiment": "neutral",
-      "comments": 70,
-      "url": "https://arxiv.org/abs/2603.01092",
+      "comments": 68,
+      "url": "https://openai.com/index/securing-our-frontier-model-training-environment/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
-      "insight": "HN 热议：482 分 · 206 评论",
-      "sentiment": "positive",
-      "comments": 206,
-      "url": "https://github.com/NVIDIA/OpenShell",
+      "title": "Air Purifiers as White Noise Machines",
+      "insight": "HN 热议：43 分 · 62 评论",
+      "sentiment": "neutral",
+      "comments": 62,
+      "url": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
       "id": 5
     }
   ]

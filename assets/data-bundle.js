@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-10-23T18:45:53Z",
+    "updated": "2026-10-23T23:36:23Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-10-23T18:45:53Z",
+    "updated": "2026-10-23T23:36:23Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,7 +266,7 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-10-23T18:45:53Z",
+    "updated": "2026-10-23T23:36:23Z",
     "repos": [
         {
             "rank": 1,
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 174209,
-            "stars_today": 174209,
+            "stars": 174239,
+            "stars_today": 174239,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 102506,
-            "stars_today": 102506,
+            "stars": 102557,
+            "stars_today": 102557,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 97180,
-            "stars_today": 97180,
+            "stars": 97182,
+            "stars_today": 97182,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 91659,
-            "stars_today": 91659,
+            "stars": 91678,
+            "stars_today": 91678,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 71389,
-            "stars_today": 71389,
+            "stars": 71442,
+            "stars_today": 71442,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-10-23T18:45:53Z",
+    "updated": "2026-10-23T23:36:23Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-10-23T18:45:53Z",
+    "updated": "2026-10-23T23:36:23Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-10-23T18:45:53Z",
+    "updated": "2026-10-23T23:36:23Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Air Purifiers as White Noise Machines",
-            "insight": "HN 热议：8 分 · 2 评论",
-            "sentiment": "neutral",
-            "comments": 2,
-            "url": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
+            "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+            "insight": "HN 热议：215 分 · 99 评论",
+            "sentiment": "positive",
+            "comments": 99,
+            "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
-            "insight": "HN 热议：462 分 · 513 评论",
-            "sentiment": "positive",
-            "comments": 513,
-            "url": "https://news.ycombinator.com/item?id=50200997",
+            "title": "A whirlwind tour of systemd-nspawn containers",
+            "insight": "HN 热议：21 分 · 3 评论",
+            "sentiment": "neutral",
+            "comments": 3,
+            "url": "https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "We have traits at home",
-            "insight": "HN 热议：29 分 · 7 评论",
+            "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
+            "insight": "HN 热议：7 分 · 0 评论",
             "sentiment": "neutral",
-            "comments": 7,
-            "url": "https://www.axelmagn.com/blog/202610-zig-traits/",
+            "comments": 0,
+            "url": "https://corgi.computer/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "The alien space of science: Coherent but cognitively unavailable directions",
-            "insight": "HN 热议：180 分 · 70 评论",
+            "title": "Securing our frontier model training environment",
+            "insight": "HN 热议：60 分 · 68 评论",
             "sentiment": "neutral",
-            "comments": 70,
-            "url": "https://arxiv.org/abs/2603.01092",
+            "comments": 68,
+            "url": "https://openai.com/index/securing-our-frontier-model-training-environment/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
-            "insight": "HN 热议：482 分 · 206 评论",
-            "sentiment": "positive",
-            "comments": 206,
-            "url": "https://github.com/NVIDIA/OpenShell",
+            "title": "Air Purifiers as White Noise Machines",
+            "insight": "HN 热议：43 分 · 62 评论",
+            "sentiment": "neutral",
+            "comments": 62,
+            "url": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-10-23T18:45:53Z",
+    "updated": "2026-10-23T23:36:23Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
