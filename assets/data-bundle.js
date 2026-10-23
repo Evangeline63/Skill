@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-10-23T08:00:42Z",
+    "updated": "2026-10-23T13:52:49Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-10-23T08:00:42Z",
+    "updated": "2026-10-23T13:52:49Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-10-23T08:00:42Z",
+    "updated": "2026-10-23T13:52:49Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187712,
-            "stars_today": 187712,
+            "stars": 187717,
+            "stars_today": 187717,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 174103,
-            "stars_today": 174103,
+            "stars": 174157,
+            "stars_today": 174157,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 102389,
-            "stars_today": 102389,
+            "stars": 102456,
+            "stars_today": 102456,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 97175,
-            "stars_today": 97175,
+            "stars": 97177,
+            "stars_today": 97177,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 91610,
-            "stars_today": 91610,
+            "stars": 91644,
+            "stars_today": 91644,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 71251,
-            "stars_today": 71251,
+            "stars": 71324,
+            "stars_today": 71324,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-10-23T08:00:42Z",
+    "updated": "2026-10-23T13:52:49Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-10-23T08:00:42Z",
+    "updated": "2026-10-23T13:52:49Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-10-23T08:00:42Z",
+    "updated": "2026-10-23T13:52:49Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "The same AI request emits 8.5 times more CO2 in Texas than in Sweden",
-            "insight": "HN 热议：74 分 · 45 评论",
+            "title": "Swedish government offices to ban ChatGPT and Claude",
+            "insight": "HN 热议：162 分 · 70 评论",
             "sentiment": "neutral",
-            "comments": 45,
-            "url": "https://berget.ai/en/blog/per-request-co2-press-release",
+            "comments": 70,
+            "url": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "LLMs are making formal software verification feasible at a much larger scale",
-            "insight": "HN 热议：325 分 · 176 评论",
-            "sentiment": "positive",
-            "comments": 176,
-            "url": "https://www.anthropic.com/research/formal-verification",
+            "title": "Disney Raising Prices Days After Confirming Ads Will Now Show Up on Every Tier",
+            "insight": "HN 热议：75 分 · 57 评论",
+            "sentiment": "neutral",
+            "comments": 57,
+            "url": "https://www.tvfandomlounge.com/disney-plus-price-hike-ads-premium-tier-nielsen-emmys-2026/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
-            "insight": "HN 热议：379 分 · 187 评论",
-            "sentiment": "positive",
-            "comments": 187,
-            "url": "https://github.com/NVIDIA/OpenShell",
+            "title": "The alien space of science: Coherent but cognitively unavailable directions",
+            "insight": "HN 热议：128 分 · 49 评论",
+            "sentiment": "neutral",
+            "comments": 49,
+            "url": "https://arxiv.org/abs/2603.01092",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "The alien space of science: Coherent but cognitively unavailable directions",
-            "insight": "HN 热议：28 分 · 2 评论",
-            "sentiment": "neutral",
-            "comments": 2,
-            "url": "https://arxiv.org/abs/2603.01092",
+            "title": "Every AI model has the same \"controversial\" take on humans",
+            "insight": "HN 热议：516 分 · 507 评论",
+            "sentiment": "positive",
+            "comments": 507,
+            "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Every AI model has the same \"controversial\" take on humans",
-            "insight": "HN 热议：374 分 · 399 评论",
+            "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+            "insight": "HN 热议：441 分 · 200 评论",
             "sentiment": "positive",
-            "comments": 399,
-            "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
+            "comments": 200,
+            "url": "https://github.com/NVIDIA/OpenShell",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-10-23T08:00:42Z",
+    "updated": "2026-10-23T13:52:49Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
