@@ -1,48 +1,48 @@
 {
-  "updated": "2026-10-24T19:54:03Z",
+  "updated": "2026-10-24T22:45:37Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Neural chip decodes interactions between brain regions",
-      "insight": "HN 热议：61 分 · 13 评论",
+      "insight": "HN 热议：76 分 · 25 评论",
       "sentiment": "neutral",
-      "comments": 13,
+      "comments": 25,
       "url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Why is AI generated language so hard to understand?",
-      "insight": "HN 热议：58 分 · 45 评论",
-      "sentiment": "neutral",
-      "comments": 45,
-      "url": "https://arxiv.org/abs/2610.29162",
+      "title": "No signs of AI payoff outside the tech sector",
+      "insight": "HN 热议：390 分 · 361 评论",
+      "sentiment": "positive",
+      "comments": 361,
+      "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-      "insight": "HN 热议：17 分 · 13 评论",
+      "insight": "HN 热议：26 分 · 18 评论",
       "sentiment": "neutral",
-      "comments": 13,
+      "comments": 18,
       "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Glymphatic clearance to alleviate brain edema and Alzheimer's pathology in mice",
-      "insight": "HN 热议：26 分 · 7 评论",
+      "title": "Why is AI generated language so hard to understand?",
+      "insight": "HN 热议：132 分 · 127 评论",
       "sentiment": "neutral",
-      "comments": 7,
-      "url": "https://www.science.org/doi/10.1126/sciadv.aeh8870",
+      "comments": 127,
+      "url": "https://arxiv.org/abs/2610.29162",
       "id": 4
     },
     {
       "source": "HackerNews",
       "title": "A practical guide to AI image generation, from diffusion to agents",
-      "insight": "HN 热议：227 分 · 70 评论",
+      "insight": "HN 热议：237 分 · 79 评论",
       "sentiment": "positive",
-      "comments": 70,
+      "comments": 79,
       "url": "https://danielball.com/notes/ai_image_generation.html",
       "id": 5
     }
