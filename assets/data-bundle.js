@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-10-23T23:36:23Z",
+    "updated": "2026-10-24T02:12:40Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-10-23T23:36:23Z",
+    "updated": "2026-10-24T02:12:40Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-10-23T23:36:23Z",
+    "updated": "2026-10-24T02:12:40Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187717,
-            "stars_today": 187717,
+            "stars": 187720,
+            "stars_today": 187720,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 174239,
-            "stars_today": 174239,
+            "stars": 174259,
+            "stars_today": 174259,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 102557,
-            "stars_today": 102557,
+            "stars": 102583,
+            "stars_today": 102583,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 97182,
-            "stars_today": 97182,
+            "stars": 97185,
+            "stars_today": 97185,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 91678,
-            "stars_today": 91678,
+            "stars": 91681,
+            "stars_today": 91681,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 71442,
-            "stars_today": 71442,
+            "stars": 71458,
+            "stars_today": 71458,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-10-23T23:36:23Z",
+    "updated": "2026-10-24T02:12:40Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-10-23T23:36:23Z",
+    "updated": "2026-10-24T02:12:40Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-10-23T23:36:23Z",
+    "updated": "2026-10-24T02:12:40Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
-            "insight": "HN 热议：215 分 · 99 评论",
-            "sentiment": "positive",
-            "comments": 99,
-            "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+            "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
+            "insight": "HN 热议：38 分 · 6 评论",
+            "sentiment": "neutral",
+            "comments": 6,
+            "url": "https://corgi.computer/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "A whirlwind tour of systemd-nspawn containers",
-            "insight": "HN 热议：21 分 · 3 评论",
-            "sentiment": "neutral",
-            "comments": 3,
-            "url": "https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/",
+            "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+            "insight": "HN 热议：284 分 · 149 评论",
+            "sentiment": "positive",
+            "comments": 149,
+            "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
-            "insight": "HN 热议：7 分 · 0 评论",
+            "title": "Air Purifiers as White Noise Machines",
+            "insight": "HN 热议：67 分 · 96 评论",
             "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://corgi.computer/",
+            "comments": 96,
+            "url": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Securing our frontier model training environment",
-            "insight": "HN 热议：60 分 · 68 评论",
+            "title": "Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques",
+            "insight": "HN 热议：7 分 · 1 评论",
             "sentiment": "neutral",
-            "comments": 68,
-            "url": "https://openai.com/index/securing-our-frontier-model-training-environment/",
+            "comments": 1,
+            "url": "https://www.sciencedaily.com/releases/2026/10/261018084421.htm",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Air Purifiers as White Noise Machines",
-            "insight": "HN 热议：43 分 · 62 评论",
+            "title": "Rise of collagen-eating microbes may help explain gaps in the fossil record",
+            "insight": "HN 热议：15 分 · 0 评论",
             "sentiment": "neutral",
-            "comments": 62,
-            "url": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
+            "comments": 0,
+            "url": "https://www.cam.ac.uk/research/news/rise-of-collagen-eating-microbes-may-help-explain-gaps-in-the-fossil-record",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-10-23T23:36:23Z",
+    "updated": "2026-10-24T02:12:40Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

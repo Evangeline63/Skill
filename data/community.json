@@ -1,49 +1,49 @@
 {
-  "updated": "2026-10-23T23:36:23Z",
+  "updated": "2026-10-24T02:12:40Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
-      "insight": "HN 热议：215 分 · 99 评论",
-      "sentiment": "positive",
-      "comments": 99,
-      "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+      "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
+      "insight": "HN 热议：38 分 · 6 评论",
+      "sentiment": "neutral",
+      "comments": 6,
+      "url": "https://corgi.computer/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "A whirlwind tour of systemd-nspawn containers",
-      "insight": "HN 热议：21 分 · 3 评论",
-      "sentiment": "neutral",
-      "comments": 3,
-      "url": "https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/",
+      "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+      "insight": "HN 热议：284 分 · 149 评论",
+      "sentiment": "positive",
+      "comments": 149,
+      "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
-      "insight": "HN 热议：7 分 · 0 评论",
+      "title": "Air Purifiers as White Noise Machines",
+      "insight": "HN 热议：67 分 · 96 评论",
       "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://corgi.computer/",
+      "comments": 96,
+      "url": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Securing our frontier model training environment",
-      "insight": "HN 热议：60 分 · 68 评论",
+      "title": "Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques",
+      "insight": "HN 热议：7 分 · 1 评论",
       "sentiment": "neutral",
-      "comments": 68,
-      "url": "https://openai.com/index/securing-our-frontier-model-training-environment/",
+      "comments": 1,
+      "url": "https://www.sciencedaily.com/releases/2026/10/261018084421.htm",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Air Purifiers as White Noise Machines",
-      "insight": "HN 热议：43 分 · 62 评论",
+      "title": "Rise of collagen-eating microbes may help explain gaps in the fossil record",
+      "insight": "HN 热议：15 分 · 0 评论",
       "sentiment": "neutral",
-      "comments": 62,
-      "url": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
+      "comments": 0,
+      "url": "https://www.cam.ac.uk/research/news/rise-of-collagen-eating-microbes-may-help-explain-gaps-in-the-fossil-record",
       "id": 5
     }
   ]
