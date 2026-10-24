@@ -1,49 +1,49 @@
 {
-  "updated": "2026-10-24T17:41:16Z",
+  "updated": "2026-10-24T19:54:03Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Neural chip decodes interactions between brain regions",
-      "insight": "HN 热议：36 分 · 4 评论",
+      "insight": "HN 热议：61 分 · 13 评论",
       "sentiment": "neutral",
-      "comments": 4,
+      "comments": 13,
       "url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "A practical guide to AI image generation, from diffusion to agents",
-      "insight": "HN 热议：207 分 · 59 评论",
-      "sentiment": "positive",
-      "comments": 59,
-      "url": "https://danielball.com/notes/ai_image_generation.html",
+      "title": "Why is AI generated language so hard to understand?",
+      "insight": "HN 热议：58 分 · 45 评论",
+      "sentiment": "neutral",
+      "comments": 45,
+      "url": "https://arxiv.org/abs/2610.29162",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Dessa: Conversation Model trained only on speech",
-      "insight": "HN 热议：455 分 · 180 评论",
-      "sentiment": "positive",
-      "comments": 180,
-      "url": "https://block.xyz/dessa",
+      "title": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+      "insight": "HN 热议：17 分 · 13 评论",
+      "sentiment": "neutral",
+      "comments": 13,
+      "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-      "insight": "HN 热议：84 分 · 40 评论",
+      "title": "Glymphatic clearance to alleviate brain edema and Alzheimer's pathology in mice",
+      "insight": "HN 热议：26 分 · 7 评论",
       "sentiment": "neutral",
-      "comments": 40,
-      "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/",
+      "comments": 7,
+      "url": "https://www.science.org/doi/10.1126/sciadv.aeh8870",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "The Chalk and the Airplane",
-      "insight": "HN 热议：23 分 · 9 评论",
-      "sentiment": "neutral",
-      "comments": 9,
-      "url": "https://unintendedconsequenc.es/chalk-and-the-airplane/",
+      "title": "A practical guide to AI image generation, from diffusion to agents",
+      "insight": "HN 热议：227 分 · 70 评论",
+      "sentiment": "positive",
+      "comments": 70,
+      "url": "https://danielball.com/notes/ai_image_generation.html",
       "id": 5
     }
   ]

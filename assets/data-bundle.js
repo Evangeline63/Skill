@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-10-24T17:41:16Z",
+    "updated": "2026-10-24T19:54:03Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-10-24T17:41:16Z",
+    "updated": "2026-10-24T19:54:03Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-10-24T17:41:16Z",
+    "updated": "2026-10-24T19:54:03Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187726,
-            "stars_today": 187726,
+            "stars": 187725,
+            "stars_today": 187725,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 174371,
-            "stars_today": 174371,
+            "stars": 174381,
+            "stars_today": 174381,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 102753,
-            "stars_today": 102753,
+            "stars": 102782,
+            "stars_today": 102782,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 97197,
-            "stars_today": 97197,
+            "stars": 97199,
+            "stars_today": 97199,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 91730,
-            "stars_today": 91730,
+            "stars": 91738,
+            "stars_today": 91738,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 71616,
-            "stars_today": 71616,
+            "stars": 71642,
+            "stars_today": 71642,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-10-24T17:41:16Z",
+    "updated": "2026-10-24T19:54:03Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-10-24T17:41:16Z",
+    "updated": "2026-10-24T19:54:03Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-10-24T17:41:16Z",
+    "updated": "2026-10-24T19:54:03Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Neural chip decodes interactions between brain regions",
-            "insight": "HN 热议：36 分 · 4 评论",
+            "insight": "HN 热议：61 分 · 13 评论",
             "sentiment": "neutral",
-            "comments": 4,
+            "comments": 13,
             "url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "A practical guide to AI image generation, from diffusion to agents",
-            "insight": "HN 热议：207 分 · 59 评论",
-            "sentiment": "positive",
-            "comments": 59,
-            "url": "https://danielball.com/notes/ai_image_generation.html",
+            "title": "Why is AI generated language so hard to understand?",
+            "insight": "HN 热议：58 分 · 45 评论",
+            "sentiment": "neutral",
+            "comments": 45,
+            "url": "https://arxiv.org/abs/2610.29162",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Dessa: Conversation Model trained only on speech",
-            "insight": "HN 热议：455 分 · 180 评论",
-            "sentiment": "positive",
-            "comments": 180,
-            "url": "https://block.xyz/dessa",
+            "title": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+            "insight": "HN 热议：17 分 · 13 评论",
+            "sentiment": "neutral",
+            "comments": 13,
+            "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-            "insight": "HN 热议：84 分 · 40 评论",
+            "title": "Glymphatic clearance to alleviate brain edema and Alzheimer's pathology in mice",
+            "insight": "HN 热议：26 分 · 7 评论",
             "sentiment": "neutral",
-            "comments": 40,
-            "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/",
+            "comments": 7,
+            "url": "https://www.science.org/doi/10.1126/sciadv.aeh8870",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "The Chalk and the Airplane",
-            "insight": "HN 热议：23 分 · 9 评论",
-            "sentiment": "neutral",
-            "comments": 9,
-            "url": "https://unintendedconsequenc.es/chalk-and-the-airplane/",
+            "title": "A practical guide to AI image generation, from diffusion to agents",
+            "insight": "HN 热议：227 分 · 70 评论",
+            "sentiment": "positive",
+            "comments": 70,
+            "url": "https://danielball.com/notes/ai_image_generation.html",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-10-24T17:41:16Z",
+    "updated": "2026-10-24T19:54:03Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
