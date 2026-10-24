@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-10-24T02:12:40Z",
+    "updated": "2026-10-24T07:40:05Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-10-24T02:12:40Z",
+    "updated": "2026-10-24T07:40:05Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-10-24T02:12:40Z",
+    "updated": "2026-10-24T07:40:05Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187720,
-            "stars_today": 187720,
+            "stars": 187724,
+            "stars_today": 187724,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 174259,
-            "stars_today": 174259,
+            "stars": 174304,
+            "stars_today": 174304,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 102583,
-            "stars_today": 102583,
+            "stars": 102632,
+            "stars_today": 102632,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 97185,
-            "stars_today": 97185,
+            "stars": 97191,
+            "stars_today": 97191,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 91681,
-            "stars_today": 91681,
+            "stars": 91699,
+            "stars_today": 91699,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 71458,
-            "stars_today": 71458,
+            "stars": 71508,
+            "stars_today": 71508,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-10-24T02:12:40Z",
+    "updated": "2026-10-24T07:40:05Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-10-24T02:12:40Z",
+    "updated": "2026-10-24T07:40:05Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-10-24T02:12:40Z",
+    "updated": "2026-10-24T07:40:05Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
-            "insight": "HN 热议：38 分 · 6 评论",
-            "sentiment": "neutral",
-            "comments": 6,
-            "url": "https://corgi.computer/",
+            "title": "Dessa: Conversation Model trained only on speech",
+            "insight": "HN 热议：360 分 · 133 评论",
+            "sentiment": "positive",
+            "comments": 133,
+            "url": "https://block.xyz/dessa",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
-            "insight": "HN 热议：284 分 · 149 评论",
-            "sentiment": "positive",
-            "comments": 149,
-            "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+            "title": "A practical guide to AI image generation, from diffusion to agents",
+            "insight": "HN 热议：53 分 · 11 评论",
+            "sentiment": "neutral",
+            "comments": 11,
+            "url": "https://danielball.com/notes/ai_image_generation.html",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "Air Purifiers as White Noise Machines",
-            "insight": "HN 热议：67 分 · 96 评论",
+            "insight": "HN 热议：114 分 · 108 评论",
             "sentiment": "neutral",
-            "comments": 96,
+            "comments": 108,
             "url": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques",
-            "insight": "HN 热议：7 分 · 1 评论",
+            "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
+            "insight": "HN 热议：75 分 · 18 评论",
             "sentiment": "neutral",
-            "comments": 1,
-            "url": "https://www.sciencedaily.com/releases/2026/10/261018084421.htm",
+            "comments": 18,
+            "url": "https://corgi.computer/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Rise of collagen-eating microbes may help explain gaps in the fossil record",
-            "insight": "HN 热议：15 分 · 0 评论",
+            "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+            "insight": "HN 热议：25 分 · 0 评论",
             "sentiment": "neutral",
             "comments": 0,
-            "url": "https://www.cam.ac.uk/research/news/rise-of-collagen-eating-microbes-may-help-explain-gaps-in-the-fossil-record",
+            "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-10-24T02:12:40Z",
+    "updated": "2026-10-24T07:40:05Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
