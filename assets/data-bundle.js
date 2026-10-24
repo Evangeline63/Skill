@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-10-24T07:40:05Z",
+    "updated": "2026-10-24T12:58:11Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-10-24T07:40:05Z",
+    "updated": "2026-10-24T12:58:11Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -325,7 +325,7 @@ window.__DATA__ = {
     ]
 },
   "products": {
-    "updated": "2026-10-24T07:40:05Z",
+    "updated": "2026-10-24T12:58:11Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-10-24T07:40:05Z",
+    "updated": "2026-10-24T12:58:11Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-10-24T07:40:05Z",
+    "updated": "2026-10-24T12:58:11Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Dessa: Conversation Model trained only on speech",
-            "insight": "HN 热议：360 分 · 133 评论",
-            "sentiment": "positive",
-            "comments": 133,
-            "url": "https://block.xyz/dessa",
+            "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+            "insight": "HN 热议：38 分 · 6 评论",
+            "sentiment": "neutral",
+            "comments": 6,
+            "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "A practical guide to AI image generation, from diffusion to agents",
-            "insight": "HN 热议：53 分 · 11 评论",
+            "insight": "HN 热议：128 分 · 36 评论",
             "sentiment": "neutral",
-            "comments": 11,
+            "comments": 36,
             "url": "https://danielball.com/notes/ai_image_generation.html",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Air Purifiers as White Noise Machines",
-            "insight": "HN 热议：114 分 · 108 评论",
-            "sentiment": "neutral",
-            "comments": 108,
-            "url": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
+            "title": "Dessa: Conversation Model trained only on speech",
+            "insight": "HN 热议：413 分 · 152 评论",
+            "sentiment": "positive",
+            "comments": 152,
+            "url": "https://block.xyz/dessa",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
-            "insight": "HN 热议：75 分 · 18 评论",
+            "title": "The Chalk and the Airplane",
+            "insight": "HN 热议：13 分 · 0 评论",
             "sentiment": "neutral",
-            "comments": 18,
-            "url": "https://corgi.computer/",
+            "comments": 0,
+            "url": "https://unintendedconsequenc.es/chalk-and-the-airplane/",
             "id": 4
         },
         {
             "source": "HackerNews",
             "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
-            "insight": "HN 热议：25 分 · 0 评论",
-            "sentiment": "neutral",
-            "comments": 0,
+            "insight": "HN 热议：267 分 · 79 评论",
+            "sentiment": "positive",
+            "comments": 79,
             "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-10-24T07:40:05Z",
+    "updated": "2026-10-24T12:58:11Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
