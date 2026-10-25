@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-10-25T17:55:21Z",
+    "updated": "2026-10-25T20:05:16Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-10-25T17:55:21Z",
+    "updated": "2026-10-25T20:05:16Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,7 +266,7 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-10-25T17:55:21Z",
+    "updated": "2026-10-25T20:05:16Z",
     "repos": [
         {
             "rank": 1,
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 174522,
-            "stars_today": 174522,
+            "stars": 174531,
+            "stars_today": 174531,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 103043,
-            "stars_today": 103043,
+            "stars": 103068,
+            "stars_today": 103068,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 91810,
-            "stars_today": 91810,
+            "stars": 91817,
+            "stars_today": 91817,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 71826,
-            "stars_today": 71826,
+            "stars": 71852,
+            "stars_today": 71852,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-10-25T17:55:21Z",
+    "updated": "2026-10-25T20:05:16Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-10-25T17:55:21Z",
+    "updated": "2026-10-25T20:05:16Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-10-25T17:55:21Z",
+    "updated": "2026-10-25T20:05:16Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
-            "insight": "HN 热议：18 分 · 0 评论",
-            "sentiment": "neutral",
-            "comments": 0,
+            "insight": "HN 热议：241 分 · 117 评论",
+            "sentiment": "positive",
+            "comments": 117,
             "url": "https://lynchlab.net/llm-skin-cancer",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Cerebras Deploys Trillion-Parameter AI Models",
-            "insight": "HN 热议：308 分 · 109 评论",
-            "sentiment": "positive",
-            "comments": 109,
-            "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+            "title": "JetBrains Thinkrail",
+            "insight": "HN 热议：63 分 · 17 评论",
+            "sentiment": "neutral",
+            "comments": 17,
+            "url": "https://github.com/JetBrains/thinkrail",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Jukebox-OS: Deterministic time-travel replay and ACID tool sandbox for AI agents",
-            "insight": "HN 热议：3 分 · 0 评论",
+            "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
+            "insight": "HN 热议：120 分 · 185 评论",
             "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://github.com/socrates6969/jukebox-os",
+            "comments": 185,
+            "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
-            "insight": "HN 热议：35 分 · 51 评论",
-            "sentiment": "neutral",
-            "comments": 51,
-            "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
+            "title": "Cerebras Deploys Trillion-Parameter AI Models",
+            "insight": "HN 热议：334 分 · 118 评论",
+            "sentiment": "positive",
+            "comments": 118,
+            "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "A Mathematician Reads the AI Future",
-            "insight": "HN 热议：25 分 · 17 评论",
+            "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
+            "insight": "HN 热议：119 分 · 53 评论",
             "sentiment": "neutral",
-            "comments": 17,
-            "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/",
+            "comments": 53,
+            "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-10-25T17:55:21Z",
+    "updated": "2026-10-25T20:05:16Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

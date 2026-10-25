@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T17:55:21Z",
+  "updated": "2026-10-25T20:05:16Z",
   "repos": [
     {
       "rank": 1,
@@ -15,8 +15,8 @@
       "name": "f/prompts.chat",
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
       "language": "HTML",
-      "stars": 174522,
-      "stars_today": 174522,
+      "stars": 174531,
+      "stars_today": 174531,
       "url": "https://github.com/f/prompts.chat"
     },
     {
@@ -24,8 +24,8 @@
       "name": "thedotmack/claude-mem",
       "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
       "language": "TypeScript",
-      "stars": 103043,
-      "stars_today": 103043,
+      "stars": 103068,
+      "stars_today": 103068,
       "url": "https://github.com/thedotmack/claude-mem"
     },
     {
@@ -42,8 +42,8 @@
       "name": "OpenHands/OpenHands",
       "description": "🙌 OpenHands: AI-Driven Development",
       "language": "TypeScript",
-      "stars": 91810,
-      "stars_today": 91810,
+      "stars": 91817,
+      "stars_today": 91817,
       "url": "https://github.com/OpenHands/OpenHands"
     },
     {
@@ -51,8 +51,8 @@
       "name": "usestrix/strix",
       "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "language": "Python",
-      "stars": 71826,
-      "stars_today": 71826,
+      "stars": 71852,
+      "stars_today": 71852,
       "url": "https://github.com/usestrix/strix"
     }
   ]
