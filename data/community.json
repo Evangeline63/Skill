@@ -1,49 +1,49 @@
 {
-  "updated": "2026-10-25T01:59:11Z",
+  "updated": "2026-10-25T07:51:45Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
-      "insight": "HN 热议：166 分 · 138 评论",
+      "title": "Cerebras Deploys Trillion-Parameter AI Models",
+      "insight": "HN 热议：119 分 · 41 评论",
       "sentiment": "neutral",
-      "comments": 138,
-      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "comments": 41,
+      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Reactive Optimizers: rewrite the optimizer's source code during training",
-      "insight": "HN 热议：6 分 · 0 评论",
-      "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://xingjianbai.com/reactive-optimizers/",
+      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+      "insight": "HN 热议：324 分 · 319 评论",
+      "sentiment": "positive",
+      "comments": 319,
+      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Neural chip decodes interactions between brain regions",
-      "insight": "HN 热议：94 分 · 32 评论",
+      "title": "Pragtical v3.14 Lua-based text editor adds menus, floating views, and sessions",
+      "insight": "HN 热议：12 分 · 1 评论",
       "sentiment": "neutral",
-      "comments": 32,
-      "url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
+      "comments": 1,
+      "url": "https://pragtical.dev/blog/pragtical-v3140-release",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "No signs of AI payoff outside the tech sector",
-      "insight": "HN 热议：483 分 · 484 评论",
-      "sentiment": "positive",
-      "comments": 484,
-      "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+      "title": "In Rainbows",
+      "insight": "HN 热议：22 分 · 4 评论",
+      "sentiment": "neutral",
+      "comments": 4,
+      "url": "https://hitogata.neocities.org/Rainbows",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-      "insight": "HN 热议：35 分 · 26 评论",
+      "title": "Neural chip decodes interactions between brain regions",
+      "insight": "HN 热议：102 分 · 37 评论",
       "sentiment": "neutral",
-      "comments": 26,
-      "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/",
+      "comments": 37,
+      "url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
       "id": 5
     }
   ]
