@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-10-25T20:05:16Z",
+    "updated": "2026-10-25T22:52:21Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-10-25T20:05:16Z",
+    "updated": "2026-10-25T22:52:21Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-10-25T20:05:16Z",
+    "updated": "2026-10-25T22:52:21Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187747,
-            "stars_today": 187747,
+            "stars": 187749,
+            "stars_today": 187749,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 174531,
-            "stars_today": 174531,
+            "stars": 174545,
+            "stars_today": 174545,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 103068,
-            "stars_today": 103068,
+            "stars": 103099,
+            "stars_today": 103099,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 97219,
-            "stars_today": 97219,
+            "stars": 97222,
+            "stars_today": 97222,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 91817,
-            "stars_today": 91817,
+            "stars": 91820,
+            "stars_today": 91820,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 71852,
-            "stars_today": 71852,
+            "stars": 71879,
+            "stars_today": 71879,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-10-25T20:05:16Z",
+    "updated": "2026-10-25T22:52:21Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-10-25T20:05:16Z",
+    "updated": "2026-10-25T22:52:21Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-10-25T20:05:16Z",
+    "updated": "2026-10-25T22:52:21Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
-            "insight": "HN 热议：241 分 · 117 评论",
+            "insight": "HN 热议：351 分 · 178 评论",
             "sentiment": "positive",
-            "comments": 117,
+            "comments": 178,
             "url": "https://lynchlab.net/llm-skin-cancer",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "JetBrains Thinkrail",
-            "insight": "HN 热议：63 分 · 17 评论",
+            "title": "Gheist campaign plants secret-dumping workflows using stolen GitHub tokens",
+            "insight": "HN 热议：39 分 · 0 评论",
             "sentiment": "neutral",
-            "comments": 17,
-            "url": "https://github.com/JetBrains/thinkrail",
+            "comments": 0,
+            "url": "https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
-            "insight": "HN 热议：120 分 · 185 评论",
+            "title": "JetBrains Thinkrail",
+            "insight": "HN 热议：144 分 · 103 评论",
             "sentiment": "neutral",
-            "comments": 185,
-            "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
+            "comments": 103,
+            "url": "https://github.com/JetBrains/thinkrail",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Cerebras Deploys Trillion-Parameter AI Models",
-            "insight": "HN 热议：334 分 · 118 评论",
-            "sentiment": "positive",
-            "comments": 118,
-            "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+            "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
+            "insight": "HN 热议：175 分 · 256 评论",
+            "sentiment": "neutral",
+            "comments": 256,
+            "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
-            "insight": "HN 热议：119 分 · 53 评论",
+            "title": "Making the Buddha Head from Merv Whole Again",
+            "insight": "HN 热议：4 分 · 0 评论",
             "sentiment": "neutral",
-            "comments": 53,
-            "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
+            "comments": 0,
+            "url": "https://www.getty.edu/news/buddha-head-of-merv-turkmenistan-conservation/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-10-25T20:05:16Z",
+    "updated": "2026-10-25T22:52:21Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
