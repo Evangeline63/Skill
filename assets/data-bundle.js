@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-10-25T07:51:45Z",
+    "updated": "2026-10-25T13:24:39Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-10-25T07:51:45Z",
+    "updated": "2026-10-25T13:24:39Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-10-25T07:51:45Z",
+    "updated": "2026-10-25T13:24:39Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187736,
-            "stars_today": 187736,
+            "stars": 187740,
+            "stars_today": 187740,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 174446,
-            "stars_today": 174446,
+            "stars": 174478,
+            "stars_today": 174478,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 102907,
-            "stars_today": 102907,
+            "stars": 102974,
+            "stars_today": 102974,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 97214,
-            "stars_today": 97214,
+            "stars": 97219,
+            "stars_today": 97219,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 91771,
-            "stars_today": 91771,
+            "stars": 91788,
+            "stars_today": 91788,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 71727,
-            "stars_today": 71727,
+            "stars": 71780,
+            "stars_today": 71780,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-10-25T07:51:45Z",
+    "updated": "2026-10-25T13:24:39Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-10-25T07:51:45Z",
+    "updated": "2026-10-25T13:24:39Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-10-25T07:51:45Z",
+    "updated": "2026-10-25T13:24:39Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Cerebras Deploys Trillion-Parameter AI Models",
-            "insight": "HN 热议：119 分 · 41 评论",
-            "sentiment": "neutral",
-            "comments": 41,
+            "insight": "HN 热议：224 分 · 69 评论",
+            "sentiment": "positive",
+            "comments": 69,
             "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
-            "insight": "HN 热议：324 分 · 319 评论",
-            "sentiment": "positive",
-            "comments": 319,
-            "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+            "title": "Rewriting a Commercial Engine in Jai",
+            "insight": "HN 热议：48 分 · 36 评论",
+            "sentiment": "neutral",
+            "comments": 36,
+            "url": "https://polygonjs.com/blog/why-i-rewrote-polygon-from-scratch",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Pragtical v3.14 Lua-based text editor adds menus, floating views, and sessions",
-            "insight": "HN 热议：12 分 · 1 评论",
+            "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
+            "insight": "HN 热议：35 分 · 4 评论",
             "sentiment": "neutral",
-            "comments": 1,
-            "url": "https://pragtical.dev/blog/pragtical-v3140-release",
+            "comments": 4,
+            "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "In Rainbows",
-            "insight": "HN 热议：22 分 · 4 评论",
-            "sentiment": "neutral",
-            "comments": 4,
-            "url": "https://hitogata.neocities.org/Rainbows",
+            "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+            "insight": "HN 热议：403 分 · 419 评论",
+            "sentiment": "positive",
+            "comments": 419,
+            "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
             "id": 4
         },
         {
             "source": "HackerNews",
             "title": "Neural chip decodes interactions between brain regions",
-            "insight": "HN 热议：102 分 · 37 评论",
+            "insight": "HN 热议：114 分 · 45 评论",
             "sentiment": "neutral",
-            "comments": 37,
+            "comments": 45,
             "url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-10-25T07:51:45Z",
+    "updated": "2026-10-25T13:24:39Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

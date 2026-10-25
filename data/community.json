@@ -1,48 +1,48 @@
 {
-  "updated": "2026-10-25T07:51:45Z",
+  "updated": "2026-10-25T13:24:39Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Cerebras Deploys Trillion-Parameter AI Models",
-      "insight": "HN 热议：119 分 · 41 评论",
-      "sentiment": "neutral",
-      "comments": 41,
+      "insight": "HN 热议：224 分 · 69 评论",
+      "sentiment": "positive",
+      "comments": 69,
       "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
-      "insight": "HN 热议：324 分 · 319 评论",
-      "sentiment": "positive",
-      "comments": 319,
-      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "title": "Rewriting a Commercial Engine in Jai",
+      "insight": "HN 热议：48 分 · 36 评论",
+      "sentiment": "neutral",
+      "comments": 36,
+      "url": "https://polygonjs.com/blog/why-i-rewrote-polygon-from-scratch",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Pragtical v3.14 Lua-based text editor adds menus, floating views, and sessions",
-      "insight": "HN 热议：12 分 · 1 评论",
+      "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
+      "insight": "HN 热议：35 分 · 4 评论",
       "sentiment": "neutral",
-      "comments": 1,
-      "url": "https://pragtical.dev/blog/pragtical-v3140-release",
+      "comments": 4,
+      "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "In Rainbows",
-      "insight": "HN 热议：22 分 · 4 评论",
-      "sentiment": "neutral",
-      "comments": 4,
-      "url": "https://hitogata.neocities.org/Rainbows",
+      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+      "insight": "HN 热议：403 分 · 419 评论",
+      "sentiment": "positive",
+      "comments": 419,
+      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
       "id": 4
     },
     {
       "source": "HackerNews",
       "title": "Neural chip decodes interactions between brain regions",
-      "insight": "HN 热议：102 分 · 37 评论",
+      "insight": "HN 热议：114 分 · 45 评论",
       "sentiment": "neutral",
-      "comments": 37,
+      "comments": 45,
       "url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
       "id": 5
     }
