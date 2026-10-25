@@ -1,49 +1,49 @@
 {
-  "updated": "2026-10-24T22:45:37Z",
+  "updated": "2026-10-25T01:59:11Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Neural chip decodes interactions between brain regions",
-      "insight": "HN 热议：76 分 · 25 评论",
+      "title": "America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
+      "insight": "HN 热议：166 分 · 138 评论",
       "sentiment": "neutral",
-      "comments": 25,
-      "url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
+      "comments": 138,
+      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "No signs of AI payoff outside the tech sector",
-      "insight": "HN 热议：390 分 · 361 评论",
-      "sentiment": "positive",
-      "comments": 361,
-      "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+      "title": "Reactive Optimizers: rewrite the optimizer's source code during training",
+      "insight": "HN 热议：6 分 · 0 评论",
+      "sentiment": "neutral",
+      "comments": 0,
+      "url": "https://xingjianbai.com/reactive-optimizers/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-      "insight": "HN 热议：26 分 · 18 评论",
+      "title": "Neural chip decodes interactions between brain regions",
+      "insight": "HN 热议：94 分 · 32 评论",
       "sentiment": "neutral",
-      "comments": 18,
-      "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/",
+      "comments": 32,
+      "url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Why is AI generated language so hard to understand?",
-      "insight": "HN 热议：132 分 · 127 评论",
-      "sentiment": "neutral",
-      "comments": 127,
-      "url": "https://arxiv.org/abs/2610.29162",
+      "title": "No signs of AI payoff outside the tech sector",
+      "insight": "HN 热议：483 分 · 484 评论",
+      "sentiment": "positive",
+      "comments": 484,
+      "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "A practical guide to AI image generation, from diffusion to agents",
-      "insight": "HN 热议：237 分 · 79 评论",
-      "sentiment": "positive",
-      "comments": 79,
-      "url": "https://danielball.com/notes/ai_image_generation.html",
+      "title": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+      "insight": "HN 热议：35 分 · 26 评论",
+      "sentiment": "neutral",
+      "comments": 26,
+      "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/",
       "id": 5
     }
   ]
