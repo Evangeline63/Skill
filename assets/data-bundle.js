@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-10-25T13:24:39Z",
+    "updated": "2026-10-25T17:55:21Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-10-25T13:24:39Z",
+    "updated": "2026-10-25T17:55:21Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-10-25T13:24:39Z",
+    "updated": "2026-10-25T17:55:21Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187740,
-            "stars_today": 187740,
+            "stars": 187747,
+            "stars_today": 187747,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 174478,
-            "stars_today": 174478,
+            "stars": 174522,
+            "stars_today": 174522,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 102974,
-            "stars_today": 102974,
+            "stars": 103043,
+            "stars_today": 103043,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 91788,
-            "stars_today": 91788,
+            "stars": 91810,
+            "stars_today": 91810,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 71780,
-            "stars_today": 71780,
+            "stars": 71826,
+            "stars_today": 71826,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-10-25T13:24:39Z",
+    "updated": "2026-10-25T17:55:21Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-10-25T13:24:39Z",
+    "updated": "2026-10-25T17:55:21Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-10-25T13:24:39Z",
+    "updated": "2026-10-25T17:55:21Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Cerebras Deploys Trillion-Parameter AI Models",
-            "insight": "HN 热议：224 分 · 69 评论",
-            "sentiment": "positive",
-            "comments": 69,
-            "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+            "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+            "insight": "HN 热议：18 分 · 0 评论",
+            "sentiment": "neutral",
+            "comments": 0,
+            "url": "https://lynchlab.net/llm-skin-cancer",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Rewriting a Commercial Engine in Jai",
-            "insight": "HN 热议：48 分 · 36 评论",
-            "sentiment": "neutral",
-            "comments": 36,
-            "url": "https://polygonjs.com/blog/why-i-rewrote-polygon-from-scratch",
+            "title": "Cerebras Deploys Trillion-Parameter AI Models",
+            "insight": "HN 热议：308 分 · 109 评论",
+            "sentiment": "positive",
+            "comments": 109,
+            "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
-            "insight": "HN 热议：35 分 · 4 评论",
+            "title": "Jukebox-OS: Deterministic time-travel replay and ACID tool sandbox for AI agents",
+            "insight": "HN 热议：3 分 · 0 评论",
             "sentiment": "neutral",
-            "comments": 4,
-            "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
+            "comments": 0,
+            "url": "https://github.com/socrates6969/jukebox-os",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
-            "insight": "HN 热议：403 分 · 419 评论",
-            "sentiment": "positive",
-            "comments": 419,
-            "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+            "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
+            "insight": "HN 热议：35 分 · 51 评论",
+            "sentiment": "neutral",
+            "comments": 51,
+            "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Neural chip decodes interactions between brain regions",
-            "insight": "HN 热议：114 分 · 45 评论",
+            "title": "A Mathematician Reads the AI Future",
+            "insight": "HN 热议：25 分 · 17 评论",
             "sentiment": "neutral",
-            "comments": 45,
-            "url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
+            "comments": 17,
+            "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-10-25T13:24:39Z",
+    "updated": "2026-10-25T17:55:21Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
