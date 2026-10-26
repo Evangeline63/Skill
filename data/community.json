@@ -1,49 +1,49 @@
 {
-  "updated": "2026-10-25T22:52:21Z",
+  "updated": "2026-10-26T02:00:32Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
-      "insight": "HN 热议：351 分 · 178 评论",
+      "insight": "HN 热议：440 分 · 208 评论",
       "sentiment": "positive",
-      "comments": 178,
+      "comments": 208,
       "url": "https://lynchlab.net/llm-skin-cancer",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Gheist campaign plants secret-dumping workflows using stolen GitHub tokens",
-      "insight": "HN 热议：39 分 · 0 评论",
+      "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+      "insight": "HN 热议：151 分 · 177 评论",
       "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles",
+      "comments": 177,
+      "url": "https://minimaxir.com/2026/10/cheap-llms/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "JetBrains Thinkrail",
-      "insight": "HN 热议：144 分 · 103 评论",
+      "title": "Making the Buddha Head from Merv Whole Again",
+      "insight": "HN 热议：21 分 · 0 评论",
       "sentiment": "neutral",
-      "comments": 103,
-      "url": "https://github.com/JetBrains/thinkrail",
+      "comments": 0,
+      "url": "https://www.getty.edu/news/buddha-head-of-merv-turkmenistan-conservation/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
-      "insight": "HN 热议：175 分 · 256 评论",
+      "title": "JetBrains Thinkrail",
+      "insight": "HN 热议：184 分 · 135 评论",
       "sentiment": "neutral",
-      "comments": 256,
-      "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
+      "comments": 135,
+      "url": "https://github.com/JetBrains/thinkrail",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Making the Buddha Head from Merv Whole Again",
-      "insight": "HN 热议：4 分 · 0 评论",
+      "title": "A mathematician reads the AI future",
+      "insight": "HN 热议：54 分 · 73 评论",
       "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://www.getty.edu/news/buddha-head-of-merv-turkmenistan-conservation/",
+      "comments": 73,
+      "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/",
       "id": 5
     }
   ]
