@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-10-26T02:00:32Z",
+    "updated": "2026-10-26T08:11:33Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-10-26T02:00:32Z",
+    "updated": "2026-10-26T08:11:33Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-10-26T02:00:32Z",
+    "updated": "2026-10-26T08:11:33Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187747,
-            "stars_today": 187747,
+            "stars": 187754,
+            "stars_today": 187754,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 174559,
-            "stars_today": 174559,
+            "stars": 174593,
+            "stars_today": 174593,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 103128,
-            "stars_today": 103128,
+            "stars": 103203,
+            "stars_today": 103203,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 97227,
-            "stars_today": 97227,
+            "stars": 97228,
+            "stars_today": 97228,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 91838,
-            "stars_today": 91838,
+            "stars": 91869,
+            "stars_today": 91869,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 71902,
-            "stars_today": 71902,
+            "stars": 71960,
+            "stars_today": 71960,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-10-26T02:00:32Z",
+    "updated": "2026-10-26T08:11:33Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-10-26T02:00:32Z",
+    "updated": "2026-10-26T08:11:33Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-10-26T02:00:32Z",
+    "updated": "2026-10-26T08:11:33Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
-            "insight": "HN 热议：440 分 · 208 评论",
-            "sentiment": "positive",
-            "comments": 208,
-            "url": "https://lynchlab.net/llm-skin-cancer",
+            "title": "Microsoft Decision-1: 9B Qwen Model Launch Explained",
+            "insight": "HN 热议：38 分 · 15 评论",
+            "sentiment": "neutral",
+            "comments": 15,
+            "url": "https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-            "insight": "HN 热议：151 分 · 177 评论",
+            "title": "Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git",
+            "insight": "HN 热议：38 分 · 20 评论",
             "sentiment": "neutral",
-            "comments": 177,
-            "url": "https://minimaxir.com/2026/10/cheap-llms/",
+            "comments": 20,
+            "url": "https://adrs.systems",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Making the Buddha Head from Merv Whole Again",
-            "insight": "HN 热议：21 分 · 0 评论",
+            "title": "Cognitive Mercantilism: AI panic resembles fears of early capitalism",
+            "insight": "HN 热议：59 分 · 56 评论",
             "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://www.getty.edu/news/buddha-head-of-merv-turkmenistan-conservation/",
+            "comments": 56,
+            "url": "https://contraptions.venkateshrao.com/p/cognitive-mercantilism",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "JetBrains Thinkrail",
-            "insight": "HN 热议：184 分 · 135 评论",
-            "sentiment": "neutral",
-            "comments": 135,
-            "url": "https://github.com/JetBrains/thinkrail",
+            "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+            "insight": "HN 热议：534 分 · 234 评论",
+            "sentiment": "positive",
+            "comments": 234,
+            "url": "https://lynchlab.net/llm-skin-cancer",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "A mathematician reads the AI future",
-            "insight": "HN 热议：54 分 · 73 评论",
+            "title": "Making the Buddha Head from Merv Whole Again",
+            "insight": "HN 热议：43 分 · 0 评论",
             "sentiment": "neutral",
-            "comments": 73,
-            "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/",
+            "comments": 0,
+            "url": "https://www.getty.edu/news/buddha-head-of-merv-turkmenistan-conservation/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-10-26T02:00:32Z",
+    "updated": "2026-10-26T08:11:33Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
