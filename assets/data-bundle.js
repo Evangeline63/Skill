@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-10-26T15:33:04Z",
+    "updated": "2026-10-26T21:59:03Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-10-26T15:33:04Z",
+    "updated": "2026-10-26T21:59:03Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-10-26T15:33:04Z",
+    "updated": "2026-10-26T21:59:03Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187763,
-            "stars_today": 187763,
+            "stars": 187776,
+            "stars_today": 187776,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 174639,
-            "stars_today": 174639,
+            "stars": 174661,
+            "stars_today": 174661,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 103311,
-            "stars_today": 103311,
+            "stars": 103395,
+            "stars_today": 103395,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 97245,
-            "stars_today": 97245,
+            "stars": 97254,
+            "stars_today": 97254,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 91903,
-            "stars_today": 91903,
+            "stars": 91921,
+            "stars_today": 91921,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 72047,
-            "stars_today": 72047,
+            "stars": 72129,
+            "stars_today": 72129,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-10-26T15:33:04Z",
+    "updated": "2026-10-26T21:59:03Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-10-26T15:33:04Z",
+    "updated": "2026-10-26T21:59:03Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-10-26T15:33:04Z",
+    "updated": "2026-10-26T21:59:03Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Fixing Tool-Call Accuracy in vLLM",
-            "insight": "HN 热议：80 分 · 28 评论",
-            "sentiment": "neutral",
-            "comments": 28,
-            "url": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm",
+            "title": "GPT-6.1 Terra",
+            "insight": "HN 热议：405 分 · 255 评论",
+            "sentiment": "positive",
+            "comments": 255,
+            "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Birdwatching rewires the brain and slows cognitive decline",
-            "insight": "HN 热议：306 分 · 122 评论",
+            "title": "Anthropic S-1",
+            "insight": "HN 热议：1375 分 · 1349 评论",
             "sentiment": "positive",
-            "comments": 122,
-            "url": "https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline",
+            "comments": 1349,
+            "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Anthropic S-1",
-            "insight": "HN 热议：677 分 · 620 评论",
-            "sentiment": "positive",
-            "comments": 620,
-            "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+            "title": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
+            "insight": "HN 热议：55 分 · 16 评论",
+            "sentiment": "neutral",
+            "comments": 16,
+            "url": "https://github.com/FrigadeHQ/hob",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Brown student maps the hidden global labor powering AI",
-            "insight": "HN 热议：57 分 · 44 评论",
-            "sentiment": "neutral",
-            "comments": 44,
-            "url": "https://www.brown.edu/news/2026-10-26/ai-data-workers",
+            "title": "Blaise Pascal invented fixed route public transport (2024)",
+            "insight": "HN 热议：244 分 · 129 评论",
+            "sentiment": "positive",
+            "comments": 129,
+            "url": "https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
-            "insight": "HN 热议：634 分 · 262 评论",
+            "title": "Birdwatching rewires the brain and slows cognitive decline",
+            "insight": "HN 热议：480 分 · 184 评论",
             "sentiment": "positive",
-            "comments": 262,
-            "url": "https://lynchlab.net/llm-skin-cancer",
+            "comments": 184,
+            "url": "https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-10-26T15:33:04Z",
+    "updated": "2026-10-26T21:59:03Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
