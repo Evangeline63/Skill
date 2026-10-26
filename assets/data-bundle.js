@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-10-26T08:11:33Z",
+    "updated": "2026-10-26T15:33:04Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-10-26T08:11:33Z",
+    "updated": "2026-10-26T15:33:04Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-10-26T08:11:33Z",
+    "updated": "2026-10-26T15:33:04Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187754,
-            "stars_today": 187754,
+            "stars": 187763,
+            "stars_today": 187763,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 174593,
-            "stars_today": 174593,
+            "stars": 174639,
+            "stars_today": 174639,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 103203,
-            "stars_today": 103203,
+            "stars": 103311,
+            "stars_today": 103311,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 97228,
-            "stars_today": 97228,
+            "stars": 97245,
+            "stars_today": 97245,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 91869,
-            "stars_today": 91869,
+            "stars": 91903,
+            "stars_today": 91903,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 71960,
-            "stars_today": 71960,
+            "stars": 72047,
+            "stars_today": 72047,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-10-26T08:11:33Z",
+    "updated": "2026-10-26T15:33:04Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-10-26T08:11:33Z",
+    "updated": "2026-10-26T15:33:04Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-10-26T08:11:33Z",
+    "updated": "2026-10-26T15:33:04Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Microsoft Decision-1: 9B Qwen Model Launch Explained",
-            "insight": "HN 热议：38 分 · 15 评论",
+            "title": "Fixing Tool-Call Accuracy in vLLM",
+            "insight": "HN 热议：80 分 · 28 评论",
             "sentiment": "neutral",
-            "comments": 15,
-            "url": "https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/",
+            "comments": 28,
+            "url": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git",
-            "insight": "HN 热议：38 分 · 20 评论",
-            "sentiment": "neutral",
-            "comments": 20,
-            "url": "https://adrs.systems",
+            "title": "Birdwatching rewires the brain and slows cognitive decline",
+            "insight": "HN 热议：306 分 · 122 评论",
+            "sentiment": "positive",
+            "comments": 122,
+            "url": "https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Cognitive Mercantilism: AI panic resembles fears of early capitalism",
-            "insight": "HN 热议：59 分 · 56 评论",
-            "sentiment": "neutral",
-            "comments": 56,
-            "url": "https://contraptions.venkateshrao.com/p/cognitive-mercantilism",
+            "title": "Anthropic S-1",
+            "insight": "HN 热议：677 分 · 620 评论",
+            "sentiment": "positive",
+            "comments": 620,
+            "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
-            "insight": "HN 热议：534 分 · 234 评论",
-            "sentiment": "positive",
-            "comments": 234,
-            "url": "https://lynchlab.net/llm-skin-cancer",
+            "title": "Brown student maps the hidden global labor powering AI",
+            "insight": "HN 热议：57 分 · 44 评论",
+            "sentiment": "neutral",
+            "comments": 44,
+            "url": "https://www.brown.edu/news/2026-10-26/ai-data-workers",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Making the Buddha Head from Merv Whole Again",
-            "insight": "HN 热议：43 分 · 0 评论",
-            "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://www.getty.edu/news/buddha-head-of-merv-turkmenistan-conservation/",
+            "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+            "insight": "HN 热议：634 分 · 262 评论",
+            "sentiment": "positive",
+            "comments": 262,
+            "url": "https://lynchlab.net/llm-skin-cancer",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-10-26T08:11:33Z",
+    "updated": "2026-10-26T15:33:04Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
