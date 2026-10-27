@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-10-27T08:26:09Z",
+    "updated": "2026-10-27T14:58:21Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-10-27T08:26:09Z",
+    "updated": "2026-10-27T14:58:21Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,7 +266,7 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-10-27T08:26:09Z",
+    "updated": "2026-10-27T14:58:21Z",
     "repos": [
         {
             "rank": 1,
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 174695,
-            "stars_today": 174695,
+            "stars": 174738,
+            "stars_today": 174738,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 103531,
-            "stars_today": 103531,
+            "stars": 103603,
+            "stars_today": 103603,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 97275,
-            "stars_today": 97275,
+            "stars": 97299,
+            "stars_today": 97299,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 91970,
-            "stars_today": 91970,
+            "stars": 91998,
+            "stars_today": 91998,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 72208,
-            "stars_today": 72208,
+            "stars": 72275,
+            "stars_today": 72275,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-10-27T08:26:09Z",
+    "updated": "2026-10-27T14:58:21Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-10-27T08:26:09Z",
+    "updated": "2026-10-27T14:58:21Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-10-27T08:26:09Z",
+    "updated": "2026-10-27T14:58:21Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "The Mythical Man-Month in the Age of AI",
-            "insight": "HN 热议：66 分 · 46 评论",
+            "title": "Wikipedia's Cleanup of AI-Generated Content",
+            "insight": "HN 热议：172 分 · 79 评论",
             "sentiment": "neutral",
-            "comments": 46,
-            "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+            "comments": 79,
+            "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
-            "insight": "HN 热议：127 分 · 42 评论",
-            "sentiment": "neutral",
-            "comments": 42,
-            "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+            "title": "AI promised less work. I've never worked more",
+            "insight": "HN 热议：352 分 · 311 评论",
+            "sentiment": "positive",
+            "comments": 311,
+            "url": "https://oioannou.com/blog/ai-promised-less-work/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Anthropic S-1",
-            "insight": "HN 热议：1595 分 · 1529 评论",
-            "sentiment": "positive",
-            "comments": 1529,
-            "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+            "title": "Here Be Monsters: What Do You Still Need to Know When Agents Do the Work?",
+            "insight": "HN 热议：40 分 · 11 评论",
+            "sentiment": "neutral",
+            "comments": 11,
+            "url": "https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Blaise Pascal invented fixed route public transport (2024)",
-            "insight": "HN 热议：284 分 · 146 评论",
+            "title": "The Mythical Man-Month in the Age of AI",
+            "insight": "HN 热议：307 分 · 198 评论",
             "sentiment": "positive",
-            "comments": 146,
-            "url": "https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html",
+            "comments": 198,
+            "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "GPT-6.1 Terra",
-            "insight": "HN 热议：578 分 · 365 评论",
-            "sentiment": "positive",
-            "comments": 365,
-            "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
+            "title": "Giving chat feedback gives Anthropic your data",
+            "insight": "HN 热议：53 分 · 26 评论",
+            "sentiment": "neutral",
+            "comments": 26,
+            "url": "https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-10-27T08:26:09Z",
+    "updated": "2026-10-27T14:58:21Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
