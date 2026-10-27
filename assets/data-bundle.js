@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-10-27T02:38:12Z",
+    "updated": "2026-10-27T08:26:09Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-10-27T02:38:12Z",
+    "updated": "2026-10-27T08:26:09Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-10-27T02:38:12Z",
+    "updated": "2026-10-27T08:26:09Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187782,
-            "stars_today": 187782,
+            "stars": 187785,
+            "stars_today": 187785,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 174677,
-            "stars_today": 174677,
+            "stars": 174695,
+            "stars_today": 174695,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 103455,
-            "stars_today": 103455,
+            "stars": 103531,
+            "stars_today": 103531,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 97258,
-            "stars_today": 97258,
+            "stars": 97275,
+            "stars_today": 97275,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 91941,
-            "stars_today": 91941,
+            "stars": 91970,
+            "stars_today": 91970,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 72163,
-            "stars_today": 72163,
+            "stars": 72208,
+            "stars_today": 72208,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-10-27T02:38:12Z",
+    "updated": "2026-10-27T08:26:09Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-10-27T02:38:12Z",
+    "updated": "2026-10-27T08:26:09Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-10-27T02:38:12Z",
+    "updated": "2026-10-27T08:26:09Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
-            "insight": "HN 热议：83 分 · 22 评论",
+            "title": "The Mythical Man-Month in the Age of AI",
+            "insight": "HN 热议：66 分 · 46 评论",
             "sentiment": "neutral",
-            "comments": 22,
-            "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+            "comments": 46,
+            "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "GPT-6.1 Terra",
-            "insight": "HN 热议：519 分 · 329 评论",
-            "sentiment": "positive",
-            "comments": 329,
-            "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
+            "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+            "insight": "HN 热议：127 分 · 42 评论",
+            "sentiment": "neutral",
+            "comments": 42,
+            "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "Anthropic S-1",
-            "insight": "HN 热议：1496 分 · 1463 评论",
+            "insight": "HN 热议：1595 分 · 1529 评论",
             "sentiment": "positive",
-            "comments": 1463,
+            "comments": 1529,
             "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
             "id": 3
         },
         {
             "source": "HackerNews",
             "title": "Blaise Pascal invented fixed route public transport (2024)",
-            "insight": "HN 热议：266 分 · 136 评论",
+            "insight": "HN 热议：284 分 · 146 评论",
             "sentiment": "positive",
-            "comments": 136,
+            "comments": 146,
             "url": "https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
-            "insight": "HN 热议：123 分 · 30 评论",
-            "sentiment": "neutral",
-            "comments": 30,
-            "url": "https://github.com/FrigadeHQ/hob",
+            "title": "GPT-6.1 Terra",
+            "insight": "HN 热议：578 分 · 365 评论",
+            "sentiment": "positive",
+            "comments": 365,
+            "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-10-27T02:38:12Z",
+    "updated": "2026-10-27T08:26:09Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

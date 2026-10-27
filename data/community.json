@@ -1,49 +1,49 @@
 {
-  "updated": "2026-10-27T02:38:12Z",
+  "updated": "2026-10-27T08:26:09Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
-      "insight": "HN 热议：83 分 · 22 评论",
+      "title": "The Mythical Man-Month in the Age of AI",
+      "insight": "HN 热议：66 分 · 46 评论",
       "sentiment": "neutral",
-      "comments": 22,
-      "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+      "comments": 46,
+      "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "GPT-6.1 Terra",
-      "insight": "HN 热议：519 分 · 329 评论",
-      "sentiment": "positive",
-      "comments": 329,
-      "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
+      "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+      "insight": "HN 热议：127 分 · 42 评论",
+      "sentiment": "neutral",
+      "comments": 42,
+      "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "Anthropic S-1",
-      "insight": "HN 热议：1496 分 · 1463 评论",
+      "insight": "HN 热议：1595 分 · 1529 评论",
       "sentiment": "positive",
-      "comments": 1463,
+      "comments": 1529,
       "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "Blaise Pascal invented fixed route public transport (2024)",
-      "insight": "HN 热议：266 分 · 136 评论",
+      "insight": "HN 热议：284 分 · 146 评论",
       "sentiment": "positive",
-      "comments": 136,
+      "comments": 146,
       "url": "https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
-      "insight": "HN 热议：123 分 · 30 评论",
-      "sentiment": "neutral",
-      "comments": 30,
-      "url": "https://github.com/FrigadeHQ/hob",
+      "title": "GPT-6.1 Terra",
+      "insight": "HN 热议：578 分 · 365 评论",
+      "sentiment": "positive",
+      "comments": 365,
+      "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
       "id": 5
     }
   ]
