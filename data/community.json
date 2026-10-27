@@ -1,49 +1,49 @@
 {
-  "updated": "2026-10-26T21:59:03Z",
+  "updated": "2026-10-27T02:38:12Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "GPT-6.1 Terra",
-      "insight": "HN 热议：405 分 · 255 评论",
-      "sentiment": "positive",
-      "comments": 255,
-      "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
+      "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+      "insight": "HN 热议：83 分 · 22 评论",
+      "sentiment": "neutral",
+      "comments": 22,
+      "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Anthropic S-1",
-      "insight": "HN 热议：1375 分 · 1349 评论",
+      "title": "GPT-6.1 Terra",
+      "insight": "HN 热议：519 分 · 329 评论",
       "sentiment": "positive",
-      "comments": 1349,
-      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "comments": 329,
+      "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
-      "insight": "HN 热议：55 分 · 16 评论",
-      "sentiment": "neutral",
-      "comments": 16,
-      "url": "https://github.com/FrigadeHQ/hob",
+      "title": "Anthropic S-1",
+      "insight": "HN 热议：1496 分 · 1463 评论",
+      "sentiment": "positive",
+      "comments": 1463,
+      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "Blaise Pascal invented fixed route public transport (2024)",
-      "insight": "HN 热议：244 分 · 129 评论",
+      "insight": "HN 热议：266 分 · 136 评论",
       "sentiment": "positive",
-      "comments": 129,
+      "comments": 136,
       "url": "https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Birdwatching rewires the brain and slows cognitive decline",
-      "insight": "HN 热议：480 分 · 184 评论",
-      "sentiment": "positive",
-      "comments": 184,
-      "url": "https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline",
+      "title": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
+      "insight": "HN 热议：123 分 · 30 评论",
+      "sentiment": "neutral",
+      "comments": 30,
+      "url": "https://github.com/FrigadeHQ/hob",
       "id": 5
     }
   ]
