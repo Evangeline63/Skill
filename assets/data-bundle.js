@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-10-27T14:58:21Z",
+    "updated": "2026-10-27T19:47:16Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-10-27T14:58:21Z",
+    "updated": "2026-10-27T19:47:16Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-10-27T14:58:21Z",
+    "updated": "2026-10-27T19:47:16Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187785,
-            "stars_today": 187785,
+            "stars": 187789,
+            "stars_today": 187789,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 174738,
-            "stars_today": 174738,
+            "stars": 174780,
+            "stars_today": 174780,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 103603,
-            "stars_today": 103603,
+            "stars": 103670,
+            "stars_today": 103670,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 97299,
-            "stars_today": 97299,
+            "stars": 97305,
+            "stars_today": 97305,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 91998,
-            "stars_today": 91998,
+            "stars": 92014,
+            "stars_today": 92014,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 72275,
-            "stars_today": 72275,
+            "stars": 72317,
+            "stars_today": 72317,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-10-27T14:58:21Z",
+    "updated": "2026-10-27T19:47:16Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-10-27T14:58:21Z",
+    "updated": "2026-10-27T19:47:16Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-10-27T14:58:21Z",
+    "updated": "2026-10-27T19:47:16Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Wikipedia's Cleanup of AI-Generated Content",
-            "insight": "HN 热议：172 分 · 79 评论",
-            "sentiment": "neutral",
-            "comments": 79,
+            "insight": "HN 热议：366 分 · 169 评论",
+            "sentiment": "positive",
+            "comments": 169,
             "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "AI promised less work. I've never worked more",
-            "insight": "HN 热议：352 分 · 311 评论",
-            "sentiment": "positive",
-            "comments": 311,
-            "url": "https://oioannou.com/blog/ai-promised-less-work/",
+            "title": "PHP2Shell, LiteLLM, GitLab: Find What You Need to Patch",
+            "insight": "HN 热议：30 分 · 0 评论",
+            "sentiment": "neutral",
+            "comments": 0,
+            "url": "https://cloudsleuth.io/blog/php2shell-litellm-gitlab-find-what-you-run/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Here Be Monsters: What Do You Still Need to Know When Agents Do the Work?",
-            "insight": "HN 热议：40 分 · 11 评论",
-            "sentiment": "neutral",
-            "comments": 11,
-            "url": "https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work",
+            "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
+            "insight": "HN 热议：244 分 · 138 评论",
+            "sentiment": "positive",
+            "comments": 138,
+            "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "The Mythical Man-Month in the Age of AI",
-            "insight": "HN 热议：307 分 · 198 评论",
+            "title": "Police are using AI to pull over drivers for 'suspicious' behavior",
+            "insight": "HN 热议：244 分 · 183 评论",
             "sentiment": "positive",
-            "comments": 198,
-            "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+            "comments": 183,
+            "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Giving chat feedback gives Anthropic your data",
-            "insight": "HN 热议：53 分 · 26 评论",
+            "title": "Here be monsters: What do you still need to know when agents do the work?",
+            "insight": "HN 热议：114 分 · 41 评论",
             "sentiment": "neutral",
-            "comments": 26,
-            "url": "https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training",
+            "comments": 41,
+            "url": "https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-10-27T14:58:21Z",
+    "updated": "2026-10-27T19:47:16Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
