@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-10-28T09:03:18Z",
+    "updated": "2026-10-28T17:30:03Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-10-28T09:03:18Z",
+    "updated": "2026-10-28T17:30:03Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-10-28T09:03:18Z",
+    "updated": "2026-10-28T17:30:03Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187797,
-            "stars_today": 187797,
+            "stars": 187804,
+            "stars_today": 187804,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 174890,
-            "stars_today": 174890,
+            "stars": 174940,
+            "stars_today": 174940,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 103824,
-            "stars_today": 103824,
+            "stars": 103960,
+            "stars_today": 103960,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 97321,
-            "stars_today": 97321,
+            "stars": 97330,
+            "stars_today": 97330,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 92070,
-            "stars_today": 92070,
+            "stars": 92098,
+            "stars_today": 92098,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 72426,
-            "stars_today": 72426,
+            "stars": 72514,
+            "stars_today": 72514,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-10-28T09:03:18Z",
+    "updated": "2026-10-28T17:30:03Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-10-28T09:03:18Z",
+    "updated": "2026-10-28T17:30:03Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-10-28T09:03:18Z",
+    "updated": "2026-10-28T17:30:03Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-            "insight": "HN 热议：334 分 · 138 评论",
-            "sentiment": "positive",
-            "comments": 138,
-            "url": "https://www.brangus.io/survival-llm",
+            "title": "Gemini 4 Carbon",
+            "insight": "HN 热议：133 分 · 84 评论",
+            "sentiment": "neutral",
+            "comments": 84,
+            "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Tailscale SSH: Investigation and remediation update",
-            "insight": "HN 热议：276 分 · 144 评论",
-            "sentiment": "positive",
-            "comments": 144,
-            "url": "https://tailscale.com/ssh-investigation-update",
+            "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
+            "insight": "HN 热议：59 分 · 36 评论",
+            "sentiment": "neutral",
+            "comments": 36,
+            "url": "https://surgehq.ai/blog/dayjob-tax",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Early progress on accelerating drug development with Claude",
-            "insight": "HN 热议：220 分 · 205 评论",
-            "sentiment": "positive",
-            "comments": 205,
-            "url": "https://www.anthropic.com/research/early-progress-drug-development",
+            "title": "The Agent SDK",
+            "insight": "HN 热议：38 分 · 49 评论",
+            "sentiment": "neutral",
+            "comments": 49,
+            "url": "https://cursor.com/blog/agent-sdk",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Hex Raises $100M",
-            "insight": "HN 热议：66 分 · 50 评论",
-            "sentiment": "neutral",
-            "comments": 50,
-            "url": "https://hex.tech/blog/hex-new-era/",
+            "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
+            "insight": "HN 热议：256 分 · 291 评论",
+            "sentiment": "positive",
+            "comments": 291,
+            "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
-            "insight": "HN 热议：39 分 · 28 评论",
-            "sentiment": "neutral",
-            "comments": 28,
-            "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
+            "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+            "insight": "HN 热议：479 分 · 175 评论",
+            "sentiment": "positive",
+            "comments": 175,
+            "url": "https://www.brangus.io/survival-llm",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-10-28T09:03:18Z",
+    "updated": "2026-10-28T17:30:03Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
