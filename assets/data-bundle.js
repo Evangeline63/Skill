@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-10-28T17:30:03Z",
+    "updated": "2026-10-28T21:57:08Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-10-28T17:30:03Z",
+    "updated": "2026-10-28T21:57:08Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-10-28T17:30:03Z",
+    "updated": "2026-10-28T21:57:08Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187804,
-            "stars_today": 187804,
+            "stars": 187805,
+            "stars_today": 187805,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 174940,
-            "stars_today": 174940,
+            "stars": 174947,
+            "stars_today": 174947,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 103960,
-            "stars_today": 103960,
+            "stars": 104011,
+            "stars_today": 104011,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 97330,
-            "stars_today": 97330,
+            "stars": 97349,
+            "stars_today": 97349,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 92098,
-            "stars_today": 92098,
+            "stars": 92116,
+            "stars_today": 92116,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 72514,
-            "stars_today": 72514,
+            "stars": 72558,
+            "stars_today": 72558,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-10-28T17:30:03Z",
+    "updated": "2026-10-28T21:57:08Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-10-28T17:30:03Z",
+    "updated": "2026-10-28T21:57:08Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-10-28T17:30:03Z",
+    "updated": "2026-10-28T21:57:08Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Gemini 4 Carbon",
-            "insight": "HN 热议：133 分 · 84 评论",
-            "sentiment": "neutral",
-            "comments": 84,
+            "insight": "HN 热议：675 分 · 549 评论",
+            "sentiment": "positive",
+            "comments": 549,
             "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
-            "insight": "HN 热议：59 分 · 36 评论",
+            "insight": "HN 热议：164 分 · 93 评论",
             "sentiment": "neutral",
-            "comments": 36,
+            "comments": 93,
             "url": "https://surgehq.ai/blog/dayjob-tax",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "The Agent SDK",
-            "insight": "HN 热议：38 分 · 49 评论",
+            "title": "Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents",
+            "insight": "HN 热议：92 分 · 25 评论",
             "sentiment": "neutral",
-            "comments": 49,
-            "url": "https://cursor.com/blog/agent-sdk",
+            "comments": 25,
+            "url": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
-            "insight": "HN 热议：256 分 · 291 评论",
-            "sentiment": "positive",
-            "comments": 291,
-            "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
+            "title": "Google AI gets cagey when asked who won the 2020 elections",
+            "insight": "HN 热议：63 分 · 35 评论",
+            "sentiment": "neutral",
+            "comments": 35,
+            "url": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-            "insight": "HN 热议：479 分 · 175 评论",
-            "sentiment": "positive",
-            "comments": 175,
-            "url": "https://www.brangus.io/survival-llm",
+            "title": "The tragedy of losing your Wikipedia page",
+            "insight": "HN 热议：13 分 · 21 评论",
+            "sentiment": "neutral",
+            "comments": 21,
+            "url": "https://www.wired.com/story/the-tragedy-of-losing-your-wikipedia-page/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-10-28T17:30:03Z",
+    "updated": "2026-10-28T21:57:08Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
