@@ -1,49 +1,49 @@
 {
-  "updated": "2026-10-28T00:06:36Z",
+  "updated": "2026-10-28T09:03:18Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Tailscale SSH: Investigation and remediation update",
-      "insight": "HN 热议：169 分 · 96 评论",
-      "sentiment": "neutral",
-      "comments": 96,
-      "url": "https://tailscale.com/ssh-investigation-update",
+      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+      "insight": "HN 热议：334 分 · 138 评论",
+      "sentiment": "positive",
+      "comments": 138,
+      "url": "https://www.brangus.io/survival-llm",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-      "insight": "HN 热议：146 分 · 91 评论",
-      "sentiment": "neutral",
-      "comments": 91,
-      "url": "https://www.brangus.io/survival-llm",
+      "title": "Tailscale SSH: Investigation and remediation update",
+      "insight": "HN 热议：276 分 · 144 评论",
+      "sentiment": "positive",
+      "comments": 144,
+      "url": "https://tailscale.com/ssh-investigation-update",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "Early progress on accelerating drug development with Claude",
-      "insight": "HN 热议：90 分 · 84 评论",
-      "sentiment": "neutral",
-      "comments": 84,
+      "insight": "HN 热议：220 分 · 205 评论",
+      "sentiment": "positive",
+      "comments": 205,
       "url": "https://www.anthropic.com/research/early-progress-drug-development",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Wikipedia's Cleanup of AI-Generated Content",
-      "insight": "HN 热议：431 分 · 199 评论",
-      "sentiment": "positive",
-      "comments": 199,
-      "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+      "title": "Hex Raises $100M",
+      "insight": "HN 热议：66 分 · 50 评论",
+      "sentiment": "neutral",
+      "comments": 50,
+      "url": "https://hex.tech/blog/hex-new-era/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Hex Raises $100M",
-      "insight": "HN 热议：34 分 · 19 评论",
+      "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
+      "insight": "HN 热议：39 分 · 28 评论",
       "sentiment": "neutral",
-      "comments": 19,
-      "url": "https://hex.tech/blog/hex-new-era/",
+      "comments": 28,
+      "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
       "id": 5
     }
   ]
