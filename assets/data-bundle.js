@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-10-29T17:40:56Z",
+    "updated": "2026-10-29T22:06:18Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-10-29T17:40:56Z",
+    "updated": "2026-10-29T22:06:18Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-10-29T17:40:56Z",
+    "updated": "2026-10-29T22:06:18Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187812,
-            "stars_today": 187812,
+            "stars": 187815,
+            "stars_today": 187815,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 175057,
-            "stars_today": 175057,
+            "stars": 175084,
+            "stars_today": 175084,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 104476,
-            "stars_today": 104476,
+            "stars": 104691,
+            "stars_today": 104691,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 97383,
-            "stars_today": 97383,
+            "stars": 97388,
+            "stars_today": 97388,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 92196,
-            "stars_today": 92196,
+            "stars": 92205,
+            "stars_today": 92205,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 72722,
-            "stars_today": 72722,
+            "stars": 72748,
+            "stars_today": 72748,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-10-29T17:40:56Z",
+    "updated": "2026-10-29T22:06:18Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-10-29T17:40:56Z",
+    "updated": "2026-10-29T22:06:18Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-10-29T17:40:56Z",
+    "updated": "2026-10-29T22:06:18Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "We're releasing the weights of Mistral Large 4",
-            "insight": "HN 热议：670 分 · 169 评论",
+            "insight": "HN 热议：1046 分 · 305 评论",
             "sentiment": "positive",
-            "comments": 169,
+            "comments": 305,
             "url": "https://mistral.ai/news/mistral-large-4-oss/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Zombie stats: Where the numbers AI quotes come from",
-            "insight": "HN 热议：81 分 · 38 评论",
+            "title": "We ran AI agent swarms in Minecraft and Mindustry",
+            "insight": "HN 热议：21 分 · 7 评论",
             "sentiment": "neutral",
-            "comments": 38,
-            "url": "https://trakkr.ai/trakkr-research/zombie-stats",
+            "comments": 7,
+            "url": "https://labs.ycombinator.com/projects/games/index.html",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "LLM Voice",
-            "insight": "HN 热议：64 分 · 19 评论",
-            "sentiment": "neutral",
-            "comments": 19,
+            "insight": "HN 热议：282 分 · 152 评论",
+            "sentiment": "positive",
+            "comments": 152,
             "url": "https://martinfowler.com/bliki/LLM-Voice.html",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Chained PHP2Shell Exploit Roots 25 Servers, Including US Government Servers",
-            "insight": "HN 热议：170 分 · 79 评论",
+            "title": "IgE disruptor for food allergy with Claude-enabled antibody design [pdf]",
+            "insight": "HN 热议：25 分 · 12 评论",
             "sentiment": "neutral",
-            "comments": 79,
-            "url": "https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers",
+            "comments": 12,
+            "url": "https://divergencelabs.com/publications/ige-preprint.pdf",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
-            "insight": "HN 热议：16 分 · 8 评论",
-            "sentiment": "neutral",
-            "comments": 8,
-            "url": "https://news.ycombinator.com/item?id=50291116",
+            "title": "Chained PHP2Shell exploit roots 25 servers, including US Government servers",
+            "insight": "HN 热议：252 分 · 115 评论",
+            "sentiment": "positive",
+            "comments": 115,
+            "url": "https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-10-29T17:40:56Z",
+    "updated": "2026-10-29T22:06:18Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

@@ -1,49 +1,49 @@
 {
-  "updated": "2026-10-29T17:40:56Z",
+  "updated": "2026-10-29T22:06:18Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "We're releasing the weights of Mistral Large 4",
-      "insight": "HN 热议：670 分 · 169 评论",
+      "insight": "HN 热议：1046 分 · 305 评论",
       "sentiment": "positive",
-      "comments": 169,
+      "comments": 305,
       "url": "https://mistral.ai/news/mistral-large-4-oss/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Zombie stats: Where the numbers AI quotes come from",
-      "insight": "HN 热议：81 分 · 38 评论",
+      "title": "We ran AI agent swarms in Minecraft and Mindustry",
+      "insight": "HN 热议：21 分 · 7 评论",
       "sentiment": "neutral",
-      "comments": 38,
-      "url": "https://trakkr.ai/trakkr-research/zombie-stats",
+      "comments": 7,
+      "url": "https://labs.ycombinator.com/projects/games/index.html",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "LLM Voice",
-      "insight": "HN 热议：64 分 · 19 评论",
-      "sentiment": "neutral",
-      "comments": 19,
+      "insight": "HN 热议：282 分 · 152 评论",
+      "sentiment": "positive",
+      "comments": 152,
       "url": "https://martinfowler.com/bliki/LLM-Voice.html",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Chained PHP2Shell Exploit Roots 25 Servers, Including US Government Servers",
-      "insight": "HN 热议：170 分 · 79 评论",
+      "title": "IgE disruptor for food allergy with Claude-enabled antibody design [pdf]",
+      "insight": "HN 热议：25 分 · 12 评论",
       "sentiment": "neutral",
-      "comments": 79,
-      "url": "https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers",
+      "comments": 12,
+      "url": "https://divergencelabs.com/publications/ige-preprint.pdf",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
-      "insight": "HN 热议：16 分 · 8 评论",
-      "sentiment": "neutral",
-      "comments": 8,
-      "url": "https://news.ycombinator.com/item?id=50291116",
+      "title": "Chained PHP2Shell exploit roots 25 servers, including US Government servers",
+      "insight": "HN 热议：252 分 · 115 评论",
+      "sentiment": "positive",
+      "comments": 115,
+      "url": "https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers",
       "id": 5
     }
   ]
