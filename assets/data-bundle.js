@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-10-29T03:08:19Z",
+    "updated": "2026-10-29T11:52:10Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-10-29T03:08:19Z",
+    "updated": "2026-10-29T11:52:10Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-10-29T03:08:19Z",
+    "updated": "2026-10-29T11:52:10Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187806,
-            "stars_today": 187806,
+            "stars": 187811,
+            "stars_today": 187811,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 174964,
-            "stars_today": 174964,
+            "stars": 175019,
+            "stars_today": 175019,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 104062,
-            "stars_today": 104062,
+            "stars": 104197,
+            "stars_today": 104197,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 97358,
-            "stars_today": 97358,
+            "stars": 97382,
+            "stars_today": 97382,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 92132,
-            "stars_today": 92132,
+            "stars": 92178,
+            "stars_today": 92178,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 72592,
-            "stars_today": 72592,
+            "stars": 72663,
+            "stars_today": 72663,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-10-29T03:08:19Z",
+    "updated": "2026-10-29T11:52:10Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-10-29T03:08:19Z",
+    "updated": "2026-10-29T11:52:10Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-10-29T03:08:19Z",
+    "updated": "2026-10-29T11:52:10Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Gemini 4 Carbon",
-            "insight": "HN 热议：830 分 · 692 评论",
-            "sentiment": "positive",
-            "comments": 692,
-            "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+            "title": "The US added a record 20.2 GWh of battery storage in just 3 months",
+            "insight": "HN 热议：51 分 · 17 评论",
+            "sentiment": "neutral",
+            "comments": 17,
+            "url": "https://electrek.co/2026/08/31/the-us-added-a-record-20-2-gwh-of-battery-storage-in-just-3-months/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Nixpkgs for the Front End Impaired",
-            "insight": "HN 热议：16 分 · 3 评论",
+            "title": "Forging a Microsoft Edge Full Chain with Logic Bugs Only",
+            "insight": "HN 热议：105 分 · 19 评论",
             "sentiment": "neutral",
-            "comments": 3,
-            "url": "https://fzakaria.com/2026/10/12/nixpkgs-for-the-frontend-impaired",
+            "comments": 19,
+            "url": "https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
-            "insight": "HN 热议：211 分 · 130 评论",
+            "title": "OpenAI's agents talked to each other through the CPU Cache",
+            "insight": "HN 热议：209 分 · 117 评论",
             "sentiment": "positive",
-            "comments": 130,
-            "url": "https://surgehq.ai/blog/dayjob-tax",
+            "comments": 117,
+            "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "The Agent SDK",
-            "insight": "HN 热议：103 分 · 114 评论",
-            "sentiment": "neutral",
-            "comments": 114,
-            "url": "https://cursor.com/blog/agent-sdk",
+            "title": "Claude Code regularly sends each background agent’s transcript to its model",
+            "insight": "HN 热议：425 分 · 157 评论",
+            "sentiment": "positive",
+            "comments": 157,
+            "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Oseberg Tapestry Fragments",
-            "insight": "HN 热议：19 分 · 2 评论",
-            "sentiment": "neutral",
-            "comments": 2,
-            "url": "https://en.wikipedia.org/wiki/Oseberg_tapestry_fragments",
+            "title": "Gemini 4 Carbon",
+            "insight": "HN 热议：955 分 · 763 评论",
+            "sentiment": "positive",
+            "comments": 763,
+            "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-10-29T03:08:19Z",
+    "updated": "2026-10-29T11:52:10Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
