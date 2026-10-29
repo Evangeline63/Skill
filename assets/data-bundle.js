@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-10-28T21:57:08Z",
+    "updated": "2026-10-29T03:08:19Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-10-28T21:57:08Z",
+    "updated": "2026-10-29T03:08:19Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-10-28T21:57:08Z",
+    "updated": "2026-10-29T03:08:19Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187805,
-            "stars_today": 187805,
+            "stars": 187806,
+            "stars_today": 187806,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 174947,
-            "stars_today": 174947,
+            "stars": 174964,
+            "stars_today": 174964,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 104011,
-            "stars_today": 104011,
+            "stars": 104062,
+            "stars_today": 104062,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 97349,
-            "stars_today": 97349,
+            "stars": 97358,
+            "stars_today": 97358,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 92116,
-            "stars_today": 92116,
+            "stars": 92132,
+            "stars_today": 92132,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 72558,
-            "stars_today": 72558,
+            "stars": 72592,
+            "stars_today": 72592,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-10-28T21:57:08Z",
+    "updated": "2026-10-29T03:08:19Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-10-28T21:57:08Z",
+    "updated": "2026-10-29T03:08:19Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-10-28T21:57:08Z",
+    "updated": "2026-10-29T03:08:19Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Gemini 4 Carbon",
-            "insight": "HN 热议：675 分 · 549 评论",
+            "insight": "HN 热议：830 分 · 692 评论",
             "sentiment": "positive",
-            "comments": 549,
+            "comments": 692,
             "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
-            "insight": "HN 热议：164 分 · 93 评论",
+            "title": "Nixpkgs for the Front End Impaired",
+            "insight": "HN 热议：16 分 · 3 评论",
             "sentiment": "neutral",
-            "comments": 93,
-            "url": "https://surgehq.ai/blog/dayjob-tax",
+            "comments": 3,
+            "url": "https://fzakaria.com/2026/10/12/nixpkgs-for-the-frontend-impaired",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents",
-            "insight": "HN 热议：92 分 · 25 评论",
-            "sentiment": "neutral",
-            "comments": 25,
-            "url": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
+            "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
+            "insight": "HN 热议：211 分 · 130 评论",
+            "sentiment": "positive",
+            "comments": 130,
+            "url": "https://surgehq.ai/blog/dayjob-tax",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Google AI gets cagey when asked who won the 2020 elections",
-            "insight": "HN 热议：63 分 · 35 评论",
+            "title": "The Agent SDK",
+            "insight": "HN 热议：103 分 · 114 评论",
             "sentiment": "neutral",
-            "comments": 35,
-            "url": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
+            "comments": 114,
+            "url": "https://cursor.com/blog/agent-sdk",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "The tragedy of losing your Wikipedia page",
-            "insight": "HN 热议：13 分 · 21 评论",
+            "title": "Oseberg Tapestry Fragments",
+            "insight": "HN 热议：19 分 · 2 评论",
             "sentiment": "neutral",
-            "comments": 21,
-            "url": "https://www.wired.com/story/the-tragedy-of-losing-your-wikipedia-page/",
+            "comments": 2,
+            "url": "https://en.wikipedia.org/wiki/Oseberg_tapestry_fragments",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-10-28T21:57:08Z",
+    "updated": "2026-10-29T03:08:19Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
