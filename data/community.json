@@ -1,49 +1,49 @@
 {
-  "updated": "2026-10-29T11:52:10Z",
+  "updated": "2026-10-29T17:40:56Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "The US added a record 20.2 GWh of battery storage in just 3 months",
-      "insight": "HN 热议：51 分 · 17 评论",
-      "sentiment": "neutral",
-      "comments": 17,
-      "url": "https://electrek.co/2026/08/31/the-us-added-a-record-20-2-gwh-of-battery-storage-in-just-3-months/",
+      "title": "We're releasing the weights of Mistral Large 4",
+      "insight": "HN 热议：670 分 · 169 评论",
+      "sentiment": "positive",
+      "comments": 169,
+      "url": "https://mistral.ai/news/mistral-large-4-oss/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Forging a Microsoft Edge Full Chain with Logic Bugs Only",
-      "insight": "HN 热议：105 分 · 19 评论",
+      "title": "Zombie stats: Where the numbers AI quotes come from",
+      "insight": "HN 热议：81 分 · 38 评论",
       "sentiment": "neutral",
-      "comments": 19,
-      "url": "https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/",
+      "comments": 38,
+      "url": "https://trakkr.ai/trakkr-research/zombie-stats",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "OpenAI's agents talked to each other through the CPU Cache",
-      "insight": "HN 热议：209 分 · 117 评论",
-      "sentiment": "positive",
-      "comments": 117,
-      "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
+      "title": "LLM Voice",
+      "insight": "HN 热议：64 分 · 19 评论",
+      "sentiment": "neutral",
+      "comments": 19,
+      "url": "https://martinfowler.com/bliki/LLM-Voice.html",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Claude Code regularly sends each background agent’s transcript to its model",
-      "insight": "HN 热议：425 分 · 157 评论",
-      "sentiment": "positive",
-      "comments": 157,
-      "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+      "title": "Chained PHP2Shell Exploit Roots 25 Servers, Including US Government Servers",
+      "insight": "HN 热议：170 分 · 79 评论",
+      "sentiment": "neutral",
+      "comments": 79,
+      "url": "https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Gemini 4 Carbon",
-      "insight": "HN 热议：955 分 · 763 评论",
-      "sentiment": "positive",
-      "comments": 763,
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+      "title": "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
+      "insight": "HN 热议：16 分 · 8 评论",
+      "sentiment": "neutral",
+      "comments": 8,
+      "url": "https://news.ycombinator.com/item?id=50291116",
       "id": 5
     }
   ]
