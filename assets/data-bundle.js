@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-10-29T22:06:18Z",
+    "updated": "2026-10-30T03:12:12Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-10-29T22:06:18Z",
+    "updated": "2026-10-30T03:12:12Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-10-29T22:06:18Z",
+    "updated": "2026-10-30T03:12:12Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187815,
-            "stars_today": 187815,
+            "stars": 187820,
+            "stars_today": 187820,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,50 +282,50 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 175084,
-            "stars_today": 175084,
+            "stars": 175108,
+            "stars_today": 175108,
             "url": "https://github.com/f/prompts.chat"
         },
         {
             "rank": 3,
-            "name": "thedotmack/claude-mem",
-            "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
-            "language": "TypeScript",
-            "stars": 104691,
-            "stars_today": 104691,
-            "url": "https://github.com/thedotmack/claude-mem"
+            "name": "rasbt/LLMs-from-scratch",
+            "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+            "language": "Jupyter Notebook",
+            "stars": 107521,
+            "stars_today": 107521,
+            "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
             "rank": 4,
-            "name": "hacksider/Deep-Live-Cam",
-            "description": "real time face swap and one-click video deepfake with only a single image",
-            "language": "Python",
-            "stars": 97388,
-            "stars_today": 97388,
-            "url": "https://github.com/hacksider/Deep-Live-Cam"
+            "name": "thedotmack/claude-mem",
+            "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
+            "language": "TypeScript",
+            "stars": 104915,
+            "stars_today": 104915,
+            "url": "https://github.com/thedotmack/claude-mem"
         },
         {
             "rank": 5,
-            "name": "OpenHands/OpenHands",
-            "description": "🙌 OpenHands: AI-Driven Development",
-            "language": "TypeScript",
-            "stars": 92205,
-            "stars_today": 92205,
-            "url": "https://github.com/OpenHands/OpenHands"
+            "name": "hacksider/Deep-Live-Cam",
+            "description": "real time face swap and one-click video deepfake with only a single image",
+            "language": "Python",
+            "stars": 97391,
+            "stars_today": 97391,
+            "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
             "rank": 6,
-            "name": "usestrix/strix",
-            "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-            "language": "Python",
-            "stars": 72748,
-            "stars_today": 72748,
-            "url": "https://github.com/usestrix/strix"
+            "name": "OpenHands/OpenHands",
+            "description": "🙌 OpenHands: AI-Driven Development",
+            "language": "TypeScript",
+            "stars": 92216,
+            "stars_today": 92216,
+            "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-10-29T22:06:18Z",
+    "updated": "2026-10-30T03:12:12Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-10-29T22:06:18Z",
+    "updated": "2026-10-30T03:12:12Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-10-29T22:06:18Z",
+    "updated": "2026-10-30T03:12:12Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "We're releasing the weights of Mistral Large 4",
-            "insight": "HN 热议：1046 分 · 305 评论",
+            "insight": "HN 热议：1243 分 · 347 评论",
             "sentiment": "positive",
-            "comments": 305,
+            "comments": 347,
             "url": "https://mistral.ai/news/mistral-large-4-oss/",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "We ran AI agent swarms in Minecraft and Mindustry",
-            "insight": "HN 热议：21 分 · 7 评论",
+            "insight": "HN 热议：198 分 · 68 评论",
             "sentiment": "neutral",
-            "comments": 7,
+            "comments": 68,
             "url": "https://labs.ycombinator.com/projects/games/index.html",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "LLM Voice",
-            "insight": "HN 热议：282 分 · 152 评论",
-            "sentiment": "positive",
-            "comments": 152,
-            "url": "https://martinfowler.com/bliki/LLM-Voice.html",
+            "title": "Pico CSS is no longer maintained",
+            "insight": "HN 热议：43 分 · 12 评论",
+            "sentiment": "neutral",
+            "comments": 12,
+            "url": "https://github.com/picocss/pico/discussions/754",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "IgE disruptor for food allergy with Claude-enabled antibody design [pdf]",
-            "insight": "HN 热议：25 分 · 12 评论",
+            "title": "A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)",
+            "insight": "HN 热议：61 分 · 10 评论",
             "sentiment": "neutral",
-            "comments": 12,
-            "url": "https://divergencelabs.com/publications/ige-preprint.pdf",
+            "comments": 10,
+            "url": "https://journal.animationstudies.org/article/id/66/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Chained PHP2Shell exploit roots 25 servers, including US Government servers",
-            "insight": "HN 热议：252 分 · 115 评论",
-            "sentiment": "positive",
-            "comments": 115,
-            "url": "https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers",
+            "title": "Show HN: I Turned DOOM into a Transformer",
+            "insight": "HN 热议：55 分 · 11 评论",
+            "sentiment": "neutral",
+            "comments": 11,
+            "url": "https://github.com/mottopanikeiku/doomformer",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-10-29T22:06:18Z",
+    "updated": "2026-10-30T03:12:12Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
