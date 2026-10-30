@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-10-30T17:20:02Z",
+    "updated": "2026-10-30T21:44:04Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-10-30T17:20:02Z",
+    "updated": "2026-10-30T21:44:04Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-10-30T11:45:14Z",
+    "updated": "2026-10-30T21:44:04Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187825,
-            "stars_today": 187825,
+            "stars": 187839,
+            "stars_today": 187839,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 175173,
-            "stars_today": 175173,
+            "stars": 175269,
+            "stars_today": 175269,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 107553,
-            "stars_today": 107553,
+            "stars": 107569,
+            "stars_today": 107569,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 105319,
-            "stars_today": 105319,
+            "stars": 106085,
+            "stars_today": 106085,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 97419,
-            "stars_today": 97419,
+            "stars": 97442,
+            "stars_today": 97442,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 92253,
-            "stars_today": 92253,
+            "stars": 92282,
+            "stars_today": 92282,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-10-30T17:20:02Z",
+    "updated": "2026-10-30T21:44:04Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-10-30T17:20:02Z",
+    "updated": "2026-10-30T21:44:04Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-10-30T17:20:02Z",
+    "updated": "2026-10-30T21:44:04Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "AI Isn't Replacing SREs. It's Deskilling Them",
-            "insight": "HN 热议：192 分 · 152 评论",
-            "sentiment": "neutral",
-            "comments": 152,
-            "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+            "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+            "insight": "HN 热议：659 分 · 426 评论",
+            "sentiment": "positive",
+            "comments": 426,
+            "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
-            "insight": "HN 热议：395 分 · 366 评论",
+            "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
+            "insight": "HN 热议：222 分 · 161 评论",
             "sentiment": "positive",
-            "comments": 366,
-            "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+            "comments": 161,
+            "url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech",
-            "insight": "HN 热议：538 分 · 374 评论",
-            "sentiment": "positive",
-            "comments": 374,
-            "url": "https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead",
+            "title": "Building an AI-native engineering org",
+            "insight": "HN 热议：79 分 · 93 评论",
+            "sentiment": "neutral",
+            "comments": 93,
+            "url": "https://twitter.com/sgondala2/status/2115832070274723875",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Blockchain intelligence firms link North Korea to $6.3B hack on Binance",
-            "insight": "HN 热议：66 分 · 12 评论",
+            "title": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
+            "insight": "HN 热议：56 分 · 18 评论",
             "sentiment": "neutral",
-            "comments": 12,
-            "url": "https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance",
+            "comments": 18,
+            "url": "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "US tech stocks see sharp falls over AI cost fears",
-            "insight": "HN 热议：52 分 · 16 评论",
-            "sentiment": "neutral",
-            "comments": 16,
-            "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
+            "title": "AI isn't replacing SREs, it's deskilling them",
+            "insight": "HN 热议：422 分 · 318 评论",
+            "sentiment": "positive",
+            "comments": 318,
+            "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-10-30T17:20:02Z",
+    "updated": "2026-10-30T21:44:04Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
