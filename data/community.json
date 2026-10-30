@@ -1,49 +1,49 @@
 {
-  "updated": "2026-10-30T11:45:14Z",
+  "updated": "2026-10-30T17:20:02Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "We're releasing the weights of Mistral Large 4",
-      "insight": "HN 热议：1533 分 · 403 评论",
-      "sentiment": "positive",
-      "comments": 403,
-      "url": "https://mistral.ai/news/mistral-large-4-oss/",
+      "title": "AI Isn't Replacing SREs. It's Deskilling Them",
+      "insight": "HN 热议：192 分 · 152 评论",
+      "sentiment": "neutral",
+      "comments": 152,
+      "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Backdoors in official Claude Code extensions",
-      "insight": "HN 热议：75 分 · 9 评论",
-      "sentiment": "neutral",
-      "comments": 9,
-      "url": "https://cyberplace.social/@GossiTheDog/117528831681803563",
+      "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+      "insight": "HN 热议：395 分 · 366 评论",
+      "sentiment": "positive",
+      "comments": 366,
+      "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Anthropic hacked to deliver remote access trojan",
-      "insight": "HN 热议：68 分 · 11 评论",
-      "sentiment": "neutral",
-      "comments": 11,
-      "url": "https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2",
+      "title": "US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech",
+      "insight": "HN 热议：538 分 · 374 评论",
+      "sentiment": "positive",
+      "comments": 374,
+      "url": "https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "We ran AI agent swarms in Minecraft and Mindustry",
-      "insight": "HN 热议：309 分 · 113 评论",
-      "sentiment": "positive",
-      "comments": 113,
-      "url": "https://labs.ycombinator.com/projects/games/index.html",
+      "title": "Blockchain intelligence firms link North Korea to $6.3B hack on Binance",
+      "insight": "HN 热议：66 分 · 12 评论",
+      "sentiment": "neutral",
+      "comments": 12,
+      "url": "https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "LLM Voice",
-      "insight": "HN 热议：500 分 · 262 评论",
-      "sentiment": "positive",
-      "comments": 262,
-      "url": "https://martinfowler.com/bliki/LLM-Voice.html",
+      "title": "US tech stocks see sharp falls over AI cost fears",
+      "insight": "HN 热议：52 分 · 16 评论",
+      "sentiment": "neutral",
+      "comments": 16,
+      "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
       "id": 5
     }
   ]
