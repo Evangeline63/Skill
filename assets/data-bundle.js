@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-10-30T03:12:12Z",
+    "updated": "2026-10-30T11:45:14Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-10-30T03:12:12Z",
+    "updated": "2026-10-30T11:45:14Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-10-30T03:12:12Z",
+    "updated": "2026-10-30T11:45:14Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187820,
-            "stars_today": 187820,
+            "stars": 187825,
+            "stars_today": 187825,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 175108,
-            "stars_today": 175108,
+            "stars": 175173,
+            "stars_today": 175173,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 107521,
-            "stars_today": 107521,
+            "stars": 107553,
+            "stars_today": 107553,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 104915,
-            "stars_today": 104915,
+            "stars": 105319,
+            "stars_today": 105319,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 97391,
-            "stars_today": 97391,
+            "stars": 97419,
+            "stars_today": 97419,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 92216,
-            "stars_today": 92216,
+            "stars": 92253,
+            "stars_today": 92253,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-10-30T03:12:12Z",
+    "updated": "2026-10-30T11:45:14Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-10-30T03:12:12Z",
+    "updated": "2026-10-30T11:45:14Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-10-30T03:12:12Z",
+    "updated": "2026-10-30T11:45:14Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "We're releasing the weights of Mistral Large 4",
-            "insight": "HN 热议：1243 分 · 347 评论",
+            "insight": "HN 热议：1533 分 · 403 评论",
             "sentiment": "positive",
-            "comments": 347,
+            "comments": 403,
             "url": "https://mistral.ai/news/mistral-large-4-oss/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "We ran AI agent swarms in Minecraft and Mindustry",
-            "insight": "HN 热议：198 分 · 68 评论",
+            "title": "Backdoors in official Claude Code extensions",
+            "insight": "HN 热议：75 分 · 9 评论",
             "sentiment": "neutral",
-            "comments": 68,
-            "url": "https://labs.ycombinator.com/projects/games/index.html",
+            "comments": 9,
+            "url": "https://cyberplace.social/@GossiTheDog/117528831681803563",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Pico CSS is no longer maintained",
-            "insight": "HN 热议：43 分 · 12 评论",
+            "title": "Anthropic hacked to deliver remote access trojan",
+            "insight": "HN 热议：68 分 · 11 评论",
             "sentiment": "neutral",
-            "comments": 12,
-            "url": "https://github.com/picocss/pico/discussions/754",
+            "comments": 11,
+            "url": "https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)",
-            "insight": "HN 热议：61 分 · 10 评论",
-            "sentiment": "neutral",
-            "comments": 10,
-            "url": "https://journal.animationstudies.org/article/id/66/",
+            "title": "We ran AI agent swarms in Minecraft and Mindustry",
+            "insight": "HN 热议：309 分 · 113 评论",
+            "sentiment": "positive",
+            "comments": 113,
+            "url": "https://labs.ycombinator.com/projects/games/index.html",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: I Turned DOOM into a Transformer",
-            "insight": "HN 热议：55 分 · 11 评论",
-            "sentiment": "neutral",
-            "comments": 11,
-            "url": "https://github.com/mottopanikeiku/doomformer",
+            "title": "LLM Voice",
+            "insight": "HN 热议：500 分 · 262 评论",
+            "sentiment": "positive",
+            "comments": 262,
+            "url": "https://martinfowler.com/bliki/LLM-Voice.html",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-10-30T03:12:12Z",
+    "updated": "2026-10-30T11:45:14Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
