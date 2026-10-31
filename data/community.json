@@ -1,49 +1,49 @@
 {
-  "updated": "2026-10-31T09:08:46Z",
+  "updated": "2026-10-31T16:24:35Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
-      "insight": "HN 热议：887 分 · 523 评论",
-      "sentiment": "positive",
-      "comments": 523,
-      "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+      "title": "Malware uses LLMs to rank victims by how much they're worth",
+      "insight": "HN 热议：47 分 · 1 评论",
+      "sentiment": "neutral",
+      "comments": 1,
+      "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
-      "insight": "HN 热议：185 分 · 214 评论",
+      "title": "We Took over ChatGPT Accounts",
+      "insight": "HN 热议：190 分 · 96 评论",
       "sentiment": "neutral",
-      "comments": 214,
-      "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
+      "comments": 96,
+      "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
-      "insight": "HN 热议：302 分 · 174 评论",
+      "title": "Serbia just elected the world's brainiest parliament",
+      "insight": "HN 热议：593 分 · 343 评论",
       "sentiment": "positive",
-      "comments": 174,
-      "url": "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/",
+      "comments": 343,
+      "url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Building an AI-native engineering org",
-      "insight": "HN 热议：149 分 · 179 评论",
+      "title": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
+      "insight": "HN 热议：127 分 · 31 评论",
       "sentiment": "neutral",
-      "comments": 179,
-      "url": "https://twitter.com/sgondala2/status/2115832070274723875",
+      "comments": 31,
+      "url": "https://thedataexchange.media/leo-de-moura-lean-aws/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Sleep framework: A new way for LLMs to retain knowledge in continual learning",
-      "insight": "HN 热议：221 分 · 27 评论",
+      "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
+      "insight": "HN 热议：260 分 · 297 评论",
       "sentiment": "positive",
-      "comments": 27,
-      "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
+      "comments": 297,
+      "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
       "id": 5
     }
   ]
