@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-10-30T21:44:04Z",
+    "updated": "2026-10-31T02:57:04Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-10-30T21:44:04Z",
+    "updated": "2026-10-31T02:57:04Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-10-30T21:44:04Z",
+    "updated": "2026-10-31T02:57:04Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187839,
-            "stars_today": 187839,
+            "stars": 187840,
+            "stars_today": 187840,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 175269,
-            "stars_today": 175269,
+            "stars": 175312,
+            "stars_today": 175312,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 107569,
-            "stars_today": 107569,
+            "stars": 107570,
+            "stars_today": 107570,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 106085,
-            "stars_today": 106085,
+            "stars": 106398,
+            "stars_today": 106398,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 97442,
-            "stars_today": 97442,
+            "stars": 97448,
+            "stars_today": 97448,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 92282,
-            "stars_today": 92282,
+            "stars": 92297,
+            "stars_today": 92297,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-10-30T21:44:04Z",
+    "updated": "2026-10-31T02:57:04Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-10-30T21:44:04Z",
+    "updated": "2026-10-31T02:57:04Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-10-30T21:44:04Z",
+    "updated": "2026-10-31T02:57:04Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
-            "insight": "HN 热议：659 分 · 426 评论",
+            "insight": "HN 热议：794 分 · 499 评论",
             "sentiment": "positive",
-            "comments": 426,
+            "comments": 499,
             "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
-            "insight": "HN 热议：222 分 · 161 评论",
+            "title": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
+            "insight": "HN 热议：231 分 · 134 评论",
             "sentiment": "positive",
-            "comments": 161,
-            "url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
+            "comments": 134,
+            "url": "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Building an AI-native engineering org",
-            "insight": "HN 热议：79 分 · 93 评论",
+            "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
+            "insight": "HN 热议：117 分 · 138 评论",
             "sentiment": "neutral",
-            "comments": 93,
-            "url": "https://twitter.com/sgondala2/status/2115832070274723875",
+            "comments": 138,
+            "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
-            "insight": "HN 热议：56 分 · 18 评论",
+            "title": "Wonderful Weather: Floods and Foreboding in 17th-Century Britain",
+            "insight": "HN 热议：12 分 · 0 评论",
             "sentiment": "neutral",
-            "comments": 18,
-            "url": "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/",
+            "comments": 0,
+            "url": "https://publicdomainreview.org/essay/wonderful-weather/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "AI isn't replacing SREs, it's deskilling them",
-            "insight": "HN 热议：422 分 · 318 评论",
-            "sentiment": "positive",
-            "comments": 318,
-            "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+            "title": "Building an AI-native engineering org",
+            "insight": "HN 热议：112 分 · 152 评论",
+            "sentiment": "neutral",
+            "comments": 152,
+            "url": "https://twitter.com/sgondala2/status/2115832070274723875",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-10-30T21:44:04Z",
+    "updated": "2026-10-31T02:57:04Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
