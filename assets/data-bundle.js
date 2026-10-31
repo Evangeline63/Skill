@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-10-31T16:24:35Z",
+    "updated": "2026-10-31T20:43:58Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-10-31T16:24:35Z",
+    "updated": "2026-10-31T20:43:58Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-10-31T16:24:35Z",
+    "updated": "2026-10-31T20:43:58Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187845,
-            "stars_today": 187845,
+            "stars": 187847,
+            "stars_today": 187847,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,35 +282,35 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 175409,
-            "stars_today": 175409,
+            "stars": 175425,
+            "stars_today": 175425,
             "url": "https://github.com/f/prompts.chat"
         },
         {
             "rank": 3,
-            "name": "rasbt/LLMs-from-scratch",
-            "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
-            "language": "Jupyter Notebook",
-            "stars": 107598,
-            "stars_today": 107598,
-            "url": "https://github.com/rasbt/LLMs-from-scratch"
-        },
-        {
-            "rank": 4,
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 107331,
-            "stars_today": 107331,
+            "stars": 107657,
+            "stars_today": 107657,
             "url": "https://github.com/thedotmack/claude-mem"
+        },
+        {
+            "rank": 4,
+            "name": "rasbt/LLMs-from-scratch",
+            "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+            "language": "Jupyter Notebook",
+            "stars": 107609,
+            "stars_today": 107609,
+            "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
             "rank": 5,
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 97461,
-            "stars_today": 97461,
+            "stars": 97470,
+            "stars_today": 97470,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 92343,
-            "stars_today": 92343,
+            "stars": 92358,
+            "stars_today": 92358,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-10-31T16:24:35Z",
+    "updated": "2026-10-31T20:43:58Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-10-31T16:24:35Z",
+    "updated": "2026-10-31T20:43:58Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-10-31T16:24:35Z",
+    "updated": "2026-10-31T20:43:58Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Malware uses LLMs to rank victims by how much they're worth",
-            "insight": "HN 热议：47 分 · 1 评论",
+            "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+            "insight": "HN 热议：92 分 · 91 评论",
             "sentiment": "neutral",
-            "comments": 1,
-            "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
+            "comments": 91,
+            "url": "https://ryanmadden.net/gpt-56-beats-factorio/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "We Took over ChatGPT Accounts",
-            "insight": "HN 热议：190 分 · 96 评论",
-            "sentiment": "neutral",
-            "comments": 96,
+            "title": "Do the math: How we took over ChatGPT accounts",
+            "insight": "HN 热议：281 分 · 132 评论",
+            "sentiment": "positive",
+            "comments": 132,
             "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Serbia just elected the world's brainiest parliament",
-            "insight": "HN 热议：593 分 · 343 评论",
-            "sentiment": "positive",
-            "comments": 343,
-            "url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
+            "title": "5 years of OqtaDrive: Microdrive emulation to Sinclair Network over the internet",
+            "insight": "HN 热议：5 分 · 1 评论",
+            "sentiment": "neutral",
+            "comments": 1,
+            "url": "https://oqtadrive.org/10.other/5-years/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
-            "insight": "HN 热议：127 分 · 31 评论",
-            "sentiment": "neutral",
-            "comments": 31,
-            "url": "https://thedataexchange.media/leo-de-moura-lean-aws/",
+            "title": "Serbia just elected the world's brainiest parliament",
+            "insight": "HN 热议：741 分 · 429 评论",
+            "sentiment": "positive",
+            "comments": 429,
+            "url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
-            "insight": "HN 热议：260 分 · 297 评论",
+            "title": "Malware uses LLMs to rank victims by how much they're worth",
+            "insight": "HN 热议：208 分 · 114 评论",
             "sentiment": "positive",
-            "comments": 297,
-            "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
+            "comments": 114,
+            "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-10-31T16:24:35Z",
+    "updated": "2026-10-31T20:43:58Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
