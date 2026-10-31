@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-10-31T20:43:58Z",
+    "updated": "2026-10-31T23:49:17Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-10-31T20:43:58Z",
+    "updated": "2026-10-31T23:49:17Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-10-31T20:43:58Z",
+    "updated": "2026-10-31T23:49:17Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187847,
-            "stars_today": 187847,
+            "stars": 187848,
+            "stars_today": 187848,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "HTML",
-            "stars": 175425,
-            "stars_today": 175425,
+            "stars": 175434,
+            "stars_today": 175434,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 107657,
-            "stars_today": 107657,
+            "stars": 107821,
+            "stars_today": 107821,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 107609,
-            "stars_today": 107609,
+            "stars": 107610,
+            "stars_today": 107610,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 97470,
-            "stars_today": 97470,
+            "stars": 97471,
+            "stars_today": 97471,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 92358,
-            "stars_today": 92358,
+            "stars": 92367,
+            "stars_today": 92367,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-10-31T20:43:58Z",
+    "updated": "2026-10-31T23:49:17Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-10-31T20:43:58Z",
+    "updated": "2026-10-31T23:49:17Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-10-31T20:43:58Z",
+    "updated": "2026-10-31T23:49:17Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
-            "insight": "HN 热议：92 分 · 91 评论",
-            "sentiment": "neutral",
-            "comments": 91,
-            "url": "https://ryanmadden.net/gpt-56-beats-factorio/",
+            "title": "Do the math: How we took over ChatGPT accounts",
+            "insight": "HN 热议：297 分 · 143 评论",
+            "sentiment": "positive",
+            "comments": 143,
+            "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Do the math: How we took over ChatGPT accounts",
-            "insight": "HN 热议：281 分 · 132 评论",
-            "sentiment": "positive",
-            "comments": 132,
-            "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+            "title": "Anthropic blocks users for anything touching training larger models",
+            "insight": "HN 热议：144 分 · 49 评论",
+            "sentiment": "neutral",
+            "comments": 49,
+            "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "5 years of OqtaDrive: Microdrive emulation to Sinclair Network over the internet",
-            "insight": "HN 热议：5 分 · 1 评论",
+            "insight": "HN 热议：13 分 · 3 评论",
             "sentiment": "neutral",
-            "comments": 1,
+            "comments": 3,
             "url": "https://oqtadrive.org/10.other/5-years/",
             "id": 3
         },
         {
             "source": "HackerNews",
             "title": "Serbia just elected the world's brainiest parliament",
-            "insight": "HN 热议：741 分 · 429 评论",
+            "insight": "HN 热议：794 分 · 458 评论",
             "sentiment": "positive",
-            "comments": 429,
+            "comments": 458,
             "url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Malware uses LLMs to rank victims by how much they're worth",
-            "insight": "HN 热议：208 分 · 114 评论",
-            "sentiment": "positive",
-            "comments": 114,
-            "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
+            "title": "I post trained a model on Demoscenes",
+            "insight": "HN 热议：44 分 · 30 评论",
+            "sentiment": "neutral",
+            "comments": 30,
+            "url": "https://datavorous.com/writing/demoscener/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-10-31T20:43:58Z",
+    "updated": "2026-10-31T23:49:17Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
