@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-11-01T02:51:43Z",
+    "updated": "2026-11-01T09:50:30Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-11-01T02:51:43Z",
+    "updated": "2026-11-01T09:50:30Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,24 +266,24 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-11-01T02:51:43Z",
+    "updated": "2026-11-01T09:50:30Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187850,
-            "stars_today": 187850,
+            "stars": 187852,
+            "stars_today": 187852,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
             "rank": 2,
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
-            "language": "HTML",
-            "stars": 175441,
-            "stars_today": 175441,
+            "language": "MDX",
+            "stars": 175467,
+            "stars_today": 175467,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 107967,
-            "stars_today": 107967,
+            "stars": 108336,
+            "stars_today": 108336,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 107610,
-            "stars_today": 107610,
+            "stars": 107625,
+            "stars_today": 107625,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 97478,
-            "stars_today": 97478,
+            "stars": 97490,
+            "stars_today": 97490,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 92376,
-            "stars_today": 92376,
+            "stars": 92396,
+            "stars_today": 92396,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-11-01T02:51:43Z",
+    "updated": "2026-11-01T09:50:30Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-11-01T02:51:43Z",
+    "updated": "2026-11-01T09:50:30Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-11-01T02:51:43Z",
+    "updated": "2026-11-01T09:50:30Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Do the math: How we took over ChatGPT accounts",
-            "insight": "HN 热议：304 分 · 151 评论",
-            "sentiment": "positive",
-            "comments": 151,
-            "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+            "title": "The AI cost of JavaScript frameworks",
+            "insight": "HN 热议：64 分 · 32 评论",
+            "sentiment": "neutral",
+            "comments": 32,
+            "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "AI text watermarking and quality loss",
-            "insight": "HN 热议：25 分 · 5 评论",
+            "title": "No AI, 52 min. Build all Linux Files utils in C by Hand [video]",
+            "insight": "HN 热议：9 分 · 2 评论",
             "sentiment": "neutral",
-            "comments": 5,
-            "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
+            "comments": 2,
+            "url": "https://www.youtube.com/watch?v=gQRmSlcTq9c",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Anthropic blocks users for anything touching training larger models",
-            "insight": "HN 热议：215 分 · 122 评论",
-            "sentiment": "positive",
-            "comments": 122,
-            "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+            "title": "Japan's trains are great. Why is booking one so hard?",
+            "insight": "HN 热议：8 分 · 10 评论",
+            "sentiment": "neutral",
+            "comments": 10,
+            "url": "https://vinibrasil.com/japan-train/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Serbia just elected the world's brainiest parliament",
-            "insight": "HN 热议：822 分 · 469 评论",
-            "sentiment": "positive",
-            "comments": 469,
-            "url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
+            "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
+            "insight": "HN 热议：85 分 · 40 评论",
+            "sentiment": "neutral",
+            "comments": 40,
+            "url": "https://arxiv.org/abs/2409.02292",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
-            "insight": "HN 热议：191 分 · 45 评论",
+            "title": "ChatGPT and Codex usage limits merging",
+            "insight": "HN 热议：119 分 · 57 评论",
             "sentiment": "neutral",
-            "comments": 45,
-            "url": "https://thedataexchange.media/leo-de-moura-lean-aws/",
+            "comments": 57,
+            "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-11-01T02:51:43Z",
+    "updated": "2026-11-01T09:50:30Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
