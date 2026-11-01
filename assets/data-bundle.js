@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-11-01T17:18:18Z",
+    "updated": "2026-11-01T21:25:24Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-11-01T17:18:18Z",
+    "updated": "2026-11-01T21:25:24Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-11-01T17:18:18Z",
+    "updated": "2026-11-01T21:25:24Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187854,
-            "stars_today": 187854,
+            "stars": 187858,
+            "stars_today": 187858,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "MDX",
-            "stars": 175501,
-            "stars_today": 175501,
+            "stars": 175520,
+            "stars_today": 175520,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 108837,
-            "stars_today": 108837,
+            "stars": 109073,
+            "stars_today": 109073,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 107639,
-            "stars_today": 107639,
+            "stars": 107649,
+            "stars_today": 107649,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 97502,
-            "stars_today": 97502,
+            "stars": 97510,
+            "stars_today": 97510,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 92424,
-            "stars_today": 92424,
+            "stars": 92439,
+            "stars_today": 92439,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-11-01T17:18:18Z",
+    "updated": "2026-11-01T21:25:24Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-11-01T17:18:18Z",
+    "updated": "2026-11-01T21:25:24Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-11-01T17:18:18Z",
+    "updated": "2026-11-01T21:25:24Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Alleged Mythos Class Anthropic Checkpoint Leak",
-            "insight": "HN 热议：26 分 · 4 评论",
+            "title": "Frontier Airlines Likely Breached",
+            "insight": "HN 热议：138 分 · 39 评论",
             "sentiment": "neutral",
-            "comments": 4,
-            "url": "https://huggingface.co/burner22/numbat",
+            "comments": 39,
+            "url": "https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Anthropic's Mythos-class model allegedly leaked on Hugging Face",
-            "insight": "HN 热议：36 分 · 33 评论",
-            "sentiment": "neutral",
-            "comments": 33,
-            "url": "https://news.ycombinator.com/item?id=50326727",
+            "title": "The AI cost of JavaScript frameworks",
+            "insight": "HN 热议：258 分 · 184 评论",
+            "sentiment": "positive",
+            "comments": 184,
+            "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Frontier Airlines Likely Breached",
-            "insight": "HN 热议：8 分 · 1 评论",
+            "title": "US Jobs Pickup May Keep Fed on Track to Hike Rates Again",
+            "insight": "HN 热议：26 分 · 23 评论",
             "sentiment": "neutral",
-            "comments": 1,
-            "url": "https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/",
+            "comments": 23,
+            "url": "https://www.bloomberg.com/news/articles/2026-10-31/us-jobs-pickup-may-keep-fed-on-track-to-hike-rates-again",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Understanding Email Encryption",
-            "insight": "HN 热议：80 分 · 20 评论",
+            "title": "Understanding Email Encryption (2025)",
+            "insight": "HN 热议：113 分 · 23 评论",
             "sentiment": "neutral",
-            "comments": 20,
+            "comments": 23,
             "url": "https://www.fastmail.com/blog/email-encryption/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Domain hacks with unusual Unicode characters (2018)",
-            "insight": "HN 热议：37 分 · 31 评论",
+            "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
+            "insight": "HN 热议：172 分 · 90 评论",
             "sentiment": "neutral",
-            "comments": 31,
-            "url": "https://xn--69f31l4t57c0mag4b613h.xn--7uh4898msjaso/🆆🆃🅵/",
+            "comments": 90,
+            "url": "https://arxiv.org/abs/2409.02292",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-11-01T17:18:18Z",
+    "updated": "2026-11-01T21:25:24Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
