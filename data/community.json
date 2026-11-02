@@ -1,49 +1,49 @@
 {
-  "updated": "2026-11-02T02:58:36Z",
+  "updated": "2026-11-02T10:30:02Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "AI Can Write More of the Code. We Still Have to Engineer the System",
-      "insight": "HN 热议：34 分 · 9 评论",
+      "title": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
+      "insight": "HN 热议：41 分 · 26 评论",
       "sentiment": "neutral",
-      "comments": 9,
-      "url": "https://picon.dev/en/publications/ai-assisted-engineering/",
+      "comments": 26,
+      "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Postgres 19 is late, and it's AI's fault",
-      "insight": "HN 热议：96 分 · 69 评论",
-      "sentiment": "neutral",
-      "comments": 69,
-      "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
+      "title": "The AI cost of JavaScript frameworks",
+      "insight": "HN 热议：378 分 · 292 评论",
+      "sentiment": "positive",
+      "comments": 292,
+      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "The AI cost of JavaScript frameworks",
-      "insight": "HN 热议：312 分 · 231 评论",
-      "sentiment": "positive",
-      "comments": 231,
-      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+      "title": "Domain hacks with unusual Unicode characters (2018)",
+      "insight": "HN 热议：87 分 · 55 评论",
+      "sentiment": "neutral",
+      "comments": 55,
+      "url": "https://shkspr.mobi/blog/2018/11/domain-hacks-with-unusual-unicode-characters/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "AI fan wikis riddled with errors are muddying the waters of games culture",
-      "insight": "HN 热议：13 分 · 4 评论",
-      "sentiment": "neutral",
-      "comments": 4,
-      "url": "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture",
+      "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
+      "insight": "HN 热议：201 分 · 96 评论",
+      "sentiment": "positive",
+      "comments": 96,
+      "url": "https://arxiv.org/abs/2409.02292",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Domain hacks with unusual Unicode characters (2018)",
-      "insight": "HN 热议：58 分 · 47 评论",
+      "title": "Understanding Email Encryption (2025)",
+      "insight": "HN 热议：135 分 · 29 评论",
       "sentiment": "neutral",
-      "comments": 47,
-      "url": "https://shkspr.mobi/blog/2018/11/domain-hacks-with-unusual-unicode-characters/",
+      "comments": 29,
+      "url": "https://www.fastmail.com/blog/email-encryption/",
       "id": 5
     }
   ]

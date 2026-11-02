@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-11-02T02:58:36Z",
+    "updated": "2026-11-02T10:30:02Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-11-02T02:58:36Z",
+    "updated": "2026-11-02T10:30:02Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-11-02T02:58:36Z",
+    "updated": "2026-11-02T10:30:02Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187860,
-            "stars_today": 187860,
+            "stars": 187868,
+            "stars_today": 187868,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "MDX",
-            "stars": 175553,
-            "stars_today": 175553,
+            "stars": 175578,
+            "stars_today": 175578,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 109473,
-            "stars_today": 109473,
+            "stars": 110119,
+            "stars_today": 110119,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 107658,
-            "stars_today": 107658,
+            "stars": 107687,
+            "stars_today": 107687,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 97513,
-            "stars_today": 97513,
+            "stars": 97528,
+            "stars_today": 97528,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 92450,
-            "stars_today": 92450,
+            "stars": 92488,
+            "stars_today": 92488,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-11-02T02:58:36Z",
+    "updated": "2026-11-02T10:30:02Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-11-02T02:58:36Z",
+    "updated": "2026-11-02T10:30:02Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-11-02T02:58:36Z",
+    "updated": "2026-11-02T10:30:02Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "AI Can Write More of the Code. We Still Have to Engineer the System",
-            "insight": "HN 热议：34 分 · 9 评论",
+            "title": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
+            "insight": "HN 热议：41 分 · 26 评论",
             "sentiment": "neutral",
-            "comments": 9,
-            "url": "https://picon.dev/en/publications/ai-assisted-engineering/",
+            "comments": 26,
+            "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Postgres 19 is late, and it's AI's fault",
-            "insight": "HN 热议：96 分 · 69 评论",
-            "sentiment": "neutral",
-            "comments": 69,
-            "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
+            "title": "The AI cost of JavaScript frameworks",
+            "insight": "HN 热议：378 分 · 292 评论",
+            "sentiment": "positive",
+            "comments": 292,
+            "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "The AI cost of JavaScript frameworks",
-            "insight": "HN 热议：312 分 · 231 评论",
-            "sentiment": "positive",
-            "comments": 231,
-            "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+            "title": "Domain hacks with unusual Unicode characters (2018)",
+            "insight": "HN 热议：87 分 · 55 评论",
+            "sentiment": "neutral",
+            "comments": 55,
+            "url": "https://shkspr.mobi/blog/2018/11/domain-hacks-with-unusual-unicode-characters/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "AI fan wikis riddled with errors are muddying the waters of games culture",
-            "insight": "HN 热议：13 分 · 4 评论",
-            "sentiment": "neutral",
-            "comments": 4,
-            "url": "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture",
+            "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
+            "insight": "HN 热议：201 分 · 96 评论",
+            "sentiment": "positive",
+            "comments": 96,
+            "url": "https://arxiv.org/abs/2409.02292",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Domain hacks with unusual Unicode characters (2018)",
-            "insight": "HN 热议：58 分 · 47 评论",
+            "title": "Understanding Email Encryption (2025)",
+            "insight": "HN 热议：135 分 · 29 评论",
             "sentiment": "neutral",
-            "comments": 47,
-            "url": "https://shkspr.mobi/blog/2018/11/domain-hacks-with-unusual-unicode-characters/",
+            "comments": 29,
+            "url": "https://www.fastmail.com/blog/email-encryption/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-11-02T02:58:36Z",
+    "updated": "2026-11-02T10:30:02Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
