@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-11-02T10:30:02Z",
+    "updated": "2026-11-02T20:56:09Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-11-02T10:30:02Z",
+    "updated": "2026-11-02T20:56:09Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-11-02T10:30:02Z",
+    "updated": "2026-11-02T20:56:09Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187868,
-            "stars_today": 187868,
+            "stars": 187880,
+            "stars_today": 187880,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "MDX",
-            "stars": 175578,
-            "stars_today": 175578,
+            "stars": 175618,
+            "stars_today": 175618,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 110119,
-            "stars_today": 110119,
+            "stars": 110616,
+            "stars_today": 110616,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 107687,
-            "stars_today": 107687,
+            "stars": 107702,
+            "stars_today": 107702,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 97528,
-            "stars_today": 97528,
+            "stars": 97536,
+            "stars_today": 97536,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 92488,
-            "stars_today": 92488,
+            "stars": 92513,
+            "stars_today": 92513,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-11-02T10:30:02Z",
+    "updated": "2026-11-02T20:56:09Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-11-02T10:30:02Z",
+    "updated": "2026-11-02T20:56:09Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-11-02T10:30:02Z",
+    "updated": "2026-11-02T20:56:09Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
-            "insight": "HN 热议：41 分 · 26 评论",
+            "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
+            "insight": "HN 热议：88 分 · 55 评论",
             "sentiment": "neutral",
-            "comments": 26,
-            "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/",
+            "comments": 55,
+            "url": "https://momentic.ai/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "The AI cost of JavaScript frameworks",
-            "insight": "HN 热议：378 分 · 292 评论",
-            "sentiment": "positive",
-            "comments": 292,
-            "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+            "title": "Egoless Mathematics in the AI Era",
+            "insight": "HN 热议：51 分 · 44 评论",
+            "sentiment": "neutral",
+            "comments": 44,
+            "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Domain hacks with unusual Unicode characters (2018)",
-            "insight": "HN 热议：87 分 · 55 评论",
+            "title": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
+            "insight": "HN 热议：58 分 · 27 评论",
             "sentiment": "neutral",
-            "comments": 55,
-            "url": "https://shkspr.mobi/blog/2018/11/domain-hacks-with-unusual-unicode-characters/",
+            "comments": 27,
+            "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
-            "insight": "HN 热议：201 分 · 96 评论",
-            "sentiment": "positive",
-            "comments": 96,
-            "url": "https://arxiv.org/abs/2409.02292",
+            "title": "Anthropic reveals $900B AI spending commitments ahead of IPO",
+            "insight": "HN 热议：44 分 · 20 评论",
+            "sentiment": "neutral",
+            "comments": 20,
+            "url": "https://www.ft.com/content/4d91dbab-6fe4-45ab-beee-d77e091cb37f",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Understanding Email Encryption (2025)",
-            "insight": "HN 热议：135 分 · 29 评论",
-            "sentiment": "neutral",
-            "comments": 29,
-            "url": "https://www.fastmail.com/blog/email-encryption/",
+            "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
+            "insight": "HN 热议：225 分 · 176 评论",
+            "sentiment": "positive",
+            "comments": 176,
+            "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-11-02T10:30:02Z",
+    "updated": "2026-11-02T20:56:09Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
