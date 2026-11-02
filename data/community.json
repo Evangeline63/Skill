@@ -1,49 +1,49 @@
 {
-  "updated": "2026-11-01T21:25:24Z",
+  "updated": "2026-11-02T02:58:36Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Frontier Airlines Likely Breached",
-      "insight": "HN 热议：138 分 · 39 评论",
+      "title": "AI Can Write More of the Code. We Still Have to Engineer the System",
+      "insight": "HN 热议：34 分 · 9 评论",
       "sentiment": "neutral",
-      "comments": 39,
-      "url": "https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/",
+      "comments": 9,
+      "url": "https://picon.dev/en/publications/ai-assisted-engineering/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "The AI cost of JavaScript frameworks",
-      "insight": "HN 热议：258 分 · 184 评论",
-      "sentiment": "positive",
-      "comments": 184,
-      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+      "title": "Postgres 19 is late, and it's AI's fault",
+      "insight": "HN 热议：96 分 · 69 评论",
+      "sentiment": "neutral",
+      "comments": 69,
+      "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "US Jobs Pickup May Keep Fed on Track to Hike Rates Again",
-      "insight": "HN 热议：26 分 · 23 评论",
-      "sentiment": "neutral",
-      "comments": 23,
-      "url": "https://www.bloomberg.com/news/articles/2026-10-31/us-jobs-pickup-may-keep-fed-on-track-to-hike-rates-again",
+      "title": "The AI cost of JavaScript frameworks",
+      "insight": "HN 热议：312 分 · 231 评论",
+      "sentiment": "positive",
+      "comments": 231,
+      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Understanding Email Encryption (2025)",
-      "insight": "HN 热议：113 分 · 23 评论",
+      "title": "AI fan wikis riddled with errors are muddying the waters of games culture",
+      "insight": "HN 热议：13 分 · 4 评论",
       "sentiment": "neutral",
-      "comments": 23,
-      "url": "https://www.fastmail.com/blog/email-encryption/",
+      "comments": 4,
+      "url": "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
-      "insight": "HN 热议：172 分 · 90 评论",
+      "title": "Domain hacks with unusual Unicode characters (2018)",
+      "insight": "HN 热议：58 分 · 47 评论",
       "sentiment": "neutral",
-      "comments": 90,
-      "url": "https://arxiv.org/abs/2409.02292",
+      "comments": 47,
+      "url": "https://shkspr.mobi/blog/2018/11/domain-hacks-with-unusual-unicode-characters/",
       "id": 5
     }
   ]
