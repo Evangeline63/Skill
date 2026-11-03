@@ -1,49 +1,49 @@
 {
-  "updated": "2026-11-03T10:11:45Z",
+  "updated": "2026-11-03T18:43:29Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
-      "insight": "HN 热议：144 分 · 95 评论",
-      "sentiment": "neutral",
-      "comments": 95,
-      "url": "https://momentic.ai/",
+      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+      "insight": "HN 热议：339 分 · 113 评论",
+      "sentiment": "positive",
+      "comments": 113,
+      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Scaling Git at OpenAI",
-      "insight": "HN 热议：228 分 · 139 评论",
+      "title": "Jailbreaking my car's navigation system just so I can change the time",
+      "insight": "HN 热议：317 分 · 109 评论",
       "sentiment": "positive",
-      "comments": 139,
-      "url": "https://openai.com/index/scaling-git-at-openai/",
+      "comments": 109,
+      "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Egoless Mathematics in the AI Era",
-      "insight": "HN 热议：160 分 · 118 评论",
-      "sentiment": "neutral",
-      "comments": 118,
-      "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
+      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+      "insight": "HN 热议：240 分 · 90 评论",
+      "sentiment": "positive",
+      "comments": 90,
+      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
-      "insight": "HN 热议：353 分 · 259 评论",
+      "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
+      "insight": "HN 热议：217 分 · 72 评论",
       "sentiment": "positive",
-      "comments": 259,
-      "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
+      "comments": 72,
+      "url": "https://news.ycombinator.com/item?id=50352757",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "C64 Basic Dungeon Crawler: Stairs, Levels and Levelling Up (Part 11)",
-      "insight": "HN 热议：74 分 · 12 评论",
+      "title": "USDB: Scaling Storage for Next-Generation Recommender Systems at ByteDance",
+      "insight": "HN 热议：21 分 · 2 评论",
       "sentiment": "neutral",
-      "comments": 12,
-      "url": "https://retrogamecoders.com/c64-basic-dungeon-part11/",
+      "comments": 2,
+      "url": "https://arxiv.org/abs/2611.02618",
       "id": 5
     }
   ]

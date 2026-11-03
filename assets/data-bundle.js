@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-11-03T10:11:45Z",
+    "updated": "2026-11-03T18:43:29Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-11-03T10:11:45Z",
+    "updated": "2026-11-03T18:43:29Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-11-03T10:11:45Z",
+    "updated": "2026-11-03T18:43:29Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187886,
-            "stars_today": 187886,
+            "stars": 187885,
+            "stars_today": 187885,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "MDX",
-            "stars": 175665,
-            "stars_today": 175665,
+            "stars": 175709,
+            "stars_today": 175709,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 111204,
-            "stars_today": 111204,
+            "stars": 111659,
+            "stars_today": 111659,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 107733,
-            "stars_today": 107733,
+            "stars": 107759,
+            "stars_today": 107759,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 92554,
-            "stars_today": 92554,
+            "stars": 92584,
+            "stars_today": 92584,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 73497,
-            "stars_today": 73497,
+            "stars": 73553,
+            "stars_today": 73553,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-11-03T10:11:45Z",
+    "updated": "2026-11-03T18:43:29Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-11-03T10:11:45Z",
+    "updated": "2026-11-03T18:43:29Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-11-03T10:11:45Z",
+    "updated": "2026-11-03T18:43:29Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
-            "insight": "HN 热议：144 分 · 95 评论",
-            "sentiment": "neutral",
-            "comments": 95,
-            "url": "https://momentic.ai/",
+            "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+            "insight": "HN 热议：339 分 · 113 评论",
+            "sentiment": "positive",
+            "comments": 113,
+            "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Scaling Git at OpenAI",
-            "insight": "HN 热议：228 分 · 139 评论",
+            "title": "Jailbreaking my car's navigation system just so I can change the time",
+            "insight": "HN 热议：317 分 · 109 评论",
             "sentiment": "positive",
-            "comments": 139,
-            "url": "https://openai.com/index/scaling-git-at-openai/",
+            "comments": 109,
+            "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Egoless Mathematics in the AI Era",
-            "insight": "HN 热议：160 分 · 118 评论",
-            "sentiment": "neutral",
-            "comments": 118,
-            "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
+            "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+            "insight": "HN 热议：240 分 · 90 评论",
+            "sentiment": "positive",
+            "comments": 90,
+            "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
-            "insight": "HN 热议：353 分 · 259 评论",
+            "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
+            "insight": "HN 热议：217 分 · 72 评论",
             "sentiment": "positive",
-            "comments": 259,
-            "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
+            "comments": 72,
+            "url": "https://news.ycombinator.com/item?id=50352757",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "C64 Basic Dungeon Crawler: Stairs, Levels and Levelling Up (Part 11)",
-            "insight": "HN 热议：74 分 · 12 评论",
+            "title": "USDB: Scaling Storage for Next-Generation Recommender Systems at ByteDance",
+            "insight": "HN 热议：21 分 · 2 评论",
             "sentiment": "neutral",
-            "comments": 12,
-            "url": "https://retrogamecoders.com/c64-basic-dungeon-part11/",
+            "comments": 2,
+            "url": "https://arxiv.org/abs/2611.02618",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-11-03T10:11:45Z",
+    "updated": "2026-11-03T18:43:29Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
