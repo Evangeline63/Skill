@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-11-03T02:42:42Z",
+    "updated": "2026-11-03T10:11:45Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-11-03T02:42:42Z",
+    "updated": "2026-11-03T10:11:45Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-11-03T02:42:42Z",
+    "updated": "2026-11-03T10:11:45Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187885,
-            "stars_today": 187885,
+            "stars": 187886,
+            "stars_today": 187886,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "MDX",
-            "stars": 175637,
-            "stars_today": 175637,
+            "stars": 175665,
+            "stars_today": 175665,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 110831,
-            "stars_today": 110831,
+            "stars": 111204,
+            "stars_today": 111204,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 107716,
-            "stars_today": 107716,
+            "stars": 107733,
+            "stars_today": 107733,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 92527,
-            "stars_today": 92527,
+            "stars": 92554,
+            "stars_today": 92554,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 73426,
-            "stars_today": 73426,
+            "stars": 73497,
+            "stars_today": 73497,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-11-03T02:42:42Z",
+    "updated": "2026-11-03T10:11:45Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-11-03T02:42:42Z",
+    "updated": "2026-11-03T10:11:45Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-11-03T02:42:42Z",
+    "updated": "2026-11-03T10:11:45Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
-            "insight": "HN 热议：130 分 · 85 评论",
+            "insight": "HN 热议：144 分 · 95 评论",
             "sentiment": "neutral",
-            "comments": 85,
+            "comments": 95,
             "url": "https://momentic.ai/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
-            "insight": "HN 热议：217 分 · 144 评论",
+            "title": "Scaling Git at OpenAI",
+            "insight": "HN 热议：228 分 · 139 评论",
             "sentiment": "positive",
-            "comments": 144,
-            "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
+            "comments": 139,
+            "url": "https://openai.com/index/scaling-git-at-openai/",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "Egoless Mathematics in the AI Era",
-            "insight": "HN 热议：121 分 · 83 评论",
+            "insight": "HN 热议：160 分 · 118 评论",
             "sentiment": "neutral",
-            "comments": 83,
+            "comments": 118,
             "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "C64 Basic Dungeon Crawler: Stairs, Levels and Levelling Up (Part 11)",
-            "insight": "HN 热议：68 分 · 11 评论",
-            "sentiment": "neutral",
-            "comments": 11,
-            "url": "https://retrogamecoders.com/c64-basic-dungeon-part11/",
+            "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
+            "insight": "HN 热议：353 分 · 259 评论",
+            "sentiment": "positive",
+            "comments": 259,
+            "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
-            "insight": "HN 热议：167 分 · 126 评论",
+            "title": "C64 Basic Dungeon Crawler: Stairs, Levels and Levelling Up (Part 11)",
+            "insight": "HN 热议：74 分 · 12 评论",
             "sentiment": "neutral",
-            "comments": 126,
-            "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
+            "comments": 12,
+            "url": "https://retrogamecoders.com/c64-basic-dungeon-part11/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-11-03T02:42:42Z",
+    "updated": "2026-11-03T10:11:45Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
