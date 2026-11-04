@@ -1,49 +1,49 @@
 {
-  "updated": "2026-11-03T18:43:29Z",
+  "updated": "2026-11-04T00:56:45Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
-      "insight": "HN 热议：339 分 · 113 评论",
-      "sentiment": "positive",
-      "comments": 113,
-      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+      "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+      "insight": "HN 热议：198 分 · 31 评论",
+      "sentiment": "neutral",
+      "comments": 31,
+      "url": "https://arxiv.org/abs/2605.29713",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "Jailbreaking my car's navigation system just so I can change the time",
-      "insight": "HN 热议：317 分 · 109 评论",
+      "insight": "HN 热议：591 分 · 238 评论",
       "sentiment": "positive",
-      "comments": 109,
+      "comments": 238,
       "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
-      "insight": "HN 热议：240 分 · 90 评论",
+      "insight": "HN 热议：369 分 · 155 评论",
       "sentiment": "positive",
-      "comments": 90,
+      "comments": 155,
       "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
-      "insight": "HN 热议：217 分 · 72 评论",
-      "sentiment": "positive",
-      "comments": 72,
-      "url": "https://news.ycombinator.com/item?id=50352757",
+      "title": "macOS 27 does not support CoreStorage volumes",
+      "insight": "HN 热议：96 分 · 57 评论",
+      "sentiment": "neutral",
+      "comments": 57,
+      "url": "https://wadetregaskis.com/macos-27-golden-gate-does-not-actually-support-corestorage-or-hfs-volumes/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "USDB: Scaling Storage for Next-Generation Recommender Systems at ByteDance",
-      "insight": "HN 热议：21 分 · 2 评论",
+      "title": "Show HN: Kairos – Open-source risk and fraud decisioning platform",
+      "insight": "HN 热议：48 分 · 5 评论",
       "sentiment": "neutral",
-      "comments": 2,
-      "url": "https://arxiv.org/abs/2611.02618",
+      "comments": 5,
+      "url": "https://github.com/finic-ai/kairos",
       "id": 5
     }
   ]

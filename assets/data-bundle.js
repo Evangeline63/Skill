@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-11-03T18:43:29Z",
+    "updated": "2026-11-04T00:56:45Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-11-03T18:43:29Z",
+    "updated": "2026-11-04T00:56:45Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-11-03T18:43:29Z",
+    "updated": "2026-11-04T00:56:45Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187885,
-            "stars_today": 187885,
+            "stars": 187889,
+            "stars_today": 187889,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "MDX",
-            "stars": 175709,
-            "stars_today": 175709,
+            "stars": 175734,
+            "stars_today": 175734,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 111659,
-            "stars_today": 111659,
+            "stars": 111905,
+            "stars_today": 111905,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 107759,
-            "stars_today": 107759,
+            "stars": 107770,
+            "stars_today": 107770,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 92584,
-            "stars_today": 92584,
+            "stars": 92592,
+            "stars_today": 92592,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 73553,
-            "stars_today": 73553,
+            "stars": 73599,
+            "stars_today": 73599,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-11-03T18:43:29Z",
+    "updated": "2026-11-04T00:56:45Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-11-03T18:43:29Z",
+    "updated": "2026-11-04T00:56:45Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-11-03T18:43:29Z",
+    "updated": "2026-11-04T00:56:45Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
-            "insight": "HN 热议：339 分 · 113 评论",
-            "sentiment": "positive",
-            "comments": 113,
-            "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+            "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+            "insight": "HN 热议：198 分 · 31 评论",
+            "sentiment": "neutral",
+            "comments": 31,
+            "url": "https://arxiv.org/abs/2605.29713",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "Jailbreaking my car's navigation system just so I can change the time",
-            "insight": "HN 热议：317 分 · 109 评论",
+            "insight": "HN 热议：591 分 · 238 评论",
             "sentiment": "positive",
-            "comments": 109,
+            "comments": 238,
             "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
-            "insight": "HN 热议：240 分 · 90 评论",
+            "insight": "HN 热议：369 分 · 155 评论",
             "sentiment": "positive",
-            "comments": 90,
+            "comments": 155,
             "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
-            "insight": "HN 热议：217 分 · 72 评论",
-            "sentiment": "positive",
-            "comments": 72,
-            "url": "https://news.ycombinator.com/item?id=50352757",
+            "title": "macOS 27 does not support CoreStorage volumes",
+            "insight": "HN 热议：96 分 · 57 评论",
+            "sentiment": "neutral",
+            "comments": 57,
+            "url": "https://wadetregaskis.com/macos-27-golden-gate-does-not-actually-support-corestorage-or-hfs-volumes/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "USDB: Scaling Storage for Next-Generation Recommender Systems at ByteDance",
-            "insight": "HN 热议：21 分 · 2 评论",
+            "title": "Show HN: Kairos – Open-source risk and fraud decisioning platform",
+            "insight": "HN 热议：48 分 · 5 评论",
             "sentiment": "neutral",
-            "comments": 2,
-            "url": "https://arxiv.org/abs/2611.02618",
+            "comments": 5,
+            "url": "https://github.com/finic-ai/kairos",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-11-03T18:43:29Z",
+    "updated": "2026-11-04T00:56:45Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
