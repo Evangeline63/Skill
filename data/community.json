@@ -1,49 +1,49 @@
 {
-  "updated": "2026-11-04T10:01:46Z",
+  "updated": "2026-11-04T18:56:56Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Jailbreaking my car's navigation system just so I can change the time",
-      "insight": "HN 热议：811 分 · 321 评论",
+      "title": "AI is forcing us to pay off 40 years of technical debt",
+      "insight": "HN 热议：768 分 · 472 评论",
       "sentiment": "positive",
-      "comments": 321,
-      "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
+      "comments": 472,
+      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
-      "insight": "HN 热议：63 分 · 20 评论",
+      "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
+      "insight": "HN 热议：18 分 · 16 评论",
       "sentiment": "neutral",
-      "comments": 20,
-      "url": "https://uncracked.city",
+      "comments": 16,
+      "url": "https://news.ycombinator.com/item?id=50368804",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
-      "insight": "HN 热议：472 分 · 194 评论",
+      "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+      "insight": "HN 热议：504 分 · 134 评论",
       "sentiment": "positive",
-      "comments": 194,
-      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+      "comments": 134,
+      "url": "https://news.ycombinator.com/item?id=50363461",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "How I use AI (Oct 2026)",
-      "insight": "HN 热议：172 分 · 162 评论",
+      "title": "Pierre Computer is being acquired by OpenAI",
+      "insight": "HN 热议：71 分 · 29 评论",
       "sentiment": "neutral",
-      "comments": 162,
-      "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
+      "comments": 29,
+      "url": "https://twitter.com/pierrecomputer/status/2117999036175188183",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
-      "insight": "HN 热议：1275 分 · 429 评论",
-      "sentiment": "positive",
-      "comments": 429,
-      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+      "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
+      "insight": "HN 热议：119 分 · 60 评论",
+      "sentiment": "neutral",
+      "comments": 60,
+      "url": "https://uncracked.city",
       "id": 5
     }
   ]

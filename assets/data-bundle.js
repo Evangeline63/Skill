@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-11-04T10:01:46Z",
+    "updated": "2026-11-04T18:56:56Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-11-04T10:01:46Z",
+    "updated": "2026-11-04T18:56:56Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-11-04T10:01:46Z",
+    "updated": "2026-11-04T18:56:56Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187891,
-            "stars_today": 187891,
+            "stars": 187901,
+            "stars_today": 187901,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "MDX",
-            "stars": 175750,
-            "stars_today": 175750,
+            "stars": 175799,
+            "stars_today": 175799,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 112355,
-            "stars_today": 112355,
+            "stars": 112660,
+            "stars_today": 112660,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 107791,
-            "stars_today": 107791,
+            "stars": 107817,
+            "stars_today": 107817,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 92613,
-            "stars_today": 92613,
+            "stars": 92648,
+            "stars_today": 92648,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 73658,
-            "stars_today": 73658,
+            "stars": 73742,
+            "stars_today": 73742,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-11-04T10:01:46Z",
+    "updated": "2026-11-04T18:56:56Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-11-04T10:01:46Z",
+    "updated": "2026-11-04T18:56:56Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-11-04T10:01:46Z",
+    "updated": "2026-11-04T18:56:56Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Jailbreaking my car's navigation system just so I can change the time",
-            "insight": "HN 热议：811 分 · 321 评论",
+            "title": "AI is forcing us to pay off 40 years of technical debt",
+            "insight": "HN 热议：768 分 · 472 评论",
             "sentiment": "positive",
-            "comments": 321,
-            "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
+            "comments": 472,
+            "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
-            "insight": "HN 热议：63 分 · 20 评论",
+            "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
+            "insight": "HN 热议：18 分 · 16 评论",
             "sentiment": "neutral",
-            "comments": 20,
-            "url": "https://uncracked.city",
+            "comments": 16,
+            "url": "https://news.ycombinator.com/item?id=50368804",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
-            "insight": "HN 热议：472 分 · 194 评论",
+            "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+            "insight": "HN 热议：504 分 · 134 评论",
             "sentiment": "positive",
-            "comments": 194,
-            "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+            "comments": 134,
+            "url": "https://news.ycombinator.com/item?id=50363461",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "How I use AI (Oct 2026)",
-            "insight": "HN 热议：172 分 · 162 评论",
+            "title": "Pierre Computer is being acquired by OpenAI",
+            "insight": "HN 热议：71 分 · 29 评论",
             "sentiment": "neutral",
-            "comments": 162,
-            "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
+            "comments": 29,
+            "url": "https://twitter.com/pierrecomputer/status/2117999036175188183",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
-            "insight": "HN 热议：1275 分 · 429 评论",
-            "sentiment": "positive",
-            "comments": 429,
-            "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+            "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
+            "insight": "HN 热议：119 分 · 60 评论",
+            "sentiment": "neutral",
+            "comments": 60,
+            "url": "https://uncracked.city",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-11-04T10:01:46Z",
+    "updated": "2026-11-04T18:56:56Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
