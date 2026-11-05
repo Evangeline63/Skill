@@ -1,49 +1,49 @@
 {
-  "updated": "2026-11-05T09:58:06Z",
+  "updated": "2026-11-05T19:08:26Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Baidu dropped ERNIE 5.5 Flash Base",
-      "insight": "HN 热议：3 分 · 1 评论",
+      "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
+      "insight": "HN 热议：26 分 · 18 评论",
       "sentiment": "neutral",
-      "comments": 1,
-      "url": "https://ernie.baidu.com/release/ernie-5-5-flash-base/",
+      "comments": 18,
+      "url": "https://github.com/rivet-dev/rivet",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
-      "insight": "HN 热议：291 分 · 106 评论",
-      "sentiment": "positive",
-      "comments": 106,
-      "url": "https://www.ricursive.com/ripple",
+      "title": "Nasdaq Sinks 5% as Investors Retreat from AI Trade After Election",
+      "insight": "HN 热议：85 分 · 56 评论",
+      "sentiment": "neutral",
+      "comments": 56,
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Future Maintenance of Mbed TLS",
-      "insight": "HN 热议：42 分 · 10 评论",
+      "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
+      "insight": "HN 热议：60 分 · 5 评论",
       "sentiment": "neutral",
-      "comments": 10,
-      "url": "https://lists.trustedfirmware.org/archives/list/mbed-tls@lists.trustedfirmware.org/thread/YPIGCB7WN6GCHOGEGKOJXUYAP7OK527W/",
+      "comments": 5,
+      "url": "https://www.linum.ai/field-notes/pjit-21k",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Ask HN: What's your current AI agentic setup?",
-      "insight": "HN 热议：329 分 · 350 评论",
-      "sentiment": "positive",
-      "comments": 350,
-      "url": "https://news.ycombinator.com/item?id=50366117",
+      "title": "Building a Multi-Agent System from Scratch: Architecture Patterns",
+      "insight": "HN 热议：41 分 · 12 评论",
+      "sentiment": "neutral",
+      "comments": 12,
+      "url": "https://kadhar.dev/blog/multi-agent-systems-from-scratch",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "AI is forcing us to pay off 40 years of technical debt",
-      "insight": "HN 热议：1182 分 · 691 评论",
-      "sentiment": "positive",
-      "comments": 691,
-      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+      "title": "MCP Explained",
+      "insight": "HN 热议：168 分 · 90 评论",
+      "sentiment": "neutral",
+      "comments": 90,
+      "url": "https://mcp-explained.com/",
       "id": 5
     }
   ]

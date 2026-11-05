@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-11-05T09:58:06Z",
+    "updated": "2026-11-05T19:08:26Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-11-05T09:58:06Z",
+    "updated": "2026-11-05T19:08:26Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-11-05T09:58:06Z",
+    "updated": "2026-11-05T19:08:26Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187907,
-            "stars_today": 187907,
+            "stars": 187912,
+            "stars_today": 187912,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "MDX",
-            "stars": 175854,
-            "stars_today": 175854,
+            "stars": 175887,
+            "stars_today": 175887,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 113217,
-            "stars_today": 113217,
+            "stars": 113444,
+            "stars_today": 113444,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 107846,
-            "stars_today": 107846,
+            "stars": 107867,
+            "stars_today": 107867,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 92696,
-            "stars_today": 92696,
+            "stars": 92731,
+            "stars_today": 92731,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 73846,
-            "stars_today": 73846,
+            "stars": 73918,
+            "stars_today": 73918,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-11-05T09:58:06Z",
+    "updated": "2026-11-05T19:08:26Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-11-05T09:58:06Z",
+    "updated": "2026-11-05T19:08:26Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-11-05T09:58:06Z",
+    "updated": "2026-11-05T19:08:26Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Baidu dropped ERNIE 5.5 Flash Base",
-            "insight": "HN 热议：3 分 · 1 评论",
+            "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
+            "insight": "HN 热议：26 分 · 18 评论",
             "sentiment": "neutral",
-            "comments": 1,
-            "url": "https://ernie.baidu.com/release/ernie-5-5-flash-base/",
+            "comments": 18,
+            "url": "https://github.com/rivet-dev/rivet",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
-            "insight": "HN 热议：291 分 · 106 评论",
-            "sentiment": "positive",
-            "comments": 106,
-            "url": "https://www.ricursive.com/ripple",
+            "title": "Nasdaq Sinks 5% as Investors Retreat from AI Trade After Election",
+            "insight": "HN 热议：85 分 · 56 评论",
+            "sentiment": "neutral",
+            "comments": 56,
+            "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Future Maintenance of Mbed TLS",
-            "insight": "HN 热议：42 分 · 10 评论",
+            "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
+            "insight": "HN 热议：60 分 · 5 评论",
             "sentiment": "neutral",
-            "comments": 10,
-            "url": "https://lists.trustedfirmware.org/archives/list/mbed-tls@lists.trustedfirmware.org/thread/YPIGCB7WN6GCHOGEGKOJXUYAP7OK527W/",
+            "comments": 5,
+            "url": "https://www.linum.ai/field-notes/pjit-21k",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Ask HN: What's your current AI agentic setup?",
-            "insight": "HN 热议：329 分 · 350 评论",
-            "sentiment": "positive",
-            "comments": 350,
-            "url": "https://news.ycombinator.com/item?id=50366117",
+            "title": "Building a Multi-Agent System from Scratch: Architecture Patterns",
+            "insight": "HN 热议：41 分 · 12 评论",
+            "sentiment": "neutral",
+            "comments": 12,
+            "url": "https://kadhar.dev/blog/multi-agent-systems-from-scratch",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "AI is forcing us to pay off 40 years of technical debt",
-            "insight": "HN 热议：1182 分 · 691 评论",
-            "sentiment": "positive",
-            "comments": 691,
-            "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+            "title": "MCP Explained",
+            "insight": "HN 热议：168 分 · 90 评论",
+            "sentiment": "neutral",
+            "comments": 90,
+            "url": "https://mcp-explained.com/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-11-05T09:58:06Z",
+    "updated": "2026-11-05T19:08:26Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
