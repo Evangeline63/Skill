@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-11-05T01:06:58Z",
+    "updated": "2026-11-05T09:58:06Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-11-05T01:06:58Z",
+    "updated": "2026-11-05T09:58:06Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-11-05T01:06:58Z",
+    "updated": "2026-11-05T09:58:06Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187908,
-            "stars_today": 187908,
+            "stars": 187907,
+            "stars_today": 187907,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "MDX",
-            "stars": 175815,
-            "stars_today": 175815,
+            "stars": 175854,
+            "stars_today": 175854,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 112864,
-            "stars_today": 112864,
+            "stars": 113217,
+            "stars_today": 113217,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 107825,
-            "stars_today": 107825,
+            "stars": 107846,
+            "stars_today": 107846,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 92664,
-            "stars_today": 92664,
+            "stars": 92696,
+            "stars_today": 92696,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 73783,
-            "stars_today": 73783,
+            "stars": 73846,
+            "stars_today": 73846,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-11-05T01:06:58Z",
+    "updated": "2026-11-05T09:58:06Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-11-05T01:06:58Z",
+    "updated": "2026-11-05T09:58:06Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-11-05T01:06:58Z",
+    "updated": "2026-11-05T09:58:06Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "AI is forcing us to pay off 40 years of technical debt",
-            "insight": "HN 热议：1046 分 · 626 评论",
-            "sentiment": "positive",
-            "comments": 626,
-            "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+            "title": "Baidu dropped ERNIE 5.5 Flash Base",
+            "insight": "HN 热议：3 分 · 1 评论",
+            "sentiment": "neutral",
+            "comments": 1,
+            "url": "https://ernie.baidu.com/release/ernie-5-5-flash-base/",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
-            "insight": "HN 热议：212 分 · 75 评论",
+            "insight": "HN 热议：291 分 · 106 评论",
             "sentiment": "positive",
-            "comments": 75,
+            "comments": 106,
             "url": "https://www.ricursive.com/ripple",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
-            "insight": "HN 热议：95 分 · 41 评论",
+            "title": "Future Maintenance of Mbed TLS",
+            "insight": "HN 热议：42 分 · 10 评论",
             "sentiment": "neutral",
-            "comments": 41,
-            "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+            "comments": 10,
+            "url": "https://lists.trustedfirmware.org/archives/list/mbed-tls@lists.trustedfirmware.org/thread/YPIGCB7WN6GCHOGEGKOJXUYAP7OK527W/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
-            "insight": "HN 热议：70 分 · 26 评论",
-            "sentiment": "neutral",
-            "comments": 26,
-            "url": "https://news.ycombinator.com/item?id=50368804",
+            "title": "Ask HN: What's your current AI agentic setup?",
+            "insight": "HN 热议：329 分 · 350 评论",
+            "sentiment": "positive",
+            "comments": 350,
+            "url": "https://news.ycombinator.com/item?id=50366117",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Basically no one is using AI agents for their DoorDash orders",
-            "insight": "HN 热议：62 分 · 94 评论",
-            "sentiment": "neutral",
-            "comments": 94,
-            "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
+            "title": "AI is forcing us to pay off 40 years of technical debt",
+            "insight": "HN 热议：1182 分 · 691 评论",
+            "sentiment": "positive",
+            "comments": 691,
+            "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-11-05T01:06:58Z",
+    "updated": "2026-11-05T09:58:06Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
