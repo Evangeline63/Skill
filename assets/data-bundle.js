@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-11-06T01:13:33Z",
+    "updated": "2026-11-06T10:00:09Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-11-06T01:13:33Z",
+    "updated": "2026-11-06T10:00:09Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-11-06T01:13:33Z",
+    "updated": "2026-11-06T10:00:09Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187912,
-            "stars_today": 187912,
+            "stars": 187917,
+            "stars_today": 187917,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "MDX",
-            "stars": 175905,
-            "stars_today": 175905,
+            "stars": 175964,
+            "stars_today": 175964,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 113551,
-            "stars_today": 113551,
+            "stars": 113738,
+            "stars_today": 113738,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 107876,
-            "stars_today": 107876,
+            "stars": 107899,
+            "stars_today": 107899,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 92746,
-            "stars_today": 92746,
+            "stars": 92790,
+            "stars_today": 92790,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 73967,
-            "stars_today": 73967,
+            "stars": 74030,
+            "stars_today": 74030,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-11-06T01:13:33Z",
+    "updated": "2026-11-06T10:00:09Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-11-06T01:13:33Z",
+    "updated": "2026-11-06T10:00:09Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-11-06T01:13:33Z",
+    "updated": "2026-11-06T10:00:09Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Claude Code sends your email address to websites",
-            "insight": "HN 热议：440 分 · 155 评论",
+            "insight": "HN 热议：1135 分 · 344 评论",
             "sentiment": "positive",
-            "comments": 155,
+            "comments": 344,
             "url": "https://github.com/anthropics/claude-code/issues/107757",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "MS Paint Remote Code Execution Vulnerability",
-            "insight": "HN 热议：293 分 · 96 评论",
-            "sentiment": "positive",
-            "comments": 96,
-            "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+            "title": "App Store 2026 in numbers: AI, pricing, abandoned apps",
+            "insight": "HN 热议：29 分 · 21 评论",
+            "sentiment": "neutral",
+            "comments": 21,
+            "url": "https://obelisk.club/research/app-store-2026",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Tencent Launches Hy4, One of the Leading Open-Source AI Models",
-            "insight": "HN 热议：76 分 · 2 评论",
-            "sentiment": "neutral",
-            "comments": 2,
-            "url": "https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/",
+            "title": "MS Paint Remote Code Execution Vulnerability",
+            "insight": "HN 热议：548 分 · 198 评论",
+            "sentiment": "positive",
+            "comments": 198,
+            "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
-            "insight": "HN 热议：73 分 · 40 评论",
+            "title": "Britain to make salary disclosure in job ads mandatory",
+            "insight": "HN 热议：163 分 · 160 评论",
             "sentiment": "neutral",
-            "comments": 40,
-            "url": "https://github.com/rivet-dev/rivet",
+            "comments": 160,
+            "url": "https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
-            "insight": "HN 热议：144 分 · 14 评论",
+            "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
+            "insight": "HN 热议：96 分 · 51 评论",
             "sentiment": "neutral",
-            "comments": 14,
-            "url": "https://www.linum.ai/field-notes/pjit-21k",
+            "comments": 51,
+            "url": "https://github.com/rivet-dev/rivet",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-11-06T01:13:33Z",
+    "updated": "2026-11-06T10:00:09Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
