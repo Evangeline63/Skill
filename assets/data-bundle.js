@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-11-06T10:00:09Z",
+    "updated": "2026-11-06T18:36:03Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-11-06T10:00:09Z",
+    "updated": "2026-11-06T18:36:03Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-11-06T10:00:09Z",
+    "updated": "2026-11-06T18:36:03Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187917,
-            "stars_today": 187917,
+            "stars": 187924,
+            "stars_today": 187924,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "MDX",
-            "stars": 175964,
-            "stars_today": 175964,
+            "stars": 176020,
+            "stars_today": 176020,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 113738,
-            "stars_today": 113738,
+            "stars": 113905,
+            "stars_today": 113905,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 107899,
-            "stars_today": 107899,
+            "stars": 107920,
+            "stars_today": 107920,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 92790,
-            "stars_today": 92790,
+            "stars": 92820,
+            "stars_today": 92820,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 74030,
-            "stars_today": 74030,
+            "stars": 74102,
+            "stars_today": 74102,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-11-06T10:00:09Z",
+    "updated": "2026-11-06T18:36:03Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-11-06T10:00:09Z",
+    "updated": "2026-11-06T18:36:03Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-11-06T10:00:09Z",
+    "updated": "2026-11-06T18:36:03Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Claude Code sends your email address to websites",
-            "insight": "HN 热议：1135 分 · 344 评论",
-            "sentiment": "positive",
-            "comments": 344,
-            "url": "https://github.com/anthropics/claude-code/issues/107757",
+            "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+            "insight": "HN 热议：85 分 · 96 评论",
+            "sentiment": "neutral",
+            "comments": 96,
+            "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "App Store 2026 in numbers: AI, pricing, abandoned apps",
-            "insight": "HN 热议：29 分 · 21 评论",
-            "sentiment": "neutral",
-            "comments": 21,
-            "url": "https://obelisk.club/research/app-store-2026",
+            "title": "Gemini Omni 1.2 Flash",
+            "insight": "HN 热议：222 分 · 170 评论",
+            "sentiment": "positive",
+            "comments": 170,
+            "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "MS Paint Remote Code Execution Vulnerability",
-            "insight": "HN 热议：548 分 · 198 评论",
-            "sentiment": "positive",
-            "comments": 198,
-            "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+            "title": "Perplexity launches AI agents for work",
+            "insight": "HN 热议：8 分 · 3 评论",
+            "sentiment": "neutral",
+            "comments": 3,
+            "url": "https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Britain to make salary disclosure in job ads mandatory",
-            "insight": "HN 热议：163 分 · 160 评论",
+            "title": "Memorilla: Latent Semantic Memory for LLMs",
+            "insight": "HN 热议：8 分 · 0 评论",
             "sentiment": "neutral",
-            "comments": 160,
-            "url": "https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/",
+            "comments": 0,
+            "url": "https://arxiv.org/abs/2610.21375",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
-            "insight": "HN 热议：96 分 · 51 评论",
+            "title": "Anthropic IPO valuation talks drop to $1.3T",
+            "insight": "HN 热议：67 分 · 48 评论",
             "sentiment": "neutral",
-            "comments": 51,
-            "url": "https://github.com/rivet-dev/rivet",
+            "comments": 48,
+            "url": "https://epyhia.com/anthropic-ipo-valuation-talks-drop-to-1-3-trillion-as-major-investors",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-11-06T10:00:09Z",
+    "updated": "2026-11-06T18:36:03Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
