@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-11-05T19:08:26Z",
+    "updated": "2026-11-06T01:13:33Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-11-05T19:08:26Z",
+    "updated": "2026-11-06T01:13:33Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,7 +266,7 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-11-05T19:08:26Z",
+    "updated": "2026-11-06T01:13:33Z",
     "repos": [
         {
             "rank": 1,
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "MDX",
-            "stars": 175887,
-            "stars_today": 175887,
+            "stars": 175905,
+            "stars_today": 175905,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 113444,
-            "stars_today": 113444,
+            "stars": 113551,
+            "stars_today": 113551,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 107867,
-            "stars_today": 107867,
+            "stars": 107876,
+            "stars_today": 107876,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 92731,
-            "stars_today": 92731,
+            "stars": 92746,
+            "stars_today": 92746,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 73918,
-            "stars_today": 73918,
+            "stars": 73967,
+            "stars_today": 73967,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-11-05T19:08:26Z",
+    "updated": "2026-11-06T01:13:33Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-11-05T19:08:26Z",
+    "updated": "2026-11-06T01:13:33Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-11-05T19:08:26Z",
+    "updated": "2026-11-06T01:13:33Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
-            "insight": "HN 热议：26 分 · 18 评论",
-            "sentiment": "neutral",
-            "comments": 18,
-            "url": "https://github.com/rivet-dev/rivet",
+            "title": "Claude Code sends your email address to websites",
+            "insight": "HN 热议：440 分 · 155 评论",
+            "sentiment": "positive",
+            "comments": 155,
+            "url": "https://github.com/anthropics/claude-code/issues/107757",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Nasdaq Sinks 5% as Investors Retreat from AI Trade After Election",
-            "insight": "HN 热议：85 分 · 56 评论",
-            "sentiment": "neutral",
-            "comments": 56,
-            "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026",
+            "title": "MS Paint Remote Code Execution Vulnerability",
+            "insight": "HN 热议：293 分 · 96 评论",
+            "sentiment": "positive",
+            "comments": 96,
+            "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
-            "insight": "HN 热议：60 分 · 5 评论",
+            "title": "Tencent Launches Hy4, One of the Leading Open-Source AI Models",
+            "insight": "HN 热议：76 分 · 2 评论",
             "sentiment": "neutral",
-            "comments": 5,
-            "url": "https://www.linum.ai/field-notes/pjit-21k",
+            "comments": 2,
+            "url": "https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Building a Multi-Agent System from Scratch: Architecture Patterns",
-            "insight": "HN 热议：41 分 · 12 评论",
+            "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
+            "insight": "HN 热议：73 分 · 40 评论",
             "sentiment": "neutral",
-            "comments": 12,
-            "url": "https://kadhar.dev/blog/multi-agent-systems-from-scratch",
+            "comments": 40,
+            "url": "https://github.com/rivet-dev/rivet",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "MCP Explained",
-            "insight": "HN 热议：168 分 · 90 评论",
+            "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
+            "insight": "HN 热议：144 分 · 14 评论",
             "sentiment": "neutral",
-            "comments": 90,
-            "url": "https://mcp-explained.com/",
+            "comments": 14,
+            "url": "https://www.linum.ai/field-notes/pjit-21k",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-11-05T19:08:26Z",
+    "updated": "2026-11-06T01:13:33Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

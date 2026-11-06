@@ -1,49 +1,49 @@
 {
-  "updated": "2026-11-05T19:08:26Z",
+  "updated": "2026-11-06T01:13:33Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
-      "insight": "HN 热议：26 分 · 18 评论",
-      "sentiment": "neutral",
-      "comments": 18,
-      "url": "https://github.com/rivet-dev/rivet",
+      "title": "Claude Code sends your email address to websites",
+      "insight": "HN 热议：440 分 · 155 评论",
+      "sentiment": "positive",
+      "comments": 155,
+      "url": "https://github.com/anthropics/claude-code/issues/107757",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Nasdaq Sinks 5% as Investors Retreat from AI Trade After Election",
-      "insight": "HN 热议：85 分 · 56 评论",
-      "sentiment": "neutral",
-      "comments": 56,
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026",
+      "title": "MS Paint Remote Code Execution Vulnerability",
+      "insight": "HN 热议：293 分 · 96 评论",
+      "sentiment": "positive",
+      "comments": 96,
+      "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
-      "insight": "HN 热议：60 分 · 5 评论",
+      "title": "Tencent Launches Hy4, One of the Leading Open-Source AI Models",
+      "insight": "HN 热议：76 分 · 2 评论",
       "sentiment": "neutral",
-      "comments": 5,
-      "url": "https://www.linum.ai/field-notes/pjit-21k",
+      "comments": 2,
+      "url": "https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Building a Multi-Agent System from Scratch: Architecture Patterns",
-      "insight": "HN 热议：41 分 · 12 评论",
+      "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
+      "insight": "HN 热议：73 分 · 40 评论",
       "sentiment": "neutral",
-      "comments": 12,
-      "url": "https://kadhar.dev/blog/multi-agent-systems-from-scratch",
+      "comments": 40,
+      "url": "https://github.com/rivet-dev/rivet",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "MCP Explained",
-      "insight": "HN 热议：168 分 · 90 评论",
+      "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
+      "insight": "HN 热议：144 分 · 14 评论",
       "sentiment": "neutral",
-      "comments": 90,
-      "url": "https://mcp-explained.com/",
+      "comments": 14,
+      "url": "https://www.linum.ai/field-notes/pjit-21k",
       "id": 5
     }
   ]
