@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-11-07T17:03:26Z",
+    "updated": "2026-11-07T21:09:01Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-11-07T17:03:26Z",
+    "updated": "2026-11-07T21:09:01Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,7 +266,7 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-11-07T17:03:26Z",
+    "updated": "2026-11-07T21:09:01Z",
     "repos": [
         {
             "rank": 1,
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "MDX",
-            "stars": 176192,
-            "stars_today": 176192,
+            "stars": 176220,
+            "stars_today": 176220,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 114335,
-            "stars_today": 114335,
+            "stars": 114405,
+            "stars_today": 114405,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 107966,
-            "stars_today": 107966,
+            "stars": 107975,
+            "stars_today": 107975,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 92881,
-            "stars_today": 92881,
+            "stars": 92891,
+            "stars_today": 92891,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 74222,
-            "stars_today": 74222,
+            "stars": 74255,
+            "stars_today": 74255,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-11-07T17:03:26Z",
+    "updated": "2026-11-07T21:09:01Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-11-07T17:03:26Z",
+    "updated": "2026-11-07T21:09:01Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-11-07T17:03:26Z",
+    "updated": "2026-11-07T21:09:01Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "How Long Can Life Wait?",
-            "insight": "HN 热议：7 分 · 2 评论",
-            "sentiment": "neutral",
-            "comments": 2,
-            "url": "https://mceglowski.substack.com/p/how-long-can-life-wait",
+            "title": "The end of Microsoft Research's AI Frontiers group",
+            "insight": "HN 热议：220 分 · 121 评论",
+            "sentiment": "positive",
+            "comments": 121,
+            "url": "https://hunch.net/?p=13764006",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
-            "insight": "HN 热议：373 分 · 312 评论",
-            "sentiment": "positive",
-            "comments": 312,
-            "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
+            "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+            "insight": "HN 热议：16 分 · 1 评论",
+            "sentiment": "neutral",
+            "comments": 1,
+            "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "The Components of Agent Memory",
-            "insight": "HN 热议：107 分 · 61 评论",
+            "title": "How Long Can Life Wait?",
+            "insight": "HN 热议：90 分 · 51 评论",
             "sentiment": "neutral",
-            "comments": 61,
-            "url": "https://www.anthropic.com/research/components-of-agent-memory",
+            "comments": 51,
+            "url": "https://mceglowski.substack.com/p/how-long-can-life-wait",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "GitHub's new Git storage architecture",
-            "insight": "HN 热议：197 分 · 54 评论",
+            "title": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
+            "insight": "HN 热议：40 分 · 11 评论",
             "sentiment": "neutral",
-            "comments": 54,
-            "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
+            "comments": 11,
+            "url": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Gemini Omni 1.2 Flash",
-            "insight": "HN 热议：353 分 · 243 评论",
-            "sentiment": "positive",
-            "comments": 243,
-            "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+            "title": "The Components of Agent Memory",
+            "insight": "HN 热议：139 分 · 71 评论",
+            "sentiment": "neutral",
+            "comments": 71,
+            "url": "https://www.anthropic.com/research/components-of-agent-memory",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-11-07T17:03:26Z",
+    "updated": "2026-11-07T21:09:01Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

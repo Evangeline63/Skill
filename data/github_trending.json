@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T17:03:26Z",
+  "updated": "2026-11-07T21:09:01Z",
   "repos": [
     {
       "rank": 1,
@@ -15,8 +15,8 @@
       "name": "f/prompts.chat",
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
       "language": "MDX",
-      "stars": 176192,
-      "stars_today": 176192,
+      "stars": 176220,
+      "stars_today": 176220,
       "url": "https://github.com/f/prompts.chat"
     },
     {
@@ -24,8 +24,8 @@
       "name": "thedotmack/claude-mem",
       "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
       "language": "TypeScript",
-      "stars": 114335,
-      "stars_today": 114335,
+      "stars": 114405,
+      "stars_today": 114405,
       "url": "https://github.com/thedotmack/claude-mem"
     },
     {
@@ -33,8 +33,8 @@
       "name": "rasbt/LLMs-from-scratch",
       "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
       "language": "Jupyter Notebook",
-      "stars": 107966,
-      "stars_today": 107966,
+      "stars": 107975,
+      "stars_today": 107975,
       "url": "https://github.com/rasbt/LLMs-from-scratch"
     },
     {
@@ -42,8 +42,8 @@
       "name": "OpenHands/OpenHands",
       "description": "🙌 OpenHands: AI-Driven Development",
       "language": "TypeScript",
-      "stars": 92881,
-      "stars_today": 92881,
+      "stars": 92891,
+      "stars_today": 92891,
       "url": "https://github.com/OpenHands/OpenHands"
     },
     {
@@ -51,8 +51,8 @@
       "name": "usestrix/strix",
       "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "language": "Python",
-      "stars": 74222,
-      "stars_today": 74222,
+      "stars": 74255,
+      "stars_today": 74255,
       "url": "https://github.com/usestrix/strix"
     }
   ]
