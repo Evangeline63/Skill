@@ -1,49 +1,49 @@
 {
-  "updated": "2026-11-07T00:27:39Z",
+  "updated": "2026-11-07T09:20:47Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "ChatGPT silently passes data between connectors and the bounty wants an ID card",
-      "insight": "HN 热议：57 分 · 16 评论",
+      "title": "The Components of Agent Memory",
+      "insight": "HN 热议：30 分 · 9 评论",
       "sentiment": "neutral",
-      "comments": 16,
-      "url": "https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053",
+      "comments": 9,
+      "url": "https://www.anthropic.com/research/components-of-agent-memory",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
-      "insight": "HN 热议：263 分 · 209 评论",
+      "insight": "HN 热议：335 分 · 273 评论",
       "sentiment": "positive",
-      "comments": 209,
+      "comments": 273,
       "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
       "id": 2
     },
     {
       "source": "HackerNews",
       "title": "AI is dramatically accelerating AI research",
-      "insight": "HN 热议：173 分 · 133 评论",
-      "sentiment": "neutral",
-      "comments": 133,
+      "insight": "HN 热议：297 分 · 232 评论",
+      "sentiment": "positive",
+      "comments": 232,
       "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Restaurant Delivery Payment-Skimming Campaign",
-      "insight": "HN 热议：75 分 · 30 评论",
+      "title": "GitHub's new Git storage architecture",
+      "insight": "HN 热议：140 分 · 27 评论",
       "sentiment": "neutral",
-      "comments": 30,
-      "url": "https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming",
+      "comments": 27,
+      "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Memorilla: Latent Semantic Memory for LLMs",
-      "insight": "HN 热议：78 分 · 6 评论",
-      "sentiment": "neutral",
-      "comments": 6,
-      "url": "https://arxiv.org/abs/2610.21375",
+      "title": "Gemini Omni 1.2 Flash",
+      "insight": "HN 热议：332 分 · 228 评论",
+      "sentiment": "positive",
+      "comments": 228,
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
       "id": 5
     }
   ]
