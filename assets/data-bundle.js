@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-11-07T09:20:47Z",
+    "updated": "2026-11-07T17:03:26Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-11-07T09:20:47Z",
+    "updated": "2026-11-07T17:03:26Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,7 +266,7 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-11-07T09:20:47Z",
+    "updated": "2026-11-07T17:03:26Z",
     "repos": [
         {
             "rank": 1,
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "MDX",
-            "stars": 176117,
-            "stars_today": 176117,
+            "stars": 176192,
+            "stars_today": 176192,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 114173,
-            "stars_today": 114173,
+            "stars": 114335,
+            "stars_today": 114335,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 107945,
-            "stars_today": 107945,
+            "stars": 107966,
+            "stars_today": 107966,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 92855,
-            "stars_today": 92855,
+            "stars": 92881,
+            "stars_today": 92881,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 74173,
-            "stars_today": 74173,
+            "stars": 74222,
+            "stars_today": 74222,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-11-07T09:20:47Z",
+    "updated": "2026-11-07T17:03:26Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-11-07T09:20:47Z",
+    "updated": "2026-11-07T17:03:26Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-11-07T09:20:47Z",
+    "updated": "2026-11-07T17:03:26Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "The Components of Agent Memory",
-            "insight": "HN 热议：30 分 · 9 评论",
+            "title": "How Long Can Life Wait?",
+            "insight": "HN 热议：7 分 · 2 评论",
             "sentiment": "neutral",
-            "comments": 9,
-            "url": "https://www.anthropic.com/research/components-of-agent-memory",
+            "comments": 2,
+            "url": "https://mceglowski.substack.com/p/how-long-can-life-wait",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
-            "insight": "HN 热议：335 分 · 273 评论",
+            "insight": "HN 热议：373 分 · 312 评论",
             "sentiment": "positive",
-            "comments": 273,
+            "comments": 312,
             "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "AI is dramatically accelerating AI research",
-            "insight": "HN 热议：297 分 · 232 评论",
-            "sentiment": "positive",
-            "comments": 232,
-            "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+            "title": "The Components of Agent Memory",
+            "insight": "HN 热议：107 分 · 61 评论",
+            "sentiment": "neutral",
+            "comments": 61,
+            "url": "https://www.anthropic.com/research/components-of-agent-memory",
             "id": 3
         },
         {
             "source": "HackerNews",
             "title": "GitHub's new Git storage architecture",
-            "insight": "HN 热议：140 分 · 27 评论",
+            "insight": "HN 热议：197 分 · 54 评论",
             "sentiment": "neutral",
-            "comments": 27,
+            "comments": 54,
             "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
             "id": 4
         },
         {
             "source": "HackerNews",
             "title": "Gemini Omni 1.2 Flash",
-            "insight": "HN 热议：332 分 · 228 评论",
+            "insight": "HN 热议：353 分 · 243 评论",
             "sentiment": "positive",
-            "comments": 228,
+            "comments": 243,
             "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-11-07T09:20:47Z",
+    "updated": "2026-11-07T17:03:26Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
