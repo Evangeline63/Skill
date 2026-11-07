@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-11-06T18:36:03Z",
+    "updated": "2026-11-07T00:27:39Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-11-06T18:36:03Z",
+    "updated": "2026-11-07T00:27:39Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-11-06T18:36:03Z",
+    "updated": "2026-11-07T00:27:39Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187924,
-            "stars_today": 187924,
+            "stars": 187927,
+            "stars_today": 187927,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "MDX",
-            "stars": 176020,
-            "stars_today": 176020,
+            "stars": 176062,
+            "stars_today": 176062,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 113905,
-            "stars_today": 113905,
+            "stars": 114018,
+            "stars_today": 114018,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 107920,
-            "stars_today": 107920,
+            "stars": 107929,
+            "stars_today": 107929,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 92820,
-            "stars_today": 92820,
+            "stars": 92836,
+            "stars_today": 92836,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 74102,
-            "stars_today": 74102,
+            "stars": 74129,
+            "stars_today": 74129,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-11-06T18:36:03Z",
+    "updated": "2026-11-07T00:27:39Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-11-06T18:36:03Z",
+    "updated": "2026-11-07T00:27:39Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-11-06T18:36:03Z",
+    "updated": "2026-11-07T00:27:39Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
-            "insight": "HN 热议：85 分 · 96 评论",
+            "title": "ChatGPT silently passes data between connectors and the bounty wants an ID card",
+            "insight": "HN 热议：57 分 · 16 评论",
             "sentiment": "neutral",
-            "comments": 96,
-            "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
+            "comments": 16,
+            "url": "https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Gemini Omni 1.2 Flash",
-            "insight": "HN 热议：222 分 · 170 评论",
+            "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+            "insight": "HN 热议：263 分 · 209 评论",
             "sentiment": "positive",
-            "comments": 170,
-            "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+            "comments": 209,
+            "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Perplexity launches AI agents for work",
-            "insight": "HN 热议：8 分 · 3 评论",
+            "title": "AI is dramatically accelerating AI research",
+            "insight": "HN 热议：173 分 · 133 评论",
             "sentiment": "neutral",
-            "comments": 3,
-            "url": "https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work",
+            "comments": 133,
+            "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Memorilla: Latent Semantic Memory for LLMs",
-            "insight": "HN 热议：8 分 · 0 评论",
+            "title": "Restaurant Delivery Payment-Skimming Campaign",
+            "insight": "HN 热议：75 分 · 30 评论",
             "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://arxiv.org/abs/2610.21375",
+            "comments": 30,
+            "url": "https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Anthropic IPO valuation talks drop to $1.3T",
-            "insight": "HN 热议：67 分 · 48 评论",
+            "title": "Memorilla: Latent Semantic Memory for LLMs",
+            "insight": "HN 热议：78 分 · 6 评论",
             "sentiment": "neutral",
-            "comments": 48,
-            "url": "https://epyhia.com/anthropic-ipo-valuation-talks-drop-to-1-3-trillion-as-major-investors",
+            "comments": 6,
+            "url": "https://arxiv.org/abs/2610.21375",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-11-06T18:36:03Z",
+    "updated": "2026-11-07T00:27:39Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
