@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-11-07T21:09:01Z",
+    "updated": "2026-11-08T02:56:52Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-11-07T21:09:01Z",
+    "updated": "2026-11-08T02:56:52Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-11-07T21:09:01Z",
+    "updated": "2026-11-08T02:56:52Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187933,
-            "stars_today": 187933,
+            "stars": 187934,
+            "stars_today": 187934,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "MDX",
-            "stars": 176220,
-            "stars_today": 176220,
+            "stars": 176265,
+            "stars_today": 176265,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 114405,
-            "stars_today": 114405,
+            "stars": 114535,
+            "stars_today": 114535,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 107975,
-            "stars_today": 107975,
+            "stars": 107980,
+            "stars_today": 107980,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 92891,
-            "stars_today": 92891,
+            "stars": 92909,
+            "stars_today": 92909,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 74255,
-            "stars_today": 74255,
+            "stars": 74286,
+            "stars_today": 74286,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-11-07T21:09:01Z",
+    "updated": "2026-11-08T02:56:52Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-11-07T21:09:01Z",
+    "updated": "2026-11-08T02:56:52Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-11-07T21:09:01Z",
+    "updated": "2026-11-08T02:56:52Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "The end of Microsoft Research's AI Frontiers group",
-            "insight": "HN 热议：220 分 · 121 评论",
+            "insight": "HN 热议：405 分 · 237 评论",
             "sentiment": "positive",
-            "comments": 121,
+            "comments": 237,
             "url": "https://hunch.net/?p=13764006",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-            "insight": "HN 热议：16 分 · 1 评论",
-            "sentiment": "neutral",
-            "comments": 1,
+            "insight": "HN 热议：202 分 · 141 评论",
+            "sentiment": "positive",
+            "comments": 141,
             "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "How Long Can Life Wait?",
-            "insight": "HN 热议：90 分 · 51 评论",
+            "title": "Uranium cubes reveal why the German nuclear project failed",
+            "insight": "HN 热议：75 分 · 37 评论",
             "sentiment": "neutral",
-            "comments": 51,
-            "url": "https://mceglowski.substack.com/p/how-long-can-life-wait",
+            "comments": 37,
+            "url": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
-            "insight": "HN 热议：40 分 · 11 评论",
+            "title": "Show HN: An offline desktop companion to help maintain a healthy blink rhythm",
+            "insight": "HN 热议：28 分 · 12 评论",
             "sentiment": "neutral",
-            "comments": 11,
-            "url": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
+            "comments": 12,
+            "url": "https://eyesrhythm.com/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "The Components of Agent Memory",
-            "insight": "HN 热议：139 分 · 71 评论",
+            "title": "How Long Can Life Wait?",
+            "insight": "HN 热议：130 分 · 79 评论",
             "sentiment": "neutral",
-            "comments": 71,
-            "url": "https://www.anthropic.com/research/components-of-agent-memory",
+            "comments": 79,
+            "url": "https://mceglowski.substack.com/p/how-long-can-life-wait",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-11-07T21:09:01Z",
+    "updated": "2026-11-08T02:56:52Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
