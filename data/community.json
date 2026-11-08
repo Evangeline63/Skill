@@ -1,49 +1,49 @@
 {
-  "updated": "2026-11-08T17:17:54Z",
+  "updated": "2026-11-08T21:25:02Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-      "insight": "HN 热议：186 分 · 61 评论",
-      "sentiment": "neutral",
-      "comments": 61,
-      "url": "https://github.com/synchopate/llama-modchip",
+      "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+      "insight": "HN 热议：400 分 · 246 评论",
+      "sentiment": "positive",
+      "comments": 246,
+      "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "OpenAI raises $11B at a $1.25T valuation",
-      "insight": "HN 热议：119 分 · 101 评论",
+      "title": "How I Fight AI Brain Fry",
+      "insight": "HN 热议：74 分 · 50 评论",
       "sentiment": "neutral",
-      "comments": 101,
-      "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/",
+      "comments": 50,
+      "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Goodbye Claude, hello Pi",
-      "insight": "HN 热议：550 分 · 347 评论",
-      "sentiment": "positive",
-      "comments": 347,
-      "url": "https://caleb.software/posts/claude-to-pi.html",
+      "title": "RAM Altman: Linux Script Emails Sam Altman Daily How Much Unused RAM in Your PC",
+      "insight": "HN 热议：125 分 · 42 评论",
+      "sentiment": "neutral",
+      "comments": 42,
+      "url": "https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-      "insight": "HN 热议：501 分 · 363 评论",
-      "sentiment": "positive",
-      "comments": 363,
-      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+      "title": "Declarative Dragging",
+      "insight": "HN 热议：143 分 · 12 评论",
+      "sentiment": "neutral",
+      "comments": 12,
+      "url": "https://declarative-dragging.github.io/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Agent memory needs its OpenTelemetry moment",
-      "insight": "HN 热议：123 分 · 90 评论",
+      "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
+      "insight": "HN 热议：101 分 · 88 评论",
       "sentiment": "neutral",
-      "comments": 90,
-      "url": "https://www.lorekit.io/blog/open-agent-memory-format",
+      "comments": 88,
+      "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
       "id": 5
     }
   ]

@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-11-08T17:17:54Z",
+    "updated": "2026-11-08T21:25:02Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-11-08T17:17:54Z",
+    "updated": "2026-11-08T21:25:02Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-11-08T17:17:54Z",
+    "updated": "2026-11-08T21:25:02Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187943,
-            "stars_today": 187943,
+            "stars": 187950,
+            "stars_today": 187950,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "MDX",
-            "stars": 176502,
-            "stars_today": 176502,
+            "stars": 176542,
+            "stars_today": 176542,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 114776,
-            "stars_today": 114776,
+            "stars": 114852,
+            "stars_today": 114852,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 108017,
-            "stars_today": 108017,
+            "stars": 108026,
+            "stars_today": 108026,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 97816,
-            "stars_today": 97816,
+            "stars": 97828,
+            "stars_today": 97828,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 92955,
-            "stars_today": 92955,
+            "stars": 92969,
+            "stars_today": 92969,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-11-08T17:17:54Z",
+    "updated": "2026-11-08T21:25:02Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-11-08T17:17:54Z",
+    "updated": "2026-11-08T21:25:02Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-11-08T17:17:54Z",
+    "updated": "2026-11-08T21:25:02Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-            "insight": "HN 热议：186 分 · 61 评论",
-            "sentiment": "neutral",
-            "comments": 61,
-            "url": "https://github.com/synchopate/llama-modchip",
+            "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+            "insight": "HN 热议：400 分 · 246 评论",
+            "sentiment": "positive",
+            "comments": 246,
+            "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "OpenAI raises $11B at a $1.25T valuation",
-            "insight": "HN 热议：119 分 · 101 评论",
+            "title": "How I Fight AI Brain Fry",
+            "insight": "HN 热议：74 分 · 50 评论",
             "sentiment": "neutral",
-            "comments": 101,
-            "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/",
+            "comments": 50,
+            "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Goodbye Claude, hello Pi",
-            "insight": "HN 热议：550 分 · 347 评论",
-            "sentiment": "positive",
-            "comments": 347,
-            "url": "https://caleb.software/posts/claude-to-pi.html",
+            "title": "RAM Altman: Linux Script Emails Sam Altman Daily How Much Unused RAM in Your PC",
+            "insight": "HN 热议：125 分 · 42 评论",
+            "sentiment": "neutral",
+            "comments": 42,
+            "url": "https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-            "insight": "HN 热议：501 分 · 363 评论",
-            "sentiment": "positive",
-            "comments": 363,
-            "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+            "title": "Declarative Dragging",
+            "insight": "HN 热议：143 分 · 12 评论",
+            "sentiment": "neutral",
+            "comments": 12,
+            "url": "https://declarative-dragging.github.io/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Agent memory needs its OpenTelemetry moment",
-            "insight": "HN 热议：123 分 · 90 评论",
+            "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
+            "insight": "HN 热议：101 分 · 88 评论",
             "sentiment": "neutral",
-            "comments": 90,
-            "url": "https://www.lorekit.io/blog/open-agent-memory-format",
+            "comments": 88,
+            "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-11-08T17:17:54Z",
+    "updated": "2026-11-08T21:25:02Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
