@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-11-08T02:56:52Z",
+    "updated": "2026-11-08T09:44:30Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-11-08T02:56:52Z",
+    "updated": "2026-11-08T09:44:30Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-11-08T02:56:52Z",
+    "updated": "2026-11-08T09:44:30Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187934,
-            "stars_today": 187934,
+            "stars": 187936,
+            "stars_today": 187936,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "MDX",
-            "stars": 176265,
-            "stars_today": 176265,
+            "stars": 176361,
+            "stars_today": 176361,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 114535,
-            "stars_today": 114535,
+            "stars": 114644,
+            "stars_today": 114644,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,32 +300,32 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 107980,
-            "stars_today": 107980,
+            "stars": 107994,
+            "stars_today": 107994,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
             "rank": 5,
-            "name": "OpenHands/OpenHands",
-            "description": "🙌 OpenHands: AI-Driven Development",
-            "language": "TypeScript",
-            "stars": 92909,
-            "stars_today": 92909,
-            "url": "https://github.com/OpenHands/OpenHands"
+            "name": "hacksider/Deep-Live-Cam",
+            "description": "real time face swap and one-click video deepfake with only a single image",
+            "language": "Python",
+            "stars": 97801,
+            "stars_today": 97801,
+            "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
             "rank": 6,
-            "name": "usestrix/strix",
-            "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-            "language": "Python",
-            "stars": 74286,
-            "stars_today": 74286,
-            "url": "https://github.com/usestrix/strix"
+            "name": "OpenHands/OpenHands",
+            "description": "🙌 OpenHands: AI-Driven Development",
+            "language": "TypeScript",
+            "stars": 92922,
+            "stars_today": 92922,
+            "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-11-08T02:56:52Z",
+    "updated": "2026-11-08T09:44:30Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-11-08T02:56:52Z",
+    "updated": "2026-11-08T09:44:30Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-11-08T02:56:52Z",
+    "updated": "2026-11-08T09:44:30Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "The end of Microsoft Research's AI Frontiers group",
-            "insight": "HN 热议：405 分 · 237 评论",
+            "title": "Goodbye Claude, Hello Pi",
+            "insight": "HN 热议：287 分 · 168 评论",
             "sentiment": "positive",
-            "comments": 237,
-            "url": "https://hunch.net/?p=13764006",
+            "comments": 168,
+            "url": "https://caleb.software/posts/claude-to-pi.html",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-            "insight": "HN 热议：202 分 · 141 评论",
-            "sentiment": "positive",
-            "comments": 141,
-            "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+            "title": "Agent memory needs its OpenTelemetry moment",
+            "insight": "HN 热议：11 分 · 9 评论",
+            "sentiment": "neutral",
+            "comments": 9,
+            "url": "https://www.lorekit.io/blog/open-agent-memory-format",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Uranium cubes reveal why the German nuclear project failed",
-            "insight": "HN 热议：75 分 · 37 评论",
-            "sentiment": "neutral",
-            "comments": 37,
-            "url": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
+            "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+            "insight": "HN 热议：387 分 · 268 评论",
+            "sentiment": "positive",
+            "comments": 268,
+            "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: An offline desktop companion to help maintain a healthy blink rhythm",
-            "insight": "HN 热议：28 分 · 12 评论",
+            "title": "Uranium cubes reveal why the German nuclear project failed",
+            "insight": "HN 热议：131 分 · 87 评论",
             "sentiment": "neutral",
-            "comments": 12,
-            "url": "https://eyesrhythm.com/",
+            "comments": 87,
+            "url": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "How Long Can Life Wait?",
-            "insight": "HN 热议：130 分 · 79 评论",
+            "title": "Consumer brain wave headsets threaten privacy",
+            "insight": "HN 热议：45 分 · 19 评论",
             "sentiment": "neutral",
-            "comments": 79,
-            "url": "https://mceglowski.substack.com/p/how-long-can-life-wait",
+            "comments": 19,
+            "url": "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-11-08T02:56:52Z",
+    "updated": "2026-11-08T09:44:30Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
