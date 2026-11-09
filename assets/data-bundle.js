@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-11-09T03:17:55Z",
+    "updated": "2026-11-09T14:30:51Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-11-09T03:17:55Z",
+    "updated": "2026-11-09T14:30:51Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-11-09T03:17:55Z",
+    "updated": "2026-11-09T14:30:51Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187957,
-            "stars_today": 187957,
+            "stars": 187967,
+            "stars_today": 187967,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "MDX",
-            "stars": 176586,
-            "stars_today": 176586,
+            "stars": 176680,
+            "stars_today": 176680,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 114964,
-            "stars_today": 114964,
+            "stars": 115228,
+            "stars_today": 115228,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 108044,
-            "stars_today": 108044,
+            "stars": 108078,
+            "stars_today": 108078,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 97834,
-            "stars_today": 97834,
+            "stars": 97870,
+            "stars_today": 97870,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 92990,
-            "stars_today": 92990,
+            "stars": 93030,
+            "stars_today": 93030,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-11-09T03:17:55Z",
+    "updated": "2026-11-09T14:30:51Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-11-09T03:17:55Z",
+    "updated": "2026-11-09T14:30:51Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-11-09T03:17:55Z",
+    "updated": "2026-11-09T14:30:51Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Declarative Dragging",
-            "insight": "HN 热议：387 分 · 48 评论",
+            "title": "Humans will never again create a project like Wikipedia",
+            "insight": "HN 热议：202 分 · 143 评论",
             "sentiment": "positive",
-            "comments": 48,
-            "url": "https://declarative-dragging.github.io/",
+            "comments": 143,
+            "url": "https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
-            "insight": "HN 热议：276 分 · 201 评论",
+            "title": "Fold Epic Paper Airplanes",
+            "insight": "HN 热议：237 分 · 51 评论",
             "sentiment": "positive",
-            "comments": 201,
-            "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
+            "comments": 51,
+            "url": "https://www.foldableflight.com",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
-            "insight": "HN 热议：643 分 · 364 评论",
+            "title": "I'm not convinced the AI bubble exists",
+            "insight": "HN 热议：415 分 · 709 评论",
             "sentiment": "positive",
-            "comments": 364,
-            "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+            "comments": 709,
+            "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-            "insight": "HN 热议：378 分 · 165 评论",
+            "title": "Declarative Dragging",
+            "insight": "HN 热议：631 分 · 80 评论",
             "sentiment": "positive",
-            "comments": 165,
-            "url": "https://github.com/synchopate/llama-modchip",
+            "comments": 80,
+            "url": "https://declarative-dragging.github.io/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Air holes turn silicon wafers into flat UV focusing mirrors for compact optics",
-            "insight": "HN 热议：33 分 · 3 评论",
-            "sentiment": "neutral",
-            "comments": 3,
-            "url": "https://phys.org/news/2026-11-air-holes-silicon-wafers-flat.html",
+            "title": "Outlook.com is rejecting email from domains without DMARC",
+            "insight": "HN 热议：462 分 · 323 评论",
+            "sentiment": "positive",
+            "comments": 323,
+            "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-11-09T03:17:55Z",
+    "updated": "2026-11-09T14:30:51Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
