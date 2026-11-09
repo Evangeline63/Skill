@@ -1,49 +1,49 @@
 {
-  "updated": "2026-11-08T21:25:02Z",
+  "updated": "2026-11-09T03:17:55Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
-      "insight": "HN 热议：400 分 · 246 评论",
+      "title": "Declarative Dragging",
+      "insight": "HN 热议：387 分 · 48 评论",
       "sentiment": "positive",
-      "comments": 246,
-      "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+      "comments": 48,
+      "url": "https://declarative-dragging.github.io/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "How I Fight AI Brain Fry",
-      "insight": "HN 热议：74 分 · 50 评论",
-      "sentiment": "neutral",
-      "comments": 50,
-      "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+      "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
+      "insight": "HN 热议：276 分 · 201 评论",
+      "sentiment": "positive",
+      "comments": 201,
+      "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "RAM Altman: Linux Script Emails Sam Altman Daily How Much Unused RAM in Your PC",
-      "insight": "HN 热议：125 分 · 42 评论",
-      "sentiment": "neutral",
-      "comments": 42,
-      "url": "https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/",
+      "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+      "insight": "HN 热议：643 分 · 364 评论",
+      "sentiment": "positive",
+      "comments": 364,
+      "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Declarative Dragging",
-      "insight": "HN 热议：143 分 · 12 评论",
-      "sentiment": "neutral",
-      "comments": 12,
-      "url": "https://declarative-dragging.github.io/",
+      "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+      "insight": "HN 热议：378 分 · 165 评论",
+      "sentiment": "positive",
+      "comments": 165,
+      "url": "https://github.com/synchopate/llama-modchip",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
-      "insight": "HN 热议：101 分 · 88 评论",
+      "title": "Air holes turn silicon wafers into flat UV focusing mirrors for compact optics",
+      "insight": "HN 热议：33 分 · 3 评论",
       "sentiment": "neutral",
-      "comments": 88,
-      "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
+      "comments": 3,
+      "url": "https://phys.org/news/2026-11-air-holes-silicon-wafers-flat.html",
       "id": 5
     }
   ]
