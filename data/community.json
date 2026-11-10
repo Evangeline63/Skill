@@ -1,49 +1,49 @@
 {
-  "updated": "2026-11-10T04:56:42Z",
+  "updated": "2026-11-10T13:51:59Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Claude Fable 5.2 and Mythos 5.2",
-      "insight": "HN 热议：346 分 · 688 评论",
+      "insight": "HN 热议：705 分 · 870 评论",
       "sentiment": "positive",
-      "comments": 688,
+      "comments": 870,
       "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
-      "insight": "HN 热议：494 分 · 275 评论",
-      "sentiment": "positive",
-      "comments": 275,
-      "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
+      "title": "Show HN: Ghanaian street games you can play in the browser",
+      "insight": "HN 热议：32 分 · 5 评论",
+      "sentiment": "neutral",
+      "comments": 5,
+      "url": "https://www.ghanastreetgames.com/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Foldable Flight: The Best Paper Airplanes",
-      "insight": "HN 热议：904 分 · 144 评论",
-      "sentiment": "positive",
-      "comments": 144,
-      "url": "https://www.foldableflight.com",
+      "title": "Fireworks AI security breach impacts Notion and their customers",
+      "insight": "HN 热议：89 分 · 27 评论",
+      "sentiment": "neutral",
+      "comments": 27,
+      "url": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
-      "insight": "HN 热议：53 分 · 20 评论",
-      "sentiment": "neutral",
-      "comments": 20,
-      "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+      "title": "Foldable Flight: The Best Paper Airplanes",
+      "insight": "HN 热议：1095 分 · 153 评论",
+      "sentiment": "positive",
+      "comments": 153,
+      "url": "https://www.foldableflight.com",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics",
-      "insight": "HN 热议：293 分 · 190 评论",
+      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+      "insight": "HN 热议：553 分 · 313 评论",
       "sentiment": "positive",
-      "comments": 190,
-      "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
+      "comments": 313,
+      "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
       "id": 5
     }
   ]

@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-11-10T04:56:42Z",
+    "updated": "2026-11-10T13:51:59Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-11-10T04:56:42Z",
+    "updated": "2026-11-10T13:51:59Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-11-10T04:56:42Z",
+    "updated": "2026-11-10T13:51:59Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187975,
-            "stars_today": 187975,
+            "stars": 187976,
+            "stars_today": 187976,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "MDX",
-            "stars": 176770,
-            "stars_today": 176770,
+            "stars": 176820,
+            "stars_today": 176820,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 115482,
-            "stars_today": 115482,
+            "stars": 115655,
+            "stars_today": 115655,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 108124,
-            "stars_today": 108124,
+            "stars": 108159,
+            "stars_today": 108159,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 97896,
-            "stars_today": 97896,
+            "stars": 97918,
+            "stars_today": 97918,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 93072,
-            "stars_today": 93072,
+            "stars": 93117,
+            "stars_today": 93117,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-11-10T04:56:42Z",
+    "updated": "2026-11-10T13:51:59Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-11-10T04:56:42Z",
+    "updated": "2026-11-10T13:51:59Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-11-10T04:56:42Z",
+    "updated": "2026-11-10T13:51:59Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Claude Fable 5.2 and Mythos 5.2",
-            "insight": "HN 热议：346 分 · 688 评论",
+            "insight": "HN 热议：705 分 · 870 评论",
             "sentiment": "positive",
-            "comments": 688,
+            "comments": 870,
             "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
-            "insight": "HN 热议：494 分 · 275 评论",
-            "sentiment": "positive",
-            "comments": 275,
-            "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
+            "title": "Show HN: Ghanaian street games you can play in the browser",
+            "insight": "HN 热议：32 分 · 5 评论",
+            "sentiment": "neutral",
+            "comments": 5,
+            "url": "https://www.ghanastreetgames.com/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Foldable Flight: The Best Paper Airplanes",
-            "insight": "HN 热议：904 分 · 144 评论",
-            "sentiment": "positive",
-            "comments": 144,
-            "url": "https://www.foldableflight.com",
+            "title": "Fireworks AI security breach impacts Notion and their customers",
+            "insight": "HN 热议：89 分 · 27 评论",
+            "sentiment": "neutral",
+            "comments": 27,
+            "url": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
-            "insight": "HN 热议：53 分 · 20 评论",
-            "sentiment": "neutral",
-            "comments": 20,
-            "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+            "title": "Foldable Flight: The Best Paper Airplanes",
+            "insight": "HN 热议：1095 分 · 153 评论",
+            "sentiment": "positive",
+            "comments": 153,
+            "url": "https://www.foldableflight.com",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics",
-            "insight": "HN 热议：293 分 · 190 评论",
+            "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+            "insight": "HN 热议：553 分 · 313 评论",
             "sentiment": "positive",
-            "comments": 190,
-            "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
+            "comments": 313,
+            "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-11-10T04:56:42Z",
+    "updated": "2026-11-10T13:51:59Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
