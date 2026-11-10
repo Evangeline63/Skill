@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-11-09T23:37:26Z",
+    "updated": "2026-11-10T04:56:42Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-11-09T23:37:26Z",
+    "updated": "2026-11-10T04:56:42Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,7 +266,7 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-11-09T23:37:26Z",
+    "updated": "2026-11-10T04:56:42Z",
     "repos": [
         {
             "rank": 1,
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "MDX",
-            "stars": 176736,
-            "stars_today": 176736,
+            "stars": 176770,
+            "stars_today": 176770,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 115383,
-            "stars_today": 115383,
+            "stars": 115482,
+            "stars_today": 115482,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 108108,
-            "stars_today": 108108,
+            "stars": 108124,
+            "stars_today": 108124,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 97883,
-            "stars_today": 97883,
+            "stars": 97896,
+            "stars_today": 97896,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 93056,
-            "stars_today": 93056,
+            "stars": 93072,
+            "stars_today": 93072,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-11-09T23:37:26Z",
+    "updated": "2026-11-10T04:56:42Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-11-09T23:37:26Z",
+    "updated": "2026-11-10T04:56:42Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-11-09T23:37:26Z",
+    "updated": "2026-11-10T04:56:42Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
-            "insight": "HN 热议：229 分 · 145 评论",
+            "title": "Claude Fable 5.2 and Mythos 5.2",
+            "insight": "HN 热议：346 分 · 688 评论",
             "sentiment": "positive",
-            "comments": 145,
-            "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+            "comments": 688,
+            "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Google Gemini routes personal Drive files and emails to human annotators",
-            "insight": "HN 热议：277 分 · 55 评论",
+            "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+            "insight": "HN 热议：494 分 · 275 评论",
             "sentiment": "positive",
-            "comments": 55,
-            "url": "https://github.com/thisisme6598/gemini_files/",
+            "comments": 275,
+            "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
-            "insight": "HN 热议：440 分 · 249 评论",
+            "title": "Foldable Flight: The Best Paper Airplanes",
+            "insight": "HN 热议：904 分 · 144 评论",
             "sentiment": "positive",
-            "comments": 249,
-            "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
+            "comments": 144,
+            "url": "https://www.foldableflight.com",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Fold Epic Paper Airplanes",
-            "insight": "HN 热议：799 分 · 133 评论",
-            "sentiment": "positive",
-            "comments": 133,
-            "url": "https://www.foldableflight.com",
+            "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
+            "insight": "HN 热议：53 分 · 20 评论",
+            "sentiment": "neutral",
+            "comments": 20,
+            "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Magenta solar panels may be agrivoltaics' cleverest trick yet",
-            "insight": "HN 热议：252 分 · 156 评论",
+            "title": "Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics",
+            "insight": "HN 热议：293 分 · 190 评论",
             "sentiment": "positive",
-            "comments": 156,
+            "comments": 190,
             "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-11-09T23:37:26Z",
+    "updated": "2026-11-10T04:56:42Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
