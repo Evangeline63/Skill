@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-11-10T21:03:32Z",
+    "updated": "2026-11-11T03:26:26Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-11-10T21:03:32Z",
+    "updated": "2026-11-11T03:26:26Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-11-10T21:03:32Z",
+    "updated": "2026-11-11T03:26:26Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187985,
-            "stars_today": 187985,
+            "stars": 187987,
+            "stars_today": 187987,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "MDX",
-            "stars": 176837,
-            "stars_today": 176837,
+            "stars": 176852,
+            "stars_today": 176852,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 115769,
-            "stars_today": 115769,
+            "stars": 115882,
+            "stars_today": 115882,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 108193,
-            "stars_today": 108193,
+            "stars": 108208,
+            "stars_today": 108208,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 97959,
-            "stars_today": 97959,
+            "stars": 97973,
+            "stars_today": 97973,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 93144,
-            "stars_today": 93144,
+            "stars": 93164,
+            "stars_today": 93164,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-11-10T21:03:32Z",
+    "updated": "2026-11-11T03:26:26Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-11-10T21:03:32Z",
+    "updated": "2026-11-11T03:26:26Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-11-10T21:03:32Z",
+    "updated": "2026-11-11T03:26:26Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Synaptics patent claims stop work on DisplayLink drivers",
-            "insight": "HN 热议：168 分 · 76 评论",
-            "sentiment": "neutral",
-            "comments": 76,
-            "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
+            "title": "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
+            "insight": "HN 热议：305 分 · 135 评论",
+            "sentiment": "positive",
+            "comments": 135,
+            "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
-            "insight": "HN 热议：146 分 · 42 评论",
-            "sentiment": "neutral",
-            "comments": 42,
-            "url": "https://github.com/GoogleChrome/modern-web-guidance",
+            "title": "Synaptics patent claims stop work on DisplayLink drivers",
+            "insight": "HN 热议：322 分 · 180 评论",
+            "sentiment": "positive",
+            "comments": 180,
+            "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
-            "insight": "HN 热议：96 分 · 78 评论",
-            "sentiment": "neutral",
-            "comments": 78,
-            "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
+            "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+            "insight": "HN 热议：284 分 · 87 评论",
+            "sentiment": "positive",
+            "comments": 87,
+            "url": "https://github.com/GoogleChrome/modern-web-guidance",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Valencia, Spain in Sim City/Isometric View",
-            "insight": "HN 热议：135 分 · 35 评论",
+            "title": "LLMs Play Zachtronics' TIS-100",
+            "insight": "HN 热议：16 分 · 1 评论",
             "sentiment": "neutral",
-            "comments": 35,
-            "url": "https://tinyvalencia.com/",
+            "comments": 1,
+            "url": "https://tis-100.wincon.dev/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "AI usage generates a fragile codebase",
-            "insight": "HN 热议：268 分 · 325 评论",
-            "sentiment": "positive",
-            "comments": 325,
-            "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
+            "title": "$30M Raised to Redo the CPU",
+            "insight": "HN 热议：40 分 · 31 评论",
+            "sentiment": "neutral",
+            "comments": 31,
+            "url": "https://tendrils.co/blog/2026-11-10/30m-raised",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-11-10T21:03:32Z",
+    "updated": "2026-11-11T03:26:26Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
