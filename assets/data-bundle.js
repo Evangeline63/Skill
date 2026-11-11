@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-11-11T03:26:26Z",
+    "updated": "2026-11-11T13:03:15Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-11-11T03:26:26Z",
+    "updated": "2026-11-11T13:03:15Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-11-11T03:26:26Z",
+    "updated": "2026-11-11T13:03:15Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187987,
-            "stars_today": 187987,
+            "stars": 187993,
+            "stars_today": 187993,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "MDX",
-            "stars": 176852,
-            "stars_today": 176852,
+            "stars": 176894,
+            "stars_today": 176894,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 115882,
-            "stars_today": 115882,
+            "stars": 116046,
+            "stars_today": 116046,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 108208,
-            "stars_today": 108208,
+            "stars": 108226,
+            "stars_today": 108226,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 97973,
-            "stars_today": 97973,
+            "stars": 97990,
+            "stars_today": 97990,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 93164,
-            "stars_today": 93164,
+            "stars": 93211,
+            "stars_today": 93211,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-11-11T03:26:26Z",
+    "updated": "2026-11-11T13:03:15Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-11-11T03:26:26Z",
+    "updated": "2026-11-11T13:03:15Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-11-11T03:26:26Z",
+    "updated": "2026-11-11T13:03:15Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
-            "insight": "HN 热议：305 分 · 135 评论",
-            "sentiment": "positive",
-            "comments": 135,
-            "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+            "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+            "insight": "HN 热议：24 分 · 4 评论",
+            "sentiment": "neutral",
+            "comments": 4,
+            "url": "https://pietromiotti.com/latest/maya-site/?maya",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Synaptics patent claims stop work on DisplayLink drivers",
-            "insight": "HN 热议：322 分 · 180 评论",
+            "title": "Apple has new Mac app coming to make running local AI models easy",
+            "insight": "HN 热议：327 分 · 312 评论",
             "sentiment": "positive",
-            "comments": 180,
-            "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
+            "comments": 312,
+            "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
-            "insight": "HN 热议：284 分 · 87 评论",
+            "title": "Synaptics patent claims stop work on DisplayLink drivers",
+            "insight": "HN 热议：426 分 · 242 评论",
             "sentiment": "positive",
-            "comments": 87,
-            "url": "https://github.com/GoogleChrome/modern-web-guidance",
+            "comments": 242,
+            "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "LLMs Play Zachtronics' TIS-100",
-            "insight": "HN 热议：16 分 · 1 评论",
-            "sentiment": "neutral",
-            "comments": 1,
-            "url": "https://tis-100.wincon.dev/",
+            "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+            "insight": "HN 热议：388 分 · 126 评论",
+            "sentiment": "positive",
+            "comments": 126,
+            "url": "https://github.com/GoogleChrome/modern-web-guidance",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "$30M Raised to Redo the CPU",
-            "insight": "HN 热议：40 分 · 31 评论",
-            "sentiment": "neutral",
-            "comments": 31,
-            "url": "https://tendrils.co/blog/2026-11-10/30m-raised",
+            "title": "AI usage generates a fragile codebase",
+            "insight": "HN 热议：599 分 · 566 评论",
+            "sentiment": "positive",
+            "comments": 566,
+            "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-11-11T03:26:26Z",
+    "updated": "2026-11-11T13:03:15Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
