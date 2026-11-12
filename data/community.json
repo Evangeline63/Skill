@@ -1,49 +1,49 @@
 {
-  "updated": "2026-11-12T04:36:26Z",
+  "updated": "2026-11-12T14:05:42Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "93% of paint splatters are valid Perl programs (2019)",
-      "insight": "HN 热议：254 分 · 36 评论",
+      "insight": "HN 热议：498 分 · 64 评论",
       "sentiment": "positive",
-      "comments": 36,
+      "comments": 64,
       "url": "https://www.mcmillen.dev/sigbovik/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-      "insight": "HN 热议：464 分 · 445 评论",
+      "title": "Anthropic IPO",
+      "insight": "HN 热议：219 分 · 255 评论",
       "sentiment": "positive",
-      "comments": 445,
-      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+      "comments": 255,
+      "url": "https://ipo.anthropic.com/us/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Gemini Decisions API",
-      "insight": "HN 热议：324 分 · 100 评论",
-      "sentiment": "positive",
-      "comments": 100,
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "title": "Nvidia CEO Jensen Huang resigns after reports of second affair deepened scandal",
+      "insight": "HN 热议：14 分 · 1 评论",
+      "sentiment": "neutral",
+      "comments": 1,
+      "url": "https://www.bbc.co.uk/news/live/c6zjry11v8w1t",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "My AI agents found an unmapped Maya site?",
-      "insight": "HN 热议：951 分 · 345 评论",
+      "title": "Gemini Decisions API",
+      "insight": "HN 热议：486 分 · 148 评论",
       "sentiment": "positive",
-      "comments": 345,
-      "url": "https://pietromiotti.com/latest/maya-site",
+      "comments": 148,
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Faster Retrieval for Better, More Efficient RAG",
-      "insight": "HN 热议：174 分 · 33 评论",
-      "sentiment": "neutral",
-      "comments": 33,
-      "url": "https://machinelearning.apple.com/research/faster-retrieval",
+      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "insight": "HN 热议：595 分 · 617 评论",
+      "sentiment": "positive",
+      "comments": 617,
+      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
       "id": 5
     }
   ]

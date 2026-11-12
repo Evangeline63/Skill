@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-11-12T04:36:26Z",
+    "updated": "2026-11-12T14:05:42Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-11-12T04:36:26Z",
+    "updated": "2026-11-12T14:05:42Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-11-12T04:36:26Z",
+    "updated": "2026-11-12T14:05:42Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 188000,
-            "stars_today": 188000,
+            "stars": 188005,
+            "stars_today": 188005,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "MDX",
-            "stars": 176940,
-            "stars_today": 176940,
+            "stars": 176976,
+            "stars_today": 176976,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 116297,
-            "stars_today": 116297,
+            "stars": 116429,
+            "stars_today": 116429,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 108261,
-            "stars_today": 108261,
+            "stars": 108296,
+            "stars_today": 108296,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 98012,
-            "stars_today": 98012,
+            "stars": 98033,
+            "stars_today": 98033,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 93270,
-            "stars_today": 93270,
+            "stars": 93320,
+            "stars_today": 93320,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-11-12T04:36:26Z",
+    "updated": "2026-11-12T14:05:42Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-11-12T04:36:26Z",
+    "updated": "2026-11-12T14:05:42Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-11-12T04:36:26Z",
+    "updated": "2026-11-12T14:05:42Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "93% of paint splatters are valid Perl programs (2019)",
-            "insight": "HN 热议：254 分 · 36 评论",
+            "insight": "HN 热议：498 分 · 64 评论",
             "sentiment": "positive",
-            "comments": 36,
+            "comments": 64,
             "url": "https://www.mcmillen.dev/sigbovik/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-            "insight": "HN 热议：464 分 · 445 评论",
+            "title": "Anthropic IPO",
+            "insight": "HN 热议：219 分 · 255 评论",
             "sentiment": "positive",
-            "comments": 445,
-            "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+            "comments": 255,
+            "url": "https://ipo.anthropic.com/us/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Gemini Decisions API",
-            "insight": "HN 热议：324 分 · 100 评论",
-            "sentiment": "positive",
-            "comments": 100,
-            "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+            "title": "Nvidia CEO Jensen Huang resigns after reports of second affair deepened scandal",
+            "insight": "HN 热议：14 分 · 1 评论",
+            "sentiment": "neutral",
+            "comments": 1,
+            "url": "https://www.bbc.co.uk/news/live/c6zjry11v8w1t",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "My AI agents found an unmapped Maya site?",
-            "insight": "HN 热议：951 分 · 345 评论",
+            "title": "Gemini Decisions API",
+            "insight": "HN 热议：486 分 · 148 评论",
             "sentiment": "positive",
-            "comments": 345,
-            "url": "https://pietromiotti.com/latest/maya-site",
+            "comments": 148,
+            "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Faster Retrieval for Better, More Efficient RAG",
-            "insight": "HN 热议：174 分 · 33 评论",
-            "sentiment": "neutral",
-            "comments": 33,
-            "url": "https://machinelearning.apple.com/research/faster-retrieval",
+            "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+            "insight": "HN 热议：595 分 · 617 评论",
+            "sentiment": "positive",
+            "comments": 617,
+            "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-11-12T04:36:26Z",
+    "updated": "2026-11-12T14:05:42Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
