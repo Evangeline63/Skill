@@ -1,49 +1,49 @@
 {
-  "updated": "2026-11-12T14:05:42Z",
+  "updated": "2026-11-12T21:37:39Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "93% of paint splatters are valid Perl programs (2019)",
-      "insight": "HN 热议：498 分 · 64 评论",
-      "sentiment": "positive",
-      "comments": 64,
-      "url": "https://www.mcmillen.dev/sigbovik/",
+      "title": "Gemini 4 Hydrogen and Orchestrator",
+      "insight": "HN 热议：164 分 · 31 评论",
+      "sentiment": "neutral",
+      "comments": 31,
+      "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Anthropic IPO",
-      "insight": "HN 热议：219 分 · 255 评论",
+      "title": "I'm making LLMs work on small and old devices",
+      "insight": "HN 热议：217 分 · 78 评论",
       "sentiment": "positive",
-      "comments": 255,
-      "url": "https://ipo.anthropic.com/us/",
+      "comments": 78,
+      "url": "https://github.com/hyperionaidev/smolmaxxing/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Nvidia CEO Jensen Huang resigns after reports of second affair deepened scandal",
-      "insight": "HN 热议：14 分 · 1 评论",
-      "sentiment": "neutral",
-      "comments": 1,
-      "url": "https://www.bbc.co.uk/news/live/c6zjry11v8w1t",
+      "title": "Gemini 4 Hydrogen",
+      "insight": "HN 热议：375 分 · 247 评论",
+      "sentiment": "positive",
+      "comments": 247,
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Gemini Decisions API",
-      "insight": "HN 热议：486 分 · 148 评论",
-      "sentiment": "positive",
-      "comments": 148,
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "title": "Show HN: AgentRun – open-source, Self-improving Managed Agents",
+      "insight": "HN 热议：54 分 · 7 评论",
+      "sentiment": "neutral",
+      "comments": 7,
+      "url": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-      "insight": "HN 热议：595 分 · 617 评论",
+      "title": "Anthropic IPO",
+      "insight": "HN 热议：728 分 · 739 评论",
       "sentiment": "positive",
-      "comments": 617,
-      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+      "comments": 739,
+      "url": "https://ipo.anthropic.com/us/",
       "id": 5
     }
   ]
