@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-11-11T21:37:13Z",
+    "updated": "2026-11-12T04:36:26Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-11-11T21:37:13Z",
+    "updated": "2026-11-12T04:36:26Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-11-11T21:37:13Z",
+    "updated": "2026-11-12T04:36:26Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 187999,
-            "stars_today": 187999,
+            "stars": 188000,
+            "stars_today": 188000,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "MDX",
-            "stars": 176920,
-            "stars_today": 176920,
+            "stars": 176940,
+            "stars_today": 176940,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 116199,
-            "stars_today": 116199,
+            "stars": 116297,
+            "stars_today": 116297,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 108247,
-            "stars_today": 108247,
+            "stars": 108261,
+            "stars_today": 108261,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 98003,
-            "stars_today": 98003,
+            "stars": 98012,
+            "stars_today": 98012,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 93248,
-            "stars_today": 93248,
+            "stars": 93270,
+            "stars_today": 93270,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-11-11T21:37:13Z",
+    "updated": "2026-11-12T04:36:26Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-11-11T21:37:13Z",
+    "updated": "2026-11-12T04:36:26Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-11-11T21:37:13Z",
+    "updated": "2026-11-12T04:36:26Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "AWS Emulator and the engineer's job when agents write the code",
-            "insight": "HN 热议：106 分 · 12 评论",
-            "sentiment": "neutral",
-            "comments": 12,
-            "url": "https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html",
+            "title": "93% of paint splatters are valid Perl programs (2019)",
+            "insight": "HN 热议：254 分 · 36 评论",
+            "sentiment": "positive",
+            "comments": 36,
+            "url": "https://www.mcmillen.dev/sigbovik/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Gemini Decisions API",
-            "insight": "HN 热议：122 分 · 38 评论",
-            "sentiment": "neutral",
-            "comments": 38,
-            "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+            "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+            "insight": "HN 热议：464 分 · 445 评论",
+            "sentiment": "positive",
+            "comments": 445,
+            "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Faster Retrieval for Better, More Efficient RAG",
-            "insight": "HN 热议：110 分 · 21 评论",
-            "sentiment": "neutral",
-            "comments": 21,
-            "url": "https://machinelearning.apple.com/research/faster-retrieval",
+            "title": "Gemini Decisions API",
+            "insight": "HN 热议：324 分 · 100 评论",
+            "sentiment": "positive",
+            "comments": 100,
+            "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
-            "insight": "HN 热议：877 分 · 317 评论",
+            "title": "My AI agents found an unmapped Maya site?",
+            "insight": "HN 热议：951 分 · 345 评论",
             "sentiment": "positive",
-            "comments": 317,
-            "url": "https://pietromiotti.com/latest/maya-site/?maya",
+            "comments": 345,
+            "url": "https://pietromiotti.com/latest/maya-site",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Atuin Threads: All your agent sessions on every machine",
-            "insight": "HN 热议：164 分 · 62 评论",
+            "title": "Faster Retrieval for Better, More Efficient RAG",
+            "insight": "HN 热议：174 分 · 33 评论",
             "sentiment": "neutral",
-            "comments": 62,
-            "url": "https://blog.atuin.sh/threads-agent-sessions/",
+            "comments": 33,
+            "url": "https://machinelearning.apple.com/research/faster-retrieval",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-11-11T21:37:13Z",
+    "updated": "2026-11-12T04:36:26Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
