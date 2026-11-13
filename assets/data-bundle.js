@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-11-13T03:49:42Z",
+    "updated": "2026-11-13T13:30:42Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-11-13T03:49:42Z",
+    "updated": "2026-11-13T13:30:42Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-11-13T03:49:42Z",
+    "updated": "2026-11-13T13:30:42Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 188011,
-            "stars_today": 188011,
+            "stars": 188012,
+            "stars_today": 188012,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "MDX",
-            "stars": 177022,
-            "stars_today": 177022,
+            "stars": 177060,
+            "stars_today": 177060,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 116618,
-            "stars_today": 116618,
+            "stars": 116721,
+            "stars_today": 116721,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 108321,
-            "stars_today": 108321,
+            "stars": 108344,
+            "stars_today": 108344,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 98059,
-            "stars_today": 98059,
+            "stars": 98076,
+            "stars_today": 98076,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 93359,
-            "stars_today": 93359,
+            "stars": 93397,
+            "stars_today": 93397,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-11-13T03:49:42Z",
+    "updated": "2026-11-13T13:30:42Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-11-13T03:49:42Z",
+    "updated": "2026-11-13T13:30:42Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-11-13T03:49:42Z",
+    "updated": "2026-11-13T13:30:42Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Gemini 4 Hydrogen and Orchestrator",
-            "insight": "HN 热议：338 分 · 87 评论",
+            "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+            "insight": "HN 热议：300 分 · 247 评论",
             "sentiment": "positive",
-            "comments": 87,
-            "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+            "comments": 247,
+            "url": "https://status.claude.com/incidents/nn11wk485zfn",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
-            "insight": "HN 热议：108 分 · 21 评论",
+            "title": "Brave Search API now accepts agentic payments via the x402 protocol",
+            "insight": "HN 热议：165 分 · 92 评论",
             "sentiment": "neutral",
-            "comments": 21,
-            "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+            "comments": 92,
+            "url": "https://brave.com/blog/search-api-agentic-payments/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "I'm making LLMs work on small and old devices",
-            "insight": "HN 热议：294 分 · 101 评论",
+            "title": "Gemini 4 Hydrogen and Orchestrator",
+            "insight": "HN 热议：444 分 · 130 评论",
             "sentiment": "positive",
-            "comments": 101,
-            "url": "https://github.com/hyperionaidev/smolmaxxing/",
+            "comments": 130,
+            "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "AI is turning Apple's app review process into a nightmare for synth developers",
-            "insight": "HN 热议：125 分 · 115 评论",
-            "sentiment": "neutral",
-            "comments": 115,
-            "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
+            "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+            "insight": "HN 热议：286 分 · 84 评论",
+            "sentiment": "positive",
+            "comments": 84,
+            "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Gemini 4 Hydrogen",
-            "insight": "HN 热议：482 分 · 304 评论",
-            "sentiment": "positive",
-            "comments": 304,
-            "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+            "title": "Is there a 'right amount' of AI?",
+            "insight": "HN 热议：21 分 · 26 评论",
+            "sentiment": "neutral",
+            "comments": 26,
+            "url": "https://coyotetracks.org/blog/right-amount-of-ai/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-11-13T03:49:42Z",
+    "updated": "2026-11-13T13:30:42Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

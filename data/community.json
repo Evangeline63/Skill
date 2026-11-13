@@ -1,49 +1,49 @@
 {
-  "updated": "2026-11-13T03:49:42Z",
+  "updated": "2026-11-13T13:30:42Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Gemini 4 Hydrogen and Orchestrator",
-      "insight": "HN 热议：338 分 · 87 评论",
+      "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+      "insight": "HN 热议：300 分 · 247 评论",
       "sentiment": "positive",
-      "comments": 87,
-      "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+      "comments": 247,
+      "url": "https://status.claude.com/incidents/nn11wk485zfn",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
-      "insight": "HN 热议：108 分 · 21 评论",
+      "title": "Brave Search API now accepts agentic payments via the x402 protocol",
+      "insight": "HN 热议：165 分 · 92 评论",
       "sentiment": "neutral",
-      "comments": 21,
-      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+      "comments": 92,
+      "url": "https://brave.com/blog/search-api-agentic-payments/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "I'm making LLMs work on small and old devices",
-      "insight": "HN 热议：294 分 · 101 评论",
+      "title": "Gemini 4 Hydrogen and Orchestrator",
+      "insight": "HN 热议：444 分 · 130 评论",
       "sentiment": "positive",
-      "comments": 101,
-      "url": "https://github.com/hyperionaidev/smolmaxxing/",
+      "comments": 130,
+      "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "AI is turning Apple's app review process into a nightmare for synth developers",
-      "insight": "HN 热议：125 分 · 115 评论",
-      "sentiment": "neutral",
-      "comments": 115,
-      "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
+      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+      "insight": "HN 热议：286 分 · 84 评论",
+      "sentiment": "positive",
+      "comments": 84,
+      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Gemini 4 Hydrogen",
-      "insight": "HN 热议：482 分 · 304 评论",
-      "sentiment": "positive",
-      "comments": 304,
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+      "title": "Is there a 'right amount' of AI?",
+      "insight": "HN 热议：21 分 · 26 评论",
+      "sentiment": "neutral",
+      "comments": 26,
+      "url": "https://coyotetracks.org/blog/right-amount-of-ai/",
       "id": 5
     }
   ]
