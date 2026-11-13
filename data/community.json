@@ -1,49 +1,49 @@
 {
-  "updated": "2026-11-12T21:37:39Z",
+  "updated": "2026-11-13T03:49:42Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Gemini 4 Hydrogen and Orchestrator",
-      "insight": "HN 热议：164 分 · 31 评论",
-      "sentiment": "neutral",
-      "comments": 31,
+      "insight": "HN 热议：338 分 · 87 评论",
+      "sentiment": "positive",
+      "comments": 87,
       "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "I'm making LLMs work on small and old devices",
-      "insight": "HN 热议：217 分 · 78 评论",
-      "sentiment": "positive",
-      "comments": 78,
-      "url": "https://github.com/hyperionaidev/smolmaxxing/",
+      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+      "insight": "HN 热议：108 分 · 21 评论",
+      "sentiment": "neutral",
+      "comments": 21,
+      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Gemini 4 Hydrogen",
-      "insight": "HN 热议：375 分 · 247 评论",
+      "title": "I'm making LLMs work on small and old devices",
+      "insight": "HN 热议：294 分 · 101 评论",
       "sentiment": "positive",
-      "comments": 247,
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+      "comments": 101,
+      "url": "https://github.com/hyperionaidev/smolmaxxing/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: AgentRun – open-source, Self-improving Managed Agents",
-      "insight": "HN 热议：54 分 · 7 评论",
+      "title": "AI is turning Apple's app review process into a nightmare for synth developers",
+      "insight": "HN 热议：125 分 · 115 评论",
       "sentiment": "neutral",
-      "comments": 7,
-      "url": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
+      "comments": 115,
+      "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Anthropic IPO",
-      "insight": "HN 热议：728 分 · 739 评论",
+      "title": "Gemini 4 Hydrogen",
+      "insight": "HN 热议：482 分 · 304 评论",
       "sentiment": "positive",
-      "comments": 739,
-      "url": "https://ipo.anthropic.com/us/",
+      "comments": 304,
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
       "id": 5
     }
   ]
