@@ -1,49 +1,49 @@
 {
-  "updated": "2026-11-14T03:48:13Z",
+  "updated": "2026-11-14T12:36:28Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
-      "insight": "HN 热议：227 分 · 53 评论",
+      "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+      "insight": "HN 热议：697 分 · 403 评论",
       "sentiment": "positive",
-      "comments": 53,
-      "url": "https://orcasairband.com/",
+      "comments": 403,
+      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Reverse engineering my Coway air purifier to ditch the cloud",
-      "insight": "HN 热议：696 分 · 201 评论",
+      "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
+      "insight": "HN 热议：330 分 · 446 评论",
       "sentiment": "positive",
-      "comments": 201,
-      "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
+      "comments": 446,
+      "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Ukraine knocks out 36% of Russia's oil refining capacity in under two weeks",
-      "insight": "HN 热议：204 分 · 90 评论",
+      "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
+      "insight": "HN 热议：274 分 · 65 评论",
       "sentiment": "positive",
-      "comments": 90,
-      "url": "https://english.nv.ua/nation/thirteen-day-drone-blitz-paralyzes-36-of-moscow-s-oil-50658616.html",
+      "comments": 65,
+      "url": "https://orcasairband.com/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
-      "insight": "HN 热议：35 分 · 9 评论",
+      "title": "Show HN: I have trained 15 blood glucose forecasting models on my own data",
+      "insight": "HN 热议：46 分 · 19 评论",
       "sentiment": "neutral",
-      "comments": 9,
-      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+      "comments": 19,
+      "url": "https://github.com/0xdeadf1sh/T1DMAI",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
-      "insight": "HN 热议：59 分 · 44 评论",
+      "title": "Perplexity Decider v1.3: Training, eval, and use cases",
+      "insight": "HN 热议：136 分 · 23 评论",
       "sentiment": "neutral",
-      "comments": 44,
-      "url": "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free",
+      "comments": 23,
+      "url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
       "id": 5
     }
   ]

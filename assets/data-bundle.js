@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-11-14T03:48:13Z",
+    "updated": "2026-11-14T12:36:28Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-11-14T03:48:13Z",
+    "updated": "2026-11-14T12:36:28Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-11-14T03:48:13Z",
+    "updated": "2026-11-14T12:36:28Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 188020,
-            "stars_today": 188020,
+            "stars": 188024,
+            "stars_today": 188024,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "MDX",
-            "stars": 177119,
-            "stars_today": 177119,
+            "stars": 177198,
+            "stars_today": 177198,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 116877,
-            "stars_today": 116877,
+            "stars": 116966,
+            "stars_today": 116966,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 108372,
-            "stars_today": 108372,
+            "stars": 108397,
+            "stars_today": 108397,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 98091,
-            "stars_today": 98091,
+            "stars": 98103,
+            "stars_today": 98103,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 93437,
-            "stars_today": 93437,
+            "stars": 93458,
+            "stars_today": 93458,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-11-14T03:48:13Z",
+    "updated": "2026-11-14T12:36:28Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-11-14T03:48:13Z",
+    "updated": "2026-11-14T12:36:28Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-11-14T03:48:13Z",
+    "updated": "2026-11-14T12:36:28Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
-            "insight": "HN 热议：227 分 · 53 评论",
+            "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+            "insight": "HN 热议：697 分 · 403 评论",
             "sentiment": "positive",
-            "comments": 53,
-            "url": "https://orcasairband.com/",
+            "comments": 403,
+            "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Reverse engineering my Coway air purifier to ditch the cloud",
-            "insight": "HN 热议：696 分 · 201 评论",
+            "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
+            "insight": "HN 热议：330 分 · 446 评论",
             "sentiment": "positive",
-            "comments": 201,
-            "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
+            "comments": 446,
+            "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Ukraine knocks out 36% of Russia's oil refining capacity in under two weeks",
-            "insight": "HN 热议：204 分 · 90 评论",
+            "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
+            "insight": "HN 热议：274 分 · 65 评论",
             "sentiment": "positive",
-            "comments": 90,
-            "url": "https://english.nv.ua/nation/thirteen-day-drone-blitz-paralyzes-36-of-moscow-s-oil-50658616.html",
+            "comments": 65,
+            "url": "https://orcasairband.com/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
-            "insight": "HN 热议：35 分 · 9 评论",
+            "title": "Show HN: I have trained 15 blood glucose forecasting models on my own data",
+            "insight": "HN 热议：46 分 · 19 评论",
             "sentiment": "neutral",
-            "comments": 9,
-            "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+            "comments": 19,
+            "url": "https://github.com/0xdeadf1sh/T1DMAI",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
-            "insight": "HN 热议：59 分 · 44 评论",
+            "title": "Perplexity Decider v1.3: Training, eval, and use cases",
+            "insight": "HN 热议：136 分 · 23 评论",
             "sentiment": "neutral",
-            "comments": 44,
-            "url": "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free",
+            "comments": 23,
+            "url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-11-14T03:48:13Z",
+    "updated": "2026-11-14T12:36:28Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
