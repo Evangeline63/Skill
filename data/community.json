@@ -1,49 +1,49 @@
 {
-  "updated": "2026-11-13T21:02:42Z",
+  "updated": "2026-11-14T03:48:13Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Reverse engineering my Coway air purifier to ditch the cloud",
-      "insight": "HN 热议：601 分 · 171 评论",
+      "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
+      "insight": "HN 热议：227 分 · 53 评论",
       "sentiment": "positive",
-      "comments": 171,
-      "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
+      "comments": 53,
+      "url": "https://orcasairband.com/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Perplexity Decider v1.3: Training, eval, and use cases",
-      "insight": "HN 热议：40 分 · 12 评论",
-      "sentiment": "neutral",
-      "comments": 12,
-      "url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
+      "title": "Reverse engineering my Coway air purifier to ditch the cloud",
+      "insight": "HN 热议：696 分 · 201 评论",
+      "sentiment": "positive",
+      "comments": 201,
+      "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
-      "insight": "HN 热议：236 分 · 60 评论",
+      "title": "Ukraine knocks out 36% of Russia's oil refining capacity in under two weeks",
+      "insight": "HN 热议：204 分 · 90 评论",
       "sentiment": "positive",
-      "comments": 60,
-      "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+      "comments": 90,
+      "url": "https://english.nv.ua/nation/thirteen-day-drone-blitz-paralyzes-36-of-moscow-s-oil-50658616.html",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "No AI Slop: A Manifesto",
-      "insight": "HN 热议：58 分 · 33 评论",
+      "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
+      "insight": "HN 热议：35 分 · 9 评论",
       "sentiment": "neutral",
-      "comments": 33,
-      "url": "https://www.slopmanifesto.com/",
+      "comments": 9,
+      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "OpenAI disbands its robotics team as its general models start running robots",
-      "insight": "HN 热议：99 分 · 37 评论",
+      "title": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
+      "insight": "HN 热议：59 分 · 44 评论",
       "sentiment": "neutral",
-      "comments": 37,
-      "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/",
+      "comments": 44,
+      "url": "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free",
       "id": 5
     }
   ]

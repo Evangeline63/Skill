@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-11-13T21:02:42Z",
+    "updated": "2026-11-14T03:48:13Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-11-13T21:02:42Z",
+    "updated": "2026-11-14T03:48:13Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,7 +266,7 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-11-13T21:02:42Z",
+    "updated": "2026-11-14T03:48:13Z",
     "repos": [
         {
             "rank": 1,
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "MDX",
-            "stars": 177085,
-            "stars_today": 177085,
+            "stars": 177119,
+            "stars_today": 177119,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 116816,
-            "stars_today": 116816,
+            "stars": 116877,
+            "stars_today": 116877,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 108361,
-            "stars_today": 108361,
+            "stars": 108372,
+            "stars_today": 108372,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "hacksider/Deep-Live-Cam",
             "description": "real time face swap and one-click video deepfake with only a single image",
             "language": "Python",
-            "stars": 98086,
-            "stars_today": 98086,
+            "stars": 98091,
+            "stars_today": 98091,
             "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 93422,
-            "stars_today": 93422,
+            "stars": 93437,
+            "stars_today": 93437,
             "url": "https://github.com/OpenHands/OpenHands"
         }
     ]
 },
   "products": {
-    "updated": "2026-11-13T21:02:42Z",
+    "updated": "2026-11-14T03:48:13Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-11-13T21:02:42Z",
+    "updated": "2026-11-14T03:48:13Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-11-13T21:02:42Z",
+    "updated": "2026-11-14T03:48:13Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Reverse engineering my Coway air purifier to ditch the cloud",
-            "insight": "HN 热议：601 分 · 171 评论",
+            "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
+            "insight": "HN 热议：227 分 · 53 评论",
             "sentiment": "positive",
-            "comments": 171,
-            "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
+            "comments": 53,
+            "url": "https://orcasairband.com/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Perplexity Decider v1.3: Training, eval, and use cases",
-            "insight": "HN 热议：40 分 · 12 评论",
-            "sentiment": "neutral",
-            "comments": 12,
-            "url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
+            "title": "Reverse engineering my Coway air purifier to ditch the cloud",
+            "insight": "HN 热议：696 分 · 201 评论",
+            "sentiment": "positive",
+            "comments": 201,
+            "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
-            "insight": "HN 热议：236 分 · 60 评论",
+            "title": "Ukraine knocks out 36% of Russia's oil refining capacity in under two weeks",
+            "insight": "HN 热议：204 分 · 90 评论",
             "sentiment": "positive",
-            "comments": 60,
-            "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+            "comments": 90,
+            "url": "https://english.nv.ua/nation/thirteen-day-drone-blitz-paralyzes-36-of-moscow-s-oil-50658616.html",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "No AI Slop: A Manifesto",
-            "insight": "HN 热议：58 分 · 33 评论",
+            "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
+            "insight": "HN 热议：35 分 · 9 评论",
             "sentiment": "neutral",
-            "comments": 33,
-            "url": "https://www.slopmanifesto.com/",
+            "comments": 9,
+            "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "OpenAI disbands its robotics team as its general models start running robots",
-            "insight": "HN 热议：99 分 · 37 评论",
+            "title": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
+            "insight": "HN 热议：59 分 · 44 评论",
             "sentiment": "neutral",
-            "comments": 37,
-            "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/",
+            "comments": 44,
+            "url": "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-11-13T21:02:42Z",
+    "updated": "2026-11-14T03:48:13Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
