@@ -1,49 +1,49 @@
 {
-  "updated": "2026-11-15T00:27:34Z",
+  "updated": "2026-11-15T10:01:22Z",
   "signals": [
     {
       "source": "HackerNews",
       "title": "Lovable apps expose passport details and more than 200K private messages",
-      "insight": "HN 热议：599 分 · 249 评论",
+      "insight": "HN 热议：813 分 · 316 评论",
       "sentiment": "positive",
-      "comments": 249,
+      "comments": 316,
       "url": "https://www.crissyfield.de/research/lovable-en/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Seagate's new hybrid drive raises some old questions",
-      "insight": "HN 热议：63 分 · 37 评论",
+      "title": "Show HN: Gawain – Require type hints on all Python variables",
+      "insight": "HN 热议：51 分 · 24 评论",
       "sentiment": "neutral",
-      "comments": 37,
-      "url": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
+      "comments": 24,
+      "url": "https://github.com/matheuzgomes/gawain",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Generative AI uses more energy on non-English text",
-      "insight": "HN 热议：171 分 · 94 评论",
+      "title": "Kiri – The Modern Container Runtime",
+      "insight": "HN 热议：45 分 · 25 评论",
       "sentiment": "neutral",
-      "comments": 94,
-      "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
+      "comments": 25,
+      "url": "https://runkiri.com/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Tech companies are trying to shift the concept of privacy again",
-      "insight": "HN 热议：441 分 · 167 评论",
+      "title": "Generative AI uses more energy on non-English text",
+      "insight": "HN 热议：209 分 · 111 评论",
       "sentiment": "positive",
-      "comments": 167,
-      "url": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
+      "comments": 111,
+      "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Agweb – a browser for agents that stays out of your way",
-      "insight": "HN 热议：86 分 · 22 评论",
+      "title": "Show HN: A custom font based on the Jamaican flag alphabet",
+      "insight": "HN 热议：40 分 · 6 评论",
       "sentiment": "neutral",
-      "comments": 22,
-      "url": "https://github.com/paul-nameless/agweb",
+      "comments": 6,
+      "url": "https://bobbiec.github.io/jamaican-font.html",
       "id": 5
     }
   ]
