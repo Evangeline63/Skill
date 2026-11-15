@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-11-15T10:01:22Z",
+    "updated": "2026-11-15T18:04:24Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-11-15T10:01:22Z",
+    "updated": "2026-11-15T18:04:24Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-11-15T10:01:22Z",
+    "updated": "2026-11-15T18:04:24Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 188031,
-            "stars_today": 188031,
+            "stars": 188038,
+            "stars_today": 188038,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "MDX",
-            "stars": 177460,
-            "stars_today": 177460,
+            "stars": 177528,
+            "stars_today": 177528,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 117204,
-            "stars_today": 117204,
+            "stars": 117310,
+            "stars_today": 117310,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 108432,
-            "stars_today": 108432,
+            "stars": 108450,
+            "stars_today": 108450,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 93493,
-            "stars_today": 93493,
+            "stars": 93521,
+            "stars_today": 93521,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 75634,
-            "stars_today": 75634,
+            "stars": 75715,
+            "stars_today": 75715,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-11-15T10:01:22Z",
+    "updated": "2026-11-15T18:04:24Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-11-15T10:01:22Z",
+    "updated": "2026-11-15T18:04:24Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-11-15T10:01:22Z",
+    "updated": "2026-11-15T18:04:24Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Lovable apps expose passport details and more than 200K private messages",
-            "insight": "HN 热议：813 分 · 316 评论",
+            "title": "All AI-generated code should be Open Source",
+            "insight": "HN 热议：548 分 · 319 评论",
             "sentiment": "positive",
-            "comments": 316,
-            "url": "https://www.crissyfield.de/research/lovable-en/",
+            "comments": 319,
+            "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Gawain – Require type hints on all Python variables",
-            "insight": "HN 热议：51 分 · 24 评论",
+            "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
+            "insight": "HN 热议：93 分 · 44 评论",
             "sentiment": "neutral",
-            "comments": 24,
-            "url": "https://github.com/matheuzgomes/gawain",
+            "comments": 44,
+            "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Kiri – The Modern Container Runtime",
-            "insight": "HN 热议：45 分 · 25 评论",
+            "title": "Understanding Positional Embeddings in Modern LLMs",
+            "insight": "HN 热议：124 分 · 3 评论",
             "sentiment": "neutral",
-            "comments": 25,
-            "url": "https://runkiri.com/",
+            "comments": 3,
+            "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Generative AI uses more energy on non-English text",
-            "insight": "HN 热议：209 分 · 111 评论",
+            "title": "Lovable apps expose passport details and more than 200K private messages",
+            "insight": "HN 热议：948 分 · 361 评论",
             "sentiment": "positive",
-            "comments": 111,
-            "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
+            "comments": 361,
+            "url": "https://www.crissyfield.de/research/lovable-en/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: A custom font based on the Jamaican flag alphabet",
-            "insight": "HN 热议：40 分 · 6 评论",
+            "title": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
+            "insight": "HN 热议：6 分 · 2 评论",
             "sentiment": "neutral",
-            "comments": 6,
-            "url": "https://bobbiec.github.io/jamaican-font.html",
+            "comments": 2,
+            "url": "https://github.com/db-branch/db-branch",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-11-15T10:01:22Z",
+    "updated": "2026-11-15T18:04:24Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

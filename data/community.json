@@ -1,49 +1,49 @@
 {
-  "updated": "2026-11-15T10:01:22Z",
+  "updated": "2026-11-15T18:04:24Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Lovable apps expose passport details and more than 200K private messages",
-      "insight": "HN 热议：813 分 · 316 评论",
+      "title": "All AI-generated code should be Open Source",
+      "insight": "HN 热议：548 分 · 319 评论",
       "sentiment": "positive",
-      "comments": 316,
-      "url": "https://www.crissyfield.de/research/lovable-en/",
+      "comments": 319,
+      "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Gawain – Require type hints on all Python variables",
-      "insight": "HN 热议：51 分 · 24 评论",
+      "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
+      "insight": "HN 热议：93 分 · 44 评论",
       "sentiment": "neutral",
-      "comments": 24,
-      "url": "https://github.com/matheuzgomes/gawain",
+      "comments": 44,
+      "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Kiri – The Modern Container Runtime",
-      "insight": "HN 热议：45 分 · 25 评论",
+      "title": "Understanding Positional Embeddings in Modern LLMs",
+      "insight": "HN 热议：124 分 · 3 评论",
       "sentiment": "neutral",
-      "comments": 25,
-      "url": "https://runkiri.com/",
+      "comments": 3,
+      "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Generative AI uses more energy on non-English text",
-      "insight": "HN 热议：209 分 · 111 评论",
+      "title": "Lovable apps expose passport details and more than 200K private messages",
+      "insight": "HN 热议：948 分 · 361 评论",
       "sentiment": "positive",
-      "comments": 111,
-      "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
+      "comments": 361,
+      "url": "https://www.crissyfield.de/research/lovable-en/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: A custom font based on the Jamaican flag alphabet",
-      "insight": "HN 热议：40 分 · 6 评论",
+      "title": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
+      "insight": "HN 热议：6 分 · 2 评论",
       "sentiment": "neutral",
-      "comments": 6,
-      "url": "https://bobbiec.github.io/jamaican-font.html",
+      "comments": 2,
+      "url": "https://github.com/db-branch/db-branch",
       "id": 5
     }
   ]
