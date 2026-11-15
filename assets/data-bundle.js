@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-11-14T19:32:00Z",
+    "updated": "2026-11-15T00:27:34Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-11-14T19:32:00Z",
+    "updated": "2026-11-15T00:27:34Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-11-14T19:32:00Z",
+    "updated": "2026-11-15T00:27:34Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 188027,
-            "stars_today": 188027,
+            "stars": 188024,
+            "stars_today": 188024,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "MDX",
-            "stars": 177338,
-            "stars_today": 177338,
+            "stars": 177359,
+            "stars_today": 177359,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 117046,
-            "stars_today": 117046,
+            "stars": 117123,
+            "stars_today": 117123,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,32 +300,32 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 108409,
-            "stars_today": 108409,
+            "stars": 108415,
+            "stars_today": 108415,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
             "rank": 5,
-            "name": "hacksider/Deep-Live-Cam",
-            "description": "real time face swap and one-click video deepfake with only a single image",
-            "language": "Python",
-            "stars": 98111,
-            "stars_today": 98111,
-            "url": "https://github.com/hacksider/Deep-Live-Cam"
-        },
-        {
-            "rank": 6,
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 93469,
-            "stars_today": 93469,
+            "stars": 93477,
+            "stars_today": 93477,
             "url": "https://github.com/OpenHands/OpenHands"
+        },
+        {
+            "rank": 6,
+            "name": "usestrix/strix",
+            "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+            "language": "Python",
+            "stars": 75576,
+            "stars_today": 75576,
+            "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-11-14T19:32:00Z",
+    "updated": "2026-11-15T00:27:34Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-11-14T19:32:00Z",
+    "updated": "2026-11-15T00:27:34Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-11-14T19:32:00Z",
+    "updated": "2026-11-15T00:27:34Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Lovable apps expose passport details and more than 200K private messages",
-            "insight": "HN 热议：223 分 · 63 评论",
+            "insight": "HN 热议：599 分 · 249 评论",
             "sentiment": "positive",
-            "comments": 63,
+            "comments": 249,
             "url": "https://www.crissyfield.de/research/lovable-en/",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "Seagate's new hybrid drive raises some old questions",
-            "insight": "HN 热议：17 分 · 7 评论",
+            "insight": "HN 热议：63 分 · 37 评论",
             "sentiment": "neutral",
-            "comments": 7,
+            "comments": 37,
             "url": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
             "id": 2
         },
         {
             "source": "HackerNews",
             "title": "Generative AI uses more energy on non-English text",
-            "insight": "HN 热议：130 分 · 82 评论",
+            "insight": "HN 热议：171 分 · 94 评论",
             "sentiment": "neutral",
-            "comments": 82,
+            "comments": 94,
             "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Tech Companies Are Trying to Shift the Concept of Privacy (Again)",
-            "insight": "HN 热议：304 分 · 115 评论",
+            "title": "Tech companies are trying to shift the concept of privacy again",
+            "insight": "HN 热议：441 分 · 167 评论",
             "sentiment": "positive",
-            "comments": 115,
+            "comments": 167,
             "url": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
             "id": 4
         },
         {
             "source": "HackerNews",
             "title": "Show HN: Agweb – a browser for agents that stays out of your way",
-            "insight": "HN 热议：59 分 · 18 评论",
+            "insight": "HN 热议：86 分 · 22 评论",
             "sentiment": "neutral",
-            "comments": 18,
+            "comments": 22,
             "url": "https://github.com/paul-nameless/agweb",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-11-14T19:32:00Z",
+    "updated": "2026-11-15T00:27:34Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
