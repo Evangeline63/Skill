@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-11-16T10:15:42Z",
+    "updated": "2026-11-16T21:20:06Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-11-16T10:15:42Z",
+    "updated": "2026-11-16T21:20:06Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-11-16T10:15:42Z",
+    "updated": "2026-11-16T21:20:06Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 188051,
-            "stars_today": 188051,
+            "stars": 188060,
+            "stars_today": 188060,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "MDX",
-            "stars": 177611,
-            "stars_today": 177611,
+            "stars": 177668,
+            "stars_today": 177668,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 117508,
-            "stars_today": 117508,
+            "stars": 117656,
+            "stars_today": 117656,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 93572,
-            "stars_today": 93572,
+            "stars": 93604,
+            "stars_today": 93604,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 75861,
-            "stars_today": 75861,
+            "stars": 76012,
+            "stars_today": 76012,
             "url": "https://github.com/usestrix/strix"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "microsoft/AI-For-Beginners",
             "description": "12 Weeks, 24 Lessons, AI for All!",
             "language": "Jupyter Notebook",
-            "stars": 70879,
-            "stars_today": 70879,
+            "stars": 70922,
+            "stars_today": 70922,
             "url": "https://github.com/microsoft/AI-For-Beginners"
         }
     ]
 },
   "products": {
-    "updated": "2026-11-16T10:15:42Z",
+    "updated": "2026-11-16T21:20:06Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-11-16T10:15:42Z",
+    "updated": "2026-11-16T21:20:06Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-11-16T10:15:42Z",
+    "updated": "2026-11-16T21:20:06Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
-            "insight": "HN 热议：155 分 · 43 评论",
+            "title": "OpenAI: Strengthening the fight against online child sexual abuse",
+            "insight": "HN 热议：59 分 · 108 评论",
             "sentiment": "neutral",
-            "comments": 43,
-            "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
+            "comments": 108,
+            "url": "https://openai.com/index/strengthening-online-child-safety/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "A short explainer on how El Niño works [video]",
-            "insight": "HN 热议：242 分 · 106 评论",
-            "sentiment": "positive",
-            "comments": 106,
-            "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
+            "title": "Giant Roadside Attractions Face Mounting Costs and an Uncertain Future",
+            "insight": "HN 热议：24 分 · 19 评论",
+            "sentiment": "neutral",
+            "comments": 19,
+            "url": "https://www.nytimes.com/2026/11/08/world/canada/roadside-attractions-giant-dinosaur.html",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "WebGL Flight Simulator with seed generated terrain",
-            "insight": "HN 热议：151 分 · 31 评论",
+            "title": "Microsoft blames monster email outage on software defect introduced in July fix",
+            "insight": "HN 热议：108 分 · 72 评论",
             "sentiment": "neutral",
-            "comments": 31,
-            "url": "https://baron.by.dai.studio/",
+            "comments": 72,
+            "url": "https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Artificial Intelligence for the Z80",
-            "insight": "HN 热议：46 分 · 6 评论",
-            "sentiment": "neutral",
-            "comments": 6,
-            "url": "https://www.dfsantos.com/en/libro-ia-z80",
+            "title": "Interpreting claims that a theorem is correct because it was checked in Lean",
+            "insight": "HN 热议：273 分 · 118 评论",
+            "sentiment": "positive",
+            "comments": 118,
+            "url": "https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Parcel: A desktop mail client for Linux, built with Zig",
-            "insight": "HN 热议：37 分 · 8 评论",
+            "title": "First phase of embedded assessments at OpenAI",
+            "insight": "HN 热议：25 分 · 10 评论",
             "sentiment": "neutral",
-            "comments": 8,
-            "url": "https://tangled.org/rockorager.dev/parcel",
+            "comments": 10,
+            "url": "https://openai.com/index/our-first-phase-of-embedded-assessments/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-11-16T10:15:42Z",
+    "updated": "2026-11-16T21:20:06Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
