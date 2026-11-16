@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-11-15T18:04:24Z",
+    "updated": "2026-11-16T00:29:02Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-11-15T18:04:24Z",
+    "updated": "2026-11-16T00:29:02Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-11-15T18:04:24Z",
+    "updated": "2026-11-16T00:29:02Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 188038,
-            "stars_today": 188038,
+            "stars": 188045,
+            "stars_today": 188045,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "MDX",
-            "stars": 177528,
-            "stars_today": 177528,
+            "stars": 177559,
+            "stars_today": 177559,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,41 +291,41 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 117310,
-            "stars_today": 117310,
+            "stars": 117375,
+            "stars_today": 117375,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
             "rank": 4,
-            "name": "rasbt/LLMs-from-scratch",
-            "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
-            "language": "Jupyter Notebook",
-            "stars": 108450,
-            "stars_today": 108450,
-            "url": "https://github.com/rasbt/LLMs-from-scratch"
-        },
-        {
-            "rank": 5,
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 93521,
-            "stars_today": 93521,
+            "stars": 93531,
+            "stars_today": 93531,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
-            "rank": 6,
+            "rank": 5,
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 75715,
-            "stars_today": 75715,
+            "stars": 75762,
+            "stars_today": 75762,
             "url": "https://github.com/usestrix/strix"
+        },
+        {
+            "rank": 6,
+            "name": "microsoft/AI-For-Beginners",
+            "description": "12 Weeks, 24 Lessons, AI for All!",
+            "language": "Jupyter Notebook",
+            "stars": 70847,
+            "stars_today": 70847,
+            "url": "https://github.com/microsoft/AI-For-Beginners"
         }
     ]
 },
   "products": {
-    "updated": "2026-11-15T18:04:24Z",
+    "updated": "2026-11-16T00:29:02Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-11-15T18:04:24Z",
+    "updated": "2026-11-16T00:29:02Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-11-15T18:04:24Z",
+    "updated": "2026-11-16T00:29:02Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "All AI-generated code should be Open Source",
-            "insight": "HN 热议：548 分 · 319 评论",
-            "sentiment": "positive",
-            "comments": 319,
-            "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+            "title": "A short explainer on how El Niño works [video]",
+            "insight": "HN 热议：160 分 · 61 评论",
+            "sentiment": "neutral",
+            "comments": 61,
+            "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
-            "insight": "HN 热议：93 分 · 44 评论",
+            "title": "WebGL Flight Simulator with seed generated terrain",
+            "insight": "HN 热议：71 分 · 9 评论",
             "sentiment": "neutral",
-            "comments": 44,
-            "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
+            "comments": 9,
+            "url": "https://baron.by.dai.studio/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Understanding Positional Embeddings in Modern LLMs",
-            "insight": "HN 热议：124 分 · 3 评论",
+            "title": "'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can",
+            "insight": "HN 热议：154 分 · 111 评论",
             "sentiment": "neutral",
-            "comments": 3,
-            "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+            "comments": 111,
+            "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Lovable apps expose passport details and more than 200K private messages",
-            "insight": "HN 热议：948 分 · 361 评论",
+            "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
+            "insight": "HN 热议：322 分 · 159 评论",
             "sentiment": "positive",
-            "comments": 361,
-            "url": "https://www.crissyfield.de/research/lovable-en/",
+            "comments": 159,
+            "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
-            "insight": "HN 热议：6 分 · 2 评论",
+            "title": "Understanding Positional Embeddings in Modern LLMs",
+            "insight": "HN 热议：195 分 · 26 评论",
             "sentiment": "neutral",
-            "comments": 2,
-            "url": "https://github.com/db-branch/db-branch",
+            "comments": 26,
+            "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-11-15T18:04:24Z",
+    "updated": "2026-11-16T00:29:02Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
