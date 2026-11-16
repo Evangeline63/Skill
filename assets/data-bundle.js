@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-11-16T00:29:02Z",
+    "updated": "2026-11-16T10:15:42Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-11-16T00:29:02Z",
+    "updated": "2026-11-16T10:15:42Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-11-16T00:29:02Z",
+    "updated": "2026-11-16T10:15:42Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 188045,
-            "stars_today": 188045,
+            "stars": 188051,
+            "stars_today": 188051,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "MDX",
-            "stars": 177559,
-            "stars_today": 177559,
+            "stars": 177611,
+            "stars_today": 177611,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 117375,
-            "stars_today": 117375,
+            "stars": 117508,
+            "stars_today": 117508,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 93531,
-            "stars_today": 93531,
+            "stars": 93572,
+            "stars_today": 93572,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 75762,
-            "stars_today": 75762,
+            "stars": 75861,
+            "stars_today": 75861,
             "url": "https://github.com/usestrix/strix"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "microsoft/AI-For-Beginners",
             "description": "12 Weeks, 24 Lessons, AI for All!",
             "language": "Jupyter Notebook",
-            "stars": 70847,
-            "stars_today": 70847,
+            "stars": 70879,
+            "stars_today": 70879,
             "url": "https://github.com/microsoft/AI-For-Beginners"
         }
     ]
 },
   "products": {
-    "updated": "2026-11-16T00:29:02Z",
+    "updated": "2026-11-16T10:15:42Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-11-16T00:29:02Z",
+    "updated": "2026-11-16T10:15:42Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-11-16T00:29:02Z",
+    "updated": "2026-11-16T10:15:42Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "A short explainer on how El Niño works [video]",
-            "insight": "HN 热议：160 分 · 61 评论",
+            "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
+            "insight": "HN 热议：155 分 · 43 评论",
             "sentiment": "neutral",
-            "comments": 61,
-            "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
+            "comments": 43,
+            "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "WebGL Flight Simulator with seed generated terrain",
-            "insight": "HN 热议：71 分 · 9 评论",
-            "sentiment": "neutral",
-            "comments": 9,
-            "url": "https://baron.by.dai.studio/",
+            "title": "A short explainer on how El Niño works [video]",
+            "insight": "HN 热议：242 分 · 106 评论",
+            "sentiment": "positive",
+            "comments": 106,
+            "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can",
-            "insight": "HN 热议：154 分 · 111 评论",
+            "title": "WebGL Flight Simulator with seed generated terrain",
+            "insight": "HN 热议：151 分 · 31 评论",
             "sentiment": "neutral",
-            "comments": 111,
-            "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
+            "comments": 31,
+            "url": "https://baron.by.dai.studio/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
-            "insight": "HN 热议：322 分 · 159 评论",
-            "sentiment": "positive",
-            "comments": 159,
-            "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
+            "title": "Artificial Intelligence for the Z80",
+            "insight": "HN 热议：46 分 · 6 评论",
+            "sentiment": "neutral",
+            "comments": 6,
+            "url": "https://www.dfsantos.com/en/libro-ia-z80",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Understanding Positional Embeddings in Modern LLMs",
-            "insight": "HN 热议：195 分 · 26 评论",
+            "title": "Parcel: A desktop mail client for Linux, built with Zig",
+            "insight": "HN 热议：37 分 · 8 评论",
             "sentiment": "neutral",
-            "comments": 26,
-            "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+            "comments": 8,
+            "url": "https://tangled.org/rockorager.dev/parcel",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-11-16T00:29:02Z",
+    "updated": "2026-11-16T10:15:42Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
