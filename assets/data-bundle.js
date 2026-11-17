@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-11-17T05:27:13Z",
+    "updated": "2026-11-17T15:00:05Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-11-17T05:27:13Z",
+    "updated": "2026-11-17T15:00:05Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-11-17T05:27:13Z",
+    "updated": "2026-11-17T15:00:05Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 188068,
-            "stars_today": 188068,
+            "stars": 188072,
+            "stars_today": 188072,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "MDX",
-            "stars": 177691,
-            "stars_today": 177691,
+            "stars": 177731,
+            "stars_today": 177731,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 117762,
-            "stars_today": 117762,
+            "stars": 117885,
+            "stars_today": 117885,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 93616,
-            "stars_today": 93616,
+            "stars": 93645,
+            "stars_today": 93645,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 76108,
-            "stars_today": 76108,
+            "stars": 76241,
+            "stars_today": 76241,
             "url": "https://github.com/usestrix/strix"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "microsoft/AI-For-Beginners",
             "description": "12 Weeks, 24 Lessons, AI for All!",
             "language": "Jupyter Notebook",
-            "stars": 70937,
-            "stars_today": 70937,
+            "stars": 70970,
+            "stars_today": 70970,
             "url": "https://github.com/microsoft/AI-For-Beginners"
         }
     ]
 },
   "products": {
-    "updated": "2026-11-17T05:27:13Z",
+    "updated": "2026-11-17T15:00:05Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-11-17T05:27:13Z",
+    "updated": "2026-11-17T15:00:05Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-11-17T05:27:13Z",
+    "updated": "2026-11-17T15:00:05Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
-            "insight": "HN 热议：401 分 · 258 评论",
-            "sentiment": "positive",
-            "comments": 258,
-            "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
+            "title": "Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns",
+            "insight": "HN 热议：29 分 · 6 评论",
+            "sentiment": "neutral",
+            "comments": 6,
+            "url": "https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Running coding agents without handing them my credentials",
-            "insight": "HN 热议：75 分 · 35 评论",
+            "title": "How the Claude Code team thinks about verification",
+            "insight": "HN 热议：100 分 · 109 评论",
             "sentiment": "neutral",
-            "comments": 35,
-            "url": "https://blog.antonio.cx/running-agents-with-lend",
+            "comments": 109,
+            "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Spamhaus new email sender requirements in November",
-            "insight": "HN 热议：84 分 · 79 评论",
-            "sentiment": "neutral",
-            "comments": 79,
-            "url": "https://www.spamhaus.org/sender-guidelines/",
+            "title": "Microsoft blames monster email outage on software defect introduced in July fix",
+            "insight": "HN 热议：390 分 · 293 评论",
+            "sentiment": "positive",
+            "comments": 293,
+            "url": "https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Microsoft blames monster email outage on software defect introduced in July fix",
-            "insight": "HN 热议：261 分 · 189 评论",
-            "sentiment": "positive",
-            "comments": 189,
-            "url": "https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026",
+            "title": "Spamhaus new email sender requirements in November",
+            "insight": "HN 热议：133 分 · 132 评论",
+            "sentiment": "neutral",
+            "comments": 132,
+            "url": "https://www.spamhaus.org/sender-guidelines/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "United Airlines experiencing a widespread system outage, airline says",
-            "insight": "HN 热议：220 分 · 111 评论",
+            "title": "Windows 11 is collecting data on which coding agents and developer tools you use",
+            "insight": "HN 热议：671 分 · 532 评论",
             "sentiment": "positive",
-            "comments": 111,
-            "url": "https://www.cnn.com/2026/11/16/us/united-airlines-outage",
+            "comments": 532,
+            "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-11-17T05:27:13Z",
+    "updated": "2026-11-17T15:00:05Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
