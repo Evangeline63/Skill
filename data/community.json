@@ -1,49 +1,49 @@
 {
-  "updated": "2026-11-17T15:00:05Z",
+  "updated": "2026-11-17T22:47:16Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns",
-      "insight": "HN 热议：29 分 · 6 评论",
-      "sentiment": "neutral",
-      "comments": 6,
-      "url": "https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns",
+      "title": "GPT‑6.2 Astra and Sol",
+      "insight": "HN 热议：961 分 · 600 评论",
+      "sentiment": "positive",
+      "comments": 600,
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "How the Claude Code team thinks about verification",
-      "insight": "HN 热议：100 分 · 109 评论",
-      "sentiment": "neutral",
-      "comments": 109,
-      "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
+      "title": "MAI Code 2 and Code 2 Flash",
+      "insight": "HN 热议：233 分 · 111 评论",
+      "sentiment": "positive",
+      "comments": 111,
+      "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Microsoft blames monster email outage on software defect introduced in July fix",
-      "insight": "HN 热议：390 分 · 293 评论",
-      "sentiment": "positive",
-      "comments": 293,
-      "url": "https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026",
+      "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
+      "insight": "HN 热议：36 分 · 19 评论",
+      "sentiment": "neutral",
+      "comments": 19,
+      "url": "https://starsling.dev",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Spamhaus new email sender requirements in November",
-      "insight": "HN 热议：133 分 · 132 评论",
+      "title": "Not Everything Needs an LLM",
+      "insight": "HN 热议：48 分 · 12 评论",
       "sentiment": "neutral",
-      "comments": 132,
-      "url": "https://www.spamhaus.org/sender-guidelines/",
+      "comments": 12,
+      "url": "https://newsletter.posthog.com/p/decision-models",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Windows 11 is collecting data on which coding agents and developer tools you use",
-      "insight": "HN 热议：671 分 · 532 评论",
+      "title": "How the Claude Code team thinks about verification",
+      "insight": "HN 热议：244 分 · 190 评论",
       "sentiment": "positive",
-      "comments": 532,
-      "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
+      "comments": 190,
+      "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
       "id": 5
     }
   ]
