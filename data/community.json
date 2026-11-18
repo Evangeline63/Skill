@@ -1,49 +1,49 @@
 {
-  "updated": "2026-11-17T22:47:16Z",
+  "updated": "2026-11-18T04:53:44Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "GPT‑6.2 Astra and Sol",
-      "insight": "HN 热议：961 分 · 600 评论",
+      "title": "Google's AI answers reducing search traffic by 40%",
+      "insight": "HN 热议：204 分 · 138 评论",
       "sentiment": "positive",
-      "comments": 600,
-      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+      "comments": 138,
+      "url": "https://revscope.co/blog/search-seo-geo-2026/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "MAI Code 2 and Code 2 Flash",
-      "insight": "HN 热议：233 分 · 111 评论",
+      "title": "GPT‑6.2 Astra and Sol",
+      "insight": "HN 热议：1167 分 · 736 评论",
       "sentiment": "positive",
-      "comments": 111,
-      "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
+      "comments": 736,
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
-      "insight": "HN 热议：36 分 · 19 评论",
-      "sentiment": "neutral",
-      "comments": 19,
-      "url": "https://starsling.dev",
+      "title": "MAI Code 2 and Code 2 Flash",
+      "insight": "HN 热议：313 分 · 143 评论",
+      "sentiment": "positive",
+      "comments": 143,
+      "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Not Everything Needs an LLM",
-      "insight": "HN 热议：48 分 · 12 评论",
+      "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+      "insight": "HN 热议：105 分 · 159 评论",
       "sentiment": "neutral",
-      "comments": 12,
-      "url": "https://newsletter.posthog.com/p/decision-models",
+      "comments": 159,
+      "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "How the Claude Code team thinks about verification",
-      "insight": "HN 热议：244 分 · 190 评论",
-      "sentiment": "positive",
-      "comments": 190,
-      "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
+      "title": "Fun with Constrained Programming",
+      "insight": "HN 热议：36 分 · 0 评论",
+      "sentiment": "neutral",
+      "comments": 0,
+      "url": "https://blog.cmpxchg8b.com/2012/09/fun-with-constrained-programming.html",
       "id": 5
     }
   ]
