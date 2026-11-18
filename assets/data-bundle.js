@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-11-18T14:41:07Z",
+    "updated": "2026-11-18T22:23:54Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-11-18T14:41:07Z",
+    "updated": "2026-11-18T22:23:54Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-11-18T14:41:07Z",
+    "updated": "2026-11-18T22:23:54Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 188083,
-            "stars_today": 188083,
+            "stars": 188091,
+            "stars_today": 188091,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "MDX",
-            "stars": 177792,
-            "stars_today": 177792,
+            "stars": 177807,
+            "stars_today": 177807,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 118161,
-            "stars_today": 118161,
+            "stars": 118221,
+            "stars_today": 118221,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 93740,
-            "stars_today": 93740,
+            "stars": 93763,
+            "stars_today": 93763,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 76439,
-            "stars_today": 76439,
+            "stars": 76512,
+            "stars_today": 76512,
             "url": "https://github.com/usestrix/strix"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "microsoft/AI-For-Beginners",
             "description": "12 Weeks, 24 Lessons, AI for All!",
             "language": "Jupyter Notebook",
-            "stars": 71006,
-            "stars_today": 71006,
+            "stars": 71012,
+            "stars_today": 71012,
             "url": "https://github.com/microsoft/AI-For-Beginners"
         }
     ]
 },
   "products": {
-    "updated": "2026-11-18T14:41:07Z",
+    "updated": "2026-11-18T22:23:54Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-11-18T14:41:07Z",
+    "updated": "2026-11-18T22:23:54Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-11-18T14:41:07Z",
+    "updated": "2026-11-18T22:23:54Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Can Peer Review Survive AI-Generated Text? [pdf]",
-            "insight": "HN 热议：29 分 · 18 评论",
-            "sentiment": "neutral",
-            "comments": 18,
-            "url": "https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf",
+            "title": "Gemini 4 Neon",
+            "insight": "HN 热议：204 分 · 177 评论",
+            "sentiment": "positive",
+            "comments": 177,
+            "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "When AI Knows More Than It Can Offer",
-            "insight": "HN 热议：28 分 · 13 评论",
+            "title": "DaisyRose-27B: 1,200-task RL took Qwen3.8 from 5.6% to 12% on Terminal-Bench 4.1",
+            "insight": "HN 热议：84 分 · 18 评论",
             "sentiment": "neutral",
-            "comments": 13,
-            "url": "https://medium.com/@smoking2man/when-ai-knows-more-than-it-can-offer-how-training-turns-an-intelligent-assistant-into-a-generator-7e700f05163e",
+            "comments": 18,
+            "url": "https://www.radixark.com/blog/daisyrose-27b",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Google's AI answers reducing search traffic by 40%",
-            "insight": "HN 热议：572 分 · 431 评论",
+            "title": "AI agents ask better questions than KPMG accountants in audit trial",
+            "insight": "HN 热议：261 分 · 126 评论",
             "sentiment": "positive",
-            "comments": 431,
-            "url": "https://revscope.co/blog/search-seo-geo-2026/",
+            "comments": 126,
+            "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Why is Gemini 4 Carbon taking so long?",
-            "insight": "HN 热议：193 分 · 96 评论",
+            "title": "Advancing chip design with OpenAI models",
+            "insight": "HN 热议：121 分 · 60 评论",
             "sentiment": "neutral",
-            "comments": 96,
-            "url": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/",
+            "comments": 60,
+            "url": "https://openai.com/index/advancing-chip-design-with-our-models/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "IPv6 delegation, an unusually subtle failure mode",
-            "insight": "HN 热议：33 分 · 17 评论",
+            "title": "Genie 4 is now available",
+            "insight": "HN 热议：146 分 · 127 评论",
             "sentiment": "neutral",
-            "comments": 17,
-            "url": "https://savyasacheejha.com/posts/why-odhcpd/",
+            "comments": 127,
+            "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-11-18T14:41:07Z",
+    "updated": "2026-11-18T22:23:54Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
