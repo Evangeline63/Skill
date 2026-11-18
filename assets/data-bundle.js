@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-11-18T04:53:44Z",
+    "updated": "2026-11-18T14:41:07Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-11-18T04:53:44Z",
+    "updated": "2026-11-18T14:41:07Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-11-18T04:53:44Z",
+    "updated": "2026-11-18T14:41:07Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 188082,
-            "stars_today": 188082,
+            "stars": 188083,
+            "stars_today": 188083,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "MDX",
-            "stars": 177765,
-            "stars_today": 177765,
+            "stars": 177792,
+            "stars_today": 177792,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 118047,
-            "stars_today": 118047,
+            "stars": 118161,
+            "stars_today": 118161,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 93700,
-            "stars_today": 93700,
+            "stars": 93740,
+            "stars_today": 93740,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 76373,
-            "stars_today": 76373,
+            "stars": 76439,
+            "stars_today": 76439,
             "url": "https://github.com/usestrix/strix"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "microsoft/AI-For-Beginners",
             "description": "12 Weeks, 24 Lessons, AI for All!",
             "language": "Jupyter Notebook",
-            "stars": 70992,
-            "stars_today": 70992,
+            "stars": 71006,
+            "stars_today": 71006,
             "url": "https://github.com/microsoft/AI-For-Beginners"
         }
     ]
 },
   "products": {
-    "updated": "2026-11-18T04:53:44Z",
+    "updated": "2026-11-18T14:41:07Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-11-18T04:53:44Z",
+    "updated": "2026-11-18T14:41:07Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-11-18T04:53:44Z",
+    "updated": "2026-11-18T14:41:07Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Google's AI answers reducing search traffic by 40%",
-            "insight": "HN 热议：204 分 · 138 评论",
-            "sentiment": "positive",
-            "comments": 138,
-            "url": "https://revscope.co/blog/search-seo-geo-2026/",
+            "title": "Can Peer Review Survive AI-Generated Text? [pdf]",
+            "insight": "HN 热议：29 分 · 18 评论",
+            "sentiment": "neutral",
+            "comments": 18,
+            "url": "https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "GPT‑6.2 Astra and Sol",
-            "insight": "HN 热议：1167 分 · 736 评论",
-            "sentiment": "positive",
-            "comments": 736,
-            "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+            "title": "When AI Knows More Than It Can Offer",
+            "insight": "HN 热议：28 分 · 13 评论",
+            "sentiment": "neutral",
+            "comments": 13,
+            "url": "https://medium.com/@smoking2man/when-ai-knows-more-than-it-can-offer-how-training-turns-an-intelligent-assistant-into-a-generator-7e700f05163e",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "MAI Code 2 and Code 2 Flash",
-            "insight": "HN 热议：313 分 · 143 评论",
+            "title": "Google's AI answers reducing search traffic by 40%",
+            "insight": "HN 热议：572 分 · 431 评论",
             "sentiment": "positive",
-            "comments": 143,
-            "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
+            "comments": 431,
+            "url": "https://revscope.co/blog/search-seo-geo-2026/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
-            "insight": "HN 热议：105 分 · 159 评论",
+            "title": "Why is Gemini 4 Carbon taking so long?",
+            "insight": "HN 热议：193 分 · 96 评论",
             "sentiment": "neutral",
-            "comments": 159,
-            "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+            "comments": 96,
+            "url": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Fun with Constrained Programming",
-            "insight": "HN 热议：36 分 · 0 评论",
+            "title": "IPv6 delegation, an unusually subtle failure mode",
+            "insight": "HN 热议：33 分 · 17 评论",
             "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://blog.cmpxchg8b.com/2012/09/fun-with-constrained-programming.html",
+            "comments": 17,
+            "url": "https://savyasacheejha.com/posts/why-odhcpd/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-11-18T04:53:44Z",
+    "updated": "2026-11-18T14:41:07Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
