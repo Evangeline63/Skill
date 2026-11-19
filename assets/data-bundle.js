@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-11-19T04:45:32Z",
+    "updated": "2026-11-19T14:47:47Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-11-19T04:45:32Z",
+    "updated": "2026-11-19T14:47:47Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-11-19T04:45:32Z",
+    "updated": "2026-11-19T14:47:47Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 188096,
-            "stars_today": 188096,
+            "stars": 188102,
+            "stars_today": 188102,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "MDX",
-            "stars": 177818,
-            "stars_today": 177818,
+            "stars": 177881,
+            "stars_today": 177881,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 118279,
-            "stars_today": 118279,
+            "stars": 118354,
+            "stars_today": 118354,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 93791,
-            "stars_today": 93791,
+            "stars": 93828,
+            "stars_today": 93828,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 76568,
-            "stars_today": 76568,
+            "stars": 76636,
+            "stars_today": 76636,
             "url": "https://github.com/usestrix/strix"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "microsoft/AI-For-Beginners",
             "description": "12 Weeks, 24 Lessons, AI for All!",
             "language": "Jupyter Notebook",
-            "stars": 71019,
-            "stars_today": 71019,
+            "stars": 71025,
+            "stars_today": 71025,
             "url": "https://github.com/microsoft/AI-For-Beginners"
         }
     ]
 },
   "products": {
-    "updated": "2026-11-19T04:45:32Z",
+    "updated": "2026-11-19T14:47:47Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-11-19T04:45:32Z",
+    "updated": "2026-11-19T14:47:47Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-11-19T04:45:32Z",
+    "updated": "2026-11-19T14:47:47Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Gemini 4 Neon",
-            "insight": "HN 热议：592 分 · 530 评论",
+            "title": "Garage Door Spam",
+            "insight": "HN 热议：238 分 · 87 评论",
             "sentiment": "positive",
-            "comments": 530,
-            "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+            "comments": 87,
+            "url": "https://blog.harrison.page/garage-door-spam/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
-            "insight": "HN 热议：155 分 · 55 评论",
-            "sentiment": "neutral",
-            "comments": 55,
-            "url": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/",
+            "title": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
+            "insight": "HN 热议：259 分 · 103 评论",
+            "sentiment": "positive",
+            "comments": 103,
+            "url": "https://verialabs.com/ruby2shell/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "AI agents ask better questions than KPMG accountants in audit trial",
-            "insight": "HN 热议：409 分 · 177 评论",
-            "sentiment": "positive",
-            "comments": 177,
-            "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+            "title": "Distributed, high-performance blob storage on SQLite",
+            "insight": "HN 热议：142 分 · 30 评论",
+            "sentiment": "neutral",
+            "comments": 30,
+            "url": "https://zerodha.tech/blog/high-performance-distributed-blob-storage/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "LLM assisted reverse engineering",
-            "insight": "HN 热议：112 分 · 32 评论",
-            "sentiment": "neutral",
-            "comments": 32,
-            "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
+            "title": "Gemini 4 Neon",
+            "insight": "HN 热议：916 分 · 717 评论",
+            "sentiment": "positive",
+            "comments": 717,
+            "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "DaisyRose-27B",
-            "insight": "HN 热议：163 分 · 47 评论",
-            "sentiment": "neutral",
-            "comments": 47,
-            "url": "https://www.radixark.com/blog/daisyrose-27b",
+            "title": "Anthropic prices initial public offering",
+            "insight": "HN 热议：326 分 · 606 评论",
+            "sentiment": "positive",
+            "comments": 606,
+            "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-11-19T04:45:32Z",
+    "updated": "2026-11-19T14:47:47Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
