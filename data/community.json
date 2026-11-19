@@ -1,49 +1,49 @@
 {
-  "updated": "2026-11-19T14:47:47Z",
+  "updated": "2026-11-19T22:29:25Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Garage Door Spam",
-      "insight": "HN 热议：238 分 · 87 评论",
+      "title": "Anthropic hits $2T in Nasdaq debut",
+      "insight": "HN 热议：725 分 · 1317 评论",
       "sentiment": "positive",
-      "comments": 87,
-      "url": "https://blog.harrison.page/garage-door-spam/",
+      "comments": 1317,
+      "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
-      "insight": "HN 热议：259 分 · 103 评论",
+      "title": "Claude solves two open problems in the physics of black holes",
+      "insight": "HN 热议：309 分 · 134 评论",
       "sentiment": "positive",
-      "comments": 103,
-      "url": "https://verialabs.com/ruby2shell/",
+      "comments": 134,
+      "url": "https://www.anthropic.com/research/claude-black-hole-physics",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Distributed, high-performance blob storage on SQLite",
-      "insight": "HN 热议：142 分 · 30 评论",
+      "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
+      "insight": "HN 热议：130 分 · 67 评论",
       "sentiment": "neutral",
-      "comments": 30,
-      "url": "https://zerodha.tech/blog/high-performance-distributed-blob-storage/",
+      "comments": 67,
+      "url": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Gemini 4 Neon",
-      "insight": "HN 热议：916 分 · 717 评论",
+      "title": "Garage Door Spam",
+      "insight": "HN 热议：690 分 · 283 评论",
       "sentiment": "positive",
-      "comments": 717,
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+      "comments": 283,
+      "url": "https://blog.harrison.page/garage-door-spam/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Anthropic prices initial public offering",
-      "insight": "HN 热议：326 分 · 606 评论",
-      "sentiment": "positive",
-      "comments": 606,
-      "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+      "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
+      "insight": "HN 热议：50 分 · 80 评论",
+      "sentiment": "neutral",
+      "comments": 80,
+      "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
       "id": 5
     }
   ]
