@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-11-20T14:29:11Z",
+    "updated": "2026-11-20T22:00:55Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-11-20T14:29:11Z",
+    "updated": "2026-11-20T22:00:55Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-11-20T14:29:11Z",
+    "updated": "2026-11-20T22:00:55Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 188118,
-            "stars_today": 188118,
+            "stars": 188117,
+            "stars_today": 188117,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "MDX",
-            "stars": 177955,
-            "stars_today": 177955,
+            "stars": 178014,
+            "stars_today": 178014,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,41 +291,41 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 118560,
-            "stars_today": 118560,
+            "stars": 118624,
+            "stars_today": 118624,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
             "rank": 4,
-            "name": "OpenHands/OpenHands",
-            "description": "🙌 OpenHands: AI-Driven Development",
-            "language": "TypeScript",
-            "stars": 93902,
-            "stars_today": 93902,
-            "url": "https://github.com/OpenHands/OpenHands"
+            "name": "rasbt/LLMs-from-scratch",
+            "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+            "language": "Jupyter Notebook",
+            "stars": 108716,
+            "stars_today": 108716,
+            "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
             "rank": 5,
-            "name": "usestrix/strix",
-            "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-            "language": "Python",
-            "stars": 76771,
-            "stars_today": 76771,
-            "url": "https://github.com/usestrix/strix"
+            "name": "OpenHands/OpenHands",
+            "description": "🙌 OpenHands: AI-Driven Development",
+            "language": "TypeScript",
+            "stars": 93922,
+            "stars_today": 93922,
+            "url": "https://github.com/OpenHands/OpenHands"
         },
         {
             "rank": 6,
-            "name": "microsoft/AI-For-Beginners",
-            "description": "12 Weeks, 24 Lessons, AI for All!",
-            "language": "Jupyter Notebook",
-            "stars": 71038,
-            "stars_today": 71038,
-            "url": "https://github.com/microsoft/AI-For-Beginners"
+            "name": "usestrix/strix",
+            "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+            "language": "Python",
+            "stars": 76806,
+            "stars_today": 76806,
+            "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-11-20T14:29:11Z",
+    "updated": "2026-11-20T22:00:55Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-11-20T14:29:11Z",
+    "updated": "2026-11-20T22:00:55Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-11-20T14:29:11Z",
+    "updated": "2026-11-20T22:00:55Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "If you can't explain something in simple terms, you don't understand it (2017)",
-            "insight": "HN 热议：223 分 · 131 评论",
+            "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
+            "insight": "HN 热议：2136 分 · 1461 评论",
             "sentiment": "positive",
-            "comments": 131,
-            "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
+            "comments": 1461,
+            "url": "https://alpo.ge/remark.pdf",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
-            "insight": "HN 热议：318 分 · 215 评论",
+            "title": "If you can't explain something in simple terms, you don't understand it (2017)",
+            "insight": "HN 热议：574 分 · 277 评论",
             "sentiment": "positive",
-            "comments": 215,
-            "url": "https://architectlabs.com/blog/frostbite",
+            "comments": 277,
+            "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "What people are building, discovered through new domains",
-            "insight": "HN 热议：84 分 · 36 评论",
-            "sentiment": "neutral",
-            "comments": 36,
-            "url": "https://startups.novumsignals.com/",
+            "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+            "insight": "HN 热议：578 分 · 307 评论",
+            "sentiment": "positive",
+            "comments": 307,
+            "url": "https://architectlabs.com/blog/frostbite",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Llms.txt and MCP didn't move the needle",
-            "insight": "HN 热议：7 分 · 0 评论",
-            "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://backpackforlaravel.com/articles/opinions/llms-txt-and-mcp-didn-t-move-the-needle-for-us-here-s-what-did",
+            "title": "Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI",
+            "insight": "HN 热议：211 分 · 146 评论",
+            "sentiment": "positive",
+            "comments": 146,
+            "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Why the Airbus A321XLR often gets stuck climbing for first few hours of flight",
-            "insight": "HN 热议：44 分 · 19 评论",
+            "title": "What people are building, discovered through new domains",
+            "insight": "HN 热议：148 分 · 72 评论",
             "sentiment": "neutral",
-            "comments": 19,
-            "url": "https://simpleflying.com/airbus-a321xlr-often-stuck-climbing-1st-few-hours-flight/",
+            "comments": 72,
+            "url": "https://startups.novumsignals.com/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-11-20T14:29:11Z",
+    "updated": "2026-11-20T22:00:55Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

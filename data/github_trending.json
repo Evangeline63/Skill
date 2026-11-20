@@ -1,13 +1,13 @@
 {
-  "updated": "2026-11-20T14:29:11Z",
+  "updated": "2026-11-20T22:00:55Z",
   "repos": [
     {
       "rank": 1,
       "name": "Significant-Gravitas/AutoGPT",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
       "language": "Python",
-      "stars": 188118,
-      "stars_today": 188118,
+      "stars": 188117,
+      "stars_today": 188117,
       "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
@@ -15,8 +15,8 @@
       "name": "f/prompts.chat",
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
       "language": "MDX",
-      "stars": 177955,
-      "stars_today": 177955,
+      "stars": 178014,
+      "stars_today": 178014,
       "url": "https://github.com/f/prompts.chat"
     },
     {
@@ -24,36 +24,36 @@
       "name": "thedotmack/claude-mem",
       "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
       "language": "TypeScript",
-      "stars": 118560,
-      "stars_today": 118560,
+      "stars": 118624,
+      "stars_today": 118624,
       "url": "https://github.com/thedotmack/claude-mem"
     },
     {
       "rank": 4,
-      "name": "OpenHands/OpenHands",
-      "description": "🙌 OpenHands: AI-Driven Development",
-      "language": "TypeScript",
-      "stars": 93902,
-      "stars_today": 93902,
-      "url": "https://github.com/OpenHands/OpenHands"
+      "name": "rasbt/LLMs-from-scratch",
+      "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+      "language": "Jupyter Notebook",
+      "stars": 108716,
+      "stars_today": 108716,
+      "url": "https://github.com/rasbt/LLMs-from-scratch"
     },
     {
       "rank": 5,
-      "name": "usestrix/strix",
-      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-      "language": "Python",
-      "stars": 76771,
-      "stars_today": 76771,
-      "url": "https://github.com/usestrix/strix"
+      "name": "OpenHands/OpenHands",
+      "description": "🙌 OpenHands: AI-Driven Development",
+      "language": "TypeScript",
+      "stars": 93922,
+      "stars_today": 93922,
+      "url": "https://github.com/OpenHands/OpenHands"
     },
     {
       "rank": 6,
-      "name": "microsoft/AI-For-Beginners",
-      "description": "12 Weeks, 24 Lessons, AI for All!",
-      "language": "Jupyter Notebook",
-      "stars": 71038,
-      "stars_today": 71038,
-      "url": "https://github.com/microsoft/AI-For-Beginners"
+      "name": "usestrix/strix",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "language": "Python",
+      "stars": 76806,
+      "stars_today": 76806,
+      "url": "https://github.com/usestrix/strix"
     }
   ]
 }

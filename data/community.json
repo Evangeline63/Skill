@@ -1,49 +1,49 @@
 {
-  "updated": "2026-11-20T14:29:11Z",
+  "updated": "2026-11-20T22:00:55Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "If you can't explain something in simple terms, you don't understand it (2017)",
-      "insight": "HN 热议：223 分 · 131 评论",
+      "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
+      "insight": "HN 热议：2136 分 · 1461 评论",
       "sentiment": "positive",
-      "comments": 131,
-      "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
+      "comments": 1461,
+      "url": "https://alpo.ge/remark.pdf",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
-      "insight": "HN 热议：318 分 · 215 评论",
+      "title": "If you can't explain something in simple terms, you don't understand it (2017)",
+      "insight": "HN 热议：574 分 · 277 评论",
       "sentiment": "positive",
-      "comments": 215,
-      "url": "https://architectlabs.com/blog/frostbite",
+      "comments": 277,
+      "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "What people are building, discovered through new domains",
-      "insight": "HN 热议：84 分 · 36 评论",
-      "sentiment": "neutral",
-      "comments": 36,
-      "url": "https://startups.novumsignals.com/",
+      "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+      "insight": "HN 热议：578 分 · 307 评论",
+      "sentiment": "positive",
+      "comments": 307,
+      "url": "https://architectlabs.com/blog/frostbite",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Llms.txt and MCP didn't move the needle",
-      "insight": "HN 热议：7 分 · 0 评论",
-      "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://backpackforlaravel.com/articles/opinions/llms-txt-and-mcp-didn-t-move-the-needle-for-us-here-s-what-did",
+      "title": "Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI",
+      "insight": "HN 热议：211 分 · 146 评论",
+      "sentiment": "positive",
+      "comments": 146,
+      "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Why the Airbus A321XLR often gets stuck climbing for first few hours of flight",
-      "insight": "HN 热议：44 分 · 19 评论",
+      "title": "What people are building, discovered through new domains",
+      "insight": "HN 热议：148 分 · 72 评论",
       "sentiment": "neutral",
-      "comments": 19,
-      "url": "https://simpleflying.com/airbus-a321xlr-often-stuck-climbing-1st-few-hours-flight/",
+      "comments": 72,
+      "url": "https://startups.novumsignals.com/",
       "id": 5
     }
   ]
