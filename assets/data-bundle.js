@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-11-20T04:37:05Z",
+    "updated": "2026-11-20T14:29:11Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-11-20T04:37:05Z",
+    "updated": "2026-11-20T14:29:11Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-11-20T04:37:05Z",
+    "updated": "2026-11-20T14:29:11Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 188114,
-            "stars_today": 188114,
+            "stars": 188118,
+            "stars_today": 188118,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "MDX",
-            "stars": 177919,
-            "stars_today": 177919,
+            "stars": 177955,
+            "stars_today": 177955,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 118481,
-            "stars_today": 118481,
+            "stars": 118560,
+            "stars_today": 118560,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 93863,
-            "stars_today": 93863,
+            "stars": 93902,
+            "stars_today": 93902,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 76718,
-            "stars_today": 76718,
+            "stars": 76771,
+            "stars_today": 76771,
             "url": "https://github.com/usestrix/strix"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "microsoft/AI-For-Beginners",
             "description": "12 Weeks, 24 Lessons, AI for All!",
             "language": "Jupyter Notebook",
-            "stars": 71027,
-            "stars_today": 71027,
+            "stars": 71038,
+            "stars_today": 71038,
             "url": "https://github.com/microsoft/AI-For-Beginners"
         }
     ]
 },
   "products": {
-    "updated": "2026-11-20T04:37:05Z",
+    "updated": "2026-11-20T14:29:11Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-11-20T04:37:05Z",
+    "updated": "2026-11-20T14:29:11Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-11-20T04:37:05Z",
+    "updated": "2026-11-20T14:29:11Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
-            "insight": "HN 热议：271 分 · 163 评论",
+            "title": "If you can't explain something in simple terms, you don't understand it (2017)",
+            "insight": "HN 热议：223 分 · 131 评论",
             "sentiment": "positive",
-            "comments": 163,
-            "url": "https://git-aarvin.github.io/mei/",
+            "comments": 131,
+            "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Anthropic’s Nasdaq debut",
-            "insight": "HN 热议：1004 分 · 1966 评论",
+            "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+            "insight": "HN 热议：318 分 · 215 评论",
             "sentiment": "positive",
-            "comments": 1966,
-            "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+            "comments": 215,
+            "url": "https://architectlabs.com/blog/frostbite",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Claude solves two open problems in the physics of black holes",
-            "insight": "HN 热议：434 分 · 198 评论",
-            "sentiment": "positive",
-            "comments": 198,
-            "url": "https://www.anthropic.com/research/claude-black-hole-physics",
+            "title": "What people are building, discovered through new domains",
+            "insight": "HN 热议：84 分 · 36 评论",
+            "sentiment": "neutral",
+            "comments": 36,
+            "url": "https://startups.novumsignals.com/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Garage Door Spam",
-            "insight": "HN 热议：790 分 · 335 评论",
-            "sentiment": "positive",
-            "comments": 335,
-            "url": "https://blog.harrison.page/garage-door-spam/",
+            "title": "Llms.txt and MCP didn't move the needle",
+            "insight": "HN 热议：7 分 · 0 评论",
+            "sentiment": "neutral",
+            "comments": 0,
+            "url": "https://backpackforlaravel.com/articles/opinions/llms-txt-and-mcp-didn-t-move-the-needle-for-us-here-s-what-did",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
-            "insight": "HN 热议：233 分 · 124 评论",
-            "sentiment": "positive",
-            "comments": 124,
-            "url": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
+            "title": "Why the Airbus A321XLR often gets stuck climbing for first few hours of flight",
+            "insight": "HN 热议：44 分 · 19 评论",
+            "sentiment": "neutral",
+            "comments": 19,
+            "url": "https://simpleflying.com/airbus-a321xlr-often-stuck-climbing-1st-few-hours-flight/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-11-20T04:37:05Z",
+    "updated": "2026-11-20T14:29:11Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
