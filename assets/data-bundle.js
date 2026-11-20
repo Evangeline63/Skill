@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-11-19T22:29:25Z",
+    "updated": "2026-11-20T04:37:05Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-11-19T22:29:25Z",
+    "updated": "2026-11-20T04:37:05Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-11-19T22:29:25Z",
+    "updated": "2026-11-20T04:37:05Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 188107,
-            "stars_today": 188107,
+            "stars": 188114,
+            "stars_today": 188114,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "MDX",
-            "stars": 177897,
-            "stars_today": 177897,
+            "stars": 177919,
+            "stars_today": 177919,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 118426,
-            "stars_today": 118426,
+            "stars": 118481,
+            "stars_today": 118481,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 93849,
-            "stars_today": 93849,
+            "stars": 93863,
+            "stars_today": 93863,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 76693,
-            "stars_today": 76693,
+            "stars": 76718,
+            "stars_today": 76718,
             "url": "https://github.com/usestrix/strix"
         },
         {
@@ -325,7 +325,7 @@ window.__DATA__ = {
     ]
 },
   "products": {
-    "updated": "2026-11-19T22:29:25Z",
+    "updated": "2026-11-20T04:37:05Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-11-19T22:29:25Z",
+    "updated": "2026-11-20T04:37:05Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-11-19T22:29:25Z",
+    "updated": "2026-11-20T04:37:05Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Anthropic hits $2T in Nasdaq debut",
-            "insight": "HN 热议：725 分 · 1317 评论",
+            "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
+            "insight": "HN 热议：271 分 · 163 评论",
             "sentiment": "positive",
-            "comments": 1317,
-            "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+            "comments": 163,
+            "url": "https://git-aarvin.github.io/mei/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Claude solves two open problems in the physics of black holes",
-            "insight": "HN 热议：309 分 · 134 评论",
+            "title": "Anthropic’s Nasdaq debut",
+            "insight": "HN 热议：1004 分 · 1966 评论",
             "sentiment": "positive",
-            "comments": 134,
-            "url": "https://www.anthropic.com/research/claude-black-hole-physics",
+            "comments": 1966,
+            "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
-            "insight": "HN 热议：130 分 · 67 评论",
-            "sentiment": "neutral",
-            "comments": 67,
-            "url": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
+            "title": "Claude solves two open problems in the physics of black holes",
+            "insight": "HN 热议：434 分 · 198 评论",
+            "sentiment": "positive",
+            "comments": 198,
+            "url": "https://www.anthropic.com/research/claude-black-hole-physics",
             "id": 3
         },
         {
             "source": "HackerNews",
             "title": "Garage Door Spam",
-            "insight": "HN 热议：690 分 · 283 评论",
+            "insight": "HN 热议：790 分 · 335 评论",
             "sentiment": "positive",
-            "comments": 283,
+            "comments": 335,
             "url": "https://blog.harrison.page/garage-door-spam/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
-            "insight": "HN 热议：50 分 · 80 评论",
-            "sentiment": "neutral",
-            "comments": 80,
-            "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
+            "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
+            "insight": "HN 热议：233 分 · 124 评论",
+            "sentiment": "positive",
+            "comments": 124,
+            "url": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-11-19T22:29:25Z",
+    "updated": "2026-11-20T04:37:05Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
