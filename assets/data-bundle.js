@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-11-21T04:30:38Z",
+    "updated": "2026-11-21T13:47:49Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-11-21T04:30:38Z",
+    "updated": "2026-11-21T13:47:49Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-11-20T22:00:55Z",
+    "updated": "2026-11-21T13:47:49Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 188117,
-            "stars_today": 188117,
+            "stars": 188124,
+            "stars_today": 188124,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "MDX",
-            "stars": 178014,
-            "stars_today": 178014,
+            "stars": 178130,
+            "stars_today": 178130,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 118624,
-            "stars_today": 118624,
+            "stars": 118766,
+            "stars_today": 118766,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 108716,
-            "stars_today": 108716,
+            "stars": 108747,
+            "stars_today": 108747,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 93922,
-            "stars_today": 93922,
+            "stars": 93948,
+            "stars_today": 93948,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 76806,
-            "stars_today": 76806,
+            "stars": 76876,
+            "stars_today": 76876,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-11-21T04:30:38Z",
+    "updated": "2026-11-21T13:47:49Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-11-21T04:30:38Z",
+    "updated": "2026-11-21T13:47:49Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-11-21T04:30:38Z",
+    "updated": "2026-11-21T13:47:49Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
-            "insight": "HN 热议：2451 分 · 1653 评论",
+            "insight": "HN 热议：2733 分 · 1910 评论",
             "sentiment": "positive",
-            "comments": 1653,
+            "comments": 1910,
             "url": "https://alpo.ge/remark.pdf",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "NINLIVE: The Nine Inch Nails live archive",
-            "insight": "HN 热议：170 分 · 43 评论",
+            "title": "ClawDOS – An AI coding agent for DOS",
+            "insight": "HN 热议：110 分 · 30 评论",
             "sentiment": "neutral",
-            "comments": 43,
-            "url": "https://ninlive.com/",
+            "comments": 30,
+            "url": "http://ricapar.net/ClawDOS/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
-            "insight": "HN 热议：528 分 · 310 评论",
+            "title": "NINLIVE: The Nine Inch Nails live archive",
+            "insight": "HN 热议：298 分 · 76 评论",
             "sentiment": "positive",
-            "comments": 310,
-            "url": "https://signal.org/blog/protecting-your-privacy/",
+            "comments": 76,
+            "url": "https://ninlive.com/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Why the Airbus A321XLR often gets stuck climbing for first few hours of flight",
-            "insight": "HN 热议：98 分 · 68 评论",
+            "title": "Surprisingly Adorable Insect Portraits",
+            "insight": "HN 热议：80 分 · 19 评论",
             "sentiment": "neutral",
-            "comments": 68,
-            "url": "https://simpleflying.com/airbus-a321xlr-often-stuck-climbing-1st-few-hours-flight/",
+            "comments": 19,
+            "url": "https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
-            "insight": "HN 热议：23 分 · 8 评论",
-            "sentiment": "neutral",
-            "comments": 8,
-            "url": "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models",
+            "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
+            "insight": "HN 热议：378 分 · 677 评论",
+            "sentiment": "positive",
+            "comments": 677,
+            "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-11-21T04:30:38Z",
+    "updated": "2026-11-21T13:47:49Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
