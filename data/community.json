@@ -1,49 +1,49 @@
 {
-  "updated": "2026-11-21T13:47:49Z",
+  "updated": "2026-11-21T20:41:36Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
-      "insight": "HN 热议：2733 分 · 1910 评论",
-      "sentiment": "positive",
-      "comments": 1910,
-      "url": "https://alpo.ge/remark.pdf",
+      "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+      "insight": "HN 热议：66 分 · 15 评论",
+      "sentiment": "neutral",
+      "comments": 15,
+      "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "ClawDOS – An AI coding agent for DOS",
-      "insight": "HN 热议：110 分 · 30 评论",
+      "title": "Tropical Rainforests Species may be surprisingly young",
+      "insight": "HN 热议：17 分 · 8 评论",
       "sentiment": "neutral",
-      "comments": 30,
-      "url": "http://ricapar.net/ClawDOS/",
+      "comments": 8,
+      "url": "https://phys.org/news/2026-11-species-tropical-rainforests-young-emergence.html",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "NINLIVE: The Nine Inch Nails live archive",
-      "insight": "HN 热议：298 分 · 76 评论",
-      "sentiment": "positive",
-      "comments": 76,
-      "url": "https://ninlive.com/",
+      "title": "LLMs can read and write executables byte by byte from a hex dump",
+      "insight": "HN 热议：140 分 · 102 评论",
+      "sentiment": "neutral",
+      "comments": 102,
+      "url": "https://sgiannopoulos.github.io/blog/machine-code-programming/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Surprisingly Adorable Insect Portraits",
-      "insight": "HN 热议：80 分 · 19 评论",
-      "sentiment": "neutral",
-      "comments": 19,
-      "url": "https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/",
+      "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
+      "insight": "HN 热议：2842 分 · 2016 评论",
+      "sentiment": "positive",
+      "comments": 2016,
+      "url": "https://alpo.ge/remark.pdf",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
-      "insight": "HN 热议：378 分 · 677 评论",
+      "title": "NINLIVE: The Nine Inch Nails live archive",
+      "insight": "HN 热议：343 分 · 97 评论",
       "sentiment": "positive",
-      "comments": 677,
-      "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+      "comments": 97,
+      "url": "https://ninlive.com/",
       "id": 5
     }
   ]

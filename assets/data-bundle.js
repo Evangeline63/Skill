@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-11-21T13:47:49Z",
+    "updated": "2026-11-21T20:41:36Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-11-21T13:47:49Z",
+    "updated": "2026-11-21T20:41:36Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-11-21T13:47:49Z",
+    "updated": "2026-11-21T20:41:36Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 188124,
-            "stars_today": 188124,
+            "stars": 188126,
+            "stars_today": 188126,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "MDX",
-            "stars": 178130,
-            "stars_today": 178130,
+            "stars": 178179,
+            "stars_today": 178179,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 118766,
-            "stars_today": 118766,
+            "stars": 118823,
+            "stars_today": 118823,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 108747,
-            "stars_today": 108747,
+            "stars": 108766,
+            "stars_today": 108766,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 93948,
-            "stars_today": 93948,
+            "stars": 93963,
+            "stars_today": 93963,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 76876,
-            "stars_today": 76876,
+            "stars": 76911,
+            "stars_today": 76911,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-11-21T13:47:49Z",
+    "updated": "2026-11-21T20:41:36Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-11-21T13:47:49Z",
+    "updated": "2026-11-21T20:41:36Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-11-21T13:47:49Z",
+    "updated": "2026-11-21T20:41:36Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
-            "insight": "HN 热议：2733 分 · 1910 评论",
-            "sentiment": "positive",
-            "comments": 1910,
-            "url": "https://alpo.ge/remark.pdf",
+            "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+            "insight": "HN 热议：66 分 · 15 评论",
+            "sentiment": "neutral",
+            "comments": 15,
+            "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "ClawDOS – An AI coding agent for DOS",
-            "insight": "HN 热议：110 分 · 30 评论",
+            "title": "Tropical Rainforests Species may be surprisingly young",
+            "insight": "HN 热议：17 分 · 8 评论",
             "sentiment": "neutral",
-            "comments": 30,
-            "url": "http://ricapar.net/ClawDOS/",
+            "comments": 8,
+            "url": "https://phys.org/news/2026-11-species-tropical-rainforests-young-emergence.html",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "NINLIVE: The Nine Inch Nails live archive",
-            "insight": "HN 热议：298 分 · 76 评论",
-            "sentiment": "positive",
-            "comments": 76,
-            "url": "https://ninlive.com/",
+            "title": "LLMs can read and write executables byte by byte from a hex dump",
+            "insight": "HN 热议：140 分 · 102 评论",
+            "sentiment": "neutral",
+            "comments": 102,
+            "url": "https://sgiannopoulos.github.io/blog/machine-code-programming/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Surprisingly Adorable Insect Portraits",
-            "insight": "HN 热议：80 分 · 19 评论",
-            "sentiment": "neutral",
-            "comments": 19,
-            "url": "https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/",
+            "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
+            "insight": "HN 热议：2842 分 · 2016 评论",
+            "sentiment": "positive",
+            "comments": 2016,
+            "url": "https://alpo.ge/remark.pdf",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
-            "insight": "HN 热议：378 分 · 677 评论",
+            "title": "NINLIVE: The Nine Inch Nails live archive",
+            "insight": "HN 热议：343 分 · 97 评论",
             "sentiment": "positive",
-            "comments": 677,
-            "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+            "comments": 97,
+            "url": "https://ninlive.com/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-11-21T13:47:49Z",
+    "updated": "2026-11-21T20:41:36Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
