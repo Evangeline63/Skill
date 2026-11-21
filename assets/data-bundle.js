@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-11-20T22:00:55Z",
+    "updated": "2026-11-21T04:30:38Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-11-20T22:00:55Z",
+    "updated": "2026-11-21T04:30:38Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -325,7 +325,7 @@ window.__DATA__ = {
     ]
 },
   "products": {
-    "updated": "2026-11-20T22:00:55Z",
+    "updated": "2026-11-21T04:30:38Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-11-20T22:00:55Z",
+    "updated": "2026-11-21T04:30:38Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-11-20T22:00:55Z",
+    "updated": "2026-11-21T04:30:38Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
-            "insight": "HN 热议：2136 分 · 1461 评论",
+            "insight": "HN 热议：2451 分 · 1653 评论",
             "sentiment": "positive",
-            "comments": 1461,
+            "comments": 1653,
             "url": "https://alpo.ge/remark.pdf",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "If you can't explain something in simple terms, you don't understand it (2017)",
-            "insight": "HN 热议：574 分 · 277 评论",
-            "sentiment": "positive",
-            "comments": 277,
-            "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
+            "title": "NINLIVE: The Nine Inch Nails live archive",
+            "insight": "HN 热议：170 分 · 43 评论",
+            "sentiment": "neutral",
+            "comments": 43,
+            "url": "https://ninlive.com/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
-            "insight": "HN 热议：578 分 · 307 评论",
+            "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
+            "insight": "HN 热议：528 分 · 310 评论",
             "sentiment": "positive",
-            "comments": 307,
-            "url": "https://architectlabs.com/blog/frostbite",
+            "comments": 310,
+            "url": "https://signal.org/blog/protecting-your-privacy/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI",
-            "insight": "HN 热议：211 分 · 146 评论",
-            "sentiment": "positive",
-            "comments": 146,
-            "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/",
+            "title": "Why the Airbus A321XLR often gets stuck climbing for first few hours of flight",
+            "insight": "HN 热议：98 分 · 68 评论",
+            "sentiment": "neutral",
+            "comments": 68,
+            "url": "https://simpleflying.com/airbus-a321xlr-often-stuck-climbing-1st-few-hours-flight/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "What people are building, discovered through new domains",
-            "insight": "HN 热议：148 分 · 72 评论",
+            "title": "The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
+            "insight": "HN 热议：23 分 · 8 评论",
             "sentiment": "neutral",
-            "comments": 72,
-            "url": "https://startups.novumsignals.com/",
+            "comments": 8,
+            "url": "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-11-20T22:00:55Z",
+    "updated": "2026-11-21T04:30:38Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
