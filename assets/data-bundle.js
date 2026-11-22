@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-11-22T00:44:27Z",
+    "updated": "2026-11-22T10:26:08Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-11-22T00:44:27Z",
+    "updated": "2026-11-22T10:26:08Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-11-22T00:44:27Z",
+    "updated": "2026-11-22T10:26:08Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 188127,
-            "stars_today": 188127,
+            "stars": 188129,
+            "stars_today": 188129,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "MDX",
-            "stars": 178191,
-            "stars_today": 178191,
+            "stars": 178229,
+            "stars_today": 178229,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 118848,
-            "stars_today": 118848,
+            "stars": 118927,
+            "stars_today": 118927,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 108777,
-            "stars_today": 108777,
+            "stars": 108807,
+            "stars_today": 108807,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 93971,
-            "stars_today": 93971,
+            "stars": 94015,
+            "stars_today": 94015,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 76931,
-            "stars_today": 76931,
+            "stars": 76974,
+            "stars_today": 76974,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-11-22T00:44:27Z",
+    "updated": "2026-11-22T10:26:08Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-11-22T00:44:27Z",
+    "updated": "2026-11-22T10:26:08Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-11-22T00:44:27Z",
+    "updated": "2026-11-22T10:26:08Z",
     "signals": [
         {
             "source": "HackerNews",
             "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
-            "insight": "HN 热议：542 分 · 133 评论",
+            "insight": "HN 热议：1006 分 · 218 评论",
             "sentiment": "positive",
-            "comments": 133,
+            "comments": 218,
             "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Pandex – Official European Law for AI Agents, over MCP",
-            "insight": "HN 热议：21 分 · 4 评论",
+            "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+            "insight": "HN 热议：96 分 · 105 评论",
             "sentiment": "neutral",
-            "comments": 4,
-            "url": "https://www.pandex.io",
+            "comments": 105,
+            "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Tropical Rainforests Species may be surprisingly young",
-            "insight": "HN 热议：39 分 · 17 评论",
+            "title": "The Mythology of Conscious AI",
+            "insight": "HN 热议：68 分 · 130 评论",
             "sentiment": "neutral",
-            "comments": 17,
-            "url": "https://phys.org/news/2026-11-species-tropical-rainforests-young-emergence.html",
+            "comments": 130,
+            "url": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "LLMs can read and write executables byte by byte from a hex dump",
-            "insight": "HN 热议：185 分 · 119 评论",
+            "title": "Pandex – Official European Law for AI Agents, over MCP",
+            "insight": "HN 热议：94 分 · 21 评论",
             "sentiment": "neutral",
-            "comments": 119,
-            "url": "https://sgiannopoulos.github.io/blog/machine-code-programming/",
+            "comments": 21,
+            "url": "https://www.pandex.io",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Context-Generic Programming v0.8.0 – Pluggable trait implementations for Rust",
-            "insight": "HN 热议：16 分 · 0 评论",
-            "sentiment": "neutral",
-            "comments": 0,
-            "url": "https://contextgeneric.dev/blog/v0.8.0-release/",
+            "title": "LLMs can read and write executables byte by byte from a hex dump",
+            "insight": "HN 热议：245 分 · 158 评论",
+            "sentiment": "positive",
+            "comments": 158,
+            "url": "https://sgiannopoulos.github.io/blog/machine-code-programming/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-11-22T00:44:27Z",
+    "updated": "2026-11-22T10:26:08Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
