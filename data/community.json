@@ -1,49 +1,49 @@
 {
-  "updated": "2026-11-22T10:26:08Z",
+  "updated": "2026-11-22T18:45:14Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
-      "insight": "HN 热议：1006 分 · 218 评论",
-      "sentiment": "positive",
-      "comments": 218,
-      "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+      "title": "Show HN: I built a game where you are an LLM's subagent",
+      "insight": "HN 热议：163 分 · 41 评论",
+      "sentiment": "neutral",
+      "comments": 41,
+      "url": "https://github.com/gulivan/worker755",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
-      "insight": "HN 热议：96 分 · 105 评论",
-      "sentiment": "neutral",
-      "comments": 105,
-      "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+      "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+      "insight": "HN 热议：1275 分 · 273 评论",
+      "sentiment": "positive",
+      "comments": 273,
+      "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "The Mythology of Conscious AI",
-      "insight": "HN 热议：68 分 · 130 评论",
-      "sentiment": "neutral",
-      "comments": 130,
-      "url": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
+      "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+      "insight": "HN 热议：597 分 · 672 评论",
+      "sentiment": "positive",
+      "comments": 672,
+      "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Pandex – Official European Law for AI Agents, over MCP",
-      "insight": "HN 热议：94 分 · 21 评论",
+      "title": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
+      "insight": "HN 热议：54 分 · 8 评论",
       "sentiment": "neutral",
-      "comments": 21,
-      "url": "https://www.pandex.io",
+      "comments": 8,
+      "url": "https://simonwillison.net/2026/Nov/21/muru/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "LLMs can read and write executables byte by byte from a hex dump",
-      "insight": "HN 热议：245 分 · 158 评论",
-      "sentiment": "positive",
-      "comments": 158,
-      "url": "https://sgiannopoulos.github.io/blog/machine-code-programming/",
+      "title": "The Mythology of Conscious AI",
+      "insight": "HN 热议：136 分 · 381 评论",
+      "sentiment": "neutral",
+      "comments": 381,
+      "url": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
       "id": 5
     }
   ]
