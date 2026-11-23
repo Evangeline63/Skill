@@ -1,49 +1,49 @@
 {
-  "updated": "2026-11-23T01:11:36Z",
+  "updated": "2026-11-23T11:25:40Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-      "insight": "HN 热议：183 分 · 68 评论",
+      "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+      "insight": "HN 热议：79 分 · 21 评论",
       "sentiment": "neutral",
-      "comments": 68,
-      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+      "comments": 21,
+      "url": "https://z.ai/blog/glm-5.4",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "0rwx – A simple model of AI usage, inspired by Unix permissions",
-      "insight": "HN 热议：15 分 · 4 评论",
-      "sentiment": "neutral",
-      "comments": 4,
-      "url": "https://0rwx.com/",
+      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+      "insight": "HN 热议：546 分 · 227 评论",
+      "sentiment": "positive",
+      "comments": 227,
+      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: I built a game where you are an LLM's subagent",
-      "insight": "HN 热议：267 分 · 62 评论",
-      "sentiment": "positive",
-      "comments": 62,
-      "url": "https://github.com/gulivan/worker755",
+      "title": "Brake Check: Hijacking Trailer Brakes over Bluetooth",
+      "insight": "HN 热议：25 分 · 20 评论",
+      "sentiment": "neutral",
+      "comments": 20,
+      "url": "https://elementdigital.com.au/blog/brake-check-trailer-brakes-over-bluetooth/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Localcode, open source agentic coding on your Mac with one command",
-      "insight": "HN 热议：15 分 · 1 评论",
-      "sentiment": "neutral",
-      "comments": 1,
-      "url": "https://github.com/mjwsolo/localcode",
+      "title": "Show HN: I built a game where you are an LLM's subagent",
+      "insight": "HN 热议：325 分 · 78 评论",
+      "sentiment": "positive",
+      "comments": 78,
+      "url": "https://github.com/gulivan/worker755",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Harvard CS 2881R AI Safety",
-      "insight": "HN 热议：34 分 · 3 评论",
+      "title": "0rwx – A simple model of AI usage, inspired by Unix permissions",
+      "insight": "HN 热议：59 分 · 15 评论",
       "sentiment": "neutral",
-      "comments": 3,
-      "url": "https://boazbk.github.io/mltheoryseminar/",
+      "comments": 15,
+      "url": "https://0rwx.com/",
       "id": 5
     }
   ]
