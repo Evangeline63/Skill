@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-11-22T18:45:14Z",
+    "updated": "2026-11-23T01:11:36Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-11-22T18:45:14Z",
+    "updated": "2026-11-23T01:11:36Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-11-22T18:45:14Z",
+    "updated": "2026-11-23T01:11:36Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 188135,
-            "stars_today": 188135,
+            "stars": 188137,
+            "stars_today": 188137,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "MDX",
-            "stars": 178266,
-            "stars_today": 178266,
+            "stars": 178283,
+            "stars_today": 178283,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 119021,
-            "stars_today": 119021,
+            "stars": 119094,
+            "stars_today": 119094,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 108832,
-            "stars_today": 108832,
+            "stars": 108843,
+            "stars_today": 108843,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 94062,
-            "stars_today": 94062,
+            "stars": 94088,
+            "stars_today": 94088,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 77044,
-            "stars_today": 77044,
+            "stars": 77099,
+            "stars_today": 77099,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-11-22T18:45:14Z",
+    "updated": "2026-11-23T01:11:36Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-11-22T18:45:14Z",
+    "updated": "2026-11-23T01:11:36Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-11-22T18:45:14Z",
+    "updated": "2026-11-23T01:11:36Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Show HN: I built a game where you are an LLM's subagent",
-            "insight": "HN 热议：163 分 · 41 评论",
+            "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+            "insight": "HN 热议：183 分 · 68 评论",
             "sentiment": "neutral",
-            "comments": 41,
-            "url": "https://github.com/gulivan/worker755",
+            "comments": 68,
+            "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
-            "insight": "HN 热议：1275 分 · 273 评论",
-            "sentiment": "positive",
-            "comments": 273,
-            "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+            "title": "0rwx – A simple model of AI usage, inspired by Unix permissions",
+            "insight": "HN 热议：15 分 · 4 评论",
+            "sentiment": "neutral",
+            "comments": 4,
+            "url": "https://0rwx.com/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
-            "insight": "HN 热议：597 分 · 672 评论",
+            "title": "Show HN: I built a game where you are an LLM's subagent",
+            "insight": "HN 热议：267 分 · 62 评论",
             "sentiment": "positive",
-            "comments": 672,
-            "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+            "comments": 62,
+            "url": "https://github.com/gulivan/worker755",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
-            "insight": "HN 热议：54 分 · 8 评论",
+            "title": "Localcode, open source agentic coding on your Mac with one command",
+            "insight": "HN 热议：15 分 · 1 评论",
             "sentiment": "neutral",
-            "comments": 8,
-            "url": "https://simonwillison.net/2026/Nov/21/muru/",
+            "comments": 1,
+            "url": "https://github.com/mjwsolo/localcode",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "The Mythology of Conscious AI",
-            "insight": "HN 热议：136 分 · 381 评论",
+            "title": "Harvard CS 2881R AI Safety",
+            "insight": "HN 热议：34 分 · 3 评论",
             "sentiment": "neutral",
-            "comments": 381,
-            "url": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
+            "comments": 3,
+            "url": "https://boazbk.github.io/mltheoryseminar/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-11-22T18:45:14Z",
+    "updated": "2026-11-23T01:11:36Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
