@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-11-24T07:18:40Z",
+    "updated": "2026-11-24T19:45:15Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-11-24T07:18:40Z",
+    "updated": "2026-11-24T19:45:15Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-11-24T07:18:40Z",
+    "updated": "2026-11-24T19:45:15Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 188156,
-            "stars_today": 188156,
+            "stars": 188165,
+            "stars_today": 188165,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "MDX",
-            "stars": 178346,
-            "stars_today": 178346,
+            "stars": 178417,
+            "stars_today": 178417,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 119393,
-            "stars_today": 119393,
+            "stars": 119518,
+            "stars_today": 119518,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 108947,
-            "stars_today": 108947,
+            "stars": 108994,
+            "stars_today": 108994,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 94195,
-            "stars_today": 94195,
+            "stars": 94235,
+            "stars_today": 94235,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 77321,
-            "stars_today": 77321,
+            "stars": 77409,
+            "stars_today": 77409,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-11-24T07:18:40Z",
+    "updated": "2026-11-24T19:45:15Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-11-24T07:18:40Z",
+    "updated": "2026-11-24T19:45:15Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-11-24T07:18:40Z",
+    "updated": "2026-11-24T19:45:15Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Declare is a UI language for you and your AI",
-            "insight": "HN 热议：40 分 · 27 评论",
-            "sentiment": "neutral",
-            "comments": 27,
-            "url": "https://davidtemkin.github.io/declarelang/",
+            "title": "Active Intrusion Campaign Against Check Point Security Management Servers",
+            "insight": "HN 热议：203 分 · 70 评论",
+            "sentiment": "positive",
+            "comments": 70,
+            "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Latent Introspection: LLMs Can Detect Prior Concept Injections",
-            "insight": "HN 热议：53 分 · 4 评论",
+            "title": "Canada's median health-care wait time hits 30.7 weeks–longest ever recorded",
+            "insight": "HN 热议：27 分 · 3 评论",
             "sentiment": "neutral",
-            "comments": 4,
-            "url": "https://arxiv.org/abs/2602.20031",
+            "comments": 3,
+            "url": "https://www.fraserinstitute.org/studies/waiting-your-turn-wait-times-for-health-care-in-canada-2026",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
-            "insight": "HN 热议：1102 分 · 360 评论",
-            "sentiment": "positive",
-            "comments": 360,
-            "url": "https://z.ai/blog/glm-5.4",
+            "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
+            "insight": "HN 热议：70 分 · 35 评论",
+            "sentiment": "neutral",
+            "comments": 35,
+            "url": "https://news.ycombinator.com/item?id=50630809",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Kagi Mail (public beta)",
-            "insight": "HN 热议：400 分 · 311 评论",
-            "sentiment": "positive",
-            "comments": 311,
-            "url": "https://blog.kagi.com/kagi-mail-public-beta",
+            "title": "A training engine for your local model, using your idle compute",
+            "insight": "HN 热议：104 分 · 25 评论",
+            "sentiment": "neutral",
+            "comments": 25,
+            "url": "https://github.com/sous-labs/songe",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "C++26 is done (again): ISO C++ meeting trip report",
-            "insight": "HN 热议：113 分 · 142 评论",
+            "title": "OpenAI reveals they solved VP ≠ VNP before Anthropic",
+            "insight": "HN 热议：64 分 · 52 评论",
             "sentiment": "neutral",
-            "comments": 142,
-            "url": "https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/",
+            "comments": 52,
+            "url": "https://github.com/openai/math/tree/main/preprints/VP-and-VNP-are-different-November-23-2026",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-11-24T07:18:40Z",
+    "updated": "2026-11-24T19:45:15Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
