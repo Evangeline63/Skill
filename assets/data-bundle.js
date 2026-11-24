@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-11-23T22:58:21Z",
+    "updated": "2026-11-24T07:18:40Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-11-23T22:58:21Z",
+    "updated": "2026-11-24T07:18:40Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-11-23T22:58:21Z",
+    "updated": "2026-11-24T07:18:40Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 188155,
-            "stars_today": 188155,
+            "stars": 188156,
+            "stars_today": 188156,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "MDX",
-            "stars": 178326,
-            "stars_today": 178326,
+            "stars": 178346,
+            "stars_today": 178346,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 119316,
-            "stars_today": 119316,
+            "stars": 119393,
+            "stars_today": 119393,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 108918,
-            "stars_today": 108918,
+            "stars": 108947,
+            "stars_today": 108947,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 94165,
-            "stars_today": 94165,
+            "stars": 94195,
+            "stars_today": 94195,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 77270,
-            "stars_today": 77270,
+            "stars": 77321,
+            "stars_today": 77321,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-11-23T22:58:21Z",
+    "updated": "2026-11-24T07:18:40Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-11-23T22:58:21Z",
+    "updated": "2026-11-24T07:18:40Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-11-23T22:58:21Z",
+    "updated": "2026-11-24T07:18:40Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
-            "insight": "HN 热议：1006 分 · 329 评论",
-            "sentiment": "positive",
-            "comments": 329,
-            "url": "https://z.ai/blog/glm-5.4",
+            "title": "Declare is a UI language for you and your AI",
+            "insight": "HN 热议：40 分 · 27 评论",
+            "sentiment": "neutral",
+            "comments": 27,
+            "url": "https://davidtemkin.github.io/declarelang/",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Kagi Mail (public beta)",
-            "insight": "HN 热议：300 分 · 226 评论",
-            "sentiment": "positive",
-            "comments": 226,
-            "url": "https://blog.kagi.com/kagi-mail-public-beta",
+            "title": "Latent Introspection: LLMs Can Detect Prior Concept Injections",
+            "insight": "HN 热议：53 分 · 4 评论",
+            "sentiment": "neutral",
+            "comments": 4,
+            "url": "https://arxiv.org/abs/2602.20031",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "How should an LLM see a computer?",
-            "insight": "HN 热议：35 分 · 20 评论",
-            "sentiment": "neutral",
-            "comments": 20,
-            "url": "https://www.greptile.com/blog/trex-computer-use",
+            "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
+            "insight": "HN 热议：1102 分 · 360 评论",
+            "sentiment": "positive",
+            "comments": 360,
+            "url": "https://z.ai/blog/glm-5.4",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-            "insight": "HN 热议：739 分 · 295 评论",
+            "title": "Kagi Mail (public beta)",
+            "insight": "HN 热议：400 分 · 311 评论",
             "sentiment": "positive",
-            "comments": 295,
-            "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+            "comments": 311,
+            "url": "https://blog.kagi.com/kagi-mail-public-beta",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "The AI conversation we're not having",
-            "insight": "HN 热议：3 分 · 2 评论",
+            "title": "C++26 is done (again): ISO C++ meeting trip report",
+            "insight": "HN 热议：113 分 · 142 评论",
             "sentiment": "neutral",
-            "comments": 2,
-            "url": "https://www.gnanaguru.com/blog/things-two-years-in-ai-taught-me/",
+            "comments": 142,
+            "url": "https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-11-23T22:58:21Z",
+    "updated": "2026-11-24T07:18:40Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
