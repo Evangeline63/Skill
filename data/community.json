@@ -1,49 +1,49 @@
 {
-  "updated": "2026-11-25T03:50:30Z",
+  "updated": "2026-11-25T16:18:19Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Ternary Bonsai 2.5 27B",
-      "insight": "HN 热议：369 分 · 127 评论",
-      "sentiment": "positive",
-      "comments": 127,
-      "url": "https://prismml.com/news/bonsai-2-5-27b",
+      "title": "The short age of dragon riders",
+      "insight": "HN 热议：194 分 · 115 评论",
+      "sentiment": "neutral",
+      "comments": 115,
+      "url": "https://atilloy.com/2026/11/16/the-short-age-of-dragon-riders/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
-      "insight": "HN 热议：102 分 · 16 评论",
+      "title": "Porting Rockbox to an Undocumented $9 Aliexpress 'YP3' MP3 Player with LLMs",
+      "insight": "HN 热议：21 分 · 3 评论",
       "sentiment": "neutral",
-      "comments": 16,
-      "url": "https://greydanus.github.io/2026/11/12/pengpt/",
+      "comments": 3,
+      "url": "https://jayd.ml/2026/11/14/rockbox-on-yp3.html",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-      "insight": "HN 热议：199 分 · 59 评论",
-      "sentiment": "neutral",
-      "comments": 59,
-      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+      "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
+      "insight": "HN 热议：261 分 · 55 评论",
+      "sentiment": "positive",
+      "comments": 55,
+      "url": "https://gpu-demo-gallery.pages.dev/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Active intrusion campaign against Check Point security management servers",
-      "insight": "HN 热议：271 分 · 139 评论",
-      "sentiment": "positive",
-      "comments": 139,
-      "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
+      "title": "Getting old Java phones online again",
+      "insight": "HN 热议：128 分 · 58 评论",
+      "sentiment": "neutral",
+      "comments": 58,
+      "url": "https://antcating.github.io/2026/11/23/getting-old-java-phones-online-again.html",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Hierarchical Bayesian Neural Networks: When Structure Meets Flexibility",
-      "insight": "HN 热议：28 分 · 1 评论",
-      "sentiment": "neutral",
-      "comments": 1,
-      "url": "https://statwonk.com/hierarchical-bayesian-neural-network.html",
+      "title": "Ternary Bonsai 2.5 27B",
+      "insight": "HN 热议：509 分 · 158 评论",
+      "sentiment": "positive",
+      "comments": 158,
+      "url": "https://prismml.com/news/bonsai-2-5-27b",
       "id": 5
     }
   ]
