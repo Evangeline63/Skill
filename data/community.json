@@ -1,49 +1,49 @@
 {
-  "updated": "2026-11-24T19:45:15Z",
+  "updated": "2026-11-25T03:50:30Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Active Intrusion Campaign Against Check Point Security Management Servers",
-      "insight": "HN 热议：203 分 · 70 评论",
+      "title": "Ternary Bonsai 2.5 27B",
+      "insight": "HN 热议：369 分 · 127 评论",
       "sentiment": "positive",
-      "comments": 70,
-      "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
+      "comments": 127,
+      "url": "https://prismml.com/news/bonsai-2-5-27b",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Canada's median health-care wait time hits 30.7 weeks–longest ever recorded",
-      "insight": "HN 热议：27 分 · 3 评论",
+      "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+      "insight": "HN 热议：102 分 · 16 评论",
       "sentiment": "neutral",
-      "comments": 3,
-      "url": "https://www.fraserinstitute.org/studies/waiting-your-turn-wait-times-for-health-care-in-canada-2026",
+      "comments": 16,
+      "url": "https://greydanus.github.io/2026/11/12/pengpt/",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
-      "insight": "HN 热议：70 分 · 35 评论",
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "insight": "HN 热议：199 分 · 59 评论",
       "sentiment": "neutral",
-      "comments": 35,
-      "url": "https://news.ycombinator.com/item?id=50630809",
+      "comments": 59,
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "A training engine for your local model, using your idle compute",
-      "insight": "HN 热议：104 分 · 25 评论",
-      "sentiment": "neutral",
-      "comments": 25,
-      "url": "https://github.com/sous-labs/songe",
+      "title": "Active intrusion campaign against Check Point security management servers",
+      "insight": "HN 热议：271 分 · 139 评论",
+      "sentiment": "positive",
+      "comments": 139,
+      "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "OpenAI reveals they solved VP ≠ VNP before Anthropic",
-      "insight": "HN 热议：64 分 · 52 评论",
+      "title": "Hierarchical Bayesian Neural Networks: When Structure Meets Flexibility",
+      "insight": "HN 热议：28 分 · 1 评论",
       "sentiment": "neutral",
-      "comments": 52,
-      "url": "https://github.com/openai/math/tree/main/preprints/VP-and-VNP-are-different-November-23-2026",
+      "comments": 1,
+      "url": "https://statwonk.com/hierarchical-bayesian-neural-network.html",
       "id": 5
     }
   ]
