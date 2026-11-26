@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-11-26T01:13:29Z",
+    "updated": "2026-11-26T11:37:13Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-11-26T01:13:29Z",
+    "updated": "2026-11-26T11:37:13Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-11-26T01:13:29Z",
+    "updated": "2026-11-26T11:37:13Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 188198,
-            "stars_today": 188198,
+            "stars": 188202,
+            "stars_today": 188202,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "MDX",
-            "stars": 178531,
-            "stars_today": 178531,
+            "stars": 178549,
+            "stars_today": 178549,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 119778,
-            "stars_today": 119778,
+            "stars": 119871,
+            "stars_today": 119871,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 109058,
-            "stars_today": 109058,
+            "stars": 109076,
+            "stars_today": 109076,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 94343,
-            "stars_today": 94343,
+            "stars": 94387,
+            "stars_today": 94387,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 77602,
-            "stars_today": 77602,
+            "stars": 77675,
+            "stars_today": 77675,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-11-26T01:13:29Z",
+    "updated": "2026-11-26T11:37:13Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-11-26T01:13:29Z",
+    "updated": "2026-11-26T11:37:13Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-11-26T01:13:29Z",
+    "updated": "2026-11-26T11:37:13Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Much shorter version of GRH Lean verification from Anthropic",
-            "insight": "HN 热议：246 分 · 112 评论",
-            "sentiment": "positive",
-            "comments": 112,
-            "url": "https://github.com/lsernau/grh-lean",
+            "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+            "insight": "HN 热议：35 分 · 24 评论",
+            "sentiment": "neutral",
+            "comments": 24,
+            "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
             "id": 1
         },
         {
             "source": "HackerNews",
             "title": "The New York Times warns photographers not to update Photoshop over AI features",
-            "insight": "HN 热议：184 分 · 118 评论",
-            "sentiment": "neutral",
-            "comments": 118,
+            "insight": "HN 热议：412 分 · 347 评论",
+            "sentiment": "positive",
+            "comments": 347,
             "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
-            "insight": "HN 热议：233 分 · 71 评论",
+            "title": "Much shorter version of GRH Lean verification from Anthropic",
+            "insight": "HN 热议：468 分 · 254 评论",
             "sentiment": "positive",
-            "comments": 71,
-            "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
+            "comments": 254,
+            "url": "https://github.com/lsernau/grh-lean",
             "id": 3
         },
         {
             "source": "HackerNews",
             "title": "Tell HN: Lots of Ask HNs again",
-            "insight": "HN 热议：25 分 · 11 评论",
-            "sentiment": "neutral",
-            "comments": 11,
+            "insight": "HN 热议：285 分 · 107 评论",
+            "sentiment": "positive",
+            "comments": 107,
             "url": "https://news.ycombinator.com/item?id=50649864",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Multiagent coding is the future",
-            "insight": "HN 热议：19 分 · 7 评论",
-            "sentiment": "neutral",
-            "comments": 7,
-            "url": "https://www.kalzumeus.com/2026/11/25/multiagent-coding-is-the-future/",
+            "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
+            "insight": "HN 热议：393 分 · 112 评论",
+            "sentiment": "positive",
+            "comments": 112,
+            "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-11-26T01:13:29Z",
+    "updated": "2026-11-26T11:37:13Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

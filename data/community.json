@@ -1,49 +1,49 @@
 {
-  "updated": "2026-11-26T01:13:29Z",
+  "updated": "2026-11-26T11:37:13Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "Much shorter version of GRH Lean verification from Anthropic",
-      "insight": "HN 热议：246 分 · 112 评论",
-      "sentiment": "positive",
-      "comments": 112,
-      "url": "https://github.com/lsernau/grh-lean",
+      "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+      "insight": "HN 热议：35 分 · 24 评论",
+      "sentiment": "neutral",
+      "comments": 24,
+      "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
       "id": 1
     },
     {
       "source": "HackerNews",
       "title": "The New York Times warns photographers not to update Photoshop over AI features",
-      "insight": "HN 热议：184 分 · 118 评论",
-      "sentiment": "neutral",
-      "comments": 118,
+      "insight": "HN 热议：412 分 · 347 评论",
+      "sentiment": "positive",
+      "comments": 347,
       "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
-      "insight": "HN 热议：233 分 · 71 评论",
+      "title": "Much shorter version of GRH Lean verification from Anthropic",
+      "insight": "HN 热议：468 分 · 254 评论",
       "sentiment": "positive",
-      "comments": 71,
-      "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
+      "comments": 254,
+      "url": "https://github.com/lsernau/grh-lean",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "Tell HN: Lots of Ask HNs again",
-      "insight": "HN 热议：25 分 · 11 评论",
-      "sentiment": "neutral",
-      "comments": 11,
+      "insight": "HN 热议：285 分 · 107 评论",
+      "sentiment": "positive",
+      "comments": 107,
       "url": "https://news.ycombinator.com/item?id=50649864",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Multiagent coding is the future",
-      "insight": "HN 热议：19 分 · 7 评论",
-      "sentiment": "neutral",
-      "comments": 7,
-      "url": "https://www.kalzumeus.com/2026/11/25/multiagent-coding-is-the-future/",
+      "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
+      "insight": "HN 热议：393 分 · 112 评论",
+      "sentiment": "positive",
+      "comments": 112,
+      "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
       "id": 5
     }
   ]
