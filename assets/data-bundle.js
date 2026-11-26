@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-11-25T16:18:19Z",
+    "updated": "2026-11-26T01:13:29Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-11-25T16:18:19Z",
+    "updated": "2026-11-26T01:13:29Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-11-25T16:18:19Z",
+    "updated": "2026-11-26T01:13:29Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 188183,
-            "stars_today": 188183,
+            "stars": 188198,
+            "stars_today": 188198,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "MDX",
-            "stars": 178498,
-            "stars_today": 178498,
+            "stars": 178531,
+            "stars_today": 178531,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 119702,
-            "stars_today": 119702,
+            "stars": 119778,
+            "stars_today": 119778,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 109037,
-            "stars_today": 109037,
+            "stars": 109058,
+            "stars_today": 109058,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 94318,
-            "stars_today": 94318,
+            "stars": 94343,
+            "stars_today": 94343,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 77539,
-            "stars_today": 77539,
+            "stars": 77602,
+            "stars_today": 77602,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-11-25T16:18:19Z",
+    "updated": "2026-11-26T01:13:29Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-11-25T16:18:19Z",
+    "updated": "2026-11-26T01:13:29Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-11-25T16:18:19Z",
+    "updated": "2026-11-26T01:13:29Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "The short age of dragon riders",
-            "insight": "HN 热议：194 分 · 115 评论",
-            "sentiment": "neutral",
-            "comments": 115,
-            "url": "https://atilloy.com/2026/11/16/the-short-age-of-dragon-riders/",
+            "title": "Much shorter version of GRH Lean verification from Anthropic",
+            "insight": "HN 热议：246 分 · 112 评论",
+            "sentiment": "positive",
+            "comments": 112,
+            "url": "https://github.com/lsernau/grh-lean",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Porting Rockbox to an Undocumented $9 Aliexpress 'YP3' MP3 Player with LLMs",
-            "insight": "HN 热议：21 分 · 3 评论",
+            "title": "The New York Times warns photographers not to update Photoshop over AI features",
+            "insight": "HN 热议：184 分 · 118 评论",
             "sentiment": "neutral",
-            "comments": 3,
-            "url": "https://jayd.ml/2026/11/14/rockbox-on-yp3.html",
+            "comments": 118,
+            "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
-            "insight": "HN 热议：261 分 · 55 评论",
+            "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
+            "insight": "HN 热议：233 分 · 71 评论",
             "sentiment": "positive",
-            "comments": 55,
-            "url": "https://gpu-demo-gallery.pages.dev/",
+            "comments": 71,
+            "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Getting old Java phones online again",
-            "insight": "HN 热议：128 分 · 58 评论",
+            "title": "Tell HN: Lots of Ask HNs again",
+            "insight": "HN 热议：25 分 · 11 评论",
             "sentiment": "neutral",
-            "comments": 58,
-            "url": "https://antcating.github.io/2026/11/23/getting-old-java-phones-online-again.html",
+            "comments": 11,
+            "url": "https://news.ycombinator.com/item?id=50649864",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "Ternary Bonsai 2.5 27B",
-            "insight": "HN 热议：509 分 · 158 评论",
-            "sentiment": "positive",
-            "comments": 158,
-            "url": "https://prismml.com/news/bonsai-2-5-27b",
+            "title": "Multiagent coding is the future",
+            "insight": "HN 热议：19 分 · 7 评论",
+            "sentiment": "neutral",
+            "comments": 7,
+            "url": "https://www.kalzumeus.com/2026/11/25/multiagent-coding-is-the-future/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-11-25T16:18:19Z",
+    "updated": "2026-11-26T01:13:29Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",

@@ -1,49 +1,49 @@
 {
-  "updated": "2026-11-25T16:18:19Z",
+  "updated": "2026-11-26T01:13:29Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "The short age of dragon riders",
-      "insight": "HN 热议：194 分 · 115 评论",
-      "sentiment": "neutral",
-      "comments": 115,
-      "url": "https://atilloy.com/2026/11/16/the-short-age-of-dragon-riders/",
+      "title": "Much shorter version of GRH Lean verification from Anthropic",
+      "insight": "HN 热议：246 分 · 112 评论",
+      "sentiment": "positive",
+      "comments": 112,
+      "url": "https://github.com/lsernau/grh-lean",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Porting Rockbox to an Undocumented $9 Aliexpress 'YP3' MP3 Player with LLMs",
-      "insight": "HN 热议：21 分 · 3 评论",
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "insight": "HN 热议：184 分 · 118 评论",
       "sentiment": "neutral",
-      "comments": 3,
-      "url": "https://jayd.ml/2026/11/14/rockbox-on-yp3.html",
+      "comments": 118,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
-      "insight": "HN 热议：261 分 · 55 评论",
+      "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
+      "insight": "HN 热议：233 分 · 71 评论",
       "sentiment": "positive",
-      "comments": 55,
-      "url": "https://gpu-demo-gallery.pages.dev/",
+      "comments": 71,
+      "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Getting old Java phones online again",
-      "insight": "HN 热议：128 分 · 58 评论",
+      "title": "Tell HN: Lots of Ask HNs again",
+      "insight": "HN 热议：25 分 · 11 评论",
       "sentiment": "neutral",
-      "comments": 58,
-      "url": "https://antcating.github.io/2026/11/23/getting-old-java-phones-online-again.html",
+      "comments": 11,
+      "url": "https://news.ycombinator.com/item?id=50649864",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Ternary Bonsai 2.5 27B",
-      "insight": "HN 热议：509 分 · 158 评论",
-      "sentiment": "positive",
-      "comments": 158,
-      "url": "https://prismml.com/news/bonsai-2-5-27b",
+      "title": "Multiagent coding is the future",
+      "insight": "HN 热议：19 分 · 7 评论",
+      "sentiment": "neutral",
+      "comments": 7,
+      "url": "https://www.kalzumeus.com/2026/11/25/multiagent-coding-is-the-future/",
       "id": 5
     }
   ]
