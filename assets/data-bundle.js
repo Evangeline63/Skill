@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-11-26T11:37:13Z",
+    "updated": "2026-11-26T20:37:57Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-11-26T11:37:13Z",
+    "updated": "2026-11-26T20:37:57Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -325,7 +325,7 @@ window.__DATA__ = {
     ]
 },
   "products": {
-    "updated": "2026-11-26T11:37:13Z",
+    "updated": "2026-11-26T20:37:57Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-11-26T11:37:13Z",
+    "updated": "2026-11-26T20:37:57Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-11-26T11:37:13Z",
+    "updated": "2026-11-26T20:37:57Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-            "insight": "HN 热议：35 分 · 24 评论",
+            "title": "AMD Specific Patches for Llama.cpp",
+            "insight": "HN 热议：172 分 · 46 评论",
             "sentiment": "neutral",
-            "comments": 24,
-            "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+            "comments": 46,
+            "url": "https://devnull.land/amd-specific-llama-cpp",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "The New York Times warns photographers not to update Photoshop over AI features",
-            "insight": "HN 热议：412 分 · 347 评论",
-            "sentiment": "positive",
-            "comments": 347,
-            "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+            "title": "OpenAI may be in cost control mode",
+            "insight": "HN 热议：71 分 · 49 评论",
+            "sentiment": "neutral",
+            "comments": 49,
+            "url": "https://micjm.com/blog/openai-is-in-cost-control-mode/",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Much shorter version of GRH Lean verification from Anthropic",
-            "insight": "HN 热议：468 分 · 254 评论",
+            "title": "The New York Times warns photographers not to update Photoshop over AI features",
+            "insight": "HN 热议：628 分 · 496 评论",
             "sentiment": "positive",
-            "comments": 254,
-            "url": "https://github.com/lsernau/grh-lean",
+            "comments": 496,
+            "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
             "id": 3
         },
         {
             "source": "HackerNews",
-            "title": "Tell HN: Lots of Ask HNs again",
-            "insight": "HN 热议：285 分 · 107 评论",
-            "sentiment": "positive",
-            "comments": 107,
-            "url": "https://news.ycombinator.com/item?id=50649864",
+            "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+            "insight": "HN 热议：131 分 · 147 评论",
+            "sentiment": "neutral",
+            "comments": 147,
+            "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
-            "insight": "HN 热议：393 分 · 112 评论",
+            "title": "Much shorter version of GRH Lean verification from Anthropic",
+            "insight": "HN 热议：533 分 · 338 评论",
             "sentiment": "positive",
-            "comments": 112,
-            "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
+            "comments": 338,
+            "url": "https://github.com/lsernau/grh-lean",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-11-26T11:37:13Z",
+    "updated": "2026-11-26T20:37:57Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
