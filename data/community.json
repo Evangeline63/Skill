@@ -1,49 +1,49 @@
 {
-  "updated": "2026-11-26T20:37:57Z",
+  "updated": "2026-11-27T03:19:56Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "AMD Specific Patches for Llama.cpp",
-      "insight": "HN 热议：172 分 · 46 评论",
-      "sentiment": "neutral",
-      "comments": 46,
-      "url": "https://devnull.land/amd-specific-llama-cpp",
+      "title": "AI made self-hosting fun again",
+      "insight": "HN 热议：382 分 · 211 评论",
+      "sentiment": "positive",
+      "comments": 211,
+      "url": "https://janlukas.blog/posts/ai-self-hosting",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "OpenAI may be in cost control mode",
-      "insight": "HN 热议：71 分 · 49 评论",
-      "sentiment": "neutral",
-      "comments": 49,
-      "url": "https://micjm.com/blog/openai-is-in-cost-control-mode/",
+      "title": "AMD-specific fork of llama.cpp",
+      "insight": "HN 热议：298 分 · 73 评论",
+      "sentiment": "positive",
+      "comments": 73,
+      "url": "https://devnull.land/amd-specific-llama-cpp",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "The New York Times warns photographers not to update Photoshop over AI features",
-      "insight": "HN 热议：628 分 · 496 评论",
-      "sentiment": "positive",
-      "comments": 496,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "title": "An introduction to uncertainty in machine learning",
+      "insight": "HN 热议：19 分 · 0 评论",
+      "sentiment": "neutral",
+      "comments": 0,
+      "url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty/",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-      "insight": "HN 热议：131 分 · 147 评论",
-      "sentiment": "neutral",
-      "comments": 147,
+      "insight": "HN 热议：263 分 · 221 评论",
+      "sentiment": "positive",
+      "comments": 221,
       "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "Much shorter version of GRH Lean verification from Anthropic",
-      "insight": "HN 热议：533 分 · 338 评论",
-      "sentiment": "positive",
-      "comments": 338,
-      "url": "https://github.com/lsernau/grh-lean",
+      "title": "AI agents now control part of DeepMind's compute for Gemini experiments",
+      "insight": "HN 热议：36 分 · 15 评论",
+      "sentiment": "neutral",
+      "comments": 15,
+      "url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
       "id": 5
     }
   ]
