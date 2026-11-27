@@ -1,49 +1,49 @@
 {
-  "updated": "2026-11-27T03:19:56Z",
+  "updated": "2026-11-27T15:42:34Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "AI made self-hosting fun again",
-      "insight": "HN 热议：382 分 · 211 评论",
+      "title": "The group chat where your AI talks behind your back",
+      "insight": "HN 热议：502 分 · 219 评论",
       "sentiment": "positive",
-      "comments": 211,
-      "url": "https://janlukas.blog/posts/ai-self-hosting",
+      "comments": 219,
+      "url": "https://construct22.com/",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "AMD-specific fork of llama.cpp",
-      "insight": "HN 热议：298 分 · 73 评论",
+      "title": "AI made self-hosting fun again",
+      "insight": "HN 热议：915 分 · 444 评论",
       "sentiment": "positive",
-      "comments": 73,
-      "url": "https://devnull.land/amd-specific-llama-cpp",
+      "comments": 444,
+      "url": "https://janlukas.blog/posts/ai-self-hosting",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "An introduction to uncertainty in machine learning",
-      "insight": "HN 热议：19 分 · 0 评论",
+      "title": "US Air Force's cloud computing platform hacked",
+      "insight": "HN 热议：121 分 · 63 评论",
       "sentiment": "neutral",
-      "comments": 0,
-      "url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty/",
+      "comments": 63,
+      "url": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163",
       "id": 3
     },
     {
       "source": "HackerNews",
-      "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-      "insight": "HN 热议：263 分 · 221 评论",
-      "sentiment": "positive",
-      "comments": 221,
-      "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+      "title": "GPT 6.2 Astra Solves a Historical Mystery",
+      "insight": "HN 热议：16 分 · 6 评论",
+      "sentiment": "neutral",
+      "comments": 6,
+      "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "AI agents now control part of DeepMind's compute for Gemini experiments",
-      "insight": "HN 热议：36 分 · 15 评论",
+      "title": "Claude sabotaging ML research tasks?",
+      "insight": "HN 热议：190 分 · 110 评论",
       "sentiment": "neutral",
-      "comments": 15,
-      "url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
+      "comments": 110,
+      "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
       "id": 5
     }
   ]
