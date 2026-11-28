@@ -1,49 +1,49 @@
 {
-  "updated": "2026-11-28T00:45:34Z",
+  "updated": "2026-11-28T10:59:37Z",
   "signals": [
     {
       "source": "HackerNews",
-      "title": "GPT 6.2 Astra Solves a Historical Mystery",
-      "insight": "HN 热议：283 分 · 174 评论",
-      "sentiment": "positive",
-      "comments": 174,
-      "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+      "title": "Loom seamlessly combines weaving, knitting and braiding",
+      "insight": "HN 热议：133 分 · 14 评论",
+      "sentiment": "neutral",
+      "comments": 14,
+      "url": "https://news.cornell.edu/stories/2026/11/loom-seamlessly-combines-weaving-knitting-and-braiding",
       "id": 1
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: DragDropMath – Learn math by feel",
-      "insight": "HN 热议：90 分 · 26 评论",
-      "sentiment": "neutral",
-      "comments": 26,
-      "url": "https://dragdropmath.com/",
+      "title": "GPT 6.2 Astra Solves a Historical Mystery",
+      "insight": "HN 热议：453 分 · 285 评论",
+      "sentiment": "positive",
+      "comments": 285,
+      "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
       "id": 2
     },
     {
       "source": "HackerNews",
-      "title": "Prospero: Bloat-free, native AI coding harness with ImGui",
-      "insight": "HN 热议：27 分 · 5 评论",
+      "title": "Show HN: Fleetlayer – Framework for running many AI agents on multiple machines",
+      "insight": "HN 热议：7 分 · 1 评论",
       "sentiment": "neutral",
-      "comments": 5,
-      "url": "https://github.com/skeeto/prospero",
+      "comments": 1,
+      "url": "https://fleetlayer.ai/",
       "id": 3
     },
     {
       "source": "HackerNews",
       "title": "Michael Nielsen took down his book on neural nets",
-      "insight": "HN 热议：362 分 · 240 评论",
+      "insight": "HN 热议：547 分 · 341 评论",
       "sentiment": "positive",
-      "comments": 240,
+      "comments": 341,
       "url": "https://neuralnetworksanddeeplearning.com/",
       "id": 4
     },
     {
       "source": "HackerNews",
-      "title": "SessionGraph: Visualize all your coding agent sessions in one interactive graph",
-      "insight": "HN 热议：20 分 · 9 评论",
+      "title": "Show HN: DragDropMath – Learn math by feel",
+      "insight": "HN 热议：143 分 · 39 评论",
       "sentiment": "neutral",
-      "comments": 9,
-      "url": "https://sessiongraph.ai/",
+      "comments": 39,
+      "url": "https://dragdropmath.com/",
       "id": 5
     }
   ]

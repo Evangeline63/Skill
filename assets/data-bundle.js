@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "signals": {
-    "updated": "2026-11-28T00:45:34Z",
+    "updated": "2026-11-28T10:59:37Z",
     "signals": [
         {
             "id": 1,
@@ -135,7 +135,7 @@ window.__DATA__ = {
     ]
 },
   "trends": {
-    "updated": "2026-11-28T00:45:34Z",
+    "updated": "2026-11-28T10:59:37Z",
     "tracks": [
         {
             "id": "ai_agent",
@@ -266,15 +266,15 @@ window.__DATA__ = {
     ]
 },
   "github_trending": {
-    "updated": "2026-11-28T00:45:34Z",
+    "updated": "2026-11-28T10:59:37Z",
     "repos": [
         {
             "rank": 1,
             "name": "Significant-Gravitas/AutoGPT",
             "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
             "language": "Python",
-            "stars": 188214,
-            "stars_today": 188214,
+            "stars": 188218,
+            "stars_today": 188218,
             "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
@@ -282,8 +282,8 @@ window.__DATA__ = {
             "name": "f/prompts.chat",
             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos",
             "language": "MDX",
-            "stars": 178701,
-            "stars_today": 178701,
+            "stars": 178744,
+            "stars_today": 178744,
             "url": "https://github.com/f/prompts.chat"
         },
         {
@@ -291,8 +291,8 @@ window.__DATA__ = {
             "name": "thedotmack/claude-mem",
             "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
             "language": "TypeScript",
-            "stars": 120216,
-            "stars_today": 120216,
+            "stars": 120299,
+            "stars_today": 120299,
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
@@ -300,8 +300,8 @@ window.__DATA__ = {
             "name": "rasbt/LLMs-from-scratch",
             "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
             "language": "Jupyter Notebook",
-            "stars": 109157,
-            "stars_today": 109157,
+            "stars": 109175,
+            "stars_today": 109175,
             "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
@@ -309,8 +309,8 @@ window.__DATA__ = {
             "name": "OpenHands/OpenHands",
             "description": "🙌 OpenHands: AI-Driven Development",
             "language": "TypeScript",
-            "stars": 94468,
-            "stars_today": 94468,
+            "stars": 94486,
+            "stars_today": 94486,
             "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -318,14 +318,14 @@ window.__DATA__ = {
             "name": "usestrix/strix",
             "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
             "language": "Python",
-            "stars": 78022,
-            "stars_today": 78022,
+            "stars": 78081,
+            "stars_today": 78081,
             "url": "https://github.com/usestrix/strix"
         }
     ]
 },
   "products": {
-    "updated": "2026-11-28T00:45:34Z",
+    "updated": "2026-11-28T10:59:37Z",
     "products": [
         {
             "id": 1,
@@ -426,7 +426,7 @@ window.__DATA__ = {
     ]
 },
   "funding": {
-    "updated": "2026-11-28T00:45:34Z",
+    "updated": "2026-11-28T10:59:37Z",
     "funding_rounds": [
         {
             "id": 1,
@@ -511,57 +511,57 @@ window.__DATA__ = {
     ]
 },
   "community": {
-    "updated": "2026-11-28T00:45:34Z",
+    "updated": "2026-11-28T10:59:37Z",
     "signals": [
         {
             "source": "HackerNews",
-            "title": "GPT 6.2 Astra Solves a Historical Mystery",
-            "insight": "HN 热议：283 分 · 174 评论",
-            "sentiment": "positive",
-            "comments": 174,
-            "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+            "title": "Loom seamlessly combines weaving, knitting and braiding",
+            "insight": "HN 热议：133 分 · 14 评论",
+            "sentiment": "neutral",
+            "comments": 14,
+            "url": "https://news.cornell.edu/stories/2026/11/loom-seamlessly-combines-weaving-knitting-and-braiding",
             "id": 1
         },
         {
             "source": "HackerNews",
-            "title": "Show HN: DragDropMath – Learn math by feel",
-            "insight": "HN 热议：90 分 · 26 评论",
-            "sentiment": "neutral",
-            "comments": 26,
-            "url": "https://dragdropmath.com/",
+            "title": "GPT 6.2 Astra Solves a Historical Mystery",
+            "insight": "HN 热议：453 分 · 285 评论",
+            "sentiment": "positive",
+            "comments": 285,
+            "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
             "id": 2
         },
         {
             "source": "HackerNews",
-            "title": "Prospero: Bloat-free, native AI coding harness with ImGui",
-            "insight": "HN 热议：27 分 · 5 评论",
+            "title": "Show HN: Fleetlayer – Framework for running many AI agents on multiple machines",
+            "insight": "HN 热议：7 分 · 1 评论",
             "sentiment": "neutral",
-            "comments": 5,
-            "url": "https://github.com/skeeto/prospero",
+            "comments": 1,
+            "url": "https://fleetlayer.ai/",
             "id": 3
         },
         {
             "source": "HackerNews",
             "title": "Michael Nielsen took down his book on neural nets",
-            "insight": "HN 热议：362 分 · 240 评论",
+            "insight": "HN 热议：547 分 · 341 评论",
             "sentiment": "positive",
-            "comments": 240,
+            "comments": 341,
             "url": "https://neuralnetworksanddeeplearning.com/",
             "id": 4
         },
         {
             "source": "HackerNews",
-            "title": "SessionGraph: Visualize all your coding agent sessions in one interactive graph",
-            "insight": "HN 热议：20 分 · 9 评论",
+            "title": "Show HN: DragDropMath – Learn math by feel",
+            "insight": "HN 热议：143 分 · 39 评论",
             "sentiment": "neutral",
-            "comments": 9,
-            "url": "https://sessiongraph.ai/",
+            "comments": 39,
+            "url": "https://dragdropmath.com/",
             "id": 5
         }
     ]
 },
   "daily": {
-    "updated": "2026-11-28T00:45:34Z",
+    "updated": "2026-11-28T10:59:37Z",
     "date": "2026-05-01",
     "structural_changes": [
         "AI编程工具完成从'辅助'到'主导'的角色切换：Devin 2.0自主合并PR标志着工程交付闭环形成",
